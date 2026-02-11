@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-11 22:00 CAT)
+## 📅 Latest Updates (2026-02-11 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [DEV 101: Engage, Comment, and Share Your Ideas](https://dev.to/richardpascoe/dev-101-engage-comment-and-share-your-ideas-12n4) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 
-_Last automated update: Wed, 11 Feb 2026 22:59:29 CAT_
+_Last automated update: Wed, 11 Feb 2026 23:02:36 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 11 Feb 2026 22:59:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -287,8 +287,8 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Feb 2026 20:59:29 GMT</b><br/>
-  <sub>Powered by GitHub Actions | Made for developers</sub>
+  <b>Last automated update: Wed, 11 Feb 2026 21:02:37 GMT</b><br/>
+  <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
 ---
