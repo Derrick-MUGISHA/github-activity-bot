@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 import fs from "fs";
-import { formatNews } from "./formatNews.js";
-import { updateReadme } from "./updateReadme.js";
+import { formatNews } from "./formatNews.js";   
+import { updateReadme } from "./updateReadme.js"; 
 
 const SOURCES = {
   devto: "https://dev.to/api/articles?per_page=50",
@@ -48,18 +48,14 @@ async function fetchHackerNews() {
     const hackernews = await fetchHackerNews();
     const combined = [...devto, ...hackernews];
 
-    // Format the news
     const formatted = formatNews(combined);
 
-    // FIX: Ensure 'data' folder exists
     if (!fs.existsSync("data")) {
       fs.mkdirSync("data");
     }
 
-    // Append to the big log
     fs.appendFileSync("data/news_log.md", formatted.fullLog);
 
-    // Update the README with the fresh summary
     updateReadme(formatted.summary);
 
     console.log("News updated successfully.");

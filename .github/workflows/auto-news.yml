@@ -2,8 +2,8 @@ name: Auto News Bot
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Runs every 15 minutes
-  workflow_dispatch:       # Allows manual run from Actions tab
+    - cron: '*/15 * * * *' 
+  workflow_dispatch:      
 
 permissions:
   contents: write
