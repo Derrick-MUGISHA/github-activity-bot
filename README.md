@@ -1,52 +1,300 @@
-# 🚀 DevTech Auto News
+# 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-11-orange)
 
-**DevTech Auto News** is an automated bot that scrapes the latest trending topics in **Artificial Intelligence**, **JavaScript**, and **Software Development** from [Dev.to](https://dev.to) and [HackerNews](https://news.ycombinator.com).
+**DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
-The bot runs automatically on a schedule using **GitHub Actions**, keeping this README updated with the freshest links.
+- 📰 [Dev.to](https://dev.to) - Developer community articles
+- 🔥 [HackerNews](https://news.ycombinator.com) - Tech news discussions  
+- 💻 [GitHub Trending](https://github.com/trending) - Trending repositories
+- 🎯 Curated Interview Questions from multiple languages
 
-## 🛠️ How It Works
-1. **Fetches Data**: Pulls articles via public APIs from Dev.to and HackerNews.
-2. **Filters Content**: Selects only relevant topics (AI, JS, Tools).
-3. **Updates README**: Regenerates this file with the latest news summary.
-4. **Logs History**: Appends full details to `data/news_log.md`.
+## ✨ Features
 
-## 📦 Installation & Usage
-If you want to run this locally:
-```bash
-# 1. Clone the repository
-git clone https://github.com/Derrick-MUGISHA/github-activity-bot.git
+✅ **Multi-Source Aggregation**: Combines articles from Dev.to, HackerNews, and GitHub  
+✅ **Smart Categorization**: Automatically categorizes content into 10+ topics  
+✅ **Image Support**: Displays cover images for visual appeal  
+✅ **Pagination**: Fetches 50+ articles per update with deduplication  
+✅ **Language Statistics**: Tracks programming language trends with charts  
+✅ **Interview Questions**: Daily coding interview questions in multiple languages  
+✅ **GitHub Actions**: Runs every 15 minutes automatically  
 
-# 2. Install dependencies
-npm install
+---
 
-# 3. Run the bot manually
-npm start
+## 📊 Statistics Dashboard
+
+### 📊 Articles by Category
+
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+
+**WebDev**: 🟦🟦🟦 7 (6.7%)
+
+**Cloud**: 🟦🟦 5 (4.8%)
+
+**Security**: 🟦🟦 5 (4.8%)
+
+**DevOps**: 🟦🟦 4 (3.8%)
+
+**Mobile**: 🟦 2 (1.9%)
+
+**Database**:  1 (1.0%)
+
+
+
+### 📡 Sources
+
+- **Dev.to**: 60 articles
+- **HackerNews**: 30 articles
+- **GitHub**: 15 articles
+
+
+### 💻 Programming Language Trends
+
+```
+JavaScript      ██████████████████████████████ 27.4 (27.4%)
+Java            ███████████████████████ 21.4 (21.4%)
+Go              ███████████████████████ 21.4 (21.4%)
+Python          ███████████████████████ 21.4 (21.4%)
+Rust            ████ 3.6 (3.6%)
+PHP             ███ 2.4 (2.4%)
+Swift           ███ 2.4 (2.4%)
+
+```
+
+```mermaid
+pie title Programming Languages Distribution
+    "JavaScript" : 23
+    "Java" : 18
+    "Go" : 18
+    "Python" : 18
+    "Rust" : 3
+    "PHP" : 2
+    "Swift" : 2
 ```
 
 
-## 📰 Latest Tech Headlines
 
-# 🚀 DevTech Auto News
+### 🏷️ Trending Tags
 
-## Latest Updates (2026-02-11 22:00 CAT)
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-13-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![learning](https://img.shields.io/badge/learning-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![community](https://img.shields.io/badge/community-5-blue) 
 
-- [The Push and Pull of AI](https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde)
-- [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog)
-- [Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)](https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2)
-- [Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI](https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh)
-- [Advancing AI benchmarking with Game Arena](https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda)
-- [Airfoil](https://ciechanow.ski/airfoil/)
-- [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
-- [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
-- [Gemini AI](https://deepmind.google/technologies/gemini/)
-- [Bypassing airport security via SQL injection](https://ian.sh/tsa)
-
-_Last automated update: Wed, 11 Feb 2026 22:20:51 CAT_
 
 
 ---
+
+## 🛠️ How It Works
+
+1. **Multi-Source Fetch**: Pulls from Dev.to (2 pages), HackerNews (3 topics), GitHub (3 languages)
+2. **Smart Filter**: Uses keyword matching across 10+ categories  
+3. **Deduplication**: Removes duplicate URLs  
+4. **Image Extraction**: Captures cover images when available  
+5. **Statistics**: Generates language trends and category breakdowns  
+6. **Update Files**: Regenerates README and appends to comprehensive log  
+
+---
+
+## 📦 Installation & Usage
+
+```bash
+# Clone the repository
+git clone https://github.com/Derrick-MUGISHA/github-activity-bot.git
+cd github-activity-bot
+
+# Install dependencies  
+npm install
+
+# Run manually
+npm start
+
+# Test mode
+npm run test
+```
+
+---
+
+
+
+# 🚀 DevTech Auto News - Enhanced Edition
+
+## 📅 Latest Updates (2026-02-11 22:00 CAT)
+
+
+### 🖼️ Featured Articles
+
+<table>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtnb5y3g76gi5xju04gr.png" width="200" alt="How dev.to became my comfortable corner of the internet (and my New Year resolution)" />
+      <br/>
+      <b>How dev.to became my comfortable corner of the int...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png" width="200" alt="How Seriously Should We Take State of JS and Other Developer Surveys?" />
+      <br/>
+      <b>How Seriously Should We Take State of JS and Other...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxwpvpw1qqdjvxu7dv7vb.png" width="200" alt="Stack Overflow: Time for a Change?" />
+      <br/>
+      <b>Stack Overflow: Time for a Change?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png" width="200" alt="ASCII Whisper: Local P2P Chat with Sound FX and Battleship" />
+      <br/>
+      <b>ASCII Whisper: Local P2P Chat with Sound FX and Ba...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjrmbviay3li48kpg4ai.png" width="200" alt="One Month at a Startup: What Stayed With Me After I Left" />
+      <br/>
+      <b>One Month at a Startup: What Stayed With Me After ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fskz1tl4rzcbhe2z3ot2i.jpg" width="200" alt="Re-creating a Pantone Color Deck in CSS" />
+      <br/>
+      <b>Re-creating a Pantone Color Deck in CSS</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+</table>
+
+
+
+### 📰 Top Headlines
+
+- [How dev.to became my comfortable corner of the internet (and my New Year resolution)](https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8) _[Dev.to]_
+- [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce) _[Dev.to]_
+- [Stack Overflow: Time for a Change?](https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p) _[Dev.to]_
+- [ASCII Whisper: Local P2P Chat with Sound FX and Battleship](https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7) _[Dev.to]_
+- [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
+- [Re-creating a Pantone Color Deck in CSS](https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc) _[Dev.to]_
+- [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl) _[Dev.to]_
+- [The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith](https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c) _[Dev.to]_
+- [Content-Addressed Memoization for Durable Execution](https://dev.to/shobande_femi/content-addressed-memoization-for-durable-execution-4h2h) _[Dev.to]_
+- [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
+- [The Push and Pull of AI](https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde) _[Dev.to]_
+- [How I Used GitHub Copilot CLI to Make Git 10x Less Scary](https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf) _[Dev.to]_
+- [I Built a Self-Hosted Google Trends Alternative with DuckDB](https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57) _[Dev.to]_
+- [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog) _[Dev.to]_
+- [Re-thinking Laravel's Observer Pattern With Column Watchers](https://dev.to/charlie_waddell01/re-thinking-laravels-observer-pattern-56j9) _[Dev.to]_
+- [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co) _[Dev.to]_
+- [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
+- [DEV 101: Engage, Comment, and Share Your Ideas](https://dev.to/richardpascoe/dev-101-engage-comment-and-share-your-ideas-12n4) _[Dev.to]_
+- [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
+
+_Last automated update: Wed, 11 Feb 2026 22:59:05 CAT_
+
+
+
+## 💡 Daily Interview Questions
+
+_Sharpen your skills with these curated questions_
+
+### 1. React: What is the Virtual DOM and how does React use it?
+
+**Difficulty**: Easy | **Topics**: rendering, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Diffing algorithm, reconciliation, efficiency
+
+</details>
+
+### 2. SystemDesign: Design Twitter's timeline feature
+
+**Difficulty**: Hard | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Fan-out, caching, ranking, real-time updates
+
+</details>
+
+### 3. NodeJS: Implement rate limiting for an API
+
+**Difficulty**: Hard | **Topics**: security, middleware
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, Redis
+
+</details>
+
+
+
+---
+
+## 📚 Resources
+
+- [Full News Archive](./data/news_log.md) - Complete history of all fetched articles
+- [Statistics JSON](./data/stats.json) - Raw statistics data
+- [Categorized Data](./data/categorized.json) - Articles organized by category
+- [Interview Questions](./data/interview_questions.json) - Complete question bank
+
+---
+
+## 🤝 Contributing
+
+Want to add more sources, categories, or interview questions? Feel free to:
+
+1. Fork this repository
+2. Add your improvements
+3. Submit a pull request
+
+---
+
+## 📄 License
+
+MIT License - Feel free to use and modify!
+
+---
+
 <p align="center">
-  _Last automated update: Wed, 11 Feb 2026 20:20:51 GMT • Powered by GitHub Actions_
+  <b>Last automated update: Wed, 11 Feb 2026 20:59:05 GMT</b><br/>
+  <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
+
+---
+
+## 🔗 Quick Links
+
+- [View Workflow](https://github.com/Derrick-MUGISHA/github-activity-bot/actions)
+- [Report Issue](https://github.com/Derrick-MUGISHA/github-activity-bot/issues)
+- [Suggest Feature](https://github.com/Derrick-MUGISHA/github-activity-bot/issues/new)

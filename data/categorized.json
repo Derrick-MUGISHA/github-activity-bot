@@ -1,0 +1,1967 @@
+{
+  "AI": [
+    {
+      "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
+      "url": "https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c",
+      "published_at": "2026-02-11T04:19:39Z",
+      "description": "I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...",
+      "tags": [
+        "go",
+        "rust",
+        "cloud",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficce9rgl5kalbmt0vu2k.png",
+      "source": "Dev.to",
+      "user": "Art light"
+    },
+    {
+      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
+      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
+      "published_at": "2026-02-11T02:00:24Z",
+      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
+      "tags": [
+        "ai",
+        "opensourcesecurity",
+        "securitylabs",
+        "supplychainsecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
+      "source": "Dev.to",
+      "user": "SnykSec"
+    },
+    {
+      "title": "The Push and Pull of AI",
+      "url": "https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde",
+      "published_at": "2026-02-10T19:58:11Z",
+      "description": "As a software engineer, I would be lying if I said AI hasn’t affected my job. Over the past year,...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfdjaw6hc8slstikok6u.jpg",
+      "source": "Dev.to",
+      "user": "Martin Cartledge"
+    },
+    {
+      "title": "How I Used GitHub Copilot CLI to Make Git 10x Less Scary",
+      "url": "https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf",
+      "published_at": "2026-02-10T16:50:51Z",
+      "description": "What I Built   I built Hermes 🪽 — an AI-powered Git CLI that turns natural language into...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "cli",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmaumu88n050gqbmzh885.png",
+      "source": "Dev.to",
+      "user": "Shingirayi Innocent Mandebvu"
+    },
+    {
+      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
+      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
+      "published_at": "2026-02-11T14:49:26Z",
+      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
+      "tags": [
+        "javascript",
+        "security",
+        "ai",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
+      "source": "Dev.to",
+      "user": "Gianluca La Manna"
+    },
+    {
+      "title": "Solving Claude's Amnesia: Building Persistent Memory with MCP",
+      "url": "https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co",
+      "published_at": "2026-02-11T12:14:50Z",
+      "description": "As a solo developer working on his next idea, Claude has been my pair programming partner for months...",
+      "tags": [
+        "ai",
+        "productivity",
+        "mcp",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpis0l6fs4am4k7qb3et.png",
+      "source": "Dev.to",
+      "user": "Mohamed ali May"
+    },
+    {
+      "title": "Using Laravel Boost With DDEV",
+      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
+      "published_at": "2026-02-10T00:00:00Z",
+      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
+      "tags": [
+        "ai",
+        "docker",
+        "laravel",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
+      "source": "Dev.to",
+      "user": "Russell Jones"
+    },
+    {
+      "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
+      "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
+      "published_at": "2026-02-09T11:07:59Z",
+      "description": "Three weeks ago, I wrote about knowledge collapse - how our best technical insights are dying in...",
+      "tags": [
+        "ai",
+        "opensource",
+        "activitypub",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxuuj8wc8c32xy26iq7hi.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Getting most of your local LLM setup",
+      "url": "https://dev.to/av-codes/getting-most-of-your-local-llm-setup-4pmg",
+      "published_at": "2026-02-09T12:15:15Z",
+      "description": "Hi everyone, been active LLM user since before LLama 2 weights, running my first inference of Flan-T5...",
+      "tags": [
+        "ai",
+        "homelab",
+        "selfhosting",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8zzr3eqyptvuml75fy4z.png",
+      "source": "Dev.to",
+      "user": "AV"
+    },
+    {
+      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
+      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
+      "published_at": "2026-02-08T07:00:00Z",
+      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
+      "tags": [
+        "aiassisteddevelopmen",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
+      "source": "Dev.to",
+      "user": "Stephan Miller"
+    },
+    {
+      "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
+      "url": "https://dev.to/baliachbryan/patching-the-gaps-a-production-ready-guide-to-googles-adk-with-typescript-45fe",
+      "published_at": "2026-02-10T11:00:29Z",
+      "description": "Building production-grade AI agents is tricky. In a landscape shifting rapidly, betting your entire...",
+      "tags": [
+        "ai",
+        "googleadk",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby87bc5qsac8v7ikwgvi.png",
+      "source": "Dev.to",
+      "user": "Brian Baliach"
+    },
+    {
+      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
+      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
+      "published_at": "2026-02-10T15:04:38Z",
+      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
+      "tags": [
+        "voice",
+        "ai",
+        "python",
+        "smallestai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
+      "source": "Dev.to",
+      "user": "Abhishek Mishra"
+    },
+    {
+      "title": "Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI",
+      "url": "https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh",
+      "published_at": "2026-02-10T13:41:01Z",
+      "description": "I recently bought a starter kit for Arduino to learn robotics. I was curious to learn some basic...",
+      "tags": [
+        "discuss",
+        "ai",
+        "robotics",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5qw0h0jpoda31qasiwcq.png",
+      "source": "Dev.to",
+      "user": "Julien Avezou"
+    },
+    {
+      "title": "Software engineering isn't dead",
+      "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
+      "published_at": "2026-02-06T18:41:30Z",
+      "description": "Doom   People love defaulting to doom and gloom. I get it. I've been there, it used to be my...",
+      "tags": [
+        "ai",
+        "thoughts",
+        "softwareengineering",
+        "future"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
+      "source": "Dev.to",
+      "user": "Dan Walsh"
+    },
+    {
+      "title": "Advancing AI benchmarking with Game Arena",
+      "url": "https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda",
+      "published_at": "2026-02-10T18:25:38Z",
+      "description": "Chess is a game of perfect information. The real world is not.  Last year, Google DeepMind partnered...",
+      "tags": [
+        "ai",
+        "gemini",
+        "kaggle",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F85vprd91e90o1etct7o5.webp",
+      "source": "Dev.to",
+      "user": "Oran Kelly"
+    },
+    {
+      "title": "How to Run OpenClaw with DigitalOcean",
+      "url": "https://dev.to/digitalocean/how-to-run-openclaw-with-digitalocean-3mpb",
+      "published_at": "2026-02-10T18:45:07Z",
+      "description": "OpenClaw (formerly known as Moltbot and Clawdbot) is an open-source, self-hosted personal AI...",
+      "tags": [
+        "ai",
+        "openclaw",
+        "learning",
+        "digitalocean"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fazfnk8v1c78dkprp0mxp.png",
+      "source": "Dev.to",
+      "user": "Jess Lulka"
+    },
+    {
+      "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
+      "url": "https://dev.to/bengreenberg/openclaw-is-incredible-setting-it-up-shouldnt-require-a-cs-degree-36nk",
+      "published_at": "2026-02-09T17:29:54Z",
+      "description": "If you've heard of OpenClaw, you know it's one of the most capable personal AI assistants available....",
+      "tags": [
+        "ai",
+        "productivity",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftapnclaw.com%2Fog-image.png",
+      "source": "Dev.to",
+      "user": "Ben Greenberg"
+    },
+    {
+      "title": "I Ditched My AI Agent Dashboard for Obsidian",
+      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
+      "published_at": "2026-02-08T15:46:00Z",
+      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
+      "tags": [
+        "openclaw",
+        "obsidian",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
+      "source": "Dev.to",
+      "user": "David Dias"
+    },
+    {
+      "title": "Native CSS Utilities",
+      "url": "https://dev.to/fylgja/native-css-utilities-297j",
+      "published_at": "2026-02-05T10:04:30Z",
+      "description": "With every passing year, CSS becomes more powerful. The last few have brought amazing additions that...",
+      "tags": [
+        "fylgjacss",
+        "tailwindcss",
+        "css",
+        "cssprops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcqxmdl3ilxwk0meuy4qp.webp",
+      "source": "Dev.to",
+      "user": "Sean van Zuidam"
+    },
+    {
+      "title": "What is a CaaS Platform and why we built one",
+      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
+      "published_at": "2026-02-09T03:16:00Z",
+      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
+      "tags": [
+        "kubernetes",
+        "platformengineering",
+        "devops",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
+      "source": "Dev.to",
+      "user": "Jawad Elhaouchi"
+    },
+    {
+      "title": "Why OpenClaw Breaks at Scale: A Technical Perspective",
+      "url": "https://dev.to/alifar/why-openclaw-breaks-at-scale-a-technical-perspective-6o5",
+      "published_at": "2026-02-07T20:39:20Z",
+      "description": "OpenClaw has gained noticeable traction in developer and infrastructure-focused communities. OpenClaw...",
+      "tags": [
+        "ai",
+        "architecture",
+        "opensource",
+        "systemdesign"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7na8is1f0psgyowklwy.jpg",
+      "source": "Dev.to",
+      "user": "Ali Farhat"
+    },
+    {
+      "title": "Tailwind Alchemist: find all tailwind colors in your codebase",
+      "url": "https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o",
+      "published_at": "2026-02-04T15:29:15Z",
+      "description": "When you're using libs like DaisyUI, you don't want to hardcode Tailwind color names in your codebase. I built a tool for this.",
+      "tags": [
+        "tailwindcss",
+        "css",
+        "design",
+        "daisyui"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlhkbns7bimt1lcj751w.webp",
+      "source": "Dev.to",
+      "user": "Yann Rabiller"
+    },
+    {
+      "title": "Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover",
+      "url": "https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l",
+      "published_at": "2026-02-03T16:42:03Z",
+      "description": "Learn how to build a production-ready streaming AI chatbot without managing WebSockets, timeouts, or heavy infra. This Node.js + React example uses async requests, webhooks for enrichment, automatic failover, structured outputs, and local CLI dev magic – perfect for local LLMs or hybrid setups.",
+      "tags": [
+        "ai",
+        "llm",
+        "tutorial",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fobiudf00y4joobgomxzm.png",
+      "source": "Dev.to",
+      "user": "Akarsh Cholapurath"
+    },
+    {
+      "title": "AI isn't taking our jobs — It's taking our illusions",
+      "url": "https://dev.to/igbominadeveloper/ai-isnt-take-our-jobs-its-taking-our-illusions-138j",
+      "published_at": "2026-02-03T17:17:41Z",
+      "description": "There’s a growing sentiment that software engineers shouldn’t tie their identity too closely to their...",
+      "tags": [
+        "ai",
+        "career",
+        "discuss",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3s6fbfunfzyq0b96iern.png",
+      "source": "Dev.to",
+      "user": "Favour Afolayan"
+    },
+    {
+      "title": "The Junior Developer is Extinct (And we are creating a disaster)",
+      "url": "https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2",
+      "published_at": "2026-02-05T13:05:27Z",
+      "description": "I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...",
+      "tags": [
+        "career",
+        "ai",
+        "discuss",
+        "future"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmh6ypab984f2yk13hixb.png",
+      "source": "Dev.to",
+      "user": "NorthernDev"
+    },
+    {
+      "title": "Beyond RAG: Building an AI Companion with \"Deep Memory\" using Knowledge Graphs",
+      "url": "https://dev.to/juandastic/beyond-rag-building-an-ai-companion-with-deep-memory-using-knowledge-graphs-2e6e",
+      "published_at": "2026-02-09T00:07:19Z",
+      "description": "I build AI tools to solve my own problems. A while back, I built NutriAgent to track my calories...",
+      "tags": [
+        "ai",
+        "llm",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9kc543f36vntw365i7x6.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
+    },
+    {
+      "title": "How Fishjam.io Built a Multi-Speaker AI Game using Gemini Live",
+      "url": "https://dev.to/googleai/how-fishjamio-built-a-multi-speaker-ai-game-using-gemini-live-20md",
+      "published_at": "2026-02-09T15:43:54Z",
+      "description": "Picture a lively dinner party: glasses clinking, half-finished sentences, and three people laughing...",
+      "tags": [
+        "voiceai",
+        "webrtc",
+        "ai",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnn3z7x5yyudnn6w65n7z.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "Dear Vibe Coder: Your Code Is the Problem.",
+      "url": "https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc",
+      "published_at": "2026-02-09T17:12:21Z",
+      "description": "Vibe coding looks cool on Twitter, but it’s quietly wrecking codebases, teams, and junior developers. Let’s actually talk about it.",
+      "tags": [
+        "programming",
+        "ai",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExbHprOHdsanh5bHh2NHQ3bGVheG85eHg3emc3eWhzZHEzMG1sdHczayZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FJEDVTonz503kj7Ug4j%2Fgiphy.gif",
+      "source": "Dev.to",
+      "user": "Leon Martin"
+    },
+    {
+      "title": "The 48-Hour Collapse of Moltbook",
+      "url": "https://dev.to/narnaiezzsshaa/the-48-hour-collapse-of-moltbook-4625",
+      "published_at": "2026-02-03T19:33:52Z",
+      "description": "What Happens When You Deploy Agents Without Governance   Moltbook was live for 48 hours. In...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "governance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2mt8ilnwzyazvaew2ic.jpg",
+      "source": "Dev.to",
+      "user": "Narnaiezzsshaa Truong"
+    },
+    {
+      "title": "DigitalOcean on Dev.to: Practical AI Insights for Builders",
+      "url": "https://dev.to/digitalocean/digitalocean-on-devto-practical-ai-insights-for-builders-3g0c",
+      "published_at": "2026-02-02T17:25:23Z",
+      "description": "The gap between “I want to build something with AI” and actually shipping it is still huge—fragmented...",
+      "tags": [
+        "ai",
+        "digitalocean",
+        "machinelearning",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6k4aixj3nmulzpdfjfwr.png",
+      "source": "Dev.to",
+      "user": "Jess Lulka"
+    },
+    {
+      "title": "Airfoil",
+      "url": "https://ciechanow.ski/airfoil/",
+      "published_at": "2024-02-27T16:32:49Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "todsacerdoti"
+    },
+    {
+      "title": "Open source AI is the path forward",
+      "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+      "published_at": "2024-07-23T15:08:41Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "atgctg"
+    },
+    {
+      "title": "My AI skeptic friends are all nuts",
+      "url": "https://fly.io/blog/youre-all-nuts/",
+      "published_at": "2025-06-02T21:09:53Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "tabletcorry"
+    },
+    {
+      "title": "Gemini AI",
+      "url": "https://deepmind.google/technologies/gemini/",
+      "published_at": "2023-12-06T15:03:47Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "dmotz"
+    },
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
+    },
+    {
+      "title": "Air Con: $1697 for an on/off switch",
+      "url": "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/",
+      "published_at": "2024-08-29T01:28:01Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "ranebo"
+    },
+    {
+      "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
+      "url": "https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html",
+      "published_at": "2018-05-08T17:51:44Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "ivank"
+    },
+    {
+      "title": "Paper Airplane Designs",
+      "url": "https://www.foldnfly.com/",
+      "published_at": "2018-10-18T16:34:52Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "wilsonfiifi"
+    },
+    {
+      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
+      "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
+      "published_at": "2025-08-21T12:53:16Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "JustExAWS"
+    },
+    {
+      "title": "The young, inexperienced engineers aiding DOGE",
+      "url": "https://www.wired.com/story/elon-musk-government-young-engineers/",
+      "published_at": "2025-02-02T19:12:13Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "medler"
+    },
+    {
+      "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
+      "url": "https://www.armaansahni.com/game/",
+      "published_at": "2024-12-03T22:08:16Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "veesahni"
+    },
+    {
+      "title": "ComposioHQ/secure-openclaw - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+      "url": "https://github.com/ComposioHQ/secure-openclaw",
+      "published_at": "2026-02-08T07:55:07Z",
+      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
+      "source": "GitHub",
+      "stars": 644,
+      "user": "ComposioHQ"
+    },
+    {
+      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "url": "https://github.com/aeromomo/claw-compactor",
+      "published_at": "2026-02-10T00:27:08Z",
+      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "aeromomo"
+    },
+    {
+      "title": "jingkaihe/matchlock - Matchlock secures AI agent workloads with a Linux-based sandbox.",
+      "url": "https://github.com/jingkaihe/matchlock",
+      "published_at": "2026-02-05T18:22:39Z",
+      "description": "Matchlock secures AI agent workloads with a Linux-based sandbox.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1335938?v=4",
+      "source": "GitHub",
+      "stars": 409,
+      "user": "jingkaihe"
+    },
+    {
+      "title": "praetorian-inc/augustus - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
+      "url": "https://github.com/praetorian-inc/augustus",
+      "published_at": "2026-02-06T17:26:47Z",
+      "description": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
+      "source": "GitHub",
+      "stars": 179,
+      "user": "praetorian-inc"
+    },
+    {
+      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "url": "https://github.com/stellarlinkco/myclaw",
+      "published_at": "2026-02-07T06:17:31Z",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
+      "source": "GitHub",
+      "stars": 150,
+      "user": "stellarlinkco"
+    }
+  ],
+  "JavaScript": [
+    {
+      "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
+      "url": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
+      "published_at": "2026-02-10T10:43:07Z",
+      "description": "There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...",
+      "tags": [
+        "javascript",
+        "node",
+        "frontend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
+      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
+      "published_at": "2026-02-11T14:49:26Z",
+      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
+      "tags": [
+        "javascript",
+        "security",
+        "ai",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
+      "source": "Dev.to",
+      "user": "Gianluca La Manna"
+    },
+    {
+      "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
+      "url": "https://dev.to/baliachbryan/patching-the-gaps-a-production-ready-guide-to-googles-adk-with-typescript-45fe",
+      "published_at": "2026-02-10T11:00:29Z",
+      "description": "Building production-grade AI agents is tricky. In a landscape shifting rapidly, betting your entire...",
+      "tags": [
+        "ai",
+        "googleadk",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby87bc5qsac8v7ikwgvi.png",
+      "source": "Dev.to",
+      "user": "Brian Baliach"
+    },
+    {
+      "title": "I Ditched My AI Agent Dashboard for Obsidian",
+      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
+      "published_at": "2026-02-08T15:46:00Z",
+      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
+      "tags": [
+        "openclaw",
+        "obsidian",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
+      "source": "Dev.to",
+      "user": "David Dias"
+    },
+    {
+      "title": "Declarative rendering of react-query state via switch-query",
+      "url": "https://dev.to/denisinvader/declarative-rendering-of-react-query-state-via-switch-query-46lg",
+      "published_at": "2026-02-09T00:42:00Z",
+      "description": "switch-query is a tiny npm package that simplifies rendering the state of @tanstack/react-query",
+      "tags": [
+        "react",
+        "reactquery"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjagxgiuxa00z49mux5q.png",
+      "source": "Dev.to",
+      "user": "Mikhail Panichev"
+    },
+    {
+      "title": "Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover",
+      "url": "https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l",
+      "published_at": "2026-02-03T16:42:03Z",
+      "description": "Learn how to build a production-ready streaming AI chatbot without managing WebSockets, timeouts, or heavy infra. This Node.js + React example uses async requests, webhooks for enrichment, automatic failover, structured outputs, and local CLI dev magic – perfect for local LLMs or hybrid setups.",
+      "tags": [
+        "ai",
+        "llm",
+        "tutorial",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fobiudf00y4joobgomxzm.png",
+      "source": "Dev.to",
+      "user": "Akarsh Cholapurath"
+    },
+    {
+      "title": "How Fishjam.io Built a Multi-Speaker AI Game using Gemini Live",
+      "url": "https://dev.to/googleai/how-fishjamio-built-a-multi-speaker-ai-game-using-gemini-live-20md",
+      "published_at": "2026-02-09T15:43:54Z",
+      "description": "Picture a lively dinner party: glasses clinking, half-finished sentences, and three people laughing...",
+      "tags": [
+        "voiceai",
+        "webrtc",
+        "ai",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnn3z7x5yyudnn6w65n7z.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "Yarn – A new package manager for JavaScript",
+      "url": "https://code.facebook.com/posts/1840075619545360",
+      "published_at": "2016-10-11T15:00:38Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "cpojer"
+    },
+    {
+      "title": "A spreadsheet in fewer than 30 lines of JavaScript, no library used",
+      "url": "http://jsfiddle.net/ondras/hYfN3/",
+      "published_at": "2013-11-13T14:38:18Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "ondras"
+    },
+    {
+      "title": "Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig",
+      "url": "https://bun.sh/?launch",
+      "published_at": "2022-07-05T20:41:53Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "firloop"
+    },
+    {
+      "title": "JavaScript Temporal is coming",
+      "url": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/",
+      "published_at": "2025-01-30T11:28:31Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "SigmundurM"
+    },
+    {
+      "title": "Show HN: Meteor, a realtime JavaScript framework",
+      "url": "http://www.meteor.com",
+      "published_at": "2012-04-10T22:55:40Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "geoffschmidt"
+    },
+    {
+      "title": "Eloquent JavaScript 4th edition (2024)",
+      "url": "https://eloquentjavascript.net/",
+      "published_at": "2024-03-07T13:52:16Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "vajdagabor"
+    },
+    {
+      "title": "Modern Javascript: Everything you missed over the last 10 years (2020)",
+      "url": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
+      "published_at": "2021-05-15T15:15:57Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "EntICOnc"
+    },
+    {
+      "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
+      "url": "https://www.armaansahni.com/game/",
+      "published_at": "2024-12-03T22:08:16Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "veesahni"
+    },
+    {
+      "title": "Draw SVG rope using JavaScript",
+      "url": "https://muffinman.io/blog/draw-svg-rope-using-javascript/",
+      "published_at": "2022-12-31T15:43:54Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "stanko"
+    },
+    {
+      "title": "How to manage HTML DOM with vanilla JavaScript only?",
+      "url": "https://htmldom.dev/",
+      "published_at": "2020-04-02T12:29:04Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "velmu"
+    },
+    {
+      "title": "ComposioHQ/secure-openclaw - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+      "url": "https://github.com/ComposioHQ/secure-openclaw",
+      "published_at": "2026-02-08T07:55:07Z",
+      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
+      "source": "GitHub",
+      "stars": 644,
+      "user": "ComposioHQ"
+    },
+    {
+      "title": "linguo2625469/qq-farm-bot - 基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。",
+      "url": "https://github.com/linguo2625469/qq-farm-bot",
+      "published_at": "2026-02-07T14:46:09Z",
+      "description": "基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
+      "source": "GitHub",
+      "stars": 247,
+      "user": "linguo2625469"
+    },
+    {
+      "title": "africa1207/AWS-BuildID-Auto-For-Ext - GitHub Repository",
+      "url": "https://github.com/africa1207/AWS-BuildID-Auto-For-Ext",
+      "published_at": "2026-02-06T08:56:38Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "africa1207"
+    },
+    {
+      "title": "by-sonic/unblock-pro - Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia",
+      "url": "https://github.com/by-sonic/unblock-pro",
+      "published_at": "2026-02-06T01:01:14Z",
+      "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/171230345?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "by-sonic"
+    },
+    {
+      "title": "mdp/linkedin-extension-fingerprinting - GitHub Repository",
+      "url": "https://github.com/mdp/linkedin-extension-fingerprinting",
+      "published_at": "2026-02-05T19:03:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2868?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "mdp"
+    },
+    {
+      "title": "ula7i921011/React2Shell-Scanner - React2Shell Scanner",
+      "url": "https://github.com/ula7i921011/React2Shell-Scanner",
+      "published_at": "2026-02-05T12:00:23Z",
+      "description": "React2Shell Scanner",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/198411067?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "ula7i921011"
+    }
+  ],
+  "Python": [
+    {
+      "title": "I Built a Self-Hosted Google Trends Alternative with DuckDB",
+      "url": "https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57",
+      "published_at": "2026-02-11T16:16:43Z",
+      "description": "TL;DR: Track SERP rankings, title changes, and competitor data Google Trends won’t show. Built with...",
+      "tags": [
+        "webdev",
+        "python",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy47kf4rllj3ih8gysd4e.png",
+      "source": "Dev.to",
+      "user": "Prithwish Nath"
+    },
+    {
+      "title": "Solving Claude's Amnesia: Building Persistent Memory with MCP",
+      "url": "https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co",
+      "published_at": "2026-02-11T12:14:50Z",
+      "description": "As a solo developer working on his next idea, Claude has been my pair programming partner for months...",
+      "tags": [
+        "ai",
+        "productivity",
+        "mcp",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpis0l6fs4am4k7qb3et.png",
+      "source": "Dev.to",
+      "user": "Mohamed ali May"
+    },
+    {
+      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
+      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
+      "published_at": "2026-02-10T15:04:38Z",
+      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
+      "tags": [
+        "voice",
+        "ai",
+        "python",
+        "smallestai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
+      "source": "Dev.to",
+      "user": "Abhishek Mishra"
+    },
+    {
+      "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
+      "url": "https://emily.space/posts/251023-uv",
+      "published_at": "2025-10-29T18:57:29Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "todsacerdoti"
+    },
+    {
+      "title": "Sunsetting Python 2",
+      "url": "https://www.python.org/doc/sunset-python-2/",
+      "published_at": "2019-09-09T06:43:24Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "azizsaya"
+    },
+    {
+      "title": "Grumpy: Go running Python",
+      "url": "https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html",
+      "published_at": "2017-01-04T17:00:39Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "trotterdylan"
+    },
+    {
+      "title": "A from-scratch tour of Bitcoin in Python",
+      "url": "https://karpathy.github.io/2021/06/21/blockchain/",
+      "published_at": "2021-06-22T16:30:43Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "yigitdemirag"
+    },
+    {
+      "title": "Python 3.13 Gets a JIT",
+      "url": "https://tonybaloney.github.io/posts/python-gets-a-jit.html",
+      "published_at": "2024-01-09T08:35:58Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "todsacerdoti"
+    },
+    {
+      "title": "Show HN: I built a hardware processor that runs Python",
+      "url": "https://www.runpyxl.com/gpio",
+      "published_at": "2025-04-28T11:44:54Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "hwpythonner"
+    },
+    {
+      "title": "Prettymaps: Small Python library to draw customized maps from OpenStreetMap data",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "published_at": "2021-08-25T12:48:26Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "sebg"
+    },
+    {
+      "title": "Norvig's Python programs to practice or demonstrate skills",
+      "url": "https://github.com/norvig/pytudes",
+      "published_at": "2017-11-27T13:15:30Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "federicoponzi"
+    },
+    {
+      "title": "Ty: A fast Python type checker and language server",
+      "url": "https://github.com/astral-sh/ty",
+      "published_at": "2025-05-07T17:32:26Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "arathore"
+    },
+    {
+      "title": "Python Is Eating the World",
+      "url": "https://www.zdnet.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/",
+      "published_at": "2019-08-12T03:00:14Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "gilad"
+    },
+    {
+      "title": "trumpet-noek/sora2-free-watermark-remover - sora2 free watermark remover",
+      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
+      "published_at": "2026-02-07T15:10:01Z",
+      "description": "sora2 free watermark remover",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/198388533?v=4",
+      "source": "GitHub",
+      "stars": 706,
+      "user": "trumpet-noek"
+    },
+    {
+      "title": "uqogihujomuwhiff/sora2-watermark-cleaner-pro - sora2 watermark cleaner pro",
+      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+      "published_at": "2026-02-07T15:14:03Z",
+      "description": "sora2 watermark cleaner pro",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187814954?v=4",
+      "source": "GitHub",
+      "stars": 677,
+      "user": "uqogihujomuwhiff"
+    },
+    {
+      "title": "tnbeznlacut/sora2-watermark-deleter-windows-macos - sora2 watermark deleter windows macos",
+      "url": "https://github.com/tnbeznlacut/sora2-watermark-deleter-windows-macos",
+      "published_at": "2026-02-07T15:23:43Z",
+      "description": "sora2 watermark deleter windows macos",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/191570003?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "tnbeznlacut"
+    },
+    {
+      "title": "ula7i921011/React2Shell-Scanner - React2Shell Scanner",
+      "url": "https://github.com/ula7i921011/React2Shell-Scanner",
+      "published_at": "2026-02-05T12:00:23Z",
+      "description": "React2Shell Scanner",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/198411067?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "ula7i921011"
+    },
+    {
+      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "url": "https://github.com/aeromomo/claw-compactor",
+      "published_at": "2026-02-10T00:27:08Z",
+      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "aeromomo"
+    }
+  ],
+  "DevOps": [
+    {
+      "title": "Using Laravel Boost With DDEV",
+      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
+      "published_at": "2026-02-10T00:00:00Z",
+      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
+      "tags": [
+        "ai",
+        "docker",
+        "laravel",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
+      "source": "Dev.to",
+      "user": "Russell Jones"
+    },
+    {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
+    },
+    {
+      "title": "What is a CaaS Platform and why we built one",
+      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
+      "published_at": "2026-02-09T03:16:00Z",
+      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
+      "tags": [
+        "kubernetes",
+        "platformengineering",
+        "devops",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
+      "source": "Dev.to",
+      "user": "Jawad Elhaouchi"
+    },
+    {
+      "title": "How We Reduced Dependabot Noise in Our Monorepo",
+      "url": "https://dev.to/aki59/how-we-reduced-dependabot-noise-in-our-monorepo-1b06",
+      "published_at": "2026-02-04T09:21:28Z",
+      "description": "Why we needed Dependabot   Our dependency management had become increasingly manual and...",
+      "tags": [
+        "devops",
+        "jenkins",
+        "cicd",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl6ligout75eq676e47zd.png",
+      "source": "Dev.to",
+      "user": "Akash Tewari"
+    }
+  ],
+  "WebDev": [
+    {
+      "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
+      "url": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
+      "published_at": "2026-02-10T10:43:07Z",
+      "description": "There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...",
+      "tags": [
+        "javascript",
+        "node",
+        "frontend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Re-creating a Pantone Color Deck in CSS",
+      "url": "https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108",
+      "published_at": "2026-02-11T13:05:10Z",
+      "description": "If you’ve ever held a Pantone fan deck — the kind graphic designers used to carry around like a...",
+      "tags": [
+        "html",
+        "css",
+        "tutorial",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fskz1tl4rzcbhe2z3ot2i.jpg",
+      "source": "Dev.to",
+      "user": "Mads Stoumann"
+    },
+    {
+      "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
+      "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
+      "published_at": "2026-02-09T14:43:12Z",
+      "description": "👉 Before you continue: This guide assumes you’re already familiar with the Wishlist Power web...",
+      "tags": [
+        "shopify",
+        "webdev",
+        "frontend",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
+      "source": "Dev.to",
+      "user": "Fabien Sebban"
+    },
+    {
+      "title": "Native CSS Utilities",
+      "url": "https://dev.to/fylgja/native-css-utilities-297j",
+      "published_at": "2026-02-05T10:04:30Z",
+      "description": "With every passing year, CSS becomes more powerful. The last few have brought amazing additions that...",
+      "tags": [
+        "fylgjacss",
+        "tailwindcss",
+        "css",
+        "cssprops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcqxmdl3ilxwk0meuy4qp.webp",
+      "source": "Dev.to",
+      "user": "Sean van Zuidam"
+    },
+    {
+      "title": "Why Visual Metaphors Might Beat Code-First Thinking",
+      "url": "https://dev.to/egregor2011/why-visual-metaphors-might-beat-code-first-thinking-26bh",
+      "published_at": "2026-02-08T17:34:53Z",
+      "description": "Frontend developers could spend all day thinking visually —component trees, state flow diagrams,...",
+      "tags": [
+        "webdev",
+        "learning",
+        "algorithms",
+        "frontend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkq59jrkovfykwng8w4uh.png",
+      "source": "Dev.to",
+      "user": "Rostislav B"
+    },
+    {
+      "title": "Tailwind Alchemist: find all tailwind colors in your codebase",
+      "url": "https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o",
+      "published_at": "2026-02-04T15:29:15Z",
+      "description": "When you're using libs like DaisyUI, you don't want to hardcode Tailwind color names in your codebase. I built a tool for this.",
+      "tags": [
+        "tailwindcss",
+        "css",
+        "design",
+        "daisyui"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlhkbns7bimt1lcj751w.webp",
+      "source": "Dev.to",
+      "user": "Yann Rabiller"
+    },
+    {
+      "title": "How to manage HTML DOM with vanilla JavaScript only?",
+      "url": "https://htmldom.dev/",
+      "published_at": "2020-04-02T12:29:04Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "velmu"
+    }
+  ],
+  "Mobile": [
+    {
+      "title": "My New Language That’s Almost Done",
+      "url": "https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31",
+      "published_at": "2026-02-09T20:10:51Z",
+      "description": "I’ve been building a programming language for the past 3 months. Although it’s written in Swift, I’m...",
+      "tags": [
+        "programming",
+        "showdev",
+        "sideprojects",
+        "swift"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Focscz47o1wxswnzbq3eb.png",
+      "source": "Dev.to",
+      "user": "Ryan Bae"
+    },
+    {
+      "title": "Multimodal Visual Understanding in Swift (aka: \"why is this still so hard on-device?\")",
+      "url": "https://dev.to/fosteman/multimodal-visual-understanding-in-swift-aka-why-is-this-still-so-hard-on-device-1n7j",
+      "published_at": "2026-02-06T13:24:35Z",
+      "description": "I’ve been spending a lot of time lately thinking about one thing: how to get good image-to-text...",
+      "tags": [
+        "swift"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1d4u7tdhh8wm80g4xq0.png",
+      "source": "Dev.to",
+      "user": "Timothy Fosteman"
+    }
+  ],
+  "Cloud": [
+    {
+      "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
+      "url": "https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c",
+      "published_at": "2026-02-11T04:19:39Z",
+      "description": "I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...",
+      "tags": [
+        "go",
+        "rust",
+        "cloud",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficce9rgl5kalbmt0vu2k.png",
+      "source": "Dev.to",
+      "user": "Art light"
+    },
+    {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
+    },
+    {
+      "title": "What is a CaaS Platform and why we built one",
+      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
+      "published_at": "2026-02-09T03:16:00Z",
+      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
+      "tags": [
+        "kubernetes",
+        "platformengineering",
+        "devops",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
+      "source": "Dev.to",
+      "user": "Jawad Elhaouchi"
+    },
+    {
+      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
+      "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
+      "published_at": "2025-08-21T12:53:16Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "JustExAWS"
+    },
+    {
+      "title": "africa1207/AWS-BuildID-Auto-For-Ext - GitHub Repository",
+      "url": "https://github.com/africa1207/AWS-BuildID-Auto-For-Ext",
+      "published_at": "2026-02-06T08:56:38Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "africa1207"
+    }
+  ],
+  "Database": [
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
+    }
+  ],
+  "Security": [
+    {
+      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
+      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
+      "published_at": "2026-02-11T02:00:24Z",
+      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
+      "tags": [
+        "ai",
+        "opensourcesecurity",
+        "securitylabs",
+        "supplychainsecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
+      "source": "Dev.to",
+      "user": "SnykSec"
+    },
+    {
+      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
+      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
+      "published_at": "2026-02-11T14:49:26Z",
+      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
+      "tags": [
+        "javascript",
+        "security",
+        "ai",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
+      "source": "Dev.to",
+      "user": "Gianluca La Manna"
+    },
+    {
+      "title": "The 48-Hour Collapse of Moltbook",
+      "url": "https://dev.to/narnaiezzsshaa/the-48-hour-collapse-of-moltbook-4625",
+      "published_at": "2026-02-03T19:33:52Z",
+      "description": "What Happens When You Deploy Agents Without Governance   Moltbook was live for 48 hours. In...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "governance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2mt8ilnwzyazvaew2ic.jpg",
+      "source": "Dev.to",
+      "user": "Narnaiezzsshaa Truong"
+    },
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
+    },
+    {
+      "title": "praetorian-inc/augustus - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
+      "url": "https://github.com/praetorian-inc/augustus",
+      "published_at": "2026-02-06T17:26:47Z",
+      "description": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
+      "source": "GitHub",
+      "stars": 179,
+      "user": "praetorian-inc"
+    }
+  ],
+  "Tools": [
+    {
+      "title": "ASCII Whisper: Local P2P Chat with Sound FX and Battleship",
+      "url": "https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7",
+      "published_at": "2026-02-11T00:29:42Z",
+      "description": "This is a group submission for the GitHub Copilot CLI Challenge           What We Built...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "cli",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
+    },
+    {
+      "title": "How I Used GitHub Copilot CLI to Make Git 10x Less Scary",
+      "url": "https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf",
+      "published_at": "2026-02-10T16:50:51Z",
+      "description": "What I Built   I built Hermes 🪽 — an AI-powered Git CLI that turns natural language into...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "cli",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmaumu88n050gqbmzh885.png",
+      "source": "Dev.to",
+      "user": "Shingirayi Innocent Mandebvu"
+    },
+    {
+      "title": "Solving Claude's Amnesia: Building Persistent Memory with MCP",
+      "url": "https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co",
+      "published_at": "2026-02-11T12:14:50Z",
+      "description": "As a solo developer working on his next idea, Claude has been my pair programming partner for months...",
+      "tags": [
+        "ai",
+        "productivity",
+        "mcp",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpis0l6fs4am4k7qb3et.png",
+      "source": "Dev.to",
+      "user": "Mohamed ali May"
+    },
+    {
+      "title": "GitHub down 😭",
+      "url": "https://dev.to/ben/github-down-194f",
+      "published_at": "2026-02-09T16:30:47Z",
+      "description": "A post by Ben Halpern",
+      "tags": [
+        "discuss",
+        "github",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0oiafmvc3lm979kiw560.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "How to Run OpenClaw with DigitalOcean",
+      "url": "https://dev.to/digitalocean/how-to-run-openclaw-with-digitalocean-3mpb",
+      "published_at": "2026-02-10T18:45:07Z",
+      "description": "OpenClaw (formerly known as Moltbot and Clawdbot) is an open-source, self-hosted personal AI...",
+      "tags": [
+        "ai",
+        "openclaw",
+        "learning",
+        "digitalocean"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fazfnk8v1c78dkprp0mxp.png",
+      "source": "Dev.to",
+      "user": "Jess Lulka"
+    },
+    {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
+    },
+    {
+      "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
+      "url": "https://dev.to/bengreenberg/openclaw-is-incredible-setting-it-up-shouldnt-require-a-cs-degree-36nk",
+      "published_at": "2026-02-09T17:29:54Z",
+      "description": "If you've heard of OpenClaw, you know it's one of the most capable personal AI assistants available....",
+      "tags": [
+        "ai",
+        "productivity",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftapnclaw.com%2Fog-image.png",
+      "source": "Dev.to",
+      "user": "Ben Greenberg"
+    },
+    {
+      "title": "I Ditched My AI Agent Dashboard for Obsidian",
+      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
+      "published_at": "2026-02-08T15:46:00Z",
+      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
+      "tags": [
+        "openclaw",
+        "obsidian",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
+      "source": "Dev.to",
+      "user": "David Dias"
+    },
+    {
+      "title": "Introducing XRest: A Service-First REST Client for Microservices Teams",
+      "url": "https://dev.to/akdevblog/introducing-xrest-a-service-first-rest-client-for-microservices-teams-ffm",
+      "published_at": "2026-02-03T22:55:08Z",
+      "description": "This was originally published in my blog here  TLDR; modern REST clients follow a collections-first...",
+      "tags": [
+        "servicefirst",
+        "apiclient",
+        "gitnative",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpndzda4zsfh3dv2dct0m.png",
+      "source": "Dev.to",
+      "user": "ak"
+    },
+    {
+      "title": "Tailwind Alchemist: find all tailwind colors in your codebase",
+      "url": "https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o",
+      "published_at": "2026-02-04T15:29:15Z",
+      "description": "When you're using libs like DaisyUI, you don't want to hardcode Tailwind color names in your codebase. I built a tool for this.",
+      "tags": [
+        "tailwindcss",
+        "css",
+        "design",
+        "daisyui"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlhkbns7bimt1lcj751w.webp",
+      "source": "Dev.to",
+      "user": "Yann Rabiller"
+    },
+    {
+      "title": "Beyond RAG: Building an AI Companion with \"Deep Memory\" using Knowledge Graphs",
+      "url": "https://dev.to/juandastic/beyond-rag-building-an-ai-companion-with-deep-memory-using-knowledge-graphs-2e6e",
+      "published_at": "2026-02-09T00:07:19Z",
+      "description": "I build AI tools to solve my own problems. A while back, I built NutriAgent to track my calories...",
+      "tags": [
+        "ai",
+        "llm",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9kc543f36vntw365i7x6.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
+    },
+    {
+      "title": "DigitalOcean on Dev.to: Practical AI Insights for Builders",
+      "url": "https://dev.to/digitalocean/digitalocean-on-devto-practical-ai-insights-for-builders-3g0c",
+      "published_at": "2026-02-02T17:25:23Z",
+      "description": "The gap between “I want to build something with AI” and actually shipping it is still huge—fragmented...",
+      "tags": [
+        "ai",
+        "digitalocean",
+        "machinelearning",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6k4aixj3nmulzpdfjfwr.png",
+      "source": "Dev.to",
+      "user": "Jess Lulka"
+    },
+    {
+      "title": "ComposioHQ/secure-openclaw - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+      "url": "https://github.com/ComposioHQ/secure-openclaw",
+      "published_at": "2026-02-08T07:55:07Z",
+      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
+      "source": "GitHub",
+      "stars": 644,
+      "user": "ComposioHQ"
+    },
+    {
+      "title": "linguo2625469/qq-farm-bot - 基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。",
+      "url": "https://github.com/linguo2625469/qq-farm-bot",
+      "published_at": "2026-02-07T14:46:09Z",
+      "description": "基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
+      "source": "GitHub",
+      "stars": 247,
+      "user": "linguo2625469"
+    },
+    {
+      "title": "africa1207/AWS-BuildID-Auto-For-Ext - GitHub Repository",
+      "url": "https://github.com/africa1207/AWS-BuildID-Auto-For-Ext",
+      "published_at": "2026-02-06T08:56:38Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "africa1207"
+    },
+    {
+      "title": "by-sonic/unblock-pro - Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia",
+      "url": "https://github.com/by-sonic/unblock-pro",
+      "published_at": "2026-02-06T01:01:14Z",
+      "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/171230345?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "by-sonic"
+    },
+    {
+      "title": "mdp/linkedin-extension-fingerprinting - GitHub Repository",
+      "url": "https://github.com/mdp/linkedin-extension-fingerprinting",
+      "published_at": "2026-02-05T19:03:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2868?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "mdp"
+    },
+    {
+      "title": "trumpet-noek/sora2-free-watermark-remover - sora2 free watermark remover",
+      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
+      "published_at": "2026-02-07T15:10:01Z",
+      "description": "sora2 free watermark remover",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/198388533?v=4",
+      "source": "GitHub",
+      "stars": 706,
+      "user": "trumpet-noek"
+    },
+    {
+      "title": "uqogihujomuwhiff/sora2-watermark-cleaner-pro - sora2 watermark cleaner pro",
+      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+      "published_at": "2026-02-07T15:14:03Z",
+      "description": "sora2 watermark cleaner pro",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187814954?v=4",
+      "source": "GitHub",
+      "stars": 677,
+      "user": "uqogihujomuwhiff"
+    },
+    {
+      "title": "tnbeznlacut/sora2-watermark-deleter-windows-macos - sora2 watermark deleter windows macos",
+      "url": "https://github.com/tnbeznlacut/sora2-watermark-deleter-windows-macos",
+      "published_at": "2026-02-07T15:23:43Z",
+      "description": "sora2 watermark deleter windows macos",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/191570003?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "tnbeznlacut"
+    },
+    {
+      "title": "ula7i921011/React2Shell-Scanner - React2Shell Scanner",
+      "url": "https://github.com/ula7i921011/React2Shell-Scanner",
+      "published_at": "2026-02-05T12:00:23Z",
+      "description": "React2Shell Scanner",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/198411067?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "ula7i921011"
+    },
+    {
+      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "url": "https://github.com/aeromomo/claw-compactor",
+      "published_at": "2026-02-10T00:27:08Z",
+      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "aeromomo"
+    },
+    {
+      "title": "jingkaihe/matchlock - Matchlock secures AI agent workloads with a Linux-based sandbox.",
+      "url": "https://github.com/jingkaihe/matchlock",
+      "published_at": "2026-02-05T18:22:39Z",
+      "description": "Matchlock secures AI agent workloads with a Linux-based sandbox.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1335938?v=4",
+      "source": "GitHub",
+      "stars": 409,
+      "user": "jingkaihe"
+    },
+    {
+      "title": "praetorian-inc/augustus - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
+      "url": "https://github.com/praetorian-inc/augustus",
+      "published_at": "2026-02-06T17:26:47Z",
+      "description": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
+      "source": "GitHub",
+      "stars": 179,
+      "user": "praetorian-inc"
+    },
+    {
+      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "url": "https://github.com/stellarlinkco/myclaw",
+      "published_at": "2026-02-07T06:17:31Z",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
+      "source": "GitHub",
+      "stars": 150,
+      "user": "stellarlinkco"
+    },
+    {
+      "title": "simonw/showboat - Create executable documents that demonstrate an agent's work",
+      "url": "https://github.com/simonw/showboat",
+      "published_at": "2026-02-06T07:29:29Z",
+      "description": "Create executable documents that demonstrate an agent's work",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
+      "source": "GitHub",
+      "stars": 138,
+      "user": "simonw"
+    },
+    {
+      "title": "marcus/nightshift - Nightshift uses your leftover Claude / Codex budget to surprise you with useful PRs. Love them or leave them.",
+      "url": "https://github.com/marcus/nightshift",
+      "published_at": "2026-02-05T04:08:39Z",
+      "description": "Nightshift uses your leftover Claude / Codex budget to surprise you with useful PRs. Love them or leave them.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3090?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "marcus"
+    }
+  ]
+}
