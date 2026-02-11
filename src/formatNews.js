@@ -1,9 +1,15 @@
 export function formatNews(articles) {
   const now = new Date();
-  const date = now.toISOString().split("T")[0];
-  const hour = now.getUTCHours();
 
-  let fullLog = `\n\n## 📰 DevTech News — ${date} ${hour}:00 UTC\n\n`;
+  const catTime = new Date(now.getTime() + (2 * 60 * 60 * 1000));
+
+  const date = catTime.toISOString().split("T")[0];
+
+  const hour = catTime.getUTCHours();
+
+  const catFullString = catTime.toUTCString().replace("GMT", "CAT");
+
+  let fullLog = `\n\n## 📰 DevTech News — ${date} ${hour}:00 CAT\n\n`;
   let summaryList = [];
 
   articles.forEach((post, index) => {
@@ -17,11 +23,11 @@ export function formatNews(articles) {
   const summary = `
 # 🚀 DevTech Auto News
 
-## Latest Updates (${date} ${hour}:00 UTC)
+## Latest Updates (${date} ${hour}:00 CAT)
 
 ${summaryList.join("\n")}
 
-_Last automated update: ${now.toUTCString()}_
+_Last automated update: ${catFullString}_
 `;
 
   return { fullLog, summary };

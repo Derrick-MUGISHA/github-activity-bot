@@ -32,7 +32,7 @@ npm start
 \`\`\`
 `;
 
-  // Combine static header + dynamic news content + footer
+  
   const readme = `${staticHeader}
 
 ## 📰 Latest Tech Headlines
