@@ -960,3 +960,77 @@ HackerNews Discussion
 
 ---
 
+
+
+## 📰 DevTech News — 2026-02-11 22:00 CAT
+
+### 1. [The Push and Pull of AI](https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde)
+🕒 Tue, 10 Feb 2026 19:58:11 GMT
+
+As a software engineer, I would be lying if I said AI hasn’t affected my job. Over the past year,...
+
+---
+
+### 2. [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog)
+🕒 Wed, 11 Feb 2026 14:49:26 GMT
+
+Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...
+
+---
+
+### 3. [Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)](https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2)
+🕒 Tue, 10 Feb 2026 15:04:38 GMT
+
+TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...
+
+---
+
+### 4. [Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI](https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh)
+🕒 Tue, 10 Feb 2026 13:41:01 GMT
+
+I recently bought a starter kit for Arduino to learn robotics. I was curious to learn some basic...
+
+---
+
+### 5. [Advancing AI benchmarking with Game Arena](https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda)
+🕒 Tue, 10 Feb 2026 18:25:38 GMT
+
+Chess is a game of perfect information. The real world is not.  Last year, Google DeepMind partnered...
+
+---
+
+### 6. [Airfoil](https://ciechanow.ski/airfoil/)
+🕒 Tue, 27 Feb 2024 16:32:49 GMT
+
+HackerNews Discussion
+
+---
+
+### 7. [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+🕒 Tue, 23 Jul 2024 15:08:41 GMT
+
+HackerNews Discussion
+
+---
+
+### 8. [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
+🕒 Mon, 02 Jun 2025 21:09:53 GMT
+
+HackerNews Discussion
+
+---
+
+### 9. [Gemini AI](https://deepmind.google/technologies/gemini/)
+🕒 Wed, 06 Dec 2023 15:03:47 GMT
+
+HackerNews Discussion
+
+---
+
+### 10. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+🕒 Thu, 29 Aug 2024 15:53:08 GMT
+
+HackerNews Discussion
+
+---
+
