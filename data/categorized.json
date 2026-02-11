@@ -46,18 +46,6 @@
       "user": "Shingirayi Innocent Mandebvu"
     },
     {
-      "title": "The Push and Pull of AI",
-      "url": "https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde",
-      "published_at": "2026-02-10T19:58:11Z",
-      "description": "As a software engineer, I would be lying if I said AI hasn’t affected my job. Over the past year,...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfdjaw6hc8slstikok6u.jpg",
-      "source": "Dev.to",
-      "user": "Martin Cartledge"
-    },
-    {
       "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
       "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
       "published_at": "2026-02-11T14:49:26Z",
@@ -571,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 751,
       "user": "ComposioHQ"
     },
     {
@@ -870,7 +858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 751,
       "user": "ComposioHQ"
     },
     {
@@ -1592,6 +1580,18 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Five Git Config Settings Every Dev Needs",
+      "url": "https://dev.to/nickytonline/five-git-config-settings-every-dev-needs-3e55",
+      "published_at": "2026-02-10T02:19:13Z",
+      "description": "You've probably added some settings to your Git Configuration, but here are some you might not have...",
+      "tags": [
+        "git"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3pafpssoe8bf9qoop65s.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
+    },
+    {
       "title": "How to Run OpenClaw with DigitalOcean",
       "url": "https://dev.to/digitalocean/how-to-run-openclaw-with-digitalocean-3mpb",
       "published_at": "2026-02-10T18:45:07Z",
@@ -1720,7 +1720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 751,
       "user": "ComposioHQ"
     },
     {
@@ -1900,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "simonw"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3090?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 149,
       "user": "marcus"
     }
   ]

@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (43.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (42.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.9%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-13-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![learning](https://img.shields.io/badge/learning-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![community](https://img.shields.io/badge/community-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-13-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![learning](https://img.shields.io/badge/learning-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![community](https://img.shields.io/badge/community-5-blue) 
 
 
 
@@ -125,22 +125,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-12 0:00 CAT)
+## 📅 Latest Updates (2026-02-12 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtnb5y3g76gi5xju04gr.png" width="200" alt="How dev.to became my comfortable corner of the internet (and my New Year resolution)" />
-      <br/>
-      <b>How dev.to became my comfortable corner of the int...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png" width="200" alt="ASCII Whisper: Local P2P Chat with Sound FX and Battleship" />
@@ -159,8 +150,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxwpvpw1qqdjvxu7dv7vb.png" width="200" alt="Stack Overflow: Time for a Change?" />
@@ -170,11 +159,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjrmbviay3li48kpg4ai.png" width="200" alt="One Month at a Startup: What Stayed With Me After I Left" />
       <br/>
       <b>One Month at a Startup: What Stayed With Me After ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtnb5y3g76gi5xju04gr.png" width="200" alt="How dev.to became my comfortable corner of the internet (and my New Year resolution)" />
+      <br/>
+      <b>How dev.to became my comfortable corner of the int...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,11 +195,11 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [How dev.to became my comfortable corner of the internet (and my New Year resolution)](https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8) _[Dev.to]_
 - [ASCII Whisper: Local P2P Chat with Sound FX and Battleship](https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7) _[Dev.to]_
 - [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce) _[Dev.to]_
 - [Stack Overflow: Time for a Change?](https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p) _[Dev.to]_
 - [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
+- [How dev.to became my comfortable corner of the internet (and my New Year resolution)](https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc) _[Dev.to]_
 - [Re-creating a Pantone Color Deck in CSS](https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108) _[Dev.to]_
 - [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl) _[Dev.to]_
@@ -208,15 +208,15 @@ npm run test
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
 - [How I Used GitHub Copilot CLI to Make Git 10x Less Scary](https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf) _[Dev.to]_
 - [I Built a Self-Hosted Google Trends Alternative with DuckDB](https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57) _[Dev.to]_
-- [The Push and Pull of AI](https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde) _[Dev.to]_
 - [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog) _[Dev.to]_
 - [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 - [DEV 101: Engage, Comment, and Share Your Ideas](https://dev.to/richardpascoe/dev-101-engage-comment-and-share-your-ideas-12n4) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 - [Using Laravel Boost With DDEV](https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6) _[Dev.to]_
+- [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
 
-_Last automated update: Thu, 12 Feb 2026 00:59:17 CAT_
+_Last automated update: Thu, 12 Feb 2026 01:40:14 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 12 Feb 2026 00:59:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Feb 2026 22:59:17 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Feb 2026 23:40:14 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
