@@ -1,37 +1,38 @@
-name: DevTech Auto News
+name: Auto News Bot
 
 on:
   schedule:
-    - cron: "0 */8 * * *"  
-  workflow_dispatch:   
+    - cron: '*/15 * * * *' # Runs every 15 minutes
+  workflow_dispatch:       # Allows manual run from Actions tab
+
+permissions:
+  contents: write
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "18"
+          node-version: '18'
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm install
 
-      - name: Run news fetch
+      - name: Fetch and Update News
         run: npm start
 
-      - name: Commit & push multiple commits
+      - name: Commit and Push Changes
         run: |
-          git config user.name "Derrick-MUGISHA"
-          git config user.email "derrickmugisha169@gmail.com"
-          # Loop through each article file created by the script
-          for f in data/article_*.md
-          do
-            git add "$f"
-            git commit -m "Auto news update: $(date -u) - $(basename $f)"
-          done
-          git push
+          git config --global user.name "Derrick-MUGISHA"
+          git config --global user.email "derrickmugisha169@gmail.com"
+          
+          # Fix: Add the specific files we actually change
+          git add README.md data/news_log.md
+          
+          # Check if there are changes before committing to avoid errors
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update news feed [skip ci]" && git push)

@@ -9,46 +9,62 @@ const SOURCES = {
 };
 
 async function fetchDevTo() {
-  const res = await fetch(SOURCES.devto);
-  const data = await res.json();
-
-  return data
-    .filter(post =>
-      post.title.toLowerCase().includes("ai") ||
-      post.title.toLowerCase().includes("javascript") ||
-      post.title.toLowerCase().includes("tool") ||
-      post.title.toLowerCase().includes("code")
-    )
-    .slice(0, 5);
+  try {
+    const res = await fetch(SOURCES.devto);
+    const data = await res.json();
+    return data
+      .filter(post =>
+        post.title.toLowerCase().includes("ai") ||
+        post.title.toLowerCase().includes("javascript") ||
+        post.title.toLowerCase().includes("tool") ||
+        post.title.toLowerCase().includes("code")
+      )
+      .slice(0, 5);
+  } catch (error) {
+    console.error("Error fetching DevTo:", error);
+    return [];
+  }
 }
 
 async function fetchHackerNews() {
-  const res = await fetch(SOURCES.hackernews);
-  const data = await res.json();
-
-  return data.hits.slice(0, 5).map(post => ({
-    title: post.title,
-    url: post.url,
-    published_at: post.created_at,
-    description: "HackerNews Discussion"
-  }));
+  try {
+    const res = await fetch(SOURCES.hackernews);
+    const data = await res.json();
+    return data.hits.slice(0, 5).map(post => ({
+      title: post.title,
+      url: post.url,
+      published_at: post.created_at,
+      description: "HackerNews Discussion"
+    }));
+  } catch (error) {
+    console.error("Error fetching HackerNews:", error);
+    return [];
+  }
 }
 
 (async function () {
   try {
     const devto = await fetchDevTo();
     const hackernews = await fetchHackerNews();
-
     const combined = [...devto, ...hackernews];
 
+    // Format the news
     const formatted = formatNews(combined);
 
+    // FIX: Ensure 'data' folder exists
+    if (!fs.existsSync("data")) {
+      fs.mkdirSync("data");
+    }
+
+    // Append to the big log
     fs.appendFileSync("data/news_log.md", formatted.fullLog);
 
+    // Update the README with the fresh summary
     updateReadme(formatted.summary);
 
     console.log("News updated successfully.");
   } catch (err) {
-    console.error("Error:", err);
+    console.error("Error in main execution:", err);
+    process.exit(1);
   }
 })();
