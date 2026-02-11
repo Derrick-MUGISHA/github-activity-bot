@@ -2,7 +2,7 @@ name: Auto News Bot
 
 on:
   schedule:
-    - cron: '0 */8 * * *' # Runs every 8 hours
+     - cron: '*/15 * * * *' 
   workflow_dispatch:
 
 permissions:
@@ -39,6 +39,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🤖 Auto news update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Auto news update: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi

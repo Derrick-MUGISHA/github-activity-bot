@@ -1,7 +1,7 @@
 name: Auto News Bot (Debug)
 
 on:
-  workflow_dispatch: # Manual trigger only for debugging
+  workflow_dispatch: 
 
 permissions:
   contents: write
