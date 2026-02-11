@@ -1,6 +1,32 @@
 # 🚀 DevTech Auto News
 
-## Latest Updates
+![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
+
+**DevTech Auto News** is an automated bot that scrapes the latest trending topics in **Artificial Intelligence**, **JavaScript**, and **Software Development** from [Dev.to](https://dev.to) and [HackerNews](https://news.ycombinator.com).
+
+The bot runs automatically on a schedule using **GitHub Actions**, keeping this README updated with the freshest links.
+
+## 🛠️ How It Works
+1. **Fetches Data**: Pulls articles via public APIs from Dev.to and HackerNews.
+2. **Filters Content**: Selects only relevant topics (AI, JS, Tools).
+3. **Updates README**: Regenerates this file with the latest news summary.
+4. **Logs History**: Appends full details to `data/news_log.md`.
+
+## 📦 Installation & Usage
+If you want to run this locally:
+```bash
+# 1. Clone the repository
+git clone https://github.com/Derrick-MUGISHA/github-activity-bot.git
+
+# 2. Install dependencies
+npm install
+
+# 3. Run the bot manually
+npm start
+```
+
+
+## 📰 Latest Tech Headlines
 
 # 🚀 DevTech Auto News
 
@@ -17,8 +43,10 @@
 - [Gemini AI](https://deepmind.google/technologies/gemini/)
 - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 
-_Last automated update: Wed, 11 Feb 2026 11:06:08 GMT_
+_Last automated update: Wed, 11 Feb 2026 11:36:13 GMT_
 
 
 ---
-_Last automated update: Wed, 11 Feb 2026 11:06:08 GMT_
+<p align="center">
+  _Last automated update: Wed, 11 Feb 2026 11:36:13 GMT • Powered by GitHub Actions_
+</p>
