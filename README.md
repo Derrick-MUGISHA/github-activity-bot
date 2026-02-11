@@ -216,7 +216,7 @@ npm run test
 - [DEV 101: Engage, Comment, and Share Your Ideas](https://dev.to/richardpascoe/dev-101-engage-comment-and-share-your-ideas-12n4) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 
-_Last automated update: Wed, 11 Feb 2026 22:59:05 CAT_
+_Last automated update: Wed, 11 Feb 2026 22:59:29 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 11 Feb 2026 22:59:05 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Feb 2026 20:59:05 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Feb 2026 20:59:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
