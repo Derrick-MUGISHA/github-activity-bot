@@ -1,10 +1,9 @@
 name: Auto News Bot
 
 on:
-  push:                   # Runs on code edits (for testing)
   schedule:
-    - cron: '*/15 * * * *' # Runs every 15 mins (for data)
-  workflow_dispatch:      # Allows manual button click
+    - cron: '0 */8 * * *' # Runs every 8 hours
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -24,18 +23,22 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Fetch News (Dry Run or Real)
+      - name: Fetch and Update News
         run: npm start
 
       - name: Commit and Push Changes
-        # PROFESSIONAL TOUCH: Only commit if this is a Scheduled run or Manual trigger.
-        # This skips the commit step on standard code pushes.
-        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
+          # Configure git with --global flag
           git config --global user.name "Derrick-MUGISHA"
           git config --global user.email "derrickmugisha169@gmail.com"
           
+          # Add the files that your script ACTUALLY creates
           git add README.md data/news_log.md
           
-          # We don't need [skip ci] here because the schedule doesn't trigger 'push' events
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto news update [$(date -u)]" && git push)
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto news update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

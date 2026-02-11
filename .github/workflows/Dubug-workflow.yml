@@ -1,0 +1,78 @@
+name: Auto News Bot (Debug)
+
+on:
+  workflow_dispatch: # Manual trigger only for debugging
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Show directory before running script
+        run: |
+          echo "=== Current directory ==="
+          pwd
+          echo ""
+          echo "=== Files in repo root ==="
+          ls -la
+          echo ""
+          echo "=== Files in data/ (if exists) ==="
+          ls -la data/ || echo "data/ directory doesn't exist yet"
+
+      - name: Fetch and Update News
+        run: npm start
+
+      - name: Show directory after running script
+        run: |
+          echo "=== Files in repo root after script ==="
+          ls -la
+          echo ""
+          echo "=== Files in data/ directory ==="
+          ls -la data/ || echo "data/ directory still doesn't exist"
+          echo ""
+          echo "=== Check if README.md changed ==="
+          git diff README.md || echo "README.md doesn't exist or no changes"
+          echo ""
+          echo "=== Check git status ==="
+          git status
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "Derrick-MUGISHA"
+          git config --global user.email "derrickmugisha169@gmail.com"
+          
+          # Show what files exist
+          echo "Files to add:"
+          ls -la README.md 2>/dev/null || echo "README.md not found"
+          ls -la data/news_log.md 2>/dev/null || echo "data/news_log.md not found"
+          
+          # Add files
+          git add README.md data/news_log.md 2>/dev/null || echo "Warning: Some files couldn't be added"
+          
+          # Show staged changes
+          echo "Staged changes:"
+          git diff --staged --stat
+          
+          # Commit only if there are changes
+          if git diff --staged --quiet; then
+            echo "✅ No changes to commit"
+            exit 0
+          else
+            echo "📝 Committing changes..."
+            git commit -m "🤖 Auto news update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "✅ Changes pushed successfully"
+          fi
