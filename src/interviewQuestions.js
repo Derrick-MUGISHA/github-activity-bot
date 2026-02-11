@@ -1,0 +1,261 @@
+import fetch from "node-fetch";
+
+// Interview question sources and generators
+export async function fetchInterviewQuestions() {
+  const questions = {
+    JavaScript: generateJSQuestions(),
+    Python: generatePythonQuestions(),
+    Java: generateJavaQuestions(),
+    React: generateReactQuestions(),
+    NodeJS: generateNodeQuestions(),
+    Database: generateDatabaseQuestions(),
+    SystemDesign: generateSystemDesignQuestions(),
+    DataStructures: generateDSAQuestions()
+  };
+
+  return questions;
+}
+
+function generateJSQuestions() {
+  return [
+    {
+      question: "What is the difference between `let`, `const`, and `var`?",
+      difficulty: "Easy",
+      topics: ["variables", "scope"],
+      answer_hint: "Scope, hoisting, and reassignment capabilities"
+    },
+    {
+      question: "Explain event delegation and why it's useful",
+      difficulty: "Medium",
+      topics: ["events", "DOM"],
+      answer_hint: "Event bubbling, single listener for multiple elements"
+    },
+    {
+      question: "What are closures and provide a practical example?",
+      difficulty: "Medium",
+      topics: ["functions", "scope"],
+      answer_hint: "Function + lexical environment, data privacy, callbacks"
+    },
+    {
+      question: "Implement a debounce function from scratch",
+      difficulty: "Hard",
+      topics: ["functions", "timing"],
+      answer_hint: "setTimeout, clearTimeout, wrapper function"
+    },
+    {
+      question: "What is the event loop and how does it work?",
+      difficulty: "Hard",
+      topics: ["async", "runtime"],
+      answer_hint: "Call stack, callback queue, microtask queue"
+    }
+  ];
+}
+
+function generatePythonQuestions() {
+  return [
+    {
+      question: "What is the difference between list and tuple in Python?",
+      difficulty: "Easy",
+      topics: ["data structures", "mutability"],
+      answer_hint: "Mutability, performance, use cases"
+    },
+    {
+      question: "Explain decorators in Python with an example",
+      difficulty: "Medium",
+      topics: ["functions", "metaprogramming"],
+      answer_hint: "Function wrappers, @syntax, practical uses"
+    },
+    {
+      question: "What are generators and when would you use them?",
+      difficulty: "Medium",
+      topics: ["iterators", "memory"],
+      answer_hint: "yield keyword, lazy evaluation, memory efficiency"
+    },
+    {
+      question: "Implement a context manager using __enter__ and __exit__",
+      difficulty: "Hard",
+      topics: ["context managers", "resource management"],
+      answer_hint: "with statement, setup/teardown, exception handling"
+    },
+    {
+      question: "Explain GIL and its implications for multithreading",
+      difficulty: "Hard",
+      topics: ["concurrency", "performance"],
+      answer_hint: "Global Interpreter Lock, multiprocessing alternatives"
+    }
+  ];
+}
+
+function generateReactQuestions() {
+  return [
+    {
+      question: "What is the Virtual DOM and how does React use it?",
+      difficulty: "Easy",
+      topics: ["rendering", "performance"],
+      answer_hint: "Diffing algorithm, reconciliation, efficiency"
+    },
+    {
+      question: "Explain the difference between state and props",
+      difficulty: "Easy",
+      topics: ["data flow", "components"],
+      answer_hint: "Ownership, mutability, data flow direction"
+    },
+    {
+      question: "What are hooks and why were they introduced?",
+      difficulty: "Medium",
+      topics: ["hooks", "functional components"],
+      answer_hint: "State in functional components, reusable logic, cleaner code"
+    },
+    {
+      question: "Implement a custom hook for fetching data",
+      difficulty: "Medium",
+      topics: ["hooks", "async"],
+      answer_hint: "useState, useEffect, loading states, error handling"
+    },
+    {
+      question: "How would you optimize a React app's performance?",
+      difficulty: "Hard",
+      topics: ["optimization", "performance"],
+      answer_hint: "React.memo, useMemo, useCallback, code splitting, lazy loading"
+    }
+  ];
+}
+
+function generateNodeQuestions() {
+  return [
+    {
+      question: "What is the difference between process.nextTick() and setImmediate()?",
+      difficulty: "Medium",
+      topics: ["event loop", "async"],
+      answer_hint: "Execution timing, event loop phases"
+    },
+    {
+      question: "Explain middleware in Express.js",
+      difficulty: "Easy",
+      topics: ["express", "architecture"],
+      answer_hint: "Request/response cycle, next(), chain of functions"
+    },
+    {
+      question: "How do you handle errors in async/await?",
+      difficulty: "Medium",
+      topics: ["error handling", "async"],
+      answer_hint: "try/catch, .catch(), error middleware"
+    },
+    {
+      question: "Implement rate limiting for an API",
+      difficulty: "Hard",
+      topics: ["security", "middleware"],
+      answer_hint: "Token bucket, sliding window, Redis"
+    }
+  ];
+}
+
+function generateJavaQuestions() {
+  return [
+    {
+      question: "What is the difference between abstract class and interface?",
+      difficulty: "Easy",
+      topics: ["OOP", "design"],
+      answer_hint: "Multiple inheritance, method implementation, use cases"
+    },
+    {
+      question: "Explain the Java memory model",
+      difficulty: "Hard",
+      topics: ["memory", "JVM"],
+      answer_hint: "Heap, stack, garbage collection"
+    },
+    {
+      question: "What are Java Streams and how do they work?",
+      difficulty: "Medium",
+      topics: ["functional programming", "collections"],
+      answer_hint: "Lazy evaluation, pipeline, terminal operations"
+    }
+  ];
+}
+
+function generateDatabaseQuestions() {
+  return [
+    {
+      question: "What is the difference between SQL and NoSQL databases?",
+      difficulty: "Easy",
+      topics: ["databases", "design"],
+      answer_hint: "Schema, scalability, ACID vs BASE"
+    },
+    {
+      question: "Explain database indexing and when to use it",
+      difficulty: "Medium",
+      topics: ["optimization", "performance"],
+      answer_hint: "B-tree, trade-offs, query performance"
+    },
+    {
+      question: "What is database normalization and denormalization?",
+      difficulty: "Medium",
+      topics: ["design", "optimization"],
+      answer_hint: "Normal forms, redundancy, performance trade-offs"
+    },
+    {
+      question: "Design a database schema for a social media platform",
+      difficulty: "Hard",
+      topics: ["design", "scalability"],
+      answer_hint: "Users, posts, relationships, indexes, partitioning"
+    }
+  ];
+}
+
+function generateSystemDesignQuestions() {
+  return [
+    {
+      question: "Design a URL shortening service like bit.ly",
+      difficulty: "Medium",
+      topics: ["system design", "scalability"],
+      answer_hint: "Hash function, database design, caching, analytics"
+    },
+    {
+      question: "How would you design a rate limiter?",
+      difficulty: "Medium",
+      topics: ["system design", "algorithms"],
+      answer_hint: "Token bucket, sliding window, distributed systems"
+    },
+    {
+      question: "Design a distributed cache system",
+      difficulty: "Hard",
+      topics: ["distributed systems", "caching"],
+      answer_hint: "Consistency, partitioning, replication, eviction policies"
+    },
+    {
+      question: "Design Twitter's timeline feature",
+      difficulty: "Hard",
+      topics: ["system design", "scalability"],
+      answer_hint: "Fan-out, caching, ranking, real-time updates"
+    }
+  ];
+}
+
+function generateDSAQuestions() {
+  return [
+    {
+      question: "Implement a function to reverse a linked list",
+      difficulty: "Medium",
+      topics: ["linked lists", "pointers"],
+      answer_hint: "Iterative or recursive, three pointers"
+    },
+    {
+      question: "Find the longest substring without repeating characters",
+      difficulty: "Medium",
+      topics: ["strings", "sliding window"],
+      answer_hint: "Sliding window, hash map, two pointers"
+    },
+    {
+      question: "Implement LRU Cache",
+      difficulty: "Hard",
+      topics: ["design", "hash map", "linked list"],
+      answer_hint: "Doubly linked list + hash map, O(1) operations"
+    },
+    {
+      question: "Find the median of two sorted arrays",
+      difficulty: "Hard",
+      topics: ["arrays", "binary search"],
+      answer_hint: "Binary search, partition, time complexity O(log(min(m,n)))"
+    }
+  ];
+}

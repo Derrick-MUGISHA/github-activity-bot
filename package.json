@@ -1,11 +1,12 @@
 {
-  "name": "devtech-auto-news",
-  "version": "1.0.0",
+  "name": "devtech-auto-news-enhanced",
+  "version": "2.0.0",
   "type": "module",
-  "description": "Automated Dev & AI Tech News Bot",
-  "main": "src/fetchNews.js",
+  "description": "Enhanced Automated Dev & AI Tech News Bot with Images, Pagination & More",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node src/fetchNews.js"
+    "start": "node src/index.js",
+    "test": "node src/index.js --test"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"

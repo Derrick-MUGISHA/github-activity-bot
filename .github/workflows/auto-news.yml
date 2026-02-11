@@ -1,8 +1,8 @@
-name: Auto News Bot
+name: Enhanced Auto News Bot
 
 on:
   schedule:
-     - cron: '*/15 * * * *' 
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -19,26 +20,69 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18'
+          cache: 'npm'
+
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
 
       - name: Install Dependencies
-        run: npm install
+        run: npm ci --prefer-offline --no-audit
 
       - name: Fetch and Update News
         run: npm start
+        env:
+          NODE_ENV: production
+
+      - name: Generate Summary
+        run: |
+          echo "## Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f "data/stats.json" ]; then
+            TOTAL=$(jq -r '.total' data/stats.json)
+            echo "- **Total Articles**: $TOTAL" >> $GITHUB_STEP_SUMMARY
+            
+            echo "- **Categories**: $(jq -r '.by_category | length' data/stats.json)" >> $GITHUB_STEP_SUMMARY
+            echo "- **Sources**: $(jq -r '.by_source | length' data/stats.json)" >> $GITHUB_STEP_SUMMARY
+            echo "- **Languages**: $(jq -r '.by_language | length' data/stats.json)" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "News updated successfully!" >> $GITHUB_STEP_SUMMARY
 
       - name: Commit and Push Changes
         run: |
-          # Configure git with --global flag
           git config --global user.name "Derrick-MUGISHA"
           git config --global user.email "derrickmugisha169@gmail.com"
           
-          # Add the files that your script ACTUALLY creates
-          git add README.md data/news_log.md
+          # Add all generated files
+          git add README.md data/*.md data/*.json 2>/dev/null || true
           
-          # Check if there are changes to commit
+          # Check if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto news update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # Get stats for commit message
+            TOTAL_ARTICLES=$(jq -r '.total // 0' data/stats.json 2>/dev/null || echo "0")
+            CATEGORIES=$(jq -r '.by_category | length // 0' data/stats.json 2>/dev/null || echo "0")
+            
+            git commit -m "🤖 Auto update: $TOTAL_ARTICLES articles across $CATEGORIES categories | CAT: $(TZ='Africa/Kigali' date +'%Y-%m-%d %H:%M') | UTC: $(date -u +'%Y-%m-%d %H:%M')"
             git push
+            echo "Changes pushed successfully"
+          fi
+
+      - name: Cleanup old logs (keep last 30 days)
+        run: |
+          # Optional: Add logic to trim news_log.md if it gets too large
+          # This helps keep the repository size manageable
+          if [ -f "data/news_log.md" ]; then
+            FILE_SIZE=$(wc -c < "data/news_log.md")
+            if [ $FILE_SIZE -gt 5000000 ]; then
+              echo "Log file is large ($FILE_SIZE bytes), consider archiving"
+            fi
           fi
