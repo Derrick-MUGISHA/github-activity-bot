@@ -2,15 +2,15 @@ name: DevTech Auto News
 
 on:
   schedule:
-    - cron: "0 */8 * * *"
-  workflow_dispatch:
+    - cron: "0 */8 * * *"  
+  workflow_dispatch:   
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Setup Node
@@ -21,13 +21,17 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run script
+      - name: Run news fetch
         run: npm start
 
-      - name: Commit & Push
+      - name: Commit & push multiple commits
         run: |
           git config user.name "Derrick-MUGISHA"
           git config user.email "derrickmugisha169@gmail.com"
-          git add .
-          git commit -m "Auto DevTech update: $(date -u)" || echo "No changes"
+          # Loop through each article file created by the script
+          for f in data/article_*.md
+          do
+            git add "$f"
+            git commit -m "Auto news update: $(date -u) - $(basename $f)"
+          done
           git push
