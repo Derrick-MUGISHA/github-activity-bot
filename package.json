@@ -1,0 +1,13 @@
+{
+  "name": "devtech-auto-news",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automated Dev & AI Tech News Bot",
+  "main": "src/fetchNews.js",
+  "scripts": {
+    "start": "node src/fetchNews.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

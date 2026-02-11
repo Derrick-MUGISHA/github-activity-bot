@@ -1,0 +1,33 @@
+name: DevTech Auto News
+
+on:
+  schedule:
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run script
+        run: npm start
+
+      - name: Commit & Push
+        run: |
+          git config user.name "Derrick-MUGISHA"
+          git config user.email "derrickmugisha169@gmail.com"
+          git add .
+          git commit -m "Auto DevTech update: $(date -u)" || echo "No changes"
+          git push
