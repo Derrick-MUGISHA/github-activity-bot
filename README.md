@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-11 23:00 CAT)
+## 📅 Latest Updates (2026-02-12 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,13 +210,13 @@ npm run test
 - [I Built a Self-Hosted Google Trends Alternative with DuckDB](https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57) _[Dev.to]_
 - [The Push and Pull of AI](https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde) _[Dev.to]_
 - [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog) _[Dev.to]_
-- [Re-thinking Laravel's Observer Pattern With Column Watchers](https://dev.to/charlie_waddell01/re-thinking-laravels-observer-pattern-56j9) _[Dev.to]_
 - [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 - [DEV 101: Engage, Comment, and Share Your Ideas](https://dev.to/richardpascoe/dev-101-engage-comment-and-share-your-ideas-12n4) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
+- [Using Laravel Boost With DDEV](https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6) _[Dev.to]_
 
-_Last automated update: Wed, 11 Feb 2026 23:49:07 CAT_
+_Last automated update: Thu, 12 Feb 2026 00:26:15 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 11 Feb 2026 23:49:07 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Heap, stack, garbage collection
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Feb 2026 21:49:08 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Feb 2026 22:26:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
