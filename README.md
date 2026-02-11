@@ -30,23 +30,23 @@ npm start
 
 # 🚀 DevTech Auto News
 
-## Latest Updates (2026-02-11 18:00 CAT)
+## Latest Updates (2026-02-11 19:00 CAT)
 
-- [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog)
 - [The Push and Pull of AI](https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde)
+- [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog)
 - [Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)](https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2)
+- [Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI](https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh)
 - [Advancing AI benchmarking with Game Arena](https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda)
-- [I Ditched My AI Agent Dashboard for Obsidian](https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la)
 - [Airfoil](https://ciechanow.ski/airfoil/)
 - [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
 - [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
 - [Gemini AI](https://deepmind.google/technologies/gemini/)
 - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 
-_Last automated update: Wed, 11 Feb 2026 18:16:44 CAT_
+_Last automated update: Wed, 11 Feb 2026 19:32:06 CAT_
 
 
 ---
 <p align="center">
-  _Last automated update: Wed, 11 Feb 2026 16:16:44 GMT • Powered by GitHub Actions_
+  _Last automated update: Wed, 11 Feb 2026 17:32:06 GMT • Powered by GitHub Actions_
 </p>
