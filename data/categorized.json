@@ -31,18 +31,6 @@
       "user": "SnykSec"
     },
     {
-      "title": "The Push and Pull of AI",
-      "url": "https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde",
-      "published_at": "2026-02-10T19:58:11Z",
-      "description": "As a software engineer, I would be lying if I said AI hasn’t affected my job. Over the past year,...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfdjaw6hc8slstikok6u.jpg",
-      "source": "Dev.to",
-      "user": "Martin Cartledge"
-    },
-    {
       "title": "How I Used GitHub Copilot CLI to Make Git 10x Less Scary",
       "url": "https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf",
       "published_at": "2026-02-10T16:50:51Z",
@@ -56,6 +44,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmaumu88n050gqbmzh885.png",
       "source": "Dev.to",
       "user": "Shingirayi Innocent Mandebvu"
+    },
+    {
+      "title": "The Push and Pull of AI",
+      "url": "https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde",
+      "published_at": "2026-02-10T19:58:11Z",
+      "description": "As a software engineer, I would be lying if I said AI hasn’t affected my job. Over the past year,...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfdjaw6hc8slstikok6u.jpg",
+      "source": "Dev.to",
+      "user": "Martin Cartledge"
     },
     {
       "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 661,
       "user": "ComposioHQ"
     },
     {
@@ -885,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 661,
       "user": "ComposioHQ"
     },
     {
@@ -1750,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 661,
       "user": "ComposioHQ"
     },
     {
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 149,
       "user": "simonw"
     },
     {
@@ -1960,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3090?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 139,
       "user": "marcus"
     }
   ]
