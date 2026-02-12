@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-12 21:00 CAT)
+## 📅 Latest Updates (2026-02-12 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 
-_Last automated update: Thu, 12 Feb 2026 21:56:56 CAT_
+_Last automated update: Thu, 12 Feb 2026 22:36:29 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 12 Feb 2026 21:56:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Feb 2026 19:56:56 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Feb 2026 20:36:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
