@@ -76,21 +76,6 @@
       "user": "SnykSec"
     },
     {
-      "title": "Using Laravel Boost With DDEV",
-      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
-      "published_at": "2026-02-10T00:00:00Z",
-      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
-      "tags": [
-        "ai",
-        "docker",
-        "laravel",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
-      "source": "Dev.to",
-      "user": "Russell Jones"
-    },
-    {
       "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
       "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
       "published_at": "2026-02-09T11:07:59Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxuuj8wc8c32xy26iq7hi.png",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Using Laravel Boost With DDEV",
+      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
+      "published_at": "2026-02-10T00:00:00Z",
+      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
+      "tags": [
+        "ai",
+        "docker",
+        "laravel",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
+      "source": "Dev.to",
+      "user": "Russell Jones"
     },
     {
       "title": "Getting most of your local LLM setup",
@@ -574,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1116,
       "user": "ComposioHQ"
     },
     {
@@ -593,6 +593,21 @@
       "user": "aeromomo"
     },
     {
+      "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
+      "url": "https://github.com/RevylAI/greenlight",
+      "published_at": "2026-02-11T22:54:47Z",
+      "description": "Pre-submission compliance scanner for the Apple App Store",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
+      "source": "GitHub",
+      "stars": 201,
+      "user": "RevylAI"
+    },
+    {
       "title": "praetorian-inc/augustus - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
       "url": "https://github.com/praetorian-inc/augustus",
       "published_at": "2026-02-06T17:26:47Z",
@@ -606,21 +621,6 @@
       "source": "GitHub",
       "stars": 186,
       "user": "praetorian-inc"
-    },
-    {
-      "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
-      "url": "https://github.com/RevylAI/greenlight",
-      "published_at": "2026-02-11T22:54:47Z",
-      "description": "Pre-submission compliance scanner for the Apple App Store",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
-      "source": "GitHub",
-      "stars": 179,
-      "user": "RevylAI"
     },
     {
       "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
@@ -649,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "mosaxiv"
     }
   ],
@@ -888,7 +888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1116,
       "user": "ComposioHQ"
     },
     {
@@ -903,7 +903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "linguo2625469"
     },
     {
@@ -918,7 +918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "africa1207"
     },
     {
@@ -948,26 +948,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 106,
       "user": "xvhuan"
     }
   ],
   "Python": [
-    {
-      "title": "I Built a Self-Hosted Google Trends Alternative with DuckDB",
-      "url": "https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57",
-      "published_at": "2026-02-11T16:16:43Z",
-      "description": "TL;DR: Track SERP rankings, title changes, and competitor data Google Trends won’t show. Built with...",
-      "tags": [
-        "webdev",
-        "python",
-        "programming",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy47kf4rllj3ih8gysd4e.png",
-      "source": "Dev.to",
-      "user": "Prithwish Nath"
-    },
     {
       "title": "Solving Claude's Amnesia: Building Persistent Memory with MCP",
       "url": "https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co",
@@ -982,6 +967,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpis0l6fs4am4k7qb3et.png",
       "source": "Dev.to",
       "user": "Mohamed ali May"
+    },
+    {
+      "title": "I Built a Self-Hosted Google Trends Alternative with DuckDB",
+      "url": "https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57",
+      "published_at": "2026-02-11T16:16:43Z",
+      "description": "TL;DR: Track SERP rankings, title changes, and competitor data Google Trends won’t show. Built with...",
+      "tags": [
+        "webdev",
+        "python",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy47kf4rllj3ih8gysd4e.png",
+      "source": "Dev.to",
+      "user": "Prithwish Nath"
     },
     {
       "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
@@ -1472,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "africa1207"
     }
   ],
@@ -1753,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1116,
       "user": "ComposioHQ"
     },
     {
@@ -1768,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "linguo2625469"
     },
     {
@@ -1783,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "africa1207"
     },
     {
@@ -1813,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 106,
       "user": "xvhuan"
     },
     {
@@ -1892,6 +1892,21 @@
       "user": "marshallrichards"
     },
     {
+      "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
+      "url": "https://github.com/RevylAI/greenlight",
+      "published_at": "2026-02-11T22:54:47Z",
+      "description": "Pre-submission compliance scanner for the Apple App Store",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
+      "source": "GitHub",
+      "stars": 201,
+      "user": "RevylAI"
+    },
+    {
       "title": "praetorian-inc/augustus - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
       "url": "https://github.com/praetorian-inc/augustus",
       "published_at": "2026-02-06T17:26:47Z",
@@ -1905,21 +1920,6 @@
       "source": "GitHub",
       "stars": 186,
       "user": "praetorian-inc"
-    },
-    {
-      "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
-      "url": "https://github.com/RevylAI/greenlight",
-      "published_at": "2026-02-11T22:54:47Z",
-      "description": "Pre-submission compliance scanner for the Apple App Store",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
-      "source": "GitHub",
-      "stars": 179,
-      "user": "RevylAI"
     },
     {
       "title": "simonw/showboat - Create executable documents that demonstrate an agent's work",
@@ -1963,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "mosaxiv"
     }
   ]

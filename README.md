@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-12 6:00 CAT)
+## 📅 Latest Updates (2026-02-12 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -208,17 +208,17 @@ npm run test
 - [The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith](https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c) _[Dev.to]_
 - [Content-Addressed Memoization for Durable Execution](https://dev.to/shobande_femi/content-addressed-memoization-for-durable-execution-4h2h) _[Dev.to]_
 - [How I Used GitHub Copilot CLI to Make Git 10x Less Scary](https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf) _[Dev.to]_
-- [I Built a Self-Hosted Google Trends Alternative with DuckDB](https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57) _[Dev.to]_
 - [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog) _[Dev.to]_
 - [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
+- [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 - [Using Laravel Boost With DDEV](https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6) _[Dev.to]_
-- [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
 - [Getting most of your local LLM setup](https://dev.to/av-codes/getting-most-of-your-local-llm-setup-4pmg) _[Dev.to]_
+- [My New Language That’s Almost Done](https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31) _[Dev.to]_
 
-_Last automated update: Thu, 12 Feb 2026 06:49:22 CAT_
+_Last automated update: Thu, 12 Feb 2026 08:02:10 CAT_
 
 
 
@@ -226,18 +226,29 @@ _Last automated update: Thu, 12 Feb 2026 06:49:22 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. SystemDesign: Design a distributed cache system
+
+**Difficulty**: Hard | **Topics**: distributed systems, caching
+
+<details>
+<summary>💡 Hint</summary>
+
+Consistency, partitioning, replication, eviction policies
+
+</details>
+
+### 3. Database: Design a database schema for a social media platform
 
 **Difficulty**: Hard | **Topics**: design, scalability
 
@@ -245,17 +256,6 @@ Multiple inheritance, method implementation, use cases
 <summary>💡 Hint</summary>
 
 Users, posts, relationships, indexes, partitioning
-
-</details>
-
-### 3. React: What is the Virtual DOM and how does React use it?
-
-**Difficulty**: Easy | **Topics**: rendering, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Feb 2026 04:49:22 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Feb 2026 06:02:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
