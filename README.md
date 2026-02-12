@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-12-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -44,7 +44,7 @@
 
 **Security**: 🟦🟦 5 (4.8%)
 
-**Mobile**: 🟦 3 (2.9%)
+**Mobile**: 🟦 2 (1.9%)
 
 **Database**:  1 (1.0%)
 
@@ -60,14 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.2 (26.2%)
-Python          ██████████████████████████ 22.6 (22.6%)
-Java            █████████████████████████ 21.4 (21.4%)
-Go              ███████████████████████ 20.2 (20.2%)
+JavaScript      ██████████████████████████████ 26.5 (26.5%)
+Python          ██████████████████████████ 22.9 (22.9%)
+Java            █████████████████████████ 21.7 (21.7%)
+Go              ███████████████████████ 20.5 (20.5%)
 Rust            ████ 3.6 (3.6%)
 PHP             ███ 2.4 (2.4%)
 Swift           ███ 2.4 (2.4%)
-Kotlin          █ 1.2 (1.2%)
 
 ```
 
@@ -80,7 +79,6 @@ pie title Programming Languages Distribution
     "Rust" : 3
     "PHP" : 2
     "Swift" : 2
-    "Kotlin" : 1
 ```
 
 
@@ -127,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-12 12:00 CAT)
+## 📅 Latest Updates (2026-02-12 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,19 +142,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjrmbviay3li48kpg4ai.png" width="200" alt="One Month at a Startup: What Stayed With Me After I Left" />
+    <a href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtnb5y3g76gi5xju04gr.png" width="200" alt="How dev.to became my comfortable corner of the internet (and my New Year resolution)" />
       <br/>
-      <b>One Month at a Startup: What Stayed With Me After ...</b>
+      <b>How dev.to became my comfortable corner of the int...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtnb5y3g76gi5xju04gr.png" width="200" alt="How dev.to became my comfortable corner of the internet (and my New Year resolution)" />
+    <a href="https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjrmbviay3li48kpg4ai.png" width="200" alt="One Month at a Startup: What Stayed With Me After I Left" />
       <br/>
-      <b>How dev.to became my comfortable corner of the int...</b>
+      <b>One Month at a Startup: What Stayed With Me After ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,8 +196,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce) _[Dev.to]_
-- [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
 - [How dev.to became my comfortable corner of the internet (and my New Year resolution)](https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8) _[Dev.to]_
+- [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc) _[Dev.to]_
 - [ASCII Whisper: Local P2P Chat with Sound FX and Battleship](https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7) _[Dev.to]_
 - [Re-creating a Pantone Color Deck in CSS](https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108) _[Dev.to]_
@@ -218,7 +216,7 @@ npm run test
 - [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
 - [GitHub down 😭](https://dev.to/ben/github-down-194f) _[Dev.to]_
 
-_Last automated update: Thu, 12 Feb 2026 12:07:16 CAT_
+_Last automated update: Thu, 12 Feb 2026 13:07:17 CAT_
 
 
 
@@ -226,36 +224,36 @@ _Last automated update: Thu, 12 Feb 2026 12:07:16 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Feb 2026 10:07:16 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Feb 2026 11:07:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
