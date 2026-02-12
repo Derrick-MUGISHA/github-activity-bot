@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-12 20:00 CAT)
+## 📅 Latest Updates (2026-02-12 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,20 +203,20 @@ npm run test
 - [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce) _[Dev.to]_
 - [Stack Overflow: Time for a Change?](https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p) _[Dev.to]_
 - [Becoming 1% better each day.](https://dev.to/della_codes/becoming-1-better-each-day-1p9m) _[Dev.to]_
+- [Your IDE is an Attack Vector](https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b) _[Dev.to]_
 - [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) _[Dev.to]_
-- [How I Used GitHub Copilot CLI to Make Git 10x Less Scary](https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf) _[Dev.to]_
 - [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
+- [How I Used GitHub Copilot CLI to Make Git 10x Less Scary](https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc) _[Dev.to]_
 - [AI Won't Save You If You Don't Know What Good Code Looks Like](https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144) _[Dev.to]_
 - [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co) _[Dev.to]_
-- [Your IDE is an Attack Vector](https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b) _[Dev.to]_
 - [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
 - [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 
-_Last automated update: Thu, 12 Feb 2026 20:12:17 CAT_
+_Last automated update: Thu, 12 Feb 2026 21:20:59 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 12 Feb 2026 20:12:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Heap, stack, garbage collection
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Feb 2026 18:12:17 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Feb 2026 19:20:59 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
