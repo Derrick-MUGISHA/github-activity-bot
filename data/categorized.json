@@ -193,21 +193,6 @@
       "user": "Dan Walsh"
     },
     {
-      "title": "Advancing AI benchmarking with Game Arena",
-      "url": "https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda",
-      "published_at": "2026-02-10T18:25:38Z",
-      "description": "Chess is a game of perfect information. The real world is not.  Last year, Google DeepMind partnered...",
-      "tags": [
-        "ai",
-        "gemini",
-        "kaggle",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F85vprd91e90o1etct7o5.webp",
-      "source": "Dev.to",
-      "user": "Oran Kelly"
-    },
-    {
       "title": "How to Run OpenClaw with DigitalOcean",
       "url": "https://dev.to/digitalocean/how-to-run-openclaw-with-digitalocean-3mpb",
       "published_at": "2026-02-10T18:45:07Z",
@@ -327,6 +312,18 @@
       "user": "Akarsh Cholapurath"
     },
     {
+      "title": "The Push and Pull of AI",
+      "url": "https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde",
+      "published_at": "2026-02-10T19:58:11Z",
+      "description": "As a software engineer, I would be lying if I said AI hasn’t affected my job. Over the past year,...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfdjaw6hc8slstikok6u.jpg",
+      "source": "Dev.to",
+      "user": "Martin Cartledge"
+    },
+    {
       "title": "AI isn't taking our jobs — It's taking our illusions",
       "url": "https://dev.to/igbominadeveloper/ai-isnt-take-our-jobs-its-taking-our-illusions-138j",
       "published_at": "2026-02-03T17:17:41Z",
@@ -429,6 +426,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6k4aixj3nmulzpdfjfwr.png",
       "source": "Dev.to",
       "user": "Jess Lulka"
+    },
+    {
+      "title": "I built codex-monitor so I could ship code while I slept",
+      "url": "https://dev.to/jaeko44/i-built-codex-monitor-so-i-could-ship-code-while-i-slept-58in",
+      "published_at": "2026-02-08T02:51:48Z",
+      "description": "An open source supervisor for AI coding agents — because leaving them unsupervised is how you wake up to zero commits and a maxed out API bill.",
+      "tags": [
+        "ai",
+        "opensource",
+        "llm",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk73t2mytf7i8ieeu0mze.png",
+      "source": "Dev.to",
+      "user": "Jonathan Philipos"
     },
     {
       "title": "Airfoil",
@@ -574,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1160,
       "user": "ComposioHQ"
     },
     {
@@ -604,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 221,
       "user": "RevylAI"
     },
     {
@@ -619,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 187,
       "user": "praetorian-inc"
     },
     {
@@ -649,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "mosaxiv"
     }
   ],
@@ -888,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1160,
       "user": "ComposioHQ"
     },
     {
@@ -918,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "africa1207"
     },
     {
@@ -933,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171230345?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "by-sonic"
     },
     {
@@ -948,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 108,
       "user": "xvhuan"
     }
   ],
@@ -1179,19 +1191,19 @@
       "user": "aeromomo"
     },
     {
-      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
-      "url": "https://github.com/marshallrichards/ClawPhone",
-      "published_at": "2026-02-07T08:11:59Z",
-      "description": "Tweaks for running OpenClaw on a Android smartphone",
+      "title": "clocky-needledev/Polymarket-Trading-Bot-2026-T - polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
+      "url": "https://github.com/clocky-needledev/Polymarket-Trading-Bot-2026-T",
+      "published_at": "2026-02-06T22:25:50Z",
+      "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
       "source": "GitHub",
-      "stars": 300,
-      "user": "marshallrichards"
+      "stars": 309,
+      "user": "clocky-needledev"
     }
   ],
   "DevOps": [
@@ -1386,21 +1398,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1d4u7tdhh8wm80g4xq0.png",
       "source": "Dev.to",
       "user": "Timothy Fosteman"
-    },
-    {
-      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
-      "url": "https://github.com/marshallrichards/ClawPhone",
-      "published_at": "2026-02-07T08:11:59Z",
-      "description": "Tweaks for running OpenClaw on a Android smartphone",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
-      "source": "GitHub",
-      "stars": 300,
-      "user": "marshallrichards"
     }
   ],
   "Cloud": [
@@ -1472,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "africa1207"
     }
   ],
@@ -1560,7 +1557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 187,
       "user": "praetorian-inc"
     }
   ],
@@ -1742,6 +1739,18 @@
       "user": "Jess Lulka"
     },
     {
+      "title": "Five Git Config Settings Every Dev Needs",
+      "url": "https://dev.to/nickytonline/five-git-config-settings-every-dev-needs-3e55",
+      "published_at": "2026-02-10T02:19:13Z",
+      "description": "You've probably added some settings to your Git Configuration, but here are some you might not have...",
+      "tags": [
+        "git"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3pafpssoe8bf9qoop65s.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
+    },
+    {
       "title": "ComposioHQ/secure-openclaw - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
       "url": "https://github.com/ComposioHQ/secure-openclaw",
       "published_at": "2026-02-08T07:55:07Z",
@@ -1753,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1160,
       "user": "ComposioHQ"
     },
     {
@@ -1783,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "africa1207"
     },
     {
@@ -1798,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171230345?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "by-sonic"
     },
     {
@@ -1813,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 108,
       "user": "xvhuan"
     },
     {
@@ -1877,19 +1886,19 @@
       "user": "aeromomo"
     },
     {
-      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
-      "url": "https://github.com/marshallrichards/ClawPhone",
-      "published_at": "2026-02-07T08:11:59Z",
-      "description": "Tweaks for running OpenClaw on a Android smartphone",
+      "title": "clocky-needledev/Polymarket-Trading-Bot-2026-T - polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
+      "url": "https://github.com/clocky-needledev/Polymarket-Trading-Bot-2026-T",
+      "published_at": "2026-02-06T22:25:50Z",
+      "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
       "source": "GitHub",
-      "stars": 300,
-      "user": "marshallrichards"
+      "stars": 309,
+      "user": "clocky-needledev"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -1903,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 221,
       "user": "RevylAI"
     },
     {
@@ -1918,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 187,
       "user": "praetorian-inc"
     },
     {
@@ -1933,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 171,
       "user": "simonw"
     },
     {
@@ -1963,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "mosaxiv"
     }
   ]

@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-12-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (44.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.4%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦 7 (6.8%)
+**WebDev**: 🟦🟦🟦 7 (6.7%)
 
-**Cloud**: 🟦🟦 5 (4.9%)
+**Cloud**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦🟦 5 (4.9%)
+**Security**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦🟦 4 (3.9%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 3 (2.9%)
+**Mobile**: 🟦 2 (1.9%)
 
 **Database**:  1 (1.0%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,14 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.2 (26.2%)
-Java            █████████████████████████ 21.4 (21.4%)
-Go              █████████████████████████ 21.4 (21.4%)
-Python          █████████████████████████ 21.4 (21.4%)
-Rust            ████ 3.6 (3.6%)
+JavaScript      ██████████████████████████████ 26.8 (26.8%)
+Java            █████████████████████████ 22.0 (22.0%)
+Python          █████████████████████████ 22.0 (22.0%)
+Go              ███████████████████████ 20.7 (20.7%)
+Rust            ████ 3.7 (3.7%)
 PHP             ███ 2.4 (2.4%)
 Swift           ███ 2.4 (2.4%)
-Kotlin          █ 1.2 (1.2%)
 
 ```
 
@@ -75,19 +74,18 @@ Kotlin          █ 1.2 (1.2%)
 pie title Programming Languages Distribution
     "JavaScript" : 22
     "Java" : 18
-    "Go" : 18
     "Python" : 18
+    "Go" : 17
     "Rust" : 3
     "PHP" : 2
     "Swift" : 2
-    "Kotlin" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![learning](https://img.shields.io/badge/learning-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![community](https://img.shields.io/badge/community-5-blue) ![career](https://img.shields.io/badge/career-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![learning](https://img.shields.io/badge/learning-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![community](https://img.shields.io/badge/community-4-blue) 
 
 
 
@@ -127,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-12 8:00 CAT)
+## 📅 Latest Updates (2026-02-12 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +216,7 @@ npm run test
 - [Getting most of your local LLM setup](https://dev.to/av-codes/getting-most-of-your-local-llm-setup-4pmg) _[Dev.to]_
 - [My New Language That’s Almost Done](https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31) _[Dev.to]_
 
-_Last automated update: Thu, 12 Feb 2026 08:02:10 CAT_
+_Last automated update: Thu, 12 Feb 2026 09:17:04 CAT_
 
 
 
@@ -226,7 +224,18 @@ _Last automated update: Thu, 12 Feb 2026 08:02:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. Database: Explain database indexing and when to use it
+
+**Difficulty**: Medium | **Topics**: optimization, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+B-tree, trade-offs, query performance
+
+</details>
+
+### 2. React: Explain the difference between state and props
 
 **Difficulty**: Easy | **Topics**: data flow, components
 
@@ -237,25 +246,14 @@ Ownership, mutability, data flow direction
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
-
-<details>
-<summary>💡 Hint</summary>
-
-Consistency, partitioning, replication, eviction policies
-
-</details>
-
-### 3. Database: Design a database schema for a social media platform
-
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -289,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Feb 2026 06:02:10 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Feb 2026 07:17:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
