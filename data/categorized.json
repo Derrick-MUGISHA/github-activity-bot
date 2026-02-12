@@ -163,6 +163,21 @@
       "user": "Brian Baliach"
     },
     {
+      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
+      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
+      "published_at": "2026-02-10T15:04:38Z",
+      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
+      "tags": [
+        "voice",
+        "ai",
+        "python",
+        "smallestai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
+      "source": "Dev.to",
+      "user": "Abhishek Mishra"
+    },
+    {
       "title": "Software engineering isn't dead",
       "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
       "published_at": "2026-02-06T18:41:30Z",
@@ -559,23 +574,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 1053,
       "user": "ComposioHQ"
-    },
-    {
-      "title": "Karmacoke/chargen - AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
-      "url": "https://github.com/Karmacoke/chargen",
-      "published_at": "2026-02-06T06:29:33Z",
-      "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259779941?v=4",
-      "source": "GitHub",
-      "stars": 101,
-      "user": "Karmacoke"
     },
     {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
@@ -589,7 +589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 317,
       "user": "aeromomo"
     },
     {
@@ -604,23 +604,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 186,
       "user": "praetorian-inc"
-    },
-    {
-      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "url": "https://github.com/stellarlinkco/myclaw",
-      "published_at": "2026-02-07T06:17:31Z",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
-      "source": "GitHub",
-      "stars": 152,
-      "user": "stellarlinkco"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -634,8 +619,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 179,
       "user": "RevylAI"
+    },
+    {
+      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "url": "https://github.com/stellarlinkco/myclaw",
+      "published_at": "2026-02-07T06:17:31Z",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
+      "source": "GitHub",
+      "stars": 154,
+      "user": "stellarlinkco"
     },
     {
       "title": "mosaxiv/picoclaw - Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
@@ -649,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 121,
       "user": "mosaxiv"
     }
   ],
@@ -888,7 +888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 1053,
       "user": "ComposioHQ"
     },
     {
@@ -903,7 +903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 258,
       "user": "linguo2625469"
     },
     {
@@ -918,7 +918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "africa1207"
     },
     {
@@ -937,19 +937,19 @@
       "user": "by-sonic"
     },
     {
-      "title": "Karmacoke/chargen - AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
-      "url": "https://github.com/Karmacoke/chargen",
-      "published_at": "2026-02-06T06:29:33Z",
-      "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
+      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署。",
+      "url": "https://github.com/xvhuan/xiaoi",
+      "published_at": "2026-02-10T16:05:01Z",
+      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259779941?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 101,
-      "user": "Karmacoke"
+      "stars": 102,
+      "user": "xvhuan"
     }
   ],
   "Python": [
@@ -982,6 +982,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpis0l6fs4am4k7qb3et.png",
       "source": "Dev.to",
       "user": "Mohamed ali May"
+    },
+    {
+      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
+      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
+      "published_at": "2026-02-10T15:04:38Z",
+      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
+      "tags": [
+        "voice",
+        "ai",
+        "python",
+        "smallestai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
+      "source": "Dev.to",
+      "user": "Abhishek Mishra"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1160,7 +1175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 317,
       "user": "aeromomo"
     },
     {
@@ -1175,7 +1190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "marshallrichards"
     }
   ],
@@ -1384,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "marshallrichards"
     }
   ],
@@ -1457,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "africa1207"
     }
   ],
@@ -1545,7 +1560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 186,
       "user": "praetorian-inc"
     }
   ],
@@ -1608,18 +1623,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0oiafmvc3lm979kiw560.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Five Git Config Settings Every Dev Needs",
-      "url": "https://dev.to/nickytonline/five-git-config-settings-every-dev-needs-3e55",
-      "published_at": "2026-02-10T02:19:13Z",
-      "description": "You've probably added some settings to your Git Configuration, but here are some you might not have...",
-      "tags": [
-        "git"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3pafpssoe8bf9qoop65s.jpg",
-      "source": "Dev.to",
-      "user": "Nick Taylor"
     },
     {
       "title": "How to Run OpenClaw with DigitalOcean",
@@ -1750,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 1053,
       "user": "ComposioHQ"
     },
     {
@@ -1765,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 258,
       "user": "linguo2625469"
     },
     {
@@ -1780,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "africa1207"
     },
     {
@@ -1799,19 +1802,19 @@
       "user": "by-sonic"
     },
     {
-      "title": "Karmacoke/chargen - AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
-      "url": "https://github.com/Karmacoke/chargen",
-      "published_at": "2026-02-06T06:29:33Z",
-      "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
+      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署。",
+      "url": "https://github.com/xvhuan/xiaoi",
+      "published_at": "2026-02-10T16:05:01Z",
+      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259779941?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 101,
-      "user": "Karmacoke"
+      "stars": 102,
+      "user": "xvhuan"
     },
     {
       "title": "trumpet-noek/sora2-free-watermark-remover - sora2 free watermark remover",
@@ -1870,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 317,
       "user": "aeromomo"
     },
     {
@@ -1885,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "marshallrichards"
     },
     {
@@ -1900,8 +1903,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 186,
       "user": "praetorian-inc"
+    },
+    {
+      "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
+      "url": "https://github.com/RevylAI/greenlight",
+      "published_at": "2026-02-11T22:54:47Z",
+      "description": "Pre-submission compliance scanner for the Apple App Store",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
+      "source": "GitHub",
+      "stars": 179,
+      "user": "RevylAI"
     },
     {
       "title": "simonw/showboat - Create executable documents that demonstrate an agent's work",
@@ -1915,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 166,
       "user": "simonw"
     },
     {
@@ -1930,23 +1948,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "stellarlinkco"
-    },
-    {
-      "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
-      "url": "https://github.com/RevylAI/greenlight",
-      "published_at": "2026-02-11T22:54:47Z",
-      "description": "Pre-submission compliance scanner for the Apple App Store",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
-      "source": "GitHub",
-      "stars": 152,
-      "user": "RevylAI"
     },
     {
       "title": "mosaxiv/picoclaw - Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
@@ -1960,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 121,
       "user": "mosaxiv"
     }
   ]

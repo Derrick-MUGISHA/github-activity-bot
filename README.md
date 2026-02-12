@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-12-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (44.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (44.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.4%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**WebDev**: 🟦🟦🟦 7 (6.8%)
 
-**Cloud**: 🟦🟦 5 (4.8%)
+**Cloud**: 🟦🟦 5 (4.9%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦 5 (4.9%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.9%)
 
 **Mobile**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.5 (26.5%)
-Java            █████████████████████████ 21.7 (21.7%)
-Go              █████████████████████████ 21.7 (21.7%)
-Python          ███████████████████████ 20.5 (20.5%)
+JavaScript      ██████████████████████████████ 26.2 (26.2%)
+Java            █████████████████████████ 21.4 (21.4%)
+Go              █████████████████████████ 21.4 (21.4%)
+Python          █████████████████████████ 21.4 (21.4%)
 Rust            ████ 3.6 (3.6%)
 PHP             ███ 2.4 (2.4%)
 Swift           ███ 2.4 (2.4%)
@@ -76,7 +76,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 22
     "Java" : 18
     "Go" : 18
-    "Python" : 17
+    "Python" : 18
     "Rust" : 3
     "PHP" : 2
     "Swift" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-13-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![learning](https://img.shields.io/badge/learning-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![community](https://img.shields.io/badge/community-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![learning](https://img.shields.io/badge/learning-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![community](https://img.shields.io/badge/community-5-blue) ![career](https://img.shields.io/badge/career-5-blue) 
 
 
 
@@ -127,22 +127,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-12 4:00 CAT)
+## 📅 Latest Updates (2026-02-12 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png" width="200" alt="ASCII Whisper: Local P2P Chat with Sound FX and Battleship" />
-      <br/>
-      <b>ASCII Whisper: Local P2P Chat with Sound FX and Ba...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png" width="200" alt="How Seriously Should We Take State of JS and Other Developer Surveys?" />
@@ -161,8 +152,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjrmbviay3li48kpg4ai.png" width="200" alt="One Month at a Startup: What Stayed With Me After I Left" />
@@ -172,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtnb5y3g76gi5xju04gr.png" width="200" alt="How dev.to became my comfortable corner of the internet (and my New Year resolution)" />
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png" width="200" alt="ASCII Whisper: Local P2P Chat with Sound FX and Battleship" />
+      <br/>
+      <b>ASCII Whisper: Local P2P Chat with Sound FX and Ba...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -197,12 +197,12 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [ASCII Whisper: Local P2P Chat with Sound FX and Battleship](https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7) _[Dev.to]_
 - [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce) _[Dev.to]_
 - [Stack Overflow: Time for a Change?](https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p) _[Dev.to]_
 - [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
 - [How dev.to became my comfortable corner of the internet (and my New Year resolution)](https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc) _[Dev.to]_
+- [ASCII Whisper: Local P2P Chat with Sound FX and Battleship](https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7) _[Dev.to]_
 - [Re-creating a Pantone Color Deck in CSS](https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108) _[Dev.to]_
 - [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl) _[Dev.to]_
 - [The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith](https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c) _[Dev.to]_
@@ -216,9 +216,9 @@ npm run test
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 - [Using Laravel Boost With DDEV](https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6) _[Dev.to]_
 - [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
-- [I’m in a Room Full of People Smarter Than Me — Here’s What They Actually Talk About](https://dev.to/camb/im-in-a-room-full-of-people-smarter-than-me-heres-what-they-actually-talk-about-3flh) _[Dev.to]_
+- [Getting most of your local LLM setup](https://dev.to/av-codes/getting-most-of-your-local-llm-setup-4pmg) _[Dev.to]_
 
-_Last automated update: Thu, 12 Feb 2026 04:44:42 CAT_
+_Last automated update: Thu, 12 Feb 2026 06:49:22 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 12 Feb 2026 04:44:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Feb 2026 02:44:42 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Feb 2026 04:49:22 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
