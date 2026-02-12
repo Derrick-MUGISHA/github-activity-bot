@@ -339,21 +339,6 @@
       "user": "NorthernDev"
     },
     {
-      "title": "How Fishjam.io Built a Multi-Speaker AI Game using Gemini Live",
-      "url": "https://dev.to/googleai/how-fishjamio-built-a-multi-speaker-ai-game-using-gemini-live-20md",
-      "published_at": "2026-02-09T15:43:54Z",
-      "description": "Picture a lively dinner party: glasses clinking, half-finished sentences, and three people laughing...",
-      "tags": [
-        "voiceai",
-        "webrtc",
-        "ai",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnn3z7x5yyudnn6w65n7z.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
       "title": "Dear Vibe Coder: Your Code Is the Problem.",
       "url": "https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc",
       "published_at": "2026-02-09T17:12:21Z",
@@ -427,6 +412,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdc2a8cnzqlee0046v7r.png",
       "source": "Dev.to",
       "user": "Debajyati Dey"
+    },
+    {
+      "title": "Advancing AI benchmarking with Game Arena",
+      "url": "https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda",
+      "published_at": "2026-02-10T18:25:38Z",
+      "description": "Chess is a game of perfect information. The real world is not.  Last year, Google DeepMind partnered...",
+      "tags": [
+        "ai",
+        "gemini",
+        "kaggle",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F85vprd91e90o1etct7o5.webp",
+      "source": "Dev.to",
+      "user": "Oran Kelly"
     },
     {
       "title": "Airfoil",
@@ -572,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1344,
+      "stars": 1357,
       "user": "ComposioHQ"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "aeromomo"
     },
     {
@@ -602,7 +602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 354,
       "user": "RevylAI"
     },
     {
@@ -617,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "praetorian-inc"
     },
     {
@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "mosaxiv"
     }
   ],
@@ -738,21 +738,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fobiudf00y4joobgomxzm.png",
       "source": "Dev.to",
       "user": "Akarsh Cholapurath"
-    },
-    {
-      "title": "How Fishjam.io Built a Multi-Speaker AI Game using Gemini Live",
-      "url": "https://dev.to/googleai/how-fishjamio-built-a-multi-speaker-ai-game-using-gemini-live-20md",
-      "published_at": "2026-02-09T15:43:54Z",
-      "description": "Picture a lively dinner party: glasses clinking, half-finished sentences, and three people laughing...",
-      "tags": [
-        "voiceai",
-        "webrtc",
-        "ai",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnn3z7x5yyudnn6w65n7z.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -886,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1344,
+      "stars": 1357,
       "user": "ComposioHQ"
     },
     {
@@ -901,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 277,
       "user": "linguo2625469"
     },
     {
@@ -1188,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 349,
       "user": "clocky-needledev"
     },
     {
@@ -1203,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "aeromomo"
     }
   ],
@@ -1573,7 +1558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "praetorian-inc"
     }
   ],
@@ -1765,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1344,
+      "stars": 1357,
       "user": "ComposioHQ"
     },
     {
@@ -1780,7 +1765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 277,
       "user": "linguo2625469"
     },
     {
@@ -1885,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 349,
       "user": "clocky-needledev"
     },
     {
@@ -1900,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "aeromomo"
     },
     {
@@ -1915,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 354,
       "user": "RevylAI"
     },
     {
@@ -1930,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "praetorian-inc"
     },
     {
@@ -1975,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "mosaxiv"
     }
   ]
