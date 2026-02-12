@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![learning](https://img.shields.io/badge/learning-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![learning](https://img.shields.io/badge/learning-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-12 23:00 CAT)
+## 📅 Latest Updates (2026-02-13 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png" width="200" alt="How Seriously Should We Take State of JS and Other Developer Surveys?" />
+    <a href="https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm1fpp1ggp3dnlm2z8160.gif" width="200" alt="Built a Vibe Coded App where you can Style any Image you like! :D" />
       <br/>
-      <b>How Seriously Should We Take State of JS and Other...</b>
+      <b>Built a Vibe Coded App where you can Style any Ima...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,9 +200,10 @@ npm run test
 - [Get **** done. I hate what Trello has become](https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05) _[Dev.to]_
 - [HTML Accessibility Review](https://dev.to/richardpascoe/html-accessibility-review-3md8) _[Dev.to]_
 - [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl) _[Dev.to]_
+- [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p) _[Dev.to]_
 - [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce) _[Dev.to]_
-- [Stack Overflow: Time for a Change?](https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p) _[Dev.to]_
 - [Becoming 1% better each day.](https://dev.to/della_codes/becoming-1-better-each-day-1p9m) _[Dev.to]_
+- [Stack Overflow: Time for a Change?](https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p) _[Dev.to]_
 - [Your IDE is an Attack Vector](https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b) _[Dev.to]_
 - [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) _[Dev.to]_
 - [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
 - [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
-- [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 
-_Last automated update: Thu, 12 Feb 2026 23:49:13 CAT_
+_Last automated update: Fri, 13 Feb 2026 00:28:57 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Thu, 12 Feb 2026 23:49:13 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
-
-**Difficulty**: Easy | **Topics**: variables, scope
-
-<details>
-<summary>💡 Hint</summary>
-
-Scope, hoisting, and reassignment capabilities
-
-</details>
-
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
 **Difficulty**: Medium | **Topics**: event loop, async
 
@@ -246,14 +235,25 @@ Execution timing, event loop phases
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Consistency, partitioning, replication, eviction policies
+
+</details>
+
+### 3. Python: Explain decorators in Python with an example
+
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
+
+<details>
+<summary>💡 Hint</summary>
+
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Feb 2026 21:49:13 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Feb 2026 22:28:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
