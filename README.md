@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-12 19:00 CAT)
+## 📅 Latest Updates (2026-02-12 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/della_codes/becoming-1-better-each-day-1p9m">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp" width="200" alt="Becoming 1% better each day." />
+    <a href="https://dev.to/richardpascoe/design-a-movie-review-page-36bl">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeul6sksympnvp7vr435.png" width="200" alt="Design a Movie Review Page" />
       <br/>
-      <b>Becoming 1% better each day.</b>
+      <b>Design a Movie Review Page</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fskz1tl4rzcbhe2z3ot2i.jpg" width="200" alt="Re-creating a Pantone Color Deck in CSS" />
+    <a href="https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png" width="200" alt="How Seriously Should We Take State of JS and Other Developer Surveys?" />
       <br/>
-      <b>Re-creating a Pantone Color Deck in CSS</b>
+      <b>How Seriously Should We Take State of JS and Other...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,11 +199,10 @@ npm run test
 - [How dev.to became my comfortable corner of the internet (and my New Year resolution)](https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8) _[Dev.to]_
 - [Get **** done. I hate what Trello has become](https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05) _[Dev.to]_
 - [HTML Accessibility Review](https://dev.to/richardpascoe/html-accessibility-review-3md8) _[Dev.to]_
-- [Becoming 1% better each day.](https://dev.to/della_codes/becoming-1-better-each-day-1p9m) _[Dev.to]_
-- [Re-creating a Pantone Color Deck in CSS](https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108) _[Dev.to]_
 - [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl) _[Dev.to]_
 - [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce) _[Dev.to]_
 - [Stack Overflow: Time for a Change?](https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p) _[Dev.to]_
+- [Becoming 1% better each day.](https://dev.to/della_codes/becoming-1-better-each-day-1p9m) _[Dev.to]_
 - [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) _[Dev.to]_
 - [How I Used GitHub Copilot CLI to Make Git 10x Less Scary](https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf) _[Dev.to]_
 - [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
 - [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
+- [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 
-_Last automated update: Thu, 12 Feb 2026 19:17:02 CAT_
+_Last automated update: Thu, 12 Feb 2026 20:12:17 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 12 Feb 2026 19:17:02 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Mutability, performance, use cases
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Feb 2026 17:17:02 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Feb 2026 18:12:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

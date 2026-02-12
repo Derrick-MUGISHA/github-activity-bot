@@ -542,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1408,
+      "stars": 1415,
       "user": "ComposioHQ"
     },
     {
@@ -572,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 418,
       "user": "RevylAI"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 201,
       "user": "praetorian-inc"
     },
     {
@@ -856,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1408,
+      "stars": 1415,
       "user": "ComposioHQ"
     },
     {
@@ -916,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "iamzifei"
     }
   ],
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "clocky-needledev"
     },
     {
@@ -1253,36 +1253,6 @@
       "user": "Richard Pascoe"
     },
     {
-      "title": "Becoming 1% better each day.",
-      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
-      "published_at": "2026-02-12T05:39:19Z",
-      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
-      "tags": [
-        "100daysofcode",
-        "frontend",
-        "learning",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
-      "source": "Dev.to",
-      "user": "Della Dominic"
-    },
-    {
-      "title": "Re-creating a Pantone Color Deck in CSS",
-      "url": "https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108",
-      "published_at": "2026-02-11T13:05:10Z",
-      "description": "If you’ve ever held a Pantone fan deck — the kind graphic designers used to carry around like a...",
-      "tags": [
-        "html",
-        "css",
-        "tutorial",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fskz1tl4rzcbhe2z3ot2i.jpg",
-      "source": "Dev.to",
-      "user": "Mads Stoumann"
-    },
-    {
       "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
       "url": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
       "published_at": "2026-02-10T10:43:07Z",
@@ -1298,6 +1268,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Becoming 1% better each day.",
+      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
+      "published_at": "2026-02-12T05:39:19Z",
+      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
+      "tags": [
+        "100daysofcode",
+        "frontend",
+        "learning",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
+      "source": "Dev.to",
+      "user": "Della Dominic"
+    },
+    {
       "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
       "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
       "published_at": "2026-02-09T14:43:12Z",
@@ -1311,6 +1296,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
       "source": "Dev.to",
       "user": "Fabien Sebban"
+    },
+    {
+      "title": "Re-creating a Pantone Color Deck in CSS",
+      "url": "https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108",
+      "published_at": "2026-02-11T13:05:10Z",
+      "description": "If you’ve ever held a Pantone fan deck — the kind graphic designers used to carry around like a...",
+      "tags": [
+        "html",
+        "css",
+        "tutorial",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fskz1tl4rzcbhe2z3ot2i.jpg",
+      "source": "Dev.to",
+      "user": "Mads Stoumann"
     },
     {
       "title": "Native CSS Utilities",
@@ -1586,7 +1586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 201,
       "user": "praetorian-inc"
     }
   ],
@@ -1808,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1408,
+      "stars": 1415,
       "user": "ComposioHQ"
     },
     {
@@ -1868,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "iamzifei"
     },
     {
@@ -1928,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "clocky-needledev"
     },
     {
@@ -1958,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 418,
       "user": "RevylAI"
     },
     {
@@ -1973,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 201,
       "user": "praetorian-inc"
     },
     {
