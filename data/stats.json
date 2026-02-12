@@ -20,9 +20,9 @@
   "by_language": {
     "JavaScript": 22,
     "Java": 18,
-    "Go": 17,
-    "Rust": 3,
     "Python": 18,
+    "Rust": 3,
+    "Go": 17,
     "PHP": 2,
     "Swift": 2
   },
@@ -95,9 +95,9 @@
   "language_percentages": {
     "JavaScript": "26.8",
     "Java": "22.0",
-    "Go": "20.7",
-    "Rust": "3.7",
     "Python": "22.0",
+    "Rust": "3.7",
+    "Go": "20.7",
     "PHP": "2.4",
     "Swift": "2.4"
   }

@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-12 9:00 CAT)
+## 📅 Latest Updates (2026-02-12 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,10 +203,8 @@ npm run test
 - [ASCII Whisper: Local P2P Chat with Sound FX and Battleship](https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7) _[Dev.to]_
 - [Re-creating a Pantone Color Deck in CSS](https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108) _[Dev.to]_
 - [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl) _[Dev.to]_
-- [The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith](https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c) _[Dev.to]_
 - [Content-Addressed Memoization for Durable Execution](https://dev.to/shobande_femi/content-addressed-memoization-for-durable-execution-4h2h) _[Dev.to]_
 - [How I Used GitHub Copilot CLI to Make Git 10x Less Scary](https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf) _[Dev.to]_
-- [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog) _[Dev.to]_
 - [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
@@ -215,8 +213,10 @@ npm run test
 - [Using Laravel Boost With DDEV](https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6) _[Dev.to]_
 - [Getting most of your local LLM setup](https://dev.to/av-codes/getting-most-of-your-local-llm-setup-4pmg) _[Dev.to]_
 - [My New Language That’s Almost Done](https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31) _[Dev.to]_
+- [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
+- [GitHub down 😭](https://dev.to/ben/github-down-194f) _[Dev.to]_
 
-_Last automated update: Thu, 12 Feb 2026 09:17:04 CAT_
+_Last automated update: Thu, 12 Feb 2026 10:03:40 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 12 Feb 2026 09:17:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Feb 2026 07:17:04 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Feb 2026 08:03:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
