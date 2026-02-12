@@ -31,6 +31,21 @@
       "user": "Shingirayi Innocent Mandebvu"
     },
     {
+      "title": "AI Won't Save You If You Don't Know What Good Code Looks Like",
+      "url": "https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144",
+      "published_at": "2026-02-12T11:48:29Z",
+      "description": "Every other post on your feed is telling you AI tools are going to \"revolutionize\" your coding...",
+      "tags": [
+        "ai",
+        "programming",
+        "softwaredevelopment",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk3wm37zv39x2k06hozwe.png",
+      "source": "Dev.to",
+      "user": "joietej"
+    },
+    {
       "title": "Solving Claude's Amnesia: Building Persistent Memory with MCP",
       "url": "https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co",
       "published_at": "2026-02-11T12:14:50Z",
@@ -147,21 +162,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficce9rgl5kalbmt0vu2k.png",
       "source": "Dev.to",
       "user": "Art light"
-    },
-    {
-      "title": "Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI",
-      "url": "https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh",
-      "published_at": "2026-02-10T13:41:01Z",
-      "description": "I recently bought a starter kit for Arduino to learn robotics. I was curious to learn some basic...",
-      "tags": [
-        "discuss",
-        "ai",
-        "robotics",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5qw0h0jpoda31qasiwcq.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
     },
     {
       "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
@@ -399,36 +399,6 @@
       "user": "Jess Lulka"
     },
     {
-      "title": "I built codex-monitor so I could ship code while I slept",
-      "url": "https://dev.to/jaeko44/i-built-codex-monitor-so-i-could-ship-code-while-i-slept-58in",
-      "published_at": "2026-02-08T02:51:48Z",
-      "description": "An open source supervisor for AI coding agents — because leaving them unsupervised is how you wake up to zero commits and a maxed out API bill.",
-      "tags": [
-        "ai",
-        "opensource",
-        "llm",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk73t2mytf7i8ieeu0mze.png",
-      "source": "Dev.to",
-      "user": "Jonathan Philipos"
-    },
-    {
-      "title": "Building a Robust Classifier with Stacked Generalization",
-      "url": "https://dev.to/ddebajyati/building-a-robust-classifier-with-stacked-generalization-5flk",
-      "published_at": "2026-02-10T17:44:43Z",
-      "description": "I am thinking to start writing an ML series. The series would contain various ML approaches...",
-      "tags": [
-        "python",
-        "datascience",
-        "machinelearning",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdc2a8cnzqlee0046v7r.png",
-      "source": "Dev.to",
-      "user": "Debajyati Dey"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -572,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1389,
+      "stars": 1408,
       "user": "ComposioHQ"
     },
     {
@@ -587,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 330,
       "user": "aeromomo"
     },
     {
@@ -602,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 403,
       "user": "RevylAI"
     },
     {
@@ -617,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 198,
       "user": "praetorian-inc"
     },
     {
@@ -666,6 +636,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
+      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
+      "published_at": "2026-02-12T06:27:14Z",
+      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
+      "tags": [
+        "supabase",
+        "react",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
+      "source": "Dev.to",
+      "user": "Fongoh Martin T."
     },
     {
       "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
@@ -871,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1389,
+      "stars": 1408,
       "user": "ComposioHQ"
     },
     {
@@ -886,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "linguo2625469"
     },
     {
@@ -916,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171230345?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 161,
       "user": "by-sonic"
     },
     {
@@ -931,11 +916,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 127,
       "user": "iamzifei"
     }
   ],
   "Python": [
+    {
+      "title": "Checking Django Settings",
+      "url": "https://dev.to/adamghill/checking-django-settings-12g4",
+      "published_at": "2026-02-12T15:57:58Z",
+      "description": "I still keep coming back to this \"the settings file still feels like a lot\" concern in...",
+      "tags": [
+        "django",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2z8mus2r8brov30837a.png",
+      "source": "Dev.to",
+      "user": "Adam Hill"
+    },
     {
       "title": "Solving Claude's Amnesia: Building Persistent Memory with MCP",
       "url": "https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co",
@@ -980,21 +978,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
       "source": "Dev.to",
       "user": "Abhishek Mishra"
-    },
-    {
-      "title": "Building a Robust Classifier with Stacked Generalization",
-      "url": "https://dev.to/ddebajyati/building-a-robust-classifier-with-stacked-generalization-5flk",
-      "published_at": "2026-02-10T17:44:43Z",
-      "description": "I am thinking to start writing an ML series. The series would contain various ML approaches...",
-      "tags": [
-        "python",
-        "datascience",
-        "machinelearning",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdc2a8cnzqlee0046v7r.png",
-      "source": "Dev.to",
-      "user": "Debajyati Dey"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1173,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 357,
       "user": "clocky-needledev"
     },
     {
@@ -1188,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 330,
       "user": "aeromomo"
     }
   ],
@@ -1254,6 +1237,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "HTML Accessibility Review",
+      "url": "https://dev.to/richardpascoe/html-accessibility-review-3md8",
+      "published_at": "2026-02-12T14:00:13Z",
+      "description": "The HTML Accessibility review on freeCodeCamp offered a valuable opportunity to revisit concepts from...",
+      "tags": [
+        "community",
+        "learning",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzpk871ndocs5yhn4qdj.png",
+      "source": "Dev.to",
+      "user": "Richard Pascoe"
+    },
     {
       "title": "Becoming 1% better each day.",
       "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
@@ -1476,6 +1474,21 @@
   ],
   "Database": [
     {
+      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
+      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
+      "published_at": "2026-02-12T06:27:14Z",
+      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
+      "tags": [
+        "supabase",
+        "react",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
+      "source": "Dev.to",
+      "user": "Fongoh Martin T."
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1489,6 +1502,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "Your IDE is an Attack Vector",
+      "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
+      "published_at": "2026-02-12T00:36:03Z",
+      "description": "A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...",
+      "tags": [
+        "vscode",
+        "security",
+        "phishing",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
+      "source": "Dev.to",
+      "user": "Peter Mulligan"
+    },
     {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
       "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
@@ -1558,7 +1586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 198,
       "user": "praetorian-inc"
     }
   ],
@@ -1609,6 +1637,21 @@
       "user": "Shingirayi Innocent Mandebvu"
     },
     {
+      "title": "AI Won't Save You If You Don't Know What Good Code Looks Like",
+      "url": "https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144",
+      "published_at": "2026-02-12T11:48:29Z",
+      "description": "Every other post on your feed is telling you AI tools are going to \"revolutionize\" your coding...",
+      "tags": [
+        "ai",
+        "programming",
+        "softwaredevelopment",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk3wm37zv39x2k06hozwe.png",
+      "source": "Dev.to",
+      "user": "joietej"
+    },
+    {
       "title": "Solving Claude's Amnesia: Building Persistent Memory with MCP",
       "url": "https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co",
       "published_at": "2026-02-11T12:14:50Z",
@@ -1622,6 +1665,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpis0l6fs4am4k7qb3et.png",
       "source": "Dev.to",
       "user": "Mohamed ali May"
+    },
+    {
+      "title": "Your IDE is an Attack Vector",
+      "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
+      "published_at": "2026-02-12T00:36:03Z",
+      "description": "A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...",
+      "tags": [
+        "vscode",
+        "security",
+        "phishing",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
+      "source": "Dev.to",
+      "user": "Peter Mulligan"
     },
     {
       "title": "How to Run OpenClaw with DigitalOcean",
@@ -1750,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1389,
+      "stars": 1408,
       "user": "ComposioHQ"
     },
     {
@@ -1765,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "linguo2625469"
     },
     {
@@ -1795,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171230345?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 161,
       "user": "by-sonic"
     },
     {
@@ -1810,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 127,
       "user": "iamzifei"
     },
     {
@@ -1870,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 357,
       "user": "clocky-needledev"
     },
     {
@@ -1885,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 330,
       "user": "aeromomo"
     },
     {
@@ -1900,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 403,
       "user": "RevylAI"
     },
     {
@@ -1915,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 198,
       "user": "praetorian-inc"
     },
     {
@@ -1930,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 194,
       "user": "simonw"
     },
     {
