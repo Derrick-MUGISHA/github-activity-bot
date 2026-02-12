@@ -267,21 +267,6 @@
       "user": "Jawad Elhaouchi"
     },
     {
-      "title": "Why OpenClaw Breaks at Scale: A Technical Perspective",
-      "url": "https://dev.to/alifar/why-openclaw-breaks-at-scale-a-technical-perspective-6o5",
-      "published_at": "2026-02-07T20:39:20Z",
-      "description": "OpenClaw has gained noticeable traction in developer and infrastructure-focused communities. OpenClaw...",
-      "tags": [
-        "ai",
-        "architecture",
-        "opensource",
-        "systemdesign"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7na8is1f0psgyowklwy.jpg",
-      "source": "Dev.to",
-      "user": "Ali Farhat"
-    },
-    {
       "title": "Tailwind Alchemist: find all tailwind colors in your codebase",
       "url": "https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o",
       "published_at": "2026-02-04T15:29:15Z",
@@ -587,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1212,
       "user": "ComposioHQ"
     },
     {
@@ -602,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "aeromomo"
     },
     {
@@ -617,7 +602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 259,
       "user": "RevylAI"
     },
     {
@@ -632,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 194,
       "user": "praetorian-inc"
     },
     {
@@ -651,10 +636,10 @@
       "user": "stellarlinkco"
     },
     {
-      "title": "mosaxiv/picoclaw - Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
-      "url": "https://github.com/mosaxiv/picoclaw",
+      "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
+      "url": "https://github.com/mosaxiv/clawlet",
       "published_at": "2026-02-09T10:48:17Z",
-      "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
+      "description": "Lightweight Personal AI Assistant",
       "tags": [
         "go",
         "github",
@@ -662,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "mosaxiv"
     }
   ],
@@ -901,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1212,
       "user": "ComposioHQ"
     },
     {
@@ -916,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 266,
       "user": "linguo2625469"
     },
     {
@@ -931,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "africa1207"
     },
     {
@@ -950,10 +935,10 @@
       "user": "by-sonic"
     },
     {
-      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署。",
+      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
       "url": "https://github.com/xvhuan/xiaoi",
       "published_at": "2026-02-10T16:05:01Z",
-      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署。",
+      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
       "tags": [
         "javascript",
         "github",
@@ -1203,23 +1188,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "aeromomo"
     },
     {
-      "title": "clocky-needledev/Polymarket-Trading-Bot-2026-T - polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
-      "url": "https://github.com/clocky-needledev/Polymarket-Trading-Bot-2026-T",
-      "published_at": "2026-02-06T22:25:50Z",
-      "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
+      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
+      "url": "https://github.com/marshallrichards/ClawPhone",
+      "published_at": "2026-02-07T08:11:59Z",
+      "description": "Tweaks for running OpenClaw on a Android smartphone",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
       "source": "GitHub",
-      "stars": 313,
-      "user": "clocky-needledev"
+      "stars": 304,
+      "user": "marshallrichards"
     }
   ],
   "DevOps": [
@@ -1281,6 +1266,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl6ligout75eq676e47zd.png",
       "source": "Dev.to",
       "user": "Akash Tewari"
+    },
+    {
+      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
+      "url": "https://github.com/xvhuan/xiaoi",
+      "published_at": "2026-02-10T16:05:01Z",
+      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "xvhuan"
     }
   ],
   "WebDev": [
@@ -1414,6 +1414,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1d4u7tdhh8wm80g4xq0.png",
       "source": "Dev.to",
       "user": "Timothy Fosteman"
+    },
+    {
+      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
+      "url": "https://github.com/marshallrichards/ClawPhone",
+      "published_at": "2026-02-07T08:11:59Z",
+      "description": "Tweaks for running OpenClaw on a Android smartphone",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
+      "source": "GitHub",
+      "stars": 304,
+      "user": "marshallrichards"
     }
   ],
   "Cloud": [
@@ -1485,7 +1500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "africa1207"
     }
   ],
@@ -1573,7 +1588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 194,
       "user": "praetorian-inc"
     }
   ],
@@ -1764,7 +1779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1212,
       "user": "ComposioHQ"
     },
     {
@@ -1779,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 266,
       "user": "linguo2625469"
     },
     {
@@ -1794,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "africa1207"
     },
     {
@@ -1813,10 +1828,10 @@
       "user": "by-sonic"
     },
     {
-      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署。",
+      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
       "url": "https://github.com/xvhuan/xiaoi",
       "published_at": "2026-02-10T16:05:01Z",
-      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署。",
+      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
       "tags": [
         "javascript",
         "github",
@@ -1884,23 +1899,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "aeromomo"
     },
     {
-      "title": "clocky-needledev/Polymarket-Trading-Bot-2026-T - polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
-      "url": "https://github.com/clocky-needledev/Polymarket-Trading-Bot-2026-T",
-      "published_at": "2026-02-06T22:25:50Z",
-      "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
+      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
+      "url": "https://github.com/marshallrichards/ClawPhone",
+      "published_at": "2026-02-07T08:11:59Z",
+      "description": "Tweaks for running OpenClaw on a Android smartphone",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
       "source": "GitHub",
-      "stars": 313,
-      "user": "clocky-needledev"
+      "stars": 304,
+      "user": "marshallrichards"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -1914,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 259,
       "user": "RevylAI"
     },
     {
@@ -1929,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 194,
       "user": "praetorian-inc"
     },
     {
@@ -1944,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 181,
       "user": "simonw"
     },
     {
@@ -1963,10 +1978,10 @@
       "user": "stellarlinkco"
     },
     {
-      "title": "mosaxiv/picoclaw - Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
-      "url": "https://github.com/mosaxiv/picoclaw",
+      "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
+      "url": "https://github.com/mosaxiv/clawlet",
       "published_at": "2026-02-09T10:48:17Z",
-      "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
+      "description": "Lightweight Personal AI Assistant",
       "tags": [
         "go",
         "github",
@@ -1974,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "mosaxiv"
     }
   ]
