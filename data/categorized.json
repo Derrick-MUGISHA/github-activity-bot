@@ -178,21 +178,6 @@
       "user": "Abhishek Mishra"
     },
     {
-      "title": "Software engineering isn't dead",
-      "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
-      "published_at": "2026-02-06T18:41:30Z",
-      "description": "Doom   People love defaulting to doom and gloom. I get it. I've been there, it used to be my...",
-      "tags": [
-        "ai",
-        "thoughts",
-        "softwareengineering",
-        "future"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
-      "source": "Dev.to",
-      "user": "Dan Walsh"
-    },
-    {
       "title": "How to Run OpenClaw with DigitalOcean",
       "url": "https://dev.to/digitalocean/how-to-run-openclaw-with-digitalocean-3mpb",
       "published_at": "2026-02-10T18:45:07Z",
@@ -572,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1286,
+      "stars": 1318,
       "user": "ComposioHQ"
     },
     {
@@ -587,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 323,
       "user": "aeromomo"
     },
     {
@@ -602,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 302,
       "user": "RevylAI"
     },
     {
@@ -632,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "stellarlinkco"
     },
     {
@@ -647,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 145,
       "user": "mosaxiv"
     }
   ],
@@ -886,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1286,
+      "stars": 1318,
       "user": "ComposioHQ"
     },
     {
@@ -901,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 274,
       "user": "linguo2625469"
     },
     {
@@ -931,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171230345?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "by-sonic"
     },
     {
@@ -946,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 117,
       "user": "xvhuan"
     }
   ],
@@ -1177,21 +1162,6 @@
       "user": "tnbeznlacut"
     },
     {
-      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "url": "https://github.com/aeromomo/claw-compactor",
-      "published_at": "2026-02-10T00:27:08Z",
-      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "aeromomo"
-    },
-    {
       "title": "clocky-needledev/Polymarket-Trading-Bot-2026-T - polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
       "url": "https://github.com/clocky-needledev/Polymarket-Trading-Bot-2026-T",
       "published_at": "2026-02-06T22:25:50Z",
@@ -1203,8 +1173,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 328,
       "user": "clocky-needledev"
+    },
+    {
+      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "url": "https://github.com/aeromomo/claw-compactor",
+      "published_at": "2026-02-10T00:27:08Z",
+      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
+      "source": "GitHub",
+      "stars": 323,
+      "user": "aeromomo"
     }
   ],
   "DevOps": [
@@ -1279,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 117,
       "user": "xvhuan"
     }
   ],
@@ -1594,6 +1579,21 @@
       "user": "Anna Villarreal"
     },
     {
+      "title": "Get **** done. I hate what Trello has become",
+      "url": "https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05",
+      "published_at": "2026-02-11T15:32:12Z",
+      "description": "I hate productivity tools. Not in a cute, ironic way. I mean I genuinely hate how they look, how they...",
+      "tags": [
+        "programming",
+        "productivity",
+        "discuss",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr92limgmfwppx8aj0nqf.png",
+      "source": "Dev.to",
+      "user": "Karsten Biedermann"
+    },
+    {
       "title": "How I Used GitHub Copilot CLI to Make Git 10x Less Scary",
       "url": "https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf",
       "published_at": "2026-02-10T16:50:51Z",
@@ -1764,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1286,
+      "stars": 1318,
       "user": "ComposioHQ"
     },
     {
@@ -1779,7 +1779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 274,
       "user": "linguo2625469"
     },
     {
@@ -1809,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171230345?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "by-sonic"
     },
     {
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 117,
       "user": "xvhuan"
     },
     {
@@ -1873,21 +1873,6 @@
       "user": "tnbeznlacut"
     },
     {
-      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "url": "https://github.com/aeromomo/claw-compactor",
-      "published_at": "2026-02-10T00:27:08Z",
-      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "aeromomo"
-    },
-    {
       "title": "clocky-needledev/Polymarket-Trading-Bot-2026-T - polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
       "url": "https://github.com/clocky-needledev/Polymarket-Trading-Bot-2026-T",
       "published_at": "2026-02-06T22:25:50Z",
@@ -1899,8 +1884,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 328,
       "user": "clocky-needledev"
+    },
+    {
+      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "url": "https://github.com/aeromomo/claw-compactor",
+      "published_at": "2026-02-10T00:27:08Z",
+      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
+      "source": "GitHub",
+      "stars": 323,
+      "user": "aeromomo"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 302,
       "user": "RevylAI"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 188,
       "user": "simonw"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "stellarlinkco"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 145,
       "user": "mosaxiv"
     }
   ]
