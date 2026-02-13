@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-13 19:00 CAT)
+## 📅 Latest Updates (2026-02-13 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -181,9 +181,9 @@ npm run test
   </td>
   <td align="center" width="33%">
     <a href="https://dev.to/sebhoek/google-analytics-saas-or-self-hosted-how-i-chose-my-analytics-stack-271g">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqpryei4v5irb6c8y91hy.png" width="200" alt="Google Analytics, SaaS, or Self-Hosted? How I Chose My Analytics Stack" />
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqpryei4v5irb6c8y91hy.png" width="200" alt="Google Analytics, SaaS, or self-hosted? How I chose my analytics stack" />
       <br/>
-      <b>Google Analytics, SaaS, or Self-Hosted? How I Chos...</b>
+      <b>Google Analytics, SaaS, or self-hosted? How I chos...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,7 +200,7 @@ npm run test
 - [How dev.to became my comfortable corner of the internet (and my New Year resolution)](https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8) _[Dev.to]_
 - [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p) _[Dev.to]_
 - [Stack Overflow: Time for a Change?](https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p) _[Dev.to]_
-- [Google Analytics, SaaS, or Self-Hosted? How I Chose My Analytics Stack](https://dev.to/sebhoek/google-analytics-saas-or-self-hosted-how-i-chose-my-analytics-stack-271g) _[Dev.to]_
+- [Google Analytics, SaaS, or self-hosted? How I chose my analytics stack](https://dev.to/sebhoek/google-analytics-saas-or-self-hosted-how-i-chose-my-analytics-stack-271g) _[Dev.to]_
 - [HTML Accessibility Review](https://dev.to/richardpascoe/html-accessibility-review-3md8) _[Dev.to]_
 - [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce) _[Dev.to]_
 - [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 
-_Last automated update: Fri, 13 Feb 2026 19:57:51 CAT_
+_Last automated update: Fri, 13 Feb 2026 20:56:09 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 13 Feb 2026 19:57:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Heap, stack, garbage collection
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Feb 2026 17:57:51 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Feb 2026 18:56:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
