@@ -18,9 +18,9 @@
     "Tools": 29
   },
   "by_language": {
-    "Go": 17,
     "JavaScript": 26,
     "Java": 20,
+    "Go": 17,
     "Python": 18,
     "Rust": 2,
     "PHP": 2,
@@ -86,14 +86,14 @@
     "cli": 4,
     "frontend": 4,
     "productivity": 4,
-    "typescript": 4,
-    "career": 4
+    "career": 4,
+    "typescript": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "19.5",
     "JavaScript": "29.9",
     "Java": "23.0",
+    "Go": "19.5",
     "Python": "20.7",
     "Rust": "2.3",
     "PHP": "2.3",
