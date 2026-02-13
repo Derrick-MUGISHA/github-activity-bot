@@ -369,6 +369,21 @@
       "user": "Jess Lulka"
     },
     {
+      "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
+      "url": "https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c",
+      "published_at": "2026-02-11T04:19:39Z",
+      "description": "I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...",
+      "tags": [
+        "go",
+        "rust",
+        "cloud",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficce9rgl5kalbmt0vu2k.png",
+      "source": "Dev.to",
+      "user": "Art light"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -465,6 +480,18 @@
       "user": "wilsonfiifi"
     },
     {
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "published_at": "2026-02-12T16:23:24Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "scottshambaugh"
+    },
+    {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
       "published_at": "2025-08-21T12:53:16Z",
@@ -475,18 +502,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "JustExAWS"
-    },
-    {
-      "title": "The young, inexperienced engineers aiding DOGE",
-      "url": "https://www.wired.com/story/elon-musk-government-young-engineers/",
-      "published_at": "2025-02-02T19:12:13Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "medler"
     },
     {
       "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
@@ -512,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1556,
       "user": "ComposioHQ"
     },
     {
@@ -542,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 646,
       "user": "RevylAI"
     },
     {
@@ -572,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "mosaxiv"
     }
   ],
@@ -811,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1556,
       "user": "ComposioHQ"
     },
     {
@@ -841,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "iamzifei"
     },
     {
@@ -871,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 108,
       "user": "iltekin"
     }
   ],
@@ -1126,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 322,
       "user": "FireRedTeam"
     }
   ],
@@ -1398,6 +1413,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
       "source": "Dev.to",
       "user": "Jawad Elhaouchi"
+    },
+    {
+      "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
+      "url": "https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c",
+      "published_at": "2026-02-11T04:19:39Z",
+      "description": "I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...",
+      "tags": [
+        "go",
+        "rust",
+        "cloud",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficce9rgl5kalbmt0vu2k.png",
+      "source": "Dev.to",
+      "user": "Art light"
     },
     {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
@@ -1748,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1556,
       "user": "ComposioHQ"
     },
     {
@@ -1778,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "iamzifei"
     },
     {
@@ -1808,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 108,
       "user": "iltekin"
     },
     {
@@ -1883,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 322,
       "user": "FireRedTeam"
     },
     {
@@ -1898,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 646,
       "user": "RevylAI"
     },
     {
@@ -1928,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "mosaxiv"
     },
     {
