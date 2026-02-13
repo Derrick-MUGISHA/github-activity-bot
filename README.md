@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-13 11:00 CAT)
+## 📅 Latest Updates (2026-02-13 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -207,16 +207,16 @@ npm run test
 - [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
 - [How I Used GitHub Copilot CLI to Make Git 10x Less Scary](https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf) _[Dev.to]_
 - [AI Won't Save You If You Don't Know What Good Code Looks Like](https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144) _[Dev.to]_
+- [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
 - [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co) _[Dev.to]_
 - [Get **** done. I hate what Trello has become](https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05) _[Dev.to]_
-- [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
 - [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 - [Using Laravel Boost With DDEV](https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6) _[Dev.to]_
 
-_Last automated update: Fri, 13 Feb 2026 11:01:57 CAT_
+_Last automated update: Fri, 13 Feb 2026 12:01:18 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 13 Feb 2026 11:01:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Heap, stack, garbage collection
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Feb 2026 09:01:57 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Feb 2026 10:01:18 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
