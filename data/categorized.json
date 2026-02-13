@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "How I Used GitHub Copilot CLI to Make Git 10x Less Scary",
-      "url": "https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf",
-      "published_at": "2026-02-10T16:50:51Z",
-      "description": "What I Built   I built Hermes 🪽 — an AI-powered Git CLI that turns natural language into...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmaumu88n050gqbmzh885.png",
-      "source": "Dev.to",
-      "user": "Shingirayi Innocent Mandebvu"
-    },
-    {
       "title": "AI Won't Save You If You Don't Know What Good Code Looks Like",
       "url": "https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144",
       "published_at": "2026-02-12T11:48:29Z",
@@ -29,21 +14,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk3wm37zv39x2k06hozwe.png",
       "source": "Dev.to",
       "user": "joietej"
-    },
-    {
-      "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
-      "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
-      "published_at": "2026-02-09T11:07:59Z",
-      "description": "Three weeks ago, I wrote about knowledge collapse - how our best technical insights are dying in...",
-      "tags": [
-        "ai",
-        "opensource",
-        "activitypub",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxuuj8wc8c32xy26iq7hi.png",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
     },
     {
       "title": "Solving Claude's Amnesia: Building Persistent Memory with MCP",
@@ -456,18 +426,6 @@
       "user": "ranebo"
     },
     {
-      "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
-      "url": "https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html",
-      "published_at": "2018-05-08T17:51:44Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "ivank"
-    },
-    {
       "title": "An AI agent published a hit piece on me",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
       "published_at": "2026-02-12T16:23:24Z",
@@ -478,6 +436,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "scottshambaugh"
+    },
+    {
+      "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
+      "url": "https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html",
+      "published_at": "2018-05-08T17:51:44Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "ivank"
     },
     {
       "title": "Paper Airplane Designs",
@@ -527,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1605,
+      "stars": 1476,
       "user": "ComposioHQ"
     },
     {
@@ -557,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 347,
       "user": "aeromomo"
     },
     {
@@ -572,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 687,
       "user": "RevylAI"
     },
     {
@@ -602,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "mosaxiv"
     }
   ],
@@ -841,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1605,
+      "stars": 1476,
       "user": "ComposioHQ"
     },
     {
@@ -856,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 296,
       "user": "linguo2625469"
     },
     {
@@ -1141,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 347,
       "user": "aeromomo"
     },
     {
@@ -1156,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "FireRedTeam"
     }
   ],
@@ -1592,21 +1562,6 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "How I Used GitHub Copilot CLI to Make Git 10x Less Scary",
-      "url": "https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf",
-      "published_at": "2026-02-10T16:50:51Z",
-      "description": "What I Built   I built Hermes 🪽 — an AI-powered Git CLI that turns natural language into...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmaumu88n050gqbmzh885.png",
-      "source": "Dev.to",
-      "user": "Shingirayi Innocent Mandebvu"
-    },
-    {
       "title": "AI Won't Save You If You Don't Know What Good Code Looks Like",
       "url": "https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144",
       "published_at": "2026-02-12T11:48:29Z",
@@ -1793,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1605,
+      "stars": 1476,
       "user": "ComposioHQ"
     },
     {
@@ -1808,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 296,
       "user": "linguo2625469"
     },
     {
@@ -1913,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 347,
       "user": "aeromomo"
     },
     {
@@ -1928,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "FireRedTeam"
     },
     {
@@ -1943,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 687,
       "user": "RevylAI"
     },
     {
@@ -1973,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "mosaxiv"
     },
     {
