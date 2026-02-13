@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 40,
+    "AI": 39,
     "JavaScript": 23,
     "Python": 18,
     "DevOps": 5,
@@ -27,7 +27,7 @@
     "Swift": 2
   },
   "by_date": {
-    "2026-02-13": 3,
+    "2026-02-13": 4,
     "2026-02-09": 10,
     "2026-02-12": 10,
     "2026-02-10": 15,
@@ -39,7 +39,6 @@
     "2026-02-04": 2,
     "2026-01-31": 1,
     "2026-01-27": 1,
-    "2026-02-02": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
     "2025-06-02": 1,
@@ -71,11 +70,11 @@
     "2026-02-07": 7
   },
   "top_tags": {
-    "ai": 19,
+    "ai": 18,
     "github": 15,
     "open-source": 15,
     "webdev": 13,
-    "discuss": 11,
+    "discuss": 12,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
@@ -84,9 +83,9 @@
     "learning": 8,
     "python": 8,
     "career": 6,
+    "community": 5,
     "tutorial": 5,
     "go": 5,
-    "community": 4,
     "frontend": 4,
     "productivity": 3,
     "security": 3,

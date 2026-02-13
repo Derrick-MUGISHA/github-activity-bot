@@ -339,21 +339,6 @@
       "user": "Gianluca La Manna"
     },
     {
-      "title": "DigitalOcean on Dev.to: Practical AI Insights for Builders",
-      "url": "https://dev.to/digitalocean/digitalocean-on-devto-practical-ai-insights-for-builders-3g0c",
-      "published_at": "2026-02-02T17:25:23Z",
-      "description": "The gap between “I want to build something with AI” and actually shipping it is still huge—fragmented...",
-      "tags": [
-        "ai",
-        "digitalocean",
-        "machinelearning",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6k4aixj3nmulzpdfjfwr.png",
-      "source": "Dev.to",
-      "user": "Jess Lulka"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -390,18 +375,6 @@
       "user": "tabletcorry"
     },
     {
-      "title": "Gemini AI",
-      "url": "https://deepmind.google/technologies/gemini/",
-      "published_at": "2023-12-06T15:03:47Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "dmotz"
-    },
-    {
       "title": "An AI agent published a hit piece on me",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
       "published_at": "2026-02-12T16:23:24Z",
@@ -412,6 +385,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "scottshambaugh"
+    },
+    {
+      "title": "Gemini AI",
+      "url": "https://deepmind.google/technologies/gemini/",
+      "published_at": "2023-12-06T15:03:47Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "dmotz"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -497,7 +482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1484,
+      "stars": 1485,
       "user": "ComposioHQ"
     },
     {
@@ -512,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 358,
       "user": "aeromomo"
     },
     {
@@ -527,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 733,
       "user": "RevylAI"
     },
     {
@@ -811,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1484,
+      "stars": 1485,
       "user": "ComposioHQ"
     },
     {
@@ -1096,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 358,
       "user": "aeromomo"
     },
     {
@@ -1111,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 336,
       "user": "FireRedTeam"
     }
   ],
@@ -1502,6 +1487,20 @@
   ],
   "Tools": [
     {
+      "title": "Remember Your First Computer Book?",
+      "url": "https://dev.to/richardpascoe/remember-your-first-computer-book-4fml",
+      "published_at": "2026-02-13T08:00:08Z",
+      "description": "We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...",
+      "tags": [
+        "discuss",
+        "community",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png",
+      "source": "Dev.to",
+      "user": "Richard Pascoe"
+    },
+    {
       "title": "Built a Vibe Coded App where you can Style any Image you like! :D",
       "url": "https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p",
       "published_at": "2026-02-12T21:58:03Z",
@@ -1677,21 +1676,6 @@
       "user": "Yann Rabiller"
     },
     {
-      "title": "DigitalOcean on Dev.to: Practical AI Insights for Builders",
-      "url": "https://dev.to/digitalocean/digitalocean-on-devto-practical-ai-insights-for-builders-3g0c",
-      "published_at": "2026-02-02T17:25:23Z",
-      "description": "The gap between “I want to build something with AI” and actually shipping it is still huge—fragmented...",
-      "tags": [
-        "ai",
-        "digitalocean",
-        "machinelearning",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6k4aixj3nmulzpdfjfwr.png",
-      "source": "Dev.to",
-      "user": "Jess Lulka"
-    },
-    {
       "title": "ComposioHQ/secure-openclaw - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
       "url": "https://github.com/ComposioHQ/secure-openclaw",
       "published_at": "2026-02-08T07:55:07Z",
@@ -1703,7 +1687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1484,
+      "stars": 1485,
       "user": "ComposioHQ"
     },
     {
@@ -1823,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 358,
       "user": "aeromomo"
     },
     {
@@ -1838,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 336,
       "user": "FireRedTeam"
     },
     {
@@ -1853,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 733,
       "user": "RevylAI"
     },
     {
