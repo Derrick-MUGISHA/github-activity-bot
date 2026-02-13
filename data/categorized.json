@@ -309,6 +309,21 @@
       "user": "NorthernDev"
     },
     {
+      "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
+      "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
+      "published_at": "2026-02-09T11:07:59Z",
+      "description": "Three weeks ago, I wrote about knowledge collapse - how our best technical insights are dying in...",
+      "tags": [
+        "ai",
+        "opensource",
+        "activitypub",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxuuj8wc8c32xy26iq7hi.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
       "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
       "published_at": "2026-02-11T14:49:26Z",
@@ -497,23 +512,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1480,
       "user": "ComposioHQ"
-    },
-    {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
-      "source": "GitHub",
-      "stars": 101,
-      "user": "requestsession"
     },
     {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 352,
       "user": "aeromomo"
     },
     {
@@ -542,23 +542,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 699,
       "user": "RevylAI"
-    },
-    {
-      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "url": "https://github.com/stellarlinkco/myclaw",
-      "published_at": "2026-02-07T06:17:31Z",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
-      "source": "GitHub",
-      "stars": 161,
-      "user": "stellarlinkco"
     },
     {
       "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
@@ -572,8 +557,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "mosaxiv"
+    },
+    {
+      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "url": "https://github.com/stellarlinkco/myclaw",
+      "published_at": "2026-02-07T06:17:31Z",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
+      "source": "GitHub",
+      "stars": 162,
+      "user": "stellarlinkco"
     }
   ],
   "JavaScript": [
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1480,
       "user": "ComposioHQ"
     },
     {
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "linguo2625469"
     },
     {
@@ -841,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "iamzifei"
     },
     {
@@ -860,19 +860,19 @@
       "user": "xvhuan"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "iltekin/remove-local-temu - GitHub Repository",
+      "url": "https://github.com/iltekin/remove-local-temu",
+      "published_at": "2026-02-12T08:32:31Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 101,
-      "user": "requestsession"
+      "stars": 115,
+      "user": "iltekin"
     }
   ],
   "Python": [
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 352,
       "user": "aeromomo"
     },
     {
@@ -1126,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 330,
       "user": "FireRedTeam"
     }
   ],
@@ -1748,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1480,
       "user": "ComposioHQ"
     },
     {
@@ -1763,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "linguo2625469"
     },
     {
@@ -1778,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "iamzifei"
     },
     {
@@ -1797,19 +1797,19 @@
       "user": "xvhuan"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "iltekin/remove-local-temu - GitHub Repository",
+      "url": "https://github.com/iltekin/remove-local-temu",
+      "published_at": "2026-02-12T08:32:31Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 101,
-      "user": "requestsession"
+      "stars": 115,
+      "user": "iltekin"
     },
     {
       "title": "trumpet-noek/sora2-free-watermark-remover - sora2 free watermark remover",
@@ -1868,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 352,
       "user": "aeromomo"
     },
     {
@@ -1883,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 330,
       "user": "FireRedTeam"
     },
     {
@@ -1898,23 +1898,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 699,
       "user": "RevylAI"
-    },
-    {
-      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "url": "https://github.com/stellarlinkco/myclaw",
-      "published_at": "2026-02-07T06:17:31Z",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
-      "source": "GitHub",
-      "stars": 161,
-      "user": "stellarlinkco"
     },
     {
       "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
@@ -1928,8 +1913,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "mosaxiv"
+    },
+    {
+      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "url": "https://github.com/stellarlinkco/myclaw",
+      "published_at": "2026-02-07T06:17:31Z",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
+      "source": "GitHub",
+      "stars": 162,
+      "user": "stellarlinkco"
     },
     {
       "title": "simonw/rodney - CLI tool for interacting with the web",
