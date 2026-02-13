@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
+      "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
+      "published_at": "2026-02-13T11:59:31Z",
+      "description": "When a recent article compared Symfony AI to “a school bus painted like a rocket pretending to reach...",
+      "tags": [
+        "symfony",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
+      "source": "Dev.to",
+      "user": "Jean Klebert de A Modesto"
+    },
+    {
       "title": "AI Won't Save You If You Don't Know What Good Code Looks Like",
       "url": "https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144",
       "published_at": "2026-02-12T11:48:29Z",
@@ -61,19 +76,6 @@
       "user": "Russell Jones"
     },
     {
-      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
-      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
-      "published_at": "2026-02-08T07:00:00Z",
-      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
-      "tags": [
-        "aiassisteddevelopmen",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
-      "source": "Dev.to",
-      "user": "Stephan Miller"
-    },
-    {
       "title": "Becoming 1% better each day.",
       "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
       "published_at": "2026-02-12T05:39:19Z",
@@ -87,6 +89,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
       "source": "Dev.to",
       "user": "Della Dominic"
+    },
+    {
+      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
+      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
+      "published_at": "2026-02-08T07:00:00Z",
+      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
+      "tags": [
+        "aiassisteddevelopmen",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
+      "source": "Dev.to",
+      "user": "Stephan Miller"
     },
     {
       "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
@@ -354,21 +369,6 @@
       "user": "Jess Lulka"
     },
     {
-      "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
-      "url": "https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c",
-      "published_at": "2026-02-11T04:19:39Z",
-      "description": "I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...",
-      "tags": [
-        "go",
-        "rust",
-        "cloud",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficce9rgl5kalbmt0vu2k.png",
-      "source": "Dev.to",
-      "user": "Art light"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -417,6 +417,18 @@
       "user": "dmotz"
     },
     {
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "published_at": "2026-02-12T16:23:24Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "scottshambaugh"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -439,18 +451,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ranebo"
-    },
-    {
-      "title": "An AI agent published a hit piece on me",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "published_at": "2026-02-12T16:23:24Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "scottshambaugh"
     },
     {
       "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
@@ -512,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1481,
       "user": "ComposioHQ"
     },
     {
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "aeromomo"
     },
     {
@@ -542,8 +542,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 704,
       "user": "RevylAI"
+    },
+    {
+      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "url": "https://github.com/stellarlinkco/myclaw",
+      "published_at": "2026-02-07T06:17:31Z",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "stellarlinkco"
     },
     {
       "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
@@ -559,21 +574,6 @@
       "source": "GitHub",
       "stars": 163,
       "user": "mosaxiv"
-    },
-    {
-      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "url": "https://github.com/stellarlinkco/myclaw",
-      "published_at": "2026-02-07T06:17:31Z",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "stellarlinkco"
     }
   ],
   "JavaScript": [
@@ -606,6 +606,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
       "source": "Dev.to",
       "user": "Fongoh Martin T."
+    },
+    {
+      "title": "Faster Server Startup in Meteor 3.4 with Deferrables",
+      "url": "https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn",
+      "published_at": "2026-02-12T22:01:43Z",
+      "description": "As you might have seen in the 3.4 release blog post, Meteor has received a HUGE update with a lot of...",
+      "tags": [
+        "webdev",
+        "programming",
+        "meteor",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjuz3zu8nsbz5xfo4aayp.png",
+      "source": "Dev.to",
+      "user": "Gabriel Grubba"
     },
     {
       "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
@@ -811,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1481,
       "user": "ComposioHQ"
     },
     {
@@ -841,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "iamzifei"
     },
     {
@@ -1111,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "aeromomo"
     },
     {
@@ -1126,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "FireRedTeam"
     }
   ],
@@ -1238,19 +1253,19 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Re-creating a Pantone Color Deck in CSS",
-      "url": "https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108",
-      "published_at": "2026-02-11T13:05:10Z",
-      "description": "If you’ve ever held a Pantone fan deck — the kind graphic designers used to carry around like a...",
+      "title": "Becoming 1% better each day.",
+      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
+      "published_at": "2026-02-12T05:39:19Z",
+      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
       "tags": [
-        "html",
-        "css",
-        "tutorial",
+        "100daysofcode",
+        "frontend",
+        "learning",
         "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fskz1tl4rzcbhe2z3ot2i.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
       "source": "Dev.to",
-      "user": "Mads Stoumann"
+      "user": "Della Dominic"
     },
     {
       "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
@@ -1266,21 +1281,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
       "source": "Dev.to",
       "user": "Fabien Sebban"
-    },
-    {
-      "title": "Becoming 1% better each day.",
-      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
-      "published_at": "2026-02-12T05:39:19Z",
-      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
-      "tags": [
-        "100daysofcode",
-        "frontend",
-        "learning",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
-      "source": "Dev.to",
-      "user": "Della Dominic"
     },
     {
       "title": "Native CSS Utilities",
@@ -1326,6 +1326,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlhkbns7bimt1lcj751w.webp",
       "source": "Dev.to",
       "user": "Yann Rabiller"
+    },
+    {
+      "title": "Re-creating a Pantone Color Deck in CSS",
+      "url": "https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108",
+      "published_at": "2026-02-11T13:05:10Z",
+      "description": "If you’ve ever held a Pantone fan deck — the kind graphic designers used to carry around like a...",
+      "tags": [
+        "html",
+        "css",
+        "tutorial",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fskz1tl4rzcbhe2z3ot2i.jpg",
+      "source": "Dev.to",
+      "user": "Mads Stoumann"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1398,21 +1413,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
       "source": "Dev.to",
       "user": "Jawad Elhaouchi"
-    },
-    {
-      "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
-      "url": "https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c",
-      "published_at": "2026-02-11T04:19:39Z",
-      "description": "I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...",
-      "tags": [
-        "go",
-        "rust",
-        "cloud",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficce9rgl5kalbmt0vu2k.png",
-      "source": "Dev.to",
-      "user": "Art light"
     },
     {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
@@ -1748,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1481,
       "user": "ComposioHQ"
     },
     {
@@ -1778,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "iamzifei"
     },
     {
@@ -1868,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "aeromomo"
     },
     {
@@ -1883,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "FireRedTeam"
     },
     {
@@ -1898,8 +1898,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 704,
       "user": "RevylAI"
+    },
+    {
+      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "url": "https://github.com/stellarlinkco/myclaw",
+      "published_at": "2026-02-07T06:17:31Z",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "stellarlinkco"
     },
     {
       "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
@@ -1915,21 +1930,6 @@
       "source": "GitHub",
       "stars": 163,
       "user": "mosaxiv"
-    },
-    {
-      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "url": "https://github.com/stellarlinkco/myclaw",
-      "published_at": "2026-02-07T06:17:31Z",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "stellarlinkco"
     },
     {
       "title": "simonw/rodney - CLI tool for interacting with the web",
