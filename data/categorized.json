@@ -16,6 +16,66 @@
       "user": "Jean Klebert de A Modesto"
     },
     {
+      "title": "What else do you want to know about Gemini CLI?",
+      "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
+      "published_at": "2026-02-13T21:42:35Z",
+      "description": "Earlier this week, @greggyb and @stephr_wong kicked off Google Cloud Live, a no fluff weekly...",
+      "tags": [
+        "gemini",
+        "cli",
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgu7wotyz6k8asd6ngyza.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "tags": [
+        "opensource",
+        "ai",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "David Alcala"
+    },
+    {
+      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
+      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
+      "published_at": "2026-02-13T19:52:20Z",
+      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
+      "tags": [
+        "stripe",
+        "saas",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
+      "source": "Dev.to",
+      "user": "Ale"
+    },
+    {
+      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
+      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
+      "published_at": "2026-02-13T15:27:58Z",
+      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
+      "tags": [
+        "ai",
+        "security",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
+      "source": "Dev.to",
+      "user": "Natnael Getenew"
+    },
+    {
       "title": "AI Won't Save You If You Don't Know What Good Code Looks Like",
       "url": "https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144",
       "published_at": "2026-02-12T11:48:29Z",
@@ -499,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 759,
       "user": "RevylAI"
     },
     {
@@ -550,6 +610,51 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
+      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
+      "published_at": "2026-02-13T19:52:20Z",
+      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
+      "tags": [
+        "stripe",
+        "saas",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
+      "source": "Dev.to",
+      "user": "Ale"
+    },
+    {
+      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
+      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
+      "published_at": "2026-02-13T15:27:58Z",
+      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
+      "tags": [
+        "ai",
+        "security",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
+      "source": "Dev.to",
+      "user": "Natnael Getenew"
+    },
+    {
+      "title": "The 4 Rules of Simple Design: A Practical Guide with TypeScript",
+      "url": "https://dev.to/maximeshr/the-4-rules-of-simple-design-a-practical-guide-with-typescript-cn0",
+      "published_at": "2026-02-13T12:14:01Z",
+      "description": "Kent Beck introduced the 4 Rules of Simple Design as part of Extreme Programming in the late 1990s....",
+      "tags": [
+        "programming",
+        "typescript",
+        "cleancode",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft07xkge7idyem6atllsu.png",
+      "source": "Dev.to",
+      "user": "Maxime Sahroui"
+    },
+    {
       "title": "Building a Simple Blog with Supabase (Posts & Comments)",
       "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
       "published_at": "2026-02-12T06:27:14Z",
@@ -563,36 +668,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
       "source": "Dev.to",
       "user": "Fongoh Martin T."
-    },
-    {
-      "title": "Handy Bit Manipulation Tricks",
-      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
-      "published_at": "2026-02-13T06:54:48Z",
-      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component...",
-      "tags": [
-        "algorithms",
-        "programming",
-        "javascript",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F23ezcxw3fgp7pbupk687.png",
-      "source": "Dev.to",
-      "user": "Manuj Sankrit"
-    },
-    {
-      "title": "Faster Server Startup in Meteor 3.4 with Deferrables",
-      "url": "https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn",
-      "published_at": "2026-02-12T22:01:43Z",
-      "description": "As you might have seen in the 3.4 release blog post, Meteor has received a HUGE update with a lot of...",
-      "tags": [
-        "webdev",
-        "programming",
-        "meteor",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjuz3zu8nsbz5xfo4aayp.png",
-      "source": "Dev.to",
-      "user": "Gabriel Grubba"
     },
     {
       "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
@@ -858,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "iltekin"
     }
   ],
@@ -1210,21 +1285,6 @@
       "user": "Della Dominic"
     },
     {
-      "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
-      "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
-      "published_at": "2026-02-09T14:43:12Z",
-      "description": "👉 Before you continue: This guide assumes you’re already familiar with the Wishlist Power web...",
-      "tags": [
-        "shopify",
-        "webdev",
-        "frontend",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
-      "source": "Dev.to",
-      "user": "Fabien Sebban"
-    },
-    {
       "title": "Native CSS Utilities",
       "url": "https://dev.to/fylgja/native-css-utilities-297j",
       "published_at": "2026-02-05T10:04:30Z",
@@ -1299,21 +1359,6 @@
   ],
   "Mobile": [
     {
-      "title": "My New Language That’s Almost Done",
-      "url": "https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31",
-      "published_at": "2026-02-09T20:10:51Z",
-      "description": "I’ve been building a programming language for the past 3 months. Although it’s written in Swift, I’m...",
-      "tags": [
-        "programming",
-        "showdev",
-        "sideprojects",
-        "swift"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Focscz47o1wxswnzbq3eb.png",
-      "source": "Dev.to",
-      "user": "Ryan Bae"
-    },
-    {
       "title": "Multimodal Visual Understanding in Swift (aka: \"why is this still so hard on-device?\")",
       "url": "https://dev.to/fosteman/multimodal-visual-understanding-in-swift-aka-why-is-this-still-so-hard-on-device-1n7j",
       "published_at": "2026-02-06T13:24:35Z",
@@ -1327,6 +1372,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "What else do you want to know about Gemini CLI?",
+      "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
+      "published_at": "2026-02-13T21:42:35Z",
+      "description": "Earlier this week, @greggyb and @stephr_wong kicked off Google Cloud Live, a no fluff weekly...",
+      "tags": [
+        "gemini",
+        "cli",
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgu7wotyz6k8asd6ngyza.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
     {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
@@ -1399,6 +1459,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
+      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
+      "published_at": "2026-02-13T15:27:58Z",
+      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
+      "tags": [
+        "ai",
+        "security",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
+      "source": "Dev.to",
+      "user": "Natnael Getenew"
+    },
     {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
       "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
@@ -1516,6 +1591,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png",
       "source": "Dev.to",
       "user": "Giorgi Kobaidze"
+    },
+    {
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "tags": [
+        "opensource",
+        "ai",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "David Alcala"
     },
     {
       "title": "ASCII Whisper: Local P2P Chat with Sound FX and Battleship",
@@ -1749,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "iltekin"
     },
     {
@@ -1839,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 759,
       "user": "RevylAI"
     },
     {
