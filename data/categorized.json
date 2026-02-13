@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
-      "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
-      "published_at": "2026-02-13T11:59:31Z",
-      "description": "When a recent article compared Symfony AI to “a school bus painted like a rocket pretending to reach...",
-      "tags": [
-        "symfony",
-        "ai",
-        "programming",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
-      "source": "Dev.to",
-      "user": "Jean Klebert de A Modesto"
-    },
-    {
       "title": "What else do you want to know about Gemini CLI?",
       "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
       "published_at": "2026-02-13T21:42:35Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "David Alcala"
+    },
+    {
+      "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
+      "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
+      "published_at": "2026-02-13T11:59:31Z",
+      "description": "When a recent article compared Symfony AI to “a school bus painted like a rocket pretending to reach...",
+      "tags": [
+        "symfony",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
+      "source": "Dev.to",
+      "user": "Jean Klebert de A Modesto"
     },
     {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
@@ -134,6 +134,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
       "source": "Dev.to",
       "user": "Della Dominic"
+    },
+    {
+      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
+      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
+      "published_at": "2026-02-08T07:00:00Z",
+      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
+      "tags": [
+        "aiassisteddevelopmen",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
+      "source": "Dev.to",
+      "user": "Stephan Miller"
     },
     {
       "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
@@ -326,66 +339,6 @@
       "user": "Leon Martin"
     },
     {
-      "title": "The 48-Hour Collapse of Moltbook",
-      "url": "https://dev.to/narnaiezzsshaa/the-48-hour-collapse-of-moltbook-4625",
-      "published_at": "2026-02-03T19:33:52Z",
-      "description": "What Happens When You Deploy Agents Without Governance   Moltbook was live for 48 hours. In...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "governance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2mt8ilnwzyazvaew2ic.jpg",
-      "source": "Dev.to",
-      "user": "Narnaiezzsshaa Truong"
-    },
-    {
-      "title": "The Junior Developer is Extinct (And we are creating a disaster)",
-      "url": "https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2",
-      "published_at": "2026-02-05T13:05:27Z",
-      "description": "I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...",
-      "tags": [
-        "career",
-        "ai",
-        "discuss",
-        "future"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmh6ypab984f2yk13hixb.png",
-      "source": "Dev.to",
-      "user": "NorthernDev"
-    },
-    {
-      "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
-      "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
-      "published_at": "2026-02-09T11:07:59Z",
-      "description": "Three weeks ago, I wrote about knowledge collapse - how our best technical insights are dying in...",
-      "tags": [
-        "ai",
-        "opensource",
-        "activitypub",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxuuj8wc8c32xy26iq7hi.png",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
-      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
-      "published_at": "2026-02-11T14:49:26Z",
-      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
-      "tags": [
-        "javascript",
-        "security",
-        "ai",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
-      "source": "Dev.to",
-      "user": "Gianluca La Manna"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -544,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 366,
       "user": "aeromomo"
     },
     {
@@ -559,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 760,
       "user": "RevylAI"
     },
     {
@@ -670,6 +623,36 @@
       "user": "Fongoh Martin T."
     },
     {
+      "title": "Handy Bit Manipulation Tricks",
+      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
+      "published_at": "2026-02-13T06:54:48Z",
+      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component...",
+      "tags": [
+        "algorithms",
+        "programming",
+        "javascript",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F23ezcxw3fgp7pbupk687.png",
+      "source": "Dev.to",
+      "user": "Manuj Sankrit"
+    },
+    {
+      "title": "Faster Server Startup in Meteor 3.4 with Deferrables",
+      "url": "https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn",
+      "published_at": "2026-02-12T22:01:43Z",
+      "description": "As you might have seen in the 3.4 release blog post, Meteor has received a HUGE update with a lot of...",
+      "tags": [
+        "webdev",
+        "programming",
+        "meteor",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjuz3zu8nsbz5xfo4aayp.png",
+      "source": "Dev.to",
+      "user": "Gabriel Grubba"
+    },
+    {
       "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
       "url": "https://dev.to/baliachbryan/patching-the-gaps-a-production-ready-guide-to-googles-adk-with-typescript-45fe",
       "published_at": "2026-02-10T11:00:29Z",
@@ -725,21 +708,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fobiudf00y4joobgomxzm.png",
       "source": "Dev.to",
       "user": "Akarsh Cholapurath"
-    },
-    {
-      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
-      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
-      "published_at": "2026-02-11T14:49:26Z",
-      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
-      "tags": [
-        "javascript",
-        "security",
-        "ai",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
-      "source": "Dev.to",
-      "user": "Gianluca La Manna"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -903,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "iamzifei"
     },
     {
@@ -950,6 +918,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2z8mus2r8brov30837a.png",
       "source": "Dev.to",
       "user": "Adam Hill"
+    },
+    {
+      "title": "I Built a Self-Hosted Google Trends Alternative with DuckDB",
+      "url": "https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57",
+      "published_at": "2026-02-11T16:16:43Z",
+      "description": "TL;DR: Track SERP rankings, title changes, and competitor data Google Trends won’t show. Built with...",
+      "tags": [
+        "webdev",
+        "python",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy47kf4rllj3ih8gysd4e.png",
+      "source": "Dev.to",
+      "user": "Prithwish Nath"
     },
     {
       "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
@@ -1143,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 366,
       "user": "aeromomo"
     },
     {
@@ -1208,21 +1191,6 @@
       "user": "Jawad Elhaouchi"
     },
     {
-      "title": "How We Reduced Dependabot Noise in Our Monorepo",
-      "url": "https://dev.to/aki59/how-we-reduced-dependabot-noise-in-our-monorepo-1b06",
-      "published_at": "2026-02-04T09:21:28Z",
-      "description": "Why we needed Dependabot   Our dependency management had become increasingly manual and...",
-      "tags": [
-        "devops",
-        "jenkins",
-        "cicd",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl6ligout75eq676e47zd.png",
-      "source": "Dev.to",
-      "user": "Akash Tewari"
-    },
-    {
       "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
       "url": "https://github.com/xvhuan/xiaoi",
       "published_at": "2026-02-10T16:05:01Z",
@@ -1283,6 +1251,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
       "source": "Dev.to",
       "user": "Della Dominic"
+    },
+    {
+      "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
+      "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
+      "published_at": "2026-02-09T14:43:12Z",
+      "description": "👉 Before you continue: This guide assumes you’re already familiar with the Wishlist Power web...",
+      "tags": [
+        "shopify",
+        "webdev",
+        "frontend",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
+      "source": "Dev.to",
+      "user": "Fabien Sebban"
     },
     {
       "title": "Native CSS Utilities",
@@ -1358,6 +1341,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "My New Language That’s Almost Done",
+      "url": "https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31",
+      "published_at": "2026-02-09T20:10:51Z",
+      "description": "I’ve been building a programming language for the past 3 months. Although it’s written in Swift, I’m...",
+      "tags": [
+        "programming",
+        "showdev",
+        "sideprojects",
+        "swift"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Focscz47o1wxswnzbq3eb.png",
+      "source": "Dev.to",
+      "user": "Ryan Bae"
+    },
     {
       "title": "Multimodal Visual Understanding in Swift (aka: \"why is this still so hard on-device?\")",
       "url": "https://dev.to/fosteman/multimodal-visual-understanding-in-swift-aka-why-is-this-still-so-hard-on-device-1n7j",
@@ -1505,36 +1503,6 @@
       "user": "Peter Mulligan"
     },
     {
-      "title": "The 48-Hour Collapse of Moltbook",
-      "url": "https://dev.to/narnaiezzsshaa/the-48-hour-collapse-of-moltbook-4625",
-      "published_at": "2026-02-03T19:33:52Z",
-      "description": "What Happens When You Deploy Agents Without Governance   Moltbook was live for 48 hours. In...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "governance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2mt8ilnwzyazvaew2ic.jpg",
-      "source": "Dev.to",
-      "user": "Narnaiezzsshaa Truong"
-    },
-    {
-      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
-      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
-      "published_at": "2026-02-11T14:49:26Z",
-      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
-      "tags": [
-        "javascript",
-        "security",
-        "ai",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
-      "source": "Dev.to",
-      "user": "Gianluca La Manna"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1636,21 +1604,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk3wm37zv39x2k06hozwe.png",
       "source": "Dev.to",
       "user": "joietej"
-    },
-    {
-      "title": "Get **** done. I hate what Trello has become",
-      "url": "https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05",
-      "published_at": "2026-02-11T15:32:12Z",
-      "description": "I hate productivity tools. Not in a cute, ironic way. I mean I genuinely hate how they look, how they...",
-      "tags": [
-        "programming",
-        "productivity",
-        "discuss",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr92limgmfwppx8aj0nqf.png",
-      "source": "Dev.to",
-      "user": "Karsten Biedermann"
     },
     {
       "title": "Five Git Config Settings Every Dev Needs",
@@ -1768,6 +1721,21 @@
       "user": "Yann Rabiller"
     },
     {
+      "title": "Get **** done. I hate what Trello has become",
+      "url": "https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05",
+      "published_at": "2026-02-11T15:32:12Z",
+      "description": "I hate productivity tools. Not in a cute, ironic way. I mean I genuinely hate how they look, how they...",
+      "tags": [
+        "programming",
+        "productivity",
+        "discuss",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr92limgmfwppx8aj0nqf.png",
+      "source": "Dev.to",
+      "user": "Karsten Biedermann"
+    },
+    {
       "title": "ComposioHQ/secure-openclaw - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
       "url": "https://github.com/ComposioHQ/secure-openclaw",
       "published_at": "2026-02-08T07:55:07Z",
@@ -1809,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "iamzifei"
     },
     {
@@ -1899,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 366,
       "user": "aeromomo"
     },
     {
@@ -1929,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 760,
       "user": "RevylAI"
     },
     {
@@ -1974,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "simonw"
     },
     {
@@ -1989,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24430165?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "louisho5"
     }
   ]
