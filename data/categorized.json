@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
+      "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
+      "published_at": "2026-02-13T11:59:31Z",
+      "description": "When a recent article compared Symfony AI to “a school bus painted like a rocket pretending to reach...",
+      "tags": [
+        "symfony",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
+      "source": "Dev.to",
+      "user": "Jean Klebert de A Modesto"
+    },
+    {
       "title": "What else do you want to know about Gemini CLI?",
       "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
       "published_at": "2026-02-13T21:42:35Z",
@@ -31,21 +46,6 @@
       "user": "David Alcala"
     },
     {
-      "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
-      "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
-      "published_at": "2026-02-13T11:59:31Z",
-      "description": "When a recent article compared Symfony AI to “a school bus painted like a rocket pretending to reach...",
-      "tags": [
-        "symfony",
-        "ai",
-        "programming",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
-      "source": "Dev.to",
-      "user": "Jean Klebert de A Modesto"
-    },
-    {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
       "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
       "published_at": "2026-02-13T19:52:20Z",
@@ -74,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
       "source": "Dev.to",
       "user": "Natnael Getenew"
-    },
-    {
-      "title": "AI Won't Save You If You Don't Know What Good Code Looks Like",
-      "url": "https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144",
-      "published_at": "2026-02-12T11:48:29Z",
-      "description": "Every other post on your feed is telling you AI tools are going to \"revolutionize\" your coding...",
-      "tags": [
-        "ai",
-        "programming",
-        "softwaredevelopment",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk3wm37zv39x2k06hozwe.png",
-      "source": "Dev.to",
-      "user": "joietej"
     },
     {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
@@ -512,8 +497,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 762,
       "user": "RevylAI"
+    },
+    {
+      "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
+      "url": "https://github.com/mosaxiv/clawlet",
+      "published_at": "2026-02-09T10:48:17Z",
+      "description": "Lightweight Personal AI Assistant",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "mosaxiv"
     },
     {
       "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
@@ -529,21 +529,6 @@
       "source": "GitHub",
       "stars": 165,
       "user": "stellarlinkco"
-    },
-    {
-      "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
-      "url": "https://github.com/mosaxiv/clawlet",
-      "published_at": "2026-02-09T10:48:17Z",
-      "description": "Lightweight Personal AI Assistant",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
-      "source": "GitHub",
-      "stars": 165,
-      "user": "mosaxiv"
     }
   ],
   "JavaScript": [
@@ -871,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "iamzifei"
     },
     {
@@ -1141,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "FireRedTeam"
     }
   ],
@@ -1591,21 +1576,6 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "AI Won't Save You If You Don't Know What Good Code Looks Like",
-      "url": "https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144",
-      "published_at": "2026-02-12T11:48:29Z",
-      "description": "Every other post on your feed is telling you AI tools are going to \"revolutionize\" your coding...",
-      "tags": [
-        "ai",
-        "programming",
-        "softwaredevelopment",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk3wm37zv39x2k06hozwe.png",
-      "source": "Dev.to",
-      "user": "joietej"
-    },
-    {
       "title": "Five Git Config Settings Every Dev Needs",
       "url": "https://dev.to/nickytonline/five-git-config-settings-every-dev-needs-3e55",
       "published_at": "2026-02-10T02:19:13Z",
@@ -1777,7 +1747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "iamzifei"
     },
     {
@@ -1882,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "FireRedTeam"
     },
     {
@@ -1897,8 +1867,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 762,
       "user": "RevylAI"
+    },
+    {
+      "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
+      "url": "https://github.com/mosaxiv/clawlet",
+      "published_at": "2026-02-09T10:48:17Z",
+      "description": "Lightweight Personal AI Assistant",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "mosaxiv"
     },
     {
       "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
@@ -1916,21 +1901,6 @@
       "user": "stellarlinkco"
     },
     {
-      "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
-      "url": "https://github.com/mosaxiv/clawlet",
-      "published_at": "2026-02-09T10:48:17Z",
-      "description": "Lightweight Personal AI Assistant",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
-      "source": "GitHub",
-      "stars": 165,
-      "user": "mosaxiv"
-    },
-    {
       "title": "simonw/rodney - CLI tool for interacting with the web",
       "url": "https://github.com/simonw/rodney",
       "published_at": "2026-02-09T19:54:35Z",
@@ -1942,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "simonw"
     },
     {

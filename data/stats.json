@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 103,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 58,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 39,
+    "AI": 38,
     "JavaScript": 26,
     "Python": 18,
     "DevOps": 4,
@@ -15,10 +15,10 @@
     "Cloud": 4,
     "Database": 2,
     "Security": 4,
-    "Tools": 30
+    "Tools": 29
   },
   "by_language": {
-    "Go": 18,
+    "Go": 17,
     "JavaScript": 26,
     "Java": 20,
     "Python": 18,
@@ -28,11 +28,11 @@
   },
   "by_date": {
     "2026-02-13": 11,
-    "2026-02-09": 9,
-    "2026-02-12": 10,
+    "2026-02-12": 9,
     "2026-02-10": 15,
     "2026-02-11": 8,
     "2026-02-08": 5,
+    "2026-02-09": 8,
     "2026-02-06": 3,
     "2026-02-05": 4,
     "2026-02-03": 3,
@@ -68,33 +68,33 @@
     "2026-02-07": 7
   },
   "top_tags": {
-    "ai": 17,
     "webdev": 16,
+    "ai": 16,
     "github": 15,
     "open-source": 15,
-    "discuss": 11,
-    "programming": 11,
+    "discuss": 10,
+    "programming": 10,
     "javascript": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "learning": 8,
     "python": 8,
-    "community": 5,
-    "career": 5,
     "tutorial": 5,
     "go": 5,
+    "community": 4,
     "cli": 4,
     "frontend": 4,
     "productivity": 4,
-    "typescript": 4
+    "typescript": 4,
+    "career": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "20.5",
-    "JavaScript": "29.5",
-    "Java": "22.7",
-    "Python": "20.5",
+    "Go": "19.5",
+    "JavaScript": "29.9",
+    "Java": "23.0",
+    "Python": "20.7",
     "Rust": "2.3",
     "PHP": "2.3",
     "Swift": "2.3"
