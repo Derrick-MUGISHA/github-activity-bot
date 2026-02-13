@@ -31,21 +31,6 @@
       "user": "joietej"
     },
     {
-      "title": "Solving Claude's Amnesia: Building Persistent Memory with MCP",
-      "url": "https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co",
-      "published_at": "2026-02-11T12:14:50Z",
-      "description": "As a solo developer working on his next idea, Claude has been my pair programming partner for months...",
-      "tags": [
-        "ai",
-        "productivity",
-        "mcp",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpis0l6fs4am4k7qb3et.png",
-      "source": "Dev.to",
-      "user": "Mohamed ali May"
-    },
-    {
       "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
       "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
       "published_at": "2026-02-09T11:07:59Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxuuj8wc8c32xy26iq7hi.png",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Solving Claude's Amnesia: Building Persistent Memory with MCP",
+      "url": "https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co",
+      "published_at": "2026-02-11T12:14:50Z",
+      "description": "As a solo developer working on his next idea, Claude has been my pair programming partner for months...",
+      "tags": [
+        "ai",
+        "productivity",
+        "mcp",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpis0l6fs4am4k7qb3et.png",
+      "source": "Dev.to",
+      "user": "Mohamed ali May"
     },
     {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1565,
+      "stars": 1575,
       "user": "ComposioHQ"
     },
     {
@@ -557,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 658,
       "user": "RevylAI"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "mosaxiv"
     }
   ],
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1565,
+      "stars": 1575,
       "user": "ComposioHQ"
     },
     {
@@ -856,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "iamzifei"
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "FireRedTeam"
     }
   ],
@@ -1778,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1565,
+      "stars": 1575,
       "user": "ComposioHQ"
     },
     {
@@ -1808,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "iamzifei"
     },
     {
@@ -1913,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "FireRedTeam"
     },
     {
@@ -1928,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 658,
       "user": "RevylAI"
     },
     {
@@ -1958,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "mosaxiv"
     },
     {
@@ -1973,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "simonw"
     },
     {
