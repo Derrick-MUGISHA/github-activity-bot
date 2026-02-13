@@ -61,21 +61,6 @@
       "user": "Mohamed ali May"
     },
     {
-      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
-      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
-      "published_at": "2026-02-11T02:00:24Z",
-      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
-      "tags": [
-        "ai",
-        "opensourcesecurity",
-        "securitylabs",
-        "supplychainsecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
-      "source": "Dev.to",
-      "user": "SnykSec"
-    },
-    {
       "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
       "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
       "published_at": "2026-02-09T11:07:59Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxuuj8wc8c32xy26iq7hi.png",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
+      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
+      "published_at": "2026-02-11T02:00:24Z",
+      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
+      "tags": [
+        "ai",
+        "opensourcesecurity",
+        "securitylabs",
+        "supplychainsecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
+      "source": "Dev.to",
+      "user": "SnykSec"
     },
     {
       "title": "Using Laravel Boost With DDEV",
@@ -117,21 +117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
       "source": "Dev.to",
       "user": "Stephan Miller"
-    },
-    {
-      "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
-      "url": "https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c",
-      "published_at": "2026-02-11T04:19:39Z",
-      "description": "I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...",
-      "tags": [
-        "go",
-        "rust",
-        "cloud",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficce9rgl5kalbmt0vu2k.png",
-      "source": "Dev.to",
-      "user": "Art light"
     },
     {
       "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
@@ -527,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1512,
+      "stars": 1533,
       "user": "ComposioHQ"
     },
     {
@@ -557,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 603,
       "user": "RevylAI"
     },
     {
@@ -587,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "mosaxiv"
     }
   ],
@@ -826,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1512,
+      "stars": 1533,
       "user": "ComposioHQ"
     },
     {
@@ -841,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 288,
       "user": "linguo2625469"
     },
     {
@@ -856,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 144,
       "user": "iamzifei"
     },
     {
@@ -886,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "iltekin"
     }
   ],
@@ -1081,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198388533?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 708,
       "user": "trumpet-noek"
     },
     {
@@ -1141,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 314,
       "user": "FireRedTeam"
     }
   ],
@@ -1385,21 +1370,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
-      "url": "https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c",
-      "published_at": "2026-02-11T04:19:39Z",
-      "description": "I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...",
-      "tags": [
-        "go",
-        "rust",
-        "cloud",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficce9rgl5kalbmt0vu2k.png",
-      "source": "Dev.to",
-      "user": "Art light"
-    },
     {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
@@ -1664,20 +1634,6 @@
       "user": "Jess Lulka"
     },
     {
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "published_at": "2026-02-05T07:08:59Z",
-      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
-      "tags": [
-        "terraform",
-        "devops",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
-      "source": "Dev.to",
-      "user": "Heng Lu"
-    },
-    {
       "title": "Your IDE is an Attack Vector",
       "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
       "published_at": "2026-02-12T00:36:03Z",
@@ -1691,6 +1647,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
       "source": "Dev.to",
       "user": "Peter Mulligan"
+    },
+    {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
     },
     {
       "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
@@ -1778,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1512,
+      "stars": 1533,
       "user": "ComposioHQ"
     },
     {
@@ -1793,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 288,
       "user": "linguo2625469"
     },
     {
@@ -1808,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 144,
       "user": "iamzifei"
     },
     {
@@ -1838,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "iltekin"
     },
     {
@@ -1853,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198388533?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 708,
       "user": "trumpet-noek"
     },
     {
@@ -1913,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 314,
       "user": "FireRedTeam"
     },
     {
@@ -1928,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 603,
       "user": "RevylAI"
     },
     {
@@ -1958,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "mosaxiv"
     },
     {
@@ -1973,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "simonw"
     },
     {

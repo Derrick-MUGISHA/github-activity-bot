@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
@@ -42,7 +42,7 @@
 
 **Security**: 🟦🟦 5 (4.8%)
 
-**Cloud**: 🟦🟦 4 (3.8%)
+**Cloud**: 🟦 3 (2.9%)
 
 **Mobile**: 🟦 2 (1.9%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.9 (25.9%)
-Python          ██████████████████████████ 22.4 (22.4%)
-Go              ██████████████████████████ 22.4 (22.4%)
-Java            █████████████████████████ 21.2 (21.2%)
-Rust            ████ 3.5 (3.5%)
+JavaScript      ██████████████████████████████ 26.5 (26.5%)
+Python          ██████████████████████████ 22.9 (22.9%)
+Java            █████████████████████████ 21.7 (21.7%)
+Go              █████████████████████████ 21.7 (21.7%)
+Rust            ███ 2.4 (2.4%)
 PHP             ███ 2.4 (2.4%)
 Swift           ███ 2.4 (2.4%)
 
@@ -74,9 +74,9 @@ Swift           ███ 2.4 (2.4%)
 pie title Programming Languages Distribution
     "JavaScript" : 22
     "Python" : 19
-    "Go" : 19
     "Java" : 18
-    "Rust" : 3
+    "Go" : 18
+    "Rust" : 2
     "PHP" : 2
     "Swift" : 2
 ```
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![learning](https://img.shields.io/badge/learning-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![learning](https://img.shields.io/badge/learning-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![community](https://img.shields.io/badge/community-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-13 5:00 CAT)
+## 📅 Latest Updates (2026-02-13 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -211,12 +211,12 @@ npm run test
 - [AI Won't Save You If You Don't Know What Good Code Looks Like](https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144) _[Dev.to]_
 - [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co) _[Dev.to]_
 - [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
+- [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
-- [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 
-_Last automated update: Fri, 13 Feb 2026 05:21:54 CAT_
+_Last automated update: Fri, 13 Feb 2026 07:08:50 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 13 Feb 2026 05:21:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Feb 2026 03:21:54 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Feb 2026 05:08:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
