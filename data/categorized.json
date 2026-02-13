@@ -527,8 +527,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1460,
       "user": "ComposioHQ"
+    },
+    {
+      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "url": "https://github.com/requestsession/IndexGPT",
+      "published_at": "2026-02-12T11:28:37Z",
+      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "requestsession"
     },
     {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
@@ -557,23 +572,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 530,
       "user": "RevylAI"
-    },
-    {
-      "title": "praetorian-inc/augustus - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
-      "url": "https://github.com/praetorian-inc/augustus",
-      "published_at": "2026-02-06T17:26:47Z",
-      "description": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
-      "source": "GitHub",
-      "stars": 212,
-      "user": "praetorian-inc"
     },
     {
       "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
@@ -841,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1460,
       "user": "ComposioHQ"
     },
     {
@@ -860,36 +860,6 @@
       "user": "linguo2625469"
     },
     {
-      "title": "africa1207/AWS-BuildID-Auto-For-Ext - GitHub Repository",
-      "url": "https://github.com/africa1207/AWS-BuildID-Auto-For-Ext",
-      "published_at": "2026-02-06T08:56:38Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
-      "source": "GitHub",
-      "stars": 174,
-      "user": "africa1207"
-    },
-    {
-      "title": "by-sonic/unblock-pro - Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia",
-      "url": "https://github.com/by-sonic/unblock-pro",
-      "published_at": "2026-02-06T01:01:14Z",
-      "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171230345?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "by-sonic"
-    },
-    {
       "title": "iamzifei/bookmark-is-learned - 收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃",
       "url": "https://github.com/iamzifei/bookmark-is-learned",
       "published_at": "2026-02-10T04:53:38Z",
@@ -903,6 +873,36 @@
       "source": "GitHub",
       "stars": 132,
       "user": "iamzifei"
+    },
+    {
+      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
+      "url": "https://github.com/xvhuan/xiaoi",
+      "published_at": "2026-02-10T16:05:01Z",
+      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "xvhuan"
+    },
+    {
+      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "url": "https://github.com/requestsession/IndexGPT",
+      "published_at": "2026-02-12T11:28:37Z",
+      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "requestsession"
     }
   ],
   "Python": [
@@ -1130,21 +1130,6 @@
       "user": "tnbeznlacut"
     },
     {
-      "title": "clocky-needledev/Polymarket-Trading-Bot-2026-T - polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
-      "url": "https://github.com/clocky-needledev/Polymarket-Trading-Bot-2026-T",
-      "published_at": "2026-02-06T22:25:50Z",
-      "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "clocky-needledev"
-    },
-    {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
       "url": "https://github.com/aeromomo/claw-compactor",
       "published_at": "2026-02-10T00:27:08Z",
@@ -1158,6 +1143,21 @@
       "source": "GitHub",
       "stars": 334,
       "user": "aeromomo"
+    },
+    {
+      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
+      "url": "https://github.com/marshallrichards/ClawPhone",
+      "published_at": "2026-02-07T08:11:59Z",
+      "description": "Tweaks for running OpenClaw on a Android smartphone",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "marshallrichards"
     }
   ],
   "DevOps": [
@@ -1219,6 +1219,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl6ligout75eq676e47zd.png",
       "source": "Dev.to",
       "user": "Akash Tewari"
+    },
+    {
+      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
+      "url": "https://github.com/xvhuan/xiaoi",
+      "published_at": "2026-02-10T16:05:01Z",
+      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "xvhuan"
     }
   ],
   "WebDev": [
@@ -1382,6 +1397,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1d4u7tdhh8wm80g4xq0.png",
       "source": "Dev.to",
       "user": "Timothy Fosteman"
+    },
+    {
+      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
+      "url": "https://github.com/marshallrichards/ClawPhone",
+      "published_at": "2026-02-07T08:11:59Z",
+      "description": "Tweaks for running OpenClaw on a Android smartphone",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "marshallrichards"
     }
   ],
   "Cloud": [
@@ -1440,21 +1470,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "JustExAWS"
-    },
-    {
-      "title": "africa1207/AWS-BuildID-Auto-For-Ext - GitHub Repository",
-      "url": "https://github.com/africa1207/AWS-BuildID-Auto-For-Ext",
-      "published_at": "2026-02-06T08:56:38Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
-      "source": "GitHub",
-      "stars": 174,
-      "user": "africa1207"
     }
   ],
   "Database": [
@@ -1558,21 +1573,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "praetorian-inc/augustus - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
-      "url": "https://github.com/praetorian-inc/augustus",
-      "published_at": "2026-02-06T17:26:47Z",
-      "description": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
-      "source": "GitHub",
-      "stars": 212,
-      "user": "praetorian-inc"
     }
   ],
   "Tools": [
@@ -1793,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1460,
       "user": "ComposioHQ"
     },
     {
@@ -1812,36 +1812,6 @@
       "user": "linguo2625469"
     },
     {
-      "title": "africa1207/AWS-BuildID-Auto-For-Ext - GitHub Repository",
-      "url": "https://github.com/africa1207/AWS-BuildID-Auto-For-Ext",
-      "published_at": "2026-02-06T08:56:38Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/21698755?v=4",
-      "source": "GitHub",
-      "stars": 174,
-      "user": "africa1207"
-    },
-    {
-      "title": "by-sonic/unblock-pro - Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia",
-      "url": "https://github.com/by-sonic/unblock-pro",
-      "published_at": "2026-02-06T01:01:14Z",
-      "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171230345?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "by-sonic"
-    },
-    {
       "title": "iamzifei/bookmark-is-learned - 收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃",
       "url": "https://github.com/iamzifei/bookmark-is-learned",
       "published_at": "2026-02-10T04:53:38Z",
@@ -1855,6 +1825,36 @@
       "source": "GitHub",
       "stars": 132,
       "user": "iamzifei"
+    },
+    {
+      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
+      "url": "https://github.com/xvhuan/xiaoi",
+      "published_at": "2026-02-10T16:05:01Z",
+      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "xvhuan"
+    },
+    {
+      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "url": "https://github.com/requestsession/IndexGPT",
+      "published_at": "2026-02-12T11:28:37Z",
+      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "requestsession"
     },
     {
       "title": "trumpet-noek/sora2-free-watermark-remover - sora2 free watermark remover",
@@ -1902,21 +1902,6 @@
       "user": "tnbeznlacut"
     },
     {
-      "title": "clocky-needledev/Polymarket-Trading-Bot-2026-T - polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
-      "url": "https://github.com/clocky-needledev/Polymarket-Trading-Bot-2026-T",
-      "published_at": "2026-02-06T22:25:50Z",
-      "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85180660?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "clocky-needledev"
-    },
-    {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
       "url": "https://github.com/aeromomo/claw-compactor",
       "published_at": "2026-02-10T00:27:08Z",
@@ -1932,6 +1917,21 @@
       "user": "aeromomo"
     },
     {
+      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
+      "url": "https://github.com/marshallrichards/ClawPhone",
+      "published_at": "2026-02-07T08:11:59Z",
+      "description": "Tweaks for running OpenClaw on a Android smartphone",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "marshallrichards"
+    },
+    {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
       "url": "https://github.com/RevylAI/greenlight",
       "published_at": "2026-02-11T22:54:47Z",
@@ -1943,38 +1943,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 530,
       "user": "RevylAI"
-    },
-    {
-      "title": "praetorian-inc/augustus - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
-      "url": "https://github.com/praetorian-inc/augustus",
-      "published_at": "2026-02-06T17:26:47Z",
-      "description": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
-      "source": "GitHub",
-      "stars": 212,
-      "user": "praetorian-inc"
-    },
-    {
-      "title": "simonw/showboat - Create executable documents that demonstrate an agent's work",
-      "url": "https://github.com/simonw/showboat",
-      "published_at": "2026-02-06T07:29:29Z",
-      "description": "Create executable documents that demonstrate an agent's work",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
-      "source": "GitHub",
-      "stars": 201,
-      "user": "simonw"
     },
     {
       "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
@@ -2005,6 +1975,36 @@
       "source": "GitHub",
       "stars": 149,
       "user": "mosaxiv"
+    },
+    {
+      "title": "simonw/rodney - CLI tool for interacting with the web",
+      "url": "https://github.com/simonw/rodney",
+      "published_at": "2026-02-09T19:54:35Z",
+      "description": "CLI tool for interacting with the web",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "simonw"
+    },
+    {
+      "title": "louisho5/picobot - A lightweight self-hosted bot in a single binary, written in Go.",
+      "url": "https://github.com/louisho5/picobot",
+      "published_at": "2026-02-07T16:18:22Z",
+      "description": "A lightweight self-hosted bot in a single binary, written in Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24430165?v=4",
+      "source": "GitHub",
+      "stars": 106,
+      "user": "louisho5"
     }
   ]
 }

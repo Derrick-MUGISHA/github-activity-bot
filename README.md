@@ -2,8 +2,8 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-12-orange)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-13-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -38,13 +38,13 @@
 
 **WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
-**Security**: 🟦🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**Cloud**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**Cloud**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 2 (1.9%)
+**Mobile**: 🟦 3 (2.9%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,13 +60,14 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.9 (25.9%)
-Python          ██████████████████████████ 22.4 (22.4%)
-Go              ██████████████████████████ 22.4 (22.4%)
-Java            █████████████████████████ 21.2 (21.2%)
+JavaScript      ██████████████████████████████ 25.6 (25.6%)
+Python          ██████████████████████████ 22.1 (22.1%)
+Go              ██████████████████████████ 22.1 (22.1%)
+Java            ████████████████████████ 20.9 (20.9%)
 Rust            ████ 3.5 (3.5%)
-PHP             ███ 2.4 (2.4%)
-Swift           ███ 2.4 (2.4%)
+PHP             ███ 2.3 (2.3%)
+Swift           ███ 2.3 (2.3%)
+Kotlin          █ 1.2 (1.2%)
 
 ```
 
@@ -79,6 +80,7 @@ pie title Programming Languages Distribution
     "Rust" : 3
     "PHP" : 2
     "Swift" : 2
+    "Kotlin" : 1
 ```
 
 
@@ -125,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-13 1:00 CAT)
+## 📅 Latest Updates (2026-02-13 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +218,7 @@ npm run test
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
 - [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj) _[Dev.to]_
 
-_Last automated update: Fri, 13 Feb 2026 01:36:24 CAT_
+_Last automated update: Fri, 13 Feb 2026 02:00:23 CAT_
 
 
 
@@ -224,36 +226,36 @@ _Last automated update: Fri, 13 Feb 2026 01:36:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -287,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Feb 2026 23:36:24 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Feb 2026 00:00:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
