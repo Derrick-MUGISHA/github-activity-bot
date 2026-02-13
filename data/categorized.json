@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Becoming 1% better each day.",
-      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
-      "published_at": "2026-02-12T05:39:19Z",
-      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
-      "tags": [
-        "100daysofcode",
-        "frontend",
-        "learning",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
-      "source": "Dev.to",
-      "user": "Della Dominic"
-    },
-    {
       "title": "How I Used GitHub Copilot CLI to Make Git 10x Less Scary",
       "url": "https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf",
       "published_at": "2026-02-10T16:50:51Z",
@@ -117,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
       "source": "Dev.to",
       "user": "Stephan Miller"
+    },
+    {
+      "title": "Becoming 1% better each day.",
+      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
+      "published_at": "2026-02-12T05:39:19Z",
+      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
+      "tags": [
+        "100daysofcode",
+        "frontend",
+        "learning",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
+      "source": "Dev.to",
+      "user": "Della Dominic"
     },
     {
       "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
@@ -468,18 +468,6 @@
       "user": "ivank"
     },
     {
-      "title": "Paper Airplane Designs",
-      "url": "https://www.foldnfly.com/",
-      "published_at": "2018-10-18T16:34:52Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "wilsonfiifi"
-    },
-    {
       "title": "An AI agent published a hit piece on me",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
       "published_at": "2026-02-12T16:23:24Z",
@@ -490,6 +478,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "scottshambaugh"
+    },
+    {
+      "title": "Paper Airplane Designs",
+      "url": "https://www.foldnfly.com/",
+      "published_at": "2018-10-18T16:34:52Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "wilsonfiifi"
     },
     {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1565,
       "user": "ComposioHQ"
     },
     {
@@ -542,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 340,
       "user": "aeromomo"
     },
     {
@@ -557,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 649,
       "user": "RevylAI"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 159,
       "user": "mosaxiv"
     }
   ],
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1565,
       "user": "ComposioHQ"
     },
     {
@@ -856,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "iamzifei"
     },
     {
@@ -886,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "iltekin"
     }
   ],
@@ -1126,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 340,
       "user": "aeromomo"
     },
     {
@@ -1238,21 +1238,6 @@
       "user": "Richard Pascoe"
     },
     {
-      "title": "Becoming 1% better each day.",
-      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
-      "published_at": "2026-02-12T05:39:19Z",
-      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
-      "tags": [
-        "100daysofcode",
-        "frontend",
-        "learning",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
-      "source": "Dev.to",
-      "user": "Della Dominic"
-    },
-    {
       "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
       "url": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
       "published_at": "2026-02-10T10:43:07Z",
@@ -1296,6 +1281,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fskz1tl4rzcbhe2z3ot2i.jpg",
       "source": "Dev.to",
       "user": "Mads Stoumann"
+    },
+    {
+      "title": "Becoming 1% better each day.",
+      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
+      "published_at": "2026-02-12T05:39:19Z",
+      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
+      "tags": [
+        "100daysofcode",
+        "frontend",
+        "learning",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
+      "source": "Dev.to",
+      "user": "Della Dominic"
     },
     {
       "title": "Native CSS Utilities",
@@ -1778,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1565,
       "user": "ComposioHQ"
     },
     {
@@ -1808,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "iamzifei"
     },
     {
@@ -1838,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "iltekin"
     },
     {
@@ -1898,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 340,
       "user": "aeromomo"
     },
     {
@@ -1928,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 649,
       "user": "RevylAI"
     },
     {
@@ -1958,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 159,
       "user": "mosaxiv"
     },
     {
