@@ -106,21 +106,6 @@
       "user": "Russell Jones"
     },
     {
-      "title": "Getting most of your local LLM setup",
-      "url": "https://dev.to/av-codes/getting-most-of-your-local-llm-setup-4pmg",
-      "published_at": "2026-02-09T12:15:15Z",
-      "description": "Hi everyone, been active LLM user since before LLama 2 weights, running my first inference of Flan-T5...",
-      "tags": [
-        "ai",
-        "homelab",
-        "selfhosting",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8zzr3eqyptvuml75fy4z.png",
-      "source": "Dev.to",
-      "user": "AV"
-    },
-    {
       "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
       "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
       "published_at": "2026-02-08T07:00:00Z",
@@ -132,21 +117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
       "source": "Dev.to",
       "user": "Stephan Miller"
-    },
-    {
-      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
-      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
-      "published_at": "2026-02-11T14:49:26Z",
-      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
-      "tags": [
-        "javascript",
-        "security",
-        "ai",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
-      "source": "Dev.to",
-      "user": "Gianluca La Manna"
     },
     {
       "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
@@ -384,6 +354,36 @@
       "user": "NorthernDev"
     },
     {
+      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
+      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
+      "published_at": "2026-02-11T14:49:26Z",
+      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
+      "tags": [
+        "javascript",
+        "security",
+        "ai",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
+      "source": "Dev.to",
+      "user": "Gianluca La Manna"
+    },
+    {
+      "title": "DigitalOcean on Dev.to: Practical AI Insights for Builders",
+      "url": "https://dev.to/digitalocean/digitalocean-on-devto-practical-ai-insights-for-builders-3g0c",
+      "published_at": "2026-02-02T17:25:23Z",
+      "description": "The gap between “I want to build something with AI” and actually shipping it is still huge—fragmented...",
+      "tags": [
+        "ai",
+        "digitalocean",
+        "machinelearning",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6k4aixj3nmulzpdfjfwr.png",
+      "source": "Dev.to",
+      "user": "Jess Lulka"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -527,23 +527,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1512,
       "user": "ComposioHQ"
-    },
-    {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "requestsession"
     },
     {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
@@ -557,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "aeromomo"
     },
     {
@@ -572,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 583,
       "user": "RevylAI"
     },
     {
@@ -587,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "stellarlinkco"
     },
     {
@@ -602,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 153,
       "user": "mosaxiv"
     }
   ],
@@ -636,21 +621,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
       "source": "Dev.to",
       "user": "Fongoh Martin T."
-    },
-    {
-      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
-      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
-      "published_at": "2026-02-11T14:49:26Z",
-      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
-      "tags": [
-        "javascript",
-        "security",
-        "ai",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
-      "source": "Dev.to",
-      "user": "Gianluca La Manna"
     },
     {
       "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
@@ -708,6 +678,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fobiudf00y4joobgomxzm.png",
       "source": "Dev.to",
       "user": "Akarsh Cholapurath"
+    },
+    {
+      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
+      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
+      "published_at": "2026-02-11T14:49:26Z",
+      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
+      "tags": [
+        "javascript",
+        "security",
+        "ai",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
+      "source": "Dev.to",
+      "user": "Gianluca La Manna"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -841,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1512,
       "user": "ComposioHQ"
     },
     {
@@ -856,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 287,
       "user": "linguo2625469"
     },
     {
@@ -871,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 139,
       "user": "iamzifei"
     },
     {
@@ -886,23 +871,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "xvhuan"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "iltekin/remove-local-temu - GitHub Repository",
+      "url": "https://github.com/iltekin/remove-local-temu",
+      "published_at": "2026-02-12T08:32:31Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
       "stars": 100,
-      "user": "requestsession"
+      "user": "iltekin"
     }
   ],
   "Python": [
@@ -1141,23 +1126,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "aeromomo"
     },
     {
-      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
-      "url": "https://github.com/marshallrichards/ClawPhone",
-      "published_at": "2026-02-07T08:11:59Z",
-      "description": "Tweaks for running OpenClaw on a Android smartphone",
+      "title": "FireRedTeam/FireRed-OpenStoryline - GitHub Repository",
+      "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
+      "published_at": "2026-02-07T13:03:57Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 307,
-      "user": "marshallrichards"
+      "stars": 311,
+      "user": "FireRedTeam"
     }
   ],
   "DevOps": [
@@ -1232,25 +1217,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "xvhuan"
     }
   ],
   "WebDev": [
     {
-      "title": "HTML Accessibility Review",
-      "url": "https://dev.to/richardpascoe/html-accessibility-review-3md8",
-      "published_at": "2026-02-12T14:00:13Z",
-      "description": "The HTML Accessibility review on freeCodeCamp offered a valuable opportunity to revisit concepts from...",
+      "title": "Becoming 1% better each day.",
+      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
+      "published_at": "2026-02-12T05:39:19Z",
+      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
       "tags": [
-        "community",
+        "100daysofcode",
+        "frontend",
         "learning",
-        "programming",
         "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzpk871ndocs5yhn4qdj.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
       "source": "Dev.to",
-      "user": "Richard Pascoe"
+      "user": "Della Dominic"
     },
     {
       "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
@@ -1268,19 +1253,19 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Becoming 1% better each day.",
-      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
-      "published_at": "2026-02-12T05:39:19Z",
-      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
+      "title": "HTML Accessibility Review",
+      "url": "https://dev.to/richardpascoe/html-accessibility-review-3md8",
+      "published_at": "2026-02-12T14:00:13Z",
+      "description": "The HTML Accessibility review on freeCodeCamp offered a valuable opportunity to revisit concepts from...",
       "tags": [
-        "100daysofcode",
-        "frontend",
+        "community",
         "learning",
+        "programming",
         "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzpk871ndocs5yhn4qdj.png",
       "source": "Dev.to",
-      "user": "Della Dominic"
+      "user": "Richard Pascoe"
     },
     {
       "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
@@ -1397,21 +1382,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1d4u7tdhh8wm80g4xq0.png",
       "source": "Dev.to",
       "user": "Timothy Fosteman"
-    },
-    {
-      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
-      "url": "https://github.com/marshallrichards/ClawPhone",
-      "published_at": "2026-02-07T08:11:59Z",
-      "description": "Tweaks for running OpenClaw on a Android smartphone",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
-      "source": "GitHub",
-      "stars": 307,
-      "user": "marshallrichards"
     }
   ],
   "Cloud": [
@@ -1503,21 +1473,6 @@
   ],
   "Security": [
     {
-      "title": "Your IDE is an Attack Vector",
-      "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
-      "published_at": "2026-02-12T00:36:03Z",
-      "description": "A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...",
-      "tags": [
-        "vscode",
-        "security",
-        "phishing",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
-      "source": "Dev.to",
-      "user": "Peter Mulligan"
-    },
-    {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
       "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
       "published_at": "2026-02-11T02:00:24Z",
@@ -1533,19 +1488,19 @@
       "user": "SnykSec"
     },
     {
-      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
-      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
-      "published_at": "2026-02-11T14:49:26Z",
-      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
+      "title": "Your IDE is an Attack Vector",
+      "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
+      "published_at": "2026-02-12T00:36:03Z",
+      "description": "A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...",
       "tags": [
-        "javascript",
+        "vscode",
         "security",
-        "ai",
-        "node"
+        "phishing",
+        "tooling"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
       "source": "Dev.to",
-      "user": "Gianluca La Manna"
+      "user": "Peter Mulligan"
     },
     {
       "title": "The 48-Hour Collapse of Moltbook",
@@ -1563,6 +1518,21 @@
       "user": "Narnaiezzsshaa Truong"
     },
     {
+      "title": "Your AI Can Read Your .env File - Unless You Stop It Like This",
+      "url": "https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog",
+      "published_at": "2026-02-11T14:49:26Z",
+      "description": "Let’s be honest: giving an AI Agent access to our file system is incredibly convenient. It can write...",
+      "tags": [
+        "javascript",
+        "security",
+        "ai",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdowjdjfqmus1127um65g.png",
+      "source": "Dev.to",
+      "user": "Gianluca La Manna"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1576,21 +1546,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "ASCII Whisper: Local P2P Chat with Sound FX and Battleship",
-      "url": "https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7",
-      "published_at": "2026-02-11T00:29:42Z",
-      "description": "This is a group submission for the GitHub Copilot CLI Challenge           What We Built...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png",
-      "source": "Dev.to",
-      "user": "Anna Villarreal"
-    },
     {
       "title": "Get **** done. I hate what Trello has become",
       "url": "https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05",
@@ -1622,19 +1577,19 @@
       "user": "👾 FrancisTRᴅᴇᴠ 👾"
     },
     {
-      "title": "Your IDE is an Attack Vector",
-      "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
-      "published_at": "2026-02-12T00:36:03Z",
-      "description": "A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...",
+      "title": "ASCII Whisper: Local P2P Chat with Sound FX and Battleship",
+      "url": "https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7",
+      "published_at": "2026-02-11T00:29:42Z",
+      "description": "This is a group submission for the GitHub Copilot CLI Challenge           What We Built...",
       "tags": [
-        "vscode",
-        "security",
-        "phishing",
-        "tooling"
+        "devchallenge",
+        "githubchallenge",
+        "cli",
+        "githubcopilot"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png",
       "source": "Dev.to",
-      "user": "Peter Mulligan"
+      "user": "Anna Villarreal"
     },
     {
       "title": "How I Used GitHub Copilot CLI to Make Git 10x Less Scary",
@@ -1682,6 +1637,18 @@
       "user": "Mohamed ali May"
     },
     {
+      "title": "Five Git Config Settings Every Dev Needs",
+      "url": "https://dev.to/nickytonline/five-git-config-settings-every-dev-needs-3e55",
+      "published_at": "2026-02-10T02:19:13Z",
+      "description": "You've probably added some settings to your Git Configuration, but here are some you might not have...",
+      "tags": [
+        "git"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3pafpssoe8bf9qoop65s.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
+    },
+    {
       "title": "How to Run OpenClaw with DigitalOcean",
       "url": "https://dev.to/digitalocean/how-to-run-openclaw-with-digitalocean-3mpb",
       "published_at": "2026-02-10T18:45:07Z",
@@ -1697,18 +1664,6 @@
       "user": "Jess Lulka"
     },
     {
-      "title": "Five Git Config Settings Every Dev Needs",
-      "url": "https://dev.to/nickytonline/five-git-config-settings-every-dev-needs-3e55",
-      "published_at": "2026-02-10T02:19:13Z",
-      "description": "You've probably added some settings to your Git Configuration, but here are some you might not have...",
-      "tags": [
-        "git"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3pafpssoe8bf9qoop65s.jpg",
-      "source": "Dev.to",
-      "user": "Nick Taylor"
-    },
-    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1721,6 +1676,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
       "source": "Dev.to",
       "user": "Heng Lu"
+    },
+    {
+      "title": "Your IDE is an Attack Vector",
+      "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
+      "published_at": "2026-02-12T00:36:03Z",
+      "description": "A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...",
+      "tags": [
+        "vscode",
+        "security",
+        "phishing",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
+      "source": "Dev.to",
+      "user": "Peter Mulligan"
     },
     {
       "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
@@ -1782,6 +1752,21 @@
       "user": "Yann Rabiller"
     },
     {
+      "title": "DigitalOcean on Dev.to: Practical AI Insights for Builders",
+      "url": "https://dev.to/digitalocean/digitalocean-on-devto-practical-ai-insights-for-builders-3g0c",
+      "published_at": "2026-02-02T17:25:23Z",
+      "description": "The gap between “I want to build something with AI” and actually shipping it is still huge—fragmented...",
+      "tags": [
+        "ai",
+        "digitalocean",
+        "machinelearning",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6k4aixj3nmulzpdfjfwr.png",
+      "source": "Dev.to",
+      "user": "Jess Lulka"
+    },
+    {
       "title": "ComposioHQ/secure-openclaw - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
       "url": "https://github.com/ComposioHQ/secure-openclaw",
       "published_at": "2026-02-08T07:55:07Z",
@@ -1793,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1512,
       "user": "ComposioHQ"
     },
     {
@@ -1808,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 287,
       "user": "linguo2625469"
     },
     {
@@ -1823,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 139,
       "user": "iamzifei"
     },
     {
@@ -1838,23 +1823,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "xvhuan"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "iltekin/remove-local-temu - GitHub Repository",
+      "url": "https://github.com/iltekin/remove-local-temu",
+      "published_at": "2026-02-12T08:32:31Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
       "stars": 100,
-      "user": "requestsession"
+      "user": "iltekin"
     },
     {
       "title": "trumpet-noek/sora2-free-watermark-remover - sora2 free watermark remover",
@@ -1913,23 +1898,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "aeromomo"
     },
     {
-      "title": "marshallrichards/ClawPhone - Tweaks for running OpenClaw on a Android smartphone",
-      "url": "https://github.com/marshallrichards/ClawPhone",
-      "published_at": "2026-02-07T08:11:59Z",
-      "description": "Tweaks for running OpenClaw on a Android smartphone",
+      "title": "FireRedTeam/FireRed-OpenStoryline - GitHub Repository",
+      "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
+      "published_at": "2026-02-07T13:03:57Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7897623?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 307,
-      "user": "marshallrichards"
+      "stars": 311,
+      "user": "FireRedTeam"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -1943,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 583,
       "user": "RevylAI"
     },
     {
@@ -1958,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "stellarlinkco"
     },
     {
@@ -1973,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 153,
       "user": "mosaxiv"
     },
     {
@@ -1988,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 152,
       "user": "simonw"
     },
     {
