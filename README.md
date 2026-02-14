@@ -216,7 +216,7 @@ npm run test
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 - [Using Laravel Boost With DDEV](https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6) _[Dev.to]_
 
-_Last automated update: Sat, 14 Feb 2026 16:04:09 CAT_
+_Last automated update: Sat, 14 Feb 2026 16:45:13 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 14 Feb 2026 16:04:09 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Feb 2026 14:04:09 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Feb 2026 14:45:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
