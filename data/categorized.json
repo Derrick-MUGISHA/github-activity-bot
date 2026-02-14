@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "What else do you want to know about Gemini CLI?",
-      "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
-      "published_at": "2026-02-13T21:42:35Z",
-      "description": "Earlier this week, @greggyb and @stephr_wong kicked off Google Cloud Live, a no fluff weekly...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgu7wotyz6k8asd6ngyza.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
       "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
       "published_at": "2026-02-13T11:59:31Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
       "source": "Dev.to",
       "user": "Jean Klebert de A Modesto"
+    },
+    {
+      "title": "What else do you want to know about Gemini CLI?",
+      "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
+      "published_at": "2026-02-13T21:42:35Z",
+      "description": "Earlier this week, @greggyb and @stephr_wong kicked off Google Cloud Live, a no fluff weekly...",
+      "tags": [
+        "gemini",
+        "cli",
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgu7wotyz6k8asd6ngyza.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
@@ -497,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "andyhuo520"
     },
     {
@@ -512,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 413,
       "user": "aeromomo"
     },
     {
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 341,
       "user": "zilliztech"
     },
     {
@@ -577,21 +577,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
-      "url": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
-      "published_at": "2026-02-10T10:43:07Z",
-      "description": "There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...",
-      "tags": [
-        "javascript",
-        "node",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
     {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
       "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
@@ -886,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "andyhuo520"
     },
     {
@@ -1111,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 413,
       "user": "aeromomo"
     },
     {
@@ -1126,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 341,
       "user": "zilliztech"
     },
     {
@@ -1141,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 278,
       "user": "HKUDS"
     },
     {
@@ -1171,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 247,
       "user": "zscole"
     }
   ],
@@ -1252,21 +1237,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
-      "url": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
-      "published_at": "2026-02-10T10:43:07Z",
-      "description": "There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...",
-      "tags": [
-        "javascript",
-        "node",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
     {
       "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
       "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
@@ -1497,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 435,
       "user": "mickamy"
     }
   ],
@@ -1780,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "andyhuo520"
     },
     {
@@ -1840,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 413,
       "user": "aeromomo"
     },
     {
@@ -1855,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 341,
       "user": "zilliztech"
     },
     {
@@ -1870,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 278,
       "user": "HKUDS"
     },
     {
@@ -1900,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 247,
       "user": "zscole"
     },
     {
@@ -1930,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 435,
       "user": "mickamy"
     },
     {
@@ -1960,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "simonw"
     },
     {
