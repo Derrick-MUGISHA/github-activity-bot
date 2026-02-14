@@ -16,21 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
-      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
-      "published_at": "2026-02-13T20:08:54Z",
-      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
-      "tags": [
-        "opensource",
-        "ai",
-        "codex",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "David Alcala"
-    },
-    {
       "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
       "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
       "published_at": "2026-02-13T11:59:31Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
       "source": "Dev.to",
       "user": "Ale"
+    },
+    {
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codex",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "David Alcala"
     },
     {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "zilliztech"
     },
     {
@@ -1126,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "zilliztech"
     },
     {
@@ -1512,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 288,
       "user": "mickamy"
     }
   ],
@@ -1606,21 +1606,6 @@
       "user": "Richard Pascoe"
     },
     {
-      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
-      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
-      "published_at": "2026-02-13T20:08:54Z",
-      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
-      "tags": [
-        "opensource",
-        "ai",
-        "codex",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "David Alcala"
-    },
-    {
       "title": "Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up",
       "url": "https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0",
       "published_at": "2026-02-13T20:01:12Z",
@@ -1649,6 +1634,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
+    },
+    {
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codex",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "David Alcala"
     },
     {
       "title": "Built a Vibe Coded App where you can Style any Image you like! :D",
@@ -1870,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "zilliztech"
     },
     {
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 288,
       "user": "mickamy"
     },
     {
