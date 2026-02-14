@@ -106,21 +106,6 @@
       "user": "Russell Jones"
     },
     {
-      "title": "Becoming 1% better each day.",
-      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
-      "published_at": "2026-02-12T05:39:19Z",
-      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
-      "tags": [
-        "100daysofcode",
-        "frontend",
-        "learning",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
-      "source": "Dev.to",
-      "user": "Della Dominic"
-    },
-    {
       "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
       "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
       "published_at": "2026-02-08T07:00:00Z",
@@ -309,6 +294,21 @@
       "user": "Favour Afolayan"
     },
     {
+      "title": "Becoming 1% better each day.",
+      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
+      "published_at": "2026-02-12T05:39:19Z",
+      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
+      "tags": [
+        "100daysofcode",
+        "frontend",
+        "learning",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
+      "source": "Dev.to",
+      "user": "Della Dominic"
+    },
+    {
       "title": "Dear Vibe Coder: Your Code Is the Problem.",
       "url": "https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc",
       "published_at": "2026-02-09T17:12:21Z",
@@ -467,7 +467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1496,
       "user": "ComposioHQ"
     },
     {
@@ -482,7 +482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "andyhuo520"
     },
     {
@@ -497,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 381,
       "user": "aeromomo"
     },
     {
@@ -512,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "zilliztech"
     },
     {
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "RevylAI"
     },
     {
@@ -856,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1496,
       "user": "ComposioHQ"
     },
     {
@@ -901,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "andyhuo520"
     },
     {
@@ -1096,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 381,
       "user": "aeromomo"
     },
     {
@@ -1126,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "zilliztech"
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "zscole"
     },
     {
@@ -1206,6 +1206,21 @@
       "user": "Jawad Elhaouchi"
     },
     {
+      "title": "How We Reduced Dependabot Noise in Our Monorepo",
+      "url": "https://dev.to/aki59/how-we-reduced-dependabot-noise-in-our-monorepo-1b06",
+      "published_at": "2026-02-04T09:21:28Z",
+      "description": "Why we needed Dependabot   Our dependency management had become increasingly manual and...",
+      "tags": [
+        "devops",
+        "jenkins",
+        "cicd",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl6ligout75eq676e47zd.png",
+      "source": "Dev.to",
+      "user": "Akash Tewari"
+    },
+    {
       "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
       "url": "https://github.com/xvhuan/xiaoi",
       "published_at": "2026-02-10T16:05:01Z",
@@ -1251,21 +1266,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Becoming 1% better each day.",
-      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
-      "published_at": "2026-02-12T05:39:19Z",
-      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
-      "tags": [
-        "100daysofcode",
-        "frontend",
-        "learning",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
-      "source": "Dev.to",
-      "user": "Della Dominic"
     },
     {
       "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
@@ -1341,6 +1341,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fskz1tl4rzcbhe2z3ot2i.jpg",
       "source": "Dev.to",
       "user": "Mads Stoumann"
+    },
+    {
+      "title": "Becoming 1% better each day.",
+      "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
+      "published_at": "2026-02-12T05:39:19Z",
+      "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
+      "tags": [
+        "100daysofcode",
+        "frontend",
+        "learning",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
+      "source": "Dev.to",
+      "user": "Della Dominic"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1750,7 +1765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1496,
       "user": "ComposioHQ"
     },
     {
@@ -1795,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "andyhuo520"
     },
     {
@@ -1825,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 381,
       "user": "aeromomo"
     },
     {
@@ -1855,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "zilliztech"
     },
     {
@@ -1870,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "zscole"
     },
     {
@@ -1900,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "RevylAI"
     },
     {
