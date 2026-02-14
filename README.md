@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-14-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![learning](https://img.shields.io/badge/learning-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![community](https://img.shields.io/badge/community-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![learning](https://img.shields.io/badge/learning-7-blue) ![community](https://img.shields.io/badge/community-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-14 15:00 CAT)
+## 📅 Latest Updates (2026-02-14 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,7 +205,6 @@ npm run test
 - [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl) _[Dev.to]_
 - [I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3) _[Dev.to]_
 - [ASCII Whisper: Local P2P Chat with Sound FX and Battleship](https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7) _[Dev.to]_
-- [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 - [Google Analytics, SaaS, or self-hosted? How I chose my analytics stack](https://dev.to/sebhoek/google-analytics-saas-or-self-hosted-how-i-chose-my-analytics-stack-271g) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 - [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
+- [Using Laravel Boost With DDEV](https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6) _[Dev.to]_
 
-_Last automated update: Sat, 14 Feb 2026 15:31:54 CAT_
+_Last automated update: Sat, 14 Feb 2026 16:04:09 CAT_
 
 
 
@@ -235,14 +235,14 @@ Token bucket, sliding window, Redis
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Feb 2026 13:31:54 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Feb 2026 14:04:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -29,7 +29,7 @@
   "by_date": {
     "2026-02-13": 13,
     "2026-02-12": 8,
-    "2026-02-10": 14,
+    "2026-02-10": 13,
     "2026-02-11": 9,
     "2026-02-08": 6,
     "2026-02-09": 11,
@@ -79,16 +79,16 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "learning": 8,
     "python": 8,
+    "learning": 7,
     "community": 5,
     "tutorial": 5,
     "go": 5,
     "cli": 4,
     "frontend": 4,
-    "career": 4,
     "typescript": 4,
-    "devchallenge": 3
+    "devchallenge": 3,
+    "githubchallenge": 3
   },
   "trending_topics": [],
   "language_percentages": {
