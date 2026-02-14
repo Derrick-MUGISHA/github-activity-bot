@@ -61,21 +61,6 @@
       "user": "Ale"
     },
     {
-      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
-      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
-      "published_at": "2026-02-13T15:27:58Z",
-      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
-      "tags": [
-        "ai",
-        "security",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
-      "source": "Dev.to",
-      "user": "Natnael Getenew"
-    },
-    {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
       "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
       "published_at": "2026-02-11T02:00:24Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
       "source": "Dev.to",
       "user": "Russell Jones"
+    },
+    {
+      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
+      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
+      "published_at": "2026-02-13T15:27:58Z",
+      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
+      "tags": [
+        "ai",
+        "security",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
+      "source": "Dev.to",
+      "user": "Natnael Getenew"
     },
     {
       "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
@@ -482,7 +482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1498,
+      "stars": 1499,
       "user": "ComposioHQ"
     },
     {
@@ -497,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 151,
       "user": "andyhuo520"
     },
     {
@@ -512,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "aeromomo"
     },
     {
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 290,
       "user": "zilliztech"
     },
     {
@@ -608,21 +608,6 @@
       "user": "Ale"
     },
     {
-      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
-      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
-      "published_at": "2026-02-13T15:27:58Z",
-      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
-      "tags": [
-        "ai",
-        "security",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
-      "source": "Dev.to",
-      "user": "Natnael Getenew"
-    },
-    {
       "title": "The 4 Rules of Simple Design: A Practical Guide with TypeScript",
       "url": "https://dev.to/maximeshr/the-4-rules-of-simple-design-a-practical-guide-with-typescript-cn0",
       "published_at": "2026-02-13T12:14:01Z",
@@ -651,6 +636,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
       "source": "Dev.to",
       "user": "Fongoh Martin T."
+    },
+    {
+      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
+      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
+      "published_at": "2026-02-13T15:27:58Z",
+      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
+      "tags": [
+        "ai",
+        "security",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
+      "source": "Dev.to",
+      "user": "Natnael Getenew"
     },
     {
       "title": "Handy Bit Manipulation Tricks",
@@ -871,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1498,
+      "stars": 1499,
       "user": "ComposioHQ"
     },
     {
@@ -901,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 151,
       "user": "andyhuo520"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "aeromomo"
     },
     {
@@ -1126,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 290,
       "user": "zilliztech"
     },
     {
@@ -1512,26 +1512,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 205,
       "user": "mickamy"
     }
   ],
   "Security": [
-    {
-      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
-      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
-      "published_at": "2026-02-13T15:27:58Z",
-      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
-      "tags": [
-        "ai",
-        "security",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
-      "source": "Dev.to",
-      "user": "Natnael Getenew"
-    },
     {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
       "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
@@ -1546,6 +1531,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
       "source": "Dev.to",
       "user": "SnykSec"
+    },
+    {
+      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
+      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
+      "published_at": "2026-02-13T15:27:58Z",
+      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
+      "tags": [
+        "ai",
+        "security",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
+      "source": "Dev.to",
+      "user": "Natnael Getenew"
     },
     {
       "title": "The 48-Hour Collapse of Moltbook",
@@ -1606,21 +1606,6 @@
       "user": "Richard Pascoe"
     },
     {
-      "title": "Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up",
-      "url": "https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0",
-      "published_at": "2026-02-13T20:01:12Z",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge           Table of Contents    Demo  What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -1634,6 +1619,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "David Alcala"
+    },
+    {
+      "title": "Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up",
+      "url": "https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0",
+      "published_at": "2026-02-13T20:01:12Z",
+      "description": "This is a submission for the GitHub Copilot CLI Challenge           Table of Contents    Demo  What I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "cli",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
     },
     {
       "title": "ASCII Whisper: Local P2P Chat with Sound FX and Battleship",
@@ -1780,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1498,
+      "stars": 1499,
       "user": "ComposioHQ"
     },
     {
@@ -1810,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 151,
       "user": "andyhuo520"
     },
     {
@@ -1855,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "aeromomo"
     },
     {
@@ -1870,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 290,
       "user": "zilliztech"
     },
     {
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 205,
       "user": "mickamy"
     },
     {
