@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-14-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 40 (38.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 40 (39.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (28.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (27.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.5%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.6%)
 
-**WebDev**: 🟦🟦🟦🟦🟦 9 (8.7%)
+**WebDev**: 🟦🟦🟦🟦🟦 9 (8.8%)
 
 **Security**: 🟦🟦🟦 5 (4.9%)
 
@@ -44,15 +44,15 @@
 
 **Cloud**: 🟦🟦 4 (3.9%)
 
-**Mobile**: 🟦 2 (1.9%)
+**Mobile**: 🟦 2 (2.0%)
 
-**Database**: 🟦 2 (1.9%)
+**Database**: 🟦 2 (2.0%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 57 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-16-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![learning](https://img.shields.io/badge/learning-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![community](https://img.shields.io/badge/community-4-blue) 
+![ai](https://img.shields.io/badge/ai-16-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![learning](https://img.shields.io/badge/learning-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![community](https://img.shields.io/badge/community-4-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-14 3:00 CAT)
+## 📅 Latest Updates (2026-02-14 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -213,10 +213,10 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc) _[Dev.to]_
 - [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) _[Dev.to]_
 - [The 4 Rules of Simple Design: A Practical Guide with TypeScript](https://dev.to/maximeshr/the-4-rules-of-simple-design-a-practical-guide-with-typescript-cn0) _[Dev.to]_
-- [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
 - [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p) _[Dev.to]_
+- [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
 
-_Last automated update: Sat, 14 Feb 2026 03:47:59 CAT_
+_Last automated update: Sat, 14 Feb 2026 06:07:41 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 14 Feb 2026 03:47:59 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Heap, stack, garbage collection
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Feb 2026 01:47:59 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Feb 2026 04:07:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

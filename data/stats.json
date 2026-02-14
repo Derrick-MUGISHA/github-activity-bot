@@ -1,7 +1,7 @@
 {
-  "total": 103,
+  "total": 102,
   "by_source": {
-    "Dev.to": 58,
+    "Dev.to": 57,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -15,7 +15,7 @@
     "Cloud": 4,
     "Database": 2,
     "Security": 5,
-    "Tools": 29
+    "Tools": 28
   },
   "by_language": {
     "Go": 17,
@@ -27,9 +27,9 @@
     "Swift": 2
   },
   "by_date": {
-    "2026-02-13": 11,
-    "2026-02-10": 16,
-    "2026-02-12": 10,
+    "2026-02-13": 12,
+    "2026-02-10": 15,
+    "2026-02-12": 9,
     "2026-02-11": 9,
     "2026-02-08": 7,
     "2026-02-09": 10,
@@ -68,7 +68,7 @@
   },
   "top_tags": {
     "ai": 16,
-    "webdev": 16,
+    "webdev": 15,
     "github": 15,
     "open-source": 15,
     "discuss": 10,
@@ -83,10 +83,10 @@
     "go": 5,
     "community": 4,
     "cli": 4,
-    "productivity": 4,
     "frontend": 4,
     "career": 4,
-    "typescript": 4
+    "typescript": 4,
+    "devchallenge": 3
   },
   "trending_topics": [],
   "language_percentages": {

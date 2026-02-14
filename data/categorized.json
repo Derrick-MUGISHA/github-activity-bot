@@ -8,8 +8,8 @@
       "tags": [
         "opensource",
         "ai",
-        "webdev",
-        "productivity"
+        "codex",
+        "claude"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
@@ -467,23 +467,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1491,
+      "stars": 1493,
       "user": "ComposioHQ"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
+      "published_at": "2026-02-13T13:14:54Z",
+      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 110,
-      "user": "requestsession"
+      "stars": 123,
+      "user": "andyhuo520"
     },
     {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
@@ -497,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 377,
       "user": "aeromomo"
     },
     {
@@ -512,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 244,
       "user": "zilliztech"
     },
     {
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 774,
       "user": "RevylAI"
     },
     {
@@ -557,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142104046?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "luckyPipewrench"
     }
   ],
@@ -856,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1491,
+      "stars": 1493,
       "user": "ComposioHQ"
     },
     {
@@ -890,6 +890,21 @@
       "user": "xvhuan"
     },
     {
+      "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
+      "published_at": "2026-02-13T13:14:54Z",
+      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 123,
+      "user": "andyhuo520"
+    },
+    {
       "title": "iltekin/remove-local-temu - GitHub Repository",
       "url": "https://github.com/iltekin/remove-local-temu",
       "published_at": "2026-02-12T08:32:31Z",
@@ -903,21 +918,6 @@
       "source": "GitHub",
       "stars": 120,
       "user": "iltekin"
-    },
-    {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
-      "source": "GitHub",
-      "stars": 110,
-      "user": "requestsession"
     }
   ],
   "Python": [
@@ -1096,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 377,
       "user": "aeromomo"
     },
     {
@@ -1111,8 +1111,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260524585?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "openhome-dev"
+    },
+    {
+      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "url": "https://github.com/zilliztech/memsearch",
+      "published_at": "2026-02-09T02:29:16Z",
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "zilliztech"
     },
     {
       "title": "zscole/model-hierarchy-skill - OpenClaw skill for cost-optimized model routing based on task complexity",
@@ -1130,21 +1145,6 @@
       "user": "zscole"
     },
     {
-      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "url": "https://github.com/zilliztech/memsearch",
-      "published_at": "2026-02-09T02:29:16Z",
-      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
-      "source": "GitHub",
-      "stars": 231,
-      "user": "zilliztech"
-    },
-    {
       "title": "AnkitNayak-eth/EpsteinFiles-RAG - A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).",
       "url": "https://github.com/AnkitNayak-eth/EpsteinFiles-RAG",
       "published_at": "2026-02-10T17:29:43Z",
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52006128?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "AnkitNayak-eth"
     }
   ],
@@ -1541,7 +1541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142104046?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "luckyPipewrench"
     }
   ],
@@ -1583,8 +1583,8 @@
       "tags": [
         "opensource",
         "ai",
-        "webdev",
-        "productivity"
+        "codex",
+        "claude"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
@@ -1619,18 +1619,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm1fpp1ggp3dnlm2z8160.gif",
       "source": "Dev.to",
       "user": "👾 FrancisTRᴅᴇᴠ 👾"
-    },
-    {
-      "title": "Five Git Config Settings Every Dev Needs",
-      "url": "https://dev.to/nickytonline/five-git-config-settings-every-dev-needs-3e55",
-      "published_at": "2026-02-10T02:19:13Z",
-      "description": "You've probably added some settings to your Git Configuration, but here are some you might not have...",
-      "tags": [
-        "git"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3pafpssoe8bf9qoop65s.jpg",
-      "source": "Dev.to",
-      "user": "Nick Taylor"
     },
     {
       "title": "Your IDE is an Attack Vector",
@@ -1762,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1491,
+      "stars": 1493,
       "user": "ComposioHQ"
     },
     {
@@ -1796,6 +1784,21 @@
       "user": "xvhuan"
     },
     {
+      "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
+      "published_at": "2026-02-13T13:14:54Z",
+      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 123,
+      "user": "andyhuo520"
+    },
+    {
       "title": "iltekin/remove-local-temu - GitHub Repository",
       "url": "https://github.com/iltekin/remove-local-temu",
       "published_at": "2026-02-12T08:32:31Z",
@@ -1811,21 +1814,6 @@
       "user": "iltekin"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
-      "source": "GitHub",
-      "stars": 110,
-      "user": "requestsession"
-    },
-    {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
       "url": "https://github.com/aeromomo/claw-compactor",
       "published_at": "2026-02-10T00:27:08Z",
@@ -1837,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 377,
       "user": "aeromomo"
     },
     {
@@ -1852,8 +1840,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260524585?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "openhome-dev"
+    },
+    {
+      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "url": "https://github.com/zilliztech/memsearch",
+      "published_at": "2026-02-09T02:29:16Z",
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "zilliztech"
     },
     {
       "title": "zscole/model-hierarchy-skill - OpenClaw skill for cost-optimized model routing based on task complexity",
@@ -1871,21 +1874,6 @@
       "user": "zscole"
     },
     {
-      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "url": "https://github.com/zilliztech/memsearch",
-      "published_at": "2026-02-09T02:29:16Z",
-      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
-      "source": "GitHub",
-      "stars": 231,
-      "user": "zilliztech"
-    },
-    {
       "title": "AnkitNayak-eth/EpsteinFiles-RAG - A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).",
       "url": "https://github.com/AnkitNayak-eth/EpsteinFiles-RAG",
       "published_at": "2026-02-10T17:29:43Z",
@@ -1897,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52006128?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "AnkitNayak-eth"
     },
     {
@@ -1912,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 774,
       "user": "RevylAI"
     },
     {
@@ -1942,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 167,
       "user": "simonw"
     },
     {
@@ -1957,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142104046?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "luckyPipewrench"
     },
     {
@@ -1972,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181062918?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 92,
       "user": "warreth"
     }
   ]
