@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
-      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
-      "published_at": "2026-02-13T20:08:54Z",
-      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
-      "tags": [
-        "opensource",
-        "ai",
-        "codex",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "David Alcala"
-    },
-    {
       "title": "What else do you want to know about Gemini CLI?",
       "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
       "published_at": "2026-02-13T21:42:35Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgu7wotyz6k8asd6ngyza.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codex",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "David Alcala"
     },
     {
       "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
@@ -482,7 +482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 137,
       "user": "andyhuo520"
     },
     {
@@ -497,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 386,
       "user": "aeromomo"
     },
     {
@@ -512,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 266,
       "user": "zilliztech"
     },
     {
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 777,
       "user": "RevylAI"
     },
     {
@@ -542,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "mosaxiv"
     },
     {
@@ -875,6 +875,21 @@
       "user": "iamzifei"
     },
     {
+      "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
+      "published_at": "2026-02-13T13:14:54Z",
+      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "andyhuo520"
+    },
+    {
       "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
       "url": "https://github.com/xvhuan/xiaoi",
       "published_at": "2026-02-10T16:05:01Z",
@@ -888,21 +903,6 @@
       "source": "GitHub",
       "stars": 133,
       "user": "xvhuan"
-    },
-    {
-      "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
-      "published_at": "2026-02-13T13:14:54Z",
-      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 131,
-      "user": "andyhuo520"
     },
     {
       "title": "iltekin/remove-local-temu - GitHub Repository",
@@ -1096,8 +1096,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 386,
       "user": "aeromomo"
+    },
+    {
+      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "url": "https://github.com/zilliztech/memsearch",
+      "published_at": "2026-02-09T02:29:16Z",
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
+      "source": "GitHub",
+      "stars": 266,
+      "user": "zilliztech"
     },
     {
       "title": "openhome-dev/abilities - Open-source abilities for OpenHome agents. ",
@@ -1115,21 +1130,6 @@
       "user": "openhome-dev"
     },
     {
-      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "url": "https://github.com/zilliztech/memsearch",
-      "published_at": "2026-02-09T02:29:16Z",
-      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
-      "source": "GitHub",
-      "stars": 251,
-      "user": "zilliztech"
-    },
-    {
       "title": "zscole/model-hierarchy-skill - OpenClaw skill for cost-optimized model routing based on task complexity",
       "url": "https://github.com/zscole/model-hierarchy-skill",
       "published_at": "2026-02-11T23:54:32Z",
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "zscole"
     },
     {
@@ -1784,6 +1784,21 @@
       "user": "iamzifei"
     },
     {
+      "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
+      "published_at": "2026-02-13T13:14:54Z",
+      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "andyhuo520"
+    },
+    {
       "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
       "url": "https://github.com/xvhuan/xiaoi",
       "published_at": "2026-02-10T16:05:01Z",
@@ -1797,21 +1812,6 @@
       "source": "GitHub",
       "stars": 133,
       "user": "xvhuan"
-    },
-    {
-      "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
-      "published_at": "2026-02-13T13:14:54Z",
-      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 131,
-      "user": "andyhuo520"
     },
     {
       "title": "iltekin/remove-local-temu - GitHub Repository",
@@ -1840,8 +1840,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 386,
       "user": "aeromomo"
+    },
+    {
+      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "url": "https://github.com/zilliztech/memsearch",
+      "published_at": "2026-02-09T02:29:16Z",
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
+      "source": "GitHub",
+      "stars": 266,
+      "user": "zilliztech"
     },
     {
       "title": "openhome-dev/abilities - Open-source abilities for OpenHome agents. ",
@@ -1859,21 +1874,6 @@
       "user": "openhome-dev"
     },
     {
-      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "url": "https://github.com/zilliztech/memsearch",
-      "published_at": "2026-02-09T02:29:16Z",
-      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
-      "source": "GitHub",
-      "stars": 251,
-      "user": "zilliztech"
-    },
-    {
       "title": "zscole/model-hierarchy-skill - OpenClaw skill for cost-optimized model routing based on task complexity",
       "url": "https://github.com/zscole/model-hierarchy-skill",
       "published_at": "2026-02-11T23:54:32Z",
@@ -1885,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "zscole"
     },
     {
@@ -1915,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 777,
       "user": "RevylAI"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "mosaxiv"
     },
     {
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "simonw"
     },
     {
