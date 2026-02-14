@@ -30,13 +30,13 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦🟦 8 (7.6%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.2 (29.2%)
-Java            ███████████████████████ 22.5 (22.5%)
-Go              ██████████████████████ 21.3 (21.3%)
-Python          █████████████████████ 20.2 (20.2%)
-Rust            ██ 2.2 (2.2%)
+JavaScript      ██████████████████████████████ 29.7 (29.7%)
+Java            ███████████████████████ 23.1 (23.1%)
+Go              ████████████████████ 19.8 (19.8%)
+Python          ████████████████████ 19.8 (19.8%)
+Rust            ███ 3.3 (3.3%)
 PHP             ██ 2.2 (2.2%)
 Swift           ██ 2.2 (2.2%)
 
@@ -72,11 +72,11 @@ Swift           ██ 2.2 (2.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 26
-    "Java" : 20
-    "Go" : 19
+    "JavaScript" : 27
+    "Java" : 21
+    "Go" : 18
     "Python" : 18
-    "Rust" : 2
+    "Rust" : 3
     "PHP" : 2
     "Swift" : 2
 ```
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![learning](https://img.shields.io/badge/learning-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![career](https://img.shields.io/badge/career-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![learning](https://img.shields.io/badge/learning-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![community](https://img.shields.io/badge/community-4-blue) 
 
 
 
@@ -216,7 +216,7 @@ npm run test
 - [How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd) _[Dev.to]_
 - [Handy Bit Manipulation Tricks](https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 00:19:36 CAT_
+_Last automated update: Sun, 15 Feb 2026 00:49:47 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Feb 2026 00:19:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Python: Explain decorators in Python with an example
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Feb 2026 22:19:36 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Feb 2026 22:49:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
