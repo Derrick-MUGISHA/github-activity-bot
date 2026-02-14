@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-14 23:00 CAT)
+## 📅 Latest Updates (2026-02-15 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd) _[Dev.to]_
 - [Handy Bit Manipulation Tricks](https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39) _[Dev.to]_
 
-_Last automated update: Sat, 14 Feb 2026 23:46:10 CAT_
+_Last automated update: Sun, 15 Feb 2026 00:19:36 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 14 Feb 2026 23:46:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Feb 2026 21:46:10 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Feb 2026 22:19:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
