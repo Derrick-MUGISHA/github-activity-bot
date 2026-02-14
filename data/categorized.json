@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
-      "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
-      "published_at": "2026-02-13T11:59:31Z",
-      "description": "When a recent article compared Symfony AI to “a school bus painted like a rocket pretending to reach...",
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
       "tags": [
-        "symfony",
+        "opensource",
         "ai",
-        "programming",
-        "webdev"
+        "webdev",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
-      "user": "Jean Klebert de A Modesto"
+      "user": "David Alcala"
     },
     {
       "title": "What else do you want to know about Gemini CLI?",
@@ -31,19 +31,19 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
-      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
-      "published_at": "2026-02-13T20:08:54Z",
-      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
+      "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
+      "published_at": "2026-02-13T11:59:31Z",
+      "description": "When a recent article compared Symfony AI to “a school bus painted like a rocket pretending to reach...",
       "tags": [
-        "opensource",
+        "symfony",
         "ai",
-        "webdev",
-        "productivity"
+        "programming",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
       "source": "Dev.to",
-      "user": "David Alcala"
+      "user": "Jean Klebert de A Modesto"
     },
     {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
@@ -467,8 +467,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1489,
+      "stars": 1491,
       "user": "ComposioHQ"
+    },
+    {
+      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "url": "https://github.com/requestsession/IndexGPT",
+      "published_at": "2026-02-12T11:28:37Z",
+      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "requestsession"
     },
     {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
@@ -482,8 +497,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 370,
       "user": "aeromomo"
+    },
+    {
+      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "url": "https://github.com/zilliztech/memsearch",
+      "published_at": "2026-02-09T02:29:16Z",
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
+      "source": "GitHub",
+      "stars": 231,
+      "user": "zilliztech"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -497,14 +527,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 770,
       "user": "RevylAI"
     },
     {
-      "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
+      "title": "mosaxiv/clawlet - Ultra-Lightweight&Efficient Personal AI Assistant",
       "url": "https://github.com/mosaxiv/clawlet",
       "published_at": "2026-02-09T10:48:17Z",
-      "description": "Lightweight Personal AI Assistant",
+      "description": "Ultra-Lightweight&Efficient Personal AI Assistant",
       "tags": [
         "go",
         "github",
@@ -512,23 +542,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 170,
       "user": "mosaxiv"
     },
     {
-      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "url": "https://github.com/stellarlinkco/myclaw",
-      "published_at": "2026-02-07T06:17:31Z",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
+      "title": "luckyPipewrench/pipelock - Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
+      "url": "https://github.com/luckyPipewrench/pipelock",
+      "published_at": "2026-02-08T00:40:18Z",
+      "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142104046?v=4",
       "source": "GitHub",
-      "stars": 165,
-      "user": "stellarlinkco"
+      "stars": 99,
+      "user": "luckyPipewrench"
     }
   ],
   "JavaScript": [
@@ -826,23 +856,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1489,
+      "stars": 1491,
       "user": "ComposioHQ"
-    },
-    {
-      "title": "linguo2625469/qq-farm-bot - 基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。",
-      "url": "https://github.com/linguo2625469/qq-farm-bot",
-      "published_at": "2026-02-07T14:46:09Z",
-      "description": "基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
-      "source": "GitHub",
-      "stars": 302,
-      "user": "linguo2625469"
     },
     {
       "title": "iamzifei/bookmark-is-learned - 收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃",
@@ -856,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 169,
       "user": "iamzifei"
     },
     {
@@ -888,6 +903,21 @@
       "source": "GitHub",
       "stars": 120,
       "user": "iltekin"
+    },
+    {
+      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "url": "https://github.com/requestsession/IndexGPT",
+      "published_at": "2026-02-12T11:28:37Z",
+      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "requestsession"
     }
   ],
   "Python": [
@@ -1055,51 +1085,6 @@
       "user": "gilad"
     },
     {
-      "title": "trumpet-noek/sora2-free-watermark-remover - sora2 free watermark remover",
-      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
-      "published_at": "2026-02-07T15:10:01Z",
-      "description": "sora2 free watermark remover",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/198388533?v=4",
-      "source": "GitHub",
-      "stars": 709,
-      "user": "trumpet-noek"
-    },
-    {
-      "title": "uqogihujomuwhiff/sora2-watermark-cleaner-pro - sora2 watermark cleaner pro",
-      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-      "published_at": "2026-02-07T15:14:03Z",
-      "description": "sora2 watermark cleaner pro",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187814954?v=4",
-      "source": "GitHub",
-      "stars": 678,
-      "user": "uqogihujomuwhiff"
-    },
-    {
-      "title": "tnbeznlacut/sora2-watermark-deleter-windows-macos - sora2 watermark deleter windows macos",
-      "url": "https://github.com/tnbeznlacut/sora2-watermark-deleter-windows-macos",
-      "published_at": "2026-02-07T15:23:43Z",
-      "description": "sora2 watermark deleter windows macos",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/191570003?v=4",
-      "source": "GitHub",
-      "stars": 379,
-      "user": "tnbeznlacut"
-    },
-    {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
       "url": "https://github.com/aeromomo/claw-compactor",
       "published_at": "2026-02-10T00:27:08Z",
@@ -1111,23 +1096,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 370,
       "user": "aeromomo"
     },
     {
-      "title": "FireRedTeam/FireRed-OpenStoryline - GitHub Repository",
-      "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
-      "published_at": "2026-02-07T13:03:57Z",
-      "description": "Trending GitHub Repository",
+      "title": "openhome-dev/abilities - Open-source abilities for OpenHome agents. ",
+      "url": "https://github.com/openhome-dev/abilities",
+      "published_at": "2026-02-09T22:56:13Z",
+      "description": "Open-source abilities for OpenHome agents. ",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/260524585?v=4",
       "source": "GitHub",
-      "stars": 339,
-      "user": "FireRedTeam"
+      "stars": 251,
+      "user": "openhome-dev"
+    },
+    {
+      "title": "zscole/model-hierarchy-skill - OpenClaw skill for cost-optimized model routing based on task complexity",
+      "url": "https://github.com/zscole/model-hierarchy-skill",
+      "published_at": "2026-02-11T23:54:32Z",
+      "description": "OpenClaw skill for cost-optimized model routing based on task complexity",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
+      "source": "GitHub",
+      "stars": 241,
+      "user": "zscole"
+    },
+    {
+      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "url": "https://github.com/zilliztech/memsearch",
+      "published_at": "2026-02-09T02:29:16Z",
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
+      "source": "GitHub",
+      "stars": 231,
+      "user": "zilliztech"
+    },
+    {
+      "title": "AnkitNayak-eth/EpsteinFiles-RAG - A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).",
+      "url": "https://github.com/AnkitNayak-eth/EpsteinFiles-RAG",
+      "published_at": "2026-02-10T17:29:43Z",
+      "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52006128?v=4",
+      "source": "GitHub",
+      "stars": 224,
+      "user": "AnkitNayak-eth"
     }
   ],
   "DevOps": [
@@ -1498,6 +1528,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "luckyPipewrench/pipelock - Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
+      "url": "https://github.com/luckyPipewrench/pipelock",
+      "published_at": "2026-02-08T00:40:18Z",
+      "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142104046?v=4",
+      "source": "GitHub",
+      "stars": 99,
+      "user": "luckyPipewrench"
     }
   ],
   "Tools": [
@@ -1514,21 +1559,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png",
       "source": "Dev.to",
       "user": "Richard Pascoe"
-    },
-    {
-      "title": "Built a Vibe Coded App where you can Style any Image you like! :D",
-      "url": "https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p",
-      "published_at": "2026-02-12T21:58:03Z",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge              What I Built   This is my...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm1fpp1ggp3dnlm2z8160.gif",
-      "source": "Dev.to",
-      "user": "👾 FrancisTRᴅᴇᴠ 👾"
     },
     {
       "title": "Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up",
@@ -1574,6 +1604,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
+    },
+    {
+      "title": "Built a Vibe Coded App where you can Style any Image you like! :D",
+      "url": "https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p",
+      "published_at": "2026-02-12T21:58:03Z",
+      "description": "This is a submission for the GitHub Copilot CLI Challenge              What I Built   This is my...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "cli",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm1fpp1ggp3dnlm2z8160.gif",
+      "source": "Dev.to",
+      "user": "👾 FrancisTRᴅᴇᴠ 👾"
     },
     {
       "title": "Five Git Config Settings Every Dev Needs",
@@ -1717,23 +1762,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "source": "GitHub",
-      "stars": 1489,
+      "stars": 1491,
       "user": "ComposioHQ"
-    },
-    {
-      "title": "linguo2625469/qq-farm-bot - 基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。",
-      "url": "https://github.com/linguo2625469/qq-farm-bot",
-      "published_at": "2026-02-07T14:46:09Z",
-      "description": "基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
-      "source": "GitHub",
-      "stars": 302,
-      "user": "linguo2625469"
     },
     {
       "title": "iamzifei/bookmark-is-learned - 收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃",
@@ -1747,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 169,
       "user": "iamzifei"
     },
     {
@@ -1781,49 +1811,19 @@
       "user": "iltekin"
     },
     {
-      "title": "trumpet-noek/sora2-free-watermark-remover - sora2 free watermark remover",
-      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
-      "published_at": "2026-02-07T15:10:01Z",
-      "description": "sora2 free watermark remover",
+      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "url": "https://github.com/requestsession/IndexGPT",
+      "published_at": "2026-02-12T11:28:37Z",
+      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/198388533?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
       "source": "GitHub",
-      "stars": 709,
-      "user": "trumpet-noek"
-    },
-    {
-      "title": "uqogihujomuwhiff/sora2-watermark-cleaner-pro - sora2 watermark cleaner pro",
-      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-      "published_at": "2026-02-07T15:14:03Z",
-      "description": "sora2 watermark cleaner pro",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187814954?v=4",
-      "source": "GitHub",
-      "stars": 678,
-      "user": "uqogihujomuwhiff"
-    },
-    {
-      "title": "tnbeznlacut/sora2-watermark-deleter-windows-macos - sora2 watermark deleter windows macos",
-      "url": "https://github.com/tnbeznlacut/sora2-watermark-deleter-windows-macos",
-      "published_at": "2026-02-07T15:23:43Z",
-      "description": "sora2 watermark deleter windows macos",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/191570003?v=4",
-      "source": "GitHub",
-      "stars": 379,
-      "user": "tnbeznlacut"
+      "stars": 110,
+      "user": "requestsession"
     },
     {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
@@ -1837,23 +1837,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 370,
       "user": "aeromomo"
     },
     {
-      "title": "FireRedTeam/FireRed-OpenStoryline - GitHub Repository",
-      "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
-      "published_at": "2026-02-07T13:03:57Z",
-      "description": "Trending GitHub Repository",
+      "title": "openhome-dev/abilities - Open-source abilities for OpenHome agents. ",
+      "url": "https://github.com/openhome-dev/abilities",
+      "published_at": "2026-02-09T22:56:13Z",
+      "description": "Open-source abilities for OpenHome agents. ",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/260524585?v=4",
       "source": "GitHub",
-      "stars": 339,
-      "user": "FireRedTeam"
+      "stars": 251,
+      "user": "openhome-dev"
+    },
+    {
+      "title": "zscole/model-hierarchy-skill - OpenClaw skill for cost-optimized model routing based on task complexity",
+      "url": "https://github.com/zscole/model-hierarchy-skill",
+      "published_at": "2026-02-11T23:54:32Z",
+      "description": "OpenClaw skill for cost-optimized model routing based on task complexity",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
+      "source": "GitHub",
+      "stars": 241,
+      "user": "zscole"
+    },
+    {
+      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "url": "https://github.com/zilliztech/memsearch",
+      "published_at": "2026-02-09T02:29:16Z",
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
+      "source": "GitHub",
+      "stars": 231,
+      "user": "zilliztech"
+    },
+    {
+      "title": "AnkitNayak-eth/EpsteinFiles-RAG - A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).",
+      "url": "https://github.com/AnkitNayak-eth/EpsteinFiles-RAG",
+      "published_at": "2026-02-10T17:29:43Z",
+      "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52006128?v=4",
+      "source": "GitHub",
+      "stars": 224,
+      "user": "AnkitNayak-eth"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -1867,14 +1912,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 770,
       "user": "RevylAI"
     },
     {
-      "title": "mosaxiv/clawlet - Lightweight Personal AI Assistant",
+      "title": "mosaxiv/clawlet - Ultra-Lightweight&Efficient Personal AI Assistant",
       "url": "https://github.com/mosaxiv/clawlet",
       "published_at": "2026-02-09T10:48:17Z",
-      "description": "Lightweight Personal AI Assistant",
+      "description": "Ultra-Lightweight&Efficient Personal AI Assistant",
       "tags": [
         "go",
         "github",
@@ -1882,23 +1927,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 170,
       "user": "mosaxiv"
-    },
-    {
-      "title": "stellarlinkco/myclaw - Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "url": "https://github.com/stellarlinkco/myclaw",
-      "published_at": "2026-02-07T06:17:31Z",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. mini clawbot.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216462265?v=4",
-      "source": "GitHub",
-      "stars": 165,
-      "user": "stellarlinkco"
     },
     {
       "title": "simonw/rodney - CLI tool for interacting with the web",
@@ -1912,23 +1942,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "simonw"
     },
     {
-      "title": "louisho5/picobot - A lightweight self-hosted bot in a single binary, written in Go.",
-      "url": "https://github.com/louisho5/picobot",
-      "published_at": "2026-02-07T16:18:22Z",
-      "description": "A lightweight self-hosted bot in a single binary, written in Go.",
+      "title": "luckyPipewrench/pipelock - Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
+      "url": "https://github.com/luckyPipewrench/pipelock",
+      "published_at": "2026-02-08T00:40:18Z",
+      "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24430165?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142104046?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "louisho5"
+      "stars": 99,
+      "user": "luckyPipewrench"
+    },
+    {
+      "title": "warreth/GPhotosAlbum_To_Immich - Google photo albums (link) sync to Immich",
+      "url": "https://github.com/warreth/GPhotosAlbum_To_Immich",
+      "published_at": "2026-02-08T12:35:23Z",
+      "description": "Google photo albums (link) sync to Immich",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/181062918?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "warreth"
     }
   ]
 }
