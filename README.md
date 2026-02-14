@@ -216,7 +216,7 @@ npm run test
 - [How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd) _[Dev.to]_
 - [Handy Bit Manipulation Tricks](https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 01:20:33 CAT_
+_Last automated update: Sun, 15 Feb 2026 01:46:43 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Feb 2026 01:20:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Feb 2026 23:20:33 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Feb 2026 23:46:43 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
