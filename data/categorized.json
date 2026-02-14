@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
-      "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
-      "published_at": "2026-02-13T11:59:31Z",
-      "description": "When a recent article compared Symfony AI to “a school bus painted like a rocket pretending to reach...",
-      "tags": [
-        "symfony",
-        "ai",
-        "programming",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
-      "source": "Dev.to",
-      "user": "Jean Klebert de A Modesto"
-    },
-    {
       "title": "What else do you want to know about Gemini CLI?",
       "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
       "published_at": "2026-02-13T21:42:35Z",
@@ -220,6 +205,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
       "source": "Dev.to",
       "user": "Jawad Elhaouchi"
+    },
+    {
+      "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
+      "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
+      "published_at": "2026-02-13T11:59:31Z",
+      "description": "When a recent article compared Symfony AI to “a school bus painted like a rocket pretending to reach...",
+      "tags": [
+        "symfony",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
+      "source": "Dev.to",
+      "user": "Jean Klebert de A Modesto"
     },
     {
       "title": "Tailwind Alchemist: find all tailwind colors in your codebase",
@@ -512,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "aeromomo"
     },
     {
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 366,
       "user": "zilliztech"
     },
     {
@@ -557,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "mosaxiv"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "aeromomo"
     },
     {
@@ -1126,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 366,
       "user": "zilliztech"
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 364,
       "user": "HKUDS"
     },
     {
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "zscole"
     }
   ],
@@ -1497,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 550,
       "user": "mickamy"
     }
   ],
@@ -1825,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "aeromomo"
     },
     {
@@ -1840,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 366,
       "user": "zilliztech"
     },
     {
@@ -1855,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 364,
       "user": "HKUDS"
     },
     {
@@ -1885,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "zscole"
     },
     {
@@ -1915,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 550,
       "user": "mickamy"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "mosaxiv"
     },
     {

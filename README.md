@@ -162,15 +162,6 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png" width="200" alt="Symfony AI: A Rocket, a School Bus, or Something In Between?" />
-      <br/>
-      <b>Symfony AI: A Rocket, a School Bus, or Something I...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/richardpascoe/design-a-movie-review-page-36bl">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeul6sksympnvp7vr435.png" width="200" alt="Design a Movie Review Page" />
       <br/>
@@ -188,6 +179,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png" width="200" alt="ASCII Whisper: Local P2P Chat with Sound FX and Battleship" />
+      <br/>
+      <b>ASCII Whisper: Local P2P Chat with Sound FX and Ba...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -198,7 +198,6 @@ npm run test
 - [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-a3a) _[Dev.to]_
 - [Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up](https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0) _[Dev.to]_
-- [Symfony AI: A Rocket, a School Bus, or Something In Between?](https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn) _[Dev.to]_
 - [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl) _[Dev.to]_
 - [What else do you want to know about Gemini CLI?](https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h) _[Dev.to]_
 - [ASCII Whisper: Local P2P Chat with Sound FX and Battleship](https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [Using Laravel Boost With DDEV](https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6) _[Dev.to]_
 - [Content-Addressed Memoization for Durable Execution](https://dev.to/shobande_femi/content-addressed-memoization-for-durable-execution-4h2h) _[Dev.to]_
 - [How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd) _[Dev.to]_
+- [Handy Bit Manipulation Tricks](https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39) _[Dev.to]_
 
-_Last automated update: Sat, 14 Feb 2026 23:20:40 CAT_
+_Last automated update: Sat, 14 Feb 2026 23:46:10 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Sat, 14 Feb 2026 23:20:40 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Multiple inheritance, method implementation, use cases
-
-</details>
-
-### 2. Python: Explain decorators in Python with an example
+### 1. Python: Explain decorators in Python with an example
 
 **Difficulty**: Medium | **Topics**: functions, metaprogramming
 
@@ -246,14 +235,25 @@ Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+B-tree, trade-offs, query performance
+
+</details>
+
+### 3. JavaScript: What are closures and provide a practical example?
+
+**Difficulty**: Medium | **Topics**: functions, scope
+
+<details>
+<summary>💡 Hint</summary>
+
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Feb 2026 21:20:40 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Feb 2026 21:46:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
