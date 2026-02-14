@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-14 11:00 CAT)
+## 📅 Latest Updates (2026-02-14 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -133,19 +133,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png" width="200" alt="Remember Your First Computer Book?" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-a3a">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9fpmjyiv4clt7z61sb1.jpg" width="200" alt="What was your win this week??" />
       <br/>
-      <b>Remember Your First Computer Book?</b>
+      <b>What was your win this week??</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-a3a">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9fpmjyiv4clt7z61sb1.jpg" width="200" alt="What was your win this week??" />
+    <a href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png" width="200" alt="Remember Your First Computer Book?" />
       <br/>
-      <b>What was your win this week??</b>
+      <b>Remember Your First Computer Book?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,8 +195,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-a3a) _[Dev.to]_
+- [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml) _[Dev.to]_
 - [What else do you want to know about Gemini CLI?](https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h) _[Dev.to]_
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 - [Stack Overflow: Time for a Change?](https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p) _[Dev.to]_
@@ -211,12 +211,12 @@ npm run test
 - [One Month at a Startup: What Stayed With Me After I Left](https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc) _[Dev.to]_
 - [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) _[Dev.to]_
-- [The 4 Rules of Simple Design: A Practical Guide with TypeScript](https://dev.to/maximeshr/the-4-rules-of-simple-design-a-practical-guide-with-typescript-cn0) _[Dev.to]_
 - [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p) _[Dev.to]_
 - [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
+- [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
 
-_Last automated update: Sat, 14 Feb 2026 11:59:10 CAT_
+_Last automated update: Sat, 14 Feb 2026 12:34:48 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 14 Feb 2026 11:59:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Mutability, performance, use cases
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Feb 2026 09:59:10 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Feb 2026 10:34:48 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
