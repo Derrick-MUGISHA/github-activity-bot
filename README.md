@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-14-orange)
 
@@ -28,31 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 40 (39.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 40 (38.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (27.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.5%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.6%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦🟦🟦 9 (8.8%)
+**WebDev**: 🟦🟦🟦🟦🟦 9 (8.6%)
 
-**Security**: 🟦🟦🟦 5 (4.9%)
+**DevOps**: 🟦🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦🟦 4 (3.9%)
+**Security**: 🟦🟦🟦 5 (4.8%)
 
-**Cloud**: 🟦🟦 4 (3.9%)
+**Cloud**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 2 (2.0%)
+**Mobile**: 🟦 2 (1.9%)
 
-**Database**: 🟦 2 (2.0%)
+**Database**: 🟦 2 (1.9%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 57 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-16-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![learning](https://img.shields.io/badge/learning-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![community](https://img.shields.io/badge/community-4-blue) 
+![ai](https://img.shields.io/badge/ai-16-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![learning](https://img.shields.io/badge/learning-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![community](https://img.shields.io/badge/community-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-14 7:00 CAT)
+## 📅 Latest Updates (2026-02-14 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p) _[Dev.to]_
 - [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
 
-_Last automated update: Sat, 14 Feb 2026 07:15:30 CAT_
+_Last automated update: Sat, 14 Feb 2026 08:04:24 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 14 Feb 2026 07:15:30 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. React: What is the Virtual DOM and how does React use it?
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Feb 2026 05:15:30 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Feb 2026 06:04:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
