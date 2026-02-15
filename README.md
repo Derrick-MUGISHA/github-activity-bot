@@ -216,7 +216,7 @@ npm run test
 - [Why I built yet another release tool for npm](https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m) _[Dev.to]_
 - [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 12:23:03 CAT_
+_Last automated update: Sun, 15 Feb 2026 12:53:17 CAT_
 
 
 
@@ -224,29 +224,18 @@ _Last automated update: Sun, 15 Feb 2026 12:23:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, distributed systems
-
-</details>
-
-### 2. SystemDesign: Design a distributed cache system
-
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 2. JavaScript: Explain event delegation and why it's useful
 
 **Difficulty**: Medium | **Topics**: events, DOM
 
@@ -254,6 +243,17 @@ Consistency, partitioning, replication, eviction policies
 <summary>💡 Hint</summary>
 
 Event bubbling, single listener for multiple elements
+
+</details>
+
+### 3. JavaScript: Implement a debounce function from scratch
+
+**Difficulty**: Hard | **Topics**: functions, timing
+
+<details>
+<summary>💡 Hint</summary>
+
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 10:23:03 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 10:53:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
