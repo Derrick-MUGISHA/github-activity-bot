@@ -134,6 +134,50 @@
       "user": "Stephan Miller"
     },
     {
+      "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
+      "url": "https://dev.to/baliachbryan/patching-the-gaps-a-production-ready-guide-to-googles-adk-with-typescript-45fe",
+      "published_at": "2026-02-10T11:00:29Z",
+      "description": "Building production-grade AI agents is tricky. In a landscape shifting rapidly, betting your entire...",
+      "tags": [
+        "ai",
+        "googleadk",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby87bc5qsac8v7ikwgvi.png",
+      "source": "Dev.to",
+      "user": "Brian Baliach"
+    },
+    {
+      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
+      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
+      "published_at": "2026-02-10T15:04:38Z",
+      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
+      "tags": [
+        "voice",
+        "ai",
+        "python",
+        "smallestai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
+      "source": "Dev.to",
+      "user": "Abhishek Mishra"
+    },
+    {
+      "title": "Software engineering isn't dead",
+      "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
+      "published_at": "2026-02-06T18:41:30Z",
+      "description": "Doom   People love defaulting to doom and gloom. I get it. I've been there, it used to be my...",
+      "tags": [
+        "ai",
+        "thoughts",
+        "softwareengineering",
+        "future"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
+      "source": "Dev.to",
+      "user": "Dan Walsh"
+    },
+    {
       "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
       "url": "https://dev.to/bengreenberg/openclaw-is-incredible-setting-it-up-shouldnt-require-a-cs-degree-36nk",
       "published_at": "2026-02-09T17:29:54Z",
@@ -295,51 +339,6 @@
       "user": "Arber"
     },
     {
-      "title": "Dear Vibe Coder: Your Code Is the Problem.",
-      "url": "https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc",
-      "published_at": "2026-02-09T17:12:21Z",
-      "description": "Vibe coding looks cool on Twitter, but it’s quietly wrecking codebases, teams, and junior developers. Let’s actually talk about it.",
-      "tags": [
-        "programming",
-        "ai",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExbHprOHdsanh5bHh2NHQ3bGVheG85eHg3emc3eWhzZHEzMG1sdHczayZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FJEDVTonz503kj7Ug4j%2Fgiphy.gif",
-      "source": "Dev.to",
-      "user": "Leon Martin"
-    },
-    {
-      "title": "The 48-Hour Collapse of Moltbook",
-      "url": "https://dev.to/narnaiezzsshaa/the-48-hour-collapse-of-moltbook-4625",
-      "published_at": "2026-02-03T19:33:52Z",
-      "description": "What Happens When You Deploy Agents Without Governance   Moltbook was live for 48 hours. In...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "governance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2mt8ilnwzyazvaew2ic.jpg",
-      "source": "Dev.to",
-      "user": "Narnaiezzsshaa Truong"
-    },
-    {
-      "title": "The Junior Developer is Extinct (And we are creating a disaster)",
-      "url": "https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2",
-      "published_at": "2026-02-05T13:05:27Z",
-      "description": "I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...",
-      "tags": [
-        "career",
-        "ai",
-        "discuss",
-        "future"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmh6ypab984f2yk13hixb.png",
-      "source": "Dev.to",
-      "user": "NorthernDev"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -483,7 +482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 239,
       "user": "andyhuo520"
     },
     {
@@ -513,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 535,
       "user": "aeromomo"
     },
     {
@@ -528,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "zilliztech"
     },
     {
@@ -712,6 +711,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
       "source": "Dev.to",
       "user": "Niccolò Olivieri Achille"
+    },
+    {
+      "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
+      "url": "https://dev.to/baliachbryan/patching-the-gaps-a-production-ready-guide-to-googles-adk-with-typescript-45fe",
+      "published_at": "2026-02-10T11:00:29Z",
+      "description": "Building production-grade AI agents is tricky. In a landscape shifting rapidly, betting your entire...",
+      "tags": [
+        "ai",
+        "googleadk",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby87bc5qsac8v7ikwgvi.png",
+      "source": "Dev.to",
+      "user": "Brian Baliach"
     },
     {
       "title": "I Ditched My AI Agent Dashboard for Obsidian",
@@ -918,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 239,
       "user": "andyhuo520"
     },
     {
@@ -1010,6 +1023,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy47kf4rllj3ih8gysd4e.png",
       "source": "Dev.to",
       "user": "Prithwish Nath"
+    },
+    {
+      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
+      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
+      "published_at": "2026-02-10T15:04:38Z",
+      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
+      "tags": [
+        "voice",
+        "ai",
+        "python",
+        "smallestai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
+      "source": "Dev.to",
+      "user": "Abhishek Mishra"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1143,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 627,
       "user": "HKUDS"
     },
     {
@@ -1158,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 535,
       "user": "aeromomo"
     },
     {
@@ -1173,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "zilliztech"
     },
     {
@@ -1188,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 330,
       "user": "MooseGoose0701"
     },
     {
@@ -1203,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 329,
       "user": "FireRedTeam"
     }
   ],
@@ -1224,6 +1252,20 @@
       "user": "Russell Jones"
     },
     {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
+    },
+    {
       "title": "What is a CaaS Platform and why we built one",
       "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
       "published_at": "2026-02-09T03:16:00Z",
@@ -1237,21 +1279,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
       "source": "Dev.to",
       "user": "Jawad Elhaouchi"
-    },
-    {
-      "title": "How We Reduced Dependabot Noise in Our Monorepo",
-      "url": "https://dev.to/aki59/how-we-reduced-dependabot-noise-in-our-monorepo-1b06",
-      "published_at": "2026-02-04T09:21:28Z",
-      "description": "Why we needed Dependabot   Our dependency management had become increasingly manual and...",
-      "tags": [
-        "devops",
-        "jenkins",
-        "cicd",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl6ligout75eq676e47zd.png",
-      "source": "Dev.to",
-      "user": "Akash Tewari"
     },
     {
       "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
@@ -1491,6 +1518,20 @@
       "user": "DeVoresyah ArEst"
     },
     {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
+    },
+    {
       "title": "What is a CaaS Platform and why we built one",
       "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
       "published_at": "2026-02-09T03:16:00Z",
@@ -1558,7 +1599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 725,
       "user": "mickamy"
     }
   ],
@@ -1622,21 +1663,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
       "source": "Dev.to",
       "user": "Peter Mulligan"
-    },
-    {
-      "title": "The 48-Hour Collapse of Moltbook",
-      "url": "https://dev.to/narnaiezzsshaa/the-48-hour-collapse-of-moltbook-4625",
-      "published_at": "2026-02-03T19:33:52Z",
-      "description": "What Happens When You Deploy Agents Without Governance   Moltbook was live for 48 hours. In...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "governance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2mt8ilnwzyazvaew2ic.jpg",
-      "source": "Dev.to",
-      "user": "Narnaiezzsshaa Truong"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1740,6 +1766,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png",
       "source": "Dev.to",
       "user": "Giorgi Kobaidze"
+    },
+    {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
     },
     {
       "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
@@ -1872,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 239,
       "user": "andyhuo520"
     },
     {
@@ -1947,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 627,
       "user": "HKUDS"
     },
     {
@@ -1962,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 535,
       "user": "aeromomo"
     },
     {
@@ -1977,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "zilliztech"
     },
     {
@@ -1992,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 330,
       "user": "MooseGoose0701"
     },
     {
@@ -2007,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 329,
       "user": "FireRedTeam"
     },
     {
@@ -2037,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 725,
       "user": "mickamy"
     },
     {
@@ -2067,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 183,
       "user": "simonw"
     },
     {
