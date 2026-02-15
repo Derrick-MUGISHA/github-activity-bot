@@ -279,21 +279,6 @@
       "user": "Favour Afolayan"
     },
     {
-      "title": "THE NEW WEB",
-      "url": "https://dev.to/arber/the-new-web-2kac",
-      "published_at": "2026-02-14T00:39:23Z",
-      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
-      "tags": [
-        "ai",
-        "mcp",
-        "webmcp",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
-      "source": "Dev.to",
-      "user": "Arber"
-    },
-    {
       "title": "Becoming 1% better each day.",
       "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
       "published_at": "2026-02-12T05:39:19Z",
@@ -307,6 +292,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
       "source": "Dev.to",
       "user": "Della Dominic"
+    },
+    {
+      "title": "THE NEW WEB",
+      "url": "https://dev.to/arber/the-new-web-2kac",
+      "published_at": "2026-02-14T00:39:23Z",
+      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
+      "tags": [
+        "ai",
+        "mcp",
+        "webmcp",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
+      "source": "Dev.to",
+      "user": "Arber"
     },
     {
       "title": "Dear Vibe Coder: Your Code Is the Problem.",
@@ -497,14 +497,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 200,
       "user": "andyhuo520"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "requestsession/IndexGPT - IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
       "url": "https://github.com/requestsession/IndexGPT",
       "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "description": "IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
       "tags": [
         "javascript",
         "github",
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 494,
       "user": "aeromomo"
     },
     {
@@ -542,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "zilliztech"
     },
     {
@@ -557,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 893,
       "user": "RevylAI"
     },
     {
@@ -572,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 590,
       "user": "mosaxiv"
     },
     {
@@ -901,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 200,
       "user": "andyhuo520"
     },
     {
@@ -946,14 +946,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "iltekin"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "requestsession/IndexGPT - IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
       "url": "https://github.com/requestsession/IndexGPT",
       "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "description": "IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
       "tags": [
         "javascript",
         "github",
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 556,
       "user": "HKUDS"
     },
     {
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 494,
       "user": "aeromomo"
     },
     {
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "zilliztech"
     },
     {
@@ -1186,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 309,
       "user": "FireRedTeam"
     },
     {
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 281,
       "user": "zscole"
     }
   ],
@@ -1373,21 +1373,6 @@
       "user": "Mads Stoumann"
     },
     {
-      "title": "THE NEW WEB",
-      "url": "https://dev.to/arber/the-new-web-2kac",
-      "published_at": "2026-02-14T00:39:23Z",
-      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
-      "tags": [
-        "ai",
-        "mcp",
-        "webmcp",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
-      "source": "Dev.to",
-      "user": "Arber"
-    },
-    {
       "title": "Becoming 1% better each day.",
       "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
       "published_at": "2026-02-12T05:39:19Z",
@@ -1401,6 +1386,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5tkg5h8mc5ce97jm8q8f.webp",
       "source": "Dev.to",
       "user": "Della Dominic"
+    },
+    {
+      "title": "THE NEW WEB",
+      "url": "https://dev.to/arber/the-new-web-2kac",
+      "published_at": "2026-02-14T00:39:23Z",
+      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
+      "tags": [
+        "ai",
+        "mcp",
+        "webmcp",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
+      "source": "Dev.to",
+      "user": "Arber"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1542,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 657,
       "user": "mickamy"
     }
   ],
@@ -1810,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 200,
       "user": "andyhuo520"
     },
     {
@@ -1855,14 +1855,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "iltekin"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "requestsession/IndexGPT - IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
       "url": "https://github.com/requestsession/IndexGPT",
       "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "description": "IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
       "tags": [
         "javascript",
         "github",
@@ -1885,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 556,
       "user": "HKUDS"
     },
     {
@@ -1900,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 494,
       "user": "aeromomo"
     },
     {
@@ -1915,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "zilliztech"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 309,
       "user": "FireRedTeam"
     },
     {
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 281,
       "user": "zscole"
     },
     {
@@ -1960,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 893,
       "user": "RevylAI"
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 657,
       "user": "mickamy"
     },
     {
@@ -1990,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 590,
       "user": "mosaxiv"
     },
     {

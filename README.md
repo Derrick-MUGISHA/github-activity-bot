@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-15 13:00 CAT)
+## 📅 Latest Updates (2026-02-15 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Why I built yet another release tool for npm](https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m) _[Dev.to]_
 - [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 13:58:01 CAT_
+_Last automated update: Sun, 15 Feb 2026 14:59:25 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Feb 2026 13:58:01 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 11:58:01 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 12:59:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
