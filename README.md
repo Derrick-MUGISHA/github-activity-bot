@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-15-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦🟦 8 (7.7%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![learning](https://img.shields.io/badge/learning-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![career](https://img.shields.io/badge/career-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![learning](https://img.shields.io/badge/learning-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![career](https://img.shields.io/badge/career-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -133,19 +133,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png" width="200" alt="Remember Your First Computer Book?" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-a3a">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9fpmjyiv4clt7z61sb1.jpg" width="200" alt="What was your win this week??" />
       <br/>
-      <b>Remember Your First Computer Book?</b>
+      <b>What was your win this week??</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-a3a">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9fpmjyiv4clt7z61sb1.jpg" width="200" alt="What was your win this week??" />
+    <a href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png" width="200" alt="Remember Your First Computer Book?" />
       <br/>
-      <b>What was your win this week??</b>
+      <b>Remember Your First Computer Book?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,8 +195,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-a3a) _[Dev.to]_
+- [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml) _[Dev.to]_
 - [What else do you want to know about Gemini CLI?](https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h) _[Dev.to]_
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 - [Google Analytics, SaaS, or self-hosted? How I chose my analytics stack](https://dev.to/sebhoek/google-analytics-saas-or-self-hosted-how-i-chose-my-analytics-stack-271g) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Why I built yet another release tool for npm](https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m) _[Dev.to]_
 - [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 11:04:11 CAT_
+_Last automated update: Sun, 15 Feb 2026 11:46:24 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Sun, 15 Feb 2026 11:04:11 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
-
-**Difficulty**: Medium | **Topics**: system design, algorithms
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, distributed systems
-
-</details>
-
-### 2. DataStructures: Find the median of two sorted arrays
+### 1. DataStructures: Find the median of two sorted arrays
 
 **Difficulty**: Hard | **Topics**: arrays, binary search
 
@@ -246,14 +235,25 @@ Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Fan-out, caching, ranking, real-time updates
+
+</details>
+
+### 3. JavaScript: Explain event delegation and why it's useful
+
+**Difficulty**: Medium | **Topics**: events, DOM
+
+<details>
+<summary>💡 Hint</summary>
+
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 09:04:11 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 09:46:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
