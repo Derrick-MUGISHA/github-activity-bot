@@ -216,7 +216,7 @@ npm run test
 - [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
 - [Re-thinking Laravel's Observer Pattern With Column Watchers](https://dev.to/charlie_waddell01/re-thinking-laravels-observer-pattern-56j9) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 21:37:29 CAT_
+_Last automated update: Sun, 15 Feb 2026 21:54:51 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Feb 2026 21:37:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Heap, stack, garbage collection
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 19:37:29 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 19:54:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
