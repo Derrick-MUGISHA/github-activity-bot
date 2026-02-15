@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-15 19:00 CAT)
+## 📅 Latest Updates (2026-02-15 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
 - [Re-thinking Laravel's Observer Pattern With Column Watchers](https://dev.to/charlie_waddell01/re-thinking-laravels-observer-pattern-56j9) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 19:51:07 CAT_
+_Last automated update: Sun, 15 Feb 2026 20:31:00 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Feb 2026 19:51:07 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 17:51:07 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 18:31:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
