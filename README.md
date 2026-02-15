@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-15 17:00 CAT)
+## 📅 Latest Updates (2026-02-15 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
 - [Re-thinking Laravel's Observer Pattern With Column Watchers](https://dev.to/charlie_waddell01/re-thinking-laravels-observer-pattern-56j9) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 17:47:28 CAT_
+_Last automated update: Sun, 15 Feb 2026 18:25:44 CAT_
 
 
 
@@ -224,29 +224,18 @@ _Last automated update: Sun, 15 Feb 2026 17:47:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
-
-<details>
-<summary>💡 Hint</summary>
-
-Iterative or recursive, three pointers
-
-</details>
-
-### 2. JavaScript: What is the event loop and how does it work?
-
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 2. DataStructures: Find the median of two sorted arrays
 
 **Difficulty**: Hard | **Topics**: arrays, binary search
 
@@ -254,6 +243,17 @@ Call stack, callback queue, microtask queue
 <summary>💡 Hint</summary>
 
 Binary search, partition, time complexity O(log(min(m,n)))
+
+</details>
+
+### 3. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 15:47:28 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 16:25:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
