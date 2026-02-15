@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-14-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-15-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
@@ -40,9 +40,9 @@
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦🟦 5 (4.8%)
-
 **Cloud**: 🟦🟦 4 (3.8%)
+
+**Security**: 🟦🟦 4 (3.8%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.7 (29.7%)
-Java            ███████████████████████ 23.1 (23.1%)
-Go              ████████████████████ 19.8 (19.8%)
-Python          ████████████████████ 19.8 (19.8%)
+JavaScript      ██████████████████████████████ 29.3 (29.3%)
+Java            ███████████████████████ 22.8 (22.8%)
+Go              █████████████████████ 20.7 (20.7%)
+Python          ████████████████████ 19.6 (19.6%)
 Rust            ███ 3.3 (3.3%)
 PHP             ██ 2.2 (2.2%)
 Swift           ██ 2.2 (2.2%)
@@ -74,7 +74,7 @@ Swift           ██ 2.2 (2.2%)
 pie title Programming Languages Distribution
     "JavaScript" : 27
     "Java" : 21
-    "Go" : 18
+    "Go" : 19
     "Python" : 18
     "Rust" : 3
     "PHP" : 2
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![learning](https://img.shields.io/badge/learning-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![community](https://img.shields.io/badge/community-4-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![learning](https://img.shields.io/badge/learning-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![career](https://img.shields.io/badge/career-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-15 1:00 CAT)
+## 📅 Latest Updates (2026-02-15 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,26 +151,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png" width="200" alt="Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up" />
-      <br/>
-      <b>Metal Birds Watch: Copilot CLI Helped Me Watch Pla...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/richardpascoe/design-a-movie-review-page-36bl">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeul6sksympnvp7vr435.png" width="200" alt="Design a Movie Review Page" />
-      <br/>
-      <b>Design a Movie Review Page</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgu7wotyz6k8asd6ngyza.png" width="200" alt="What else do you want to know about Gemini CLI?" />
       <br/>
@@ -179,11 +159,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrcumidv4l8zo2rcr997.png" width="200" alt="ASCII Whisper: Local P2P Chat with Sound FX and Battleship" />
       <br/>
       <b>ASCII Whisper: Local P2P Chat with Sound FX and Ba...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2" width="200" alt="Command Center for AI Coding Agents (Claude Code + Codex)" />
+      <br/>
+      <b>Command Center for AI Coding Agents (Claude Code +...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/sebhoek/google-analytics-saas-or-self-hosted-how-i-chose-my-analytics-stack-271g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqpryei4v5irb6c8y91hy.png" width="200" alt="Google Analytics, SaaS, or self-hosted? How I chose my analytics stack" />
+      <br/>
+      <b>Google Analytics, SaaS, or self-hosted? How I chos...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,8 +197,6 @@ npm run test
 
 - [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-a3a) _[Dev.to]_
-- [Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up](https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0) _[Dev.to]_
-- [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl) _[Dev.to]_
 - [What else do you want to know about Gemini CLI?](https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h) _[Dev.to]_
 - [ASCII Whisper: Local P2P Chat with Sound FX and Battleship](https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7) _[Dev.to]_
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
@@ -215,8 +213,10 @@ npm run test
 - [Content-Addressed Memoization for Durable Execution](https://dev.to/shobande_femi/content-addressed-memoization-for-durable-execution-4h2h) _[Dev.to]_
 - [How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd) _[Dev.to]_
 - [Handy Bit Manipulation Tricks](https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39) _[Dev.to]_
+- [Faster Server Startup in Meteor 3.4 with Deferrables](https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn) _[Dev.to]_
+- [THE NEW WEB](https://dev.to/arber/the-new-web-2kac) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 01:46:43 CAT_
+_Last automated update: Sun, 15 Feb 2026 03:57:36 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Sun, 15 Feb 2026 01:46:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
-
-**Difficulty**: Hard | **Topics**: arrays, binary search
-
-<details>
-<summary>💡 Hint</summary>
-
-Binary search, partition, time complexity O(log(min(m,n)))
-
-</details>
-
-### 2. SystemDesign: Design a distributed cache system
+### 1. SystemDesign: Design a distributed cache system
 
 **Difficulty**: Hard | **Topics**: distributed systems, caching
 
@@ -246,14 +235,25 @@ Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+State in functional components, reusable logic, cleaner code
+
+</details>
+
+### 3. SystemDesign: How would you design a rate limiter?
+
+**Difficulty**: Medium | **Topics**: system design, algorithms
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Feb 2026 23:46:43 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 01:57:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

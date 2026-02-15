@@ -339,6 +339,21 @@
       "user": "Narnaiezzsshaa Truong"
     },
     {
+      "title": "The Junior Developer is Extinct (And we are creating a disaster)",
+      "url": "https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2",
+      "published_at": "2026-02-05T13:05:27Z",
+      "description": "I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...",
+      "tags": [
+        "career",
+        "ai",
+        "discuss",
+        "future"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmh6ypab984f2yk13hixb.png",
+      "source": "Dev.to",
+      "user": "NorthernDev"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -471,21 +486,6 @@
       "user": "veesahni"
     },
     {
-      "title": "ComposioHQ/secure-openclaw - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
-      "url": "https://github.com/ComposioHQ/secure-openclaw",
-      "published_at": "2026-02-08T07:55:07Z",
-      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
-      "source": "GitHub",
-      "stars": 1506,
-      "user": "ComposioHQ"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -497,8 +497,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 183,
       "user": "andyhuo520"
+    },
+    {
+      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "url": "https://github.com/requestsession/IndexGPT",
+      "published_at": "2026-02-12T11:28:37Z",
+      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "source": "GitHub",
+      "stars": 121,
+      "user": "requestsession"
     },
     {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
@@ -512,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 454,
       "user": "aeromomo"
     },
     {
@@ -527,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 384,
       "user": "zilliztech"
     },
     {
@@ -542,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 812,
       "user": "RevylAI"
     },
     {
@@ -557,23 +572,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "mosaxiv"
     },
     {
-      "title": "luckyPipewrench/pipelock - Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
-      "url": "https://github.com/luckyPipewrench/pipelock",
-      "published_at": "2026-02-08T00:40:18Z",
-      "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
+      "title": "Compresr-ai/Context-Gateway - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
+      "url": "https://github.com/Compresr-ai/Context-Gateway",
+      "published_at": "2026-02-10T14:21:20Z",
+      "description": "Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142104046?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/258749684?v=4",
       "source": "GitHub",
-      "stars": 100,
-      "user": "luckyPipewrench"
+      "stars": 87,
+      "user": "Compresr-ai"
     }
   ],
   "JavaScript": [
@@ -875,21 +890,6 @@
       "user": "velmu"
     },
     {
-      "title": "ComposioHQ/secure-openclaw - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
-      "url": "https://github.com/ComposioHQ/secure-openclaw",
-      "published_at": "2026-02-08T07:55:07Z",
-      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
-      "source": "GitHub",
-      "stars": 1506,
-      "user": "ComposioHQ"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -901,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 183,
       "user": "andyhuo520"
     },
     {
@@ -916,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 172,
       "user": "iamzifei"
     },
     {
@@ -946,8 +946,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "iltekin"
+    },
+    {
+      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "url": "https://github.com/requestsession/IndexGPT",
+      "published_at": "2026-02-12T11:28:37Z",
+      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "source": "GitHub",
+      "stars": 121,
+      "user": "requestsession"
     }
   ],
   "Python": [
@@ -1126,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 454,
       "user": "aeromomo"
     },
     {
@@ -1141,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 416,
       "user": "HKUDS"
     },
     {
@@ -1156,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 384,
       "user": "zilliztech"
     },
     {
@@ -1171,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 284,
       "user": "FireRedTeam"
     },
     {
@@ -1186,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "zscole"
     }
   ],
@@ -1527,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 576,
       "user": "mickamy"
     }
   ],
@@ -1588,21 +1603,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "luckyPipewrench/pipelock - Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
-      "url": "https://github.com/luckyPipewrench/pipelock",
-      "published_at": "2026-02-08T00:40:18Z",
-      "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142104046?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "luckyPipewrench"
     }
   ],
   "Tools": [
@@ -1619,21 +1619,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png",
       "source": "Dev.to",
       "user": "Richard Pascoe"
-    },
-    {
-      "title": "Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up",
-      "url": "https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0",
-      "published_at": "2026-02-13T20:01:12Z",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge           Table of Contents    Demo  What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
     },
     {
       "title": "ASCII Whisper: Local P2P Chat with Sound FX and Battleship",
@@ -1709,6 +1694,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
       "source": "Dev.to",
       "user": "Niccolò Olivieri Achille"
+    },
+    {
+      "title": "Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up",
+      "url": "https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0",
+      "published_at": "2026-02-13T20:01:12Z",
+      "description": "This is a submission for the GitHub Copilot CLI Challenge           Table of Contents    Demo  What I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "cli",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
     },
     {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
@@ -1799,21 +1799,6 @@
       "user": "Karsten Biedermann"
     },
     {
-      "title": "ComposioHQ/secure-openclaw - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
-      "url": "https://github.com/ComposioHQ/secure-openclaw",
-      "published_at": "2026-02-08T07:55:07Z",
-      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128464815?v=4",
-      "source": "GitHub",
-      "stars": 1506,
-      "user": "ComposioHQ"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1825,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 183,
       "user": "andyhuo520"
     },
     {
@@ -1840,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 172,
       "user": "iamzifei"
     },
     {
@@ -1870,8 +1855,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "iltekin"
+    },
+    {
+      "title": "requestsession/IndexGPT - IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "url": "https://github.com/requestsession/IndexGPT",
+      "published_at": "2026-02-12T11:28:37Z",
+      "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "source": "GitHub",
+      "stars": 121,
+      "user": "requestsession"
     },
     {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
@@ -1885,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 454,
       "user": "aeromomo"
     },
     {
@@ -1900,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 416,
       "user": "HKUDS"
     },
     {
@@ -1915,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 384,
       "user": "zilliztech"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 284,
       "user": "FireRedTeam"
     },
     {
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "zscole"
     },
     {
@@ -1960,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 812,
       "user": "RevylAI"
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 576,
       "user": "mickamy"
     },
     {
@@ -1990,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "mosaxiv"
     },
     {
@@ -2009,19 +2009,19 @@
       "user": "simonw"
     },
     {
-      "title": "luckyPipewrench/pipelock - Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
-      "url": "https://github.com/luckyPipewrench/pipelock",
-      "published_at": "2026-02-08T00:40:18Z",
-      "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
+      "title": "Compresr-ai/Context-Gateway - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
+      "url": "https://github.com/Compresr-ai/Context-Gateway",
+      "published_at": "2026-02-10T14:21:20Z",
+      "description": "Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142104046?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/258749684?v=4",
       "source": "GitHub",
-      "stars": 100,
-      "user": "luckyPipewrench"
+      "stars": 87,
+      "user": "Compresr-ai"
     }
   ]
 }
