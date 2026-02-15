@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-15 11:00 CAT)
+## 📅 Latest Updates (2026-02-15 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Why I built yet another release tool for npm](https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m) _[Dev.to]_
 - [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 11:46:24 CAT_
+_Last automated update: Sun, 15 Feb 2026 12:23:03 CAT_
 
 
 
@@ -224,25 +224,25 @@ _Last automated update: Sun, 15 Feb 2026 11:46:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 09:46:24 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 10:23:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
