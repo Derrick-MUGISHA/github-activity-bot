@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-16 0:00 CAT)
+## 📅 Latest Updates (2026-02-16 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Content-Addressed Memoization for Durable Execution](https://dev.to/shobande_femi/content-addressed-memoization-for-durable-execution-4h2h) _[Dev.to]_
 - [How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd) _[Dev.to]_
 
-_Last automated update: Mon, 16 Feb 2026 00:50:55 CAT_
+_Last automated update: Mon, 16 Feb 2026 01:22:40 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 16 Feb 2026 00:50:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 22:50:55 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 23:22:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
