@@ -16,6 +16,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -61,6 +76,21 @@
       "user": "SnykSec"
     },
     {
+      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
+      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
+      "published_at": "2026-02-14T23:30:20Z",
+      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
+      "tags": [
+        "ai",
+        "javascript",
+        "cicd",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
+      "source": "Dev.to",
+      "user": "Monarch Wadia"
+    },
+    {
       "title": "Using Laravel Boost With DDEV",
       "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
       "published_at": "2026-02-10T00:00:00Z",
@@ -102,50 +132,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
       "source": "Dev.to",
       "user": "Stephan Miller"
-    },
-    {
-      "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
-      "url": "https://dev.to/baliachbryan/patching-the-gaps-a-production-ready-guide-to-googles-adk-with-typescript-45fe",
-      "published_at": "2026-02-10T11:00:29Z",
-      "description": "Building production-grade AI agents is tricky. In a landscape shifting rapidly, betting your entire...",
-      "tags": [
-        "ai",
-        "googleadk",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby87bc5qsac8v7ikwgvi.png",
-      "source": "Dev.to",
-      "user": "Brian Baliach"
-    },
-    {
-      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
-      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
-      "published_at": "2026-02-10T15:04:38Z",
-      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
-      "tags": [
-        "voice",
-        "ai",
-        "python",
-        "smallestai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
-      "source": "Dev.to",
-      "user": "Abhishek Mishra"
-    },
-    {
-      "title": "Software engineering isn't dead",
-      "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
-      "published_at": "2026-02-06T18:41:30Z",
-      "description": "Doom   People love defaulting to doom and gloom. I get it. I've been there, it used to be my...",
-      "tags": [
-        "ai",
-        "thoughts",
-        "softwareengineering",
-        "future"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
-      "source": "Dev.to",
-      "user": "Dan Walsh"
     },
     {
       "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
@@ -527,7 +513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 525,
       "user": "aeromomo"
     },
     {
@@ -542,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "zilliztech"
     },
     {
@@ -557,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 933,
       "user": "RevylAI"
     },
     {
@@ -593,6 +579,36 @@
   ],
   "JavaScript": [
     {
+      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
+      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
+      "published_at": "2026-02-15T10:27:55Z",
+      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
+      "tags": [
+        "cloudflare",
+        "webdev",
+        "javascript",
+        "satori"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
+      "source": "Dev.to",
+      "user": "DeVoresyah ArEst"
+    },
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
       "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
       "published_at": "2026-02-13T19:52:20Z",
@@ -621,6 +637,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
       "source": "Dev.to",
       "user": "Fongoh Martin T."
+    },
+    {
+      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
+      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
+      "published_at": "2026-02-14T23:30:20Z",
+      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
+      "tags": [
+        "ai",
+        "javascript",
+        "cicd",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
+      "source": "Dev.to",
+      "user": "Monarch Wadia"
     },
     {
       "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
@@ -681,20 +712,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
       "source": "Dev.to",
       "user": "Niccolò Olivieri Achille"
-    },
-    {
-      "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
-      "url": "https://dev.to/baliachbryan/patching-the-gaps-a-production-ready-guide-to-googles-adk-with-typescript-45fe",
-      "published_at": "2026-02-10T11:00:29Z",
-      "description": "Building production-grade AI agents is tricky. In a landscape shifting rapidly, betting your entire...",
-      "tags": [
-        "ai",
-        "googleadk",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby87bc5qsac8v7ikwgvi.png",
-      "source": "Dev.to",
-      "user": "Brian Baliach"
     },
     {
       "title": "I Ditched My AI Agent Dashboard for Obsidian",
@@ -995,21 +1012,6 @@
       "user": "Prithwish Nath"
     },
     {
-      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
-      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
-      "published_at": "2026-02-10T15:04:38Z",
-      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
-      "tags": [
-        "voice",
-        "ai",
-        "python",
-        "smallestai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
-      "source": "Dev.to",
-      "user": "Abhishek Mishra"
-    },
-    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1141,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 619,
       "user": "HKUDS"
     },
     {
@@ -1156,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 525,
       "user": "aeromomo"
     },
     {
@@ -1171,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "zilliztech"
     },
     {
@@ -1201,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "MooseGoose0701"
     }
   ],
@@ -1220,20 +1222,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
       "source": "Dev.to",
       "user": "Russell Jones"
-    },
-    {
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "published_at": "2026-02-05T07:08:59Z",
-      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
-      "tags": [
-        "terraform",
-        "devops",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
-      "source": "Dev.to",
-      "user": "Heng Lu"
     },
     {
       "title": "What is a CaaS Platform and why we built one",
@@ -1282,6 +1270,33 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "CSS aspect ratio property",
+      "url": "https://dev.to/kzuraw/css-aspect-ratio-property-4e7b",
+      "published_at": "2026-02-15T14:11:22Z",
+      "description": "I recently learned that I can use CSS aspect ratio property to tell browser how tall should image be...",
+      "tags": [
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdx7ub1z79tf8ecxnpqzu.png",
+      "source": "Dev.to",
+      "user": "Krzysztof Żuraw"
+    },
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
     {
       "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
       "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
@@ -1431,6 +1446,21 @@
   ],
   "Cloud": [
     {
+      "title": "Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions",
+      "url": "https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb",
+      "published_at": "2026-02-15T16:55:00Z",
+      "description": "The MITRE ATT&amp;CK Framework is indispensable for understanding adversary behavior, especially in...",
+      "tags": [
+        "cloudsecurity",
+        "mitre",
+        "redteaming",
+        "securityoperations"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz36stwowcjezhw656arx.png",
+      "source": "Dev.to",
+      "user": "Kennedy "
+    },
+    {
       "title": "What else do you want to know about Gemini CLI?",
       "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
       "published_at": "2026-02-13T21:42:35Z",
@@ -1446,18 +1476,19 @@
       "user": "Jess Lee"
     },
     {
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "published_at": "2026-02-05T07:08:59Z",
-      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
+      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
+      "published_at": "2026-02-15T10:27:55Z",
+      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
       "tags": [
-        "terraform",
-        "devops",
-        "azure"
+        "cloudflare",
+        "webdev",
+        "javascript",
+        "satori"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
-      "user": "Heng Lu"
+      "user": "DeVoresyah ArEst"
     },
     {
       "title": "What is a CaaS Platform and why we built one",
@@ -1527,11 +1558,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 710,
       "user": "mickamy"
     }
   ],
   "Security": [
+    {
+      "title": "Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions",
+      "url": "https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb",
+      "published_at": "2026-02-15T16:55:00Z",
+      "description": "The MITRE ATT&amp;CK Framework is indispensable for understanding adversary behavior, especially in...",
+      "tags": [
+        "cloudsecurity",
+        "mitre",
+        "redteaming",
+        "securityoperations"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz36stwowcjezhw656arx.png",
+      "source": "Dev.to",
+      "user": "Kennedy "
+    },
     {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
       "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
@@ -1621,6 +1667,36 @@
       "user": "Richard Pascoe"
     },
     {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
+      "title": "Visualizing UV on a Polygon2D in Godot",
+      "url": "https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o",
+      "published_at": "2026-02-15T11:53:49Z",
+      "description": "Run on: Godot: v4.6.stable.official [89cea1439]  https://github.com/idkshite/fragment-shader-uv  I...",
+      "tags": [
+        "godot",
+        "godotengine",
+        "shader",
+        "gdscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2eyt63wb0hh5u9xpc82n.png",
+      "source": "Dev.to",
+      "user": "Lucca Sanwald"
+    },
+    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -1664,20 +1740,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png",
       "source": "Dev.to",
       "user": "Giorgi Kobaidze"
-    },
-    {
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "published_at": "2026-02-05T07:08:59Z",
-      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
-      "tags": [
-        "terraform",
-        "devops",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
-      "source": "Dev.to",
-      "user": "Heng Lu"
     },
     {
       "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
@@ -1885,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 619,
       "user": "HKUDS"
     },
     {
@@ -1900,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 525,
       "user": "aeromomo"
     },
     {
@@ -1915,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "zilliztech"
     },
     {
@@ -1945,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "MooseGoose0701"
     },
     {
@@ -1960,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 933,
       "user": "RevylAI"
     },
     {
@@ -1975,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 710,
       "user": "mickamy"
     },
     {
