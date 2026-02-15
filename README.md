@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-15 6:00 CAT)
+## 📅 Latest Updates (2026-02-15 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [THE NEW WEB](https://dev.to/arber/the-new-web-2kac) _[Dev.to]_
 - [My New Language That’s Almost Done](https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 06:24:45 CAT_
+_Last automated update: Sun, 15 Feb 2026 07:38:46 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Feb 2026 06:24:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Heap, stack, garbage collection
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Mutability, performance, use cases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 04:24:45 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 05:38:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
