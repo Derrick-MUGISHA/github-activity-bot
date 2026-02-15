@@ -216,7 +216,7 @@ npm run test
 - [My New Language That’s Almost Done](https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31) _[Dev.to]_
 - [Why I built yet another release tool for npm](https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 09:26:40 CAT_
+_Last automated update: Sun, 15 Feb 2026 09:55:53 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Feb 2026 09:26:40 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 07:26:40 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 07:55:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
