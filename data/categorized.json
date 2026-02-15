@@ -339,21 +339,6 @@
       "user": "Narnaiezzsshaa Truong"
     },
     {
-      "title": "The Junior Developer is Extinct (And we are creating a disaster)",
-      "url": "https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2",
-      "published_at": "2026-02-05T13:05:27Z",
-      "description": "I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...",
-      "tags": [
-        "career",
-        "ai",
-        "discuss",
-        "future"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmh6ypab984f2yk13hixb.png",
-      "source": "Dev.to",
-      "user": "NorthernDev"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -497,7 +482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "andyhuo520"
     },
     {
@@ -527,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 498,
       "user": "aeromomo"
     },
     {
@@ -542,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 417,
       "user": "zilliztech"
     },
     {
@@ -557,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 908,
       "user": "RevylAI"
     },
     {
@@ -901,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "andyhuo520"
     },
     {
@@ -916,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "iamzifei"
     },
     {
@@ -1141,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 567,
       "user": "HKUDS"
     },
     {
@@ -1156,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 498,
       "user": "aeromomo"
     },
     {
@@ -1171,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 417,
       "user": "zilliztech"
     },
     {
@@ -1186,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 311,
       "user": "FireRedTeam"
     },
     {
@@ -1201,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "zscole"
     }
   ],
@@ -1542,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 663,
       "user": "mickamy"
     }
   ],
@@ -1576,6 +1561,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
       "source": "Dev.to",
       "user": "Natnael Getenew"
+    },
+    {
+      "title": "Your IDE is an Attack Vector",
+      "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
+      "published_at": "2026-02-12T00:36:03Z",
+      "description": "A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...",
+      "tags": [
+        "vscode",
+        "security",
+        "phishing",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
+      "source": "Dev.to",
+      "user": "Peter Mulligan"
     },
     {
       "title": "The 48-Hour Collapse of Moltbook",
@@ -1769,6 +1769,21 @@
       "user": "Karsten Biedermann"
     },
     {
+      "title": "Your IDE is an Attack Vector",
+      "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
+      "published_at": "2026-02-12T00:36:03Z",
+      "description": "A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...",
+      "tags": [
+        "vscode",
+        "security",
+        "phishing",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
+      "source": "Dev.to",
+      "user": "Peter Mulligan"
+    },
+    {
       "title": "ASCII Whisper: Local P2P Chat with Sound FX and Battleship",
       "url": "https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7",
       "published_at": "2026-02-11T00:29:42Z",
@@ -1810,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "andyhuo520"
     },
     {
@@ -1825,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "iamzifei"
     },
     {
@@ -1885,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 567,
       "user": "HKUDS"
     },
     {
@@ -1900,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 498,
       "user": "aeromomo"
     },
     {
@@ -1915,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 417,
       "user": "zilliztech"
     },
     {
@@ -1930,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 311,
       "user": "FireRedTeam"
     },
     {
@@ -1945,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "zscole"
     },
     {
@@ -1960,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 908,
       "user": "RevylAI"
     },
     {
@@ -1975,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 663,
       "user": "mickamy"
     },
     {
@@ -2005,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "simonw"
     },
     {
