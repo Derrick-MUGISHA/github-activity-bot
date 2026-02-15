@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-15 18:00 CAT)
+## 📅 Latest Updates (2026-02-15 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
 - [Re-thinking Laravel's Observer Pattern With Column Watchers](https://dev.to/charlie_waddell01/re-thinking-laravels-observer-pattern-56j9) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 18:55:49 CAT_
+_Last automated update: Sun, 15 Feb 2026 19:24:16 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Feb 2026 18:55:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 16:55:49 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 17:24:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
