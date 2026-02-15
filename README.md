@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-15 10:00 CAT)
+## 📅 Latest Updates (2026-02-15 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Why I built yet another release tool for npm](https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m) _[Dev.to]_
 - [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb) _[Dev.to]_
 
-_Last automated update: Sun, 15 Feb 2026 10:31:33 CAT_
+_Last automated update: Sun, 15 Feb 2026 11:04:11 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Feb 2026 10:31:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Feb 2026 08:31:33 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Feb 2026 09:04:11 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
