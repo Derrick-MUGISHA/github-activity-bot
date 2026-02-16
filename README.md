@@ -216,7 +216,7 @@ npm run test
 - [Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents](https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd) _[Dev.to]_
 - [Still Skidding Broadside](https://dev.to/vintagetechie/still-skidding-broadside-klj) _[Dev.to]_
 
-_Last automated update: Mon, 16 Feb 2026 21:08:18 CAT_
+_Last automated update: Mon, 16 Feb 2026 21:46:04 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 16 Feb 2026 21:08:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Feb 2026 19:08:18 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Feb 2026 19:46:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
