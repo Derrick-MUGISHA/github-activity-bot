@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "What else do you want to know about Gemini CLI?",
-      "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
-      "published_at": "2026-02-13T21:42:35Z",
-      "description": "Earlier this week, @greggyb and @stephr_wong kicked off Google Cloud Live, a no fluff weekly...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgu7wotyz6k8asd6ngyza.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
       "published_at": "2026-02-15T12:26:26Z",
@@ -512,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "andyhuo520"
     },
     {
@@ -542,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 584,
       "user": "aeromomo"
     },
     {
@@ -557,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1002,
       "user": "RevylAI"
     },
     {
@@ -572,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 163,
       "user": "klawsh"
     },
     {
@@ -931,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "andyhuo520"
     },
     {
@@ -946,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "iamzifei"
     },
     {
@@ -976,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "iltekin"
     },
     {
@@ -1171,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 703,
       "user": "HKUDS"
     },
     {
@@ -1186,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 584,
       "user": "aeromomo"
     },
     {
@@ -1201,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 391,
       "user": "MooseGoose0701"
     },
     {
@@ -1216,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 356,
       "user": "FireRedTeam"
     },
     {
@@ -1473,36 +1458,6 @@
   ],
   "Cloud": [
     {
-      "title": "Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions",
-      "url": "https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb",
-      "published_at": "2026-02-15T16:55:00Z",
-      "description": "The MITRE ATT&amp;CK Framework is indispensable for understanding adversary behavior, especially in...",
-      "tags": [
-        "cloudsecurity",
-        "mitre",
-        "redteaming",
-        "securityoperations"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz36stwowcjezhw656arx.png",
-      "source": "Dev.to",
-      "user": "Kennedy "
-    },
-    {
-      "title": "What else do you want to know about Gemini CLI?",
-      "url": "https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h",
-      "published_at": "2026-02-13T21:42:35Z",
-      "description": "Earlier this week, @greggyb and @stephr_wong kicked off Google Cloud Live, a no fluff weekly...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgu7wotyz6k8asd6ngyza.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
       "published_at": "2026-02-15T10:27:55Z",
@@ -1516,6 +1471,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
       "user": "DeVoresyah ArEst"
+    },
+    {
+      "title": "Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions",
+      "url": "https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb",
+      "published_at": "2026-02-15T16:55:00Z",
+      "description": "The MITRE ATT&amp;CK Framework is indispensable for understanding adversary behavior, especially in...",
+      "tags": [
+        "cloudsecurity",
+        "mitre",
+        "redteaming",
+        "securityoperations"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz36stwowcjezhw656arx.png",
+      "source": "Dev.to",
+      "user": "Kennedy "
     },
     {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
@@ -1570,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 163,
       "user": "klawsh"
     }
   ],
@@ -1614,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 774,
       "user": "mickamy"
     }
   ],
@@ -1897,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "andyhuo520"
     },
     {
@@ -1912,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "iamzifei"
     },
     {
@@ -1942,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "iltekin"
     },
     {
@@ -1972,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 703,
       "user": "HKUDS"
     },
     {
@@ -1987,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 584,
       "user": "aeromomo"
     },
     {
@@ -2002,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 391,
       "user": "MooseGoose0701"
     },
     {
@@ -2017,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 356,
       "user": "FireRedTeam"
     },
     {
@@ -2047,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1002,
       "user": "RevylAI"
     },
     {
@@ -2062,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 774,
       "user": "mickamy"
     },
     {
@@ -2077,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 163,
       "user": "klawsh"
     },
     {
