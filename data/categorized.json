@@ -121,6 +121,49 @@
       "user": "Natnael Getenew"
     },
     {
+      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
+      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
+      "published_at": "2026-02-08T07:00:00Z",
+      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
+      "tags": [
+        "aiassisteddevelopmen",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
+      "source": "Dev.to",
+      "user": "Stephan Miller"
+    },
+    {
+      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
+      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
+      "published_at": "2026-02-10T15:04:38Z",
+      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
+      "tags": [
+        "voice",
+        "ai",
+        "python",
+        "smallestai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
+      "source": "Dev.to",
+      "user": "Abhishek Mishra"
+    },
+    {
+      "title": "Software engineering isn't dead",
+      "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
+      "published_at": "2026-02-06T18:41:30Z",
+      "description": "Doom   People love defaulting to doom and gloom. I get it. I've been there, it used to be my...",
+      "tags": [
+        "ai",
+        "thoughts",
+        "softwareengineering",
+        "future"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
+      "source": "Dev.to",
+      "user": "Dan Walsh"
+    },
+    {
       "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
       "url": "https://dev.to/bengreenberg/openclaw-is-incredible-setting-it-up-shouldnt-require-a-cs-degree-36nk",
       "published_at": "2026-02-09T17:29:54Z",
@@ -297,21 +340,6 @@
       "user": "NorthernDev"
     },
     {
-      "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
-      "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
-      "published_at": "2026-02-09T11:07:59Z",
-      "description": "Three weeks ago, I wrote about knowledge collapse - how our best technical insights are dying in...",
-      "tags": [
-        "ai",
-        "opensource",
-        "activitypub",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxuuj8wc8c32xy26iq7hi.png",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -455,7 +483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 312,
       "user": "andyhuo520"
     },
     {
@@ -485,7 +513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "aeromomo"
     },
     {
@@ -500,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 341,
       "user": "HKUDS"
     },
     {
@@ -515,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1013,
       "user": "RevylAI"
     },
     {
@@ -530,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 228,
       "user": "klawsh"
     },
     {
@@ -905,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 312,
       "user": "andyhuo520"
     },
     {
@@ -920,7 +948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "iamzifei"
     },
     {
@@ -997,6 +1025,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy47kf4rllj3ih8gysd4e.png",
       "source": "Dev.to",
       "user": "Prithwish Nath"
+    },
+    {
+      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
+      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
+      "published_at": "2026-02-10T15:04:38Z",
+      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
+      "tags": [
+        "voice",
+        "ai",
+        "python",
+        "smallestai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
+      "source": "Dev.to",
+      "user": "Abhishek Mishra"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1130,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 721,
       "user": "HKUDS"
     },
     {
@@ -1145,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "aeromomo"
     },
     {
@@ -1160,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 412,
       "user": "MooseGoose0701"
     },
     {
@@ -1175,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "FireRedTeam"
     },
     {
@@ -1190,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 341,
       "user": "HKUDS"
     }
   ],
@@ -1529,7 +1572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 228,
       "user": "klawsh"
     }
   ],
@@ -1573,7 +1616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 785,
       "user": "mickamy"
     }
   ],
@@ -1888,21 +1931,6 @@
       "user": "Arber"
     },
     {
-      "title": "Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up",
-      "url": "https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0",
-      "published_at": "2026-02-13T20:01:12Z",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge           Table of Contents    Demo  What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1914,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 312,
       "user": "andyhuo520"
     },
     {
@@ -1929,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "iamzifei"
     },
     {
@@ -1989,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 721,
       "user": "HKUDS"
     },
     {
@@ -2004,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "aeromomo"
     },
     {
@@ -2019,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 412,
       "user": "MooseGoose0701"
     },
     {
@@ -2034,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "FireRedTeam"
     },
     {
@@ -2049,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 341,
       "user": "HKUDS"
     },
     {
@@ -2064,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1013,
       "user": "RevylAI"
     },
     {
@@ -2079,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 785,
       "user": "mickamy"
     },
     {
@@ -2094,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 228,
       "user": "klawsh"
     },
     {
