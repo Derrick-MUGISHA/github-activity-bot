@@ -339,6 +339,36 @@
       "user": "Arber"
     },
     {
+      "title": "Dear Vibe Coder: Your Code Is the Problem.",
+      "url": "https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc",
+      "published_at": "2026-02-09T17:12:21Z",
+      "description": "Vibe coding looks cool on Twitter, but it’s quietly wrecking codebases, teams, and junior developers. Let’s actually talk about it.",
+      "tags": [
+        "programming",
+        "ai",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExbHprOHdsanh5bHh2NHQ3bGVheG85eHg3emc3eWhzZHEzMG1sdHczayZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FJEDVTonz503kj7Ug4j%2Fgiphy.gif",
+      "source": "Dev.to",
+      "user": "Leon Martin"
+    },
+    {
+      "title": "The 48-Hour Collapse of Moltbook",
+      "url": "https://dev.to/narnaiezzsshaa/the-48-hour-collapse-of-moltbook-4625",
+      "published_at": "2026-02-03T19:33:52Z",
+      "description": "What Happens When You Deploy Agents Without Governance   Moltbook was live for 48 hours. In...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "governance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2mt8ilnwzyazvaew2ic.jpg",
+      "source": "Dev.to",
+      "user": "Narnaiezzsshaa Truong"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -482,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 275,
       "user": "andyhuo520"
     },
     {
@@ -512,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 548,
       "user": "aeromomo"
     },
     {
@@ -527,8 +557,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 974,
       "user": "RevylAI"
+    },
+    {
+      "title": "klawsh/klaw.sh - kubernetes for ai agents ",
+      "url": "https://github.com/klawsh/klaw.sh",
+      "published_at": "2026-02-15T04:18:19Z",
+      "description": "kubernetes for ai agents ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "klawsh"
     },
     {
       "title": "Compresr-ai/Context-Gateway - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
@@ -901,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 275,
       "user": "andyhuo520"
     },
     {
@@ -916,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 207,
       "user": "iamzifei"
     },
     {
@@ -1141,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 669,
       "user": "HKUDS"
     },
     {
@@ -1156,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 548,
       "user": "aeromomo"
     },
     {
@@ -1171,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 356,
       "user": "MooseGoose0701"
     },
     {
@@ -1186,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 337,
       "user": "FireRedTeam"
     },
     {
@@ -1201,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "zscole"
     }
   ],
@@ -1251,6 +1296,21 @@
       "user": "Jawad Elhaouchi"
     },
     {
+      "title": "How We Reduced Dependabot Noise in Our Monorepo",
+      "url": "https://dev.to/aki59/how-we-reduced-dependabot-noise-in-our-monorepo-1b06",
+      "published_at": "2026-02-04T09:21:28Z",
+      "description": "Why we needed Dependabot   Our dependency management had become increasingly manual and...",
+      "tags": [
+        "devops",
+        "jenkins",
+        "cicd",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl6ligout75eq676e47zd.png",
+      "source": "Dev.to",
+      "user": "Akash Tewari"
+    },
+    {
       "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
       "url": "https://github.com/xvhuan/xiaoi",
       "published_at": "2026-02-10T16:05:01Z",
@@ -1264,6 +1324,21 @@
       "source": "GitHub",
       "stars": 137,
       "user": "xvhuan"
+    },
+    {
+      "title": "klawsh/klaw.sh - kubernetes for ai agents ",
+      "url": "https://github.com/klawsh/klaw.sh",
+      "published_at": "2026-02-15T04:18:19Z",
+      "description": "kubernetes for ai agents ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "klawsh"
     }
   ],
   "WebDev": [
@@ -1527,6 +1602,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "JustExAWS"
+    },
+    {
+      "title": "klawsh/klaw.sh - kubernetes for ai agents ",
+      "url": "https://github.com/klawsh/klaw.sh",
+      "published_at": "2026-02-15T04:18:19Z",
+      "description": "kubernetes for ai agents ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "klawsh"
     }
   ],
   "Database": [
@@ -1569,7 +1659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 743,
       "user": "mickamy"
     }
   ],
@@ -1620,19 +1710,19 @@
       "user": "Natnael Getenew"
     },
     {
-      "title": "Your IDE is an Attack Vector",
-      "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
-      "published_at": "2026-02-12T00:36:03Z",
-      "description": "A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...",
+      "title": "The 48-Hour Collapse of Moltbook",
+      "url": "https://dev.to/narnaiezzsshaa/the-48-hour-collapse-of-moltbook-4625",
+      "published_at": "2026-02-03T19:33:52Z",
+      "description": "What Happens When You Deploy Agents Without Governance   Moltbook was live for 48 hours. In...",
       "tags": [
-        "vscode",
+        "ai",
         "security",
-        "phishing",
-        "tooling"
+        "agents",
+        "governance"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2mt8ilnwzyazvaew2ic.jpg",
       "source": "Dev.to",
-      "user": "Peter Mulligan"
+      "user": "Narnaiezzsshaa Truong"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1796,21 +1886,6 @@
       "user": "Yann Rabiller"
     },
     {
-      "title": "Your IDE is an Attack Vector",
-      "url": "https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b",
-      "published_at": "2026-02-12T00:36:03Z",
-      "description": "A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...",
-      "tags": [
-        "vscode",
-        "security",
-        "phishing",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkslya75qjll07u9xch3.png",
-      "source": "Dev.to",
-      "user": "Peter Mulligan"
-    },
-    {
       "title": "ASCII Whisper: Local P2P Chat with Sound FX and Battleship",
       "url": "https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7",
       "published_at": "2026-02-11T00:29:42Z",
@@ -1867,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 275,
       "user": "andyhuo520"
     },
     {
@@ -1882,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 207,
       "user": "iamzifei"
     },
     {
@@ -1942,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 669,
       "user": "HKUDS"
     },
     {
@@ -1957,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 548,
       "user": "aeromomo"
     },
     {
@@ -1972,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 356,
       "user": "MooseGoose0701"
     },
     {
@@ -1987,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 337,
       "user": "FireRedTeam"
     },
     {
@@ -2002,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "zscole"
     },
     {
@@ -2017,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 974,
       "user": "RevylAI"
     },
     {
@@ -2032,8 +2107,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 743,
       "user": "mickamy"
+    },
+    {
+      "title": "klawsh/klaw.sh - kubernetes for ai agents ",
+      "url": "https://github.com/klawsh/klaw.sh",
+      "published_at": "2026-02-15T04:18:19Z",
+      "description": "kubernetes for ai agents ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "klawsh"
     },
     {
       "title": "Compresr-ai/Context-Gateway - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
@@ -2051,21 +2141,6 @@
       "user": "Compresr-ai"
     },
     {
-      "title": "NicolasHaas/gospeak - A privacy-focused voice communication server and client, inspired by TeamSpeak, built entirely in Go.",
-      "url": "https://github.com/NicolasHaas/gospeak",
-      "published_at": "2026-02-13T17:41:01Z",
-      "description": "A privacy-focused voice communication server and client, inspired by TeamSpeak, built entirely in Go.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/116176330?v=4",
-      "source": "GitHub",
-      "stars": 68,
-      "user": "NicolasHaas"
-    },
-    {
       "title": "dujiao-next/dujiao-next - Dujiao-Next Server 独角Next服务端",
       "url": "https://github.com/dujiao-next/dujiao-next",
       "published_at": "2026-02-10T06:39:46Z",
@@ -2077,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260595165?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 70,
       "user": "dujiao-next"
     }
   ]
