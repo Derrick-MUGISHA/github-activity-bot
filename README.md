@@ -40,7 +40,7 @@
 
 **Cloud**: 🟦🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
 **Security**: 🟦🟦 5 (4.8%)
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-16 6:00 CAT)
+## 📅 Latest Updates (2026-02-16 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd) _[Dev.to]_
 - [Handy Bit Manipulation Tricks](https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39) _[Dev.to]_
 
-_Last automated update: Mon, 16 Feb 2026 06:23:23 CAT_
+_Last automated update: Mon, 16 Feb 2026 07:49:39 CAT_
 
 
 
@@ -224,29 +224,7 @@ _Last automated update: Mon, 16 Feb 2026 06:23:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
-
-**Difficulty**: Medium | **Topics**: error handling, async
-
-<details>
-<summary>💡 Hint</summary>
-
-try/catch, .catch(), error middleware
-
-</details>
-
-### 2. Database: Explain database indexing and when to use it
-
-**Difficulty**: Medium | **Topics**: optimization, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-B-tree, trade-offs, query performance
-
-</details>
-
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
 **Difficulty**: Medium | **Topics**: system design, scalability
 
@@ -254,6 +232,28 @@ B-tree, trade-offs, query performance
 <summary>💡 Hint</summary>
 
 Hash function, database design, caching, analytics
+
+</details>
+
+### 2. SystemDesign: Design Twitter's timeline feature
+
+**Difficulty**: Hard | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Fan-out, caching, ranking, real-time updates
+
+</details>
+
+### 3. Database: What is the difference between SQL and NoSQL databases?
+
+**Difficulty**: Easy | **Topics**: databases, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Feb 2026 04:23:23 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Feb 2026 05:49:39 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
