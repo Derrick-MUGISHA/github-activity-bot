@@ -482,7 +482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 261,
       "user": "andyhuo520"
     },
     {
@@ -512,23 +512,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 543,
       "user": "aeromomo"
-    },
-    {
-      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "url": "https://github.com/zilliztech/memsearch",
-      "published_at": "2026-02-09T02:29:16Z",
-      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
-      "source": "GitHub",
-      "stars": 431,
-      "user": "zilliztech"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -542,23 +527,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 956,
       "user": "RevylAI"
-    },
-    {
-      "title": "mosaxiv/clawlet - Ultra-Lightweight&Efficient Personal AI Assistant",
-      "url": "https://github.com/mosaxiv/clawlet",
-      "published_at": "2026-02-09T10:48:17Z",
-      "description": "Ultra-Lightweight&Efficient Personal AI Assistant",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
-      "source": "GitHub",
-      "stars": 595,
-      "user": "mosaxiv"
     },
     {
       "title": "Compresr-ai/Context-Gateway - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
@@ -931,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 261,
       "user": "andyhuo520"
     },
     {
@@ -946,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 203,
       "user": "iamzifei"
     },
     {
@@ -1171,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 647,
       "user": "HKUDS"
     },
     {
@@ -1186,23 +1156,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 543,
       "user": "aeromomo"
-    },
-    {
-      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "url": "https://github.com/zilliztech/memsearch",
-      "published_at": "2026-02-09T02:29:16Z",
-      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
-      "source": "GitHub",
-      "stars": 431,
-      "user": "zilliztech"
     },
     {
       "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
@@ -1216,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 348,
       "user": "MooseGoose0701"
     },
     {
@@ -1231,8 +1186,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "FireRedTeam"
+    },
+    {
+      "title": "zscole/model-hierarchy-skill - OpenClaw skill for cost-optimized model routing based on task complexity",
+      "url": "https://github.com/zscole/model-hierarchy-skill",
+      "published_at": "2026-02-11T23:54:32Z",
+      "description": "OpenClaw skill for cost-optimized model routing based on task complexity",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
+      "source": "GitHub",
+      "stars": 297,
+      "user": "zscole"
     }
   ],
   "DevOps": [
@@ -1599,7 +1569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 741,
       "user": "mickamy"
     }
   ],
@@ -1753,21 +1723,6 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
-      "title": "Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up",
-      "url": "https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0",
-      "published_at": "2026-02-13T20:01:12Z",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge           Table of Contents    Demo  What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1912,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 261,
       "user": "andyhuo520"
     },
     {
@@ -1927,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 203,
       "user": "iamzifei"
     },
     {
@@ -1987,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 647,
       "user": "HKUDS"
     },
     {
@@ -2002,23 +1957,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 543,
       "user": "aeromomo"
-    },
-    {
-      "title": "zilliztech/memsearch - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "url": "https://github.com/zilliztech/memsearch",
-      "published_at": "2026-02-09T02:29:16Z",
-      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18416694?v=4",
-      "source": "GitHub",
-      "stars": 431,
-      "user": "zilliztech"
     },
     {
       "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
@@ -2032,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 348,
       "user": "MooseGoose0701"
     },
     {
@@ -2047,8 +1987,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "FireRedTeam"
+    },
+    {
+      "title": "zscole/model-hierarchy-skill - OpenClaw skill for cost-optimized model routing based on task complexity",
+      "url": "https://github.com/zscole/model-hierarchy-skill",
+      "published_at": "2026-02-11T23:54:32Z",
+      "description": "OpenClaw skill for cost-optimized model routing based on task complexity",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
+      "source": "GitHub",
+      "stars": 297,
+      "user": "zscole"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -2062,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 956,
       "user": "RevylAI"
     },
     {
@@ -2077,38 +2032,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 741,
       "user": "mickamy"
-    },
-    {
-      "title": "mosaxiv/clawlet - Ultra-Lightweight&Efficient Personal AI Assistant",
-      "url": "https://github.com/mosaxiv/clawlet",
-      "published_at": "2026-02-09T10:48:17Z",
-      "description": "Ultra-Lightweight&Efficient Personal AI Assistant",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28671296?v=4",
-      "source": "GitHub",
-      "stars": 595,
-      "user": "mosaxiv"
-    },
-    {
-      "title": "simonw/rodney - CLI tool for interacting with the web",
-      "url": "https://github.com/simonw/rodney",
-      "published_at": "2026-02-09T19:54:35Z",
-      "description": "CLI tool for interacting with the web",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9599?v=4",
-      "source": "GitHub",
-      "stars": 183,
-      "user": "simonw"
     },
     {
       "title": "Compresr-ai/Context-Gateway - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
@@ -2124,6 +2049,36 @@
       "source": "GitHub",
       "stars": 89,
       "user": "Compresr-ai"
+    },
+    {
+      "title": "NicolasHaas/gospeak - A privacy-focused voice communication server and client, inspired by TeamSpeak, built entirely in Go.",
+      "url": "https://github.com/NicolasHaas/gospeak",
+      "published_at": "2026-02-13T17:41:01Z",
+      "description": "A privacy-focused voice communication server and client, inspired by TeamSpeak, built entirely in Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/116176330?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "NicolasHaas"
+    },
+    {
+      "title": "dujiao-next/dujiao-next - Dujiao-Next Server 独角Next服务端",
+      "url": "https://github.com/dujiao-next/dujiao-next",
+      "published_at": "2026-02-10T06:39:46Z",
+      "description": "Dujiao-Next Server 独角Next服务端",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260595165?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "dujiao-next"
     }
   ]
 }
