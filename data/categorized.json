@@ -15,21 +15,6 @@
       "user": "Makanju Oluwafemi"
     },
     {
-      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
-      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
-      "published_at": "2026-02-16T20:48:42Z",
-      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
-      "tags": [
-        "claude",
-        "ai",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
-      "source": "Dev.to",
-      "user": "Tom Yahav"
-    },
-    {
       "title": "The Ghost in the Training Set",
       "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
       "published_at": "2026-02-16T20:10:18Z",
@@ -43,6 +28,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
       "source": "Dev.to",
       "user": "Alessandro Bahgat"
+    },
+    {
+      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
+      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
+      "published_at": "2026-02-16T20:48:42Z",
+      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
+      "tags": [
+        "claude",
+        "ai",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
+      "source": "Dev.to",
+      "user": "Tom Yahav"
     },
     {
       "title": "I rebuilt OpenClaw from scratch without the security flaws",
@@ -511,38 +511,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "andyhuo520"
     },
     {
-      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
-      "published_at": "2026-02-11T05:12:06Z",
-      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
+      "url": "https://github.com/marswei/seaseed-clawerse",
+      "published_at": "2026-02-14T18:13:42Z",
+      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 96,
-      "user": "TheGreatAzizi"
-    },
-    {
-      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "url": "https://github.com/aeromomo/claw-compactor",
-      "published_at": "2026-02-10T00:27:08Z",
-      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
-      "source": "GitHub",
-      "stars": 617,
-      "user": "aeromomo"
+      "stars": 97,
+      "user": "marswei"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -556,8 +541,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 627,
       "user": "HKUDS"
+    },
+    {
+      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "url": "https://github.com/aeromomo/claw-compactor",
+      "published_at": "2026-02-10T00:27:08Z",
+      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
+      "source": "GitHub",
+      "stars": 619,
+      "user": "aeromomo"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "klawsh"
     },
     {
@@ -976,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "andyhuo520"
     },
     {
@@ -1025,19 +1025,19 @@
       "user": "iltekin"
     },
     {
-      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
-      "published_at": "2026-02-11T05:12:06Z",
-      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
+      "url": "https://github.com/marswei/seaseed-clawerse",
+      "published_at": "2026-02-14T18:13:42Z",
+      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 96,
-      "user": "TheGreatAzizi"
+      "stars": 97,
+      "user": "marswei"
     }
   ],
   "Python": [
@@ -1231,7 +1231,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 736,
+      "user": "HKUDS"
+    },
+    {
+      "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "url": "https://github.com/HKUDS/ClawWork",
+      "published_at": "2026-02-15T16:41:38Z",
+      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "source": "GitHub",
+      "stars": 627,
       "user": "HKUDS"
     },
     {
@@ -1246,23 +1261,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "aeromomo"
-    },
-    {
-      "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "url": "https://github.com/HKUDS/ClawWork",
-      "published_at": "2026-02-15T16:41:38Z",
-      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 609,
-      "user": "HKUDS"
     },
     {
       "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
@@ -1276,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 444,
       "user": "MooseGoose0701"
     },
     {
@@ -1291,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "FireRedTeam"
     }
   ],
@@ -1607,21 +1607,6 @@
       "user": "JustExAWS"
     },
     {
-      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
-      "published_at": "2026-02-11T05:12:06Z",
-      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
-      "source": "GitHub",
-      "stars": 96,
-      "user": "TheGreatAzizi"
-    },
-    {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
       "url": "https://github.com/klawsh/klaw.sh",
       "published_at": "2026-02-15T04:18:19Z",
@@ -1633,7 +1618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "klawsh"
     }
   ],
@@ -1988,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "andyhuo520"
     },
     {
@@ -2037,19 +2022,19 @@
       "user": "iltekin"
     },
     {
-      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
-      "published_at": "2026-02-11T05:12:06Z",
-      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
+      "url": "https://github.com/marswei/seaseed-clawerse",
+      "published_at": "2026-02-14T18:13:42Z",
+      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 96,
-      "user": "TheGreatAzizi"
+      "stars": 97,
+      "user": "marswei"
     },
     {
       "title": "HKUDS/FastCode - FastCode: Accelerating and Streamlining Your Code Understanding",
@@ -2063,7 +2048,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 736,
+      "user": "HKUDS"
+    },
+    {
+      "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "url": "https://github.com/HKUDS/ClawWork",
+      "published_at": "2026-02-15T16:41:38Z",
+      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "source": "GitHub",
+      "stars": 627,
       "user": "HKUDS"
     },
     {
@@ -2078,23 +2078,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "aeromomo"
-    },
-    {
-      "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "url": "https://github.com/HKUDS/ClawWork",
-      "published_at": "2026-02-15T16:41:38Z",
-      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 609,
-      "user": "HKUDS"
     },
     {
       "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
@@ -2108,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 444,
       "user": "MooseGoose0701"
     },
     {
@@ -2123,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "FireRedTeam"
     },
     {
@@ -2168,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "klawsh"
     },
     {
@@ -2183,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "pinchtab"
     },
     {
