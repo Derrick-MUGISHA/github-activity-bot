@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "Do people still genuinely care about technical articles ?",
+      "url": "https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk",
+      "published_at": "2026-02-15T23:42:17Z",
+      "description": "AI has spread like wildfire. In software development especially, it’s changing how we learn and solve...",
+      "tags": [
+        "community",
+        "discuss",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png",
+      "source": "Dev.to",
+      "user": "Makanju Oluwafemi"
+    },
+    {
       "title": "I rebuilt OpenClaw from scratch without the security flaws",
       "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
       "published_at": "2026-02-16T10:33:21Z",
@@ -14,20 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
       "source": "Dev.to",
       "user": "Sunil Kumar Dash"
-    },
-    {
-      "title": "Do people still genuinely care about technical articles ?",
-      "url": "https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk",
-      "published_at": "2026-02-15T23:42:17Z",
-      "description": "AI has spread like wildfire. In software development especially, it’s changing how we learn and solve...",
-      "tags": [
-        "community",
-        "discuss",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png",
-      "source": "Dev.to",
-      "user": "Makanju Oluwafemi"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -467,23 +467,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "andyhuo520"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
+      "published_at": "2026-02-11T05:12:06Z",
+      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
       "source": "GitHub",
-      "stars": 121,
-      "user": "requestsession"
+      "stars": 94,
+      "user": "TheGreatAzizi"
     },
     {
       "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
@@ -497,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 608,
       "user": "aeromomo"
     },
     {
@@ -512,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 500,
       "user": "HKUDS"
     },
     {
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1024,
       "user": "RevylAI"
     },
     {
@@ -542,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 275,
       "user": "klawsh"
     },
     {
@@ -917,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "andyhuo520"
     },
     {
@@ -966,19 +966,19 @@
       "user": "iltekin"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
+      "published_at": "2026-02-11T05:12:06Z",
+      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
       "source": "GitHub",
-      "stars": 121,
-      "user": "requestsession"
+      "stars": 94,
+      "user": "TheGreatAzizi"
     }
   ],
   "Python": [
@@ -1172,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 729,
       "user": "HKUDS"
     },
     {
@@ -1187,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 608,
       "user": "aeromomo"
     },
     {
@@ -1202,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 500,
       "user": "HKUDS"
     },
     {
@@ -1217,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 427,
       "user": "MooseGoose0701"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "FireRedTeam"
     }
   ],
@@ -1560,6 +1560,21 @@
       "user": "JustExAWS"
     },
     {
+      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
+      "published_at": "2026-02-11T05:12:06Z",
+      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
+      "source": "GitHub",
+      "stars": 94,
+      "user": "TheGreatAzizi"
+    },
+    {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
       "url": "https://github.com/klawsh/klaw.sh",
       "published_at": "2026-02-15T04:18:19Z",
@@ -1571,7 +1586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 275,
       "user": "klawsh"
     }
   ],
@@ -1615,7 +1630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 802,
       "user": "mickamy"
     }
   ],
@@ -1926,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "andyhuo520"
     },
     {
@@ -1975,19 +1990,19 @@
       "user": "iltekin"
     },
     {
-      "title": "requestsession/IndexGPT - IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
-      "url": "https://github.com/requestsession/IndexGPT",
-      "published_at": "2026-02-12T11:28:37Z",
-      "description": "IndexGPT: 本地 AI 科研助手（RAG + SFT + LoRA）| Local AI research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training.",
+      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
+      "published_at": "2026-02-11T05:12:06Z",
+      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24363434?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
       "source": "GitHub",
-      "stars": 121,
-      "user": "requestsession"
+      "stars": 94,
+      "user": "TheGreatAzizi"
     },
     {
       "title": "HKUDS/FastCode - FastCode: Accelerating and Streamlining Your Code Understanding",
@@ -2001,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 729,
       "user": "HKUDS"
     },
     {
@@ -2016,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 608,
       "user": "aeromomo"
     },
     {
@@ -2031,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 500,
       "user": "HKUDS"
     },
     {
@@ -2046,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 427,
       "user": "MooseGoose0701"
     },
     {
@@ -2061,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "FireRedTeam"
     },
     {
@@ -2076,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1024,
       "user": "RevylAI"
     },
     {
@@ -2091,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 802,
       "user": "mickamy"
     },
     {
@@ -2106,8 +2121,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 275,
       "user": "klawsh"
+    },
+    {
+      "title": "pinchtab/pinchtab - GitHub Repository",
+      "url": "https://github.com/pinchtab/pinchtab",
+      "published_at": "2026-02-15T11:12:33Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
+      "source": "GitHub",
+      "stars": 92,
+      "user": "pinchtab"
     },
     {
       "title": "Compresr-ai/Context-Gateway - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
@@ -2123,21 +2153,6 @@
       "source": "GitHub",
       "stars": 91,
       "user": "Compresr-ai"
-    },
-    {
-      "title": "pinchtab/pinchtab - GitHub Repository",
-      "url": "https://github.com/pinchtab/pinchtab",
-      "published_at": "2026-02-15T11:12:33Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
-      "source": "GitHub",
-      "stars": 78,
-      "user": "pinchtab"
     }
   ]
 }
