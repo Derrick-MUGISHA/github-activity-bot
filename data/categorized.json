@@ -16,6 +16,20 @@
       "user": "Sunil Kumar Dash"
     },
     {
+      "title": "Do people still genuinely care about technical articles ?",
+      "url": "https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk",
+      "published_at": "2026-02-15T23:42:17Z",
+      "description": "AI has spread like wildfire. In software development especially, it’s changing how we learn and solve...",
+      "tags": [
+        "community",
+        "discuss",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png",
+      "source": "Dev.to",
+      "user": "Makanju Oluwafemi"
+    },
+    {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
       "published_at": "2026-02-15T12:26:26Z",
@@ -310,36 +324,6 @@
       "user": "Leon Martin"
     },
     {
-      "title": "The 48-Hour Collapse of Moltbook",
-      "url": "https://dev.to/narnaiezzsshaa/the-48-hour-collapse-of-moltbook-4625",
-      "published_at": "2026-02-03T19:33:52Z",
-      "description": "What Happens When You Deploy Agents Without Governance   Moltbook was live for 48 hours. In...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "governance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2mt8ilnwzyazvaew2ic.jpg",
-      "source": "Dev.to",
-      "user": "Narnaiezzsshaa Truong"
-    },
-    {
-      "title": "The Junior Developer is Extinct (And we are creating a disaster)",
-      "url": "https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2",
-      "published_at": "2026-02-05T13:05:27Z",
-      "description": "I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...",
-      "tags": [
-        "career",
-        "ai",
-        "discuss",
-        "future"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmh6ypab984f2yk13hixb.png",
-      "source": "Dev.to",
-      "user": "NorthernDev"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -483,7 +467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 318,
       "user": "andyhuo520"
     },
     {
@@ -513,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 602,
       "user": "aeromomo"
     },
     {
@@ -528,7 +512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 436,
       "user": "HKUDS"
     },
     {
@@ -543,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1015,
+      "stars": 1019,
       "user": "RevylAI"
     },
     {
@@ -558,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 254,
       "user": "klawsh"
     },
     {
@@ -933,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 318,
       "user": "andyhuo520"
     },
     {
@@ -948,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "iamzifei"
     },
     {
@@ -1040,6 +1024,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
       "source": "Dev.to",
       "user": "Abhishek Mishra"
+    },
+    {
+      "title": "Happy Valentine's Day ❤",
+      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/happy-valentines-day-4la4",
+      "published_at": "2026-02-15T00:57:11Z",
+      "description": "import time  def send_love(peeps):     message = \"Happy Valentine's Day!\"     heart = \"💖\"      for...",
+      "tags": [
+        "python",
+        "coding",
+        "programming",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fleinq19vra234m134dux.png",
+      "source": "Dev.to",
+      "user": "Aaron Rose"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1173,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "HKUDS"
     },
     {
@@ -1188,23 +1187,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 602,
       "user": "aeromomo"
-    },
-    {
-      "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "url": "https://github.com/MooseGoose0701/skill-compose",
-      "published_at": "2026-02-12T14:11:39Z",
-      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
-      "source": "GitHub",
-      "stars": 417,
-      "user": "MooseGoose0701"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -1218,8 +1202,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 436,
       "user": "HKUDS"
+    },
+    {
+      "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
+      "url": "https://github.com/MooseGoose0701/skill-compose",
+      "published_at": "2026-02-12T14:11:39Z",
+      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
+      "source": "GitHub",
+      "stars": 421,
+      "user": "MooseGoose0701"
     },
     {
       "title": "FireRedTeam/FireRed-Image-Edit - GitHub Repository",
@@ -1233,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 371,
       "user": "FireRedTeam"
     }
   ],
@@ -1572,7 +1571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 254,
       "user": "klawsh"
     }
   ],
@@ -1616,7 +1615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 793,
       "user": "mickamy"
     }
   ],
@@ -1680,21 +1679,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
       "source": "Dev.to",
       "user": "Natnael Getenew"
-    },
-    {
-      "title": "The 48-Hour Collapse of Moltbook",
-      "url": "https://dev.to/narnaiezzsshaa/the-48-hour-collapse-of-moltbook-4625",
-      "published_at": "2026-02-03T19:33:52Z",
-      "description": "What Happens When You Deploy Agents Without Governance   Moltbook was live for 48 hours. In...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "governance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2mt8ilnwzyazvaew2ic.jpg",
-      "source": "Dev.to",
-      "user": "Narnaiezzsshaa Truong"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1942,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 318,
       "user": "andyhuo520"
     },
     {
@@ -1957,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "iamzifei"
     },
     {
@@ -2017,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "HKUDS"
     },
     {
@@ -2032,23 +2016,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 602,
       "user": "aeromomo"
-    },
-    {
-      "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "url": "https://github.com/MooseGoose0701/skill-compose",
-      "published_at": "2026-02-12T14:11:39Z",
-      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
-      "source": "GitHub",
-      "stars": 417,
-      "user": "MooseGoose0701"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -2062,8 +2031,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 436,
       "user": "HKUDS"
+    },
+    {
+      "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
+      "url": "https://github.com/MooseGoose0701/skill-compose",
+      "published_at": "2026-02-12T14:11:39Z",
+      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
+      "source": "GitHub",
+      "stars": 421,
+      "user": "MooseGoose0701"
     },
     {
       "title": "FireRedTeam/FireRed-Image-Edit - GitHub Repository",
@@ -2077,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 371,
       "user": "FireRedTeam"
     },
     {
@@ -2092,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1015,
+      "stars": 1019,
       "user": "RevylAI"
     },
     {
@@ -2107,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 793,
       "user": "mickamy"
     },
     {
@@ -2122,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 254,
       "user": "klawsh"
     },
     {
