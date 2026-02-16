@@ -222,21 +222,6 @@
       "user": "Jawad Elhaouchi"
     },
     {
-      "title": "Symfony AI: A Rocket, a School Bus, or Something In Between?",
-      "url": "https://dev.to/jeandevbr/symfony-ai-a-rocket-a-school-bus-or-something-in-between-31nn",
-      "published_at": "2026-02-13T11:59:31Z",
-      "description": "When a recent article compared Symfony AI to “a school bus painted like a rocket pretending to reach...",
-      "tags": [
-        "symfony",
-        "ai",
-        "programming",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml22o2zljr736rwjrzjr.png",
-      "source": "Dev.to",
-      "user": "Jean Klebert de A Modesto"
-    },
-    {
       "title": "Tailwind Alchemist: find all tailwind colors in your codebase",
       "url": "https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o",
       "published_at": "2026-02-04T15:29:15Z",
@@ -352,6 +337,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmh6ypab984f2yk13hixb.png",
       "source": "Dev.to",
       "user": "NorthernDev"
+    },
+    {
+      "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
+      "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
+      "published_at": "2026-02-09T11:07:59Z",
+      "description": "Three weeks ago, I wrote about knowledge collapse - how our best technical insights are dying in...",
+      "tags": [
+        "ai",
+        "opensource",
+        "activitypub",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxuuj8wc8c32xy26iq7hi.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "Airfoil",
@@ -497,7 +497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 307,
       "user": "andyhuo520"
     },
     {
@@ -527,7 +527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 590,
       "user": "aeromomo"
     },
     {
@@ -542,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1010,
       "user": "RevylAI"
     },
     {
@@ -557,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 197,
       "user": "klawsh"
     },
     {
@@ -916,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 307,
       "user": "andyhuo520"
     },
     {
@@ -931,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "iamzifei"
     },
     {
@@ -946,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "xvhuan"
     },
     {
@@ -961,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "iltekin"
     },
     {
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 711,
       "user": "HKUDS"
     },
     {
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 590,
       "user": "aeromomo"
     },
     {
@@ -1186,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 402,
       "user": "MooseGoose0701"
     },
     {
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 362,
       "user": "FireRedTeam"
     },
     {
@@ -1216,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "zscole"
     }
   ],
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "xvhuan"
     }
   ],
@@ -1540,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 197,
       "user": "klawsh"
     }
   ],
@@ -1584,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 778,
       "user": "mickamy"
     }
   ],
@@ -1856,6 +1856,21 @@
       "user": "Arber"
     },
     {
+      "title": "Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up",
+      "url": "https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0",
+      "published_at": "2026-02-13T20:01:12Z",
+      "description": "This is a submission for the GitHub Copilot CLI Challenge           Table of Contents    Demo  What I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "cli",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fantw8tottjdlxciua2v2.png",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
+    },
+    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1867,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 307,
       "user": "andyhuo520"
     },
     {
@@ -1882,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "iamzifei"
     },
     {
@@ -1897,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "xvhuan"
     },
     {
@@ -1912,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "iltekin"
     },
     {
@@ -1942,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 711,
       "user": "HKUDS"
     },
     {
@@ -1957,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 590,
       "user": "aeromomo"
     },
     {
@@ -1972,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 402,
       "user": "MooseGoose0701"
     },
     {
@@ -1987,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 362,
       "user": "FireRedTeam"
     },
     {
@@ -2002,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "zscole"
     },
     {
@@ -2017,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1010,
       "user": "RevylAI"
     },
     {
@@ -2032,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 778,
       "user": "mickamy"
     },
     {
@@ -2047,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 197,
       "user": "klawsh"
     },
     {
