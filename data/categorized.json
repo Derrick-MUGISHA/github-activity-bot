@@ -15,6 +15,21 @@
       "user": "Makanju Oluwafemi"
     },
     {
+      "title": "The Ghost in the Training Set",
+      "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
+      "published_at": "2026-02-16T20:10:18Z",
+      "description": "During the last several weeks, I've run into setting up MCP servers a few times and noticed something...",
+      "tags": [
+        "ai",
+        "mcp",
+        "programming",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
+      "source": "Dev.to",
+      "user": "Alessandro Bahgat"
+    },
+    {
       "title": "I rebuilt OpenClaw from scratch without the security flaws",
       "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
       "published_at": "2026-02-16T10:33:21Z",
@@ -58,6 +73,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "David Alcala"
+    },
+    {
+      "title": "But what exactly is an AI agent?",
+      "url": "https://dev.to/herrkris/but-what-exactly-is-an-agentic-assistant-2cma",
+      "published_at": "2026-02-16T05:47:22Z",
+      "description": "This is the first episode in an ongoing series called But what exactly is .... I usually learn better...",
+      "tags": [
+        "ai",
+        "beginners",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz1asm4dj272z9ils81ab.png",
+      "source": "Dev.to",
+      "user": "Kristof Dreier"
     },
     {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
@@ -512,7 +541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 596,
       "user": "HKUDS"
     },
     {
@@ -542,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "klawsh"
     },
     {
@@ -621,6 +650,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
+    },
+    {
+      "title": "Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2",
+      "url": "https://dev.to/fridzema/announcement-oxidedock-rust-vue-3-desktop-starter-built-on-tauri-v2-3d6a",
+      "published_at": "2026-02-16T09:18:29Z",
+      "description": "I built a Tauri v2 + Vue 3 desktop starter so you don't have to wire up the boring stuff. I got...",
+      "tags": [
+        "opensource",
+        "rust",
+        "showdev",
+        "vue"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8of7zouja9n3nxg13usa.png",
+      "source": "Dev.to",
+      "user": "Robert Fridzema"
+    },
+    {
+      "title": "Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js",
+      "url": "https://dev.to/arindamdawn/stop-wrestling-with-json-ld-type-safe-structured-data-for-nextjs-38on",
+      "published_at": "2026-02-16T08:31:48Z",
+      "description": "Structured data is one of those things every developer knows they should implement, but few actually...",
+      "tags": [
+        "nextjs",
+        "seo",
+        "jsonld",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyphiwpeupxxzg5ukesg.png",
+      "source": "Dev.to",
+      "user": "Arindam Dawn"
     },
     {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
@@ -711,21 +770,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjuz3zu8nsbz5xfo4aayp.png",
       "source": "Dev.to",
       "user": "Gabriel Grubba"
-    },
-    {
-      "title": "Why I built yet another release tool for npm",
-      "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
-      "published_at": "2026-02-13T22:33:56Z",
-      "description": "Years of frustration with existing tools led me to build bonvoy",
-      "tags": [
-        "javascript",
-        "npm",
-        "opensource",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
-      "source": "Dev.to",
-      "user": "Niccolò Olivieri Achille"
     },
     {
       "title": "I Ditched My AI Agent Dashboard for Obsidian",
@@ -1202,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 596,
       "user": "HKUDS"
     },
     {
@@ -1217,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 440,
       "user": "MooseGoose0701"
     },
     {
@@ -1314,18 +1358,6 @@
   ],
   "WebDev": [
     {
-      "title": "CSS aspect ratio property",
-      "url": "https://dev.to/kzuraw/css-aspect-ratio-property-4e7b",
-      "published_at": "2026-02-15T14:11:22Z",
-      "description": "I recently learned that I can use CSS aspect ratio property to tell browser how tall should image be...",
-      "tags": [
-        "css"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdx7ub1z79tf8ecxnpqzu.png",
-      "source": "Dev.to",
-      "user": "Krzysztof Żuraw"
-    },
-    {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
       "published_at": "2026-02-15T12:26:26Z",
@@ -1339,21 +1371,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
-    },
-    {
-      "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
-      "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
-      "published_at": "2026-02-09T14:43:12Z",
-      "description": "👉 Before you continue: This guide assumes you’re already familiar with the Wishlist Power web...",
-      "tags": [
-        "shopify",
-        "webdev",
-        "frontend",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
-      "source": "Dev.to",
-      "user": "Fabien Sebban"
     },
     {
       "title": "Native CSS Utilities",
@@ -1444,6 +1461,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "Building a Native-Feeling Theme System in SwiftUI",
+      "url": "https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k",
+      "published_at": "2026-02-16T19:33:57Z",
+      "description": "SwiftUI's .primary and .secondary are elegant — adaptive, environment-aware, composable. But they're...",
+      "tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "themes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwjqfv0z5cxm9a18nfp5.png",
+      "source": "Dev.to",
+      "user": "Max Rozdobudko"
+    },
     {
       "title": "My New Language That’s Almost Done",
       "url": "https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31",
@@ -1586,7 +1618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "klawsh"
     }
   ],
@@ -1630,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 811,
       "user": "mickamy"
     }
   ],
@@ -1795,21 +1827,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "David Alcala"
-    },
-    {
-      "title": "Why I built yet another release tool for npm",
-      "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
-      "published_at": "2026-02-13T22:33:56Z",
-      "description": "Years of frustration with existing tools led me to build bonvoy",
-      "tags": [
-        "javascript",
-        "npm",
-        "opensource",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
-      "source": "Dev.to",
-      "user": "Niccolò Olivieri Achille"
     },
     {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
@@ -2046,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 596,
       "user": "HKUDS"
     },
     {
@@ -2061,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 440,
       "user": "MooseGoose0701"
     },
     {
@@ -2106,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 811,
       "user": "mickamy"
     },
     {
@@ -2121,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "klawsh"
     },
     {
@@ -2136,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 131,
       "user": "pinchtab"
     },
     {
