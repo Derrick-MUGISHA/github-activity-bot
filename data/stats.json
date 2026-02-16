@@ -6,8 +6,8 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 42,
-    "JavaScript": 30,
+    "AI": 43,
+    "JavaScript": 29,
     "Python": 18,
     "DevOps": 5,
     "WebDev": 10,
@@ -18,8 +18,8 @@
     "Tools": 28
   },
   "by_language": {
-    "Go": 19,
-    "JavaScript": 30,
+    "Go": 20,
+    "JavaScript": 29,
     "Java": 23,
     "Python": 18,
     "Rust": 3,
@@ -27,7 +27,7 @@
     "Swift": 2
   },
   "by_date": {
-    "2026-02-13": 12,
+    "2026-02-13": 11,
     "2026-02-15": 6,
     "2026-02-12": 9,
     "2026-02-10": 14,
@@ -36,7 +36,7 @@
     "2026-02-08": 4,
     "2026-02-09": 7,
     "2026-02-06": 3,
-    "2026-02-05": 4,
+    "2026-02-05": 5,
     "2026-02-03": 4,
     "2026-02-04": 2,
     "2024-02-27": 1,
@@ -69,31 +69,31 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 18,
+    "ai": 19,
     "github": 15,
     "open-source": 15,
     "javascript": 13,
     "webdev": 12,
-    "discuss": 10,
+    "discuss": 11,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "python": 8,
-    "programming": 7,
-    "typescript": 6,
+    "programming": 6,
     "learning": 5,
+    "typescript": 5,
     "frontend": 5,
+    "career": 5,
     "go": 5,
     "tutorial": 4,
-    "career": 4,
     "community": 3,
     "css": 3,
     "cli": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "19.6",
-    "JavaScript": "30.9",
+    "Go": "20.6",
+    "JavaScript": "29.9",
     "Java": "23.7",
     "Python": "18.6",
     "Rust": "3.1",

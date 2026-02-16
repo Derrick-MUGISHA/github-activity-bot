@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **WebDev**: 🟦🟦🟦🟦🟦 10 (9.5%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.9 (30.9%)
-Java            ███████████████████████ 23.7 (23.7%)
-Go              ███████████████████ 19.6 (19.6%)
-Python          ██████████████████ 18.6 (18.6%)
+JavaScript      ██████████████████████████████ 29.9 (29.9%)
+Java            ████████████████████████ 23.7 (23.7%)
+Go              █████████████████████ 20.6 (20.6%)
+Python          ███████████████████ 18.6 (18.6%)
 Rust            ███ 3.1 (3.1%)
 PHP             ██ 2.1 (2.1%)
 Swift           ██ 2.1 (2.1%)
@@ -72,9 +72,9 @@ Swift           ██ 2.1 (2.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 30
+    "JavaScript" : 29
     "Java" : 23
-    "Go" : 19
+    "Go" : 20
     "Python" : 18
     "Rust" : 3
     "PHP" : 2
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![typescript](https://img.shields.io/badge/typescript-6-blue) ![learning](https://img.shields.io/badge/learning-5-blue) ![frontend](https://img.shields.io/badge/frontend-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![learning](https://img.shields.io/badge/learning-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![frontend](https://img.shields.io/badge/frontend-5-blue) ![career](https://img.shields.io/badge/career-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-16 10:00 CAT)
+## 📅 Latest Updates (2026-02-16 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd) _[Dev.to]_
 - [Handy Bit Manipulation Tricks](https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39) _[Dev.to]_
 
-_Last automated update: Mon, 16 Feb 2026 10:55:48 CAT_
+_Last automated update: Mon, 16 Feb 2026 11:52:26 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 16 Feb 2026 10:55:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Feb 2026 08:55:48 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Feb 2026 09:52:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
