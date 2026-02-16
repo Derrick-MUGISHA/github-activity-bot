@@ -15,6 +15,21 @@
       "user": "Makanju Oluwafemi"
     },
     {
+      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
+      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
+      "published_at": "2026-02-16T20:48:42Z",
+      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
+      "tags": [
+        "claude",
+        "ai",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
+      "source": "Dev.to",
+      "user": "Tom Yahav"
+    },
+    {
       "title": "The Ghost in the Training Set",
       "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
       "published_at": "2026-02-16T20:10:18Z",
@@ -496,7 +511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 328,
       "user": "andyhuo520"
     },
     {
@@ -526,7 +541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 617,
       "user": "aeromomo"
     },
     {
@@ -541,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 609,
       "user": "HKUDS"
     },
     {
@@ -556,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1027,
       "user": "RevylAI"
     },
     {
@@ -571,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "klawsh"
     },
     {
@@ -586,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258749684?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 92,
       "user": "Compresr-ai"
     }
   ],
@@ -961,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 328,
       "user": "andyhuo520"
     },
     {
@@ -1216,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 735,
       "user": "HKUDS"
     },
     {
@@ -1231,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 617,
       "user": "aeromomo"
     },
     {
@@ -1246,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 609,
       "user": "HKUDS"
     },
     {
@@ -1261,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "MooseGoose0701"
     },
     {
@@ -1357,6 +1372,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
+      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
+      "published_at": "2026-02-16T20:48:42Z",
+      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
+      "tags": [
+        "claude",
+        "ai",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
+      "source": "Dev.to",
+      "user": "Tom Yahav"
+    },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
@@ -1475,21 +1505,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwjqfv0z5cxm9a18nfp5.png",
       "source": "Dev.to",
       "user": "Max Rozdobudko"
-    },
-    {
-      "title": "My New Language That’s Almost Done",
-      "url": "https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31",
-      "published_at": "2026-02-09T20:10:51Z",
-      "description": "I’ve been building a programming language for the past 3 months. Although it’s written in Swift, I’m...",
-      "tags": [
-        "programming",
-        "showdev",
-        "sideprojects",
-        "swift"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Focscz47o1wxswnzbq3eb.png",
-      "source": "Dev.to",
-      "user": "Ryan Bae"
     },
     {
       "title": "Multimodal Visual Understanding in Swift (aka: \"why is this still so hard on-device?\")",
@@ -1618,7 +1633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "klawsh"
     }
   ],
@@ -1662,7 +1677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 812,
       "user": "mickamy"
     }
   ],
@@ -1754,6 +1769,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png",
       "source": "Dev.to",
       "user": "Richard Pascoe"
+    },
+    {
+      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
+      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
+      "published_at": "2026-02-16T20:48:42Z",
+      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
+      "tags": [
+        "claude",
+        "ai",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
+      "source": "Dev.to",
+      "user": "Tom Yahav"
     },
     {
       "title": "I rebuilt OpenClaw from scratch without the security flaws",
@@ -1958,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 328,
       "user": "andyhuo520"
     },
     {
@@ -2033,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 735,
       "user": "HKUDS"
     },
     {
@@ -2048,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 617,
       "user": "aeromomo"
     },
     {
@@ -2063,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 609,
       "user": "HKUDS"
     },
     {
@@ -2078,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "MooseGoose0701"
     },
     {
@@ -2108,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1027,
       "user": "RevylAI"
     },
     {
@@ -2123,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 812,
       "user": "mickamy"
     },
     {
@@ -2138,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "klawsh"
     },
     {
@@ -2153,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "pinchtab"
     },
     {
@@ -2168,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258749684?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 92,
       "user": "Compresr-ai"
     }
   ]

@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦 8 (7.6%)
+**WebDev**: 🟦🟦🟦🟦 8 (7.6%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**Cloud**: 🟦🟦🟦🟦 8 (7.6%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
 **Security**: 🟦🟦 5 (4.8%)
 
-**Mobile**: 🟦 3 (2.9%)
-
 **Database**: 🟦 3 (2.9%)
+
+**Mobile**: 🟦 2 (1.9%)
 
 
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.0 (31.0%)
-Java            ██████████████████████ 23.0 (23.0%)
-Go              ███████████████████ 20.0 (20.0%)
-Python          ██████████████████ 19.0 (19.0%)
-Swift           ███ 3.0 (3.0%)
+JavaScript      ██████████████████████████████ 31.3 (31.3%)
+Java            ██████████████████████ 23.2 (23.2%)
+Go              ███████████████████ 20.2 (20.2%)
+Python          ██████████████████ 19.2 (19.2%)
 Rust            ███ 3.0 (3.0%)
+Swift           ██ 2.0 (2.0%)
 PHP             █ 1.0 (1.0%)
 
 ```
@@ -76,8 +76,8 @@ pie title Programming Languages Distribution
     "Java" : 23
     "Go" : 20
     "Python" : 19
-    "Swift" : 3
     "Rust" : 3
+    "Swift" : 2
     "PHP" : 1
 ```
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![learning](https://img.shields.io/badge/learning-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![learning](https://img.shields.io/badge/learning-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/abahgat/the-ghost-in-the-training-set-496n">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png" width="200" alt="The Ghost in the Training Set" />
+    <a href="https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png" width="200" alt="I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows" />
       <br/>
-      <b>The Ghost in the Training Set</b>
+      <b>I Built a CLI That Turns Claude Code's /insights R...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,6 +200,7 @@ npm run test
 - [Do people still genuinely care about technical articles ?](https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk) _[Dev.to]_
 - [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml) _[Dev.to]_
 - [Building a Native-Feeling Theme System in SwiftUI](https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k) _[Dev.to]_
+- [I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows](https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377) _[Dev.to]_
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 - [I rebuilt OpenClaw from scratch without the security flaws](https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle) _[Dev.to]_
 - [Nike Was Right: The Only Coding Advice You Actually Need](https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js](https://dev.to/arindamdawn/stop-wrestling-with-json-ld-type-safe-structured-data-for-nextjs-38on) _[Dev.to]_
 - [I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3) _[Dev.to]_
 - [Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions](https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb) _[Dev.to]_
-- [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
 
-_Last automated update: Mon, 16 Feb 2026 23:26:36 CAT_
+_Last automated update: Mon, 16 Feb 2026 23:53:10 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 16 Feb 2026 23:26:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Feb 2026 21:26:36 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Feb 2026 21:53:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
