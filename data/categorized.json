@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "I rebuilt OpenClaw from scratch without the security flaws",
+      "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
+      "published_at": "2026-02-16T10:33:21Z",
+      "description": "OpenClaw launched with great fanfare, and I was curious whether you could truly \"vibe code\" the...",
+      "tags": [
+        "ai",
+        "programming",
+        "javascript",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
+      "source": "Dev.to",
+      "user": "Sunil Kumar Dash"
+    },
+    {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
       "published_at": "2026-02-15T12:26:26Z",
@@ -104,63 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
       "source": "Dev.to",
       "user": "Natnael Getenew"
-    },
-    {
-      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
-      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
-      "published_at": "2026-02-08T07:00:00Z",
-      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
-      "tags": [
-        "aiassisteddevelopmen",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
-      "source": "Dev.to",
-      "user": "Stephan Miller"
-    },
-    {
-      "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
-      "url": "https://dev.to/baliachbryan/patching-the-gaps-a-production-ready-guide-to-googles-adk-with-typescript-45fe",
-      "published_at": "2026-02-10T11:00:29Z",
-      "description": "Building production-grade AI agents is tricky. In a landscape shifting rapidly, betting your entire...",
-      "tags": [
-        "ai",
-        "googleadk",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby87bc5qsac8v7ikwgvi.png",
-      "source": "Dev.to",
-      "user": "Brian Baliach"
-    },
-    {
-      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
-      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
-      "published_at": "2026-02-10T15:04:38Z",
-      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
-      "tags": [
-        "voice",
-        "ai",
-        "python",
-        "smallestai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
-      "source": "Dev.to",
-      "user": "Abhishek Mishra"
-    },
-    {
-      "title": "Software engineering isn't dead",
-      "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
-      "published_at": "2026-02-06T18:41:30Z",
-      "description": "Doom   People love defaulting to doom and gloom. I get it. I've been there, it used to be my...",
-      "tags": [
-        "ai",
-        "thoughts",
-        "softwareengineering",
-        "future"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
-      "source": "Dev.to",
-      "user": "Dan Walsh"
     },
     {
       "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
@@ -497,7 +455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "andyhuo520"
     },
     {
@@ -527,8 +485,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 593,
       "user": "aeromomo"
+    },
+    {
+      "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "url": "https://github.com/HKUDS/ClawWork",
+      "published_at": "2026-02-15T16:41:38Z",
+      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "HKUDS"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -542,7 +515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1011,
       "user": "RevylAI"
     },
     {
@@ -557,7 +530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 208,
       "user": "klawsh"
     },
     {
@@ -577,6 +550,36 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "How a DEV Friend and I Brought Two Avatars to Life",
+      "url": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
+      "published_at": "2026-02-16T06:31:42Z",
+      "description": "I met @webdeveloperhyper on the DEV Community, and like most good internet collaborations, it started...",
+      "tags": [
+        "webdev",
+        "sideprojects",
+        "animation",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feifm5cpen8arsfq86w8x.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
+    },
+    {
+      "title": "I rebuilt OpenClaw from scratch without the security flaws",
+      "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
+      "published_at": "2026-02-16T10:33:21Z",
+      "description": "OpenClaw launched with great fanfare, and I was curious whether you could truly \"vibe code\" the...",
+      "tags": [
+        "ai",
+        "programming",
+        "javascript",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
+      "source": "Dev.to",
+      "user": "Sunil Kumar Dash"
+    },
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
@@ -711,20 +714,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
       "source": "Dev.to",
       "user": "Niccolò Olivieri Achille"
-    },
-    {
-      "title": "Patching the Gaps: A Production-Ready Guide to Google’s ADK with TypeScript",
-      "url": "https://dev.to/baliachbryan/patching-the-gaps-a-production-ready-guide-to-googles-adk-with-typescript-45fe",
-      "published_at": "2026-02-10T11:00:29Z",
-      "description": "Building production-grade AI agents is tricky. In a landscape shifting rapidly, betting your entire...",
-      "tags": [
-        "ai",
-        "googleadk",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby87bc5qsac8v7ikwgvi.png",
-      "source": "Dev.to",
-      "user": "Brian Baliach"
     },
     {
       "title": "I Ditched My AI Agent Dashboard for Obsidian",
@@ -916,7 +905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "andyhuo520"
     },
     {
@@ -1008,21 +997,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy47kf4rllj3ih8gysd4e.png",
       "source": "Dev.to",
       "user": "Prithwish Nath"
-    },
-    {
-      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
-      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
-      "published_at": "2026-02-10T15:04:38Z",
-      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
-      "tags": [
-        "voice",
-        "ai",
-        "python",
-        "smallestai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
-      "source": "Dev.to",
-      "user": "Abhishek Mishra"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1156,7 +1130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 716,
       "user": "HKUDS"
     },
     {
@@ -1171,7 +1145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 593,
       "user": "aeromomo"
     },
     {
@@ -1186,7 +1160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 406,
       "user": "MooseGoose0701"
     },
     {
@@ -1201,23 +1175,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 364,
       "user": "FireRedTeam"
     },
     {
-      "title": "zscole/model-hierarchy-skill - OpenClaw skill for cost-optimized model routing based on task complexity",
-      "url": "https://github.com/zscole/model-hierarchy-skill",
-      "published_at": "2026-02-11T23:54:32Z",
-      "description": "OpenClaw skill for cost-optimized model routing based on task complexity",
+      "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "url": "https://github.com/HKUDS/ClawWork",
+      "published_at": "2026-02-15T16:41:38Z",
+      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 303,
-      "user": "zscole"
+      "stars": 314,
+      "user": "HKUDS"
     }
   ],
   "DevOps": [
@@ -1458,6 +1432,21 @@
   ],
   "Cloud": [
     {
+      "title": "I rebuilt OpenClaw from scratch without the security flaws",
+      "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
+      "published_at": "2026-02-16T10:33:21Z",
+      "description": "OpenClaw launched with great fanfare, and I was curious whether you could truly \"vibe code\" the...",
+      "tags": [
+        "ai",
+        "programming",
+        "javascript",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
+      "source": "Dev.to",
+      "user": "Sunil Kumar Dash"
+    },
+    {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
       "published_at": "2026-02-15T10:27:55Z",
@@ -1540,7 +1529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 208,
       "user": "klawsh"
     }
   ],
@@ -1584,11 +1573,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 784,
       "user": "mickamy"
     }
   ],
   "Security": [
+    {
+      "title": "I rebuilt OpenClaw from scratch without the security flaws",
+      "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
+      "published_at": "2026-02-16T10:33:21Z",
+      "description": "OpenClaw launched with great fanfare, and I was curious whether you could truly \"vibe code\" the...",
+      "tags": [
+        "ai",
+        "programming",
+        "javascript",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
+      "source": "Dev.to",
+      "user": "Sunil Kumar Dash"
+    },
     {
       "title": "Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions",
       "url": "https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb",
@@ -1676,6 +1680,34 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png",
       "source": "Dev.to",
       "user": "Richard Pascoe"
+    },
+    {
+      "title": "I rebuilt OpenClaw from scratch without the security flaws",
+      "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
+      "published_at": "2026-02-16T10:33:21Z",
+      "description": "OpenClaw launched with great fanfare, and I was curious whether you could truly \"vibe code\" the...",
+      "tags": [
+        "ai",
+        "programming",
+        "javascript",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
+      "source": "Dev.to",
+      "user": "Sunil Kumar Dash"
+    },
+    {
+      "title": "Nike Was Right: The Only Coding Advice You Actually Need",
+      "url": "https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih",
+      "published_at": "2026-02-16T13:03:45Z",
+      "description": "I am pretty sure anyone who opens this would wonder what a shoe brand has got to do with coding? But...",
+      "tags": [
+        "watercooler",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy5am8fqg8f5xho7sxc3j.png",
+      "source": "Dev.to",
+      "user": "Maame Afua A. P. Fordjour "
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -1882,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "andyhuo520"
     },
     {
@@ -1957,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 716,
       "user": "HKUDS"
     },
     {
@@ -1972,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 593,
       "user": "aeromomo"
     },
     {
@@ -1987,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 406,
       "user": "MooseGoose0701"
     },
     {
@@ -2002,23 +2034,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 364,
       "user": "FireRedTeam"
     },
     {
-      "title": "zscole/model-hierarchy-skill - OpenClaw skill for cost-optimized model routing based on task complexity",
-      "url": "https://github.com/zscole/model-hierarchy-skill",
-      "published_at": "2026-02-11T23:54:32Z",
-      "description": "OpenClaw skill for cost-optimized model routing based on task complexity",
+      "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "url": "https://github.com/HKUDS/ClawWork",
+      "published_at": "2026-02-15T16:41:38Z",
+      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20308948?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 303,
-      "user": "zscole"
+      "stars": 314,
+      "user": "HKUDS"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -2032,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1011,
       "user": "RevylAI"
     },
     {
@@ -2047,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 784,
       "user": "mickamy"
     },
     {
@@ -2062,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 208,
       "user": "klawsh"
     },
     {
