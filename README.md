@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-16 9:00 CAT)
+## 📅 Latest Updates (2026-02-16 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd) _[Dev.to]_
 - [Handy Bit Manipulation Tricks](https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39) _[Dev.to]_
 
-_Last automated update: Mon, 16 Feb 2026 09:58:09 CAT_
+_Last automated update: Mon, 16 Feb 2026 10:55:48 CAT_
 
 
 
@@ -224,7 +224,18 @@ _Last automated update: Mon, 16 Feb 2026 09:58:09 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. NodeJS: How do you handle errors in async/await?
+
+**Difficulty**: Medium | **Topics**: error handling, async
+
+<details>
+<summary>💡 Hint</summary>
+
+try/catch, .catch(), error middleware
+
+</details>
+
+### 2. JavaScript: Explain event delegation and why it's useful
 
 **Difficulty**: Medium | **Topics**: events, DOM
 
@@ -235,25 +246,14 @@ Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
-
-<details>
-<summary>💡 Hint</summary>
-
-Sliding window, hash map, two pointers
-
-</details>
-
-### 3. DataStructures: Find the longest substring without repeating characters
-
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Feb 2026 07:58:09 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Feb 2026 08:55:48 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
