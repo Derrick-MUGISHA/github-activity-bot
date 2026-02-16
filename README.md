@@ -38,7 +38,7 @@
 
 **WebDev**: 🟦🟦🟦🟦 8 (7.6%)
 
-**Cloud**: 🟦🟦🟦🟦 8 (7.6%)
+**Cloud**: 🟦🟦🟦 7 (6.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-16 23:00 CAT)
+## 📅 Latest Updates (2026-02-17 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png" width="200" alt="I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows" />
+    <a href="https://dev.to/abahgat/the-ghost-in-the-training-set-496n">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png" width="200" alt="The Ghost in the Training Set" />
       <br/>
-      <b>I Built a CLI That Turns Claude Code's /insights R...</b>
+      <b>The Ghost in the Training Set</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,8 +200,8 @@ npm run test
 - [Do people still genuinely care about technical articles ?](https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk) _[Dev.to]_
 - [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml) _[Dev.to]_
 - [Building a Native-Feeling Theme System in SwiftUI](https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k) _[Dev.to]_
-- [I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows](https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377) _[Dev.to]_
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
+- [I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows](https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377) _[Dev.to]_
 - [I rebuilt OpenClaw from scratch without the security flaws](https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle) _[Dev.to]_
 - [Nike Was Right: The Only Coding Advice You Actually Need](https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih) _[Dev.to]_
 - [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3) _[Dev.to]_
 - [Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions](https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb) _[Dev.to]_
 
-_Last automated update: Mon, 16 Feb 2026 23:53:10 CAT_
+_Last automated update: Tue, 17 Feb 2026 00:24:15 CAT_
 
 
 
@@ -224,25 +224,25 @@ _Last automated update: Mon, 16 Feb 2026 23:53:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Feb 2026 21:53:10 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Feb 2026 22:24:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
