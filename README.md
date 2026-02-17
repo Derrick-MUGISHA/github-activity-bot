@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-17 22:00 CAT)
+## 📅 Latest Updates (2026-02-17 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftys3ri3yx1u704s4x1hh.png" width="200" alt="I'm Done With Magic. Here's What I Built Instead." />
+    <a href="https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg" width="200" alt="How My Team Aligns on Prompting for Production" />
       <br/>
-      <b>I'm Done With Magic. Here's What I Built Instead.</b>
+      <b>How My Team Aligns on Prompting for Production</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg" width="200" alt="How My Team Aligns on Prompting for Production" />
+    <a href="https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftys3ri3yx1u704s4x1hh.png" width="200" alt="I'm Done With Magic. Here's What I Built Instead." />
       <br/>
-      <b>How My Team Aligns on Prompting for Production</b>
+      <b>I'm Done With Magic. Here's What I Built Instead.</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,8 +199,8 @@ npm run test
 - [Introducing Our Next DEV Education Track: "Build Multi-Agent Systems with ADK"](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8) _[Dev.to]_
 - [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-44jk) _[Dev.to]_
-- [I'm Done With Magic. Here's What I Built Instead.](https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988) _[Dev.to]_
 - [How My Team Aligns on Prompting for Production](https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf) _[Dev.to]_
+- [I'm Done With Magic. Here's What I Built Instead.](https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988) _[Dev.to]_
 - [Do people still genuinely care about technical articles ?](https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
@@ -213,10 +213,10 @@ npm run test
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 - [Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)](https://dev.to/shofol/adding-web-analytics-on-vercel-is-easier-than-ever-free-built-in-57bl) _[Dev.to]_
 - [Software engineering is not dead](https://dev.to/juan1003/software-engineering-is-not-dead-5flc) _[Dev.to]_
-- [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) _[Dev.to]_
 - [I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows](https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377) _[Dev.to]_
+- [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) _[Dev.to]_
 
-_Last automated update: Tue, 17 Feb 2026 22:33:12 CAT_
+_Last automated update: Tue, 17 Feb 2026 23:18:57 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 17 Feb 2026 22:33:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Execution timing, event loop phases
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Feb 2026 20:33:12 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Feb 2026 21:18:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
