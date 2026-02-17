@@ -340,36 +340,6 @@
       "user": "Yann Rabiller"
     },
     {
-      "title": "I rebuilt OpenClaw from scratch without the security flaws",
-      "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
-      "published_at": "2026-02-16T10:33:21Z",
-      "description": "OpenClaw launched with great fanfare, and I was curious whether you could truly \"vibe code\" the...",
-      "tags": [
-        "ai",
-        "programming",
-        "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
-      "source": "Dev.to",
-      "user": "Sunil Kumar Dash"
-    },
-    {
-      "title": "Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover",
-      "url": "https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l",
-      "published_at": "2026-02-03T16:42:03Z",
-      "description": "Learn how to build a production-ready streaming AI chatbot without managing WebSockets, timeouts, or heavy infra. This Node.js + React example uses async requests, webhooks for enrichment, automatic failover, structured outputs, and local CLI dev magic – perfect for local LLMs or hybrid setups.",
-      "tags": [
-        "ai",
-        "llm",
-        "tutorial",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fobiudf00y4joobgomxzm.png",
-      "source": "Dev.to",
-      "user": "Akarsh Cholapurath"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -528,7 +498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "marswei"
     },
     {
@@ -558,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1516,
       "user": "HKUDS"
     },
     {
@@ -588,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 416,
       "user": "klawsh"
     },
     {
@@ -862,36 +832,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "I rebuilt OpenClaw from scratch without the security flaws",
-      "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
-      "published_at": "2026-02-16T10:33:21Z",
-      "description": "OpenClaw launched with great fanfare, and I was curious whether you could truly \"vibe code\" the...",
-      "tags": [
-        "ai",
-        "programming",
-        "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
-      "source": "Dev.to",
-      "user": "Sunil Kumar Dash"
-    },
-    {
-      "title": "Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover",
-      "url": "https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l",
-      "published_at": "2026-02-03T16:42:03Z",
-      "description": "Learn how to build a production-ready streaming AI chatbot without managing WebSockets, timeouts, or heavy infra. This Node.js + React example uses async requests, webhooks for enrichment, automatic failover, structured outputs, and local CLI dev magic – perfect for local LLMs or hybrid setups.",
-      "tags": [
-        "ai",
-        "llm",
-        "tutorial",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fobiudf00y4joobgomxzm.png",
-      "source": "Dev.to",
-      "user": "Akarsh Cholapurath"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1038,7 +978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "marswei"
     },
     {
@@ -1072,19 +1012,19 @@
       "user": "TheGreatAzizi"
     },
     {
-      "title": "ancsemi/Haven - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "url": "https://github.com/ancsemi/Haven",
-      "published_at": "2026-02-11T05:16:20Z",
-      "description": "Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "url": "https://github.com/gxjansen/claude-code-meter",
+      "published_at": "2026-02-15T10:44:13Z",
+      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
       "source": "GitHub",
       "stars": 79,
-      "user": "ancsemi"
+      "user": "gxjansen"
     }
   ],
   "Python": [
@@ -1263,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1516,
       "user": "HKUDS"
     },
     {
@@ -1278,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 784,
       "user": "HKUDS"
     },
     {
@@ -1293,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "MooseGoose0701"
     },
     {
@@ -1308,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "Mathews-Tom"
     },
     {
@@ -1600,21 +1540,6 @@
       "user": "Jawad Elhaouchi"
     },
     {
-      "title": "I rebuilt OpenClaw from scratch without the security flaws",
-      "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
-      "published_at": "2026-02-16T10:33:21Z",
-      "description": "OpenClaw launched with great fanfare, and I was curious whether you could truly \"vibe code\" the...",
-      "tags": [
-        "ai",
-        "programming",
-        "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
-      "source": "Dev.to",
-      "user": "Sunil Kumar Dash"
-    },
-    {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
       "published_at": "2025-08-21T12:53:16Z",
@@ -1642,21 +1567,6 @@
       "user": "TheGreatAzizi"
     },
     {
-      "title": "ancsemi/Haven - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "url": "https://github.com/ancsemi/Haven",
-      "published_at": "2026-02-11T05:16:20Z",
-      "description": "Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "ancsemi"
-    },
-    {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
       "url": "https://github.com/klawsh/klaw.sh",
       "published_at": "2026-02-15T04:18:19Z",
@@ -1668,7 +1578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 416,
       "user": "klawsh"
     }
   ],
@@ -1712,7 +1622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 864,
       "user": "mickamy"
     },
     {
@@ -1776,21 +1686,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
       "source": "Dev.to",
       "user": "Natnael Getenew"
-    },
-    {
-      "title": "I rebuilt OpenClaw from scratch without the security flaws",
-      "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
-      "published_at": "2026-02-16T10:33:21Z",
-      "description": "OpenClaw launched with great fanfare, and I was curious whether you could truly \"vibe code\" the...",
-      "tags": [
-        "ai",
-        "programming",
-        "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
-      "source": "Dev.to",
-      "user": "Sunil Kumar Dash"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1999,21 +1894,6 @@
       "user": "Yann Rabiller"
     },
     {
-      "title": "I rebuilt OpenClaw from scratch without the security flaws",
-      "url": "https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle",
-      "published_at": "2026-02-16T10:33:21Z",
-      "description": "OpenClaw launched with great fanfare, and I was curious whether you could truly \"vibe code\" the...",
-      "tags": [
-        "ai",
-        "programming",
-        "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyw97vpy7f146e3ijumv.png",
-      "source": "Dev.to",
-      "user": "Sunil Kumar Dash"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -2040,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "marswei"
     },
     {
@@ -2074,19 +1954,19 @@
       "user": "TheGreatAzizi"
     },
     {
-      "title": "ancsemi/Haven - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "url": "https://github.com/ancsemi/Haven",
-      "published_at": "2026-02-11T05:16:20Z",
-      "description": "Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "url": "https://github.com/gxjansen/claude-code-meter",
+      "published_at": "2026-02-15T10:44:13Z",
+      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
       "source": "GitHub",
       "stars": 79,
-      "user": "ancsemi"
+      "user": "gxjansen"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -2100,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1516,
       "user": "HKUDS"
     },
     {
@@ -2115,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 784,
       "user": "HKUDS"
     },
     {
@@ -2130,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "MooseGoose0701"
     },
     {
@@ -2145,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "Mathews-Tom"
     },
     {
@@ -2190,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 864,
       "user": "mickamy"
     },
     {
@@ -2205,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 416,
       "user": "klawsh"
     },
     {
@@ -2220,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 280,
       "user": "pinchtab"
     },
     {
