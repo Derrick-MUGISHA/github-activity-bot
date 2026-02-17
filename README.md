@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-18 0:00 CAT)
+## 📅 Latest Updates (2026-02-18 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 - [Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)](https://dev.to/shofol/adding-web-analytics-on-vercel-is-easier-than-ever-free-built-in-57bl) _[Dev.to]_
 
-_Last automated update: Wed, 18 Feb 2026 00:35:15 CAT_
+_Last automated update: Wed, 18 Feb 2026 01:05:29 CAT_
 
 
 
@@ -224,29 +224,7 @@ _Last automated update: Wed, 18 Feb 2026 00:35:15 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
-
-**Difficulty**: Medium | **Topics**: hooks, functional components
-
-<details>
-<summary>💡 Hint</summary>
-
-State in functional components, reusable logic, cleaner code
-
-</details>
-
-### 2. Python: Implement a context manager using __enter__ and __exit__
-
-**Difficulty**: Hard | **Topics**: context managers, resource management
-
-<details>
-<summary>💡 Hint</summary>
-
-with statement, setup/teardown, exception handling
-
-</details>
-
-### 3. Database: Design a database schema for a social media platform
+### 1. Database: Design a database schema for a social media platform
 
 **Difficulty**: Hard | **Topics**: design, scalability
 
@@ -254,6 +232,28 @@ with statement, setup/teardown, exception handling
 <summary>💡 Hint</summary>
 
 Users, posts, relationships, indexes, partitioning
+
+</details>
+
+### 2. JavaScript: What are closures and provide a practical example?
+
+**Difficulty**: Medium | **Topics**: functions, scope
+
+<details>
+<summary>💡 Hint</summary>
+
+Function + lexical environment, data privacy, callbacks
+
+</details>
+
+### 3. Python: What are generators and when would you use them?
+
+**Difficulty**: Medium | **Topics**: iterators, memory
+
+<details>
+<summary>💡 Hint</summary>
+
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Feb 2026 22:35:15 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Feb 2026 23:05:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
