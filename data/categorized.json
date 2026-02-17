@@ -469,7 +469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 343,
       "user": "andyhuo520"
     },
     {
@@ -484,7 +484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 141,
       "user": "marswei"
     },
     {
@@ -514,7 +514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 952,
       "user": "HKUDS"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 361,
       "user": "klawsh"
     },
     {
@@ -559,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 109,
       "user": "Gentleman-Programming"
     }
   ],
@@ -949,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 343,
       "user": "andyhuo520"
     },
     {
@@ -964,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 141,
       "user": "marswei"
     },
     {
@@ -998,19 +998,19 @@
       "user": "TheGreatAzizi"
     },
     {
-      "title": "ancsemi/Haven - Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "url": "https://github.com/ancsemi/Haven",
-      "published_at": "2026-02-11T05:16:20Z",
-      "description": "Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "url": "https://github.com/gxjansen/claude-code-meter",
+      "published_at": "2026-02-15T10:44:13Z",
+      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
       "source": "GitHub",
       "stars": 75,
-      "user": "ancsemi"
+      "user": "gxjansen"
     }
   ],
   "Python": [
@@ -1204,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 952,
       "user": "HKUDS"
     },
     {
@@ -1219,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 752,
       "user": "HKUDS"
     },
     {
@@ -1234,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 492,
       "user": "MooseGoose0701"
     },
     {
@@ -1264,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 373,
       "user": "Mathews-Tom"
     }
   ],
@@ -1592,21 +1592,6 @@
       "user": "TheGreatAzizi"
     },
     {
-      "title": "ancsemi/Haven - Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "url": "https://github.com/ancsemi/Haven",
-      "published_at": "2026-02-11T05:16:20Z",
-      "description": "Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
-      "source": "GitHub",
-      "stars": 75,
-      "user": "ancsemi"
-    },
-    {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
       "url": "https://github.com/klawsh/klaw.sh",
       "published_at": "2026-02-15T04:18:19Z",
@@ -1618,7 +1603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 361,
       "user": "klawsh"
     }
   ],
@@ -1677,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 109,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1756,20 +1741,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Remember Your First Computer Book?",
-      "url": "https://dev.to/richardpascoe/remember-your-first-computer-book-4fml",
-      "published_at": "2026-02-13T08:00:08Z",
-      "description": "We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...",
-      "tags": [
-        "discuss",
-        "community",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png",
-      "source": "Dev.to",
-      "user": "Richard Pascoe"
-    },
     {
       "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
       "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
@@ -1973,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 343,
       "user": "andyhuo520"
     },
     {
@@ -1988,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 141,
       "user": "marswei"
     },
     {
@@ -2022,19 +1993,19 @@
       "user": "TheGreatAzizi"
     },
     {
-      "title": "ancsemi/Haven - Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "url": "https://github.com/ancsemi/Haven",
-      "published_at": "2026-02-11T05:16:20Z",
-      "description": "Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "url": "https://github.com/gxjansen/claude-code-meter",
+      "published_at": "2026-02-15T10:44:13Z",
+      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
       "source": "GitHub",
       "stars": 75,
-      "user": "ancsemi"
+      "user": "gxjansen"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -2048,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 952,
       "user": "HKUDS"
     },
     {
@@ -2063,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 752,
       "user": "HKUDS"
     },
     {
@@ -2078,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 492,
       "user": "MooseGoose0701"
     },
     {
@@ -2108,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 373,
       "user": "Mathews-Tom"
     },
     {
@@ -2153,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 361,
       "user": "klawsh"
     },
     {
@@ -2168,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 225,
       "user": "pinchtab"
     },
     {
@@ -2183,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 109,
       "user": "Gentleman-Programming"
     }
   ]
