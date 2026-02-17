@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -12,10 +12,10 @@
     "DevOps": 3,
     "WebDev": 9,
     "Mobile": 3,
-    "Cloud": 9,
+    "Cloud": 8,
     "Database": 4,
     "Security": 5,
-    "Tools": 29
+    "Tools": 28
   },
   "by_language": {
     "JavaScript": 32,
@@ -28,11 +28,11 @@
   },
   "by_date": {
     "2026-02-16": 11,
-    "2026-02-13": 10,
-    "2026-02-15": 10,
+    "2026-02-15": 11,
+    "2026-02-13": 9,
     "2026-02-12": 6,
     "2026-02-10": 6,
-    "2026-02-11": 9,
+    "2026-02-11": 8,
     "2026-02-14": 3,
     "2026-02-08": 4,
     "2026-02-09": 6,
@@ -78,18 +78,18 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "discuss": 9,
     "python": 9,
+    "discuss": 8,
     "programming": 7,
     "productivity": 6,
-    "learning": 5,
     "typescript": 5,
     "go": 5,
     "react": 4,
-    "community": 4,
     "frontend": 4,
     "opensource": 4,
-    "tutorial": 4
+    "learning": 4,
+    "tutorial": 4,
+    "watercooler": 3
   },
   "trending_topics": [],
   "language_percentages": {
