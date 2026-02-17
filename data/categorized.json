@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
+      "published_at": "2026-02-17T12:42:44Z",
+      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
+      "tags": [
+        "softwareengineering",
+        "career",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
+      "source": "Dev.to",
+      "user": "NorthernDev"
+    },
+    {
       "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
       "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
       "published_at": "2026-02-17T18:27:56Z",
@@ -73,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68q3zny08k573e6dp5la.png",
       "source": "Dev.to",
       "user": "aj1thkr1sh"
+    },
+    {
+      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
+      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
+      "published_at": "2026-02-15T16:13:01Z",
+      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+      "tags": [
+        "ai",
+        "career",
+        "productivity",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -498,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "marswei"
     },
     {
@@ -528,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1516,
+      "stars": 1534,
       "user": "HKUDS"
     },
     {
@@ -543,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1047,
       "user": "RevylAI"
     },
     {
@@ -558,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "klawsh"
     },
     {
@@ -573,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "Gentleman-Programming"
     }
   ],
@@ -978,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "marswei"
     },
     {
@@ -1012,19 +1042,19 @@
       "user": "TheGreatAzizi"
     },
     {
-      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
-      "url": "https://github.com/gxjansen/claude-code-meter",
-      "published_at": "2026-02-15T10:44:13Z",
-      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "title": "ancsemi/Haven - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "url": "https://github.com/ancsemi/Haven",
+      "published_at": "2026-02-11T05:16:20Z",
+      "description": "Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
       "source": "GitHub",
-      "stars": 79,
-      "user": "gxjansen"
+      "stars": 80,
+      "user": "ancsemi"
     }
   ],
   "Python": [
@@ -1203,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1516,
+      "stars": 1534,
       "user": "HKUDS"
     },
     {
@@ -1218,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 785,
       "user": "HKUDS"
     },
     {
@@ -1233,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 586,
       "user": "MooseGoose0701"
     },
     {
@@ -1248,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "Mathews-Tom"
     },
     {
@@ -1567,6 +1597,21 @@
       "user": "TheGreatAzizi"
     },
     {
+      "title": "ancsemi/Haven - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "url": "https://github.com/ancsemi/Haven",
+      "published_at": "2026-02-11T05:16:20Z",
+      "description": "Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "ancsemi"
+    },
+    {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
       "url": "https://github.com/klawsh/klaw.sh",
       "published_at": "2026-02-15T04:18:19Z",
@@ -1578,7 +1623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "klawsh"
     }
   ],
@@ -1622,7 +1667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 866,
       "user": "mickamy"
     },
     {
@@ -1637,7 +1682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1702,6 +1747,21 @@
   ],
   "Tools": [
     {
+      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
+      "published_at": "2026-02-17T12:42:44Z",
+      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
+      "tags": [
+        "softwareengineering",
+        "career",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
+      "source": "Dev.to",
+      "user": "NorthernDev"
+    },
+    {
       "title": "How My Team Aligns on Prompting for Production",
       "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
       "published_at": "2026-02-17T16:53:46Z",
@@ -1715,6 +1775,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
       "source": "Dev.to",
       "user": "Adam Ross"
+    },
+    {
+      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
+      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
+      "published_at": "2026-02-15T16:13:01Z",
+      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+      "tags": [
+        "ai",
+        "career",
+        "productivity",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -1775,21 +1850,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
       "source": "Dev.to",
       "user": "Tom Yahav"
-    },
-    {
-      "title": "I Built a TUI That Makes Rust Code Inspection Feel Like Magic ✨",
-      "url": "https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k",
-      "published_at": "2026-02-15T22:34:42Z",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge           The \"Why Did I Build This?\"...",
-      "tags": [
-        "githubchallenge",
-        "githubcopilot",
-        "tui",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq0bi6zqbuhsrztr5y8r.jpg",
-      "source": "Dev.to",
-      "user": "Yash Kumar Saini"
     },
     {
       "title": "Why I built yet another release tool for npm",
@@ -1920,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "marswei"
     },
     {
@@ -1954,19 +2014,19 @@
       "user": "TheGreatAzizi"
     },
     {
-      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
-      "url": "https://github.com/gxjansen/claude-code-meter",
-      "published_at": "2026-02-15T10:44:13Z",
-      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "title": "ancsemi/Haven - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "url": "https://github.com/ancsemi/Haven",
+      "published_at": "2026-02-11T05:16:20Z",
+      "description": "Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
       "source": "GitHub",
-      "stars": 79,
-      "user": "gxjansen"
+      "stars": 80,
+      "user": "ancsemi"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -1980,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1516,
+      "stars": 1534,
       "user": "HKUDS"
     },
     {
@@ -1995,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 785,
       "user": "HKUDS"
     },
     {
@@ -2010,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 586,
       "user": "MooseGoose0701"
     },
     {
@@ -2025,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "Mathews-Tom"
     },
     {
@@ -2055,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1047,
       "user": "RevylAI"
     },
     {
@@ -2070,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 866,
       "user": "mickamy"
     },
     {
@@ -2085,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "klawsh"
     },
     {
@@ -2100,7 +2160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 285,
       "user": "pinchtab"
     },
     {
@@ -2115,7 +2175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "Gentleman-Programming"
     }
   ]
