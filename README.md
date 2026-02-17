@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-17 17:00 CAT)
+## 📅 Latest Updates (2026-02-17 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -133,19 +133,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-44jk">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5cwtea00s6cziuged4f.webp" width="200" alt="Meme Monday" />
+    <a href="https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feifm5cpen8arsfq86w8x.png" width="200" alt="How a DEV Friend and I Brought Two Avatars to Life" />
       <br/>
-      <b>Meme Monday</b>
+      <b>How a DEV Friend and I Brought Two Avatars to Life</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feifm5cpen8arsfq86w8x.png" width="200" alt="How a DEV Friend and I Brought Two Avatars to Life" />
+    <a href="https://dev.to/ben/meme-monday-44jk">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5cwtea00s6cziuged4f.webp" width="200" alt="Meme Monday" />
       <br/>
-      <b>How a DEV Friend and I Brought Two Avatars to Life</b>
+      <b>Meme Monday</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwjqfv0z5cxm9a18nfp5.png" width="200" alt="Building a Native-Feeling Theme System in SwiftUI" />
+    <a href="https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png" width="200" alt="Do people still genuinely care about technical articles ?" />
       <br/>
-      <b>Building a Native-Feeling Theme System in SwiftUI</b>
+      <b>Do people still genuinely care about technical art...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png" width="200" alt="Do people still genuinely care about technical articles ?" />
+    <a href="https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwjqfv0z5cxm9a18nfp5.png" width="200" alt="Building a Native-Feeling Theme System in SwiftUI" />
       <br/>
-      <b>Do people still genuinely care about technical art...</b>
+      <b>Building a Native-Feeling Theme System in SwiftUI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,12 +195,12 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Meme Monday](https://dev.to/ben/meme-monday-44jk) _[Dev.to]_
 - [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-44jk) _[Dev.to]_
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 - [I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows](https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377) _[Dev.to]_
-- [Building a Native-Feeling Theme System in SwiftUI](https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k) _[Dev.to]_
 - [Do people still genuinely care about technical articles ?](https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk) _[Dev.to]_
+- [Building a Native-Feeling Theme System in SwiftUI](https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k) _[Dev.to]_
 - [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle) _[Dev.to]_
 - [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak) _[Dev.to]_
 - [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [I Built a TUI That Makes Rust Code Inspection Feel Like Magic ✨](https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 
-_Last automated update: Tue, 17 Feb 2026 17:05:46 CAT_
+_Last automated update: Tue, 17 Feb 2026 18:07:56 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 17 Feb 2026 17:05:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Heap, stack, garbage collection
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Feb 2026 15:05:46 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Feb 2026 16:07:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
