@@ -46,6 +46,20 @@
       "user": "Sem Gebresilassie"
     },
     {
+      "title": "Do people still genuinely care about technical articles ?",
+      "url": "https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk",
+      "published_at": "2026-02-15T23:42:17Z",
+      "description": "AI has spread like wildfire. In software development especially, it’s changing how we learn and solve...",
+      "tags": [
+        "community",
+        "discuss",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png",
+      "source": "Dev.to",
+      "user": "Makanju Oluwafemi"
+    },
+    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -59,20 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "David Alcala"
-    },
-    {
-      "title": "Do people still genuinely care about technical articles ?",
-      "url": "https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk",
-      "published_at": "2026-02-15T23:42:17Z",
-      "description": "AI has spread like wildfire. In software development especially, it’s changing how we learn and solve...",
-      "tags": [
-        "community",
-        "discuss",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png",
-      "source": "Dev.to",
-      "user": "Makanju Oluwafemi"
     },
     {
       "title": "I rebuilt OpenClaw from scratch without the security flaws",
@@ -484,7 +484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "marswei"
     },
     {
@@ -514,7 +514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1042,
       "user": "HKUDS"
     },
     {
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1033,
       "user": "RevylAI"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 368,
       "user": "klawsh"
     },
     {
@@ -559,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 117,
       "user": "Gentleman-Programming"
     }
   ],
@@ -964,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "marswei"
     },
     {
@@ -1204,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1042,
       "user": "HKUDS"
     },
     {
@@ -1234,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 507,
       "user": "MooseGoose0701"
     },
     {
@@ -1264,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "Mathews-Tom"
     }
   ],
@@ -1618,7 +1618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 368,
       "user": "klawsh"
     }
   ],
@@ -1662,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 830,
       "user": "mickamy"
     },
     {
@@ -1677,7 +1677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 117,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "marswei"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1042,
       "user": "HKUDS"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 507,
       "user": "MooseGoose0701"
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "Mathews-Tom"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1033,
       "user": "RevylAI"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 830,
       "user": "mickamy"
     },
     {
@@ -2139,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 368,
       "user": "klawsh"
     },
     {
@@ -2154,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 234,
       "user": "pinchtab"
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 117,
       "user": "Gentleman-Programming"
     }
   ]
