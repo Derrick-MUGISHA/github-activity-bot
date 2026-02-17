@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-17 21:00 CAT)
+## 📅 Latest Updates (2026-02-17 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) _[Dev.to]_
 - [I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows](https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377) _[Dev.to]_
 
-_Last automated update: Tue, 17 Feb 2026 21:54:06 CAT_
+_Last automated update: Tue, 17 Feb 2026 22:33:12 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 17 Feb 2026 21:54:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Feb 2026 19:54:06 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Feb 2026 20:33:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
