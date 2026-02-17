@@ -251,21 +251,6 @@
       "user": "David Dias"
     },
     {
-      "title": "Native CSS Utilities",
-      "url": "https://dev.to/fylgja/native-css-utilities-297j",
-      "published_at": "2026-02-05T10:04:30Z",
-      "description": "With every passing year, CSS becomes more powerful. The last few have brought amazing additions that...",
-      "tags": [
-        "fylgjacss",
-        "tailwindcss",
-        "css",
-        "cssprops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcqxmdl3ilxwk0meuy4qp.webp",
-      "source": "Dev.to",
-      "user": "Sean van Zuidam"
-    },
-    {
       "title": "What is a CaaS Platform and why we built one",
       "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
       "published_at": "2026-02-09T03:16:00Z",
@@ -324,6 +309,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3s6fbfunfzyq0b96iern.png",
       "source": "Dev.to",
       "user": "Favour Afolayan"
+    },
+    {
+      "title": "THE NEW WEB",
+      "url": "https://dev.to/arber/the-new-web-2kac",
+      "published_at": "2026-02-14T00:39:23Z",
+      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
+      "tags": [
+        "ai",
+        "mcp",
+        "webmcp",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
+      "source": "Dev.to",
+      "user": "Arber"
     },
     {
       "title": "Airfoil",
@@ -469,7 +469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "andyhuo520"
     },
     {
@@ -484,7 +484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "marswei"
     },
     {
@@ -514,7 +514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1120,
       "user": "HKUDS"
     },
     {
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1036,
       "user": "RevylAI"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "klawsh"
     },
     {
@@ -559,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "Gentleman-Programming"
     }
   ],
@@ -949,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "andyhuo520"
     },
     {
@@ -964,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "marswei"
     },
     {
@@ -1009,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "ancsemi"
     }
   ],
@@ -1204,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1120,
       "user": "HKUDS"
     },
     {
@@ -1219,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 758,
       "user": "HKUDS"
     },
     {
@@ -1234,8 +1234,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 520,
       "user": "MooseGoose0701"
+    },
+    {
+      "title": "Mathews-Tom/no-magic - Because `model.fit()` isn't an explanation",
+      "url": "https://github.com/Mathews-Tom/no-magic",
+      "published_at": "2026-02-13T11:54:34Z",
+      "description": "Because `model.fit()` isn't an explanation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
+      "source": "GitHub",
+      "stars": 388,
+      "user": "Mathews-Tom"
     },
     {
       "title": "FireRedTeam/FireRed-Image-Edit - GitHub Repository",
@@ -1251,21 +1266,6 @@
       "source": "GitHub",
       "stars": 387,
       "user": "FireRedTeam"
-    },
-    {
-      "title": "Mathews-Tom/no-magic - Because `model.fit()` isn't an explanation",
-      "url": "https://github.com/Mathews-Tom/no-magic",
-      "published_at": "2026-02-13T11:54:34Z",
-      "description": "Because `model.fit()` isn't an explanation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
-      "source": "GitHub",
-      "stars": 384,
-      "user": "Mathews-Tom"
     }
   ],
   "DevOps": [
@@ -1361,21 +1361,6 @@
       "user": "Fabien Sebban"
     },
     {
-      "title": "Native CSS Utilities",
-      "url": "https://dev.to/fylgja/native-css-utilities-297j",
-      "published_at": "2026-02-05T10:04:30Z",
-      "description": "With every passing year, CSS becomes more powerful. The last few have brought amazing additions that...",
-      "tags": [
-        "fylgjacss",
-        "tailwindcss",
-        "css",
-        "cssprops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcqxmdl3ilxwk0meuy4qp.webp",
-      "source": "Dev.to",
-      "user": "Sean van Zuidam"
-    },
-    {
       "title": "Why Visual Metaphors Might Beat Code-First Thinking",
       "url": "https://dev.to/egregor2011/why-visual-metaphors-might-beat-code-first-thinking-26bh",
       "published_at": "2026-02-08T17:34:53Z",
@@ -1431,6 +1416,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdx7ub1z79tf8ecxnpqzu.png",
       "source": "Dev.to",
       "user": "Krzysztof Żuraw"
+    },
+    {
+      "title": "THE NEW WEB",
+      "url": "https://dev.to/arber/the-new-web-2kac",
+      "published_at": "2026-02-14T00:39:23Z",
+      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
+      "tags": [
+        "ai",
+        "mcp",
+        "webmcp",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
+      "source": "Dev.to",
+      "user": "Arber"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1603,7 +1603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "ancsemi"
     },
     {
@@ -1618,7 +1618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "klawsh"
     }
   ],
@@ -1662,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 834,
       "user": "mickamy"
     },
     {
@@ -1677,7 +1677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1903,6 +1903,20 @@
       "user": "David Dias"
     },
     {
+      "title": "Remember Your First Computer Book?",
+      "url": "https://dev.to/richardpascoe/remember-your-first-computer-book-4fml",
+      "published_at": "2026-02-13T08:00:08Z",
+      "description": "We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...",
+      "tags": [
+        "discuss",
+        "community",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png",
+      "source": "Dev.to",
+      "user": "Richard Pascoe"
+    },
+    {
       "title": "Introducing XRest: A Service-First REST Client for Microservices Teams",
       "url": "https://dev.to/akdevblog/introducing-xrest-a-service-first-rest-client-for-microservices-teams-ffm",
       "published_at": "2026-02-03T22:55:08Z",
@@ -1948,6 +1962,21 @@
       "user": "Anna Villarreal"
     },
     {
+      "title": "THE NEW WEB",
+      "url": "https://dev.to/arber/the-new-web-2kac",
+      "published_at": "2026-02-14T00:39:23Z",
+      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
+      "tags": [
+        "ai",
+        "mcp",
+        "webmcp",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
+      "source": "Dev.to",
+      "user": "Arber"
+    },
+    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1959,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "andyhuo520"
     },
     {
@@ -1974,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "marswei"
     },
     {
@@ -2019,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "ancsemi"
     },
     {
@@ -2034,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1120,
       "user": "HKUDS"
     },
     {
@@ -2049,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 758,
       "user": "HKUDS"
     },
     {
@@ -2064,8 +2093,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 520,
       "user": "MooseGoose0701"
+    },
+    {
+      "title": "Mathews-Tom/no-magic - Because `model.fit()` isn't an explanation",
+      "url": "https://github.com/Mathews-Tom/no-magic",
+      "published_at": "2026-02-13T11:54:34Z",
+      "description": "Because `model.fit()` isn't an explanation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
+      "source": "GitHub",
+      "stars": 388,
+      "user": "Mathews-Tom"
     },
     {
       "title": "FireRedTeam/FireRed-Image-Edit - GitHub Repository",
@@ -2083,21 +2127,6 @@
       "user": "FireRedTeam"
     },
     {
-      "title": "Mathews-Tom/no-magic - Because `model.fit()` isn't an explanation",
-      "url": "https://github.com/Mathews-Tom/no-magic",
-      "published_at": "2026-02-13T11:54:34Z",
-      "description": "Because `model.fit()` isn't an explanation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
-      "source": "GitHub",
-      "stars": 384,
-      "user": "Mathews-Tom"
-    },
-    {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
       "url": "https://github.com/RevylAI/greenlight",
       "published_at": "2026-02-11T22:54:47Z",
@@ -2109,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1036,
       "user": "RevylAI"
     },
     {
@@ -2124,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 834,
       "user": "mickamy"
     },
     {
@@ -2139,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "klawsh"
     },
     {
@@ -2154,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 239,
       "user": "pinchtab"
     },
     {
@@ -2169,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "Gentleman-Programming"
     }
   ]

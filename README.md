@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-17-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 40 (38.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 40 (38.1%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**WebDev**: 🟦🟦🟦🟦🟦 9 (8.7%)
+**WebDev**: 🟦🟦🟦🟦🟦 9 (8.6%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 9 (8.7%)
+**Cloud**: 🟦🟦🟦🟦🟦 9 (8.6%)
 
 **Security**: 🟦🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-14-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![react](https://img.shields.io/badge/react-4-blue) 
+![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-14-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![learning](https://img.shields.io/badge/learning-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-17 13:00 CAT)
+## 📅 Latest Updates (2026-02-17 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions](https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb) _[Dev.to]_
 - [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
 
-_Last automated update: Tue, 17 Feb 2026 13:54:29 CAT_
+_Last automated update: Tue, 17 Feb 2026 14:56:25 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 17 Feb 2026 13:54:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Feb 2026 11:54:29 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Feb 2026 12:56:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
