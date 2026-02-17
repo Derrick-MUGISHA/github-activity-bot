@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "How My Team Aligns on Prompting for Production",
+      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+      "published_at": "2026-02-17T16:53:46Z",
+      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+      "tags": [
+        "ai",
+        "devops",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
+      "source": "Dev.to",
+      "user": "Adam Ross"
+    },
+    {
       "title": "The Ghost in the Training Set",
       "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
       "published_at": "2026-02-16T20:10:18Z",
@@ -29,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
       "source": "Dev.to",
       "user": "Tom Yahav"
+    },
+    {
+      "title": "CNN-LSTM Hybrid Architecture for Thanglish-to-Tamil : Bridging 26 Letters to 247 Characters",
+      "url": "https://dev.to/aj1thkr1sh/cnn-lstm-hybrid-architecture-for-thanglish-to-tamil-bridging-26-letters-to-247-characters-j4n",
+      "published_at": "2026-02-17T07:13:24Z",
+      "description": "Built a CNN-LSTM hybrid architecture for Thanglish-to-Tamil transliteration that outperforms BiGRU+Attention while being 16x smaller—proving that 1D convolutions can efficiently capture local n-gram patterns for character-level sequence tasks. Sometimes the simplest architecture wins when it aligns with the problem's inherent structure 🚀",
+      "tags": [
+        "cnn",
+        "lstm",
+        "ai",
+        "tamil"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68q3zny08k573e6dp5la.png",
+      "source": "Dev.to",
+      "user": "aj1thkr1sh"
     },
     {
       "title": "Do people still genuinely care about technical articles ?",
@@ -73,6 +103,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "David Alcala"
+    },
+    {
+      "title": "Software engineering is not dead",
+      "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
+      "published_at": "2026-02-16T23:29:28Z",
+      "description": "Lately, my LinkedIn feed has become an echo chamber of AI evangelists worshiping at the altar of the...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
+      "source": "Dev.to",
+      "user": "Juan G De Jesus Torres"
+    },
+    {
+      "title": "HJX: Rethinking the Web for the AI Era",
+      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
+      "published_at": "2026-02-17T04:40:08Z",
+      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
+      "tags": [
+        "ai",
+        "frontend",
+        "web",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
+      "source": "Dev.to",
+      "user": "Loaiabdalslam"
     },
     {
       "title": "But what exactly is an AI agent?",
@@ -296,36 +355,6 @@
       "user": "Akarsh Cholapurath"
     },
     {
-      "title": "AI isn't taking our jobs — It's taking our illusions",
-      "url": "https://dev.to/igbominadeveloper/ai-isnt-take-our-jobs-its-taking-our-illusions-138j",
-      "published_at": "2026-02-03T17:17:41Z",
-      "description": "There’s a growing sentiment that software engineers shouldn’t tie their identity too closely to their...",
-      "tags": [
-        "ai",
-        "career",
-        "discuss",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3s6fbfunfzyq0b96iern.png",
-      "source": "Dev.to",
-      "user": "Favour Afolayan"
-    },
-    {
-      "title": "THE NEW WEB",
-      "url": "https://dev.to/arber/the-new-web-2kac",
-      "published_at": "2026-02-14T00:39:23Z",
-      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
-      "tags": [
-        "ai",
-        "mcp",
-        "webmcp",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
-      "source": "Dev.to",
-      "user": "Arber"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -469,7 +498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "andyhuo520"
     },
     {
@@ -484,7 +513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "marswei"
     },
     {
@@ -514,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1382,
       "user": "HKUDS"
     },
     {
@@ -529,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1045,
       "user": "RevylAI"
     },
     {
@@ -544,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "klawsh"
     },
     {
@@ -559,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 137,
       "user": "Gentleman-Programming"
     }
   ],
@@ -578,6 +607,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feifm5cpen8arsfq86w8x.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "I'm Done With Magic. Here's What I Built Instead.",
+      "url": "https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988",
+      "published_at": "2026-02-17T13:30:04Z",
+      "description": "The JavaScript ecosystem has a magic problem.  Not the fun kind. The kind where you stare at your...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "architecture",
+        "redux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftys3ri3yx1u704s4x1hh.png",
+      "source": "Dev.to",
+      "user": "Matteo Antony Mistretta"
     },
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
@@ -608,6 +652,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
+    },
+    {
+      "title": "Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)",
+      "url": "https://dev.to/shofol/adding-web-analytics-on-vercel-is-easier-than-ever-free-built-in-57bl",
+      "published_at": "2026-02-17T04:42:56Z",
+      "description": "Did you know that Vercel provides built-in web analytics that you can use even on the free plan?  In...",
+      "tags": [
+        "vercel",
+        "nextjs",
+        "analytics",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlc2fw3533schl5jn6au.png",
+      "source": "Dev.to",
+      "user": "Anower Jahan Shofol"
     },
     {
       "title": "Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2",
@@ -949,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "andyhuo520"
     },
     {
@@ -964,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "marswei"
     },
     {
@@ -1056,21 +1115,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
       "source": "Dev.to",
       "user": "Abhishek Mishra"
-    },
-    {
-      "title": "Happy Valentine's Day ❤",
-      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/happy-valentines-day-4la4",
-      "published_at": "2026-02-15T00:57:11Z",
-      "description": "import time  def send_love(peeps):     message = \"Happy Valentine's Day!\"     heart = \"💖\"      for...",
-      "tags": [
-        "python",
-        "coding",
-        "programming",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fleinq19vra234m134dux.png",
-      "source": "Dev.to",
-      "user": "Aaron Rose"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1204,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1382,
       "user": "HKUDS"
     },
     {
@@ -1219,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 772,
       "user": "HKUDS"
     },
     {
@@ -1234,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 558,
       "user": "MooseGoose0701"
     },
     {
@@ -1249,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 410,
       "user": "Mathews-Tom"
     },
     {
@@ -1269,6 +1313,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "How My Team Aligns on Prompting for Production",
+      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+      "published_at": "2026-02-17T16:53:46Z",
+      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+      "tags": [
+        "ai",
+        "devops",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
+      "source": "Dev.to",
+      "user": "Adam Ross"
+    },
     {
       "title": "Using Laravel Boost With DDEV",
       "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
@@ -1346,6 +1405,21 @@
       "user": "Sem Gebresilassie"
     },
     {
+      "title": "HJX: Rethinking the Web for the AI Era",
+      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
+      "published_at": "2026-02-17T04:40:08Z",
+      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
+      "tags": [
+        "ai",
+        "frontend",
+        "web",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
+      "source": "Dev.to",
+      "user": "Loaiabdalslam"
+    },
+    {
       "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
       "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
       "published_at": "2026-02-09T14:43:12Z",
@@ -1406,33 +1480,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "CSS aspect ratio property",
-      "url": "https://dev.to/kzuraw/css-aspect-ratio-property-4e7b",
-      "published_at": "2026-02-15T14:11:22Z",
-      "description": "I recently learned that I can use CSS aspect ratio property to tell browser how tall should image be...",
-      "tags": [
-        "css"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdx7ub1z79tf8ecxnpqzu.png",
-      "source": "Dev.to",
-      "user": "Krzysztof Żuraw"
-    },
-    {
-      "title": "THE NEW WEB",
-      "url": "https://dev.to/arber/the-new-web-2kac",
-      "published_at": "2026-02-14T00:39:23Z",
-      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
-      "tags": [
-        "ai",
-        "mcp",
-        "webmcp",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
-      "source": "Dev.to",
-      "user": "Arber"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1475,18 +1522,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Focscz47o1wxswnzbq3eb.png",
       "source": "Dev.to",
       "user": "Ryan Bae"
-    },
-    {
-      "title": "Multimodal Visual Understanding in Swift (aka: \"why is this still so hard on-device?\")",
-      "url": "https://dev.to/fosteman/multimodal-visual-understanding-in-swift-aka-why-is-this-still-so-hard-on-device-1n7j",
-      "published_at": "2026-02-06T13:24:35Z",
-      "description": "I’ve been spending a lot of time lately thinking about one thing: how to get good image-to-text...",
-      "tags": [
-        "swift"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1d4u7tdhh8wm80g4xq0.png",
-      "source": "Dev.to",
-      "user": "Timothy Fosteman"
     }
   ],
   "Cloud": [
@@ -1618,7 +1653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "klawsh"
     }
   ],
@@ -1662,7 +1697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 855,
       "user": "mickamy"
     },
     {
@@ -1677,7 +1712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 137,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1756,6 +1791,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "How My Team Aligns on Prompting for Production",
+      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+      "published_at": "2026-02-17T16:53:46Z",
+      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+      "tags": [
+        "ai",
+        "devops",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
+      "source": "Dev.to",
+      "user": "Adam Ross"
+    },
     {
       "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
       "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
@@ -1977,21 +2027,6 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "THE NEW WEB",
-      "url": "https://dev.to/arber/the-new-web-2kac",
-      "published_at": "2026-02-14T00:39:23Z",
-      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
-      "tags": [
-        "ai",
-        "mcp",
-        "webmcp",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
-      "source": "Dev.to",
-      "user": "Arber"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -2003,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "andyhuo520"
     },
     {
@@ -2018,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "marswei"
     },
     {
@@ -2078,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1382,
       "user": "HKUDS"
     },
     {
@@ -2093,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 772,
       "user": "HKUDS"
     },
     {
@@ -2108,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 558,
       "user": "MooseGoose0701"
     },
     {
@@ -2123,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 410,
       "user": "Mathews-Tom"
     },
     {
@@ -2153,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1045,
       "user": "RevylAI"
     },
     {
@@ -2168,7 +2203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 855,
       "user": "mickamy"
     },
     {
@@ -2183,7 +2218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "klawsh"
     },
     {
@@ -2198,7 +2233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "pinchtab"
     },
     {
@@ -2213,7 +2248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 137,
       "user": "Gentleman-Programming"
     }
   ]
