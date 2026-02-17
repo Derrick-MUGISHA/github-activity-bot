@@ -338,36 +338,6 @@
       "user": "Favour Afolayan"
     },
     {
-      "title": "THE NEW WEB",
-      "url": "https://dev.to/arber/the-new-web-2kac",
-      "published_at": "2026-02-14T00:39:23Z",
-      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
-      "tags": [
-        "ai",
-        "mcp",
-        "webmcp",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
-      "source": "Dev.to",
-      "user": "Arber"
-    },
-    {
-      "title": "Dear Vibe Coder: Your Code Is the Problem.",
-      "url": "https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc",
-      "published_at": "2026-02-09T17:12:21Z",
-      "description": "Vibe coding looks cool on Twitter, but it’s quietly wrecking codebases, teams, and junior developers. Let’s actually talk about it.",
-      "tags": [
-        "programming",
-        "ai",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExbHprOHdsanh5bHh2NHQ3bGVheG85eHg3emc3eWhzZHEzMG1sdHczayZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FJEDVTonz503kj7Ug4j%2Fgiphy.gif",
-      "source": "Dev.to",
-      "user": "Leon Martin"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -511,7 +481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "andyhuo520"
     },
     {
@@ -526,8 +496,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 110,
       "user": "marswei"
+    },
+    {
+      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
+      "published_at": "2026-02-11T05:12:06Z",
+      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
+      "source": "GitHub",
+      "stars": 96,
+      "user": "TheGreatAzizi"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -541,23 +526,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 726,
       "user": "HKUDS"
-    },
-    {
-      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "url": "https://github.com/aeromomo/claw-compactor",
-      "published_at": "2026-02-10T00:27:08Z",
-      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
-      "source": "GitHub",
-      "stars": 624,
-      "user": "aeromomo"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -586,23 +556,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 331,
       "user": "klawsh"
     },
     {
-      "title": "Compresr-ai/Context-Gateway - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
-      "url": "https://github.com/Compresr-ai/Context-Gateway",
-      "published_at": "2026-02-10T14:21:20Z",
-      "description": "Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
+      "title": "Gentleman-Programming/engram - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "published_at": "2026-02-16T13:38:41Z",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258749684?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 92,
-      "user": "Compresr-ai"
+      "stars": 83,
+      "user": "Gentleman-Programming"
     }
   ],
   "JavaScript": [
@@ -785,6 +755,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjuz3zu8nsbz5xfo4aayp.png",
       "source": "Dev.to",
       "user": "Gabriel Grubba"
+    },
+    {
+      "title": "Why I built yet another release tool for npm",
+      "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
+      "published_at": "2026-02-13T22:33:56Z",
+      "description": "Years of frustration with existing tools led me to build bonvoy",
+      "tags": [
+        "javascript",
+        "npm",
+        "opensource",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
+      "source": "Dev.to",
+      "user": "Niccolò Olivieri Achille"
     },
     {
       "title": "I Ditched My AI Agent Dashboard for Obsidian",
@@ -976,38 +961,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "andyhuo520"
-    },
-    {
-      "title": "iamzifei/bookmark-is-learned - 收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃",
-      "url": "https://github.com/iamzifei/bookmark-is-learned",
-      "published_at": "2026-02-10T04:53:38Z",
-      "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
-      "source": "GitHub",
-      "stars": 237,
-      "user": "iamzifei"
-    },
-    {
-      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
-      "url": "https://github.com/xvhuan/xiaoi",
-      "published_at": "2026-02-10T16:05:01Z",
-      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
-      "source": "GitHub",
-      "stars": 139,
-      "user": "xvhuan"
     },
     {
       "title": "iltekin/remove-local-temu - GitHub Repository",
@@ -1036,8 +991,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 110,
       "user": "marswei"
+    },
+    {
+      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
+      "published_at": "2026-02-11T05:12:06Z",
+      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
+      "source": "GitHub",
+      "stars": 96,
+      "user": "TheGreatAzizi"
+    },
+    {
+      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "url": "https://github.com/gxjansen/claude-code-meter",
+      "published_at": "2026-02-15T10:44:13Z",
+      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "gxjansen"
     }
   ],
   "Python": [
@@ -1246,23 +1231,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 726,
       "user": "HKUDS"
-    },
-    {
-      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "url": "https://github.com/aeromomo/claw-compactor",
-      "published_at": "2026-02-10T00:27:08Z",
-      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
-      "source": "GitHub",
-      "stars": 624,
-      "user": "aeromomo"
     },
     {
       "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
@@ -1276,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 460,
       "user": "MooseGoose0701"
     },
     {
@@ -1291,8 +1261,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "FireRedTeam"
+    },
+    {
+      "title": "Mathews-Tom/no-magic - Because `model.fit()` isn't an explanation",
+      "url": "https://github.com/Mathews-Tom/no-magic",
+      "published_at": "2026-02-13T11:54:34Z",
+      "description": "Because `model.fit()` isn't an explanation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
+      "source": "GitHub",
+      "stars": 335,
+      "user": "Mathews-Tom"
     }
   ],
   "DevOps": [
@@ -1339,36 +1324,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
       "source": "Dev.to",
       "user": "Jawad Elhaouchi"
-    },
-    {
-      "title": "How We Reduced Dependabot Noise in Our Monorepo",
-      "url": "https://dev.to/aki59/how-we-reduced-dependabot-noise-in-our-monorepo-1b06",
-      "published_at": "2026-02-04T09:21:28Z",
-      "description": "Why we needed Dependabot   Our dependency management had become increasingly manual and...",
-      "tags": [
-        "devops",
-        "jenkins",
-        "cicd",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl6ligout75eq676e47zd.png",
-      "source": "Dev.to",
-      "user": "Akash Tewari"
-    },
-    {
-      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
-      "url": "https://github.com/xvhuan/xiaoi",
-      "published_at": "2026-02-10T16:05:01Z",
-      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
-      "source": "GitHub",
-      "stars": 139,
-      "user": "xvhuan"
     }
   ],
   "WebDev": [
@@ -1401,6 +1356,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
+    },
+    {
+      "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
+      "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
+      "published_at": "2026-02-09T14:43:12Z",
+      "description": "👉 Before you continue: This guide assumes you’re already familiar with the Wishlist Power web...",
+      "tags": [
+        "shopify",
+        "webdev",
+        "frontend",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
+      "source": "Dev.to",
+      "user": "Fabien Sebban"
     },
     {
       "title": "Native CSS Utilities",
@@ -1463,21 +1433,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "THE NEW WEB",
-      "url": "https://dev.to/arber/the-new-web-2kac",
-      "published_at": "2026-02-14T00:39:23Z",
-      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
-      "tags": [
-        "ai",
-        "mcp",
-        "webmcp",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
-      "source": "Dev.to",
-      "user": "Arber"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1505,6 +1460,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwjqfv0z5cxm9a18nfp5.png",
       "source": "Dev.to",
       "user": "Max Rozdobudko"
+    },
+    {
+      "title": "My New Language That’s Almost Done",
+      "url": "https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31",
+      "published_at": "2026-02-09T20:10:51Z",
+      "description": "I’ve been building a programming language for the past 3 months. Although it’s written in Swift, I’m...",
+      "tags": [
+        "programming",
+        "showdev",
+        "sideprojects",
+        "swift"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Focscz47o1wxswnzbq3eb.png",
+      "source": "Dev.to",
+      "user": "Ryan Bae"
     },
     {
       "title": "Multimodal Visual Understanding in Swift (aka: \"why is this still so hard on-device?\")",
@@ -1607,6 +1577,21 @@
       "user": "JustExAWS"
     },
     {
+      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
+      "published_at": "2026-02-11T05:12:06Z",
+      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
+      "source": "GitHub",
+      "stars": 96,
+      "user": "TheGreatAzizi"
+    },
+    {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
       "url": "https://github.com/klawsh/klaw.sh",
       "published_at": "2026-02-15T04:18:19Z",
@@ -1618,7 +1603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 331,
       "user": "klawsh"
     }
   ],
@@ -1662,8 +1647,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "mickamy"
+    },
+    {
+      "title": "Gentleman-Programming/engram - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "published_at": "2026-02-16T13:38:41Z",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
+      "source": "GitHub",
+      "stars": 83,
+      "user": "Gentleman-Programming"
     }
   ],
   "Security": [
@@ -1844,6 +1844,21 @@
       "user": "David Alcala"
     },
     {
+      "title": "Why I built yet another release tool for npm",
+      "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
+      "published_at": "2026-02-13T22:33:56Z",
+      "description": "Years of frustration with existing tools led me to build bonvoy",
+      "tags": [
+        "javascript",
+        "npm",
+        "opensource",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
+      "source": "Dev.to",
+      "user": "Niccolò Olivieri Achille"
+    },
+    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1932,36 +1947,6 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "Built a Vibe Coded App where you can Style any Image you like! :D",
-      "url": "https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p",
-      "published_at": "2026-02-12T21:58:03Z",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge              What I Built   This is my...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm1fpp1ggp3dnlm2z8160.gif",
-      "source": "Dev.to",
-      "user": "👾 FrancisTRᴅᴇᴠ 👾"
-    },
-    {
-      "title": "THE NEW WEB",
-      "url": "https://dev.to/arber/the-new-web-2kac",
-      "published_at": "2026-02-14T00:39:23Z",
-      "description": "The MCP Hub Is the New Backend: Why Tool-First Architecture Changes Everything   February...",
-      "tags": [
-        "ai",
-        "mcp",
-        "webmcp",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrb747emqsya6pwojlpy.png",
-      "source": "Dev.to",
-      "user": "Arber"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1973,38 +1958,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "andyhuo520"
-    },
-    {
-      "title": "iamzifei/bookmark-is-learned - 收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃",
-      "url": "https://github.com/iamzifei/bookmark-is-learned",
-      "published_at": "2026-02-10T04:53:38Z",
-      "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/399680?v=4",
-      "source": "GitHub",
-      "stars": 237,
-      "user": "iamzifei"
-    },
-    {
-      "title": "xvhuan/xiaoi - 小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
-      "url": "https://github.com/xvhuan/xiaoi",
-      "published_at": "2026-02-10T16:05:01Z",
-      "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50939413?v=4",
-      "source": "GitHub",
-      "stars": 139,
-      "user": "xvhuan"
     },
     {
       "title": "iltekin/remove-local-temu - GitHub Repository",
@@ -2033,8 +1988,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 110,
       "user": "marswei"
+    },
+    {
+      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
+      "published_at": "2026-02-11T05:12:06Z",
+      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
+      "source": "GitHub",
+      "stars": 96,
+      "user": "TheGreatAzizi"
+    },
+    {
+      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "url": "https://github.com/gxjansen/claude-code-meter",
+      "published_at": "2026-02-15T10:44:13Z",
+      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "gxjansen"
     },
     {
       "title": "HKUDS/FastCode - FastCode: Accelerating and Streamlining Your Code Understanding",
@@ -2063,23 +2048,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 726,
       "user": "HKUDS"
-    },
-    {
-      "title": "aeromomo/claw-compactor - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "url": "https://github.com/aeromomo/claw-compactor",
-      "published_at": "2026-02-10T00:27:08Z",
-      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7247541?v=4",
-      "source": "GitHub",
-      "stars": 624,
-      "user": "aeromomo"
     },
     {
       "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
@@ -2093,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 460,
       "user": "MooseGoose0701"
     },
     {
@@ -2108,8 +2078,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "FireRedTeam"
+    },
+    {
+      "title": "Mathews-Tom/no-magic - Because `model.fit()` isn't an explanation",
+      "url": "https://github.com/Mathews-Tom/no-magic",
+      "published_at": "2026-02-13T11:54:34Z",
+      "description": "Because `model.fit()` isn't an explanation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
+      "source": "GitHub",
+      "stars": 335,
+      "user": "Mathews-Tom"
     },
     {
       "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
@@ -2138,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "mickamy"
     },
     {
@@ -2153,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 331,
       "user": "klawsh"
     },
     {
@@ -2168,23 +2153,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 165,
       "user": "pinchtab"
     },
     {
-      "title": "Compresr-ai/Context-Gateway - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
-      "url": "https://github.com/Compresr-ai/Context-Gateway",
-      "published_at": "2026-02-10T14:21:20Z",
-      "description": "Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools",
+      "title": "Gentleman-Programming/engram - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "published_at": "2026-02-16T13:38:41Z",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258749684?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 92,
-      "user": "Compresr-ai"
+      "stars": 83,
+      "user": "Gentleman-Programming"
     }
   ]
 }
