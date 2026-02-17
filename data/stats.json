@@ -15,7 +15,7 @@
     "Cloud": 9,
     "Database": 4,
     "Security": 5,
-    "Tools": 30
+    "Tools": 31
   },
   "by_language": {
     "JavaScript": 32,
@@ -23,16 +23,16 @@
     "Swift": 3,
     "Java": 24,
     "Python": 19,
-    "Rust": 4,
+    "Rust": 5,
     "PHP": 2
   },
   "by_date": {
     "2026-02-16": 11,
-    "2026-02-15": 10,
+    "2026-02-15": 11,
     "2026-02-13": 10,
     "2026-02-12": 6,
     "2026-02-10": 6,
-    "2026-02-11": 9,
+    "2026-02-11": 8,
     "2026-02-14": 4,
     "2026-02-08": 4,
     "2026-02-09": 6,
@@ -86,19 +86,19 @@
     "learning": 5,
     "go": 5,
     "react": 4,
-    "frontend": 4,
     "community": 4,
+    "frontend": 4,
     "opensource": 4,
-    "tutorial": 4
+    "rust": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "30.8",
-    "Go": "19.2",
+    "JavaScript": "30.5",
+    "Go": "19.0",
     "Swift": "2.9",
-    "Java": "23.1",
-    "Python": "18.3",
-    "Rust": "3.8",
+    "Java": "22.9",
+    "Python": "18.1",
+    "Rust": "4.8",
     "PHP": "1.9"
   }
 }
