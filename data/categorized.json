@@ -311,18 +311,6 @@
       "user": "Akarsh Cholapurath"
     },
     {
-      "title": "The Push and Pull of AI",
-      "url": "https://dev.to/lexingdailylife/the-push-and-pull-of-ai-3lde",
-      "published_at": "2026-02-10T19:58:11Z",
-      "description": "As a software engineer, I would be lying if I said AI hasn’t affected my job. Over the past year,...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfdjaw6hc8slstikok6u.jpg",
-      "source": "Dev.to",
-      "user": "Martin Cartledge"
-    },
-    {
       "title": "AI isn't taking our jobs — It's taking our illusions",
       "url": "https://dev.to/igbominadeveloper/ai-isnt-take-our-jobs-its-taking-our-illusions-138j",
       "published_at": "2026-02-03T17:17:41Z",
@@ -481,7 +469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "andyhuo520"
     },
     {
@@ -496,7 +484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 132,
       "user": "marswei"
     },
     {
@@ -526,7 +514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 887,
       "user": "HKUDS"
     },
     {
@@ -556,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 355,
       "user": "klawsh"
     },
     {
@@ -571,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 103,
       "user": "Gentleman-Programming"
     }
   ],
@@ -961,8 +949,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "andyhuo520"
+    },
+    {
+      "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
+      "url": "https://github.com/marswei/seaseed-clawerse",
+      "published_at": "2026-02-14T18:13:42Z",
+      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "marswei"
     },
     {
       "title": "iltekin/remove-local-temu - GitHub Repository",
@@ -980,21 +983,6 @@
       "user": "iltekin"
     },
     {
-      "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
-      "url": "https://github.com/marswei/seaseed-clawerse",
-      "published_at": "2026-02-14T18:13:42Z",
-      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
-      "source": "GitHub",
-      "stars": 128,
-      "user": "marswei"
-    },
-    {
       "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
       "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
       "published_at": "2026-02-11T05:12:06Z",
@@ -1010,19 +998,19 @@
       "user": "TheGreatAzizi"
     },
     {
-      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
-      "url": "https://github.com/gxjansen/claude-code-meter",
-      "published_at": "2026-02-15T10:44:13Z",
-      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "title": "ancsemi/Haven - Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "url": "https://github.com/ancsemi/Haven",
+      "published_at": "2026-02-11T05:16:20Z",
+      "description": "Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
       "source": "GitHub",
-      "stars": 74,
-      "user": "gxjansen"
+      "stars": 75,
+      "user": "ancsemi"
     }
   ],
   "Python": [
@@ -1216,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 887,
       "user": "HKUDS"
     },
     {
@@ -1246,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 484,
       "user": "MooseGoose0701"
     },
     {
@@ -1261,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 383,
       "user": "FireRedTeam"
     },
     {
@@ -1276,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "Mathews-Tom"
     }
   ],
@@ -1431,6 +1419,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "CSS aspect ratio property",
+      "url": "https://dev.to/kzuraw/css-aspect-ratio-property-4e7b",
+      "published_at": "2026-02-15T14:11:22Z",
+      "description": "I recently learned that I can use CSS aspect ratio property to tell browser how tall should image be...",
+      "tags": [
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdx7ub1z79tf8ecxnpqzu.png",
+      "source": "Dev.to",
+      "user": "Krzysztof Żuraw"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1592,6 +1592,21 @@
       "user": "TheGreatAzizi"
     },
     {
+      "title": "ancsemi/Haven - Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "url": "https://github.com/ancsemi/Haven",
+      "published_at": "2026-02-11T05:16:20Z",
+      "description": "Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
+      "source": "GitHub",
+      "stars": 75,
+      "user": "ancsemi"
+    },
+    {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
       "url": "https://github.com/klawsh/klaw.sh",
       "published_at": "2026-02-15T04:18:19Z",
@@ -1603,7 +1618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 355,
       "user": "klawsh"
     }
   ],
@@ -1647,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 824,
       "user": "mickamy"
     },
     {
@@ -1662,7 +1677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 103,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1958,8 +1973,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "andyhuo520"
+    },
+    {
+      "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
+      "url": "https://github.com/marswei/seaseed-clawerse",
+      "published_at": "2026-02-14T18:13:42Z",
+      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "marswei"
     },
     {
       "title": "iltekin/remove-local-temu - GitHub Repository",
@@ -1977,21 +2007,6 @@
       "user": "iltekin"
     },
     {
-      "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
-      "url": "https://github.com/marswei/seaseed-clawerse",
-      "published_at": "2026-02-14T18:13:42Z",
-      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
-      "source": "GitHub",
-      "stars": 128,
-      "user": "marswei"
-    },
-    {
       "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
       "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
       "published_at": "2026-02-11T05:12:06Z",
@@ -2007,19 +2022,19 @@
       "user": "TheGreatAzizi"
     },
     {
-      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
-      "url": "https://github.com/gxjansen/claude-code-meter",
-      "published_at": "2026-02-15T10:44:13Z",
-      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "title": "ancsemi/Haven - Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "url": "https://github.com/ancsemi/Haven",
+      "published_at": "2026-02-11T05:16:20Z",
+      "description": "Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
       "source": "GitHub",
-      "stars": 74,
-      "user": "gxjansen"
+      "stars": 75,
+      "user": "ancsemi"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -2033,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 887,
       "user": "HKUDS"
     },
     {
@@ -2063,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 484,
       "user": "MooseGoose0701"
     },
     {
@@ -2078,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 383,
       "user": "FireRedTeam"
     },
     {
@@ -2093,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "Mathews-Tom"
     },
     {
@@ -2123,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 824,
       "user": "mickamy"
     },
     {
@@ -2138,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 355,
       "user": "klawsh"
     },
     {
@@ -2153,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 211,
       "user": "pinchtab"
     },
     {
@@ -2168,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 103,
       "user": "Gentleman-Programming"
     }
   ]

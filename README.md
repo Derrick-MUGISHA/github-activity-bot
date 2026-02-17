@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 40 (38.1%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**WebDev**: 🟦🟦🟦🟦 8 (7.6%)
+**WebDev**: 🟦🟦🟦🟦🟦 9 (8.6%)
 
-**Cloud**: 🟦🟦🟦🟦 8 (7.6%)
+**Cloud**: 🟦🟦🟦🟦🟦 9 (8.6%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦🟦 5 (4.8%)
 
 **Database**: 🟦🟦 4 (3.8%)
 
-**DevOps**: 🟦 3 (2.9%)
+**DevOps**: 🟦🟦 3 (2.9%)
 
-**Mobile**: 🟦 3 (2.9%)
+**Mobile**: 🟦🟦 3 (2.9%)
 
 
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-14-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![learning](https://img.shields.io/badge/learning-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-14-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![learning](https://img.shields.io/badge/learning-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-17 7:00 CAT)
+## 📅 Latest Updates (2026-02-17 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3) _[Dev.to]_
 - [Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions](https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb) _[Dev.to]_
 
-_Last automated update: Tue, 17 Feb 2026 07:41:07 CAT_
+_Last automated update: Tue, 17 Feb 2026 08:38:18 CAT_
 
 
 
@@ -224,29 +224,18 @@ _Last automated update: Tue, 17 Feb 2026 07:41:07 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-Diffing algorithm, reconciliation, efficiency
-
-</details>
-
-### 2. SystemDesign: Design a URL shortening service like bit.ly
-
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 2. NodeJS: How do you handle errors in async/await?
 
 **Difficulty**: Medium | **Topics**: error handling, async
 
@@ -254,6 +243,17 @@ Hash function, database design, caching, analytics
 <summary>💡 Hint</summary>
 
 try/catch, .catch(), error middleware
+
+</details>
+
+### 3. DataStructures: Implement a function to reverse a linked list
+
+**Difficulty**: Medium | **Topics**: linked lists, pointers
+
+<details>
+<summary>💡 Hint</summary>
+
+Iterative or recursive, three pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Feb 2026 05:41:07 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Feb 2026 06:38:18 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
