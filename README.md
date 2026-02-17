@@ -32,7 +32,7 @@
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.8 (30.8%)
-Java            ███████████████████████ 23.1 (23.1%)
-Go              ███████████████████ 19.2 (19.2%)
-Python          ██████████████████ 18.3 (18.3%)
-Rust            ████ 3.8 (3.8%)
+JavaScript      ██████████████████████████████ 30.5 (30.5%)
+Java            ███████████████████████ 22.9 (22.9%)
+Go              ███████████████████ 19.0 (19.0%)
+Python          ██████████████████ 18.1 (18.1%)
+Rust            █████ 4.8 (4.8%)
 Swift           ███ 2.9 (2.9%)
 PHP             ██ 1.9 (1.9%)
 
@@ -76,7 +76,7 @@ pie title Programming Languages Distribution
     "Java" : 24
     "Go" : 20
     "Python" : 19
-    "Rust" : 4
+    "Rust" : 5
     "Swift" : 3
     "PHP" : 2
 ```
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-17 16:00 CAT)
+## 📅 Latest Updates (2026-02-17 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png" width="200" alt="6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)" />
+    <a href="https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png" width="200" alt="Do people still genuinely care about technical articles ?" />
       <br/>
-      <b>6 Pitfalls of Dynamic OG Image Generation on Cloud...</b>
+      <b>Do people still genuinely care about technical art...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,13 +200,12 @@ npm run test
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 - [I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows](https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377) _[Dev.to]_
 - [Building a Native-Feeling Theme System in SwiftUI](https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k) _[Dev.to]_
+- [Do people still genuinely care about technical articles ?](https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk) _[Dev.to]_
 - [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle) _[Dev.to]_
 - [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak) _[Dev.to]_
 - [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o) _[Dev.to]_
-- [Do people still genuinely care about technical articles ?](https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk) _[Dev.to]_
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 - [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) _[Dev.to]_
-- [I rebuilt OpenClaw from scratch without the security flaws](https://dev.to/composiodev/i-rebuilt-openclaw-from-scratch-without-the-security-flaws-2mle) _[Dev.to]_
 - [But what exactly is an AI agent?](https://dev.to/herrkris/but-what-exactly-is-an-agentic-assistant-2cma) _[Dev.to]_
 - [Nike Was Right: The Only Coding Advice You Actually Need](https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih) _[Dev.to]_
 - [Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2](https://dev.to/fridzema/announcement-oxidedock-rust-vue-3-desktop-starter-built-on-tauri-v2-3d6a) _[Dev.to]_
@@ -214,9 +213,10 @@ npm run test
 - [I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3) _[Dev.to]_
 - [Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions](https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb) _[Dev.to]_
 - [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
+- [I Built a TUI That Makes Rust Code Inspection Feel Like Magic ✨](https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
 
-_Last automated update: Tue, 17 Feb 2026 16:06:41 CAT_
+_Last automated update: Tue, 17 Feb 2026 17:05:46 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 17 Feb 2026 16:06:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Feb 2026 14:06:41 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Feb 2026 15:05:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
