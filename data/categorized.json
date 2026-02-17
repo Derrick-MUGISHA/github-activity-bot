@@ -31,6 +31,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Vouch: Mitchell Hashimoto’s Experiment in Restoring Trust to Open Source",
+      "url": "https://dev.to/richardpascoe/vouch-mitchell-hashimotos-experiment-in-restoring-trust-to-open-source-7l8",
+      "published_at": "2026-02-16T09:00:28Z",
+      "description": "Open source has always operated on an implicit social contract:   If you care enough to contribute,...",
+      "tags": [
+        "discuss",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8g2mpzowqcw2vd55t69.png",
+      "source": "Dev.to",
+      "user": "Richard Pascoe"
+    },
+    {
       "title": "How My Team Aligns on Prompting for Production",
       "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
       "published_at": "2026-02-17T16:53:46Z",
@@ -177,20 +191,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
       "source": "Dev.to",
       "user": "Loaiabdalslam"
-    },
-    {
-      "title": "But what exactly is an AI agent?",
-      "url": "https://dev.to/herrkris/but-what-exactly-is-an-agentic-assistant-2cma",
-      "published_at": "2026-02-16T05:47:22Z",
-      "description": "This is the first episode in an ongoing series called But what exactly is .... I usually learn better...",
-      "tags": [
-        "ai",
-        "beginners",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz1asm4dj272z9ils81ab.png",
-      "source": "Dev.to",
-      "user": "Kristof Dreier"
     },
     {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
@@ -528,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "marswei"
     },
     {
@@ -558,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1566,
       "user": "HKUDS"
     },
     {
@@ -588,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 420,
       "user": "klawsh"
     },
     {
@@ -603,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1008,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "marswei"
     },
     {
@@ -1053,7 +1053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "ancsemi"
     }
   ],
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1566,
       "user": "HKUDS"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 787,
       "user": "HKUDS"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "MooseGoose0701"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 425,
       "user": "Mathews-Tom"
     },
     {
@@ -1608,7 +1608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "ancsemi"
     },
     {
@@ -1623,7 +1623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 420,
       "user": "klawsh"
     }
   ],
@@ -1667,7 +1667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 868,
       "user": "mickamy"
     },
     {
@@ -1682,7 +1682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1980,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "marswei"
     },
     {
@@ -2025,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "ancsemi"
     },
     {
@@ -2040,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1566,
       "user": "HKUDS"
     },
     {
@@ -2055,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 787,
       "user": "HKUDS"
     },
     {
@@ -2070,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "MooseGoose0701"
     },
     {
@@ -2085,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 425,
       "user": "Mathews-Tom"
     },
     {
@@ -2130,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 868,
       "user": "mickamy"
     },
     {
@@ -2145,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 420,
       "user": "klawsh"
     },
     {
@@ -2160,7 +2160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 294,
       "user": "pinchtab"
     },
     {
@@ -2175,7 +2175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "Gentleman-Programming"
     }
   ]

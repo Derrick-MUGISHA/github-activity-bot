@@ -19,11 +19,11 @@
   },
   "by_language": {
     "JavaScript": 32,
-    "Go": 19,
+    "Go": 18,
+    "Rust": 5,
     "Java": 23,
     "Swift": 2,
     "Python": 18,
-    "Rust": 4,
     "PHP": 2
   },
   "by_date": {
@@ -76,30 +76,30 @@
     "github": 15,
     "open-source": 15,
     "javascript": 13,
+    "discuss": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "discuss": 9,
     "programming": 8,
     "python": 8,
     "productivity": 7,
+    "opensource": 5,
     "typescript": 5,
     "frontend": 5,
     "go": 5,
     "career": 4,
     "react": 4,
     "tutorial": 4,
-    "opensource": 4,
     "softwareengineering": 3
   },
   "trending_topics": [],
   "language_percentages": {
     "JavaScript": "32.0",
-    "Go": "19.0",
+    "Go": "18.0",
+    "Rust": "5.0",
     "Java": "23.0",
     "Swift": "2.0",
     "Python": "18.0",
-    "Rust": "4.0",
     "PHP": "2.0"
   }
 }
