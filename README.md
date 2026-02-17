@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-17 18:00 CAT)
+## 📅 Latest Updates (2026-02-17 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -207,7 +207,6 @@ npm run test
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 - [Checking Django Settings](https://dev.to/adamghill/checking-django-settings-12g4) _[Dev.to]_
 - [But what exactly is an AI agent?](https://dev.to/herrkris/but-what-exactly-is-an-agentic-assistant-2cma) _[Dev.to]_
-- [Nike Was Right: The Only Coding Advice You Actually Need](https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih) _[Dev.to]_
 - [Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2](https://dev.to/fridzema/announcement-oxidedock-rust-vue-3-desktop-starter-built-on-tauri-v2-3d6a) _[Dev.to]_
 - [Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js](https://dev.to/arindamdawn/stop-wrestling-with-json-ld-type-safe-structured-data-for-nextjs-38on) _[Dev.to]_
 - [I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) _[Dev.to]_
 - [I Built a TUI That Makes Rust Code Inspection Feel Like Magic ✨](https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k) _[Dev.to]_
 - [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b) _[Dev.to]_
+- [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298) _[Dev.to]_
 
-_Last automated update: Tue, 17 Feb 2026 18:07:56 CAT_
+_Last automated update: Tue, 17 Feb 2026 19:15:29 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 17 Feb 2026 18:07:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Feb 2026 16:07:56 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Feb 2026 17:15:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
