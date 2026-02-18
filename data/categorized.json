@@ -513,7 +513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "andyhuo520"
     },
     {
@@ -528,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 206,
       "user": "marswei"
     },
     {
@@ -543,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1802,
+      "stars": 1824,
       "user": "HKUDS"
     },
     {
@@ -558,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 367,
       "user": "Nasiko-Labs"
     },
     {
@@ -573,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "klawsh"
     },
     {
@@ -588,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "Gentleman-Programming"
     }
   ],
@@ -963,7 +963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "andyhuo520"
     },
     {
@@ -978,7 +978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 206,
       "user": "marswei"
     },
     {
@@ -1023,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 79,
       "user": "andyhuo520"
     }
   ],
@@ -1203,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1802,
+      "stars": 1824,
       "user": "HKUDS"
     },
     {
@@ -1218,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 815,
       "user": "HKUDS"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 673,
       "user": "MooseGoose0701"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 446,
       "user": "Mathews-Tom"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 367,
       "user": "Nasiko-Labs"
     }
   ],
@@ -1451,21 +1451,6 @@
       "user": "DeVoresyah ArEst"
     },
     {
-      "title": "Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions",
-      "url": "https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb",
-      "published_at": "2026-02-15T16:55:00Z",
-      "description": "The MITRE ATT&amp;CK Framework is indispensable for understanding adversary behavior, especially in...",
-      "tags": [
-        "cloudsecurity",
-        "mitre",
-        "redteaming",
-        "securityoperations"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz36stwowcjezhw656arx.png",
-      "source": "Dev.to",
-      "user": "Kennedy "
-    },
-    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1518,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "klawsh"
     }
   ],
@@ -1577,26 +1562,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "Gentleman-Programming"
     }
   ],
   "Security": [
-    {
-      "title": "Mitigant Threat Catalog: Turning Static Cloud Techniques to Dynamic Executions",
-      "url": "https://dev.to/aws-builders/mitigant-threat-catalog-turning-static-cloud-techniques-to-dynamic-executions-46nb",
-      "published_at": "2026-02-15T16:55:00Z",
-      "description": "The MITRE ATT&amp;CK Framework is indispensable for understanding adversary behavior, especially in...",
-      "tags": [
-        "cloudsecurity",
-        "mitre",
-        "redteaming",
-        "securityoperations"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz36stwowcjezhw656arx.png",
-      "source": "Dev.to",
-      "user": "Kennedy "
-    },
     {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
       "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
@@ -1845,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "andyhuo520"
     },
     {
@@ -1860,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 206,
       "user": "marswei"
     },
     {
@@ -1905,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 79,
       "user": "andyhuo520"
     },
     {
@@ -1920,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1802,
+      "stars": 1824,
       "user": "HKUDS"
     },
     {
@@ -1935,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 815,
       "user": "HKUDS"
     },
     {
@@ -1950,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 673,
       "user": "MooseGoose0701"
     },
     {
@@ -1965,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 446,
       "user": "Mathews-Tom"
     },
     {
@@ -1980,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 367,
       "user": "Nasiko-Labs"
     },
     {
@@ -1999,21 +1969,6 @@
       "user": "mickamy"
     },
     {
-      "title": "klawsh/klaw.sh - kubectl for AI Agents",
-      "url": "https://github.com/klawsh/klaw.sh",
-      "published_at": "2026-02-15T04:18:19Z",
-      "description": "kubectl for AI Agents",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
-      "source": "GitHub",
-      "stars": 443,
-      "user": "klawsh"
-    },
-    {
       "title": "pinchtab/pinchtab - GitHub Repository",
       "url": "https://github.com/pinchtab/pinchtab",
       "published_at": "2026-02-15T11:12:33Z",
@@ -2025,8 +1980,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 452,
       "user": "pinchtab"
+    },
+    {
+      "title": "klawsh/klaw.sh - kubectl for AI Agents",
+      "url": "https://github.com/klawsh/klaw.sh",
+      "published_at": "2026-02-15T04:18:19Z",
+      "description": "kubectl for AI Agents",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
+      "source": "GitHub",
+      "stars": 444,
+      "user": "klawsh"
     },
     {
       "title": "Gentleman-Programming/engram - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
@@ -2040,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "Gentleman-Programming"
     },
     {
@@ -2055,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/116176330?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "NicolasHaas"
     }
   ]
