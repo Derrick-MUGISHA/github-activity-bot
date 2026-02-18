@@ -7,7 +7,7 @@
   },
   "by_category": {
     "AI": 42,
-    "JavaScript": 31,
+    "JavaScript": 30,
     "Python": 18,
     "DevOps": 4,
     "WebDev": 4,
@@ -15,11 +15,11 @@
     "Cloud": 6,
     "Database": 4,
     "Security": 3,
-    "Tools": 28
+    "Tools": 27
   },
   "by_language": {
     "Go": 18,
-    "JavaScript": 31,
+    "JavaScript": 30,
     "Java": 23,
     "Swift": 2,
     "Python": 18,
@@ -27,7 +27,7 @@
     "PHP": 2
   },
   "by_date": {
-    "2026-02-18": 6,
+    "2026-02-18": 7,
     "2026-02-17": 19,
     "2026-02-16": 8,
     "2026-02-15": 8,
@@ -36,7 +36,7 @@
     "2026-02-10": 3,
     "2026-02-11": 2,
     "2026-02-14": 3,
-    "2026-02-08": 3,
+    "2026-02-08": 2,
     "2026-02-09": 4,
     "2026-02-06": 2,
     "2026-02-05": 3,
@@ -80,7 +80,7 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "productivity": 9,
+    "productivity": 8,
     "python": 8,
     "career": 6,
     "opensource": 6,
@@ -89,16 +89,16 @@
     "showdev": 4,
     "react": 4,
     "softwareengineering": 3,
-    "tutorial": 3
+    "watercooler": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "18.4",
-    "JavaScript": "31.6",
-    "Java": "23.5",
-    "Swift": "2.0",
-    "Python": "18.4",
+    "Go": "18.6",
+    "JavaScript": "30.9",
+    "Java": "23.7",
+    "Swift": "2.1",
+    "Python": "18.6",
     "Rust": "4.1",
-    "PHP": "2.0"
+    "PHP": "2.1"
   }
 }
