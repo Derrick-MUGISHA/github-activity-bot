@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
-      "published_at": "2026-02-17T12:42:44Z",
-      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
-      "tags": [
-        "softwareengineering",
-        "career",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
-      "source": "Dev.to",
-      "user": "NorthernDev"
-    },
-    {
       "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
       "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
       "published_at": "2026-02-17T18:27:56Z",
@@ -29,6 +14,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyedmo3tx4u5ewng0f8k.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
+      "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
+      "published_at": "2026-02-18T14:00:30Z",
+      "description": "I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...",
+      "tags": [
+        "discuss",
+        "news",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oqm9p89lj4fnebzc54n.png",
+      "source": "Dev.to",
+      "user": "Jon Gottfried"
+    },
+    {
+      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
+      "published_at": "2026-02-17T12:42:44Z",
+      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
+      "tags": [
+        "softwareengineering",
+        "career",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
+      "source": "Dev.to",
+      "user": "NorthernDev"
     },
     {
       "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
@@ -341,21 +356,6 @@
       "user": "Jawad Elhaouchi"
     },
     {
-      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
-      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
-      "published_at": "2026-02-16T20:48:42Z",
-      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
-      "tags": [
-        "claude",
-        "ai",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
-      "source": "Dev.to",
-      "user": "Tom Yahav"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -514,7 +514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "marswei"
     },
     {
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2102,
+      "stars": 2185,
       "user": "HKUDS"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "Nasiko-Labs"
     },
     {
@@ -559,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "klawsh"
     },
     {
@@ -593,6 +593,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftys3ri3yx1u704s4x1hh.png",
       "source": "Dev.to",
       "user": "Matteo Antony Mistretta"
+    },
+    {
+      "title": "Stacking Multiple Dialogs in React Without Hooks or Effects",
+      "url": "https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj",
+      "published_at": "2026-02-18T08:52:33Z",
+      "description": "Managing z-index across multiple stacked dialogs in React gets messy fast. I ran this problem through...",
+      "tags": [
+        "javascript",
+        "react",
+        "ui",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yk1vbznn9c04lfxgfx4.png",
+      "source": "Dev.to",
+      "user": "Phaneendra Kanduri"
     },
     {
       "title": "How a DEV Friend and I Brought Two Avatars to Life",
@@ -805,19 +820,6 @@
       "user": "David Dias"
     },
     {
-      "title": "Declarative rendering of react-query state via switch-query",
-      "url": "https://dev.to/denisinvader/declarative-rendering-of-react-query-state-via-switch-query-46lg",
-      "published_at": "2026-02-09T00:42:00Z",
-      "description": "switch-query is a tiny npm package that simplifies rendering the state of @tanstack/react-query",
-      "tags": [
-        "react",
-        "reactquery"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjagxgiuxa00z49mux5q.png",
-      "source": "Dev.to",
-      "user": "Mikhail Panichev"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -964,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "marswei"
     },
     {
@@ -994,7 +996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 104,
       "user": "andyhuo520"
     },
     {
@@ -1189,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2102,
+      "stars": 2185,
       "user": "HKUDS"
     },
     {
@@ -1204,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 834,
       "user": "HKUDS"
     },
     {
@@ -1219,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 692,
       "user": "MooseGoose0701"
     },
     {
@@ -1234,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 452,
       "user": "Mathews-Tom"
     },
     {
@@ -1249,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "Nasiko-Labs"
     }
   ],
@@ -1391,21 +1393,6 @@
       "user": "Rostislav B"
     },
     {
-      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
-      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
-      "published_at": "2026-02-16T20:48:42Z",
-      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
-      "tags": [
-        "claude",
-        "ai",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
-      "source": "Dev.to",
-      "user": "Tom Yahav"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1534,7 +1521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "klawsh"
     }
   ],
@@ -1821,21 +1808,6 @@
       "user": "David Dias"
     },
     {
-      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
-      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
-      "published_at": "2026-02-16T20:48:42Z",
-      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
-      "tags": [
-        "claude",
-        "ai",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
-      "source": "Dev.to",
-      "user": "Tom Yahav"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1862,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "marswei"
     },
     {
@@ -1892,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 104,
       "user": "andyhuo520"
     },
     {
@@ -1922,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2102,
+      "stars": 2185,
       "user": "HKUDS"
     },
     {
@@ -1937,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 834,
       "user": "HKUDS"
     },
     {
@@ -1952,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 692,
       "user": "MooseGoose0701"
     },
     {
@@ -1967,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 452,
       "user": "Mathews-Tom"
     },
     {
@@ -1982,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "Nasiko-Labs"
     },
     {
@@ -2012,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 554,
       "user": "pinchtab"
     },
     {
@@ -2027,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "klawsh"
     },
     {
@@ -2057,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6614616?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 100,
       "user": "DatanoiseTV"
     }
   ]
