@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-18 11:00 CAT)
+## 📅 Latest Updates (2026-02-18 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o) _[Dev.to]_
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 
-_Last automated update: Wed, 18 Feb 2026 11:04:23 CAT_
+_Last automated update: Wed, 18 Feb 2026 12:05:58 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 18 Feb 2026 11:04:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Heap, stack, garbage collection
 
 </details>
 
-### 3. React: How would you optimize a React app's performance?
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 18 Feb 2026 09:04:23 GMT</b><br/>
+  <b>Last automated update: Wed, 18 Feb 2026 10:05:58 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
