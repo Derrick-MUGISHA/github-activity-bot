@@ -91,21 +91,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
-      "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
-      "published_at": "2026-02-17T13:16:09Z",
-      "description": "I was recently gifted a pair of AI glasses. This is not the kind of purchase I would make for myself....",
-      "tags": [
-        "ai",
-        "programming",
-        "opensource",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o5e4njpr1e3l7o1e8iw.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
-    },
-    {
       "title": "The Ghost in the Training Set",
       "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
       "published_at": "2026-02-16T20:10:18Z",
@@ -225,6 +210,36 @@
       "user": "Ale"
     },
     {
+      "title": "How My Team Aligns on Prompting for Production",
+      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+      "published_at": "2026-02-17T16:53:46Z",
+      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+      "tags": [
+        "ai",
+        "devops",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
+      "source": "Dev.to",
+      "user": "Adam Ross"
+    },
+    {
+      "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
+      "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
+      "published_at": "2026-02-17T13:16:09Z",
+      "description": "I was recently gifted a pair of AI glasses. This is not the kind of purchase I would make for myself....",
+      "tags": [
+        "ai",
+        "programming",
+        "opensource",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o5e4njpr1e3l7o1e8iw.png",
+      "source": "Dev.to",
+      "user": "Julien Avezou"
+    },
+    {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
       "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
       "published_at": "2026-02-11T02:00:24Z",
@@ -283,21 +298,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
       "source": "Dev.to",
       "user": "Natnael Getenew"
-    },
-    {
-      "title": "How My Team Aligns on Prompting for Production",
-      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
-      "published_at": "2026-02-17T16:53:46Z",
-      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
-      "tags": [
-        "ai",
-        "devops",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
-      "source": "Dev.to",
-      "user": "Adam Ross"
     },
     {
       "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 230,
       "user": "marswei"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2496,
+      "stars": 2530,
       "user": "HKUDS"
     },
     {
@@ -574,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 464,
       "user": "klawsh"
     },
     {
@@ -589,7 +589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 188,
       "user": "Gentleman-Programming"
     }
   ],
@@ -966,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 230,
       "user": "marswei"
     },
     {
@@ -985,6 +985,21 @@
       "user": "iltekin"
     },
     {
+      "title": "khalildh/garment-notation - GitHub Repository",
+      "url": "https://github.com/khalildh/garment-notation",
+      "published_at": "2026-02-17T06:50:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "khalildh"
+    },
+    {
       "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
       "url": "https://github.com/andyhuo520/rf-detr-detection",
       "published_at": "2026-02-17T16:58:10Z",
@@ -998,21 +1013,6 @@
       "source": "GitHub",
       "stars": 121,
       "user": "andyhuo520"
-    },
-    {
-      "title": "khalildh/garment-notation - GitHub Repository",
-      "url": "https://github.com/khalildh/garment-notation",
-      "published_at": "2026-02-17T06:50:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "khalildh"
     }
   ],
   "Python": [
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2496,
+      "stars": 2530,
       "user": "HKUDS"
     },
     {
@@ -1206,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 843,
       "user": "HKUDS"
     },
     {
@@ -1221,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "MooseGoose0701"
     },
     {
@@ -1272,21 +1272,6 @@
       "user": "suin"
     },
     {
-      "title": "Using Laravel Boost With DDEV",
-      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
-      "published_at": "2026-02-10T00:00:00Z",
-      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
-      "tags": [
-        "ai",
-        "docker",
-        "laravel",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
-      "source": "Dev.to",
-      "user": "Russell Jones"
-    },
-    {
       "title": "How My Team Aligns on Prompting for Production",
       "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
       "published_at": "2026-02-17T16:53:46Z",
@@ -1300,6 +1285,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
       "source": "Dev.to",
       "user": "Adam Ross"
+    },
+    {
+      "title": "Using Laravel Boost With DDEV",
+      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
+      "published_at": "2026-02-10T00:00:00Z",
+      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
+      "tags": [
+        "ai",
+        "docker",
+        "laravel",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
+      "source": "Dev.to",
+      "user": "Russell Jones"
     },
     {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
@@ -1491,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 464,
       "user": "klawsh"
     }
   ],
@@ -1535,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 897,
       "user": "mickamy"
     },
     {
@@ -1550,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 188,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1630,21 +1630,6 @@
       "user": "Maxim Saplin"
     },
     {
-      "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
-      "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
-      "published_at": "2026-02-17T13:16:09Z",
-      "description": "I was recently gifted a pair of AI glasses. This is not the kind of purchase I would make for myself....",
-      "tags": [
-        "ai",
-        "programming",
-        "opensource",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o5e4njpr1e3l7o1e8iw.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
-    },
-    {
       "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
       "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
       "published_at": "2026-02-15T16:13:01Z",
@@ -1720,21 +1705,6 @@
       "user": "David Alcala"
     },
     {
-      "title": "Why I built yet another release tool for npm",
-      "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
-      "published_at": "2026-02-13T22:33:56Z",
-      "description": "Years of frustration with existing tools led me to build bonvoy",
-      "tags": [
-        "javascript",
-        "npm",
-        "opensource",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
-      "source": "Dev.to",
-      "user": "Niccolò Olivieri Achille"
-    },
-    {
       "title": "How My Team Aligns on Prompting for Production",
       "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
       "published_at": "2026-02-17T16:53:46Z",
@@ -1748,6 +1718,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
       "source": "Dev.to",
       "user": "Adam Ross"
+    },
+    {
+      "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
+      "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
+      "published_at": "2026-02-17T13:16:09Z",
+      "description": "I was recently gifted a pair of AI glasses. This is not the kind of purchase I would make for myself....",
+      "tags": [
+        "ai",
+        "programming",
+        "opensource",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o5e4njpr1e3l7o1e8iw.png",
+      "source": "Dev.to",
+      "user": "Julien Avezou"
+    },
+    {
+      "title": "Why I built yet another release tool for npm",
+      "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
+      "published_at": "2026-02-13T22:33:56Z",
+      "description": "Years of frustration with existing tools led me to build bonvoy",
+      "tags": [
+        "javascript",
+        "npm",
+        "opensource",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
+      "source": "Dev.to",
+      "user": "Niccolò Olivieri Achille"
     },
     {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
@@ -1804,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 230,
       "user": "marswei"
     },
     {
@@ -1823,6 +1823,21 @@
       "user": "iltekin"
     },
     {
+      "title": "khalildh/garment-notation - GitHub Repository",
+      "url": "https://github.com/khalildh/garment-notation",
+      "published_at": "2026-02-17T06:50:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "khalildh"
+    },
+    {
       "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
       "url": "https://github.com/andyhuo520/rf-detr-detection",
       "published_at": "2026-02-17T16:58:10Z",
@@ -1838,21 +1853,6 @@
       "user": "andyhuo520"
     },
     {
-      "title": "khalildh/garment-notation - GitHub Repository",
-      "url": "https://github.com/khalildh/garment-notation",
-      "published_at": "2026-02-17T06:50:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "khalildh"
-    },
-    {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
       "url": "https://github.com/HKUDS/ClawWork",
       "published_at": "2026-02-15T16:41:38Z",
@@ -1864,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2496,
+      "stars": 2530,
       "user": "HKUDS"
     },
     {
@@ -1879,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 843,
       "user": "HKUDS"
     },
     {
@@ -1894,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "MooseGoose0701"
     },
     {
@@ -1939,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 897,
       "user": "mickamy"
     },
     {
@@ -1969,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 464,
       "user": "klawsh"
     },
     {
@@ -1984,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 188,
       "user": "Gentleman-Programming"
     },
     {
