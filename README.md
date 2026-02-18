@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-18 14:00 CAT)
+## 📅 Latest Updates (2026-02-18 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak) _[Dev.to]_
 - [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o) _[Dev.to]_
 
-_Last automated update: Wed, 18 Feb 2026 14:57:03 CAT_
+_Last automated update: Wed, 18 Feb 2026 16:07:46 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 18 Feb 2026 14:57:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 18 Feb 2026 12:57:03 GMT</b><br/>
+  <b>Last automated update: Wed, 18 Feb 2026 14:07:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
