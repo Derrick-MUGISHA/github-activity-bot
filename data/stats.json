@@ -1,12 +1,12 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 40,
+    "AI": 41,
     "JavaScript": 31,
     "Python": 18,
     "DevOps": 3,
@@ -15,7 +15,7 @@
     "Cloud": 6,
     "Database": 4,
     "Security": 3,
-    "Tools": 26
+    "Tools": 27
   },
   "by_language": {
     "Go": 18,
@@ -27,7 +27,7 @@
     "PHP": 2
   },
   "by_date": {
-    "2026-02-18": 5,
+    "2026-02-18": 6,
     "2026-02-17": 18,
     "2026-02-16": 8,
     "2026-02-15": 8,
@@ -70,18 +70,18 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 18,
+    "ai": 19,
     "webdev": 16,
     "github": 15,
     "open-source": 15,
     "discuss": 13,
     "javascript": 13,
-    "programming": 11,
+    "programming": 12,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "productivity": 8,
     "python": 8,
-    "productivity": 7,
     "career": 6,
     "opensource": 6,
     "go": 6,
