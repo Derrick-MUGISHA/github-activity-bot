@@ -179,21 +179,6 @@
       "user": "Loaiabdalslam"
     },
     {
-      "title": "After 2 years of AI-assisted coding, I automated the one thing that actually improved quality: AI Pair Programming",
-      "url": "https://dev.to/yw1975/after-2-years-of-ai-assisted-coding-i-automated-the-one-thing-that-actually-improved-quality-ai-2njh",
-      "published_at": "2026-02-16T09:14:05Z",
-      "description": "After nearly 2 years of AI-assisted development — from ChatGPT 3.5 to Claude Code — I kept hitting...",
-      "tags": [
-        "ai",
-        "programming",
-        "discuss",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8ehm3vhr8p4tsdya3zy.png",
-      "source": "Dev.to",
-      "user": "Sakiharu"
-    },
-    {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
       "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
       "published_at": "2026-02-13T19:52:20Z",
@@ -513,7 +498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "andyhuo520"
     },
     {
@@ -528,7 +513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 211,
       "user": "marswei"
     },
     {
@@ -543,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1824,
+      "stars": 1863,
       "user": "HKUDS"
     },
     {
@@ -558,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "Nasiko-Labs"
     },
     {
@@ -573,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 445,
       "user": "klawsh"
     },
     {
@@ -588,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "Gentleman-Programming"
     }
   ],
@@ -963,7 +948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "andyhuo520"
     },
     {
@@ -978,7 +963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 211,
       "user": "marswei"
     },
     {
@@ -1203,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1824,
+      "stars": 1863,
       "user": "HKUDS"
     },
     {
@@ -1218,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 818,
       "user": "HKUDS"
     },
     {
@@ -1263,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "Nasiko-Labs"
     }
   ],
@@ -1503,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 445,
       "user": "klawsh"
     }
   ],
@@ -1547,7 +1532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 887,
       "user": "mickamy"
     },
     {
@@ -1562,7 +1547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1625,6 +1610,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
       "source": "Dev.to",
       "user": "NorthernDev"
+    },
+    {
+      "title": "Who Are We Still Writing Technical Articles For?",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
+      "published_at": "2026-02-17T12:34:14Z",
+      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "writing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
+      "source": "Dev.to",
+      "user": "Pascal CESCATO"
     },
     {
       "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
@@ -1815,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "andyhuo520"
     },
     {
@@ -1830,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 211,
       "user": "marswei"
     },
     {
@@ -1890,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1824,
+      "stars": 1863,
       "user": "HKUDS"
     },
     {
@@ -1905,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 818,
       "user": "HKUDS"
     },
     {
@@ -1950,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "Nasiko-Labs"
     },
     {
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 887,
       "user": "mickamy"
     },
     {
@@ -1980,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 465,
       "user": "pinchtab"
     },
     {
@@ -1995,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 445,
       "user": "klawsh"
     },
     {
@@ -2010,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "Gentleman-Programming"
     },
     {
