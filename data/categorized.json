@@ -255,6 +255,19 @@
       "user": "Natnael Getenew"
     },
     {
+      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
+      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
+      "published_at": "2026-02-08T07:00:00Z",
+      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
+      "tags": [
+        "aiassisteddevelopmen",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
+      "source": "Dev.to",
+      "user": "Stephan Miller"
+    },
+    {
       "title": "Do people still genuinely care about technical articles ?",
       "url": "https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk",
       "published_at": "2026-02-15T23:42:17Z",
@@ -267,19 +280,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png",
       "source": "Dev.to",
       "user": "Makanju Oluwafemi"
-    },
-    {
-      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
-      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
-      "published_at": "2026-02-08T07:00:00Z",
-      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
-      "tags": [
-        "aiassisteddevelopmen",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
-      "source": "Dev.to",
-      "user": "Stephan Miller"
     },
     {
       "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
@@ -514,7 +514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "marswei"
     },
     {
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2185,
+      "stars": 2264,
       "user": "HKUDS"
     },
     {
@@ -559,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 459,
       "user": "klawsh"
     },
     {
@@ -574,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "Gentleman-Programming"
     }
   ],
@@ -966,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "marswei"
     },
     {
@@ -996,7 +996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 110,
       "user": "andyhuo520"
     },
     {
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2185,
+      "stars": 2264,
       "user": "HKUDS"
     },
     {
@@ -1206,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 835,
       "user": "HKUDS"
     },
     {
@@ -1221,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 696,
       "user": "MooseGoose0701"
     },
     {
@@ -1521,7 +1521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 459,
       "user": "klawsh"
     }
   ],
@@ -1565,7 +1565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 893,
       "user": "mickamy"
     },
     {
@@ -1580,7 +1580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1645,21 +1645,6 @@
       "user": "NorthernDev"
     },
     {
-      "title": "Who Are We Still Writing Technical Articles For?",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
-      "published_at": "2026-02-17T12:34:14Z",
-      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
-      "tags": [
-        "career",
-        "discuss",
-        "productivity",
-        "writing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
-      "source": "Dev.to",
-      "user": "Pascal CESCATO"
-    },
-    {
       "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
       "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
       "published_at": "2026-02-17T13:16:09Z",
@@ -1703,6 +1688,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Who Are We Still Writing Technical Articles For?",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
+      "published_at": "2026-02-17T12:34:14Z",
+      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "writing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
+      "source": "Dev.to",
+      "user": "Pascal CESCATO"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -1834,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "marswei"
     },
     {
@@ -1864,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 110,
       "user": "andyhuo520"
     },
     {
@@ -1894,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2185,
+      "stars": 2264,
       "user": "HKUDS"
     },
     {
@@ -1909,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 835,
       "user": "HKUDS"
     },
     {
@@ -1924,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 696,
       "user": "MooseGoose0701"
     },
     {
@@ -1969,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 893,
       "user": "mickamy"
     },
     {
@@ -1984,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 575,
       "user": "pinchtab"
     },
     {
@@ -1999,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 459,
       "user": "klawsh"
     },
     {
@@ -2014,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "Gentleman-Programming"
     },
     {
@@ -2029,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6614616?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 116,
       "user": "DatanoiseTV"
     }
   ]
