@@ -9,7 +9,7 @@
     "AI": 41,
     "JavaScript": 31,
     "Python": 18,
-    "DevOps": 5,
+    "DevOps": 4,
     "WebDev": 5,
     "Mobile": 2,
     "Cloud": 6,
@@ -27,7 +27,7 @@
     "PHP": 2
   },
   "by_date": {
-    "2026-02-18": 4,
+    "2026-02-18": 5,
     "2026-02-17": 18,
     "2026-02-16": 8,
     "2026-02-15": 9,
@@ -37,7 +37,7 @@
     "2026-02-11": 2,
     "2026-02-14": 3,
     "2026-02-08": 4,
-    "2026-02-09": 5,
+    "2026-02-09": 4,
     "2026-02-06": 2,
     "2026-02-05": 3,
     "2024-02-27": 1,
@@ -70,7 +70,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 18,
+    "ai": 19,
     "webdev": 16,
     "github": 15,
     "open-source": 15,
@@ -88,8 +88,8 @@
     "typescript": 5,
     "showdev": 4,
     "react": 4,
-    "devops": 4,
-    "frontend": 4
+    "frontend": 4,
+    "softwareengineering": 3
   },
   "trending_topics": [],
   "language_percentages": {
