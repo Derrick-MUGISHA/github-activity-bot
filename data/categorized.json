@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
-      "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
-      "published_at": "2026-02-17T18:27:56Z",
-      "description": "Hundreds of developers have already completed our first DEV Education Track, and today we're excited...",
-      "tags": [
-        "agents",
-        "gemini",
-        "ai",
-        "buildmultiagents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyedmo3tx4u5ewng0f8k.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
       "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
       "published_at": "2026-02-17T12:42:44Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
       "source": "Dev.to",
       "user": "NorthernDev"
+    },
+    {
+      "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
+      "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
+      "published_at": "2026-02-17T18:27:56Z",
+      "description": "Hundreds of developers have already completed our first DEV Education Track, and today we're excited...",
+      "tags": [
+        "agents",
+        "gemini",
+        "ai",
+        "buildmultiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyedmo3tx4u5ewng0f8k.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Vouch: Mitchell Hashimoto’s Experiment in Restoring Trust to Open Source",
@@ -45,21 +45,6 @@
       "user": "Richard Pascoe"
     },
     {
-      "title": "How My Team Aligns on Prompting for Production",
-      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
-      "published_at": "2026-02-17T16:53:46Z",
-      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
-      "tags": [
-        "ai",
-        "devops",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
-      "source": "Dev.to",
-      "user": "Adam Ross"
-    },
-    {
       "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
       "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
       "published_at": "2026-02-17T13:16:09Z",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o5e4njpr1e3l7o1e8iw.png",
       "source": "Dev.to",
       "user": "Julien Avezou"
+    },
+    {
+      "title": "How My Team Aligns on Prompting for Production",
+      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+      "published_at": "2026-02-17T16:53:46Z",
+      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+      "tags": [
+        "ai",
+        "devops",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
+      "source": "Dev.to",
+      "user": "Adam Ross"
     },
     {
       "title": "The Ghost in the Training Set",
@@ -269,6 +269,20 @@
       "user": "Natnael Getenew"
     },
     {
+      "title": "Do people still genuinely care about technical articles ?",
+      "url": "https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk",
+      "published_at": "2026-02-15T23:42:17Z",
+      "description": "AI has spread like wildfire. In software development especially, it’s changing how we learn and solve...",
+      "tags": [
+        "community",
+        "discuss",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png",
+      "source": "Dev.to",
+      "user": "Makanju Oluwafemi"
+    },
+    {
       "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
       "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
       "published_at": "2026-02-08T07:00:00Z",
@@ -354,21 +368,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
       "source": "Dev.to",
       "user": "Jawad Elhaouchi"
-    },
-    {
-      "title": "Tailwind Alchemist: find all tailwind colors in your codebase",
-      "url": "https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o",
-      "published_at": "2026-02-04T15:29:15Z",
-      "description": "When you're using libs like DaisyUI, you don't want to hardcode Tailwind color names in your codebase. I built a tool for this.",
-      "tags": [
-        "tailwindcss",
-        "css",
-        "design",
-        "daisyui"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlhkbns7bimt1lcj751w.webp",
-      "source": "Dev.to",
-      "user": "Yann Rabiller"
     },
     {
       "title": "Airfoil",
@@ -529,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 197,
       "user": "marswei"
     },
     {
@@ -544,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1740,
       "user": "HKUDS"
     },
     {
@@ -580,21 +579,6 @@
   ],
   "JavaScript": [
     {
-      "title": "How a DEV Friend and I Brought Two Avatars to Life",
-      "url": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
-      "published_at": "2026-02-16T06:31:42Z",
-      "description": "I met @webdeveloperhyper on the DEV Community, and like most good internet collaborations, it started...",
-      "tags": [
-        "webdev",
-        "sideprojects",
-        "animation",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feifm5cpen8arsfq86w8x.png",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
-    },
-    {
       "title": "I'm Done With Magic. Here's What I Built Instead.",
       "url": "https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988",
       "published_at": "2026-02-17T13:30:04Z",
@@ -608,6 +592,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftys3ri3yx1u704s4x1hh.png",
       "source": "Dev.to",
       "user": "Matteo Antony Mistretta"
+    },
+    {
+      "title": "How a DEV Friend and I Brought Two Avatars to Life",
+      "url": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
+      "published_at": "2026-02-16T06:31:42Z",
+      "description": "I met @webdeveloperhyper on the DEV Community, and like most good internet collaborations, it started...",
+      "tags": [
+        "webdev",
+        "sideprojects",
+        "animation",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feifm5cpen8arsfq86w8x.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
     },
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
@@ -698,6 +697,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
       "source": "Dev.to",
       "user": "Ale"
+    },
+    {
+      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
+      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
+      "published_at": "2026-02-12T06:27:14Z",
+      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
+      "tags": [
+        "supabase",
+        "react",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
+      "source": "Dev.to",
+      "user": "Fongoh Martin T."
     },
     {
       "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
@@ -801,21 +815,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjagxgiuxa00z49mux5q.png",
       "source": "Dev.to",
       "user": "Mikhail Panichev"
-    },
-    {
-      "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
-      "url": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
-      "published_at": "2026-02-10T10:43:07Z",
-      "description": "There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...",
-      "tags": [
-        "javascript",
-        "node",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -964,7 +963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 197,
       "user": "marswei"
     },
     {
@@ -1189,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1740,
       "user": "HKUDS"
     },
     {
@@ -1204,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 803,
       "user": "HKUDS"
     },
     {
@@ -1219,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 653,
       "user": "MooseGoose0701"
     },
     {
@@ -1234,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 439,
       "user": "Mathews-Tom"
     },
     {
@@ -1249,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 305,
       "user": "tomascupr"
     }
   ],
@@ -1374,36 +1373,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkq59jrkovfykwng8w4uh.png",
       "source": "Dev.to",
       "user": "Rostislav B"
-    },
-    {
-      "title": "Tailwind Alchemist: find all tailwind colors in your codebase",
-      "url": "https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o",
-      "published_at": "2026-02-04T15:29:15Z",
-      "description": "When you're using libs like DaisyUI, you don't want to hardcode Tailwind color names in your codebase. I built a tool for this.",
-      "tags": [
-        "tailwindcss",
-        "css",
-        "design",
-        "daisyui"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlhkbns7bimt1lcj751w.webp",
-      "source": "Dev.to",
-      "user": "Yann Rabiller"
-    },
-    {
-      "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
-      "url": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
-      "published_at": "2026-02-10T10:43:07Z",
-      "description": "There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...",
-      "tags": [
-        "javascript",
-        "node",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmlh83h6s8tn7i06niz.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1540,6 +1509,21 @@
   ],
   "Database": [
     {
+      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
+      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
+      "published_at": "2026-02-12T06:27:14Z",
+      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
+      "tags": [
+        "supabase",
+        "react",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
+      "source": "Dev.to",
+      "user": "Fongoh Martin T."
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1563,7 +1547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 883,
       "user": "mickamy"
     },
     {
@@ -1658,21 +1642,6 @@
       "user": "NorthernDev"
     },
     {
-      "title": "How My Team Aligns on Prompting for Production",
-      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
-      "published_at": "2026-02-17T16:53:46Z",
-      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
-      "tags": [
-        "ai",
-        "devops",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
-      "source": "Dev.to",
-      "user": "Adam Ross"
-    },
-    {
       "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
       "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
       "published_at": "2026-02-17T13:16:09Z",
@@ -1686,6 +1655,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o5e4njpr1e3l7o1e8iw.png",
       "source": "Dev.to",
       "user": "Julien Avezou"
+    },
+    {
+      "title": "How My Team Aligns on Prompting for Production",
+      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+      "published_at": "2026-02-17T16:53:46Z",
+      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+      "tags": [
+        "ai",
+        "devops",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
+      "source": "Dev.to",
+      "user": "Adam Ross"
     },
     {
       "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
@@ -1835,21 +1819,6 @@
       "user": "ak"
     },
     {
-      "title": "Tailwind Alchemist: find all tailwind colors in your codebase",
-      "url": "https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o",
-      "published_at": "2026-02-04T15:29:15Z",
-      "description": "When you're using libs like DaisyUI, you don't want to hardcode Tailwind color names in your codebase. I built a tool for this.",
-      "tags": [
-        "tailwindcss",
-        "css",
-        "design",
-        "daisyui"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlhkbns7bimt1lcj751w.webp",
-      "source": "Dev.to",
-      "user": "Yann Rabiller"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1876,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 197,
       "user": "marswei"
     },
     {
@@ -1936,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1740,
       "user": "HKUDS"
     },
     {
@@ -1951,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 803,
       "user": "HKUDS"
     },
     {
@@ -1966,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 653,
       "user": "MooseGoose0701"
     },
     {
@@ -1981,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 439,
       "user": "Mathews-Tom"
     },
     {
@@ -1996,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 305,
       "user": "tomascupr"
     },
     {
@@ -2011,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 883,
       "user": "mickamy"
     },
     {
@@ -2041,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 387,
       "user": "pinchtab"
     },
     {
