@@ -31,20 +31,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Vouch: Mitchell Hashimoto’s Experiment in Restoring Trust to Open Source",
-      "url": "https://dev.to/richardpascoe/vouch-mitchell-hashimotos-experiment-in-restoring-trust-to-open-source-7l8",
-      "published_at": "2026-02-16T09:00:28Z",
-      "description": "Open source has always operated on an implicit social contract:   If you care enough to contribute,...",
-      "tags": [
-        "discuss",
-        "ai",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8g2mpzowqcw2vd55t69.png",
-      "source": "Dev.to",
-      "user": "Richard Pascoe"
-    },
-    {
       "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
       "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
       "published_at": "2026-02-17T13:16:09Z",
@@ -75,21 +61,6 @@
       "user": "Adam Ross"
     },
     {
-      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
-      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
-      "published_at": "2026-02-15T16:13:01Z",
-      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
-      "tags": [
-        "ai",
-        "career",
-        "productivity",
-        "codenewbie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "The Ghost in the Training Set",
       "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
       "published_at": "2026-02-16T20:10:18Z",
@@ -118,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68q3zny08k573e6dp5la.png",
       "source": "Dev.to",
       "user": "aj1thkr1sh"
+    },
+    {
+      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
+      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
+      "published_at": "2026-02-15T16:13:01Z",
+      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+      "tags": [
+        "ai",
+        "career",
+        "productivity",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -513,7 +499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "andyhuo520"
     },
     {
@@ -528,7 +514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "marswei"
     },
     {
@@ -543,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2035,
+      "stars": 2102,
       "user": "HKUDS"
     },
     {
@@ -573,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 454,
       "user": "klawsh"
     },
     {
@@ -963,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "andyhuo520"
     },
     {
@@ -978,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "marswei"
     },
     {
@@ -993,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "iltekin"
     },
     {
@@ -1008,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 97,
       "user": "andyhuo520"
     },
     {
@@ -1028,6 +1014,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "I built an API that detects chess tactical patterns from FEN and PGN",
+      "url": "https://dev.to/stevejvv/i-built-an-api-that-detects-chess-tactical-patterns-from-fen-and-pgn-5ef0",
+      "published_at": "2026-02-17T22:48:09Z",
+      "description": "I've been working on ChessGrammar, an API that takes a chess  position (FEN) or a full game (PGN) and...",
+      "tags": [
+        "chess",
+        "python",
+        "api",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft4ja9mpsntwunxayu2gx.png",
+      "source": "Dev.to",
+      "user": "stevejvv"
+    },
     {
       "title": "Checking Django Settings",
       "url": "https://dev.to/adamghill/checking-django-settings-12g4",
@@ -1188,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2035,
+      "stars": 2102,
       "user": "HKUDS"
     },
     {
@@ -1203,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 828,
       "user": "HKUDS"
     },
     {
@@ -1218,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 686,
       "user": "MooseGoose0701"
     },
     {
@@ -1267,6 +1268,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
       "source": "Dev.to",
       "user": "Adam Ross"
+    },
+    {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
     },
     {
       "title": "Using Laravel Boost With DDEV",
@@ -1451,6 +1467,21 @@
       "user": "DeVoresyah ArEst"
     },
     {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
+    },
+    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1503,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 454,
       "user": "klawsh"
     }
   ],
@@ -1547,7 +1578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 892,
       "user": "mickamy"
     },
     {
@@ -1761,20 +1792,6 @@
       "user": "Heng Lu"
     },
     {
-      "title": "Remember Your First Computer Book?",
-      "url": "https://dev.to/richardpascoe/remember-your-first-computer-book-4fml",
-      "published_at": "2026-02-13T08:00:08Z",
-      "description": "We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...",
-      "tags": [
-        "discuss",
-        "community",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png",
-      "source": "Dev.to",
-      "user": "Richard Pascoe"
-    },
-    {
       "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
       "url": "https://dev.to/bengreenberg/openclaw-is-incredible-setting-it-up-shouldnt-require-a-cs-degree-36nk",
       "published_at": "2026-02-09T17:29:54Z",
@@ -1819,21 +1836,6 @@
       "user": "Tom Yahav"
     },
     {
-      "title": "Introducing XRest: A Service-First REST Client for Microservices Teams",
-      "url": "https://dev.to/akdevblog/introducing-xrest-a-service-first-rest-client-for-microservices-teams-ffm",
-      "published_at": "2026-02-03T22:55:08Z",
-      "description": "This was originally published in my blog here  TLDR; modern REST clients follow a collections-first...",
-      "tags": [
-        "servicefirst",
-        "apiclient",
-        "gitnative",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpndzda4zsfh3dv2dct0m.png",
-      "source": "Dev.to",
-      "user": "ak"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1845,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "andyhuo520"
     },
     {
@@ -1860,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "marswei"
     },
     {
@@ -1875,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "iltekin"
     },
     {
@@ -1890,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 97,
       "user": "andyhuo520"
     },
     {
@@ -1920,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2035,
+      "stars": 2102,
       "user": "HKUDS"
     },
     {
@@ -1935,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 828,
       "user": "HKUDS"
     },
     {
@@ -1950,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 686,
       "user": "MooseGoose0701"
     },
     {
@@ -1995,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 892,
       "user": "mickamy"
     },
     {
@@ -2010,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 527,
       "user": "pinchtab"
     },
     {
@@ -2025,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 454,
       "user": "klawsh"
     },
     {
@@ -2055,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6614616?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 85,
       "user": "DatanoiseTV"
     }
   ]
