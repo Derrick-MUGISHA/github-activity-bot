@@ -75,21 +75,6 @@
       "user": "Adam Ross"
     },
     {
-      "title": "The Ghost in the Training Set",
-      "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
-      "published_at": "2026-02-16T20:10:18Z",
-      "description": "During the last several weeks, I've run into setting up MCP servers a few times and noticed something...",
-      "tags": [
-        "ai",
-        "mcp",
-        "programming",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
-      "source": "Dev.to",
-      "user": "Alessandro Bahgat"
-    },
-    {
       "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
       "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
       "published_at": "2026-02-15T16:13:01Z",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "The Ghost in the Training Set",
+      "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
+      "published_at": "2026-02-16T20:10:18Z",
+      "description": "During the last several weeks, I've run into setting up MCP servers a few times and noticed something...",
+      "tags": [
+        "ai",
+        "mcp",
+        "programming",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
+      "source": "Dev.to",
+      "user": "Alessandro Bahgat"
     },
     {
       "title": "CNN-LSTM Hybrid Architecture for Thanglish-to-Tamil : Bridging 26 Letters to 247 Characters",
@@ -355,6 +355,21 @@
       "user": "Jawad Elhaouchi"
     },
     {
+      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
+      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
+      "published_at": "2026-02-16T20:48:42Z",
+      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
+      "tags": [
+        "claude",
+        "ai",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
+      "source": "Dev.to",
+      "user": "Tom Yahav"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -513,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "marswei"
     },
     {
@@ -528,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1863,
+      "stars": 1939,
       "user": "HKUDS"
     },
     {
@@ -543,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "Nasiko-Labs"
     },
     {
@@ -558,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 448,
       "user": "klawsh"
     },
     {
@@ -573,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 178,
       "user": "Gentleman-Programming"
     }
   ],
@@ -963,7 +978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "marswei"
     },
     {
@@ -982,6 +997,21 @@
       "user": "iltekin"
     },
     {
+      "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
+      "url": "https://github.com/andyhuo520/rf-detr-detection",
+      "published_at": "2026-02-17T16:58:10Z",
+      "description": "基于 RF-DETR 的浏览器端实时目标检测应用",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "andyhuo520"
+    },
+    {
       "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
       "url": "https://github.com/gxjansen/claude-code-meter",
       "published_at": "2026-02-15T10:44:13Z",
@@ -995,21 +1025,6 @@
       "source": "GitHub",
       "stars": 80,
       "user": "gxjansen"
-    },
-    {
-      "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
-      "url": "https://github.com/andyhuo520/rf-detr-detection",
-      "published_at": "2026-02-17T16:58:10Z",
-      "description": "基于 RF-DETR 的浏览器端实时目标检测应用",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "andyhuo520"
     }
   ],
   "Python": [
@@ -1025,21 +1040,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2z8mus2r8brov30837a.png",
       "source": "Dev.to",
       "user": "Adam Hill"
-    },
-    {
-      "title": "I Built a Self-Hosted Google Trends Alternative with DuckDB",
-      "url": "https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57",
-      "published_at": "2026-02-11T16:16:43Z",
-      "description": "TL;DR: Track SERP rankings, title changes, and competitor data Google Trends won’t show. Built with...",
-      "tags": [
-        "webdev",
-        "python",
-        "programming",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy47kf4rllj3ih8gysd4e.png",
-      "source": "Dev.to",
-      "user": "Prithwish Nath"
     },
     {
       "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
@@ -1188,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1863,
+      "stars": 1939,
       "user": "HKUDS"
     },
     {
@@ -1203,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 820,
       "user": "HKUDS"
     },
     {
@@ -1218,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 677,
       "user": "MooseGoose0701"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 448,
       "user": "Mathews-Tom"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "Nasiko-Labs"
     }
   ],
@@ -1375,6 +1375,21 @@
       "user": "Rostislav B"
     },
     {
+      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
+      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
+      "published_at": "2026-02-16T20:48:42Z",
+      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
+      "tags": [
+        "claude",
+        "ai",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
+      "source": "Dev.to",
+      "user": "Tom Yahav"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1488,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 448,
       "user": "klawsh"
     }
   ],
@@ -1532,7 +1547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 888,
       "user": "mickamy"
     },
     {
@@ -1547,7 +1562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 178,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1746,6 +1761,20 @@
       "user": "Heng Lu"
     },
     {
+      "title": "Remember Your First Computer Book?",
+      "url": "https://dev.to/richardpascoe/remember-your-first-computer-book-4fml",
+      "published_at": "2026-02-13T08:00:08Z",
+      "description": "We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...",
+      "tags": [
+        "discuss",
+        "community",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png",
+      "source": "Dev.to",
+      "user": "Richard Pascoe"
+    },
+    {
       "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
       "url": "https://dev.to/bengreenberg/openclaw-is-incredible-setting-it-up-shouldnt-require-a-cs-degree-36nk",
       "published_at": "2026-02-09T17:29:54Z",
@@ -1775,18 +1804,19 @@
       "user": "David Dias"
     },
     {
-      "title": "Remember Your First Computer Book?",
-      "url": "https://dev.to/richardpascoe/remember-your-first-computer-book-4fml",
-      "published_at": "2026-02-13T08:00:08Z",
-      "description": "We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...",
+      "title": "I Built a CLI That Turns Claude Code's /insights Report Into Actionable Skills, Rules, and Workflows",
+      "url": "https://dev.to/yahav10/i-built-a-cli-that-turns-claude-codes-insights-report-into-actionable-skills-rules-and-workflows-377",
+      "published_at": "2026-02-16T20:48:42Z",
+      "description": "claude-insights parses your Claude Code /insight HTML report and generates personalized CLAUDE.md rules, custom skills, hook configs, and a prioritized to-do list — all derived from your actual friction patterns.",
       "tags": [
-        "discuss",
-        "community",
-        "learning"
+        "claude",
+        "ai",
+        "cli",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjeagf4h6vm2se1djfuza.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g48zl8f4qd2toifs9uc.png",
       "source": "Dev.to",
-      "user": "Richard Pascoe"
+      "user": "Tom Yahav"
     },
     {
       "title": "Introducing XRest: A Service-First REST Client for Microservices Teams",
@@ -1830,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "marswei"
     },
     {
@@ -1849,6 +1879,21 @@
       "user": "iltekin"
     },
     {
+      "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
+      "url": "https://github.com/andyhuo520/rf-detr-detection",
+      "published_at": "2026-02-17T16:58:10Z",
+      "description": "基于 RF-DETR 的浏览器端实时目标检测应用",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "andyhuo520"
+    },
+    {
       "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
       "url": "https://github.com/gxjansen/claude-code-meter",
       "published_at": "2026-02-15T10:44:13Z",
@@ -1864,21 +1909,6 @@
       "user": "gxjansen"
     },
     {
-      "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
-      "url": "https://github.com/andyhuo520/rf-detr-detection",
-      "published_at": "2026-02-17T16:58:10Z",
-      "description": "基于 RF-DETR 的浏览器端实时目标检测应用",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "andyhuo520"
-    },
-    {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
       "url": "https://github.com/HKUDS/ClawWork",
       "published_at": "2026-02-15T16:41:38Z",
@@ -1890,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1863,
+      "stars": 1939,
       "user": "HKUDS"
     },
     {
@@ -1905,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 820,
       "user": "HKUDS"
     },
     {
@@ -1920,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 677,
       "user": "MooseGoose0701"
     },
     {
@@ -1935,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 448,
       "user": "Mathews-Tom"
     },
     {
@@ -1950,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "Nasiko-Labs"
     },
     {
@@ -1965,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 888,
       "user": "mickamy"
     },
     {
@@ -1980,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 487,
       "user": "pinchtab"
     },
     {
@@ -1995,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 448,
       "user": "klawsh"
     },
     {
@@ -2010,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 178,
       "user": "Gentleman-Programming"
     },
     {

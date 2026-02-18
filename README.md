@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-18-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦🟦 6 (5.7%)
 
 **Cloud**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,13 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.6 (31.6%)
-Java            █████████████████████ 22.4 (22.4%)
-Go              █████████████████ 18.4 (18.4%)
-Python          █████████████████ 18.4 (18.4%)
-Rust            █████ 5.1 (5.1%)
-Swift           ██ 2.0 (2.0%)
-PHP             ██ 2.0 (2.0%)
+JavaScript      ██████████████████████████████ 32.3 (32.3%)
+Java            █████████████████████ 22.9 (22.9%)
+Go              ████████████████ 17.7 (17.7%)
+Python          ████████████████ 17.7 (17.7%)
+Rust            █████ 5.2 (5.2%)
+Swift           ██ 2.1 (2.1%)
+PHP             ██ 2.1 (2.1%)
 
 ```
 
@@ -74,8 +74,8 @@ PHP             ██ 2.0 (2.0%)
 pie title Programming Languages Distribution
     "JavaScript" : 31
     "Java" : 22
-    "Go" : 18
-    "Python" : 18
+    "Go" : 17
+    "Python" : 17
     "Rust" : 5
     "Swift" : 2
     "PHP" : 2
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![career](https://img.shields.io/badge/career-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-13-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-9-blue) ![python](https://img.shields.io/badge/python-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-18 13:00 CAT)
+## 📅 Latest Updates (2026-02-18 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -208,15 +208,15 @@ npm run test
 - [Can you order a pizza on my site? ❌ 99% Can't 😤](https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd) _[Dev.to]_
 - [How My Team Aligns on Prompting for Production](https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
-- [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 - [The Gatekeeping Panic: What AI Actually Threatens in Software Development](https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l) _[Dev.to]_
+- [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 - [CNN-LSTM Hybrid Architecture for Thanglish-to-Tamil : Bridging 26 Letters to 247 Characters](https://dev.to/aj1thkr1sh/cnn-lstm-hybrid-architecture-for-thanglish-to-tamil-bridging-26-letters-to-247-characters-j4n) _[Dev.to]_
 - [Building a Native-Feeling Theme System in SwiftUI](https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k) _[Dev.to]_
 - [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle) _[Dev.to]_
 - [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak) _[Dev.to]_
 - [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o) _[Dev.to]_
 
-_Last automated update: Wed, 18 Feb 2026 13:54:33 CAT_
+_Last automated update: Wed, 18 Feb 2026 14:57:03 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 18 Feb 2026 13:54:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 18 Feb 2026 11:54:33 GMT</b><br/>
+  <b>Last automated update: Wed, 18 Feb 2026 12:57:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
