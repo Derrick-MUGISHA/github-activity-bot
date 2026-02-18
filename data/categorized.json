@@ -90,21 +90,6 @@
       "user": "Alessandro Bahgat"
     },
     {
-      "title": "CNN-LSTM Hybrid Architecture for Thanglish-to-Tamil : Bridging 26 Letters to 247 Characters",
-      "url": "https://dev.to/aj1thkr1sh/cnn-lstm-hybrid-architecture-for-thanglish-to-tamil-bridging-26-letters-to-247-characters-j4n",
-      "published_at": "2026-02-17T07:13:24Z",
-      "description": "Built a CNN-LSTM hybrid architecture for Thanglish-to-Tamil transliteration that outperforms BiGRU+Attention while being 16x smaller—proving that 1D convolutions can efficiently capture local n-gram patterns for character-level sequence tasks. Sometimes the simplest architecture wins when it aligns with the problem's inherent structure 🚀",
-      "tags": [
-        "cnn",
-        "lstm",
-        "ai",
-        "tamil"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68q3zny08k573e6dp5la.png",
-      "source": "Dev.to",
-      "user": "aj1thkr1sh"
-    },
-    {
       "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
       "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
       "published_at": "2026-02-15T16:13:01Z",
@@ -118,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "CNN-LSTM Hybrid Architecture for Thanglish-to-Tamil : Bridging 26 Letters to 247 Characters",
+      "url": "https://dev.to/aj1thkr1sh/cnn-lstm-hybrid-architecture-for-thanglish-to-tamil-bridging-26-letters-to-247-characters-j4n",
+      "published_at": "2026-02-17T07:13:24Z",
+      "description": "Built a CNN-LSTM hybrid architecture for Thanglish-to-Tamil transliteration that outperforms BiGRU+Attention while being 16x smaller—proving that 1D convolutions can efficiently capture local n-gram patterns for character-level sequence tasks. Sometimes the simplest architecture wins when it aligns with the problem's inherent structure 🚀",
+      "tags": [
+        "cnn",
+        "lstm",
+        "ai",
+        "tamil"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68q3zny08k573e6dp5la.png",
+      "source": "Dev.to",
+      "user": "aj1thkr1sh"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -528,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 201,
       "user": "marswei"
     },
     {
@@ -543,8 +543,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1763,
+      "stars": 1781,
       "user": "HKUDS"
+    },
+    {
+      "title": "Nasiko-Labs/nasiko - AI-powered development platform for the future",
+      "url": "https://github.com/Nasiko-Labs/nasiko",
+      "published_at": "2026-02-12T10:45:29Z",
+      "description": "AI-powered development platform for the future",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
+      "source": "GitHub",
+      "stars": 338,
+      "user": "Nasiko-Labs"
     },
     {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
@@ -558,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 443,
       "user": "klawsh"
     },
     {
@@ -573,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "Gentleman-Programming"
     }
   ],
@@ -963,7 +978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 201,
       "user": "marswei"
     },
     {
@@ -1008,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 72,
       "user": "andyhuo520"
     }
   ],
@@ -1188,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1763,
+      "stars": 1781,
       "user": "HKUDS"
     },
     {
@@ -1203,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 806,
       "user": "HKUDS"
     },
     {
@@ -1218,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 666,
       "user": "MooseGoose0701"
     },
     {
@@ -1233,23 +1248,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 444,
       "user": "Mathews-Tom"
     },
     {
-      "title": "tomascupr/sandstorm - One API call. Full Claude agent. Completely sandboxed.",
-      "url": "https://github.com/tomascupr/sandstorm",
-      "published_at": "2026-02-14T14:26:15Z",
-      "description": "One API call. Full Claude agent. Completely sandboxed.",
+      "title": "Nasiko-Labs/nasiko - AI-powered development platform for the future",
+      "url": "https://github.com/Nasiko-Labs/nasiko",
+      "published_at": "2026-02-12T10:45:29Z",
+      "description": "AI-powered development platform for the future",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 306,
-      "user": "tomascupr"
+      "stars": 338,
+      "user": "Nasiko-Labs"
     }
   ],
   "DevOps": [
@@ -1503,7 +1518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 443,
       "user": "klawsh"
     }
   ],
@@ -1547,7 +1562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 886,
       "user": "mickamy"
     },
     {
@@ -1562,7 +1577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1845,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 201,
       "user": "marswei"
     },
     {
@@ -1890,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 72,
       "user": "andyhuo520"
     },
     {
@@ -1905,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1763,
+      "stars": 1781,
       "user": "HKUDS"
     },
     {
@@ -1920,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 806,
       "user": "HKUDS"
     },
     {
@@ -1935,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 666,
       "user": "MooseGoose0701"
     },
     {
@@ -1950,23 +1965,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 444,
       "user": "Mathews-Tom"
     },
     {
-      "title": "tomascupr/sandstorm - One API call. Full Claude agent. Completely sandboxed.",
-      "url": "https://github.com/tomascupr/sandstorm",
-      "published_at": "2026-02-14T14:26:15Z",
-      "description": "One API call. Full Claude agent. Completely sandboxed.",
+      "title": "Nasiko-Labs/nasiko - AI-powered development platform for the future",
+      "url": "https://github.com/Nasiko-Labs/nasiko",
+      "published_at": "2026-02-12T10:45:29Z",
+      "description": "AI-powered development platform for the future",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
       "source": "GitHub",
-      "stars": 306,
-      "user": "tomascupr"
+      "stars": 338,
+      "user": "Nasiko-Labs"
     },
     {
       "title": "mickamy/sql-tap - Watch SQL traffic in real-time with a TUI",
@@ -1980,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 886,
       "user": "mickamy"
     },
     {
@@ -1995,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 443,
       "user": "klawsh"
     },
     {
@@ -2010,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 410,
       "user": "pinchtab"
     },
     {
@@ -2025,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "Gentleman-Programming"
     },
     {
