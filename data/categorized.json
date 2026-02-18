@@ -513,7 +513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "andyhuo520"
     },
     {
@@ -532,21 +532,6 @@
       "user": "marswei"
     },
     {
-      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
-      "published_at": "2026-02-11T05:12:06Z",
-      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "TheGreatAzizi"
-    },
-    {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
       "url": "https://github.com/HKUDS/ClawWork",
       "published_at": "2026-02-15T16:41:38Z",
@@ -558,23 +543,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1566,
+      "stars": 1574,
       "user": "HKUDS"
-    },
-    {
-      "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
-      "url": "https://github.com/RevylAI/greenlight",
-      "published_at": "2026-02-11T22:54:47Z",
-      "description": "Pre-submission compliance scanner for the Apple App Store",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
-      "source": "GitHub",
-      "stars": 1048,
-      "user": "RevylAI"
     },
     {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
@@ -588,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "klawsh"
     },
     {
@@ -603,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "Gentleman-Programming"
     }
   ],
@@ -993,7 +963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "andyhuo520"
     },
     {
@@ -1027,34 +997,34 @@
       "user": "iltekin"
     },
     {
-      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
-      "published_at": "2026-02-11T05:12:06Z",
-      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "url": "https://github.com/gxjansen/claude-code-meter",
+      "published_at": "2026-02-15T10:44:13Z",
+      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
       "source": "GitHub",
-      "stars": 100,
-      "user": "TheGreatAzizi"
+      "stars": 79,
+      "user": "gxjansen"
     },
     {
-      "title": "ancsemi/Haven - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "url": "https://github.com/ancsemi/Haven",
-      "published_at": "2026-02-11T05:16:20Z",
-      "description": "Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "title": "dontbesilent2025/extract-getnote-articles - 高效的 Claude Code Skill，用于自动提取 Get笔记知识库中的所有文章",
+      "url": "https://github.com/dontbesilent2025/extract-getnote-articles",
+      "published_at": "2026-02-15T05:06:17Z",
+      "description": "高效的 Claude Code Skill，用于自动提取 Get笔记知识库中的所有文章",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/230833095?v=4",
       "source": "GitHub",
-      "stars": 82,
-      "user": "ancsemi"
+      "stars": 64,
+      "user": "dontbesilent2025"
     }
   ],
   "Python": [
@@ -1233,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1566,
+      "stars": 1574,
       "user": "HKUDS"
     },
     {
@@ -1248,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 788,
       "user": "HKUDS"
     },
     {
@@ -1278,23 +1248,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "Mathews-Tom"
     },
     {
-      "title": "FireRedTeam/FireRed-Image-Edit - GitHub Repository",
-      "url": "https://github.com/FireRedTeam/FireRed-Image-Edit",
-      "published_at": "2026-02-11T09:25:09Z",
-      "description": "Trending GitHub Repository",
+      "title": "tomascupr/sandstorm - One API call. Full Claude agent. Completely sandboxed.",
+      "url": "https://github.com/tomascupr/sandstorm",
+      "published_at": "2026-02-14T14:26:15Z",
+      "description": "One API call. Full Claude agent. Completely sandboxed.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 390,
-      "user": "FireRedTeam"
+      "stars": 301,
+      "user": "tomascupr"
     }
   ],
   "DevOps": [
@@ -1582,36 +1552,6 @@
       "user": "JustExAWS"
     },
     {
-      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
-      "published_at": "2026-02-11T05:12:06Z",
-      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "TheGreatAzizi"
-    },
-    {
-      "title": "ancsemi/Haven - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "url": "https://github.com/ancsemi/Haven",
-      "published_at": "2026-02-11T05:16:20Z",
-      "description": "Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
-      "source": "GitHub",
-      "stars": 82,
-      "user": "ancsemi"
-    },
-    {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
       "url": "https://github.com/klawsh/klaw.sh",
       "published_at": "2026-02-15T04:18:19Z",
@@ -1623,7 +1563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "klawsh"
     }
   ],
@@ -1667,7 +1607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 870,
       "user": "mickamy"
     },
     {
@@ -1682,7 +1622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1965,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "andyhuo520"
     },
     {
@@ -1999,34 +1939,34 @@
       "user": "iltekin"
     },
     {
-      "title": "TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker - Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
-      "url": "https://github.com/TheGreatAzizi/Secure-DNS-over-HTTPS-Cloudflare-Worker",
-      "published_at": "2026-02-11T05:12:06Z",
-      "description": "Secure DNS over HTTPS Worker is a Cloudflare Worker that provides a custom DNS over HTTPS (DoH) endpoint along with a simple, educational web page for users. It allows users to securely encrypt their DNS queries using their own domain, protecting privacy and bypassing ISP-level monitoring.",
+      "title": "gxjansen/claude-code-meter - macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
+      "url": "https://github.com/gxjansen/claude-code-meter",
+      "published_at": "2026-02-15T10:44:13Z",
+      "description": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121211931?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/487722?v=4",
       "source": "GitHub",
-      "stars": 100,
-      "user": "TheGreatAzizi"
+      "stars": 79,
+      "user": "gxjansen"
     },
     {
-      "title": "ancsemi/Haven - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
-      "url": "https://github.com/ancsemi/Haven",
-      "published_at": "2026-02-11T05:16:20Z",
-      "description": "Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "title": "dontbesilent2025/extract-getnote-articles - 高效的 Claude Code Skill，用于自动提取 Get笔记知识库中的所有文章",
+      "url": "https://github.com/dontbesilent2025/extract-getnote-articles",
+      "published_at": "2026-02-15T05:06:17Z",
+      "description": "高效的 Claude Code Skill，用于自动提取 Get笔记知识库中的所有文章",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/249465243?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/230833095?v=4",
       "source": "GitHub",
-      "stars": 82,
-      "user": "ancsemi"
+      "stars": 64,
+      "user": "dontbesilent2025"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -2040,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1566,
+      "stars": 1574,
       "user": "HKUDS"
     },
     {
@@ -2055,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 788,
       "user": "HKUDS"
     },
     {
@@ -2085,38 +2025,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "Mathews-Tom"
     },
     {
-      "title": "FireRedTeam/FireRed-Image-Edit - GitHub Repository",
-      "url": "https://github.com/FireRedTeam/FireRed-Image-Edit",
-      "published_at": "2026-02-11T09:25:09Z",
-      "description": "Trending GitHub Repository",
+      "title": "tomascupr/sandstorm - One API call. Full Claude agent. Completely sandboxed.",
+      "url": "https://github.com/tomascupr/sandstorm",
+      "published_at": "2026-02-14T14:26:15Z",
+      "description": "One API call. Full Claude agent. Completely sandboxed.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178460259?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 390,
-      "user": "FireRedTeam"
-    },
-    {
-      "title": "RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store",
-      "url": "https://github.com/RevylAI/greenlight",
-      "published_at": "2026-02-11T22:54:47Z",
-      "description": "Pre-submission compliance scanner for the Apple App Store",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/137441477?v=4",
-      "source": "GitHub",
-      "stars": 1048,
-      "user": "RevylAI"
+      "stars": 301,
+      "user": "tomascupr"
     },
     {
       "title": "mickamy/sql-tap - Watch SQL traffic in real-time with a TUI",
@@ -2130,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 870,
       "user": "mickamy"
     },
     {
@@ -2145,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "klawsh"
     },
     {
@@ -2160,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 298,
       "user": "pinchtab"
     },
     {
@@ -2175,8 +2100,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "Gentleman-Programming"
+    },
+    {
+      "title": "NicolasHaas/gospeak - A privacy-focused voice communication server and client, inspired by TeamSpeak, built entirely in Go.",
+      "url": "https://github.com/NicolasHaas/gospeak",
+      "published_at": "2026-02-13T17:41:01Z",
+      "description": "A privacy-focused voice communication server and client, inspired by TeamSpeak, built entirely in Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/116176330?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "NicolasHaas"
     }
   ]
 }
