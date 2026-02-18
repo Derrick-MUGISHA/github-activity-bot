@@ -76,6 +76,21 @@
       "user": "Shir Meir Lador"
     },
     {
+      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
+      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
+      "published_at": "2026-02-18T14:10:39Z",
+      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
+      "tags": [
+        "writing",
+        "ai",
+        "watercooler",
+        "nanobanana"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
       "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
       "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
       "published_at": "2026-02-17T13:16:09Z",
@@ -356,21 +371,6 @@
       "user": "Ben Greenberg"
     },
     {
-      "title": "I Ditched My AI Agent Dashboard for Obsidian",
-      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
-      "published_at": "2026-02-08T15:46:00Z",
-      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
-      "tags": [
-        "openclaw",
-        "obsidian",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
-      "source": "Dev.to",
-      "user": "David Dias"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 227,
       "user": "marswei"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2446,
+      "stars": 2474,
       "user": "HKUDS"
     },
     {
@@ -574,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "klawsh"
     },
     {
@@ -589,7 +589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "Gentleman-Programming"
     }
   ],
@@ -820,21 +820,6 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
-      "title": "I Ditched My AI Agent Dashboard for Obsidian",
-      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
-      "published_at": "2026-02-08T15:46:00Z",
-      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
-      "tags": [
-        "openclaw",
-        "obsidian",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
-      "source": "Dev.to",
-      "user": "David Dias"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -981,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 227,
       "user": "marswei"
     },
     {
@@ -1026,7 +1011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 114,
       "user": "khalildh"
     }
   ],
@@ -1206,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2446,
+      "stars": 2474,
       "user": "HKUDS"
     },
     {
@@ -1221,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 841,
       "user": "HKUDS"
     },
     {
@@ -1506,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "klawsh"
     }
   ],
@@ -1565,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1793,21 +1778,6 @@
       "user": "Ben Greenberg"
     },
     {
-      "title": "I Ditched My AI Agent Dashboard for Obsidian",
-      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
-      "published_at": "2026-02-08T15:46:00Z",
-      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
-      "tags": [
-        "openclaw",
-        "obsidian",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
-      "source": "Dev.to",
-      "user": "David Dias"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1834,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 227,
       "user": "marswei"
     },
     {
@@ -1879,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 114,
       "user": "khalildh"
     },
     {
@@ -1894,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2446,
+      "stars": 2474,
       "user": "HKUDS"
     },
     {
@@ -1909,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 841,
       "user": "HKUDS"
     },
     {
@@ -1984,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 601,
       "user": "pinchtab"
     },
     {
@@ -1999,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "klawsh"
     },
     {
@@ -2014,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "Gentleman-Programming"
     },
     {
@@ -2029,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6614616?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "DatanoiseTV"
     }
   ]
