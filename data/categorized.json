@@ -46,6 +46,21 @@
       "user": "NorthernDev"
     },
     {
+      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
+      "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
+      "published_at": "2026-02-18T17:39:12Z",
+      "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
+      "tags": [
+        "antigravity",
+        "ai",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
       "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
       "published_at": "2026-02-17T13:16:09Z",
@@ -341,21 +356,6 @@
       "user": "David Dias"
     },
     {
-      "title": "What is a CaaS Platform and why we built one",
-      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
-      "published_at": "2026-02-09T03:16:00Z",
-      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
-      "tags": [
-        "kubernetes",
-        "platformengineering",
-        "devops",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
-      "source": "Dev.to",
-      "user": "Jawad Elhaouchi"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -499,7 +499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "andyhuo520"
     },
     {
@@ -514,7 +514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "marswei"
     },
     {
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2264,
+      "stars": 2308,
       "user": "HKUDS"
     },
     {
@@ -951,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "andyhuo520"
     },
     {
@@ -966,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "marswei"
     },
     {
@@ -996,7 +996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 113,
       "user": "andyhuo520"
     },
     {
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2264,
+      "stars": 2308,
       "user": "HKUDS"
     },
     {
@@ -1206,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 836,
       "user": "HKUDS"
     },
     {
@@ -1221,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 699,
       "user": "MooseGoose0701"
     },
     {
@@ -1236,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 455,
       "user": "Mathews-Tom"
     },
     {
@@ -1314,21 +1314,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
       "source": "Dev.to",
       "user": "Heng Lu"
-    },
-    {
-      "title": "What is a CaaS Platform and why we built one",
-      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
-      "published_at": "2026-02-09T03:16:00Z",
-      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
-      "tags": [
-        "kubernetes",
-        "platformengineering",
-        "devops",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
-      "source": "Dev.to",
-      "user": "Jawad Elhaouchi"
     }
   ],
   "WebDev": [
@@ -1439,6 +1424,21 @@
   ],
   "Cloud": [
     {
+      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
+      "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
+      "published_at": "2026-02-18T17:39:12Z",
+      "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
+      "tags": [
+        "antigravity",
+        "ai",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
       "published_at": "2026-02-15T10:27:55Z",
@@ -1481,21 +1481,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
       "source": "Dev.to",
       "user": "Heng Lu"
-    },
-    {
-      "title": "What is a CaaS Platform and why we built one",
-      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
-      "published_at": "2026-02-09T03:16:00Z",
-      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
-      "tags": [
-        "kubernetes",
-        "platformengineering",
-        "devops",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
-      "source": "Dev.to",
-      "user": "Jawad Elhaouchi"
     },
     {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
@@ -1565,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 894,
       "user": "mickamy"
     },
     {
@@ -1819,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "andyhuo520"
     },
     {
@@ -1834,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "marswei"
     },
     {
@@ -1864,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 113,
       "user": "andyhuo520"
     },
     {
@@ -1894,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2264,
+      "stars": 2308,
       "user": "HKUDS"
     },
     {
@@ -1909,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 836,
       "user": "HKUDS"
     },
     {
@@ -1924,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 699,
       "user": "MooseGoose0701"
     },
     {
@@ -1939,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 455,
       "user": "Mathews-Tom"
     },
     {
@@ -1969,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 894,
       "user": "mickamy"
     },
     {
@@ -1984,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 585,
       "user": "pinchtab"
     },
     {
@@ -2029,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6614616?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 125,
       "user": "DatanoiseTV"
     }
   ]
