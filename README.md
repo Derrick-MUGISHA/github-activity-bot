@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-18 7:00 CAT)
+## 📅 Latest Updates (2026-02-18 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,10 +151,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feifm5cpen8arsfq86w8x.png" width="200" alt="How a DEV Friend and I Brought Two Avatars to Life" />
+    <a href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png" width="200" alt="The most valuable skill in 2026 isn't writing code. It is deleting it." />
       <br/>
-      <b>How a DEV Friend and I Brought Two Avatars to Life</b>
+      <b>The most valuable skill in 2026 isn't writing code...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -162,10 +162,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png" width="200" alt="The most valuable skill in 2026 isn't writing code. It is deleting it." />
+    <a href="https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feifm5cpen8arsfq86w8x.png" width="200" alt="How a DEV Friend and I Brought Two Avatars to Life" />
       <br/>
-      <b>The most valuable skill in 2026 isn't writing code...</b>
+      <b>How a DEV Friend and I Brought Two Avatars to Life</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,8 +197,8 @@ npm run test
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h5k) _[Dev.to]_
 - [Introducing Our Next DEV Education Track: "Build Multi-Agent Systems with ADK"](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8) _[Dev.to]_
-- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp) _[Dev.to]_
 - [The most valuable skill in 2026 isn't writing code. It is deleting it.](https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1) _[Dev.to]_
+- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp) _[Dev.to]_
 - [I’ve Seen This Architecture Before. It Ends in Tears.](https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld) _[Dev.to]_
 - [Vouch: Mitchell Hashimoto’s Experiment in Restoring Trust to Open Source](https://dev.to/richardpascoe/vouch-mitchell-hashimotos-experiment-in-restoring-trust-to-open-source-7l8) _[Dev.to]_
 - [Can you order a pizza on my site? ❌ 99% Can't 😤](https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd) _[Dev.to]_
@@ -210,13 +210,13 @@ npm run test
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 - [CNN-LSTM Hybrid Architecture for Thanglish-to-Tamil : Bridging 26 Letters to 247 Characters](https://dev.to/aj1thkr1sh/cnn-lstm-hybrid-architecture-for-thanglish-to-tamil-bridging-26-letters-to-247-characters-j4n) _[Dev.to]_
 - [The Gatekeeping Panic: What AI Actually Threatens in Software Development](https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l) _[Dev.to]_
-- [Turning Missing Avatars into a Design Opportunity](https://dev.to/bansal/turning-missing-avatars-into-a-design-opportunity-2ahl) _[Dev.to]_
 - [Building a Native-Feeling Theme System in SwiftUI](https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k) _[Dev.to]_
 - [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle) _[Dev.to]_
 - [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak) _[Dev.to]_
 - [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o) _[Dev.to]_
+- [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 
-_Last automated update: Wed, 18 Feb 2026 07:09:55 CAT_
+_Last automated update: Wed, 18 Feb 2026 08:14:21 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 18 Feb 2026 07:09:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 18 Feb 2026 05:09:55 GMT</b><br/>
+  <b>Last automated update: Wed, 18 Feb 2026 06:14:21 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
