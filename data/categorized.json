@@ -270,6 +270,21 @@
       "user": "Natnael Getenew"
     },
     {
+      "title": "How My Team Aligns on Prompting for Production",
+      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+      "published_at": "2026-02-17T16:53:46Z",
+      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+      "tags": [
+        "ai",
+        "devops",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
+      "source": "Dev.to",
+      "user": "Adam Ross"
+    },
+    {
       "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
       "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
       "published_at": "2026-02-08T07:00:00Z",
@@ -514,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "marswei"
     },
     {
@@ -529,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2414,
+      "stars": 2446,
       "user": "HKUDS"
     },
     {
@@ -574,7 +589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "Gentleman-Programming"
     }
   ],
@@ -966,7 +981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "marswei"
     },
     {
@@ -996,7 +1011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 121,
       "user": "andyhuo520"
     },
     {
@@ -1011,7 +1026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 110,
       "user": "khalildh"
     }
   ],
@@ -1191,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2414,
+      "stars": 2446,
       "user": "HKUDS"
     },
     {
@@ -1206,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 840,
       "user": "HKUDS"
     },
     {
@@ -1221,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 704,
       "user": "MooseGoose0701"
     },
     {
@@ -1287,6 +1302,21 @@
       "user": "Russell Jones"
     },
     {
+      "title": "How My Team Aligns on Prompting for Production",
+      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+      "published_at": "2026-02-17T16:53:46Z",
+      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+      "tags": [
+        "ai",
+        "devops",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
+      "source": "Dev.to",
+      "user": "Adam Ross"
+    },
+    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1346,21 +1376,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
       "source": "Dev.to",
       "user": "Fabien Sebban"
-    },
-    {
-      "title": "Why Visual Metaphors Might Beat Code-First Thinking",
-      "url": "https://dev.to/egregor2011/why-visual-metaphors-might-beat-code-first-thinking-26bh",
-      "published_at": "2026-02-08T17:34:53Z",
-      "description": "Frontend developers could spend all day thinking visually —component trees, state flow diagrams,...",
-      "tags": [
-        "webdev",
-        "learning",
-        "algorithms",
-        "frontend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkq59jrkovfykwng8w4uh.png",
-      "source": "Dev.to",
-      "user": "Rostislav B"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1535,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 896,
       "user": "mickamy"
     },
     {
@@ -1550,7 +1565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1735,6 +1750,21 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
+      "title": "How My Team Aligns on Prompting for Production",
+      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+      "published_at": "2026-02-17T16:53:46Z",
+      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+      "tags": [
+        "ai",
+        "devops",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
+      "source": "Dev.to",
+      "user": "Adam Ross"
+    },
+    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1804,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "marswei"
     },
     {
@@ -1834,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 121,
       "user": "andyhuo520"
     },
     {
@@ -1849,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 110,
       "user": "khalildh"
     },
     {
@@ -1864,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2414,
+      "stars": 2446,
       "user": "HKUDS"
     },
     {
@@ -1879,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 840,
       "user": "HKUDS"
     },
     {
@@ -1894,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 704,
       "user": "MooseGoose0701"
     },
     {
@@ -1939,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 896,
       "user": "mickamy"
     },
     {
@@ -1954,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 598,
       "user": "pinchtab"
     },
     {
@@ -1984,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "Gentleman-Programming"
     },
     {
@@ -1999,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6614616?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 142,
       "user": "DatanoiseTV"
     }
   ]
