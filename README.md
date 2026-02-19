@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-19 17:00 CAT)
+## 📅 Latest Updates (2026-02-19 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,19 +142,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png" width="200" alt="Suffering from BUGS: How I Almost Deleted My Entire Project" />
+    <a href="https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oqm9p89lj4fnebzc54n.png" width="200" alt="The Future of Software Has a Lot More Builders. They’re Going to Need a Home." />
       <br/>
-      <b>Suffering from BUGS: How I Almost Deleted My Entir...</b>
+      <b>The Future of Software Has a Lot More Builders. Th...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oqm9p89lj4fnebzc54n.png" width="200" alt="The Future of Software Has a Lot More Builders. They’re Going to Need a Home." />
+    <a href="https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png" width="200" alt="Suffering from BUGS: How I Almost Deleted My Entire Project" />
       <br/>
-      <b>The Future of Software Has a Lot More Builders. Th...</b>
+      <b>Suffering from BUGS: How I Almost Deleted My Entir...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,8 +196,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
-- [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef) _[Dev.to]_
 - [The Future of Software Has a Lot More Builders. They’re Going to Need a Home.](https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65) _[Dev.to]_
+- [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef) _[Dev.to]_
 - [If Writing still Matters, How to Do it Right and Avoid AI Suspicion?](https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac) _[Dev.to]_
 - [Introducing Our Next DEV Education Track: "Build Multi-Agent Systems with ADK"](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8) _[Dev.to]_
 - [Taming non-determinism: from logic gates to LLMs](https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h5k) _[Dev.to]_
 
-_Last automated update: Thu, 19 Feb 2026 17:06:45 CAT_
+_Last automated update: Thu, 19 Feb 2026 18:03:31 CAT_
 
 
 
@@ -224,7 +224,29 @@ _Last automated update: Thu, 19 Feb 2026 17:06:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. Python: Explain GIL and its implications for multithreading
+
+**Difficulty**: Hard | **Topics**: concurrency, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Global Interpreter Lock, multiprocessing alternatives
+
+</details>
+
+### 2. SystemDesign: How would you design a rate limiter?
+
+**Difficulty**: Medium | **Topics**: system design, algorithms
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, distributed systems
+
+</details>
+
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
 **Difficulty**: Medium | **Topics**: system design, scalability
 
@@ -232,28 +254,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Hash function, database design, caching, analytics
-
-</details>
-
-### 2. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
-
-<details>
-<summary>💡 Hint</summary>
-
-Heap, stack, garbage collection
-
-</details>
-
-### 3. Database: Explain database indexing and when to use it
-
-**Difficulty**: Medium | **Topics**: optimization, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 19 Feb 2026 15:06:45 GMT</b><br/>
+  <b>Last automated update: Thu, 19 Feb 2026 16:03:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
