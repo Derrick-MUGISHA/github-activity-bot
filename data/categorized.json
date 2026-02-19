@@ -16,19 +16,19 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
-      "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
-      "published_at": "2026-02-17T18:27:56Z",
-      "description": "Hundreds of developers have already completed our first DEV Education Track, and today we're excited...",
+      "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
+      "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
+      "published_at": "2026-02-18T17:38:27Z",
+      "description": "DISCLAIMER! The best AI coding tool is the one available to you, that gives you the best model and...",
       "tags": [
-        "agents",
-        "gemini",
         "ai",
-        "buildmultiagents"
+        "githubcopilot",
+        "programming",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyedmo3tx4u5ewng0f8k.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qsqnsu2xgkeo9k9moqe.webp",
       "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "Maxim Saplin"
     },
     {
       "title": "Taming non-determinism: from logic gates to LLMs",
@@ -45,21 +45,6 @@
       "user": "Leandro Proença"
     },
     {
-      "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
-      "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
-      "published_at": "2026-02-18T17:38:27Z",
-      "description": "DISCLAIMER! The best AI coding tool is the one available to you, that gives you the best model and...",
-      "tags": [
-        "ai",
-        "githubcopilot",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qsqnsu2xgkeo9k9moqe.webp",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
       "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
       "published_at": "2026-02-18T17:39:12Z",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
+      "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
+      "published_at": "2026-02-19T18:28:58Z",
+      "description": "Introduction   OpenClaw, originally called ClawdBot, is trending everywhere. People are...",
+      "tags": [
+        "ai",
+        "productivity",
+        "opensource",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F040m7nfxxy8m9kq8kd82.webp",
+      "source": "Dev.to",
+      "user": "Astrodevil"
     },
     {
       "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
@@ -149,19 +149,19 @@
       "user": "Alessandro Bahgat"
     },
     {
-      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
-      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
-      "published_at": "2026-02-15T16:13:01Z",
-      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+      "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
+      "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
+      "published_at": "2026-02-17T18:27:56Z",
+      "description": "Hundreds of developers have already completed our first DEV Education Track, and today we're excited...",
       "tags": [
+        "agents",
+        "gemini",
         "ai",
-        "career",
-        "productivity",
-        "codenewbie"
+        "buildmultiagents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyedmo3tx4u5ewng0f8k.png",
       "source": "Dev.to",
-      "user": "Daniel Nwaneri"
+      "user": "Jess Lee"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -251,21 +251,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
       "source": "Dev.to",
       "user": "Ale"
-    },
-    {
-      "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
-      "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
-      "published_at": "2026-02-17T13:16:09Z",
-      "description": "I was recently gifted a pair of AI glasses. This is not the kind of purchase I would make for myself....",
-      "tags": [
-        "ai",
-        "programming",
-        "opensource",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o5e4njpr1e3l7o1e8iw.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
     },
     {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
@@ -543,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "marswei"
     },
     {
@@ -558,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3612,
+      "stars": 3654,
       "user": "HKUDS"
     },
     {
@@ -573,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 482,
       "user": "klawsh"
     },
     {
@@ -588,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "Gentleman-Programming"
     }
   ],
@@ -979,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "marswei"
     },
     {
@@ -1219,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3612,
+      "stars": 3654,
       "user": "HKUDS"
     },
     {
@@ -1234,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 864,
       "user": "HKUDS"
     },
     {
@@ -1249,23 +1234,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "Mathews-Tom"
-    },
-    {
-      "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
-      "url": "https://github.com/tomascupr/sandstorm",
-      "published_at": "2026-02-14T14:26:15Z",
-      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
-      "source": "GitHub",
-      "stars": 328,
-      "user": "tomascupr"
     },
     {
       "title": "Runnin4ik/dpi-detector - DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops",
@@ -1279,8 +1249,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 329,
       "user": "Runnin4ik"
+    },
+    {
+      "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
+      "url": "https://github.com/tomascupr/sandstorm",
+      "published_at": "2026-02-14T14:26:15Z",
+      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
+      "source": "GitHub",
+      "stars": 329,
+      "user": "tomascupr"
     }
   ],
   "DevOps": [
@@ -1358,6 +1343,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
       "source": "Dev.to",
       "user": "Russell Jones"
+    },
+    {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
     }
   ],
   "WebDev": [
@@ -1483,6 +1482,20 @@
       "user": "suin"
     },
     {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
+    },
+    {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
       "published_at": "2025-08-21T12:53:16Z",
@@ -1506,7 +1519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "tomascupr"
     },
     {
@@ -1521,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 482,
       "user": "klawsh"
     }
   ],
@@ -1580,7 +1593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1674,6 +1687,21 @@
       "user": "Maxim Saplin"
     },
     {
+      "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
+      "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
+      "published_at": "2026-02-19T18:28:58Z",
+      "description": "Introduction   OpenClaw, originally called ClawdBot, is trending everywhere. People are...",
+      "tags": [
+        "ai",
+        "productivity",
+        "opensource",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F040m7nfxxy8m9kq8kd82.webp",
+      "source": "Dev.to",
+      "user": "Astrodevil"
+    },
+    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -1702,21 +1730,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
       "source": "Dev.to",
       "user": "NorthernDev"
-    },
-    {
-      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
-      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
-      "published_at": "2026-02-15T16:13:01Z",
-      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
-      "tags": [
-        "ai",
-        "career",
-        "productivity",
-        "codenewbie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
     },
     {
       "title": "Accessibility Testing with Playwright Assertions",
@@ -1808,21 +1821,6 @@
       "user": "Adam Ross"
     },
     {
-      "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
-      "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
-      "published_at": "2026-02-17T13:16:09Z",
-      "description": "I was recently gifted a pair of AI glasses. This is not the kind of purchase I would make for myself....",
-      "tags": [
-        "ai",
-        "programming",
-        "opensource",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o5e4njpr1e3l7o1e8iw.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
-    },
-    {
       "title": "Why I built yet another release tool for npm",
       "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
       "published_at": "2026-02-13T22:33:56Z",
@@ -1836,6 +1834,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
       "source": "Dev.to",
       "user": "Niccolò Olivieri Achille"
+    },
+    {
+      "title": "Who Are We Still Writing Technical Articles For?",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
+      "published_at": "2026-02-17T12:34:14Z",
+      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "writing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
+      "source": "Dev.to",
+      "user": "Pascal CESCATO"
+    },
+    {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
     },
     {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
@@ -1864,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "marswei"
     },
     {
@@ -1924,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3612,
+      "stars": 3654,
       "user": "HKUDS"
     },
     {
@@ -1939,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 864,
       "user": "HKUDS"
     },
     {
@@ -1954,23 +1981,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "Mathews-Tom"
-    },
-    {
-      "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
-      "url": "https://github.com/tomascupr/sandstorm",
-      "published_at": "2026-02-14T14:26:15Z",
-      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
-      "source": "GitHub",
-      "stars": 328,
-      "user": "tomascupr"
     },
     {
       "title": "Runnin4ik/dpi-detector - DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops",
@@ -1984,8 +1996,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 329,
       "user": "Runnin4ik"
+    },
+    {
+      "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
+      "url": "https://github.com/tomascupr/sandstorm",
+      "published_at": "2026-02-14T14:26:15Z",
+      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
+      "source": "GitHub",
+      "stars": 329,
+      "user": "tomascupr"
     },
     {
       "title": "mickamy/sql-tap - Watch SQL traffic in real-time with a TUI",
@@ -2014,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 831,
       "user": "pinchtab"
     },
     {
@@ -2029,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 482,
       "user": "klawsh"
     },
     {
@@ -2044,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "Gentleman-Programming"
     },
     {
