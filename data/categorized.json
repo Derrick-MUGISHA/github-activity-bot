@@ -46,6 +46,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Taming non-determinism: from logic gates to LLMs",
+      "url": "https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0",
+      "published_at": "2026-02-19T03:47:38Z",
+      "description": "Or: how engineering keeps turning chaos into reliable computation. And why agentic AI still hasn't...",
+      "tags": [
+        "ai",
+        "llm",
+        "ann"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzhq0zynlbem8i72sxt1.png",
+      "source": "Dev.to",
+      "user": "Leandro Proença"
+    },
+    {
       "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
       "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
       "published_at": "2026-02-18T17:38:27Z",
@@ -371,21 +385,6 @@
       "user": "David Dias"
     },
     {
-      "title": "What is a CaaS Platform and why we built one",
-      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
-      "published_at": "2026-02-09T03:16:00Z",
-      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
-      "tags": [
-        "kubernetes",
-        "platformengineering",
-        "devops",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
-      "source": "Dev.to",
-      "user": "Jawad Elhaouchi"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -529,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 358,
       "user": "andyhuo520"
     },
     {
@@ -559,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3385,
+      "stars": 3447,
       "user": "HKUDS"
     },
     {
@@ -574,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 471,
       "user": "klawsh"
     },
     {
@@ -594,6 +593,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
+      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
+      "published_at": "2026-02-19T03:23:34Z",
+      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
+      "tags": [
+        "showdev",
+        "devops",
+        "python",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
+      "source": "Dev.to",
+      "user": "Maame Afua A. P. Fordjour "
+    },
     {
       "title": "Stacking Multiple Dialogs in React Without Hooks or Effects",
       "url": "https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj",
@@ -820,19 +834,6 @@
       "user": "David Dias"
     },
     {
-      "title": "Declarative rendering of react-query state via switch-query",
-      "url": "https://dev.to/denisinvader/declarative-rendering-of-react-query-state-via-switch-query-46lg",
-      "published_at": "2026-02-09T00:42:00Z",
-      "description": "switch-query is a tiny npm package that simplifies rendering the state of @tanstack/react-query",
-      "tags": [
-        "react",
-        "reactquery"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjagxgiuxa00z49mux5q.png",
-      "source": "Dev.to",
-      "user": "Mikhail Panichev"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -964,7 +965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 358,
       "user": "andyhuo520"
     },
     {
@@ -983,21 +984,6 @@
       "user": "marswei"
     },
     {
-      "title": "khalildh/garment-notation - GitHub Repository",
-      "url": "https://github.com/khalildh/garment-notation",
-      "published_at": "2026-02-17T06:50:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "khalildh"
-    },
-    {
       "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
       "url": "https://github.com/andyhuo520/rf-detr-detection",
       "published_at": "2026-02-17T16:58:10Z",
@@ -1009,8 +995,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 160,
       "user": "andyhuo520"
+    },
+    {
+      "title": "khalildh/garment-notation - GitHub Repository",
+      "url": "https://github.com/khalildh/garment-notation",
+      "published_at": "2026-02-17T06:50:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "khalildh"
     },
     {
       "title": "jdubois/dr-jskill - An Agent Skill for creating Spring Boot applications",
@@ -1024,11 +1025,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 105,
       "user": "jdubois"
     }
   ],
   "Python": [
+    {
+      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
+      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
+      "published_at": "2026-02-19T03:23:34Z",
+      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
+      "tags": [
+        "showdev",
+        "devops",
+        "python",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
+      "source": "Dev.to",
+      "user": "Maame Afua A. P. Fordjour "
+    },
     {
       "title": "I built an API that detects chess tactical patterns from FEN and PGN",
       "url": "https://dev.to/stevejvv/i-built-an-api-that-detects-chess-tactical-patterns-from-fen-and-pgn-5ef0",
@@ -1204,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3385,
+      "stars": 3447,
       "user": "HKUDS"
     },
     {
@@ -1219,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 862,
       "user": "HKUDS"
     },
     {
@@ -1249,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "tomascupr"
     },
     {
@@ -1264,11 +1280,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "Runnin4ik"
     }
   ],
   "DevOps": [
+    {
+      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
+      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
+      "published_at": "2026-02-19T03:23:34Z",
+      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
+      "tags": [
+        "showdev",
+        "devops",
+        "python",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
+      "source": "Dev.to",
+      "user": "Maame Afua A. P. Fordjour "
+    },
     {
       "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
       "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
@@ -1327,21 +1358,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
       "source": "Dev.to",
       "user": "Heng Lu"
-    },
-    {
-      "title": "What is a CaaS Platform and why we built one",
-      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
-      "published_at": "2026-02-09T03:16:00Z",
-      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
-      "tags": [
-        "kubernetes",
-        "platformengineering",
-        "devops",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
-      "source": "Dev.to",
-      "user": "Jawad Elhaouchi"
     }
   ],
   "WebDev": [
@@ -1496,21 +1512,6 @@
       "user": "Heng Lu"
     },
     {
-      "title": "What is a CaaS Platform and why we built one",
-      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
-      "published_at": "2026-02-09T03:16:00Z",
-      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
-      "tags": [
-        "kubernetes",
-        "platformengineering",
-        "devops",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
-      "source": "Dev.to",
-      "user": "Jawad Elhaouchi"
-    },
-    {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
       "published_at": "2025-08-21T12:53:16Z",
@@ -1534,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "tomascupr"
     },
     {
@@ -1549,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 471,
       "user": "klawsh"
     }
   ],
@@ -1862,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 358,
       "user": "andyhuo520"
     },
     {
@@ -1881,21 +1882,6 @@
       "user": "marswei"
     },
     {
-      "title": "khalildh/garment-notation - GitHub Repository",
-      "url": "https://github.com/khalildh/garment-notation",
-      "published_at": "2026-02-17T06:50:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "khalildh"
-    },
-    {
       "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
       "url": "https://github.com/andyhuo520/rf-detr-detection",
       "published_at": "2026-02-17T16:58:10Z",
@@ -1907,8 +1893,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 160,
       "user": "andyhuo520"
+    },
+    {
+      "title": "khalildh/garment-notation - GitHub Repository",
+      "url": "https://github.com/khalildh/garment-notation",
+      "published_at": "2026-02-17T06:50:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "khalildh"
     },
     {
       "title": "jdubois/dr-jskill - An Agent Skill for creating Spring Boot applications",
@@ -1922,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 105,
       "user": "jdubois"
     },
     {
@@ -1937,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3385,
+      "stars": 3447,
       "user": "HKUDS"
     },
     {
@@ -1952,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 862,
       "user": "HKUDS"
     },
     {
@@ -1982,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "tomascupr"
     },
     {
@@ -1997,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "Runnin4ik"
     },
     {
@@ -2027,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 795,
       "user": "pinchtab"
     },
     {
@@ -2042,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 471,
       "user": "klawsh"
     },
     {
