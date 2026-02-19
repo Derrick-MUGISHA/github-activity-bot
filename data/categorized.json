@@ -16,21 +16,6 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
-      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
-      "published_at": "2026-02-18T14:10:39Z",
-      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
-      "tags": [
-        "writing",
-        "ai",
-        "watercooler",
-        "nanobanana"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
       "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
       "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
       "published_at": "2026-02-17T18:27:56Z",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
+      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
+      "published_at": "2026-02-18T14:10:39Z",
+      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
+      "tags": [
+        "writing",
+        "ai",
+        "watercooler",
+        "nanobanana"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
@@ -543,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "marswei"
     },
     {
@@ -558,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3497,
+      "stars": 3565,
       "user": "HKUDS"
     },
     {
@@ -980,7 +980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "marswei"
     },
     {
@@ -995,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 167,
       "user": "andyhuo520"
     },
     {
@@ -1010,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "khalildh"
     },
     {
@@ -1025,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 111,
       "user": "jdubois"
     }
   ],
@@ -1220,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3497,
+      "stars": 3565,
       "user": "HKUDS"
     },
     {
@@ -1265,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 328,
       "user": "tomascupr"
     },
     {
@@ -1280,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 325,
       "user": "Runnin4ik"
     }
   ],
@@ -1407,21 +1407,6 @@
       "user": "Fabien Sebban"
     },
     {
-      "title": "Why Visual Metaphors Might Beat Code-First Thinking",
-      "url": "https://dev.to/egregor2011/why-visual-metaphors-might-beat-code-first-thinking-26bh",
-      "published_at": "2026-02-08T17:34:53Z",
-      "description": "Frontend developers could spend all day thinking visually —component trees, state flow diagrams,...",
-      "tags": [
-        "webdev",
-        "learning",
-        "algorithms",
-        "frontend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkq59jrkovfykwng8w4uh.png",
-      "source": "Dev.to",
-      "user": "Rostislav B"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1535,7 +1520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 328,
       "user": "tomascupr"
     },
     {
@@ -1594,7 +1579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 909,
       "user": "mickamy"
     },
     {
@@ -1702,6 +1687,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Accessibility Testing with Playwright Assertions",
+      "url": "https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i",
+      "published_at": "2026-02-19T02:03:09Z",
+      "description": "Playwright has become one of the most popular testing frameworks for web applications. During it's...",
+      "tags": [
+        "a11y",
+        "webdev",
+        "testing",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjubj6qdbqx5fnaumwrx.png",
+      "source": "Dev.to",
+      "user": "Mark Steadman"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -1878,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "marswei"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 167,
       "user": "andyhuo520"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "khalildh"
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 111,
       "user": "jdubois"
     },
     {
@@ -1938,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3497,
+      "stars": 3565,
       "user": "HKUDS"
     },
     {
@@ -1983,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 328,
       "user": "tomascupr"
     },
     {
@@ -1998,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 325,
       "user": "Runnin4ik"
     },
     {
@@ -2013,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 909,
       "user": "mickamy"
     },
     {
@@ -2028,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 823,
       "user": "pinchtab"
     },
     {
