@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "marswei"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3062,
+      "stars": 3133,
       "user": "HKUDS"
     },
     {
@@ -574,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "Gentleman-Programming"
     }
   ],
@@ -951,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "marswei"
     },
     {
@@ -981,7 +981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "andyhuo520"
     },
     {
@@ -996,7 +996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "jdubois"
     }
   ],
@@ -1176,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3062,
+      "stars": 3133,
       "user": "HKUDS"
     },
     {
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 852,
       "user": "HKUDS"
     },
     {
@@ -1210,10 +1210,10 @@
       "user": "Mathews-Tom"
     },
     {
-      "title": "tomascupr/sandstorm - One API call. Full Claude agent. Completely sandboxed.",
+      "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
       "url": "https://github.com/tomascupr/sandstorm",
       "published_at": "2026-02-14T14:26:15Z",
-      "description": "One API call. Full Claude agent. Completely sandboxed.",
+      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
       "tags": [
         "python",
         "github",
@@ -1236,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "Runnin4ik"
     }
   ],
@@ -1362,21 +1362,6 @@
   ],
   "Mobile": [
     {
-      "title": "Building a Native-Feeling Theme System in SwiftUI",
-      "url": "https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k",
-      "published_at": "2026-02-16T19:33:57Z",
-      "description": "SwiftUI's .primary and .secondary are elegant — adaptive, environment-aware, composable. But they're...",
-      "tags": [
-        "ios",
-        "swift",
-        "swiftui",
-        "themes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwjqfv0z5cxm9a18nfp5.png",
-      "source": "Dev.to",
-      "user": "Max Rozdobudko"
-    },
-    {
       "title": "My New Language That’s Almost Done",
       "url": "https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31",
       "published_at": "2026-02-09T20:10:51Z",
@@ -1465,6 +1450,21 @@
       "user": "JustExAWS"
     },
     {
+      "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
+      "url": "https://github.com/tomascupr/sandstorm",
+      "published_at": "2026-02-14T14:26:15Z",
+      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
+      "source": "GitHub",
+      "stars": 322,
+      "user": "tomascupr"
+    },
+    {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
       "url": "https://github.com/klawsh/klaw.sh",
       "published_at": "2026-02-15T04:18:19Z",
@@ -1535,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1789,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "marswei"
     },
     {
@@ -1819,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "andyhuo520"
     },
     {
@@ -1834,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "jdubois"
     },
     {
@@ -1849,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3062,
+      "stars": 3133,
       "user": "HKUDS"
     },
     {
@@ -1864,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 852,
       "user": "HKUDS"
     },
     {
@@ -1883,10 +1883,10 @@
       "user": "Mathews-Tom"
     },
     {
-      "title": "tomascupr/sandstorm - One API call. Full Claude agent. Completely sandboxed.",
+      "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
       "url": "https://github.com/tomascupr/sandstorm",
       "published_at": "2026-02-14T14:26:15Z",
-      "description": "One API call. Full Claude agent. Completely sandboxed.",
+      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
       "tags": [
         "python",
         "github",
@@ -1909,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "Runnin4ik"
     },
     {
@@ -1939,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 736,
       "user": "pinchtab"
     },
     {
@@ -1969,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "Gentleman-Programming"
     },
     {
