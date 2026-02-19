@@ -12,7 +12,7 @@
     "DevOps": 5,
     "WebDev": 4,
     "Mobile": 1,
-    "Cloud": 6,
+    "Cloud": 5,
     "Database": 4,
     "Security": 5,
     "Tools": 27
@@ -27,8 +27,8 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-02-18": 8,
-    "2026-02-19": 10,
+    "2026-02-18": 7,
+    "2026-02-19": 11,
     "2026-02-17": 14,
     "2026-02-16": 6,
     "2026-02-15": 7,
@@ -70,7 +70,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 19,
+    "ai": 18,
     "github": 15,
     "open-source": 15,
     "webdev": 13,
@@ -87,9 +87,9 @@
     "go": 6,
     "showdev": 4,
     "devops": 4,
+    "career": 4,
     "rust": 4,
-    "react": 4,
-    "tutorial": 4
+    "react": 4
   },
   "trending_topics": [],
   "language_percentages": {
