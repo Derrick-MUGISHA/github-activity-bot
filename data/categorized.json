@@ -90,6 +90,35 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
+    },
+    {
+      "title": "Securing Your App with Access and Refresh Tokens: A Practical Guide",
+      "url": "https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1",
+      "published_at": "2026-02-19T09:25:47Z",
+      "description": "My Journey: From Naive to Secure Authentication Let me be honest about how I handled authentication...",
+      "tags": [
+        "rust",
+        "oauth",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14s5llrn1m8ew5dddztn.png",
+      "source": "Dev.to",
+      "user": "Chukwuemeka Maduekwe"
+    },
+    {
       "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
       "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
       "published_at": "2026-02-17T12:42:44Z",
@@ -356,35 +385,6 @@
       "user": "Dan Walsh"
     },
     {
-      "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
-      "url": "https://dev.to/bengreenberg/openclaw-is-incredible-setting-it-up-shouldnt-require-a-cs-degree-36nk",
-      "published_at": "2026-02-09T17:29:54Z",
-      "description": "If you've heard of OpenClaw, you know it's one of the most capable personal AI assistants available....",
-      "tags": [
-        "ai",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftapnclaw.com%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Ben Greenberg"
-    },
-    {
-      "title": "I Ditched My AI Agent Dashboard for Obsidian",
-      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
-      "published_at": "2026-02-08T15:46:00Z",
-      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
-      "tags": [
-        "openclaw",
-        "obsidian",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
-      "source": "Dev.to",
-      "user": "David Dias"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -543,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "marswei"
     },
     {
@@ -558,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3565,
+      "stars": 3612,
       "user": "HKUDS"
     },
     {
@@ -573,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 479,
       "user": "klawsh"
     },
     {
@@ -588,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "Gentleman-Programming"
     }
   ],
@@ -652,6 +652,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
       "user": "DeVoresyah ArEst"
+    },
+    {
+      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
+      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
+      "published_at": "2026-02-18T17:46:05Z",
+      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "tags": [
+        "typescript",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "source": "Dev.to",
+      "user": "Ely Lucas"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -819,21 +833,6 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
-      "title": "I Ditched My AI Agent Dashboard for Obsidian",
-      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
-      "published_at": "2026-02-08T15:46:00Z",
-      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
-      "tags": [
-        "openclaw",
-        "obsidian",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
-      "source": "Dev.to",
-      "user": "David Dias"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -980,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "marswei"
     },
     {
@@ -1010,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "khalildh"
     },
     {
@@ -1025,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 113,
       "user": "jdubois"
     }
   ],
@@ -1220,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3565,
+      "stars": 3612,
       "user": "HKUDS"
     },
     {
@@ -1280,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 327,
       "user": "Runnin4ik"
     }
   ],
@@ -1299,6 +1298,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
       "source": "Dev.to",
       "user": "Maame Afua A. P. Fordjour "
+    },
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
     },
     {
       "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
@@ -1344,20 +1358,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
       "source": "Dev.to",
       "user": "Russell Jones"
-    },
-    {
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "published_at": "2026-02-05T07:08:59Z",
-      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
-      "tags": [
-        "terraform",
-        "devops",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
-      "source": "Dev.to",
-      "user": "Heng Lu"
     }
   ],
   "WebDev": [
@@ -1483,20 +1483,6 @@
       "user": "suin"
     },
     {
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "published_at": "2026-02-05T07:08:59Z",
-      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
-      "tags": [
-        "terraform",
-        "devops",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
-      "source": "Dev.to",
-      "user": "Heng Lu"
-    },
-    {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
       "published_at": "2025-08-21T12:53:16Z",
@@ -1535,7 +1521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 479,
       "user": "klawsh"
     }
   ],
@@ -1594,11 +1580,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "Gentleman-Programming"
     }
   ],
   "Security": [
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
+    },
+    {
+      "title": "Securing Your App with Access and Refresh Tokens: A Practical Guide",
+      "url": "https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1",
+      "published_at": "2026-02-19T09:25:47Z",
+      "description": "My Journey: From Naive to Secure Authentication Let me be honest about how I handled authentication...",
+      "tags": [
+        "rust",
+        "oauth",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14s5llrn1m8ew5dddztn.png",
+      "source": "Dev.to",
+      "user": "Chukwuemeka Maduekwe"
+    },
     {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
       "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
@@ -1659,6 +1674,21 @@
       "user": "Maxim Saplin"
     },
     {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
+    },
+    {
       "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
       "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
       "published_at": "2026-02-17T12:42:44Z",
@@ -1702,6 +1732,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjubj6qdbqx5fnaumwrx.png",
       "source": "Dev.to",
       "user": "Mark Steadman"
+    },
+    {
+      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
+      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
+      "published_at": "2026-02-18T17:46:05Z",
+      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "tags": [
+        "typescript",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "source": "Dev.to",
+      "user": "Ely Lucas"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -1794,64 +1838,6 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
-      "title": "Who Are We Still Writing Technical Articles For?",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
-      "published_at": "2026-02-17T12:34:14Z",
-      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
-      "tags": [
-        "career",
-        "discuss",
-        "productivity",
-        "writing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
-      "source": "Dev.to",
-      "user": "Pascal CESCATO"
-    },
-    {
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "published_at": "2026-02-05T07:08:59Z",
-      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
-      "tags": [
-        "terraform",
-        "devops",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
-      "source": "Dev.to",
-      "user": "Heng Lu"
-    },
-    {
-      "title": "OpenClaw Is Incredible. Setting It Up Shouldn't Require a CS Degree.",
-      "url": "https://dev.to/bengreenberg/openclaw-is-incredible-setting-it-up-shouldnt-require-a-cs-degree-36nk",
-      "published_at": "2026-02-09T17:29:54Z",
-      "description": "If you've heard of OpenClaw, you know it's one of the most capable personal AI assistants available....",
-      "tags": [
-        "ai",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftapnclaw.com%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Ben Greenberg"
-    },
-    {
-      "title": "I Ditched My AI Agent Dashboard for Obsidian",
-      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
-      "published_at": "2026-02-08T15:46:00Z",
-      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
-      "tags": [
-        "openclaw",
-        "obsidian",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
-      "source": "Dev.to",
-      "user": "David Dias"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1878,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "marswei"
     },
     {
@@ -1908,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "khalildh"
     },
     {
@@ -1923,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 113,
       "user": "jdubois"
     },
     {
@@ -1938,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3565,
+      "stars": 3612,
       "user": "HKUDS"
     },
     {
@@ -1998,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 327,
       "user": "Runnin4ik"
     },
     {
@@ -2028,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 827,
       "user": "pinchtab"
     },
     {
@@ -2043,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 479,
       "user": "klawsh"
     },
     {
@@ -2058,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "Gentleman-Programming"
     },
     {
