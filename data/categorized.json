@@ -31,21 +31,6 @@
       "user": "NorthernDev"
     },
     {
-      "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
-      "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
-      "published_at": "2026-02-18T17:38:27Z",
-      "description": "DISCLAIMER! The best AI coding tool is the one available to you, that gives you the best model and...",
-      "tags": [
-        "ai",
-        "githubcopilot",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qsqnsu2xgkeo9k9moqe.webp",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
       "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
       "published_at": "2026-02-18T17:39:12Z",
@@ -61,21 +46,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
-      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
-      "published_at": "2026-02-18T14:10:39Z",
-      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
-      "tags": [
-        "writing",
-        "ai",
-        "watercooler",
-        "nanobanana"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
       "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
       "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
       "published_at": "2026-02-17T18:27:56Z",
@@ -89,6 +59,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyedmo3tx4u5ewng0f8k.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
+      "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
+      "published_at": "2026-02-18T17:38:27Z",
+      "description": "DISCLAIMER! The best AI coding tool is the one available to you, that gives you the best model and...",
+      "tags": [
+        "ai",
+        "githubcopilot",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qsqnsu2xgkeo9k9moqe.webp",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
+    },
+    {
+      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
+      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
+      "published_at": "2026-02-18T14:10:39Z",
+      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
+      "tags": [
+        "writing",
+        "ai",
+        "watercooler",
+        "nanobanana"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "The Ghost in the Training Set",
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 247,
       "user": "marswei"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2831,
+      "stars": 2885,
       "user": "HKUDS"
     },
     {
@@ -559,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 470,
       "user": "klawsh"
     },
     {
@@ -574,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "Gentleman-Programming"
     }
   ],
@@ -951,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 247,
       "user": "marswei"
     },
     {
@@ -966,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "khalildh"
     },
     {
@@ -981,7 +981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 138,
       "user": "andyhuo520"
     },
     {
@@ -996,7 +996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "jdubois"
     }
   ],
@@ -1176,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2831,
+      "stars": 2885,
       "user": "HKUDS"
     },
     {
@@ -1206,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Mathews-Tom"
     },
     {
@@ -1221,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "tomascupr"
     },
     {
@@ -1236,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "joshavant"
     }
   ],
@@ -1476,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 470,
       "user": "klawsh"
     }
   ],
@@ -1535,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1789,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 247,
       "user": "marswei"
     },
     {
@@ -1804,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "khalildh"
     },
     {
@@ -1819,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 138,
       "user": "andyhuo520"
     },
     {
@@ -1834,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "jdubois"
     },
     {
@@ -1849,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2831,
+      "stars": 2885,
       "user": "HKUDS"
     },
     {
@@ -1879,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Mathews-Tom"
     },
     {
@@ -1894,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "tomascupr"
     },
     {
@@ -1909,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "joshavant"
     },
     {
@@ -1939,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 693,
       "user": "pinchtab"
     },
     {
@@ -1954,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 470,
       "user": "klawsh"
     },
     {
@@ -1969,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "Gentleman-Programming"
     },
     {
