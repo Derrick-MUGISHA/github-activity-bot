@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-18-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-19-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.9 (30.9%)
-Java            ███████████████████████ 23.7 (23.7%)
-Go              ██████████████████ 18.6 (18.6%)
-Python          ██████████████████ 18.6 (18.6%)
-Rust            ████ 4.1 (4.1%)
+JavaScript      ██████████████████████████████ 31.3 (31.3%)
+Java            ███████████████████████ 24.0 (24.0%)
+Python          ██████████████████ 18.8 (18.8%)
+Go              █████████████████ 17.7 (17.7%)
+Rust            ████ 4.2 (4.2%)
 Swift           ██ 2.1 (2.1%)
 PHP             ██ 2.1 (2.1%)
 
@@ -74,8 +74,8 @@ PHP             ██ 2.1 (2.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 30
     "Java" : 23
-    "Go" : 18
     "Python" : 18
+    "Go" : 17
     "Rust" : 4
     "Swift" : 2
     "PHP" : 2
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-19 1:00 CAT)
+## 📅 Latest Updates (2026-02-19 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle) _[Dev.to]_
 - [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak) _[Dev.to]_
 
-_Last automated update: Thu, 19 Feb 2026 01:45:01 CAT_
+_Last automated update: Thu, 19 Feb 2026 02:02:21 CAT_
 
 
 
@@ -224,18 +224,29 @@ _Last automated update: Thu, 19 Feb 2026 01:45:01 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. Python: Explain decorators in Python with an example
+
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
+
+<details>
+<summary>💡 Hint</summary>
+
+Function wrappers, @syntax, practical uses
+
+</details>
+
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
 **Difficulty**: Hard | **Topics**: context managers, resource management
 
@@ -243,17 +254,6 @@ try/catch, .catch(), error middleware
 <summary>💡 Hint</summary>
 
 with statement, setup/teardown, exception handling
-
-</details>
-
-### 3. SystemDesign: Design Twitter's timeline feature
-
-**Difficulty**: Hard | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 18 Feb 2026 23:45:01 GMT</b><br/>
+  <b>Last automated update: Thu, 19 Feb 2026 00:02:21 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
