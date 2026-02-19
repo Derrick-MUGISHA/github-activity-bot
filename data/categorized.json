@@ -16,21 +16,6 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
-      "published_at": "2026-02-17T12:42:44Z",
-      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
-      "tags": [
-        "softwareengineering",
-        "career",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
-      "source": "Dev.to",
-      "user": "NorthernDev"
-    },
-    {
       "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
       "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
       "published_at": "2026-02-18T14:10:39Z",
@@ -91,6 +76,21 @@
       "user": "Shir Meir Lador"
     },
     {
+      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
+      "published_at": "2026-02-17T12:42:44Z",
+      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
+      "tags": [
+        "softwareengineering",
+        "career",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
+      "source": "Dev.to",
+      "user": "NorthernDev"
+    },
+    {
       "title": "The Ghost in the Training Set",
       "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
       "published_at": "2026-02-16T20:10:18Z",
@@ -104,21 +104,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
       "source": "Dev.to",
       "user": "Alessandro Bahgat"
-    },
-    {
-      "title": "CNN-LSTM Hybrid Architecture for Thanglish-to-Tamil : Bridging 26 Letters to 247 Characters",
-      "url": "https://dev.to/aj1thkr1sh/cnn-lstm-hybrid-architecture-for-thanglish-to-tamil-bridging-26-letters-to-247-characters-j4n",
-      "published_at": "2026-02-17T07:13:24Z",
-      "description": "Built a CNN-LSTM hybrid architecture for Thanglish-to-Tamil transliteration that outperforms BiGRU+Attention while being 16x smaller—proving that 1D convolutions can efficiently capture local n-gram patterns for character-level sequence tasks. Sometimes the simplest architecture wins when it aligns with the problem's inherent structure 🚀",
-      "tags": [
-        "cnn",
-        "lstm",
-        "ai",
-        "tamil"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68q3zny08k573e6dp5la.png",
-      "source": "Dev.to",
-      "user": "aj1thkr1sh"
     },
     {
       "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
@@ -195,21 +180,6 @@
       "user": "Loaiabdalslam"
     },
     {
-      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
-      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
-      "published_at": "2026-02-13T19:52:20Z",
-      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
-      "tags": [
-        "stripe",
-        "saas",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
-      "source": "Dev.to",
-      "user": "Ale"
-    },
-    {
       "title": "How My Team Aligns on Prompting for Production",
       "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
       "published_at": "2026-02-17T16:53:46Z",
@@ -223,6 +193,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
       "source": "Dev.to",
       "user": "Adam Ross"
+    },
+    {
+      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
+      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
+      "published_at": "2026-02-13T19:52:20Z",
+      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
+      "tags": [
+        "stripe",
+        "saas",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
+      "source": "Dev.to",
+      "user": "Ale"
     },
     {
       "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
@@ -386,6 +371,21 @@
       "user": "David Dias"
     },
     {
+      "title": "What is a CaaS Platform and why we built one",
+      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
+      "published_at": "2026-02-09T03:16:00Z",
+      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
+      "tags": [
+        "kubernetes",
+        "platformengineering",
+        "devops",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
+      "source": "Dev.to",
+      "user": "Jawad Elhaouchi"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 356,
       "user": "andyhuo520"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "marswei"
     },
     {
@@ -559,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3288,
+      "stars": 3385,
       "user": "HKUDS"
     },
     {
@@ -589,26 +589,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 199,
       "user": "Gentleman-Programming"
     }
   ],
   "JavaScript": [
-    {
-      "title": "I'm Done With Magic. Here's What I Built Instead.",
-      "url": "https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988",
-      "published_at": "2026-02-17T13:30:04Z",
-      "description": "The JavaScript ecosystem has a magic problem.  Not the fun kind. The kind where you stare at your...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "architecture",
-        "redux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftys3ri3yx1u704s4x1hh.png",
-      "source": "Dev.to",
-      "user": "Matteo Antony Mistretta"
-    },
     {
       "title": "Stacking Multiple Dialogs in React Without Hooks or Effects",
       "url": "https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj",
@@ -835,6 +820,19 @@
       "user": "David Dias"
     },
     {
+      "title": "Declarative rendering of react-query state via switch-query",
+      "url": "https://dev.to/denisinvader/declarative-rendering-of-react-query-state-via-switch-query-46lg",
+      "published_at": "2026-02-09T00:42:00Z",
+      "description": "switch-query is a tiny npm package that simplifies rendering the state of @tanstack/react-query",
+      "tags": [
+        "react",
+        "reactquery"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjagxgiuxa00z49mux5q.png",
+      "source": "Dev.to",
+      "user": "Mikhail Panichev"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -966,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 356,
       "user": "andyhuo520"
     },
     {
@@ -981,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "marswei"
     },
     {
@@ -1011,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "andyhuo520"
     },
     {
@@ -1026,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "jdubois"
     }
   ],
@@ -1206,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3288,
+      "stars": 3385,
       "user": "HKUDS"
     },
     {
@@ -1221,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 859,
       "user": "HKUDS"
     },
     {
@@ -1236,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 468,
       "user": "Mathews-Tom"
     },
     {
@@ -1251,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 324,
       "user": "tomascupr"
     },
     {
@@ -1266,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 316,
       "user": "Runnin4ik"
     }
   ],
@@ -1329,6 +1327,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
       "source": "Dev.to",
       "user": "Heng Lu"
+    },
+    {
+      "title": "What is a CaaS Platform and why we built one",
+      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
+      "published_at": "2026-02-09T03:16:00Z",
+      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
+      "tags": [
+        "kubernetes",
+        "platformengineering",
+        "devops",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
+      "source": "Dev.to",
+      "user": "Jawad Elhaouchi"
     }
   ],
   "WebDev": [
@@ -1376,6 +1389,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
       "source": "Dev.to",
       "user": "Fabien Sebban"
+    },
+    {
+      "title": "Why Visual Metaphors Might Beat Code-First Thinking",
+      "url": "https://dev.to/egregor2011/why-visual-metaphors-might-beat-code-first-thinking-26bh",
+      "published_at": "2026-02-08T17:34:53Z",
+      "description": "Frontend developers could spend all day thinking visually —component trees, state flow diagrams,...",
+      "tags": [
+        "webdev",
+        "learning",
+        "algorithms",
+        "frontend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkq59jrkovfykwng8w4uh.png",
+      "source": "Dev.to",
+      "user": "Rostislav B"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1468,6 +1496,21 @@
       "user": "Heng Lu"
     },
     {
+      "title": "What is a CaaS Platform and why we built one",
+      "url": "https://dev.to/jelhaouchi/what-is-a-caas-platform-and-why-we-built-one-2dbj",
+      "published_at": "2026-02-09T03:16:00Z",
+      "description": "Why we built a Container-as-a-Service platform instead of migrating to the cloud, the architecture under the hood, and what we got wrong along the way.",
+      "tags": [
+        "kubernetes",
+        "platformengineering",
+        "devops",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjelhaouchi.io%2Fen%2Fposts%2Fwhat-is-a-caas-platform%2Ffeature.en.png",
+      "source": "Dev.to",
+      "user": "Jawad Elhaouchi"
+    },
+    {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
       "published_at": "2025-08-21T12:53:16Z",
@@ -1491,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 324,
       "user": "tomascupr"
     },
     {
@@ -1550,7 +1593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 904,
+      "stars": 906,
       "user": "mickamy"
     },
     {
@@ -1565,7 +1608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 199,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1615,21 +1658,6 @@
   ],
   "Tools": [
     {
-      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
-      "published_at": "2026-02-17T12:42:44Z",
-      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
-      "tags": [
-        "softwareengineering",
-        "career",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
-      "source": "Dev.to",
-      "user": "NorthernDev"
-    },
-    {
       "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
       "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
       "published_at": "2026-02-18T17:38:27Z",
@@ -1645,6 +1673,21 @@
       "user": "Maxim Saplin"
     },
     {
+      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
+      "published_at": "2026-02-17T12:42:44Z",
+      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
+      "tags": [
+        "softwareengineering",
+        "career",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
+      "source": "Dev.to",
+      "user": "NorthernDev"
+    },
+    {
       "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
       "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
       "published_at": "2026-02-15T16:13:01Z",
@@ -1658,21 +1701,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "Who Are We Still Writing Technical Articles For?",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
-      "published_at": "2026-02-17T12:34:14Z",
-      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
-      "tags": [
-        "career",
-        "discuss",
-        "productivity",
-        "writing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
-      "source": "Dev.to",
-      "user": "Pascal CESCATO"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -1765,6 +1793,21 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
+      "title": "Who Are We Still Writing Technical Articles For?",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
+      "published_at": "2026-02-17T12:34:14Z",
+      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "writing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
+      "source": "Dev.to",
+      "user": "Pascal CESCATO"
+    },
+    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1819,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 356,
       "user": "andyhuo520"
     },
     {
@@ -1834,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "marswei"
     },
     {
@@ -1864,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "andyhuo520"
     },
     {
@@ -1879,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "jdubois"
     },
     {
@@ -1894,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3288,
+      "stars": 3385,
       "user": "HKUDS"
     },
     {
@@ -1909,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 859,
       "user": "HKUDS"
     },
     {
@@ -1924,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 468,
       "user": "Mathews-Tom"
     },
     {
@@ -1939,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 324,
       "user": "tomascupr"
     },
     {
@@ -1954,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 316,
       "user": "Runnin4ik"
     },
     {
@@ -1969,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 904,
+      "stars": 906,
       "user": "mickamy"
     },
     {
@@ -1984,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 780,
       "user": "pinchtab"
     },
     {
@@ -2014,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 199,
       "user": "Gentleman-Programming"
     },
     {
