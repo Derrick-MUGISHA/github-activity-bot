@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-19 8:00 CAT)
+## 📅 Latest Updates (2026-02-19 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -162,15 +162,6 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png" width="200" alt="How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity" />
-      <br/>
-      <b>How I Turned an Ugly Spreadsheet into an AI Assist...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyedmo3tx4u5ewng0f8k.png" width="200" alt="Introducing Our Next DEV Education Track: "Build Multi-Agent Systems with ADK"" />
       <br/>
@@ -188,6 +179,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png" width="200" alt="How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity" />
+      <br/>
+      <b>How I Turned an Ugly Spreadsheet into an AI Assist...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -198,9 +198,9 @@ npm run test
 - [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
 - [The Future of Software Has a Lot More Builders. They’re Going to Need a Home.](https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65) _[Dev.to]_
 - [The most valuable skill in 2026 isn't writing code. It is deleting it.](https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1) _[Dev.to]_
-- [How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity](https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52) _[Dev.to]_
 - [Introducing Our Next DEV Education Track: "Build Multi-Agent Systems with ADK"](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8) _[Dev.to]_
 - [Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side](https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p) _[Dev.to]_
+- [How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity](https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52) _[Dev.to]_
 - [If Writing still Matters, How to Do it Right and Avoid AI Suspicion?](https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac) _[Dev.to]_
 - [Can you order a pizza on my site? ❌ 99% Can't 😤](https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd) _[Dev.to]_
 - [I'm Done With Magic. Here's What I Built Instead.](https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak) _[Dev.to]_
 - [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o) _[Dev.to]_
 
-_Last automated update: Thu, 19 Feb 2026 08:13:59 CAT_
+_Last automated update: Thu, 19 Feb 2026 09:17:09 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 19 Feb 2026 08:13:59 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 19 Feb 2026 06:13:59 GMT</b><br/>
+  <b>Last automated update: Thu, 19 Feb 2026 07:17:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
