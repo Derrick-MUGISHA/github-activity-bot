@@ -16,21 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-      "url": "https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2",
-      "published_at": "2026-02-19T19:36:52Z",
-      "description": "Last week, we released a major update to Gemini 3 Deep Think to solve modern challenges across...",
-      "tags": [
-        "gemini",
-        "ai",
-        "antigravity",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyjqp4hnol5k4cnmr568.webp",
-      "source": "Dev.to",
-      "user": "Logan Kilpatrick"
-    },
-    {
       "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
       "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
       "published_at": "2026-02-18T14:00:30Z",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "url": "https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2",
+      "published_at": "2026-02-19T19:36:52Z",
+      "description": "Last week, we released a major update to Gemini 3 Deep Think to solve modern challenges across...",
+      "tags": [
+        "gemini",
+        "ai",
+        "antigravity",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyjqp4hnol5k4cnmr568.webp",
+      "source": "Dev.to",
+      "user": "Logan Kilpatrick"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -207,6 +207,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "David Alcala"
+    },
+    {
+      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
+      "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
+      "published_at": "2026-02-18T17:39:12Z",
+      "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
+      "tags": [
+        "antigravity",
+        "ai",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Software engineering is not dead",
+      "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
+      "published_at": "2026-02-16T23:29:28Z",
+      "description": "Lately, my LinkedIn feed has become an echo chamber of AI evangelists worshiping at the altar of the...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
+      "source": "Dev.to",
+      "user": "Juan G De Jesus Torres"
     },
     {
       "title": "HJX: Rethinking the Web for the AI Era",
@@ -544,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3735,
+      "stars": 3761,
       "user": "HKUDS"
     },
     {
@@ -574,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "Gentleman-Programming"
     }
   ],
@@ -995,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "khalildh"
     },
     {
@@ -1205,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3735,
+      "stars": 3761,
       "user": "HKUDS"
     },
     {
@@ -1220,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 866,
       "user": "HKUDS"
     },
     {
@@ -1235,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 470,
       "user": "Mathews-Tom"
     },
     {
@@ -1250,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 332,
       "user": "Runnin4ik"
     },
     {
@@ -1454,6 +1483,21 @@
       "user": "suin"
     },
     {
+      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
+      "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
+      "published_at": "2026-02-18T17:39:12Z",
+      "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
+      "tags": [
+        "antigravity",
+        "ai",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
       "published_at": "2025-08-21T12:53:16Z",
@@ -1551,7 +1595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1794,21 +1838,6 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
-      "title": "Who Are We Still Writing Technical Articles For?",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
-      "published_at": "2026-02-17T12:34:14Z",
-      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
-      "tags": [
-        "career",
-        "discuss",
-        "productivity",
-        "writing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
-      "source": "Dev.to",
-      "user": "Pascal CESCATO"
-    },
-    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1865,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "khalildh"
     },
     {
@@ -1895,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3735,
+      "stars": 3761,
       "user": "HKUDS"
     },
     {
@@ -1910,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 866,
       "user": "HKUDS"
     },
     {
@@ -1925,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 470,
       "user": "Mathews-Tom"
     },
     {
@@ -1940,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 332,
       "user": "Runnin4ik"
     },
     {
@@ -1985,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 845,
       "user": "pinchtab"
     },
     {
@@ -2015,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "Gentleman-Programming"
     },
     {
