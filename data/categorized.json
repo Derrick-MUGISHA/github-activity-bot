@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "marswei"
     },
     {
@@ -544,23 +544,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2562,
+      "stars": 2585,
       "user": "HKUDS"
-    },
-    {
-      "title": "Nasiko-Labs/nasiko - AI-powered development platform for the future",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "published_at": "2026-02-12T10:45:29Z",
-      "description": "AI-powered development platform for the future",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
-      "source": "GitHub",
-      "stars": 372,
-      "user": "Nasiko-Labs"
     },
     {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
@@ -966,23 +951,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "marswei"
-    },
-    {
-      "title": "iltekin/remove-local-temu - GitHub Repository",
-      "url": "https://github.com/iltekin/remove-local-temu",
-      "published_at": "2026-02-12T08:32:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
-      "source": "GitHub",
-      "stars": 133,
-      "user": "iltekin"
     },
     {
       "title": "khalildh/garment-notation - GitHub Repository",
@@ -996,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 135,
       "user": "khalildh"
     },
     {
@@ -1013,6 +983,21 @@
       "source": "GitHub",
       "stars": 122,
       "user": "andyhuo520"
+    },
+    {
+      "title": "jdubois/dr-jskill - An Agent Skill for creating Spring Boot applications",
+      "url": "https://github.com/jdubois/dr-jskill",
+      "published_at": "2026-02-13T11:56:41Z",
+      "description": "An Agent Skill for creating Spring Boot applications",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
+      "source": "GitHub",
+      "stars": 87,
+      "user": "jdubois"
     }
   ],
   "Python": [
@@ -1191,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2562,
+      "stars": 2585,
       "user": "HKUDS"
     },
     {
@@ -1206,23 +1191,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 847,
       "user": "HKUDS"
-    },
-    {
-      "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "url": "https://github.com/MooseGoose0701/skill-compose",
-      "published_at": "2026-02-12T14:11:39Z",
-      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
-      "source": "GitHub",
-      "stars": 709,
-      "user": "MooseGoose0701"
     },
     {
       "title": "Mathews-Tom/no-magic - Because `model.fit()` isn't an explanation",
@@ -1240,19 +1210,34 @@
       "user": "Mathews-Tom"
     },
     {
-      "title": "Nasiko-Labs/nasiko - AI-powered development platform for the future",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "published_at": "2026-02-12T10:45:29Z",
-      "description": "AI-powered development platform for the future",
+      "title": "tomascupr/sandstorm - One API call. Full Claude agent. Completely sandboxed.",
+      "url": "https://github.com/tomascupr/sandstorm",
+      "published_at": "2026-02-14T14:26:15Z",
+      "description": "One API call. Full Claude agent. Completely sandboxed.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 372,
-      "user": "Nasiko-Labs"
+      "stars": 320,
+      "user": "tomascupr"
+    },
+    {
+      "title": "Runnin4ik/dpi-detector - DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops",
+      "url": "https://github.com/Runnin4ik/dpi-detector",
+      "published_at": "2026-02-13T22:00:15Z",
+      "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
+      "source": "GitHub",
+      "stars": 290,
+      "user": "Runnin4ik"
     }
   ],
   "DevOps": [
@@ -1804,23 +1789,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "marswei"
-    },
-    {
-      "title": "iltekin/remove-local-temu - GitHub Repository",
-      "url": "https://github.com/iltekin/remove-local-temu",
-      "published_at": "2026-02-12T08:32:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/27290522?v=4",
-      "source": "GitHub",
-      "stars": 133,
-      "user": "iltekin"
     },
     {
       "title": "khalildh/garment-notation - GitHub Repository",
@@ -1834,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 135,
       "user": "khalildh"
     },
     {
@@ -1853,6 +1823,21 @@
       "user": "andyhuo520"
     },
     {
+      "title": "jdubois/dr-jskill - An Agent Skill for creating Spring Boot applications",
+      "url": "https://github.com/jdubois/dr-jskill",
+      "published_at": "2026-02-13T11:56:41Z",
+      "description": "An Agent Skill for creating Spring Boot applications",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
+      "source": "GitHub",
+      "stars": 87,
+      "user": "jdubois"
+    },
+    {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
       "url": "https://github.com/HKUDS/ClawWork",
       "published_at": "2026-02-15T16:41:38Z",
@@ -1864,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2562,
+      "stars": 2585,
       "user": "HKUDS"
     },
     {
@@ -1879,23 +1864,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 847,
       "user": "HKUDS"
-    },
-    {
-      "title": "MooseGoose0701/skill-compose - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "url": "https://github.com/MooseGoose0701/skill-compose",
-      "published_at": "2026-02-12T14:11:39Z",
-      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259146465?v=4",
-      "source": "GitHub",
-      "stars": 709,
-      "user": "MooseGoose0701"
     },
     {
       "title": "Mathews-Tom/no-magic - Because `model.fit()` isn't an explanation",
@@ -1913,19 +1883,34 @@
       "user": "Mathews-Tom"
     },
     {
-      "title": "Nasiko-Labs/nasiko - AI-powered development platform for the future",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "published_at": "2026-02-12T10:45:29Z",
-      "description": "AI-powered development platform for the future",
+      "title": "tomascupr/sandstorm - One API call. Full Claude agent. Completely sandboxed.",
+      "url": "https://github.com/tomascupr/sandstorm",
+      "published_at": "2026-02-14T14:26:15Z",
+      "description": "One API call. Full Claude agent. Completely sandboxed.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259143031?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 372,
-      "user": "Nasiko-Labs"
+      "stars": 320,
+      "user": "tomascupr"
+    },
+    {
+      "title": "Runnin4ik/dpi-detector - DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops",
+      "url": "https://github.com/Runnin4ik/dpi-detector",
+      "published_at": "2026-02-13T22:00:15Z",
+      "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
+      "source": "GitHub",
+      "stars": 290,
+      "user": "Runnin4ik"
     },
     {
       "title": "mickamy/sql-tap - Watch SQL traffic in real-time with a TUI",
@@ -1954,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 636,
       "user": "pinchtab"
     },
     {
