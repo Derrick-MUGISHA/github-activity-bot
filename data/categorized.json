@@ -300,19 +300,6 @@
       "user": "Natnael Getenew"
     },
     {
-      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
-      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
-      "published_at": "2026-02-08T07:00:00Z",
-      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
-      "tags": [
-        "aiassisteddevelopmen",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
-      "source": "Dev.to",
-      "user": "Stephan Miller"
-    },
-    {
       "title": "Do people still genuinely care about technical articles ?",
       "url": "https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk",
       "published_at": "2026-02-15T23:42:17Z",
@@ -325,6 +312,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png",
       "source": "Dev.to",
       "user": "Makanju Oluwafemi"
+    },
+    {
+      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
+      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
+      "published_at": "2026-02-08T07:00:00Z",
+      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
+      "tags": [
+        "aiassisteddevelopmen",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
+      "source": "Dev.to",
+      "user": "Stephan Miller"
     },
     {
       "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
@@ -369,6 +369,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftapnclaw.com%2Fog-image.png",
       "source": "Dev.to",
       "user": "Ben Greenberg"
+    },
+    {
+      "title": "I Ditched My AI Agent Dashboard for Obsidian",
+      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
+      "published_at": "2026-02-08T15:46:00Z",
+      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
+      "tags": [
+        "openclaw",
+        "obsidian",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
+      "source": "Dev.to",
+      "user": "David Dias"
     },
     {
       "title": "Airfoil",
@@ -529,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 259,
       "user": "marswei"
     },
     {
@@ -544,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3187,
+      "stars": 3223,
       "user": "HKUDS"
     },
     {
@@ -805,6 +820,21 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
+      "title": "I Ditched My AI Agent Dashboard for Obsidian",
+      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
+      "published_at": "2026-02-08T15:46:00Z",
+      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
+      "tags": [
+        "openclaw",
+        "obsidian",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
+      "source": "Dev.to",
+      "user": "David Dias"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -951,7 +981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 259,
       "user": "marswei"
     },
     {
@@ -966,7 +996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "khalildh"
     },
     {
@@ -981,7 +1011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 149,
       "user": "andyhuo520"
     },
     {
@@ -1176,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3187,
+      "stars": 3223,
       "user": "HKUDS"
     },
     {
@@ -1206,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 467,
       "user": "Mathews-Tom"
     },
     {
@@ -1236,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "Runnin4ik"
     }
   ],
@@ -1763,6 +1793,21 @@
       "user": "Ben Greenberg"
     },
     {
+      "title": "I Ditched My AI Agent Dashboard for Obsidian",
+      "url": "https://dev.to/thedaviddias/i-ditched-my-ai-agent-dashboard-for-obsidian-37la",
+      "published_at": "2026-02-08T15:46:00Z",
+      "description": "I spent a few days building a React dashboard. Dark mode, real-time updates, graphs showing agent...",
+      "tags": [
+        "openclaw",
+        "obsidian",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpz18qhhrn2jh1rpqep.png",
+      "source": "Dev.to",
+      "user": "David Dias"
+    },
+    {
       "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "published_at": "2026-02-13T13:14:54Z",
@@ -1789,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 259,
       "user": "marswei"
     },
     {
@@ -1804,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "khalildh"
     },
     {
@@ -1819,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 149,
       "user": "andyhuo520"
     },
     {
@@ -1849,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3187,
+      "stars": 3223,
       "user": "HKUDS"
     },
     {
@@ -1879,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 467,
       "user": "Mathews-Tom"
     },
     {
@@ -1909,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "Runnin4ik"
     },
     {
@@ -1939,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 755,
       "user": "pinchtab"
     },
     {

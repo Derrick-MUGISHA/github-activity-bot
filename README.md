@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-19-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (29.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦 7 (6.8%)
+**Cloud**: 🟦🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦🟦 4 (3.9%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦🟦 4 (3.9%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
-**Database**: 🟦🟦 4 (3.9%)
+**Database**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,19 +60,19 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.6 (31.6%)
-Java            ███████████████████████ 24.2 (24.2%)
-Python          ██████████████████ 18.9 (18.9%)
-Go              █████████████████ 17.9 (17.9%)
+JavaScript      ██████████████████████████████ 32.3 (32.3%)
+Java            ██████████████████████ 24.0 (24.0%)
+Python          █████████████████ 18.8 (18.8%)
+Go              ████████████████ 17.7 (17.7%)
 Rust            ████ 4.2 (4.2%)
 PHP             ██ 2.1 (2.1%)
-Swift           █ 1.1 (1.1%)
+Swift           █ 1.0 (1.0%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 30
+    "JavaScript" : 31
     "Java" : 23
     "Python" : 18
     "Go" : 17
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![career](https://img.shields.io/badge/career-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-13-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![programming](https://img.shields.io/badge/programming-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![career](https://img.shields.io/badge/career-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
 
 
 
@@ -216,7 +216,7 @@ npm run test
 - [Kubernetes: Should You Name Your Controller "foo-bar" or "foobar"? A Survey of 13 Open-Source Projects](https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c) _[Dev.to]_
 - [Command Center for AI Coding Agents (Claude Code + Codex)](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g) _[Dev.to]_
 
-_Last automated update: Thu, 19 Feb 2026 13:06:33 CAT_
+_Last automated update: Thu, 19 Feb 2026 13:54:18 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 19 Feb 2026 13:06:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 19 Feb 2026 11:06:33 GMT</b><br/>
+  <b>Last automated update: Thu, 19 Feb 2026 11:54:18 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
