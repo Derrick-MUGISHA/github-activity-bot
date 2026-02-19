@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -9,13 +9,13 @@
     "AI": 41,
     "JavaScript": 31,
     "Python": 19,
-    "DevOps": 6,
+    "DevOps": 5,
     "WebDev": 4,
     "Mobile": 1,
-    "Cloud": 7,
+    "Cloud": 6,
     "Database": 4,
     "Security": 5,
-    "Tools": 28
+    "Tools": 27
   },
   "by_language": {
     "JavaScript": 31,
@@ -40,7 +40,6 @@
     "2026-02-08": 2,
     "2026-02-09": 3,
     "2026-02-06": 2,
-    "2026-02-05": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
     "2025-06-02": 1,
@@ -86,8 +85,8 @@
     "productivity": 7,
     "opensource": 6,
     "go": 6,
-    "devops": 5,
     "showdev": 4,
+    "devops": 4,
     "rust": 4,
     "react": 4,
     "tutorial": 4
