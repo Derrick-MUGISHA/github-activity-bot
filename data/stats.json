@@ -1,7 +1,7 @@
 {
-  "total": 104,
+  "total": 103,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 58,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -28,7 +28,7 @@
   },
   "by_date": {
     "2026-02-18": 6,
-    "2026-02-17": 19,
+    "2026-02-17": 18,
     "2026-02-16": 7,
     "2026-02-15": 8,
     "2026-02-13": 11,
@@ -71,12 +71,12 @@
   },
   "top_tags": {
     "ai": 20,
-    "webdev": 15,
     "github": 15,
     "open-source": 15,
-    "discuss": 13,
+    "webdev": 14,
     "javascript": 13,
-    "programming": 12,
+    "discuss": 12,
+    "programming": 11,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
@@ -86,10 +86,10 @@
     "go": 6,
     "opensource": 6,
     "typescript": 5,
-    "showdev": 4,
     "react": 4,
     "softwareengineering": 3,
-    "watercooler": 3
+    "watercooler": 3,
+    "tutorial": 3
   },
   "trending_topics": [],
   "language_percentages": {

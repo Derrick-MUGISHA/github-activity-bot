@@ -31,6 +31,21 @@
       "user": "NorthernDev"
     },
     {
+      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
+      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
+      "published_at": "2026-02-18T14:10:39Z",
+      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
+      "tags": [
+        "writing",
+        "ai",
+        "watercooler",
+        "nanobanana"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
       "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
       "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
       "published_at": "2026-02-17T18:27:56Z",
@@ -74,21 +89,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
-    },
-    {
-      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
-      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
-      "published_at": "2026-02-18T14:10:39Z",
-      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
-      "tags": [
-        "writing",
-        "ai",
-        "watercooler",
-        "nanobanana"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "The Ghost in the Training Set",
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "marswei"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3133,
+      "stars": 3187,
       "user": "HKUDS"
     },
     {
@@ -574,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "Gentleman-Programming"
     }
   ],
@@ -951,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "marswei"
     },
     {
@@ -966,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "khalildh"
     },
     {
@@ -981,7 +981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 145,
       "user": "andyhuo520"
     },
     {
@@ -996,7 +996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 101,
       "user": "jdubois"
     }
   ],
@@ -1176,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3133,
+      "stars": 3187,
       "user": "HKUDS"
     },
     {
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 853,
       "user": "HKUDS"
     },
     {
@@ -1236,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 307,
       "user": "Runnin4ik"
     }
   ],
@@ -1520,7 +1520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 904,
       "user": "mickamy"
     },
     {
@@ -1535,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1789,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "marswei"
     },
     {
@@ -1804,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "khalildh"
     },
     {
@@ -1819,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 145,
       "user": "andyhuo520"
     },
     {
@@ -1834,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 101,
       "user": "jdubois"
     },
     {
@@ -1849,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3133,
+      "stars": 3187,
       "user": "HKUDS"
     },
     {
@@ -1864,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 853,
       "user": "HKUDS"
     },
     {
@@ -1909,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 307,
       "user": "Runnin4ik"
     },
     {
@@ -1924,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 904,
       "user": "mickamy"
     },
     {
@@ -1939,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 750,
       "user": "pinchtab"
     },
     {
@@ -1969,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "Gentleman-Programming"
     },
     {
