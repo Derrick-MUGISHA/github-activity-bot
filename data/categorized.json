@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "url": "https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2",
+      "published_at": "2026-02-19T19:36:52Z",
+      "description": "Last week, we released a major update to Gemini 3 Deep Think to solve modern challenges across...",
+      "tags": [
+        "gemini",
+        "ai",
+        "antigravity",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyjqp4hnol5k4cnmr568.webp",
+      "source": "Dev.to",
+      "user": "Logan Kilpatrick"
+    },
+    {
       "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
       "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
       "published_at": "2026-02-18T14:00:30Z",
@@ -43,21 +58,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzhq0zynlbem8i72sxt1.png",
       "source": "Dev.to",
       "user": "Leandro Proença"
-    },
-    {
-      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
-      "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
-      "published_at": "2026-02-18T17:39:12Z",
-      "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
-      "tags": [
-        "antigravity",
-        "ai",
-        "gemini",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
@@ -194,18 +194,19 @@
       "user": "David Alcala"
     },
     {
-      "title": "Software engineering is not dead",
-      "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
-      "published_at": "2026-02-16T23:29:28Z",
-      "description": "Lately, my LinkedIn feed has become an echo chamber of AI evangelists worshiping at the altar of the...",
+      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
+      "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
+      "published_at": "2026-02-18T17:39:12Z",
+      "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
       "tags": [
-        "webdev",
+        "antigravity",
         "ai",
-        "programming"
+        "gemini",
+        "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
       "source": "Dev.to",
-      "user": "Juan G De Jesus Torres"
+      "user": "Shir Meir Lador"
     },
     {
       "title": "HJX: Rethinking the Web for the AI Era",
@@ -528,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "marswei"
     },
     {
@@ -543,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3688,
+      "stars": 3716,
       "user": "HKUDS"
     },
     {
@@ -964,7 +965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "marswei"
     },
     {
@@ -1204,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3688,
+      "stars": 3716,
       "user": "HKUDS"
     },
     {
@@ -1249,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "Runnin4ik"
     },
     {
@@ -1423,21 +1424,6 @@
   ],
   "Cloud": [
     {
-      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
-      "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
-      "published_at": "2026-02-18T17:39:12Z",
-      "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
-      "tags": [
-        "antigravity",
-        "ai",
-        "gemini",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
       "published_at": "2026-02-15T10:27:55Z",
@@ -1466,6 +1452,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
       "source": "Dev.to",
       "user": "suin"
+    },
+    {
+      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
+      "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
+      "published_at": "2026-02-18T17:39:12Z",
+      "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
+      "tags": [
+        "antigravity",
+        "ai",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
@@ -1550,7 +1551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 911,
       "user": "mickamy"
     },
     {
@@ -1849,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "marswei"
     },
     {
@@ -1909,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3688,
+      "stars": 3716,
       "user": "HKUDS"
     },
     {
@@ -1954,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "Runnin4ik"
     },
     {
@@ -1984,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 911,
       "user": "mickamy"
     },
     {
@@ -1999,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 840,
       "user": "pinchtab"
     },
     {
