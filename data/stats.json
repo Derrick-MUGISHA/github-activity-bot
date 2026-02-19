@@ -18,9 +18,9 @@
     "Tools": 26
   },
   "by_language": {
+    "Go": 19,
     "JavaScript": 31,
     "Python": 19,
-    "Go": 19,
     "Rust": 5,
     "Java": 22,
     "PHP": 2,
@@ -85,17 +85,17 @@
     "productivity": 6,
     "opensource": 6,
     "go": 6,
+    "gemini": 4,
     "showdev": 4,
     "devops": 4,
-    "gemini": 4,
     "rust": 4,
     "react": 4
   },
   "trending_topics": [],
   "language_percentages": {
+    "Go": "19.2",
     "JavaScript": "31.3",
     "Python": "19.2",
-    "Go": "19.2",
     "Rust": "5.1",
     "Java": "22.2",
     "PHP": "2.0",
