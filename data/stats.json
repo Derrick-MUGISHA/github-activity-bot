@@ -18,9 +18,9 @@
     "Tools": 25
   },
   "by_language": {
-    "Go": 15,
     "JavaScript": 29,
     "Python": 18,
+    "Go": 15,
     "PHP": 4,
     "Rust": 5,
     "Java": 21,
@@ -28,9 +28,9 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-02-19": 11,
     "2026-02-18": 5,
     "2026-02-20": 12,
+    "2026-02-19": 11,
     "2026-02-17": 11,
     "2026-02-16": 5,
     "2026-02-15": 6,
@@ -84,21 +84,21 @@
     "JavaScript": 10,
     "Python": 10,
     "python": 8,
-    "career": 5,
     "typescript": 5,
+    "career": 5,
     "tutorial": 5,
     "opensource": 5,
     "go": 5,
     "showdev": 4,
     "productivity": 4,
     "rust": 4,
-    "gemini": 3
+    "devops": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "16.0",
     "JavaScript": "30.9",
     "Python": "19.1",
+    "Go": "16.0",
     "PHP": "4.3",
     "Rust": "5.3",
     "Java": "22.3",
