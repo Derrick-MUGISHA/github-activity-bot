@@ -46,6 +46,21 @@
       "user": "Jon Gottfried"
     },
     {
+      "title": "What Do You Want to Know About Antigravity?",
+      "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
+      "published_at": "2026-02-20T20:45:03Z",
+      "description": "Last week Jack Wotherspoon and @greggyb dove into skills, hooks, and Plan Mode on Google Cloud Live....",
+      "tags": [
+        "antigravity",
+        "discuss",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgkcyvxwbxoi4a3mctrx.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -207,21 +222,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
-    },
-    {
-      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
-      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
-      "published_at": "2026-02-13T20:08:54Z",
-      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
-      "tags": [
-        "opensource",
-        "ai",
-        "codex",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "David Alcala"
     },
     {
       "title": "Software engineering is not dead",
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4517,
+      "stars": 4522,
       "user": "HKUDS"
     },
     {
@@ -574,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "Gentleman-Programming"
     }
   ],
@@ -980,7 +980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "dimartarmizi"
     }
   ],
@@ -1162,7 +1162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4517,
+      "stars": 4522,
       "user": "HKUDS"
     },
     {
@@ -1177,7 +1177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 466,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1207,7 +1207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "joshavant"
     },
     {
@@ -1380,6 +1380,21 @@
   ],
   "Cloud": [
     {
+      "title": "What Do You Want to Know About Antigravity?",
+      "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
+      "published_at": "2026-02-20T20:45:03Z",
+      "description": "Last week Jack Wotherspoon and @greggyb dove into skills, hooks, and Plan Mode on Google Cloud Live....",
+      "tags": [
+        "antigravity",
+        "discuss",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgkcyvxwbxoi4a3mctrx.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "The hosting setup nobody talks about anymore",
       "url": "https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528",
       "published_at": "2026-02-20T00:15:40Z",
@@ -1520,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "mickamy"
     },
     {
@@ -1535,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1748,21 +1763,6 @@
       "user": "Lucca Sanwald"
     },
     {
-      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
-      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
-      "published_at": "2026-02-13T20:08:54Z",
-      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
-      "tags": [
-        "opensource",
-        "ai",
-        "codex",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "David Alcala"
-    },
-    {
       "title": "Who Are We Still Writing Technical Articles For?",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
       "published_at": "2026-02-17T12:34:14Z",
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "dimartarmizi"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4517,
+      "stars": 4522,
       "user": "HKUDS"
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 466,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1953,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "joshavant"
     },
     {
@@ -1983,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1003,
       "user": "pinchtab"
     },
     {
@@ -1998,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "mickamy"
     },
     {
@@ -2028,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "Gentleman-Programming"
     },
     {
