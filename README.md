@@ -218,7 +218,7 @@ npm run test
 - [Inside OpenClaw: How a Persistent AI Agent Actually Works](https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 
-_Last automated update: Sat, 21 Feb 2026 01:25:26 CAT_
+_Last automated update: Sat, 21 Feb 2026 01:51:46 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 21 Feb 2026 01:25:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Feb 2026 23:25:26 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Feb 2026 23:51:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
