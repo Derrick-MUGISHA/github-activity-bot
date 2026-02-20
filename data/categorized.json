@@ -104,21 +104,6 @@
       "user": "NorthernDev"
     },
     {
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-      "url": "https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2",
-      "published_at": "2026-02-19T19:36:52Z",
-      "description": "Last week, we released a major update to Gemini 3 Deep Think to solve modern challenges across...",
-      "tags": [
-        "gemini",
-        "ai",
-        "antigravity",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyjqp4hnol5k4cnmr568.webp",
-      "source": "Dev.to",
-      "user": "Logan Kilpatrick"
-    },
-    {
       "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
       "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
       "published_at": "2026-02-19T18:28:58Z",
@@ -162,6 +147,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyedmo3tx4u5ewng0f8k.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "url": "https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2",
+      "published_at": "2026-02-19T19:36:52Z",
+      "description": "Last week, we released a major update to Gemini 3 Deep Think to solve modern challenges across...",
+      "tags": [
+        "gemini",
+        "ai",
+        "antigravity",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyjqp4hnol5k4cnmr568.webp",
+      "source": "Dev.to",
+      "user": "Logan Kilpatrick"
     },
     {
       "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
@@ -343,20 +343,6 @@
       "user": "Natnael Getenew"
     },
     {
-      "title": "Do people still genuinely care about technical articles ?",
-      "url": "https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk",
-      "published_at": "2026-02-15T23:42:17Z",
-      "description": "AI has spread like wildfire. In software development especially, it’s changing how we learn and solve...",
-      "tags": [
-        "community",
-        "discuss",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tqowbkflgnov2866ulx.png",
-      "source": "Dev.to",
-      "user": "Makanju Oluwafemi"
-    },
-    {
       "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
       "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
       "published_at": "2026-02-08T07:00:00Z",
@@ -398,6 +384,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
       "source": "Dev.to",
       "user": "Dan Walsh"
+    },
+    {
+      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
+      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
+      "published_at": "2026-02-15T16:13:01Z",
+      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+      "tags": [
+        "ai",
+        "career",
+        "productivity",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "Airfoil",
@@ -543,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 310,
       "user": "marswei"
     },
     {
@@ -558,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4233,
+      "stars": 4267,
       "user": "HKUDS"
     },
     {
@@ -573,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 495,
       "user": "klawsh"
     },
     {
@@ -818,21 +819,6 @@
       "user": "Manuj Sankrit"
     },
     {
-      "title": "Faster Server Startup in Meteor 3.4 with Deferrables",
-      "url": "https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn",
-      "published_at": "2026-02-12T22:01:43Z",
-      "description": "As you might have seen in the 3.4 release blog post, Meteor has received a HUGE update with a lot of...",
-      "tags": [
-        "webdev",
-        "programming",
-        "meteor",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjuz3zu8nsbz5xfo4aayp.png",
-      "source": "Dev.to",
-      "user": "Gabriel Grubba"
-    },
-    {
       "title": "Why I built yet another release tool for npm",
       "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
       "published_at": "2026-02-13T22:33:56Z",
@@ -979,7 +965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 310,
       "user": "marswei"
     },
     {
@@ -1024,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 157,
       "user": "yeuxuan"
     },
     {
@@ -1039,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 95,
       "user": "dimartarmizi"
     }
   ],
@@ -1058,6 +1044,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
       "source": "Dev.to",
       "user": "Maame Afua A. P. Fordjour "
+    },
+    {
+      "title": "I built an API that detects chess tactical patterns from FEN and PGN",
+      "url": "https://dev.to/stevejvv/i-built-an-api-that-detects-chess-tactical-patterns-from-fen-and-pgn-5ef0",
+      "published_at": "2026-02-17T22:48:09Z",
+      "description": "I've been working on ChessGrammar, an API that takes a chess  position (FEN) or a full game (PGN) and...",
+      "tags": [
+        "chess",
+        "python",
+        "api",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft4ja9mpsntwunxayu2gx.png",
+      "source": "Dev.to",
+      "user": "stevejvv"
     },
     {
       "title": "Checking Django Settings",
@@ -1219,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4233,
+      "stars": 4267,
       "user": "HKUDS"
     },
     {
@@ -1535,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 495,
       "user": "klawsh"
     }
   ],
@@ -1837,6 +1838,36 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
+      "title": "Who Are We Still Writing Technical Articles For?",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
+      "published_at": "2026-02-17T12:34:14Z",
+      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "writing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
+      "source": "Dev.to",
+      "user": "Pascal CESCATO"
+    },
+    {
+      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
+      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
+      "published_at": "2026-02-15T16:13:01Z",
+      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+      "tags": [
+        "ai",
+        "career",
+        "productivity",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
       "url": "https://github.com/marswei/seaseed-clawerse",
       "published_at": "2026-02-14T18:13:42Z",
@@ -1848,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 310,
       "user": "marswei"
     },
     {
@@ -1893,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 157,
       "user": "yeuxuan"
     },
     {
@@ -1908,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 95,
       "user": "dimartarmizi"
     },
     {
@@ -1923,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4233,
+      "stars": 4267,
       "user": "HKUDS"
     },
     {
@@ -1998,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 951,
       "user": "pinchtab"
     },
     {
@@ -2028,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 495,
       "user": "klawsh"
     },
     {
