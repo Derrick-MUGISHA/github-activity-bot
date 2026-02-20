@@ -532,21 +532,6 @@
       "user": "veesahni"
     },
     {
-      "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
-      "published_at": "2026-02-13T13:14:54Z",
-      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 360,
-      "user": "andyhuo520"
-    },
-    {
       "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
       "url": "https://github.com/marswei/seaseed-clawerse",
       "published_at": "2026-02-14T18:13:42Z",
@@ -558,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 292,
       "user": "marswei"
     },
     {
@@ -573,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3844,
+      "stars": 3903,
       "user": "HKUDS"
     },
     {
@@ -603,8 +588,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "Gentleman-Programming"
+    },
+    {
+      "title": "almonk/sesh - Split terminal session for AI-assisted coding",
+      "url": "https://github.com/almonk/sesh",
+      "published_at": "2026-02-17T23:11:38Z",
+      "description": "Split terminal session for AI-assisted coding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
+      "source": "GitHub",
+      "stars": 75,
+      "user": "almonk"
     }
   ],
   "JavaScript": [
@@ -968,21 +968,6 @@
       "user": "velmu"
     },
     {
-      "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
-      "published_at": "2026-02-13T13:14:54Z",
-      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 360,
-      "user": "andyhuo520"
-    },
-    {
       "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
       "url": "https://github.com/marswei/seaseed-clawerse",
       "published_at": "2026-02-14T18:13:42Z",
@@ -994,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 292,
       "user": "marswei"
     },
     {
@@ -1009,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "andyhuo520"
     },
     {
@@ -1028,19 +1013,34 @@
       "user": "khalildh"
     },
     {
-      "title": "jdubois/dr-jskill - An Agent Skill for creating Spring Boot applications",
-      "url": "https://github.com/jdubois/dr-jskill",
-      "published_at": "2026-02-13T11:56:41Z",
-      "description": "An Agent Skill for creating Spring Boot applications",
+      "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
+      "url": "https://github.com/yeuxuan/openclaw-docs",
+      "published_at": "2026-02-19T02:30:39Z",
+      "description": "openclaw 剖析、拆解、教程在线文档",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 114,
-      "user": "jdubois"
+      "stars": 99,
+      "user": "yeuxuan"
+    },
+    {
+      "title": "madrzak/vidclaw - The OpenClaw Dashboard 🦞",
+      "url": "https://github.com/madrzak/vidclaw",
+      "published_at": "2026-02-16T08:48:58Z",
+      "description": "The OpenClaw Dashboard 🦞",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8465802?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "madrzak"
     }
   ],
   "Python": [
@@ -1058,21 +1058,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
       "source": "Dev.to",
       "user": "Maame Afua A. P. Fordjour "
-    },
-    {
-      "title": "I built an API that detects chess tactical patterns from FEN and PGN",
-      "url": "https://dev.to/stevejvv/i-built-an-api-that-detects-chess-tactical-patterns-from-fen-and-pgn-5ef0",
-      "published_at": "2026-02-17T22:48:09Z",
-      "description": "I've been working on ChessGrammar, an API that takes a chess  position (FEN) or a full game (PGN) and...",
-      "tags": [
-        "chess",
-        "python",
-        "api",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft4ja9mpsntwunxayu2gx.png",
-      "source": "Dev.to",
-      "user": "stevejvv"
     },
     {
       "title": "Checking Django Settings",
@@ -1234,53 +1219,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3844,
+      "stars": 3903,
       "user": "HKUDS"
-    },
-    {
-      "title": "HKUDS/FastCode - \"FastCode: Accelerating and Streamlining Your Code Understanding\"",
-      "url": "https://github.com/HKUDS/FastCode",
-      "published_at": "2026-02-13T06:43:54Z",
-      "description": "\"FastCode: Accelerating and Streamlining Your Code Understanding\"",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 868,
-      "user": "HKUDS"
-    },
-    {
-      "title": "Mathews-Tom/no-magic - Because `model.fit()` isn't an explanation",
-      "url": "https://github.com/Mathews-Tom/no-magic",
-      "published_at": "2026-02-13T11:54:34Z",
-      "description": "Because `model.fit()` isn't an explanation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
-      "source": "GitHub",
-      "stars": 470,
-      "user": "Mathews-Tom"
-    },
-    {
-      "title": "Runnin4ik/dpi-detector - DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops",
-      "url": "https://github.com/Runnin4ik/dpi-detector",
-      "published_at": "2026-02-13T22:00:15Z",
-      "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
-      "source": "GitHub",
-      "stars": 334,
-      "user": "Runnin4ik"
     },
     {
       "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
@@ -1296,6 +1236,51 @@
       "source": "GitHub",
       "stars": 329,
       "user": "tomascupr"
+    },
+    {
+      "title": "joshavant/clawbox - OpenClaw-ready macOS VMs",
+      "url": "https://github.com/joshavant/clawbox",
+      "published_at": "2026-02-14T06:45:40Z",
+      "description": "OpenClaw-ready macOS VMs",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
+      "source": "GitHub",
+      "stars": 316,
+      "user": "joshavant"
+    },
+    {
+      "title": "Infatoshi/x-cli - CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal",
+      "url": "https://github.com/Infatoshi/x-cli",
+      "published_at": "2026-02-14T07:12:41Z",
+      "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/59771030?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "Infatoshi"
+    },
+    {
+      "title": "brendanhogan/hermitclaw - GitHub Repository",
+      "url": "https://github.com/brendanhogan/hermitclaw",
+      "published_at": "2026-02-15T21:54:01Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78052016?v=4",
+      "source": "GitHub",
+      "stars": 225,
+      "user": "brendanhogan"
     }
   ],
   "DevOps": [
@@ -1453,6 +1438,20 @@
   ],
   "Cloud": [
     {
+      "title": "The hosting setup nobody talks about anymore",
+      "url": "https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528",
+      "published_at": "2026-02-20T00:15:40Z",
+      "description": "Ever had this problem?   You're building something real, real-time features, background workers, cron...",
+      "tags": [
+        "aws",
+        "webhost",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62n86s58xdso8eyzg2es.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
+    },
+    {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
       "published_at": "2026-02-15T10:27:55Z",
@@ -1580,7 +1579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 915,
       "user": "mickamy"
     },
     {
@@ -1595,7 +1594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1838,21 +1837,6 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
-      "title": "andyhuo520/openclaw-assistant-mvp - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
-      "published_at": "2026-02-13T13:14:54Z",
-      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 360,
-      "user": "andyhuo520"
-    },
-    {
       "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
       "url": "https://github.com/marswei/seaseed-clawerse",
       "published_at": "2026-02-14T18:13:42Z",
@@ -1864,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 292,
       "user": "marswei"
     },
     {
@@ -1879,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "andyhuo520"
     },
     {
@@ -1898,19 +1882,34 @@
       "user": "khalildh"
     },
     {
-      "title": "jdubois/dr-jskill - An Agent Skill for creating Spring Boot applications",
-      "url": "https://github.com/jdubois/dr-jskill",
-      "published_at": "2026-02-13T11:56:41Z",
-      "description": "An Agent Skill for creating Spring Boot applications",
+      "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
+      "url": "https://github.com/yeuxuan/openclaw-docs",
+      "published_at": "2026-02-19T02:30:39Z",
+      "description": "openclaw 剖析、拆解、教程在线文档",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316835?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 114,
-      "user": "jdubois"
+      "stars": 99,
+      "user": "yeuxuan"
+    },
+    {
+      "title": "madrzak/vidclaw - The OpenClaw Dashboard 🦞",
+      "url": "https://github.com/madrzak/vidclaw",
+      "published_at": "2026-02-16T08:48:58Z",
+      "description": "The OpenClaw Dashboard 🦞",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8465802?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "madrzak"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -1924,53 +1923,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3844,
+      "stars": 3903,
       "user": "HKUDS"
-    },
-    {
-      "title": "HKUDS/FastCode - \"FastCode: Accelerating and Streamlining Your Code Understanding\"",
-      "url": "https://github.com/HKUDS/FastCode",
-      "published_at": "2026-02-13T06:43:54Z",
-      "description": "\"FastCode: Accelerating and Streamlining Your Code Understanding\"",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 868,
-      "user": "HKUDS"
-    },
-    {
-      "title": "Mathews-Tom/no-magic - Because `model.fit()` isn't an explanation",
-      "url": "https://github.com/Mathews-Tom/no-magic",
-      "published_at": "2026-02-13T11:54:34Z",
-      "description": "Because `model.fit()` isn't an explanation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9562152?v=4",
-      "source": "GitHub",
-      "stars": 470,
-      "user": "Mathews-Tom"
-    },
-    {
-      "title": "Runnin4ik/dpi-detector - DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops",
-      "url": "https://github.com/Runnin4ik/dpi-detector",
-      "published_at": "2026-02-13T22:00:15Z",
-      "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17353325?v=4",
-      "source": "GitHub",
-      "stars": 334,
-      "user": "Runnin4ik"
     },
     {
       "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
@@ -1988,6 +1942,51 @@
       "user": "tomascupr"
     },
     {
+      "title": "joshavant/clawbox - OpenClaw-ready macOS VMs",
+      "url": "https://github.com/joshavant/clawbox",
+      "published_at": "2026-02-14T06:45:40Z",
+      "description": "OpenClaw-ready macOS VMs",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
+      "source": "GitHub",
+      "stars": 316,
+      "user": "joshavant"
+    },
+    {
+      "title": "Infatoshi/x-cli - CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal",
+      "url": "https://github.com/Infatoshi/x-cli",
+      "published_at": "2026-02-14T07:12:41Z",
+      "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/59771030?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "Infatoshi"
+    },
+    {
+      "title": "brendanhogan/hermitclaw - GitHub Repository",
+      "url": "https://github.com/brendanhogan/hermitclaw",
+      "published_at": "2026-02-15T21:54:01Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78052016?v=4",
+      "source": "GitHub",
+      "stars": 225,
+      "user": "brendanhogan"
+    },
+    {
       "title": "mickamy/sql-tap - Watch SQL traffic in real-time with a TUI",
       "url": "https://github.com/mickamy/sql-tap",
       "published_at": "2026-02-14T01:41:59Z",
@@ -1999,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 915,
       "user": "mickamy"
     },
     {
@@ -2014,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 880,
       "user": "pinchtab"
     },
     {
@@ -2044,23 +2043,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "Gentleman-Programming"
     },
     {
-      "title": "NicolasHaas/gospeak - A privacy-focused voice communication server and client, inspired by TeamSpeak, built entirely in Go.",
-      "url": "https://github.com/NicolasHaas/gospeak",
-      "published_at": "2026-02-13T17:41:01Z",
-      "description": "A privacy-focused voice communication server and client, inspired by TeamSpeak, built entirely in Go.",
+      "title": "almonk/sesh - Split terminal session for AI-assisted coding",
+      "url": "https://github.com/almonk/sesh",
+      "published_at": "2026-02-17T23:11:38Z",
+      "description": "Split terminal session for AI-assisted coding",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/116176330?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 78,
-      "user": "NicolasHaas"
+      "stars": 75,
+      "user": "almonk"
     }
   ]
 }
