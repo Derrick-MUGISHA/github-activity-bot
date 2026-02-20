@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 41 (39.0%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-20 16:00 CAT)
+## 📅 Latest Updates (2026-02-20 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -201,9 +201,9 @@ npm run test
 - [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef) _[Dev.to]_
 - [If Writing still Matters, How to Do it Right and Avoid AI Suspicion?](https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac) _[Dev.to]_
 - [The Future of Software Has a Lot More Builders. They’re Going to Need a Home.](https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65) _[Dev.to]_
+- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg) _[Dev.to]_
 - [Taming non-determinism: from logic gates to LLMs](https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0) _[Dev.to]_
 - [The hosting setup nobody talks about anymore](https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528) _[Dev.to]_
-- [Migrating from Jekyll to Hugo... or not](https://dev.to/nfrankel/migrating-from-jekyll-to-hugo-or-not-57k4) _[Dev.to]_
 - [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo) _[Dev.to]_
 - [The most valuable skill in 2026 isn't writing code. It is deleting it.](https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1) _[Dev.to]_
 - [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Accessibility Testing with Playwright Assertions](https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i) _[Dev.to]_
 - [Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side](https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p) _[Dev.to]_
 
-_Last automated update: Fri, 20 Feb 2026 16:46:19 CAT_
+_Last automated update: Fri, 20 Feb 2026 17:34:46 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 20 Feb 2026 16:46:19 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Feb 2026 14:46:19 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Feb 2026 15:34:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
