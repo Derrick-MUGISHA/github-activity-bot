@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-20 12:00 CAT)
+## 📅 Latest Updates (2026-02-20 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,8 +205,8 @@ npm run test
 - [Taming non-determinism: from logic gates to LLMs](https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0) _[Dev.to]_
 - [Migrating from Jekyll to Hugo... or not](https://dev.to/nfrankel/migrating-from-jekyll-to-hugo-or-not-57k4) _[Dev.to]_
 - [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo) _[Dev.to]_
-- [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1) _[Dev.to]_
 - [The most valuable skill in 2026 isn't writing code. It is deleting it.](https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1) _[Dev.to]_
+- [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1) _[Dev.to]_
 - [Stacking Multiple Dialogs in React Without Hooks or Effects](https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj) _[Dev.to]_
 - [Inside OpenClaw: How a Persistent AI Agent Actually Works](https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk) _[Dev.to]_
 - [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2) _[Dev.to]_
 - [Accessibility Testing with Playwright Assertions](https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i) _[Dev.to]_
 
-_Last automated update: Fri, 20 Feb 2026 12:39:49 CAT_
+_Last automated update: Fri, 20 Feb 2026 13:18:27 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Fri, 20 Feb 2026 12:39:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
-
-**Difficulty**: Hard | **Topics**: context managers, resource management
-
-<details>
-<summary>💡 Hint</summary>
-
-with statement, setup/teardown, exception handling
-
-</details>
-
-### 2. SystemDesign: Design Twitter's timeline feature
+### 1. SystemDesign: Design Twitter's timeline feature
 
 **Difficulty**: Hard | **Topics**: system design, scalability
 
@@ -246,14 +235,25 @@ Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+try/catch, .catch(), error middleware
+
+</details>
+
+### 3. DataStructures: Implement LRU Cache
+
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
+
+<details>
+<summary>💡 Hint</summary>
+
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Feb 2026 10:39:49 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Feb 2026 11:18:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
