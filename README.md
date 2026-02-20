@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
@@ -36,7 +36,7 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦 7 (6.7%)
+**Cloud**: 🟦🟦🟦🟦 8 (7.6%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.9 (30.9%)
-Java            █████████████████████ 21.6 (21.6%)
-Go              ███████████████████ 19.6 (19.6%)
-Python          ███████████████████ 19.6 (19.6%)
+JavaScript      ██████████████████████████████ 31.3 (31.3%)
+Java            █████████████████████ 21.9 (21.9%)
+Python          ███████████████████ 19.8 (19.8%)
+Go              ██████████████████ 18.8 (18.8%)
 Rust            █████ 5.2 (5.2%)
 PHP             ██ 2.1 (2.1%)
 Swift           █ 1.0 (1.0%)
@@ -74,8 +74,8 @@ Swift           █ 1.0 (1.0%)
 pie title Programming Languages Distribution
     "JavaScript" : 30
     "Java" : 21
-    "Go" : 19
     "Python" : 19
+    "Go" : 18
     "Rust" : 5
     "PHP" : 2
     "Swift" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-20 11:00 CAT)
+## 📅 Latest Updates (2026-02-20 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2) _[Dev.to]_
 - [Accessibility Testing with Playwright Assertions](https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i) _[Dev.to]_
 
-_Last automated update: Fri, 20 Feb 2026 11:57:18 CAT_
+_Last automated update: Fri, 20 Feb 2026 12:39:49 CAT_
 
 
 
@@ -224,29 +224,18 @@ _Last automated update: Fri, 20 Feb 2026 11:57:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-### 2. NodeJS: How do you handle errors in async/await?
-
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 2. SystemDesign: Design Twitter's timeline feature
 
 **Difficulty**: Hard | **Topics**: system design, scalability
 
@@ -254,6 +243,17 @@ try/catch, .catch(), error middleware
 <summary>💡 Hint</summary>
 
 Fan-out, caching, ranking, real-time updates
+
+</details>
+
+### 3. JavaScript: What is the event loop and how does it work?
+
+**Difficulty**: Hard | **Topics**: async, runtime
+
+<details>
+<summary>💡 Hint</summary>
+
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Feb 2026 09:57:18 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Feb 2026 10:39:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

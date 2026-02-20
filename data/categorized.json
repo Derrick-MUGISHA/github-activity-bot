@@ -253,21 +253,6 @@
       "user": "Loaiabdalslam"
     },
     {
-      "title": "How My Team Aligns on Prompting for Production",
-      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
-      "published_at": "2026-02-17T16:53:46Z",
-      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
-      "tags": [
-        "ai",
-        "devops",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
-      "source": "Dev.to",
-      "user": "Adam Ross"
-    },
-    {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
       "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
       "published_at": "2026-02-13T19:52:20Z",
@@ -544,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "marswei"
     },
     {
@@ -559,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4267,
+      "stars": 4300,
       "user": "HKUDS"
     },
     {
@@ -574,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 496,
       "user": "klawsh"
     },
     {
@@ -965,7 +950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "marswei"
     },
     {
@@ -980,7 +965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "andyhuo520"
     },
     {
@@ -1010,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "yeuxuan"
     },
     {
@@ -1025,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 99,
       "user": "dimartarmizi"
     }
   ],
@@ -1220,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4267,
+      "stars": 4300,
       "user": "HKUDS"
     },
     {
@@ -1269,19 +1254,19 @@
       "user": "Infatoshi"
     },
     {
-      "title": "brendanhogan/hermitclaw - GitHub Repository",
-      "url": "https://github.com/brendanhogan/hermitclaw",
-      "published_at": "2026-02-15T21:54:01Z",
+      "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+      "published_at": "2026-02-20T01:04:23Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78052016?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 226,
-      "user": "brendanhogan"
+      "stars": 246,
+      "user": "ShinMegamiBoson"
     }
   ],
   "DevOps": [
@@ -1331,21 +1316,6 @@
       "user": "suin"
     },
     {
-      "title": "How My Team Aligns on Prompting for Production",
-      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
-      "published_at": "2026-02-17T16:53:46Z",
-      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
-      "tags": [
-        "ai",
-        "devops",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
-      "source": "Dev.to",
-      "user": "Adam Ross"
-    },
-    {
       "title": "Using Laravel Boost With DDEV",
       "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
       "published_at": "2026-02-10T00:00:00Z",
@@ -1359,6 +1329,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
       "source": "Dev.to",
       "user": "Russell Jones"
+    },
+    {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
     }
   ],
   "WebDev": [
@@ -1498,6 +1482,20 @@
       "user": "Shir Meir Lador"
     },
     {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
+    },
+    {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
       "published_at": "2025-08-21T12:53:16Z",
@@ -1536,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 496,
       "user": "klawsh"
     }
   ],
@@ -1808,19 +1806,19 @@
       "user": "David Alcala"
     },
     {
-      "title": "How My Team Aligns on Prompting for Production",
-      "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
-      "published_at": "2026-02-17T16:53:46Z",
-      "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+      "title": "Who Are We Still Writing Technical Articles For?",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
+      "published_at": "2026-02-17T12:34:14Z",
+      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
       "tags": [
-        "ai",
-        "devops",
+        "career",
+        "discuss",
         "productivity",
-        "softwareengineering"
+        "writing"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6o1425vd4d4sp61xo7z.jpeg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
       "source": "Dev.to",
-      "user": "Adam Ross"
+      "user": "Pascal CESCATO"
     },
     {
       "title": "Why I built yet another release tool for npm",
@@ -1838,21 +1836,6 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
-      "title": "Who Are We Still Writing Technical Articles For?",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
-      "published_at": "2026-02-17T12:34:14Z",
-      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
-      "tags": [
-        "career",
-        "discuss",
-        "productivity",
-        "writing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdevto.tsw.ovh%2Fwp-content%2Fuploads%2F2026%2F02%2Fjay_t-writing-7901174_1280.jpg",
-      "source": "Dev.to",
-      "user": "Pascal CESCATO"
-    },
-    {
       "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
       "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
       "published_at": "2026-02-15T16:13:01Z",
@@ -1868,6 +1851,20 @@
       "user": "Daniel Nwaneri"
     },
     {
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
+      "published_at": "2026-02-05T07:08:59Z",
+      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "tags": [
+        "terraform",
+        "devops",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "source": "Dev.to",
+      "user": "Heng Lu"
+    },
+    {
       "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
       "url": "https://github.com/marswei/seaseed-clawerse",
       "published_at": "2026-02-14T18:13:42Z",
@@ -1879,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "marswei"
     },
     {
@@ -1894,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "andyhuo520"
     },
     {
@@ -1924,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "yeuxuan"
     },
     {
@@ -1939,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 99,
       "user": "dimartarmizi"
     },
     {
@@ -1954,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4267,
+      "stars": 4300,
       "user": "HKUDS"
     },
     {
@@ -2003,19 +2000,19 @@
       "user": "Infatoshi"
     },
     {
-      "title": "brendanhogan/hermitclaw - GitHub Repository",
-      "url": "https://github.com/brendanhogan/hermitclaw",
-      "published_at": "2026-02-15T21:54:01Z",
+      "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+      "published_at": "2026-02-20T01:04:23Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78052016?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 226,
-      "user": "brendanhogan"
+      "stars": 246,
+      "user": "ShinMegamiBoson"
     },
     {
       "title": "pinchtab/pinchtab - GitHub Repository",
@@ -2029,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 955,
       "user": "pinchtab"
     },
     {
@@ -2059,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 496,
       "user": "klawsh"
     },
     {
