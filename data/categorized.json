@@ -31,21 +31,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
-      "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
-      "published_at": "2026-02-18T14:00:30Z",
-      "description": "I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...",
-      "tags": [
-        "discuss",
-        "news",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oqm9p89lj4fnebzc54n.png",
-      "source": "Dev.to",
-      "user": "Jon Gottfried"
-    },
-    {
       "title": "What Do You Want to Know About Antigravity?",
       "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
       "published_at": "2026-02-20T20:45:03Z",
@@ -61,19 +46,47 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
+      "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
+      "published_at": "2026-02-18T14:00:30Z",
+      "description": "I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...",
       "tags": [
-        "security",
-        "git",
+        "discuss",
+        "news",
         "ai",
-        "devops"
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oqm9p89lj4fnebzc54n.png",
       "source": "Dev.to",
-      "user": "Yohei Seki"
+      "user": "Jon Gottfried"
+    },
+    {
+      "title": "Exploring Olympic Downhill Results with PHP Statistics",
+      "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
+      "published_at": "2026-02-20T20:57:54Z",
+      "description": "When Franjo von Allmen crossed the finish line in 111.61 seconds at the 2026 Olympic Downhill, he...",
+      "tags": [
+        "php",
+        "statistics",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
+    },
+    {
+      "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
+      "url": "https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8",
+      "published_at": "2026-02-20T21:45:30Z",
+      "description": "Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.",
+      "tags": [
+        "gitlab",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
+      "source": "Dev.to",
+      "user": "Romain Lespinasse"
     },
     {
       "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
@@ -89,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
       "source": "Dev.to",
       "user": "NorthernDev"
+    },
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
     },
     {
       "title": "Securing Your App with Access and Refresh Tokens: A Practical Guide",
@@ -165,19 +193,34 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-      "url": "https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2",
-      "published_at": "2026-02-19T19:36:52Z",
-      "description": "Last week, we released a major update to Gemini 3 Deep Think to solve modern challenges across...",
+      "title": "Building a Gmail/Outlook email preview component for Vue",
+      "url": "https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk",
+      "published_at": "2026-02-20T07:56:21Z",
+      "description": "If you have ever built transactional emails in a Vue app, you have probably hit the same wall. You...",
       "tags": [
-        "gemini",
-        "ai",
-        "antigravity",
-        "vertexai"
+        "showdev",
+        "tooling",
+        "vue",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyjqp4hnol5k4cnmr568.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
       "source": "Dev.to",
-      "user": "Logan Kilpatrick"
+      "user": "Aoife Shannon"
+    },
+    {
+      "title": "Build Domain-driven HTTP services",
+      "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
+      "published_at": "2026-02-20T04:21:37Z",
+      "description": "You're building ASP .NET web APIs that need to communicate with external APIs.  The UserRegister API...",
+      "tags": [
+        "webdev",
+        "dotnet",
+        "restapi",
+        "csharp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui38f6me5urbe1q3t35l.jpg",
+      "source": "Dev.to",
+      "user": "Mirza Leka"
     },
     {
       "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
@@ -207,21 +250,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzhq0zynlbem8i72sxt1.png",
       "source": "Dev.to",
       "user": "Leandro Proença"
-    },
-    {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
     },
     {
       "title": "Software engineering is not dead",
@@ -529,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "marswei"
     },
     {
@@ -544,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4534,
+      "stars": 4541,
       "user": "HKUDS"
     },
     {
@@ -559,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 509,
       "user": "klawsh"
     },
     {
@@ -574,7 +602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 241,
       "user": "Gentleman-Programming"
     }
   ],
@@ -610,48 +638,34 @@
       "user": "Phaneendra Kanduri"
     },
     {
-      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
-      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
-      "published_at": "2026-02-15T10:27:55Z",
-      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
+      "title": "Hexagonal Architecture in Angular - A Practical, Minimal Use Case",
+      "url": "https://dev.to/nugetchar/hexagonal-architecture-in-angular-a-practical-minimal-use-case-3og5",
+      "published_at": "2026-02-20T10:05:20Z",
+      "description": "In today's article, we are gonna learn a bit more about hexagonal architecture with Angular. This...",
       "tags": [
-        "cloudflare",
-        "webdev",
-        "javascript",
-        "satori"
+        "angular",
+        "hexagonal",
+        "architecture",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq1w14vsxepsioh1r89pl.png",
       "source": "Dev.to",
-      "user": "DeVoresyah ArEst"
+      "user": "Thomas Toledo-Pierre"
     },
     {
-      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
-      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
-      "published_at": "2026-02-18T17:46:05Z",
-      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "title": "Building a Gmail/Outlook email preview component for Vue",
+      "url": "https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk",
+      "published_at": "2026-02-20T07:56:21Z",
+      "description": "If you have ever built transactional emails in a Vue app, you have probably hit the same wall. You...",
       "tags": [
-        "typescript",
-        "cli",
-        "productivity"
+        "showdev",
+        "tooling",
+        "vue",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
       "source": "Dev.to",
-      "user": "Ely Lucas"
-    },
-    {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
+      "user": "Aoife Shannon"
     },
     {
       "title": "Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)",
@@ -920,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "marswei"
     },
     {
@@ -935,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "yeuxuan"
     },
     {
@@ -980,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "dimartarmizi"
     }
   ],
@@ -1162,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4534,
+      "stars": 4541,
       "user": "HKUDS"
     },
     {
@@ -1177,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 483,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1192,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "tomascupr"
     },
     {
@@ -1207,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "joshavant"
     },
     {
@@ -1222,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59771030?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "Infatoshi"
     }
   ],
@@ -1258,21 +1272,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
-      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
-      "published_at": "2026-02-17T23:56:55Z",
-      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
-      "tags": [
-        "kubernetes",
-        "go",
-        "devops",
-        "cloudnative"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
-      "source": "Dev.to",
-      "user": "suin"
-    },
-    {
       "title": "Using Laravel Boost With DDEV",
       "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
       "published_at": "2026-02-10T00:00:00Z",
@@ -1303,21 +1302,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
-    },
     {
       "title": "HJX: Rethinking the Web for the AI Era",
       "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
@@ -1409,36 +1393,6 @@
       "user": "Erik Hanchett"
     },
     {
-      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
-      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
-      "published_at": "2026-02-15T10:27:55Z",
-      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
-      "tags": [
-        "cloudflare",
-        "webdev",
-        "javascript",
-        "satori"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
-      "source": "Dev.to",
-      "user": "DeVoresyah ArEst"
-    },
-    {
-      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
-      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
-      "published_at": "2026-02-17T23:56:55Z",
-      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
-      "tags": [
-        "kubernetes",
-        "go",
-        "devops",
-        "cloudnative"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
-      "source": "Dev.to",
-      "user": "suin"
-    },
-    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1476,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "tomascupr"
     },
     {
@@ -1491,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 509,
       "user": "klawsh"
     }
   ],
@@ -1550,7 +1504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 241,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1644,19 +1598,17 @@
   ],
   "Tools": [
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
+      "url": "https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8",
+      "published_at": "2026-02-20T21:45:30Z",
+      "description": "Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.",
       "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
+        "gitlab",
+        "cicd"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
       "source": "Dev.to",
-      "user": "Yohei Seki"
+      "user": "Romain Lespinasse"
     },
     {
       "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
@@ -1674,6 +1626,21 @@
       "user": "NorthernDev"
     },
     {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
+    },
+    {
       "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
       "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
       "published_at": "2026-02-19T18:28:58Z",
@@ -1687,6 +1654,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F040m7nfxxy8m9kq8kd82.webp",
       "source": "Dev.to",
       "user": "Astrodevil"
+    },
+    {
+      "title": "Building a Gmail/Outlook email preview component for Vue",
+      "url": "https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk",
+      "published_at": "2026-02-20T07:56:21Z",
+      "description": "If you have ever built transactional emails in a Vue app, you have probably hit the same wall. You...",
+      "tags": [
+        "showdev",
+        "tooling",
+        "vue",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
+      "source": "Dev.to",
+      "user": "Aoife Shannon"
     },
     {
       "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
@@ -1717,50 +1699,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjubj6qdbqx5fnaumwrx.png",
       "source": "Dev.to",
       "user": "Mark Steadman"
-    },
-    {
-      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
-      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
-      "published_at": "2026-02-18T17:46:05Z",
-      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
-      "tags": [
-        "typescript",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
-      "source": "Dev.to",
-      "user": "Ely Lucas"
-    },
-    {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
-    },
-    {
-      "title": "Visualizing UV on a Polygon2D in Godot",
-      "url": "https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o",
-      "published_at": "2026-02-15T11:53:49Z",
-      "description": "Run on: Godot: v4.6.stable.official [89cea1439]  https://github.com/idkshite/fragment-shader-uv  I...",
-      "tags": [
-        "godot",
-        "godotengine",
-        "shader",
-        "gdscript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2eyt63wb0hh5u9xpc82n.png",
-      "source": "Dev.to",
-      "user": "Lucca Sanwald"
     },
     {
       "title": "Who Are We Still Writing Technical Articles For?",
@@ -1833,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "marswei"
     },
     {
@@ -1848,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "yeuxuan"
     },
     {
@@ -1893,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "dimartarmizi"
     },
     {
@@ -1908,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4534,
+      "stars": 4541,
       "user": "HKUDS"
     },
     {
@@ -1923,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 483,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1938,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "tomascupr"
     },
     {
@@ -1953,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "joshavant"
     },
     {
@@ -1968,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59771030?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "Infatoshi"
     },
     {
@@ -1983,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1004,
       "user": "pinchtab"
     },
     {
@@ -2013,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 509,
       "user": "klawsh"
     },
     {
@@ -2028,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 241,
       "user": "Gentleman-Programming"
     },
     {
