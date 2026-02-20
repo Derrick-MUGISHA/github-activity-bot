@@ -223,21 +223,6 @@
       "user": "Mirza Leka"
     },
     {
-      "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
-      "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
-      "published_at": "2026-02-18T17:38:27Z",
-      "description": "DISCLAIMER! The best AI coding tool is the one available to you, that gives you the best model and...",
-      "tags": [
-        "ai",
-        "githubcopilot",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qsqnsu2xgkeo9k9moqe.webp",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "Taming non-determinism: from logic gates to LLMs",
       "url": "https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0",
       "published_at": "2026-02-19T03:47:38Z",
@@ -557,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "marswei"
     },
     {
@@ -572,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4541,
+      "stars": 4547,
       "user": "HKUDS"
     },
     {
@@ -602,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "Gentleman-Programming"
     }
   ],
@@ -666,6 +651,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
       "source": "Dev.to",
       "user": "Aoife Shannon"
+    },
+    {
+      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
+      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
+      "published_at": "2026-02-15T10:27:55Z",
+      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
+      "tags": [
+        "cloudflare",
+        "webdev",
+        "javascript",
+        "satori"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
+      "source": "Dev.to",
+      "user": "DeVoresyah ArEst"
     },
     {
       "title": "Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)",
@@ -934,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "marswei"
     },
     {
@@ -1176,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4541,
+      "stars": 4547,
       "user": "HKUDS"
     },
     {
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 487,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1206,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 346,
       "user": "tomascupr"
     },
     {
@@ -1393,6 +1393,21 @@
       "user": "Erik Hanchett"
     },
     {
+      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
+      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
+      "published_at": "2026-02-15T10:27:55Z",
+      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
+      "tags": [
+        "cloudflare",
+        "webdev",
+        "javascript",
+        "satori"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
+      "source": "Dev.to",
+      "user": "DeVoresyah ArEst"
+    },
+    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1430,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 346,
       "user": "tomascupr"
     },
     {
@@ -1489,7 +1504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 930,
       "user": "mickamy"
     },
     {
@@ -1504,7 +1519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1671,21 +1686,6 @@
       "user": "Aoife Shannon"
     },
     {
-      "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
-      "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
-      "published_at": "2026-02-18T17:38:27Z",
-      "description": "DISCLAIMER! The best AI coding tool is the one available to you, that gives you the best model and...",
-      "tags": [
-        "ai",
-        "githubcopilot",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qsqnsu2xgkeo9k9moqe.webp",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "Accessibility Testing with Playwright Assertions",
       "url": "https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i",
       "published_at": "2026-02-19T02:03:09Z",
@@ -1771,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "marswei"
     },
     {
@@ -1846,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4541,
+      "stars": 4547,
       "user": "HKUDS"
     },
     {
@@ -1861,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 487,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1876,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 346,
       "user": "tomascupr"
     },
     {
@@ -1921,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1007,
       "user": "pinchtab"
     },
     {
@@ -1936,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 930,
       "user": "mickamy"
     },
     {
@@ -1966,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "Gentleman-Programming"
     },
     {
