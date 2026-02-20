@@ -46,20 +46,6 @@
       "user": "Maxim Saplin"
     },
     {
-      "title": "Taming non-determinism: from logic gates to LLMs",
-      "url": "https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0",
-      "published_at": "2026-02-19T03:47:38Z",
-      "description": "Or: how engineering keeps turning chaos into reliable computation. And why agentic AI still hasn't...",
-      "tags": [
-        "ai",
-        "llm",
-        "ann"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzhq0zynlbem8i72sxt1.png",
-      "source": "Dev.to",
-      "user": "Leandro Proença"
-    },
-    {
       "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
       "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
       "published_at": "2026-02-19T18:28:58Z",
@@ -88,6 +74,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Taming non-determinism: from logic gates to LLMs",
+      "url": "https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0",
+      "published_at": "2026-02-19T03:47:38Z",
+      "description": "Or: how engineering keeps turning chaos into reliable computation. And why agentic AI still hasn't...",
+      "tags": [
+        "ai",
+        "llm",
+        "ann"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzhq0zynlbem8i72sxt1.png",
+      "source": "Dev.to",
+      "user": "Leandro Proença"
     },
     {
       "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
@@ -543,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 294,
       "user": "marswei"
     },
     {
@@ -558,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3903,
+      "stars": 4000,
       "user": "HKUDS"
     },
     {
@@ -979,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 294,
       "user": "marswei"
     },
     {
@@ -994,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "andyhuo520"
     },
     {
@@ -1009,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "khalildh"
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 124,
       "user": "yeuxuan"
     },
     {
@@ -1219,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3903,
+      "stars": 4000,
       "user": "HKUDS"
     },
     {
@@ -1249,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "joshavant"
     },
     {
@@ -1579,7 +1579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 917,
       "user": "mickamy"
     },
     {
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 294,
       "user": "marswei"
     },
     {
@@ -1863,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "andyhuo520"
     },
     {
@@ -1878,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "khalildh"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 124,
       "user": "yeuxuan"
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3903,
+      "stars": 4000,
       "user": "HKUDS"
     },
     {
@@ -1953,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "joshavant"
     },
     {
@@ -1998,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 917,
       "user": "mickamy"
     },
     {
@@ -2013,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 901,
       "user": "pinchtab"
     },
     {
