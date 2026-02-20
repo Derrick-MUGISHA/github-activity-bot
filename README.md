@@ -216,7 +216,7 @@ npm run test
 - [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2) _[Dev.to]_
 - [Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side](https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p) _[Dev.to]_
 
-_Last automated update: Fri, 20 Feb 2026 22:27:11 CAT_
+_Last automated update: Fri, 20 Feb 2026 22:54:44 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 20 Feb 2026 22:27:11 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Feb 2026 20:27:11 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Feb 2026 20:54:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
