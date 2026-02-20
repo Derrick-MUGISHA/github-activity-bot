@@ -36,11 +36,11 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦 8 (7.6%)
+**Cloud**: 🟦🟦🟦 7 (6.7%)
+
+**Security**: 🟦🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
-
-**Security**: 🟦🟦 5 (4.8%)
 
 **WebDev**: 🟦🟦 4 (3.8%)
 
@@ -63,9 +63,9 @@
 JavaScript      ██████████████████████████████ 31.5 (31.5%)
 Java            ██████████████████████ 22.8 (22.8%)
 Python          ███████████████████ 19.6 (19.6%)
-Go              █████████████████ 17.4 (17.4%)
+Go              ████████████████ 16.3 (16.3%)
 Rust            █████ 5.4 (5.4%)
-PHP             ██ 2.2 (2.2%)
+PHP             ███ 3.3 (3.3%)
 Swift           █ 1.1 (1.1%)
 
 ```
@@ -75,9 +75,9 @@ pie title Programming Languages Distribution
     "JavaScript" : 29
     "Java" : 21
     "Python" : 18
-    "Go" : 16
+    "Go" : 15
     "Rust" : 5
-    "PHP" : 2
+    "PHP" : 3
     "Swift" : 1
 ```
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oqm9p89lj4fnebzc54n.png" width="200" alt="The Future of Software Has a Lot More Builders. They’re Going to Need a Home." />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-5a3g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flbh6l0qzcd585x1t4vfe.jpg" width="200" alt="What was your win this week?" />
       <br/>
-      <b>The Future of Software Has a Lot More Builders. Th...</b>
+      <b>What was your win this week?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,8 +200,9 @@ npm run test
 - [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
 - [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef) _[Dev.to]_
 - [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg) _[Dev.to]_
-- [The Future of Software Has a Lot More Builders. They’re Going to Need a Home.](https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a3g) _[Dev.to]_
+- [The Future of Software Has a Lot More Builders. They’re Going to Need a Home.](https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65) _[Dev.to]_
+- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
 - [The hosting setup nobody talks about anymore](https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528) _[Dev.to]_
 - [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo) _[Dev.to]_
 - [The most valuable skill in 2026 isn't writing code. It is deleting it.](https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [Introducing Our Next DEV Education Track: "Build Multi-Agent Systems with ADK"](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8) _[Dev.to]_
 - [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2) _[Dev.to]_
 - [Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side](https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p) _[Dev.to]_
-- [Accessibility Testing with Playwright Assertions](https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i) _[Dev.to]_
 
-_Last automated update: Fri, 20 Feb 2026 21:26:14 CAT_
+_Last automated update: Fri, 20 Feb 2026 21:52:05 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 20 Feb 2026 21:26:14 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Feb 2026 19:26:14 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Feb 2026 19:52:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

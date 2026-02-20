@@ -31,6 +31,21 @@
       "user": "Jon Gottfried"
     },
     {
+      "title": "The Meter Was Always Running",
+      "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
+      "published_at": "2026-02-20T17:57:37Z",
+      "description": "On the All-In podcast (episode #261), Jason Calacanis revealed his AI agents cost $300 a day. Each....",
+      "tags": [
+        "ai",
+        "webdev",
+        "career",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8jddr6x0nayubmktogp.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -207,21 +222,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "David Alcala"
-    },
-    {
-      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
-      "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
-      "published_at": "2026-02-18T17:39:12Z",
-      "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
-      "tags": [
-        "antigravity",
-        "ai",
-        "gemini",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Software engineering is not dead",
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 333,
       "user": "marswei"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4488,
+      "stars": 4495,
       "user": "HKUDS"
     },
     {
@@ -574,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 232,
       "user": "Gentleman-Programming"
     }
   ],
@@ -920,7 +920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 333,
       "user": "marswei"
     },
     {
@@ -935,7 +935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "yeuxuan"
     },
     {
@@ -980,7 +980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 154,
       "user": "dimartarmizi"
     }
   ],
@@ -1162,7 +1162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4488,
+      "stars": 4495,
       "user": "HKUDS"
     },
     {
@@ -1177,7 +1177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 438,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1424,21 +1424,6 @@
       "user": "suin"
     },
     {
-      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
-      "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
-      "published_at": "2026-02-18T17:39:12Z",
-      "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
-      "tags": [
-        "antigravity",
-        "ai",
-        "gemini",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuknvizo2wsfbkv2byuki.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
       "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "published_at": "2026-02-05T07:08:59Z",
@@ -1550,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 232,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1625,6 +1610,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Eljakani/ward - Security scanner built for Laravel, detects misconfigurations, vulnerabilities, and exposed secrets with a beautiful TUI.",
+      "url": "https://github.com/Eljakani/ward",
+      "published_at": "2026-02-15T19:29:42Z",
+      "description": "Security scanner built for Laravel, detects misconfigurations, vulnerabilities, and exposed secrets with a beautiful TUI.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
+      "source": "GitHub",
+      "stars": 60,
+      "user": "Eljakani"
     }
   ],
   "Tools": [
@@ -1833,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 333,
       "user": "marswei"
     },
     {
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "yeuxuan"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 154,
       "user": "dimartarmizi"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4488,
+      "stars": 4495,
       "user": "HKUDS"
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 438,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2028,23 +2028,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 232,
       "user": "Gentleman-Programming"
     },
     {
-      "title": "DatanoiseTV/tinyice - A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support.",
-      "url": "https://github.com/DatanoiseTV/tinyice",
-      "published_at": "2026-02-18T02:46:03Z",
-      "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support.",
+      "title": "Eljakani/ward - Security scanner built for Laravel, detects misconfigurations, vulnerabilities, and exposed secrets with a beautiful TUI.",
+      "url": "https://github.com/Eljakani/ward",
+      "published_at": "2026-02-15T19:29:42Z",
+      "description": "Security scanner built for Laravel, detects misconfigurations, vulnerabilities, and exposed secrets with a beautiful TUI.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6614616?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
       "source": "GitHub",
-      "stars": 204,
-      "user": "DatanoiseTV"
+      "stars": 60,
+      "user": "Eljakani"
     }
   ]
 }
