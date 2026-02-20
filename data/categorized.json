@@ -46,20 +46,6 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "Taming non-determinism: from logic gates to LLMs",
-      "url": "https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0",
-      "published_at": "2026-02-19T03:47:38Z",
-      "description": "Or: how engineering keeps turning chaos into reliable computation. And why agentic AI still hasn't...",
-      "tags": [
-        "ai",
-        "llm",
-        "ann"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzhq0zynlbem8i72sxt1.png",
-      "source": "Dev.to",
-      "user": "Leandro Proença"
-    },
-    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -177,6 +163,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qsqnsu2xgkeo9k9moqe.webp",
       "source": "Dev.to",
       "user": "Maxim Saplin"
+    },
+    {
+      "title": "Taming non-determinism: from logic gates to LLMs",
+      "url": "https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0",
+      "published_at": "2026-02-19T03:47:38Z",
+      "description": "Or: how engineering keeps turning chaos into reliable computation. And why agentic AI still hasn't...",
+      "tags": [
+        "ai",
+        "llm",
+        "ann"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzhq0zynlbem8i72sxt1.png",
+      "source": "Dev.to",
+      "user": "Leandro Proença"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -529,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "marswei"
     },
     {
@@ -544,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4426,
+      "stars": 4445,
       "user": "HKUDS"
     },
     {
@@ -559,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 501,
       "user": "klawsh"
     },
     {
@@ -920,7 +920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "marswei"
     },
     {
@@ -935,7 +935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 196,
       "user": "yeuxuan"
     },
     {
@@ -980,7 +980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 143,
       "user": "dimartarmizi"
     }
   ],
@@ -1162,7 +1162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4426,
+      "stars": 4445,
       "user": "HKUDS"
     },
     {
@@ -1177,7 +1177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 391,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1491,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 501,
       "user": "klawsh"
     }
   ],
@@ -1833,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "marswei"
     },
     {
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 196,
       "user": "yeuxuan"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 143,
       "user": "dimartarmizi"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4426,
+      "stars": 4445,
       "user": "HKUDS"
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 391,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1983,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 987,
       "user": "pinchtab"
     },
     {
@@ -2013,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 501,
       "user": "klawsh"
     },
     {
@@ -2043,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6614616?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 200,
       "user": "DatanoiseTV"
     }
   ]
