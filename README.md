@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦 6 (5.7%)
+**Cloud**: 🟦🟦🟦 7 (6.7%)
 
 **Security**: 🟦🟦🟦 6 (5.7%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.4 (30.4%)
-Java            █████████████████████ 21.7 (21.7%)
-Python          ███████████████████ 19.6 (19.6%)
-Go              ████████████████ 16.3 (16.3%)
-Rust            █████ 5.4 (5.4%)
+JavaScript      ██████████████████████████████ 30.9 (30.9%)
+Java            ██████████████████████ 22.3 (22.3%)
+Python          ███████████████████ 19.1 (19.1%)
+Go              ████████████████ 16.0 (16.0%)
+Rust            █████ 5.3 (5.3%)
 PHP             ████ 4.3 (4.3%)
 CSharp          █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -73,8 +73,8 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 28
-    "Java" : 20
+    "JavaScript" : 29
+    "Java" : 21
     "Python" : 18
     "Go" : 15
     "Rust" : 5
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![career](https://img.shields.io/badge/career-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![career](https://img.shields.io/badge/career-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -218,7 +218,7 @@ npm run test
 - [Inside OpenClaw: How a Persistent AI Agent Actually Works](https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 
-_Last automated update: Sat, 21 Feb 2026 00:21:51 CAT_
+_Last automated update: Sat, 21 Feb 2026 00:53:34 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 21 Feb 2026 00:21:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Feb 2026 22:21:51 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Feb 2026 22:53:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
