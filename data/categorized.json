@@ -90,21 +90,6 @@
       "user": "Leandro Proença"
     },
     {
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-      "url": "https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2",
-      "published_at": "2026-02-19T19:36:52Z",
-      "description": "Last week, we released a major update to Gemini 3 Deep Think to solve modern challenges across...",
-      "tags": [
-        "gemini",
-        "ai",
-        "antigravity",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyjqp4hnol5k4cnmr568.webp",
-      "source": "Dev.to",
-      "user": "Logan Kilpatrick"
-    },
-    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -132,6 +117,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14s5llrn1m8ew5dddztn.png",
       "source": "Dev.to",
       "user": "Chukwuemeka Maduekwe"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "url": "https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2",
+      "published_at": "2026-02-19T19:36:52Z",
+      "description": "Last week, we released a major update to Gemini 3 Deep Think to solve modern challenges across...",
+      "tags": [
+        "gemini",
+        "ai",
+        "antigravity",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyjqp4hnol5k4cnmr568.webp",
+      "source": "Dev.to",
+      "user": "Logan Kilpatrick"
     },
     {
       "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
@@ -543,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 297,
       "user": "marswei"
     },
     {
@@ -558,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4000,
+      "stars": 4054,
       "user": "HKUDS"
     },
     {
@@ -979,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 297,
       "user": "marswei"
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 132,
       "user": "yeuxuan"
     },
     {
@@ -1219,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4000,
+      "stars": 4054,
       "user": "HKUDS"
     },
     {
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 297,
       "user": "marswei"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 132,
       "user": "yeuxuan"
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4000,
+      "stars": 4054,
       "user": "HKUDS"
     },
     {
@@ -1987,6 +1987,21 @@
       "user": "brendanhogan"
     },
     {
+      "title": "pinchtab/pinchtab - GitHub Repository",
+      "url": "https://github.com/pinchtab/pinchtab",
+      "published_at": "2026-02-15T11:12:33Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
+      "source": "GitHub",
+      "stars": 918,
+      "user": "pinchtab"
+    },
+    {
       "title": "mickamy/sql-tap - Watch SQL traffic in real-time with a TUI",
       "url": "https://github.com/mickamy/sql-tap",
       "published_at": "2026-02-14T01:41:59Z",
@@ -2000,21 +2015,6 @@
       "source": "GitHub",
       "stars": 917,
       "user": "mickamy"
-    },
-    {
-      "title": "pinchtab/pinchtab - GitHub Repository",
-      "url": "https://github.com/pinchtab/pinchtab",
-      "published_at": "2026-02-15T11:12:33Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
-      "source": "GitHub",
-      "stars": 901,
-      "user": "pinchtab"
     },
     {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
