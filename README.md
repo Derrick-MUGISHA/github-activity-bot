@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![career](https://img.shields.io/badge/career-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![career](https://img.shields.io/badge/career-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -127,22 +127,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-21 0:00 CAT)
+## 📅 Latest Updates (2026-02-21 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9kqocccu808m6zu7etd7.png" width="200" alt="Congrats to the "New Year, New You" Portfolio Challenge Winners and Runner-Ups!" />
-      <br/>
-      <b>Congrats to the "New Year, New You" Portfolio Chal...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oqm9p89lj4fnebzc54n.png" width="200" alt="A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)" />
@@ -161,13 +152,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png" width="200" alt="Suffering from BUGS: How I Almost Deleted My Entire Project" />
       <br/>
       <b>Suffering from BUGS: How I Almost Deleted My Entir...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9kqocccu808m6zu7etd7.png" width="200" alt="Congrats to the "New Year, New You" Portfolio Challenge Winners and Runner-Ups!" />
+      <br/>
+      <b>Congrats to the "New Year, New You" Portfolio Chal...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,10 +197,10 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Congrats to the "New Year, New You" Portfolio Challenge Winners and Runner-Ups!](https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h) _[Dev.to]_
 - [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a3g) _[Dev.to]_
 - [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef) _[Dev.to]_
+- [Congrats to the "New Year, New You" Portfolio Challenge Winners and Runner-Ups!](https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h) _[Dev.to]_
 - [Why did you become a Developer?](https://dev.to/francistrdev/why-did-you-become-a-developer-57ea) _[Dev.to]_
 - [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg) _[Dev.to]_
 - [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Inside OpenClaw: How a Persistent AI Agent Actually Works](https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 
-_Last automated update: Sat, 21 Feb 2026 00:53:34 CAT_
+_Last automated update: Sat, 21 Feb 2026 01:25:26 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 21 Feb 2026 00:53:34 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Execution timing, event loop phases
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Feb 2026 22:53:34 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Feb 2026 23:25:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
