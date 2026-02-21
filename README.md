@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-20-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-21-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦 7 (6.7%)
+**Security**: 🟦🟦🟦 7 (6.7%)
 
-**Security**: 🟦🟦🟦 6 (5.7%)
+**Cloud**: 🟦🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**Database**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦 3 (2.9%)
+**Database**: 🟦 3 (2.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,23 +60,23 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.9 (30.9%)
-Java            ██████████████████████ 22.3 (22.3%)
-Python          ███████████████████ 19.1 (19.1%)
-Go              ████████████████ 16.0 (16.0%)
-Rust            █████ 5.3 (5.3%)
-PHP             ████ 4.3 (4.3%)
-CSharp          █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 31.6 (31.6%)
+Java            ████████████████████ 21.4 (21.4%)
+Python          █████████████████ 18.4 (18.4%)
+Go              ████████████████ 17.3 (17.3%)
+Rust            █████ 5.1 (5.1%)
+PHP             ████ 4.1 (4.1%)
+CSharp          █ 1.0 (1.0%)
+Swift           █ 1.0 (1.0%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 29
+    "JavaScript" : 31
     "Java" : 21
     "Python" : 18
-    "Go" : 15
+    "Go" : 17
     "Rust" : 5
     "PHP" : 4
     "CSharp" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![career](https://img.shields.io/badge/career-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-21 1:00 CAT)
+## 📅 Latest Updates (2026-02-21 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,15 +144,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-5a3g">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flbh6l0qzcd585x1t4vfe.jpg" width="200" alt="What was your win this week?" />
-      <br/>
-      <b>What was your win this week?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png" width="200" alt="Suffering from BUGS: How I Almost Deleted My Entire Project" />
       <br/>
@@ -161,8 +152,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9kqocccu808m6zu7etd7.png" width="200" alt="Congrats to the "New Year, New You" Portfolio Challenge Winners and Runner-Ups!" />
@@ -172,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/francistrdev/why-did-you-become-a-developer-57ea">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv0bmafsdnw34tv2kr2d6.webp" width="200" alt="Why did you become a Developer?" />
@@ -182,10 +173,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mellen/what-does-mlh-stand-for-2cbg">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7m4i77t0mr1omiexmkn.png" width="200" alt="What does MLH stand for?" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-5a3g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flbh6l0qzcd585x1t4vfe.jpg" width="200" alt="What was your win this week?" />
       <br/>
-      <b>What does MLH stand for?</b>
+      <b>What was your win this week?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/dannwaneri/the-meter-was-always-running-44c4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8jddr6x0nayubmktogp.png" width="200" alt="The Meter Was Always Running" />
+      <br/>
+      <b>The Meter Was Always Running</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,27 +198,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a3g) _[Dev.to]_
 - [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef) _[Dev.to]_
 - [Congrats to the "New Year, New You" Portfolio Challenge Winners and Runner-Ups!](https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h) _[Dev.to]_
 - [Why did you become a Developer?](https://dev.to/francistrdev/why-did-you-become-a-developer-57ea) _[Dev.to]_
-- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg) _[Dev.to]_
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a3g) _[Dev.to]_
 - [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
 - [What Do You Want to Know About Antigravity?](https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a) _[Dev.to]_
+- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg) _[Dev.to]_
 - [The Future of Software Has a Lot More Builders. They’re Going to Need a Home.](https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65) _[Dev.to]_
-- [Exploring Olympic Downhill Results with PHP Statistics](https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1) _[Dev.to]_
 - [The hosting setup nobody talks about anymore](https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528) _[Dev.to]_
 - [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
+- [Exploring Olympic Downhill Results with PHP Statistics](https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1) _[Dev.to]_
 - [The most valuable skill in 2026 isn't writing code. It is deleting it.](https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1) _[Dev.to]_
 - [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo) _[Dev.to]_
 - [Making Scrollable Code Blocks Accessible](https://dev.to/th3s4mur41/making-scrollable-code-blocks-accessible-3i0o) _[Dev.to]_
 - [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1) _[Dev.to]_
 - [If Writing still Matters, How to Do it Right and Avoid AI Suspicion?](https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac) _[Dev.to]_
 - [Stacking Multiple Dialogs in React Without Hooks or Effects](https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj) _[Dev.to]_
-- [Inside OpenClaw: How a Persistent AI Agent Actually Works](https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
+- [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 
-_Last automated update: Sat, 21 Feb 2026 01:51:46 CAT_
+_Last automated update: Sat, 21 Feb 2026 03:45:26 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 21 Feb 2026 01:51:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Heap, stack, garbage collection
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Feb 2026 23:51:46 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Feb 2026 01:45:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
