@@ -61,6 +61,19 @@
       "user": "Jon Gottfried"
     },
     {
+      "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
+      "url": "https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8",
+      "published_at": "2026-02-20T21:45:30Z",
+      "description": "Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.",
+      "tags": [
+        "gitlab",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
+      "source": "Dev.to",
+      "user": "Romain Lespinasse"
+    },
+    {
       "title": "Exploring Olympic Downhill Results with PHP Statistics",
       "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
       "published_at": "2026-02-20T20:57:54Z",
@@ -74,19 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
       "source": "Dev.to",
       "user": "Roberto B."
-    },
-    {
-      "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
-      "url": "https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8",
-      "published_at": "2026-02-20T21:45:30Z",
-      "description": "Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.",
-      "tags": [
-        "gitlab",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
-      "source": "Dev.to",
-      "user": "Romain Lespinasse"
     },
     {
       "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
@@ -146,21 +146,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
-      "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
-      "published_at": "2026-02-19T18:28:58Z",
-      "description": "Introduction   OpenClaw, originally called ClawdBot, is trending everywhere. People are...",
-      "tags": [
-        "ai",
-        "productivity",
-        "opensource",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F040m7nfxxy8m9kq8kd82.webp",
-      "source": "Dev.to",
-      "user": "Astrodevil"
     },
     {
       "title": "The Ghost in the Training Set",
@@ -237,6 +222,36 @@
       "user": "Leandro Proença"
     },
     {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codex",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "David Alcala"
+    },
+    {
       "title": "Software engineering is not dead",
       "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
       "published_at": "2026-02-16T23:29:28Z",
@@ -249,6 +264,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
       "source": "Dev.to",
       "user": "Juan G De Jesus Torres"
+    },
+    {
+      "title": "The future belongs to those who can refute AI, not just generate with AI",
+      "url": "https://dev.to/shrsv/the-future-belongs-to-those-who-can-refute-ai-not-just-generate-with-ai-28i0",
+      "published_at": "2026-02-19T13:36:54Z",
+      "description": "The assumption in software engineering circles has been that if AI lets us write code faster, we will...",
+      "tags": [
+        "career",
+        "ai",
+        "discuss",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F672epnqmmp3jn6b4fyom.png",
+      "source": "Dev.to",
+      "user": "Shrijith Venkatramana"
     },
     {
       "title": "HJX: Rethinking the Web for the AI Era",
@@ -341,6 +371,21 @@
       "user": "Natnael Getenew"
     },
     {
+      "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
+      "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
+      "published_at": "2026-02-19T18:28:58Z",
+      "description": "Introduction   OpenClaw, originally called ClawdBot, is trending everywhere. People are...",
+      "tags": [
+        "ai",
+        "productivity",
+        "opensource",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F040m7nfxxy8m9kq8kd82.webp",
+      "source": "Dev.to",
+      "user": "Astrodevil"
+    },
+    {
       "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
       "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
       "published_at": "2026-02-08T07:00:00Z",
@@ -367,36 +412,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
       "source": "Dev.to",
       "user": "Abhishek Mishra"
-    },
-    {
-      "title": "Software engineering isn't dead",
-      "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
-      "published_at": "2026-02-06T18:41:30Z",
-      "description": "Doom   People love defaulting to doom and gloom. I get it. I've been there, it used to be my...",
-      "tags": [
-        "ai",
-        "thoughts",
-        "softwareengineering",
-        "future"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
-      "source": "Dev.to",
-      "user": "Dan Walsh"
-    },
-    {
-      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
-      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
-      "published_at": "2026-02-15T16:13:01Z",
-      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
-      "tags": [
-        "ai",
-        "career",
-        "productivity",
-        "codenewbie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
     },
     {
       "title": "Airfoil",
@@ -531,19 +546,19 @@
       "user": "veesahni"
     },
     {
-      "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
-      "url": "https://github.com/marswei/seaseed-clawerse",
-      "published_at": "2026-02-14T18:13:42Z",
-      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
+      "title": "vikasprogrammer/walkie - P2P communication for AI agents. No server. No setup. Just talk.",
+      "url": "https://github.com/vikasprogrammer/walkie",
+      "published_at": "2026-02-19T14:57:30Z",
+      "description": "P2P communication for AI agents. No server. No setup. Just talk.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 342,
-      "user": "marswei"
+      "stars": 121,
+      "user": "vikasprogrammer"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -557,8 +572,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4562,
+      "stars": 4583,
       "user": "HKUDS"
+    },
+    {
+      "title": "Pickle-Pixel/ApplyPilot - AI agent that applies to jobs for you. Any site. Any form.",
+      "url": "https://github.com/Pickle-Pixel/ApplyPilot",
+      "published_at": "2026-02-17T16:22:54Z",
+      "description": "AI agent that applies to jobs for you. Any site. Any form.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "Pickle-Pixel"
     },
     {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
@@ -587,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "Gentleman-Programming"
     }
   ],
@@ -666,6 +696,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
       "user": "DeVoresyah ArEst"
+    },
+    {
+      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
+      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
+      "published_at": "2026-02-18T17:46:05Z",
+      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "tags": [
+        "typescript",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "source": "Dev.to",
+      "user": "Ely Lucas"
+    },
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
     },
     {
       "title": "Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)",
@@ -923,21 +982,6 @@
       "user": "velmu"
     },
     {
-      "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
-      "url": "https://github.com/marswei/seaseed-clawerse",
-      "published_at": "2026-02-14T18:13:42Z",
-      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
-      "source": "GitHub",
-      "stars": 342,
-      "user": "marswei"
-    },
-    {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
       "url": "https://github.com/yeuxuan/openclaw-docs",
       "published_at": "2026-02-19T02:30:39Z",
@@ -949,7 +993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 214,
       "user": "yeuxuan"
     },
     {
@@ -968,6 +1012,21 @@
       "user": "andyhuo520"
     },
     {
+      "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
+      "url": "https://github.com/dimartarmizi/map-to-poster",
+      "published_at": "2026-02-17T09:03:26Z",
+      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
+      "source": "GitHub",
+      "stars": 168,
+      "user": "dimartarmizi"
+    },
+    {
       "title": "khalildh/garment-notation - GitHub Repository",
       "url": "https://github.com/khalildh/garment-notation",
       "published_at": "2026-02-17T06:50:19Z",
@@ -983,19 +1042,19 @@
       "user": "khalildh"
     },
     {
-      "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "url": "https://github.com/dimartarmizi/map-to-poster",
-      "published_at": "2026-02-17T09:03:26Z",
-      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
+      "title": "vikasprogrammer/walkie - P2P communication for AI agents. No server. No setup. Just talk.",
+      "url": "https://github.com/vikasprogrammer/walkie",
+      "published_at": "2026-02-19T14:57:30Z",
+      "description": "P2P communication for AI agents. No server. No setup. Just talk.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 166,
-      "user": "dimartarmizi"
+      "stars": 121,
+      "user": "vikasprogrammer"
     }
   ],
   "Python": [
@@ -1176,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4562,
+      "stars": 4583,
       "user": "HKUDS"
     },
     {
@@ -1191,53 +1250,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 526,
       "user": "ShinMegamiBoson"
     },
     {
-      "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
-      "url": "https://github.com/tomascupr/sandstorm",
-      "published_at": "2026-02-14T14:26:15Z",
-      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
+      "title": "Pickle-Pixel/ApplyPilot - AI agent that applies to jobs for you. Any site. Any form.",
+      "url": "https://github.com/Pickle-Pixel/ApplyPilot",
+      "published_at": "2026-02-17T16:22:54Z",
+      "description": "AI agent that applies to jobs for you. Any site. Any form.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 348,
-      "user": "tomascupr"
+      "stars": 244,
+      "user": "Pickle-Pixel"
     },
     {
-      "title": "joshavant/clawbox - OpenClaw-ready macOS VMs",
-      "url": "https://github.com/joshavant/clawbox",
-      "published_at": "2026-02-14T06:45:40Z",
-      "description": "OpenClaw-ready macOS VMs",
+      "title": "brendanhogan/hermitclaw - GitHub Repository",
+      "url": "https://github.com/brendanhogan/hermitclaw",
+      "published_at": "2026-02-15T21:54:01Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/78052016?v=4",
       "source": "GitHub",
-      "stars": 324,
-      "user": "joshavant"
+      "stars": 240,
+      "user": "brendanhogan"
     },
     {
-      "title": "Infatoshi/x-cli - CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal",
-      "url": "https://github.com/Infatoshi/x-cli",
-      "published_at": "2026-02-14T07:12:41Z",
-      "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal",
+      "title": "Ibrahim-3d/conductor-orchestrator-superpowers - Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills",
+      "url": "https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers",
+      "published_at": "2026-02-17T16:01:09Z",
+      "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/59771030?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/52743872?v=4",
       "source": "GitHub",
-      "stars": 271,
-      "user": "Infatoshi"
+      "stars": 160,
+      "user": "Ibrahim-3d"
     }
   ],
   "DevOps": [
@@ -1272,6 +1331,21 @@
       "user": "Yohei Seki"
     },
     {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
+    },
+    {
       "title": "Using Laravel Boost With DDEV",
       "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
       "published_at": "2026-02-10T00:00:00Z",
@@ -1285,23 +1359,24 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
       "source": "Dev.to",
       "user": "Russell Jones"
-    },
-    {
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "published_at": "2026-02-05T07:08:59Z",
-      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
-      "tags": [
-        "terraform",
-        "devops",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
-      "source": "Dev.to",
-      "user": "Heng Lu"
     }
   ],
   "WebDev": [
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
     {
       "title": "HJX: Rethinking the Web for the AI Era",
       "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
@@ -1408,18 +1483,19 @@
       "user": "DeVoresyah ArEst"
     },
     {
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "published_at": "2026-02-05T07:08:59Z",
-      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
       "tags": [
-        "terraform",
+        "kubernetes",
+        "go",
         "devops",
-        "azure"
+        "cloudnative"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
       "source": "Dev.to",
-      "user": "Heng Lu"
+      "user": "suin"
     },
     {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
@@ -1432,21 +1508,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "JustExAWS"
-    },
-    {
-      "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
-      "url": "https://github.com/tomascupr/sandstorm",
-      "published_at": "2026-02-14T14:26:15Z",
-      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
-      "source": "GitHub",
-      "stars": 348,
-      "user": "tomascupr"
     },
     {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
@@ -1493,21 +1554,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "mickamy/sql-tap - Watch SQL traffic in real-time with a TUI",
-      "url": "https://github.com/mickamy/sql-tap",
-      "published_at": "2026-02-14T01:41:59Z",
-      "description": "Watch SQL traffic in real-time with a TUI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
-      "source": "GitHub",
-      "stars": 932,
-      "user": "mickamy"
-    },
-    {
       "title": "Gentleman-Programming/engram - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "url": "https://github.com/Gentleman-Programming/engram",
       "published_at": "2026-02-16T13:38:41Z",
@@ -1519,7 +1565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "Gentleman-Programming"
     }
   ],
@@ -1607,8 +1653,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "Eljakani"
+    },
+    {
+      "title": "judsenb/GateKeeper - Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
+      "url": "https://github.com/judsenb/GateKeeper",
+      "published_at": "2026-02-19T10:07:31Z",
+      "description": "Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
+      "source": "GitHub",
+      "stars": 46,
+      "user": "judsenb"
     }
   ],
   "Tools": [
@@ -1656,21 +1717,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
-      "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
-      "published_at": "2026-02-19T18:28:58Z",
-      "description": "Introduction   OpenClaw, originally called ClawdBot, is trending everywhere. People are...",
-      "tags": [
-        "ai",
-        "productivity",
-        "opensource",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F040m7nfxxy8m9kq8kd82.webp",
-      "source": "Dev.to",
-      "user": "Astrodevil"
-    },
-    {
       "title": "Building a Gmail/Outlook email preview component for Vue",
       "url": "https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk",
       "published_at": "2026-02-20T07:56:21Z",
@@ -1699,6 +1745,65 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjubj6qdbqx5fnaumwrx.png",
       "source": "Dev.to",
       "user": "Mark Steadman"
+    },
+    {
+      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
+      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
+      "published_at": "2026-02-18T17:46:05Z",
+      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "tags": [
+        "typescript",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "source": "Dev.to",
+      "user": "Ely Lucas"
+    },
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
+      "title": "Visualizing UV on a Polygon2D in Godot",
+      "url": "https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o",
+      "published_at": "2026-02-15T11:53:49Z",
+      "description": "Run on: Godot: v4.6.stable.official [89cea1439]  https://github.com/idkshite/fragment-shader-uv  I...",
+      "tags": [
+        "godot",
+        "godotengine",
+        "shader",
+        "gdscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2eyt63wb0hh5u9xpc82n.png",
+      "source": "Dev.to",
+      "user": "Lucca Sanwald"
+    },
+    {
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codex",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "David Alcala"
     },
     {
       "title": "Who Are We Still Writing Technical Articles For?",
@@ -1731,48 +1836,19 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
-      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
-      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
-      "published_at": "2026-02-15T16:13:01Z",
-      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+      "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
+      "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
+      "published_at": "2026-02-19T18:28:58Z",
+      "description": "Introduction   OpenClaw, originally called ClawdBot, is trending everywhere. People are...",
       "tags": [
         "ai",
-        "career",
         "productivity",
-        "codenewbie"
+        "opensource",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F040m7nfxxy8m9kq8kd82.webp",
       "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "published_at": "2026-02-05T07:08:59Z",
-      "description": "There's a Terraform GitHub issue that's been open for years: people want to customize modules without...",
-      "tags": [
-        "terraform",
-        "devops",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futtn3tcn2il00ft95s7t.png",
-      "source": "Dev.to",
-      "user": "Heng Lu"
-    },
-    {
-      "title": "marswei/seaseed-clawerse - Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
-      "url": "https://github.com/marswei/seaseed-clawerse",
-      "published_at": "2026-02-14T18:13:42Z",
-      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6316577?v=4",
-      "source": "GitHub",
-      "stars": 342,
-      "user": "marswei"
+      "user": "Astrodevil"
     },
     {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
@@ -1786,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 214,
       "user": "yeuxuan"
     },
     {
@@ -1805,6 +1881,21 @@
       "user": "andyhuo520"
     },
     {
+      "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
+      "url": "https://github.com/dimartarmizi/map-to-poster",
+      "published_at": "2026-02-17T09:03:26Z",
+      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
+      "source": "GitHub",
+      "stars": 168,
+      "user": "dimartarmizi"
+    },
+    {
       "title": "khalildh/garment-notation - GitHub Repository",
       "url": "https://github.com/khalildh/garment-notation",
       "published_at": "2026-02-17T06:50:19Z",
@@ -1820,19 +1911,19 @@
       "user": "khalildh"
     },
     {
-      "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "url": "https://github.com/dimartarmizi/map-to-poster",
-      "published_at": "2026-02-17T09:03:26Z",
-      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
+      "title": "vikasprogrammer/walkie - P2P communication for AI agents. No server. No setup. Just talk.",
+      "url": "https://github.com/vikasprogrammer/walkie",
+      "published_at": "2026-02-19T14:57:30Z",
+      "description": "P2P communication for AI agents. No server. No setup. Just talk.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 166,
-      "user": "dimartarmizi"
+      "stars": 121,
+      "user": "vikasprogrammer"
     },
     {
       "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
@@ -1846,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4562,
+      "stars": 4583,
       "user": "HKUDS"
     },
     {
@@ -1861,53 +1952,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 526,
       "user": "ShinMegamiBoson"
     },
     {
-      "title": "tomascupr/sandstorm - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
-      "url": "https://github.com/tomascupr/sandstorm",
-      "published_at": "2026-02-14T14:26:15Z",
-      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
+      "title": "Pickle-Pixel/ApplyPilot - AI agent that applies to jobs for you. Any site. Any form.",
+      "url": "https://github.com/Pickle-Pixel/ApplyPilot",
+      "published_at": "2026-02-17T16:22:54Z",
+      "description": "AI agent that applies to jobs for you. Any site. Any form.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/201650992?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 348,
-      "user": "tomascupr"
+      "stars": 244,
+      "user": "Pickle-Pixel"
     },
     {
-      "title": "joshavant/clawbox - OpenClaw-ready macOS VMs",
-      "url": "https://github.com/joshavant/clawbox",
-      "published_at": "2026-02-14T06:45:40Z",
-      "description": "OpenClaw-ready macOS VMs",
+      "title": "brendanhogan/hermitclaw - GitHub Repository",
+      "url": "https://github.com/brendanhogan/hermitclaw",
+      "published_at": "2026-02-15T21:54:01Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/830519?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/78052016?v=4",
       "source": "GitHub",
-      "stars": 324,
-      "user": "joshavant"
+      "stars": 240,
+      "user": "brendanhogan"
     },
     {
-      "title": "Infatoshi/x-cli - CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal",
-      "url": "https://github.com/Infatoshi/x-cli",
-      "published_at": "2026-02-14T07:12:41Z",
-      "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal",
+      "title": "Ibrahim-3d/conductor-orchestrator-superpowers - Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills",
+      "url": "https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers",
+      "published_at": "2026-02-17T16:01:09Z",
+      "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/59771030?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/52743872?v=4",
       "source": "GitHub",
-      "stars": 271,
-      "user": "Infatoshi"
+      "stars": 160,
+      "user": "Ibrahim-3d"
     },
     {
       "title": "pinchtab/pinchtab - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
@@ -1921,23 +2012,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1013,
       "user": "pinchtab"
-    },
-    {
-      "title": "mickamy/sql-tap - Watch SQL traffic in real-time with a TUI",
-      "url": "https://github.com/mickamy/sql-tap",
-      "published_at": "2026-02-14T01:41:59Z",
-      "description": "Watch SQL traffic in real-time with a TUI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11856337?v=4",
-      "source": "GitHub",
-      "stars": 932,
-      "user": "mickamy"
     },
     {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
@@ -1966,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "Gentleman-Programming"
     },
     {
@@ -1981,8 +2057,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "Eljakani"
+    },
+    {
+      "title": "judsenb/GateKeeper - Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
+      "url": "https://github.com/judsenb/GateKeeper",
+      "published_at": "2026-02-19T10:07:31Z",
+      "description": "Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
+      "source": "GitHub",
+      "stars": 46,
+      "user": "judsenb"
     }
   ]
 }
