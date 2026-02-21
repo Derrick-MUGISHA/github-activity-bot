@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦 8 (7.6%)
+**Cloud**: 🟦🟦🟦🟦 8 (7.6%)
 
 **Security**: 🟦🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦 3 (2.9%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.3 (31.3%)
-Java            █████████████████████ 21.9 (21.9%)
-Python          ██████████████████ 18.8 (18.8%)
-Go              ████████████████ 16.7 (16.7%)
-Rust            █████ 5.2 (5.2%)
-PHP             ████ 4.2 (4.2%)
+JavaScript      ██████████████████████████████ 32.7 (32.7%)
+Java            ████████████████████ 21.4 (21.4%)
+Go              ████████████████ 17.3 (17.3%)
+Python          ████████████████ 17.3 (17.3%)
+Rust            █████ 5.1 (5.1%)
+PHP             ████ 4.1 (4.1%)
 CSharp          █ 1.0 (1.0%)
 Swift           █ 1.0 (1.0%)
 
@@ -73,10 +73,10 @@ Swift           █ 1.0 (1.0%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 30
+    "JavaScript" : 32
     "Java" : 21
-    "Python" : 18
-    "Go" : 16
+    "Go" : 17
+    "Python" : 17
     "Rust" : 5
     "PHP" : 4
     "CSharp" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![career](https://img.shields.io/badge/career-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-7-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) 
 
 
 
@@ -218,7 +218,7 @@ npm run test
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 
-_Last automated update: Sat, 21 Feb 2026 22:20:31 CAT_
+_Last automated update: Sat, 21 Feb 2026 22:47:25 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 21 Feb 2026 22:20:31 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Heap, stack, garbage collection
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Feb 2026 20:20:31 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Feb 2026 20:47:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
