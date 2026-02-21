@@ -59,21 +59,6 @@
       "user": "Romain Lespinasse"
     },
     {
-      "title": "Exploring Olympic Downhill Results with PHP Statistics",
-      "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
-      "published_at": "2026-02-20T20:57:54Z",
-      "description": "When Franjo von Allmen crossed the finish line in 111.61 seconds at the 2026 Olympic Downhill, he...",
-      "tags": [
-        "php",
-        "statistics",
-        "programming",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
-    },
-    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -131,6 +116,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
       "source": "Dev.to",
       "user": "Alessandro Bahgat"
+    },
+    {
+      "title": "Exploring Olympic Downhill Results with PHP Statistics",
+      "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
+      "published_at": "2026-02-20T20:57:54Z",
+      "description": "When Franjo von Allmen crossed the finish line in 111.61 seconds at the 2026 Olympic Downhill, he...",
+      "tags": [
+        "php",
+        "statistics",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
     },
     {
       "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
@@ -573,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "vikasprogrammer"
     },
     {
@@ -588,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4739,
+      "stars": 4749,
       "user": "HKUDS"
     },
     {
@@ -603,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 300,
       "user": "Pickle-Pixel"
     },
     {
@@ -633,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "Gentleman-Programming"
     },
     {
@@ -1039,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "dimartarmizi"
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "andyhuo520"
     },
     {
@@ -1084,7 +1084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "vikasprogrammer"
     }
   ],
@@ -1266,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4739,
+      "stars": 4749,
       "user": "HKUDS"
     },
     {
@@ -1281,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 701,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1296,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 300,
       "user": "Pickle-Pixel"
     },
     {
@@ -1326,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 189,
       "user": "olvvier"
     }
   ],
@@ -1360,21 +1360,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
-    },
-    {
-      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
-      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
-      "published_at": "2026-02-17T23:56:55Z",
-      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
-      "tags": [
-        "kubernetes",
-        "go",
-        "devops",
-        "cloudnative"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
-      "source": "Dev.to",
-      "user": "suin"
     },
     {
       "title": "Using Laravel Boost With DDEV",
@@ -1470,6 +1455,21 @@
   ],
   "Cloud": [
     {
+      "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup",
+      "url": "https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
+      "published_at": "2026-02-21T14:44:45Z",
+      "description": "I've got OpenClaw running locally on a Raspberry Pi — where computation power is scarce, and it's...",
+      "tags": [
+        "aws",
+        "bedrock",
+        "openclaw",
+        "kiro"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqo74hl0vrs55ad13oaj0.png",
+      "source": "Dev.to",
+      "user": "Gabriel Koo"
+    },
+    {
       "title": "What Do You Want to Know About Antigravity?",
       "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
       "published_at": "2026-02-20T20:45:03Z",
@@ -1498,21 +1498,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
       "user": "DeVoresyah ArEst"
-    },
-    {
-      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
-      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
-      "published_at": "2026-02-17T23:56:55Z",
-      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
-      "tags": [
-        "kubernetes",
-        "go",
-        "devops",
-        "cloudnative"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
-      "source": "Dev.to",
-      "user": "suin"
     },
     {
       "title": "The hosting setup nobody talks about anymore",
@@ -1596,7 +1581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "Gentleman-Programming"
     },
     {
@@ -1908,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "dimartarmizi"
     },
     {
@@ -1923,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "andyhuo520"
     },
     {
@@ -1953,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "vikasprogrammer"
     },
     {
@@ -1968,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4739,
+      "stars": 4749,
       "user": "HKUDS"
     },
     {
@@ -1983,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 701,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1998,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 300,
       "user": "Pickle-Pixel"
     },
     {
@@ -2028,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 189,
       "user": "olvvier"
     },
     {
@@ -2043,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1066,
       "user": "pinchtab"
     },
     {
@@ -2073,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "Gentleman-Programming"
     },
     {
