@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
 
 
 
@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dannwaneri/the-meter-was-always-running-44c4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flc8fmxx7zlew87bk4jf9.jpg" width="200" alt="The Meter Was Always Running" />
+    <a href="https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8d9mvzymrioqxui311ly.jpg" width="200" alt="StackOverflow - was it worth it?" />
       <br/>
-      <b>The Meter Was Always Running</b>
+      <b>StackOverflow - was it worth it?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,8 +202,8 @@ npm run test
 - [Congrats to the "New Year, New You" Portfolio Challenge Winners and Runner-Ups!](https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h) _[Dev.to]_
 - [Why did you become a Developer?](https://dev.to/francistrdev/why-did-you-become-a-developer-57ea) _[Dev.to]_
 - [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg) _[Dev.to]_
-- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
 - [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki) _[Dev.to]_
+- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
 - [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef) _[Dev.to]_
 - [What Do You Want to Know About Antigravity?](https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a) _[Dev.to]_
 - [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Introducing Our Next DEV Education Track: "Build Multi-Agent Systems with ADK"](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8) _[Dev.to]_
 - [The Future of Software Has a Lot More Builders. They’re Going to Need a Home.](https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65) _[Dev.to]_
 
-_Last automated update: Sat, 21 Feb 2026 16:02:24 CAT_
+_Last automated update: Sat, 21 Feb 2026 16:43:22 CAT_
 
 
 
@@ -226,7 +226,18 @@ _Last automated update: Sat, 21 Feb 2026 16:02:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+
+**Difficulty**: Medium | **Topics**: event loop, async
+
+<details>
+<summary>💡 Hint</summary>
+
+Execution timing, event loop phases
+
+</details>
+
+### 2. Python: What are generators and when would you use them?
 
 **Difficulty**: Medium | **Topics**: iterators, memory
 
@@ -237,25 +248,14 @@ yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: data flow, components
-
-<details>
-<summary>💡 Hint</summary>
-
-Ownership, mutability, data flow direction
-
-</details>
-
-### 3. Database: What is database normalization and denormalization?
-
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Feb 2026 14:02:24 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Feb 2026 14:43:22 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
