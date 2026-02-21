@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-22 0:00 CAT)
+## 📅 Latest Updates (2026-02-22 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 
-_Last automated update: Sun, 22 Feb 2026 00:51:48 CAT_
+_Last automated update: Sun, 22 Feb 2026 01:20:24 CAT_
 
 
 
@@ -226,7 +226,18 @@ _Last automated update: Sun, 22 Feb 2026 00:51:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. React: What is the Virtual DOM and how does React use it?
+
+**Difficulty**: Easy | **Topics**: rendering, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Diffing algorithm, reconciliation, efficiency
+
+</details>
+
+### 2. JavaScript: What are closures and provide a practical example?
 
 **Difficulty**: Medium | **Topics**: functions, scope
 
@@ -237,25 +248,14 @@ Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: data flow, components
-
-<details>
-<summary>💡 Hint</summary>
-
-Ownership, mutability, data flow direction
-
-</details>
-
-### 3. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Feb 2026 22:51:48 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Feb 2026 23:20:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
