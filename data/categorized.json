@@ -16,21 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "The Meter Was Always Running",
-      "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
-      "published_at": "2026-02-20T17:57:37Z",
-      "description": "On the All-In podcast (episode #261), Jason Calacanis revealed his AI agents cost $300 a day. Each....",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8jddr6x0nayubmktogp.png",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "What Do You Want to Know About Antigravity?",
       "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
       "published_at": "2026-02-20T20:45:03Z",
@@ -46,19 +31,19 @@
       "user": "Jess Lee"
     },
     {
-      "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
-      "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
-      "published_at": "2026-02-18T14:00:30Z",
-      "description": "I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...",
+      "title": "The Meter Was Always Running",
+      "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
+      "published_at": "2026-02-20T17:57:37Z",
+      "description": "On the All-In podcast (episode #261), Jason Calacanis revealed his AI agents cost $300 a day. Each....",
       "tags": [
-        "discuss",
-        "news",
         "ai",
-        "programming"
+        "webdev",
+        "career",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oqm9p89lj4fnebzc54n.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8jddr6x0nayubmktogp.png",
       "source": "Dev.to",
-      "user": "Jon Gottfried"
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -176,6 +161,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyedmo3tx4u5ewng0f8k.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
+      "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
+      "published_at": "2026-02-18T14:00:30Z",
+      "description": "I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...",
+      "tags": [
+        "discuss",
+        "news",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oqm9p89lj4fnebzc54n.png",
+      "source": "Dev.to",
+      "user": "Jon Gottfried"
     },
     {
       "title": "Building a Gmail/Outlook email preview component for Vue",
@@ -557,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "vikasprogrammer"
     },
     {
@@ -572,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4583,
+      "stars": 4613,
       "user": "HKUDS"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 250,
       "user": "Pickle-Pixel"
     },
     {
@@ -617,8 +617,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 249,
       "user": "Gentleman-Programming"
+    },
+    {
+      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
+      "url": "https://github.com/jasperan/picooraclaw",
+      "published_at": "2026-02-18T04:44:35Z",
+      "description": "PicoClaw that works with Oracle AI Database",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
+      "source": "GitHub",
+      "stars": 60,
+      "user": "jasperan"
     }
   ],
   "JavaScript": [
@@ -993,23 +1008,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 222,
       "user": "yeuxuan"
-    },
-    {
-      "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
-      "url": "https://github.com/andyhuo520/rf-detr-detection",
-      "published_at": "2026-02-17T16:58:10Z",
-      "description": "基于 RF-DETR 的浏览器端实时目标检测应用",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 175,
-      "user": "andyhuo520"
     },
     {
       "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
@@ -1023,8 +1023,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 177,
       "user": "dimartarmizi"
+    },
+    {
+      "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
+      "url": "https://github.com/andyhuo520/rf-detr-detection",
+      "published_at": "2026-02-17T16:58:10Z",
+      "description": "基于 RF-DETR 的浏览器端实时目标检测应用",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 176,
+      "user": "andyhuo520"
     },
     {
       "title": "khalildh/garment-notation - GitHub Repository",
@@ -1053,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "vikasprogrammer"
     }
   ],
@@ -1235,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4583,
+      "stars": 4613,
       "user": "HKUDS"
     },
     {
@@ -1250,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 550,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1265,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 250,
       "user": "Pickle-Pixel"
     },
     {
@@ -1295,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52743872?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 163,
       "user": "Ibrahim-3d"
     }
   ],
@@ -1565,8 +1580,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 249,
       "user": "Gentleman-Programming"
+    },
+    {
+      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
+      "url": "https://github.com/jasperan/picooraclaw",
+      "published_at": "2026-02-18T04:44:35Z",
+      "description": "PicoClaw that works with Oracle AI Database",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
+      "source": "GitHub",
+      "stars": 60,
+      "user": "jasperan"
     }
   ],
   "Security": [
@@ -1655,21 +1685,6 @@
       "source": "GitHub",
       "stars": 61,
       "user": "Eljakani"
-    },
-    {
-      "title": "judsenb/GateKeeper - Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
-      "url": "https://github.com/judsenb/GateKeeper",
-      "published_at": "2026-02-19T10:07:31Z",
-      "description": "Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
-      "source": "GitHub",
-      "stars": 46,
-      "user": "judsenb"
     }
   ],
   "Tools": [
@@ -1862,23 +1877,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 222,
       "user": "yeuxuan"
-    },
-    {
-      "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
-      "url": "https://github.com/andyhuo520/rf-detr-detection",
-      "published_at": "2026-02-17T16:58:10Z",
-      "description": "基于 RF-DETR 的浏览器端实时目标检测应用",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 175,
-      "user": "andyhuo520"
     },
     {
       "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
@@ -1892,8 +1892,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 177,
       "user": "dimartarmizi"
+    },
+    {
+      "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
+      "url": "https://github.com/andyhuo520/rf-detr-detection",
+      "published_at": "2026-02-17T16:58:10Z",
+      "description": "基于 RF-DETR 的浏览器端实时目标检测应用",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 176,
+      "user": "andyhuo520"
     },
     {
       "title": "khalildh/garment-notation - GitHub Repository",
@@ -1922,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "vikasprogrammer"
     },
     {
@@ -1937,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4583,
+      "stars": 4613,
       "user": "HKUDS"
     },
     {
@@ -1952,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 550,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1967,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 250,
       "user": "Pickle-Pixel"
     },
     {
@@ -1997,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52743872?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 163,
       "user": "Ibrahim-3d"
     },
     {
@@ -2012,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1023,
       "user": "pinchtab"
     },
     {
@@ -2042,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 249,
       "user": "Gentleman-Programming"
     },
     {
@@ -2061,19 +2076,19 @@
       "user": "Eljakani"
     },
     {
-      "title": "judsenb/GateKeeper - Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
-      "url": "https://github.com/judsenb/GateKeeper",
-      "published_at": "2026-02-19T10:07:31Z",
-      "description": "Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
+      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
+      "url": "https://github.com/jasperan/picooraclaw",
+      "published_at": "2026-02-18T04:44:35Z",
+      "description": "PicoClaw that works with Oracle AI Database",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 46,
-      "user": "judsenb"
+      "stars": 60,
+      "user": "jasperan"
     }
   ]
 }
