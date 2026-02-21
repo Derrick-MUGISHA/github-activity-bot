@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-21 20:00 CAT)
+## 📅 Latest Updates (2026-02-21 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Exploring Olympic Downhill Results with PHP Statistics](https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1) _[Dev.to]_
 - [Introducing Our Next DEV Education Track: "Build Multi-Agent Systems with ADK"](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8) _[Dev.to]_
 
-_Last automated update: Sat, 21 Feb 2026 20:40:23 CAT_
+_Last automated update: Sat, 21 Feb 2026 21:04:37 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 21 Feb 2026 20:40:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Feb 2026 18:40:23 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Feb 2026 19:04:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
