@@ -16,21 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "What Do You Want to Know About Antigravity?",
-      "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
-      "published_at": "2026-02-20T20:45:03Z",
-      "description": "Last week Jack Wotherspoon and @greggyb dove into skills, hooks, and Plan Mode on Google Cloud Live....",
-      "tags": [
-        "antigravity",
-        "discuss",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgkcyvxwbxoi4a3mctrx.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The Meter Was Always Running",
       "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
       "published_at": "2026-02-20T17:57:37Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8jddr6x0nayubmktogp.png",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "What Do You Want to Know About Antigravity?",
+      "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
+      "published_at": "2026-02-20T20:45:03Z",
+      "description": "Last week Jack Wotherspoon and @greggyb dove into skills, hooks, and Plan Mode on Google Cloud Live....",
+      "tags": [
+        "antigravity",
+        "discuss",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgkcyvxwbxoi4a3mctrx.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -572,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4651,
+      "stars": 4658,
       "user": "HKUDS"
     },
     {
@@ -587,8 +587,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 268,
       "user": "Pickle-Pixel"
+    },
+    {
+      "title": "GHJJ123/brainrotguard - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI",
+      "url": "https://github.com/GHJJ123/brainrotguard",
+      "published_at": "2026-02-15T20:44:41Z",
+      "description": "YouTube approval system for kids — parent approves via Telegram, kid watches via web UI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23323879?v=4",
+      "source": "GitHub",
+      "stars": 172,
+      "user": "GHJJ123"
     },
     {
       "title": "klawsh/klaw.sh - kubectl for AI Agents",
@@ -1023,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "dimartarmizi"
     },
     {
@@ -1250,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4651,
+      "stars": 4658,
       "user": "HKUDS"
     },
     {
@@ -1265,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 618,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1280,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 268,
       "user": "Pickle-Pixel"
     },
     {
@@ -1299,19 +1314,19 @@
       "user": "brendanhogan"
     },
     {
-      "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid",
-      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
-      "published_at": "2026-02-19T04:37:47Z",
-      "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid",
+      "title": "GHJJ123/brainrotguard - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI",
+      "url": "https://github.com/GHJJ123/brainrotguard",
+      "published_at": "2026-02-15T20:44:41Z",
+      "description": "YouTube approval system for kids — parent approves via Telegram, kid watches via web UI",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/23323879?v=4",
       "source": "GitHub",
-      "stars": 170,
-      "user": "olvvier"
+      "stars": 172,
+      "user": "GHJJ123"
     }
   ],
   "DevOps": [
@@ -1669,7 +1684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 66,
       "user": "Eljakani"
     }
   ],
@@ -1878,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "dimartarmizi"
     },
     {
@@ -1938,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4651,
+      "stars": 4658,
       "user": "HKUDS"
     },
     {
@@ -1953,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 618,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1968,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 268,
       "user": "Pickle-Pixel"
     },
     {
@@ -1987,19 +2002,19 @@
       "user": "brendanhogan"
     },
     {
-      "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid",
-      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
-      "published_at": "2026-02-19T04:37:47Z",
-      "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid",
+      "title": "GHJJ123/brainrotguard - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI",
+      "url": "https://github.com/GHJJ123/brainrotguard",
+      "published_at": "2026-02-15T20:44:41Z",
+      "description": "YouTube approval system for kids — parent approves via Telegram, kid watches via web UI",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/23323879?v=4",
       "source": "GitHub",
-      "stars": 170,
-      "user": "olvvier"
+      "stars": 172,
+      "user": "GHJJ123"
     },
     {
       "title": "pinchtab/pinchtab - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
@@ -2013,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1047,
       "user": "pinchtab"
     },
     {
@@ -2073,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 66,
       "user": "Eljakani"
     }
   ]
