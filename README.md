@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦 7 (6.7%)
+**Cloud**: 🟦🟦🟦 8 (7.6%)
 
 **Security**: 🟦🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦 3 (2.9%)
 
-**Database**: 🟦🟦 4 (3.8%)
+**Database**: 🟦 3 (2.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.6 (31.6%)
-Java            ████████████████████ 21.4 (21.4%)
-Python          █████████████████ 18.4 (18.4%)
-Go              ████████████████ 17.3 (17.3%)
-Rust            █████ 5.1 (5.1%)
-PHP             ████ 4.1 (4.1%)
+JavaScript      ██████████████████████████████ 31.3 (31.3%)
+Java            █████████████████████ 21.9 (21.9%)
+Python          ██████████████████ 18.8 (18.8%)
+Go              ████████████████ 16.7 (16.7%)
+Rust            █████ 5.2 (5.2%)
+PHP             ████ 4.2 (4.2%)
 CSharp          █ 1.0 (1.0%)
 Swift           █ 1.0 (1.0%)
 
@@ -73,10 +73,10 @@ Swift           █ 1.0 (1.0%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 31
+    "JavaScript" : 30
     "Java" : 21
     "Python" : 18
-    "Go" : 17
+    "Go" : 16
     "Rust" : 5
     "PHP" : 4
     "CSharp" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![career](https://img.shields.io/badge/career-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-21 21:00 CAT)
+## 📅 Latest Updates (2026-02-21 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,9 +203,11 @@ npm run test
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a3g) _[Dev.to]_
 - [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg) _[Dev.to]_
 - [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki) _[Dev.to]_
-- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
 - [I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup](https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4) _[Dev.to]_
 - [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef) _[Dev.to]_
+- [Why Azure Front Door Made My Next.js App Take 90 Seconds to Load (and How I Fixed It)](https://dev.to/felixschober/why-azure-front-door-made-my-nextjs-app-take-90-seconds-to-load-and-how-i-fixed-it-4kof) _[Dev.to]_
+- [Getting Started with LLM Gateway in 5 Minutes](https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p) _[Dev.to]_
+- [Build your own AI code review agent in CI](https://dev.to/lvndry/build-your-own-ai-code-review-agent-in-ci-4mai) _[Dev.to]_
 - [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
 - [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo) _[Dev.to]_
 - [Making Scrollable Code Blocks Accessible](https://dev.to/th3s4mur41/making-scrollable-code-blocks-accessible-3i0o) _[Dev.to]_
@@ -215,10 +217,8 @@ npm run test
 - [What Do You Want to Know About Antigravity?](https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
-- [Exploring Olympic Downhill Results with PHP Statistics](https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1) _[Dev.to]_
-- [Introducing Our Next DEV Education Track: "Build Multi-Agent Systems with ADK"](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8) _[Dev.to]_
 
-_Last automated update: Sat, 21 Feb 2026 21:54:42 CAT_
+_Last automated update: Sat, 21 Feb 2026 22:20:31 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 21 Feb 2026 21:54:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Feb 2026 19:54:42 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Feb 2026 20:20:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
