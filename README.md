@@ -218,7 +218,7 @@ npm run test
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 
-_Last automated update: Sun, 22 Feb 2026 01:20:24 CAT_
+_Last automated update: Sun, 22 Feb 2026 01:45:23 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 22 Feb 2026 01:20:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Feb 2026 23:20:24 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Feb 2026 23:45:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
