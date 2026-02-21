@@ -26,7 +26,7 @@
         "career",
         "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8jddr6x0nayubmktogp.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flc8fmxx7zlew87bk4jf9.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
     },
@@ -206,20 +206,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui38f6me5urbe1q3t35l.jpg",
       "source": "Dev.to",
       "user": "Mirza Leka"
-    },
-    {
-      "title": "Taming non-determinism: from logic gates to LLMs",
-      "url": "https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0",
-      "published_at": "2026-02-19T03:47:38Z",
-      "description": "Or: how engineering keeps turning chaos into reliable computation. And why agentic AI still hasn't...",
-      "tags": [
-        "ai",
-        "llm",
-        "ann"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzhq0zynlbem8i72sxt1.png",
-      "source": "Dev.to",
-      "user": "Leandro Proença"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -414,6 +400,51 @@
       "user": "Abhishek Mishra"
     },
     {
+      "title": "Beyond nvidia-smi part — 1",
+      "url": "https://dev.to/panchalhimself/beyond-nvidia-smi-part-1-26le",
+      "published_at": "2026-02-19T18:02:43Z",
+      "description": "Common pitfalls and methods to measure GPU efficiency.   This will be a two part series...",
+      "tags": [
+        "gpu",
+        "ai",
+        "performance",
+        "monitoring"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzewjxuvz9guaszmrukz.png",
+      "source": "Dev.to",
+      "user": "Yash Panchal"
+    },
+    {
+      "title": "Software engineering isn't dead",
+      "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
+      "published_at": "2026-02-06T18:41:30Z",
+      "description": "Doom   People love defaulting to doom and gloom. I get it. I've been there, it used to be my...",
+      "tags": [
+        "ai",
+        "thoughts",
+        "softwareengineering",
+        "future"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
+      "source": "Dev.to",
+      "user": "Dan Walsh"
+    },
+    {
+      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
+      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
+      "published_at": "2026-02-15T16:13:01Z",
+      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+      "tags": [
+        "ai",
+        "career",
+        "productivity",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -557,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "vikasprogrammer"
     },
     {
@@ -572,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4667,
+      "stars": 4671,
       "user": "HKUDS"
     },
     {
@@ -1068,7 +1099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "vikasprogrammer"
     }
   ],
@@ -1250,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4667,
+      "stars": 4671,
       "user": "HKUDS"
     },
     {
@@ -1265,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 630,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1310,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "olvvier"
     }
   ],
@@ -1499,6 +1530,20 @@
       "user": "suin"
     },
     {
+      "title": "The hosting setup nobody talks about anymore",
+      "url": "https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528",
+      "published_at": "2026-02-20T00:15:40Z",
+      "description": "Ever had this problem?   You're building something real, real-time features, background workers, cron...",
+      "tags": [
+        "aws",
+        "webhost",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62n86s58xdso8eyzg2es.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
+    },
+    {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
       "published_at": "2025-08-21T12:53:16Z",
@@ -1669,7 +1714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 73,
       "user": "Eljakani"
     }
   ],
@@ -1852,6 +1897,21 @@
       "user": "Astrodevil"
     },
     {
+      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
+      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
+      "published_at": "2026-02-15T16:13:01Z",
+      "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+      "tags": [
+        "ai",
+        "career",
+        "productivity",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmqu6ld2wsfhr81fndpe3.png",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
       "url": "https://github.com/yeuxuan/openclaw-docs",
       "published_at": "2026-02-19T02:30:39Z",
@@ -1923,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "vikasprogrammer"
     },
     {
@@ -1938,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4667,
+      "stars": 4671,
       "user": "HKUDS"
     },
     {
@@ -1953,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 630,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1998,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "olvvier"
     },
     {
@@ -2013,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1050,
       "user": "pinchtab"
     },
     {
@@ -2058,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 73,
       "user": "Eljakani"
     },
     {
