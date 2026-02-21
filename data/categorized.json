@@ -252,20 +252,6 @@
       "user": "David Alcala"
     },
     {
-      "title": "Software engineering is not dead",
-      "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
-      "published_at": "2026-02-16T23:29:28Z",
-      "description": "Lately, my LinkedIn feed has become an echo chamber of AI evangelists worshiping at the altar of the...",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
-      "source": "Dev.to",
-      "user": "Juan G De Jesus Torres"
-    },
-    {
       "title": "The future belongs to those who can refute AI, not just generate with AI",
       "url": "https://dev.to/shrsv/the-future-belongs-to-those-who-can-refute-ai-not-just-generate-with-ai-28i0",
       "published_at": "2026-02-19T13:36:54Z",
@@ -279,6 +265,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F672epnqmmp3jn6b4fyom.png",
       "source": "Dev.to",
       "user": "Shrijith Venkatramana"
+    },
+    {
+      "title": "Software engineering is not dead",
+      "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
+      "published_at": "2026-02-16T23:29:28Z",
+      "description": "Lately, my LinkedIn feed has become an echo chamber of AI evangelists worshiping at the altar of the...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
+      "source": "Dev.to",
+      "user": "Juan G De Jesus Torres"
     },
     {
       "title": "HJX: Rethinking the Web for the AI Era",
@@ -572,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4613,
+      "stars": 4619,
       "user": "HKUDS"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 254,
       "user": "Pickle-Pixel"
     },
     {
@@ -617,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "Gentleman-Programming"
     },
     {
@@ -632,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 66,
       "user": "jasperan"
     }
   ],
@@ -1008,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 224,
       "user": "yeuxuan"
     },
     {
@@ -1023,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 182,
       "user": "dimartarmizi"
     },
     {
@@ -1250,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4613,
+      "stars": 4619,
       "user": "HKUDS"
     },
     {
@@ -1265,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 561,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1280,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 254,
       "user": "Pickle-Pixel"
     },
     {
@@ -1295,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78052016?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "brendanhogan"
     },
     {
@@ -1310,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52743872?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 166,
       "user": "Ibrahim-3d"
     }
   ],
@@ -1580,7 +1580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "Gentleman-Programming"
     },
     {
@@ -1595,7 +1595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 66,
       "user": "jasperan"
     }
   ],
@@ -1877,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 224,
       "user": "yeuxuan"
     },
     {
@@ -1892,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 182,
       "user": "dimartarmizi"
     },
     {
@@ -1952,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4613,
+      "stars": 4619,
       "user": "HKUDS"
     },
     {
@@ -1967,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 561,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1982,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 254,
       "user": "Pickle-Pixel"
     },
     {
@@ -1997,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78052016?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "brendanhogan"
     },
     {
@@ -2012,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52743872?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 166,
       "user": "Ibrahim-3d"
     },
     {
@@ -2027,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1026,
       "user": "pinchtab"
     },
     {
@@ -2057,8 +2057,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "Gentleman-Programming"
+    },
+    {
+      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
+      "url": "https://github.com/jasperan/picooraclaw",
+      "published_at": "2026-02-18T04:44:35Z",
+      "description": "PicoClaw that works with Oracle AI Database",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
+      "source": "GitHub",
+      "stars": 66,
+      "user": "jasperan"
     },
     {
       "title": "Eljakani/ward - Security scanner built for Laravel, detects misconfigurations, vulnerabilities, and exposed secrets with a beautiful TUI.",
@@ -2074,21 +2089,6 @@
       "source": "GitHub",
       "stars": 61,
       "user": "Eljakani"
-    },
-    {
-      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
-      "url": "https://github.com/jasperan/picooraclaw",
-      "published_at": "2026-02-18T04:44:35Z",
-      "description": "PicoClaw that works with Oracle AI Database",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "jasperan"
     }
   ]
 }
