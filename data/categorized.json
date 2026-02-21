@@ -415,21 +415,6 @@
       "user": "Yash Panchal"
     },
     {
-      "title": "Software engineering isn't dead",
-      "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
-      "published_at": "2026-02-06T18:41:30Z",
-      "description": "Doom   People love defaulting to doom and gloom. I get it. I've been there, it used to be my...",
-      "tags": [
-        "ai",
-        "thoughts",
-        "softwareengineering",
-        "future"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
-      "source": "Dev.to",
-      "user": "Dan Walsh"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -588,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4762,
+      "stars": 4770,
       "user": "HKUDS"
     },
     {
@@ -603,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 304,
       "user": "Pickle-Pixel"
     },
     {
@@ -618,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 229,
       "user": "CraftyGeezer"
     },
     {
@@ -633,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 516,
       "user": "klawsh"
     },
     {
@@ -1039,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "yeuxuan"
     },
     {
@@ -1054,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "dimartarmizi"
     },
     {
@@ -1281,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4762,
+      "stars": 4770,
       "user": "HKUDS"
     },
     {
@@ -1296,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 725,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1311,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 304,
       "user": "Pickle-Pixel"
     },
     {
@@ -1341,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 229,
       "user": "CraftyGeezer"
     }
   ],
@@ -1375,6 +1360,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
     },
     {
       "title": "Using Laravel Boost With DDEV",
@@ -1470,21 +1470,6 @@
   ],
   "Cloud": [
     {
-      "title": "What Do You Want to Know About Antigravity?",
-      "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
-      "published_at": "2026-02-20T20:45:03Z",
-      "description": "Last week Jack Wotherspoon and @greggyb dove into skills, hooks, and Plan Mode on Google Cloud Live....",
-      "tags": [
-        "antigravity",
-        "discuss",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgkcyvxwbxoi4a3mctrx.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup",
       "url": "https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "published_at": "2026-02-21T14:44:45Z",
@@ -1500,6 +1485,21 @@
       "user": "Gabriel Koo"
     },
     {
+      "title": "What Do You Want to Know About Antigravity?",
+      "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
+      "published_at": "2026-02-20T20:45:03Z",
+      "description": "Last week Jack Wotherspoon and @greggyb dove into skills, hooks, and Plan Mode on Google Cloud Live....",
+      "tags": [
+        "antigravity",
+        "discuss",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgkcyvxwbxoi4a3mctrx.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
       "published_at": "2026-02-15T10:27:55Z",
@@ -1513,6 +1513,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
       "user": "DeVoresyah ArEst"
+    },
+    {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
     },
     {
       "title": "The hosting setup nobody talks about anymore",
@@ -1552,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 516,
       "user": "klawsh"
     }
   ],
@@ -1699,7 +1714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "Eljakani"
     }
   ],
@@ -1893,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "yeuxuan"
     },
     {
@@ -1908,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "dimartarmizi"
     },
     {
@@ -1968,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4762,
+      "stars": 4770,
       "user": "HKUDS"
     },
     {
@@ -1983,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 725,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1998,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 304,
       "user": "Pickle-Pixel"
     },
     {
@@ -2028,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 229,
       "user": "CraftyGeezer"
     },
     {
@@ -2058,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 516,
       "user": "klawsh"
     },
     {
@@ -2088,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "Eljakani"
     },
     {
