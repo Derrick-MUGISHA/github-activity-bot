@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 45,
+    "AI": 44,
     "JavaScript": 32,
     "Python": 18,
     "DevOps": 4,
@@ -23,13 +23,13 @@
     "JavaScript": 32,
     "Rust": 5,
     "Java": 21,
-    "PHP": 3,
     "CSharp": 1,
+    "PHP": 2,
     "Swift": 1
   },
   "by_date": {
     "2026-02-18": 8,
-    "2026-02-20": 13,
+    "2026-02-20": 12,
     "2026-02-21": 7,
     "2026-02-19": 12,
     "2026-02-17": 12,
@@ -78,14 +78,14 @@
     "open-source": 15,
     "javascript": 11,
     "discuss": 10,
-    "programming": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "programming": 9,
     "python": 8,
     "typescript": 7,
-    "tutorial": 6,
     "go": 6,
+    "tutorial": 5,
     "opensource": 5,
     "career": 4,
     "showdev": 4,
@@ -95,13 +95,13 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "18.4",
-    "Go": "17.3",
-    "JavaScript": "32.7",
-    "Rust": "5.1",
-    "Java": "21.4",
-    "PHP": "3.1",
+    "Python": "18.6",
+    "Go": "17.5",
+    "JavaScript": "33.0",
+    "Rust": "5.2",
+    "Java": "21.6",
     "CSharp": "1.0",
+    "PHP": "2.1",
     "Swift": "1.0"
   }
 }

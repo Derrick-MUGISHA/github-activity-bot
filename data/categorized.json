@@ -178,21 +178,6 @@
       "user": "Alessandro Bahgat"
     },
     {
-      "title": "Exploring Olympic Downhill Results with PHP Statistics",
-      "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
-      "published_at": "2026-02-20T20:57:54Z",
-      "description": "When Franjo von Allmen crossed the finish line in 111.61 seconds at the 2026 Olympic Downhill, he...",
-      "tags": [
-        "php",
-        "statistics",
-        "programming",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
-    },
-    {
       "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
       "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
       "published_at": "2026-02-18T14:00:30Z",
@@ -573,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 495,
       "user": "CraftyGeezer"
     },
     {
@@ -1039,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "dimartarmizi"
     },
     {
@@ -1054,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 228,
       "user": "khalildh"
     },
     {
@@ -1266,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 835,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1281,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 495,
       "user": "CraftyGeezer"
     },
     {
@@ -1729,7 +1714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "judsenb"
     }
   ],
@@ -1953,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "dimartarmizi"
     },
     {
@@ -1968,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 228,
       "user": "khalildh"
     },
     {
@@ -2013,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 835,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2028,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 495,
       "user": "CraftyGeezer"
     },
     {
@@ -2092,6 +2077,21 @@
       "user": "Gentleman-Programming"
     },
     {
+      "title": "Fox-Fig/phoenix - Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing.",
+      "url": "https://github.com/Fox-Fig/phoenix",
+      "published_at": "2026-02-18T01:17:32Z",
+      "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "Fox-Fig"
+    },
+    {
       "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
       "url": "https://github.com/jasperan/picooraclaw",
       "published_at": "2026-02-18T04:44:35Z",
@@ -2107,21 +2107,6 @@
       "user": "jasperan"
     },
     {
-      "title": "Fox-Fig/phoenix - Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing.",
-      "url": "https://github.com/Fox-Fig/phoenix",
-      "published_at": "2026-02-18T01:17:32Z",
-      "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "Fox-Fig"
-    },
-    {
       "title": "judsenb/GateKeeper - Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
       "url": "https://github.com/judsenb/GateKeeper",
       "published_at": "2026-02-19T10:07:31Z",
@@ -2133,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "judsenb"
     },
     {
@@ -2148,7 +2133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139905059?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "pixperk"
     }
   ]
