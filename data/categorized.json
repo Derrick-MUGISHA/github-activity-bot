@@ -372,6 +372,19 @@
       "user": "Astrodevil"
     },
     {
+      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
+      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
+      "published_at": "2026-02-08T07:00:00Z",
+      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
+      "tags": [
+        "aiassisteddevelopmen",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
+      "source": "Dev.to",
+      "user": "Stephan Miller"
+    },
+    {
       "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
       "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
       "published_at": "2026-02-17T12:42:44Z",
@@ -387,17 +400,19 @@
       "user": "NorthernDev"
     },
     {
-      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
-      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
-      "published_at": "2026-02-08T07:00:00Z",
-      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
+      "title": "Exploring Olympic Downhill Results with PHP Statistics",
+      "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
+      "published_at": "2026-02-20T20:57:54Z",
+      "description": "When Franjo von Allmen crossed the finish line in 111.61 seconds at the 2026 Olympic Downhill, he...",
       "tags": [
-        "aiassisteddevelopmen",
-        "vibecoding"
+        "php",
+        "statistics",
+        "programming",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
       "source": "Dev.to",
-      "user": "Stephan Miller"
+      "user": "Roberto B."
     },
     {
       "title": "Airfoil",
@@ -558,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 512,
       "user": "CraftyGeezer"
     },
     {
@@ -573,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "Pickle-Pixel"
     },
     {
@@ -588,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "badaramoni"
     },
     {
@@ -603,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "Gentleman-Programming"
     },
     {
@@ -1039,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "khalildh"
     },
     {
@@ -1251,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 839,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1266,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 512,
       "user": "CraftyGeezer"
     },
     {
@@ -1281,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "Pickle-Pixel"
     },
     {
@@ -1296,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "badaramoni"
     },
     {
@@ -1596,7 +1611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "Gentleman-Programming"
     },
     {
@@ -1953,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "khalildh"
     },
     {
@@ -1998,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 839,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2013,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 512,
       "user": "CraftyGeezer"
     },
     {
@@ -2028,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "Pickle-Pixel"
     },
     {
@@ -2043,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "badaramoni"
     },
     {
@@ -2073,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "Gentleman-Programming"
     },
     {
@@ -2088,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 105,
       "user": "Fox-Fig"
     },
     {
