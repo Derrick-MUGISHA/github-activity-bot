@@ -148,21 +148,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "The Ghost in the Training Set",
-      "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
-      "published_at": "2026-02-16T20:10:18Z",
-      "description": "During the last several weeks, I've run into setting up MCP servers a few times and noticed something...",
-      "tags": [
-        "ai",
-        "mcp",
-        "programming",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
-      "source": "Dev.to",
-      "user": "Alessandro Bahgat"
-    },
-    {
       "title": "The Meter Was Always Running",
       "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
       "published_at": "2026-02-20T17:57:37Z",
@@ -176,6 +161,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flc8fmxx7zlew87bk4jf9.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "The Ghost in the Training Set",
+      "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
+      "published_at": "2026-02-16T20:10:18Z",
+      "description": "During the last several weeks, I've run into setting up MCP servers a few times and noticed something...",
+      "tags": [
+        "ai",
+        "mcp",
+        "programming",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
+      "source": "Dev.to",
+      "user": "Alessandro Bahgat"
     },
     {
       "title": "Exploring Olympic Downhill Results with PHP Statistics",
@@ -558,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 476,
       "user": "CraftyGeezer"
     },
     {
@@ -573,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "Pickle-Pixel"
     },
     {
@@ -603,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 299,
       "user": "Gentleman-Programming"
     },
     {
@@ -1009,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "yeuxuan"
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "dimartarmizi"
     },
     {
@@ -1039,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 215,
       "user": "khalildh"
     },
     {
@@ -1251,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 823,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1266,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 476,
       "user": "CraftyGeezer"
     },
     {
@@ -1281,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "Pickle-Pixel"
     },
     {
@@ -1596,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 299,
       "user": "Gentleman-Programming"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "yeuxuan"
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "dimartarmizi"
     },
     {
@@ -1938,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 215,
       "user": "khalildh"
     },
     {
@@ -1983,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 823,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1998,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 476,
       "user": "CraftyGeezer"
     },
     {
@@ -2013,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "Pickle-Pixel"
     },
     {
@@ -2058,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 299,
       "user": "Gentleman-Programming"
     },
     {
@@ -2088,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "Fox-Fig"
     },
     {

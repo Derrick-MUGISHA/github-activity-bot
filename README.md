@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-22 8:00 CAT)
+## 📅 Latest Updates (2026-02-22 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Stacking Multiple Dialogs in React Without Hooks or Effects](https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 
-_Last automated update: Sun, 22 Feb 2026 08:28:12 CAT_
+_Last automated update: Sun, 22 Feb 2026 09:12:28 CAT_
 
 
 
@@ -237,25 +237,25 @@ Sliding window, hash map, two pointers
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Feb 2026 06:28:12 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Feb 2026 07:12:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
