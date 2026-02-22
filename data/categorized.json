@@ -61,19 +61,6 @@
       "user": "Landry Monga"
     },
     {
-      "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
-      "url": "https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8",
-      "published_at": "2026-02-20T21:45:30Z",
-      "description": "Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.",
-      "tags": [
-        "gitlab",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
-      "source": "Dev.to",
-      "user": "Romain Lespinasse"
-    },
-    {
       "title": "The Meter Was Always Running",
       "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
       "published_at": "2026-02-20T17:57:37Z",
@@ -87,6 +74,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flc8fmxx7zlew87bk4jf9.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
+      "url": "https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8",
+      "published_at": "2026-02-20T21:45:30Z",
+      "description": "Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.",
+      "tags": [
+        "gitlab",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
+      "source": "Dev.to",
+      "user": "Romain Lespinasse"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -528,7 +528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "vikasprogrammer"
     },
     {
@@ -543,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 563,
       "user": "CraftyGeezer"
     },
     {
@@ -558,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 333,
       "user": "Pickle-Pixel"
     },
     {
@@ -573,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 267,
       "user": "badaramoni"
     },
     {
@@ -588,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "Gentleman-Programming"
     },
     {
@@ -603,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 101,
       "user": "jasperan"
     }
   ],
@@ -994,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "yeuxuan"
     },
     {
@@ -1009,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 248,
       "user": "dimartarmizi"
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 239,
       "user": "khalildh"
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "vikasprogrammer"
     }
   ],
@@ -1236,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 866,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1251,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 563,
       "user": "CraftyGeezer"
     },
     {
@@ -1266,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 333,
       "user": "Pickle-Pixel"
     },
     {
@@ -1281,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 267,
       "user": "badaramoni"
     },
     {
@@ -1581,7 +1581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "Gentleman-Programming"
     },
     {
@@ -1596,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 101,
       "user": "jasperan"
     }
   ],
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "yeuxuan"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 248,
       "user": "dimartarmizi"
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 239,
       "user": "khalildh"
     },
     {
@@ -1953,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "vikasprogrammer"
     },
     {
@@ -1968,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 866,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1983,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 563,
       "user": "CraftyGeezer"
     },
     {
@@ -1998,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 333,
       "user": "Pickle-Pixel"
     },
     {
@@ -2013,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 267,
       "user": "badaramoni"
     },
     {
@@ -2043,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "Gentleman-Programming"
     },
     {
@@ -2058,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 113,
       "user": "Fox-Fig"
     },
     {
@@ -2073,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 101,
       "user": "jasperan"
     },
     {
