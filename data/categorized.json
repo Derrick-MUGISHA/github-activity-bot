@@ -118,21 +118,6 @@
       "user": "Chukwuemeka Maduekwe"
     },
     {
-      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
-      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
-      "published_at": "2026-02-18T14:10:39Z",
-      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
-      "tags": [
-        "writing",
-        "ai",
-        "watercooler",
-        "nanobanana"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
       "title": "The Meter Was Always Running",
       "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
       "published_at": "2026-02-20T17:57:37Z",
@@ -146,6 +131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flc8fmxx7zlew87bk4jf9.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
+      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
+      "published_at": "2026-02-18T14:10:39Z",
+      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
+      "tags": [
+        "writing",
+        "ai",
+        "watercooler",
+        "nanobanana"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "What Do You Want to Know About Antigravity?",
@@ -573,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 532,
       "user": "CraftyGeezer"
     },
     {
@@ -588,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "Pickle-Pixel"
     },
     {
@@ -603,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 263,
       "user": "badaramoni"
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "yeuxuan"
     },
     {
@@ -1039,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 245,
       "user": "dimartarmizi"
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "khalildh"
     },
     {
@@ -1266,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 853,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1281,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 532,
       "user": "CraftyGeezer"
     },
     {
@@ -1296,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "Pickle-Pixel"
     },
     {
@@ -1311,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 263,
       "user": "badaramoni"
     },
     {
@@ -1938,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "yeuxuan"
     },
     {
@@ -1953,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 245,
       "user": "dimartarmizi"
     },
     {
@@ -1968,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "khalildh"
     },
     {
@@ -2013,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 853,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2028,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 532,
       "user": "CraftyGeezer"
     },
     {
@@ -2043,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "Pickle-Pixel"
     },
     {
@@ -2058,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 263,
       "user": "badaramoni"
     },
     {
@@ -2103,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "Fox-Fig"
     },
     {
