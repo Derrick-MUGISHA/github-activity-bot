@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-22 21:00 CAT)
+## 📅 Latest Updates (2026-02-22 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Hexagonal Architecture in Angular - A Practical, Minimal Use Case](https://dev.to/nugetchar/hexagonal-architecture-in-angular-a-practical-minimal-use-case-3og5) _[Dev.to]_
 - [Building a Gmail/Outlook email preview component for Vue](https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk) _[Dev.to]_
 
-_Last automated update: Sun, 22 Feb 2026 21:54:23 CAT_
+_Last automated update: Sun, 22 Feb 2026 22:22:03 CAT_
 
 
 
@@ -226,29 +226,18 @@ _Last automated update: Sun, 22 Feb 2026 21:54:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Fan-out, caching, ranking, real-time updates
-
-</details>
-
-### 2. Python: Explain decorators in Python with an example
-
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 2. Java: What is the difference between abstract class and interface?
 
 **Difficulty**: Easy | **Topics**: OOP, design
 
@@ -256,6 +245,17 @@ Function wrappers, @syntax, practical uses
 <summary>💡 Hint</summary>
 
 Multiple inheritance, method implementation, use cases
+
+</details>
+
+### 3. Python: What is the difference between list and tuple in Python?
+
+**Difficulty**: Easy | **Topics**: data structures, mutability
+
+<details>
+<summary>💡 Hint</summary>
+
+Mutability, performance, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Feb 2026 19:54:23 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Feb 2026 20:22:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
