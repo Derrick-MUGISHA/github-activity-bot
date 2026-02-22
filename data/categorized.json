@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
-      "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
-      "published_at": "2026-02-21T20:34:35Z",
-      "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
-      "tags": [
-        "gemini",
-        "robotics",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyasadcixczr1lhgi41t.jpeg",
-      "source": "Dev.to",
-      "user": "Paul Ruiz"
-    },
-    {
       "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
       "url": "https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h",
       "published_at": "2026-02-19T20:34:23Z",
@@ -131,6 +116,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhrzrl0hbkqlkf65e0t1f.png",
       "source": "Dev.to",
       "user": "smakosh"
+    },
+    {
+      "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
+      "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
+      "published_at": "2026-02-21T20:34:35Z",
+      "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
+      "tags": [
+        "gemini",
+        "robotics",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyasadcixczr1lhgi41t.jpeg",
+      "source": "Dev.to",
+      "user": "Paul Ruiz"
     },
     {
       "title": "The Ghost in the Training Set",
@@ -588,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 648,
       "user": "CraftyGeezer"
     },
     {
@@ -618,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "badaramoni"
     },
     {
@@ -633,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 342,
       "user": "Gentleman-Programming"
     },
     {
@@ -648,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 108,
       "user": "jasperan"
     }
   ],
@@ -1090,21 +1090,6 @@
   ],
   "Python": [
     {
-      "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
-      "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
-      "published_at": "2026-02-21T20:34:35Z",
-      "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
-      "tags": [
-        "gemini",
-        "robotics",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyasadcixczr1lhgi41t.jpeg",
-      "source": "Dev.to",
-      "user": "Paul Ruiz"
-    },
-    {
       "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
       "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
       "published_at": "2026-02-19T03:23:34Z",
@@ -1118,6 +1103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
       "source": "Dev.to",
       "user": "Maame Afua A. P. Fordjour "
+    },
+    {
+      "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
+      "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
+      "published_at": "2026-02-21T20:34:35Z",
+      "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
+      "tags": [
+        "gemini",
+        "robotics",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyasadcixczr1lhgi41t.jpeg",
+      "source": "Dev.to",
+      "user": "Paul Ruiz"
     },
     {
       "title": "I built an API that detects chess tactical patterns from FEN and PGN",
@@ -1281,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1022,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1296,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 648,
       "user": "CraftyGeezer"
     },
     {
@@ -1311,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 402,
       "user": "olvvier"
     },
     {
@@ -1341,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "badaramoni"
     }
   ],
@@ -1612,7 +1612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 342,
       "user": "Gentleman-Programming"
     },
     {
@@ -1627,7 +1627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 108,
       "user": "jasperan"
     }
   ],
@@ -1999,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1022,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2014,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 648,
       "user": "CraftyGeezer"
     },
     {
@@ -2029,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 402,
       "user": "olvvier"
     },
     {
@@ -2059,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "badaramoni"
     },
     {
@@ -2074,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 342,
       "user": "Gentleman-Programming"
     },
     {
@@ -2104,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 108,
       "user": "jasperan"
     },
     {
