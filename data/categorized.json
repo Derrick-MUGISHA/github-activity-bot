@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
+      "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
+      "published_at": "2026-02-21T20:34:35Z",
+      "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
+      "tags": [
+        "gemini",
+        "robotics",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyasadcixczr1lhgi41t.jpeg",
+      "source": "Dev.to",
+      "user": "Paul Ruiz"
+    },
+    {
       "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
       "url": "https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h",
       "published_at": "2026-02-19T20:34:23Z",
@@ -558,23 +573,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "vikasprogrammer"
-    },
-    {
-      "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "url": "https://github.com/HKUDS/ClawWork",
-      "published_at": "2026-02-15T16:41:38Z",
-      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 4843,
-      "user": "HKUDS"
     },
     {
       "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
@@ -588,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 396,
       "user": "CraftyGeezer"
     },
     {
@@ -603,23 +603,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "Pickle-Pixel"
     },
     {
-      "title": "klawsh/klaw.sh - kubectl for AI Agents",
-      "url": "https://github.com/klawsh/klaw.sh",
-      "published_at": "2026-02-15T04:18:19Z",
-      "description": "kubectl for AI Agents",
+      "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "url": "https://github.com/badaramoni/wave-field-llm",
+      "published_at": "2026-02-18T17:45:54Z",
+      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 519,
-      "user": "klawsh"
+      "stars": 240,
+      "user": "badaramoni"
     },
     {
       "title": "Gentleman-Programming/engram - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
@@ -633,8 +633,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 284,
       "user": "Gentleman-Programming"
+    },
+    {
+      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
+      "url": "https://github.com/jasperan/picooraclaw",
+      "published_at": "2026-02-18T04:44:35Z",
+      "description": "PicoClaw that works with Oracle AI Database",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "jasperan"
     }
   ],
   "JavaScript": [
@@ -712,21 +727,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
       "source": "Dev.to",
       "user": "Aoife Shannon"
-    },
-    {
-      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
-      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
-      "published_at": "2026-02-15T10:27:55Z",
-      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
-      "tags": [
-        "cloudflare",
-        "webdev",
-        "javascript",
-        "satori"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
-      "source": "Dev.to",
-      "user": "DeVoresyah ArEst"
     },
     {
       "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
@@ -1039,8 +1039,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "dimartarmizi"
+    },
+    {
+      "title": "khalildh/garment-notation - GitHub Repository",
+      "url": "https://github.com/khalildh/garment-notation",
+      "published_at": "2026-02-17T06:50:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
+      "source": "GitHub",
+      "stars": 183,
+      "user": "khalildh"
     },
     {
       "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
@@ -1058,21 +1073,6 @@
       "user": "andyhuo520"
     },
     {
-      "title": "khalildh/garment-notation - GitHub Repository",
-      "url": "https://github.com/khalildh/garment-notation",
-      "published_at": "2026-02-17T06:50:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
-      "source": "GitHub",
-      "stars": 174,
-      "user": "khalildh"
-    },
-    {
       "title": "vikasprogrammer/walkie - P2P communication for AI agents. No server. No setup. Just talk.",
       "url": "https://github.com/vikasprogrammer/walkie",
       "published_at": "2026-02-19T14:57:30Z",
@@ -1084,11 +1084,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "vikasprogrammer"
     }
   ],
   "Python": [
+    {
+      "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
+      "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
+      "published_at": "2026-02-21T20:34:35Z",
+      "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
+      "tags": [
+        "gemini",
+        "robotics",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyasadcixczr1lhgi41t.jpeg",
+      "source": "Dev.to",
+      "user": "Paul Ruiz"
+    },
     {
       "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
       "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
@@ -1240,21 +1255,6 @@
       "user": "gilad"
     },
     {
-      "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "url": "https://github.com/HKUDS/ClawWork",
-      "published_at": "2026-02-15T16:41:38Z",
-      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 4843,
-      "user": "HKUDS"
-    },
-    {
       "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "published_at": "2026-02-20T01:04:23Z",
@@ -1266,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 799,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1281,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 396,
       "user": "CraftyGeezer"
     },
     {
@@ -1296,23 +1296,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "Pickle-Pixel"
     },
     {
-      "title": "brendanhogan/hermitclaw - GitHub Repository",
-      "url": "https://github.com/brendanhogan/hermitclaw",
-      "published_at": "2026-02-15T21:54:01Z",
-      "description": "Trending GitHub Repository",
+      "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "url": "https://github.com/badaramoni/wave-field-llm",
+      "published_at": "2026-02-18T17:45:54Z",
+      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78052016?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 251,
-      "user": "brendanhogan"
+      "stars": 240,
+      "user": "badaramoni"
+    },
+    {
+      "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+      "published_at": "2026-02-19T04:37:47Z",
+      "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
+      "source": "GitHub",
+      "stars": 206,
+      "user": "olvvier"
     }
   ],
   "DevOps": [
@@ -1500,21 +1515,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
-      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
-      "published_at": "2026-02-15T10:27:55Z",
-      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
-      "tags": [
-        "cloudflare",
-        "webdev",
-        "javascript",
-        "satori"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
-      "source": "Dev.to",
-      "user": "DeVoresyah ArEst"
-    },
-    {
       "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
       "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
       "published_at": "2026-02-17T23:56:55Z",
@@ -1554,21 +1554,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "JustExAWS"
-    },
-    {
-      "title": "klawsh/klaw.sh - kubectl for AI Agents",
-      "url": "https://github.com/klawsh/klaw.sh",
-      "published_at": "2026-02-15T04:18:19Z",
-      "description": "kubectl for AI Agents",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
-      "source": "GitHub",
-      "stars": 519,
-      "user": "klawsh"
     }
   ],
   "Database": [
@@ -1611,8 +1596,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 284,
       "user": "Gentleman-Programming"
+    },
+    {
+      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
+      "url": "https://github.com/jasperan/picooraclaw",
+      "published_at": "2026-02-18T04:44:35Z",
+      "description": "PicoClaw that works with Oracle AI Database",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "jasperan"
     }
   ],
   "Security": [
@@ -1688,19 +1688,19 @@
       "user": "iancarroll"
     },
     {
-      "title": "Eljakani/ward - Security scanner built for Laravel, detects misconfigurations, vulnerabilities, and exposed secrets with a beautiful TUI.",
-      "url": "https://github.com/Eljakani/ward",
-      "published_at": "2026-02-15T19:29:42Z",
-      "description": "Security scanner built for Laravel, detects misconfigurations, vulnerabilities, and exposed secrets with a beautiful TUI.",
+      "title": "judsenb/GateKeeper - Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
+      "url": "https://github.com/judsenb/GateKeeper",
+      "published_at": "2026-02-19T10:07:31Z",
+      "description": "Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
       "source": "GitHub",
-      "stars": 98,
-      "user": "Eljakani"
+      "stars": 54,
+      "user": "judsenb"
     }
   ],
   "Tools": [
@@ -1908,8 +1908,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "dimartarmizi"
+    },
+    {
+      "title": "khalildh/garment-notation - GitHub Repository",
+      "url": "https://github.com/khalildh/garment-notation",
+      "published_at": "2026-02-17T06:50:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
+      "source": "GitHub",
+      "stars": 183,
+      "user": "khalildh"
     },
     {
       "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
@@ -1927,21 +1942,6 @@
       "user": "andyhuo520"
     },
     {
-      "title": "khalildh/garment-notation - GitHub Repository",
-      "url": "https://github.com/khalildh/garment-notation",
-      "published_at": "2026-02-17T06:50:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
-      "source": "GitHub",
-      "stars": 174,
-      "user": "khalildh"
-    },
-    {
       "title": "vikasprogrammer/walkie - P2P communication for AI agents. No server. No setup. Just talk.",
       "url": "https://github.com/vikasprogrammer/walkie",
       "published_at": "2026-02-19T14:57:30Z",
@@ -1953,23 +1953,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "vikasprogrammer"
-    },
-    {
-      "title": "HKUDS/ClawWork - \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "url": "https://github.com/HKUDS/ClawWork",
-      "published_at": "2026-02-15T16:41:38Z",
-      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 4843,
-      "user": "HKUDS"
     },
     {
       "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
@@ -1983,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 799,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1998,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 396,
       "user": "CraftyGeezer"
     },
     {
@@ -2013,53 +1998,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "Pickle-Pixel"
     },
     {
-      "title": "brendanhogan/hermitclaw - GitHub Repository",
-      "url": "https://github.com/brendanhogan/hermitclaw",
-      "published_at": "2026-02-15T21:54:01Z",
-      "description": "Trending GitHub Repository",
+      "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "url": "https://github.com/badaramoni/wave-field-llm",
+      "published_at": "2026-02-18T17:45:54Z",
+      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78052016?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 251,
-      "user": "brendanhogan"
+      "stars": 240,
+      "user": "badaramoni"
     },
     {
-      "title": "pinchtab/pinchtab - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
-      "url": "https://github.com/pinchtab/pinchtab",
-      "published_at": "2026-02-15T11:12:33Z",
-      "description": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
+      "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+      "published_at": "2026-02-19T04:37:47Z",
+      "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/261754368?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 1083,
-      "user": "pinchtab"
-    },
-    {
-      "title": "klawsh/klaw.sh - kubectl for AI Agents",
-      "url": "https://github.com/klawsh/klaw.sh",
-      "published_at": "2026-02-15T04:18:19Z",
-      "description": "kubectl for AI Agents",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/261694247?v=4",
-      "source": "GitHub",
-      "stars": 519,
-      "user": "klawsh"
+      "stars": 206,
+      "user": "olvvier"
     },
     {
       "title": "Gentleman-Programming/engram - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
@@ -2073,23 +2043,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 284,
       "user": "Gentleman-Programming"
-    },
-    {
-      "title": "Eljakani/ward - Security scanner built for Laravel, detects misconfigurations, vulnerabilities, and exposed secrets with a beautiful TUI.",
-      "url": "https://github.com/Eljakani/ward",
-      "published_at": "2026-02-15T19:29:42Z",
-      "description": "Security scanner built for Laravel, detects misconfigurations, vulnerabilities, and exposed secrets with a beautiful TUI.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/59035087?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "Eljakani"
     },
     {
       "title": "Fox-Fig/phoenix - Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing.",
@@ -2103,8 +2058,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "Fox-Fig"
+    },
+    {
+      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
+      "url": "https://github.com/jasperan/picooraclaw",
+      "published_at": "2026-02-18T04:44:35Z",
+      "description": "PicoClaw that works with Oracle AI Database",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "jasperan"
+    },
+    {
+      "title": "judsenb/GateKeeper - Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
+      "url": "https://github.com/judsenb/GateKeeper",
+      "published_at": "2026-02-19T10:07:31Z",
+      "description": "Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "judsenb"
+    },
+    {
+      "title": "pixperk/plethora - GitHub Repository",
+      "url": "https://github.com/pixperk/plethora",
+      "published_at": "2026-02-17T05:13:27Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139905059?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "pixperk"
     }
   ]
 }
