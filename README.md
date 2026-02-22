@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-22 18:00 CAT)
+## 📅 Latest Updates (2026-02-22 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
 
-_Last automated update: Sun, 22 Feb 2026 18:34:00 CAT_
+_Last automated update: Sun, 22 Feb 2026 19:01:28 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 22 Feb 2026 18:34:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Feb 2026 16:34:01 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Feb 2026 17:01:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
