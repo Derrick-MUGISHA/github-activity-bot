@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-22 7:00 CAT)
+## 📅 Latest Updates (2026-02-22 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Stacking Multiple Dialogs in React Without Hooks or Effects](https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 
-_Last automated update: Sun, 22 Feb 2026 07:30:57 CAT_
+_Last automated update: Sun, 22 Feb 2026 08:28:12 CAT_
 
 
 
@@ -226,14 +226,14 @@ _Last automated update: Sun, 22 Feb 2026 07:30:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -248,14 +248,14 @@ Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Feb 2026 05:30:57 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Feb 2026 06:28:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
