@@ -415,6 +415,21 @@
       "user": "Yash Panchal"
     },
     {
+      "title": "Software engineering isn't dead",
+      "url": "https://dev.to/dang-w/software-engineering-isnt-dead-ehn",
+      "published_at": "2026-02-06T18:41:30Z",
+      "description": "Doom   People love defaulting to doom and gloom. I get it. I've been there, it used to be my...",
+      "tags": [
+        "ai",
+        "thoughts",
+        "softwareengineering",
+        "future"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn8wcidwuleas7o8ygq1.png",
+      "source": "Dev.to",
+      "user": "Dan Walsh"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -558,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "vikasprogrammer"
     },
     {
@@ -573,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 622,
       "user": "CraftyGeezer"
     },
     {
@@ -603,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "badaramoni"
     },
     {
@@ -618,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 325,
       "user": "Gentleman-Programming"
     },
     {
@@ -741,21 +756,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
-    },
-    {
-      "title": "Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)",
-      "url": "https://dev.to/shofol/adding-web-analytics-on-vercel-is-easier-than-ever-free-built-in-57bl",
-      "published_at": "2026-02-17T04:42:56Z",
-      "description": "Did you know that Vercel provides built-in web analytics that you can use even on the free plan?  In...",
-      "tags": [
-        "vercel",
-        "nextjs",
-        "analytics",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlc2fw3533schl5jn6au.png",
-      "source": "Dev.to",
-      "user": "Anower Jahan Shofol"
     },
     {
       "title": "Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2",
@@ -1009,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 268,
       "user": "khalildh"
     },
     {
@@ -1039,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 258,
       "user": "dimartarmizi"
     },
     {
@@ -1069,7 +1069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "vikasprogrammer"
     }
   ],
@@ -1266,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 938,
+      "stars": 946,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1281,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 622,
       "user": "CraftyGeezer"
     },
     {
@@ -1311,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 324,
       "user": "olvvier"
     },
     {
@@ -1326,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "badaramoni"
     }
   ],
@@ -1530,20 +1530,6 @@
       "user": "suin"
     },
     {
-      "title": "The hosting setup nobody talks about anymore",
-      "url": "https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528",
-      "published_at": "2026-02-20T00:15:40Z",
-      "description": "Ever had this problem?   You're building something real, real-time features, background workers, cron...",
-      "tags": [
-        "aws",
-        "webhost",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62n86s58xdso8eyzg2es.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
-    {
       "title": "What Do You Want to Know About Antigravity?",
       "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
       "published_at": "2026-02-20T20:45:03Z",
@@ -1611,7 +1597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 325,
       "user": "Gentleman-Programming"
     },
     {
@@ -1729,7 +1715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 58,
       "user": "judsenb"
     }
   ],
@@ -1923,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 268,
       "user": "khalildh"
     },
     {
@@ -1953,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 258,
       "user": "dimartarmizi"
     },
     {
@@ -1983,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "vikasprogrammer"
     },
     {
@@ -1998,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 938,
+      "stars": 946,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2013,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 622,
       "user": "CraftyGeezer"
     },
     {
@@ -2043,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 324,
       "user": "olvvier"
     },
     {
@@ -2058,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "badaramoni"
     },
     {
@@ -2073,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 325,
       "user": "Gentleman-Programming"
     },
     {
@@ -2107,6 +2093,21 @@
       "user": "jasperan"
     },
     {
+      "title": "judsenb/GateKeeper - Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
+      "url": "https://github.com/judsenb/GateKeeper",
+      "published_at": "2026-02-19T10:07:31Z",
+      "description": "Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "judsenb"
+    },
+    {
       "title": "pixperk/plethora - GitHub Repository",
       "url": "https://github.com/pixperk/plethora",
       "published_at": "2026-02-17T05:13:27Z",
@@ -2120,21 +2121,6 @@
       "source": "GitHub",
       "stars": 58,
       "user": "pixperk"
-    },
-    {
-      "title": "judsenb/GateKeeper - Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
-      "url": "https://github.com/judsenb/GateKeeper",
-      "published_at": "2026-02-19T10:07:31Z",
-      "description": "Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11700204?v=4",
-      "source": "GitHub",
-      "stars": 57,
-      "user": "judsenb"
     }
   ]
 }
