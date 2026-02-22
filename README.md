@@ -208,9 +208,9 @@ npm run test
 - [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki) _[Dev.to]_
 - [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
 - [I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup](https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4) _[Dev.to]_
+- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
 - [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg) _[Dev.to]_
 - [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo) _[Dev.to]_
-- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
 - [Making Scrollable Code Blocks Accessible](https://dev.to/th3s4mur41/making-scrollable-code-blocks-accessible-3i0o) _[Dev.to]_
 - [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1) _[Dev.to]_
 - [If Writing still Matters, How to Do it Right and Avoid AI Suspicion?](https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Stacking Multiple Dialogs in React Without Hooks or Effects](https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj) _[Dev.to]_
 - [Getting Started with LLM Gateway in 5 Minutes](https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p) _[Dev.to]_
 
-_Last automated update: Sun, 22 Feb 2026 13:43:53 CAT_
+_Last automated update: Sun, 22 Feb 2026 13:56:30 CAT_
 
 
 
@@ -226,18 +226,7 @@ _Last automated update: Sun, 22 Feb 2026 13:43:53 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
-
-**Difficulty**: Hard | **Topics**: arrays, binary search
-
-<details>
-<summary>💡 Hint</summary>
-
-Binary search, partition, time complexity O(log(min(m,n)))
-
-</details>
-
-### 2. JavaScript: Explain event delegation and why it's useful
+### 1. JavaScript: Explain event delegation and why it's useful
 
 **Difficulty**: Medium | **Topics**: events, DOM
 
@@ -248,14 +237,25 @@ Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Sliding window, hash map, two pointers
+
+</details>
+
+### 3. DataStructures: Find the longest substring without repeating characters
+
+**Difficulty**: Medium | **Topics**: strings, sliding window
+
+<details>
+<summary>💡 Hint</summary>
+
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Feb 2026 11:43:53 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Feb 2026 11:56:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
