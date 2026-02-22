@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-23 0:00 CAT)
+## 📅 Latest Updates (2026-02-23 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Hexagonal Architecture in Angular - A Practical, Minimal Use Case](https://dev.to/nugetchar/hexagonal-architecture-in-angular-a-practical-minimal-use-case-3og5) _[Dev.to]_
 - [Building a Gmail/Outlook email preview component for Vue](https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk) _[Dev.to]_
 
-_Last automated update: Mon, 23 Feb 2026 00:50:06 CAT_
+_Last automated update: Mon, 23 Feb 2026 01:21:45 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 23 Feb 2026 00:50:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Feb 2026 22:50:06 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Feb 2026 23:21:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
