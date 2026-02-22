@@ -357,21 +357,6 @@
       "user": "Natnael Getenew"
     },
     {
-      "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
-      "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
-      "published_at": "2026-02-19T18:28:58Z",
-      "description": "Introduction   OpenClaw, originally called ClawdBot, is trending everywhere. People are...",
-      "tags": [
-        "ai",
-        "productivity",
-        "opensource",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F040m7nfxxy8m9kq8kd82.webp",
-      "source": "Dev.to",
-      "user": "Astrodevil"
-    },
-    {
       "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
       "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
       "published_at": "2026-02-08T07:00:00Z",
@@ -383,6 +368,66 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
       "source": "Dev.to",
       "user": "Stephan Miller"
+    },
+    {
+      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
+      "published_at": "2026-02-17T12:42:44Z",
+      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
+      "tags": [
+        "softwareengineering",
+        "career",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
+      "source": "Dev.to",
+      "user": "NorthernDev"
+    },
+    {
+      "title": "Exploring Olympic Downhill Results with PHP Statistics",
+      "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
+      "published_at": "2026-02-20T20:57:54Z",
+      "description": "When Franjo von Allmen crossed the finish line in 111.61 seconds at the 2026 Olympic Downhill, he...",
+      "tags": [
+        "php",
+        "statistics",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
+    },
+    {
+      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
+      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
+      "published_at": "2026-02-10T15:04:38Z",
+      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
+      "tags": [
+        "voice",
+        "ai",
+        "python",
+        "smallestai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
+      "source": "Dev.to",
+      "user": "Abhishek Mishra"
+    },
+    {
+      "title": "Beyond nvidia-smi part — 1",
+      "url": "https://dev.to/panchalhimself/beyond-nvidia-smi-part-1-26le",
+      "published_at": "2026-02-19T18:02:43Z",
+      "description": "Common pitfalls and methods to measure GPU efficiency.   This will be a two part series...",
+      "tags": [
+        "gpu",
+        "ai",
+        "performance",
+        "monitoring"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzewjxuvz9guaszmrukz.png",
+      "source": "Dev.to",
+      "user": "Yash Panchal"
     },
     {
       "title": "Airfoil",
@@ -543,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 603,
       "user": "CraftyGeezer"
     },
     {
@@ -558,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "Pickle-Pixel"
     },
     {
@@ -573,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "badaramoni"
     },
     {
@@ -588,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "Gentleman-Programming"
     },
     {
@@ -968,6 +1013,21 @@
       "user": "velmu"
     },
     {
+      "title": "khalildh/garment-notation - GitHub Repository",
+      "url": "https://github.com/khalildh/garment-notation",
+      "published_at": "2026-02-17T06:50:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "khalildh"
+    },
+    {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
       "url": "https://github.com/yeuxuan/openclaw-docs",
       "published_at": "2026-02-19T02:30:39Z",
@@ -979,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 257,
       "user": "yeuxuan"
     },
     {
@@ -996,21 +1056,6 @@
       "source": "GitHub",
       "stars": 254,
       "user": "dimartarmizi"
-    },
-    {
-      "title": "khalildh/garment-notation - GitHub Repository",
-      "url": "https://github.com/khalildh/garment-notation",
-      "published_at": "2026-02-17T06:50:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
-      "source": "GitHub",
-      "stars": 253,
-      "user": "khalildh"
     },
     {
       "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
@@ -1088,6 +1133,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft4ja9mpsntwunxayu2gx.png",
       "source": "Dev.to",
       "user": "stevejvv"
+    },
+    {
+      "title": "Build Voice AI in Python: Complete Speech-to-Text Developer Guide (2026)",
+      "url": "https://dev.to/stalwartcoder/build-voice-ai-in-python-complete-speech-to-text-developer-guide-2026-1oe2",
+      "published_at": "2026-02-10T15:04:38Z",
+      "description": "TL;DR – Quick Integration Overview   API Platform: Pulse STT by Smallest AI – a...",
+      "tags": [
+        "voice",
+        "ai",
+        "python",
+        "smallestai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvd5eupakuwrlctfkont.png",
+      "source": "Dev.to",
+      "user": "Abhishek Mishra"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1221,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 920,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1236,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 603,
       "user": "CraftyGeezer"
     },
     {
@@ -1251,23 +1311,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "Pickle-Pixel"
-    },
-    {
-      "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
-      "url": "https://github.com/badaramoni/wave-field-llm",
-      "published_at": "2026-02-18T17:45:54Z",
-      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
-      "source": "GitHub",
-      "stars": 272,
-      "user": "badaramoni"
     },
     {
       "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
@@ -1281,8 +1326,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 285,
       "user": "olvvier"
+    },
+    {
+      "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "url": "https://github.com/badaramoni/wave-field-llm",
+      "published_at": "2026-02-18T17:45:54Z",
+      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
+      "source": "GitHub",
+      "stars": 273,
+      "user": "badaramoni"
     }
   ],
   "DevOps": [
@@ -1566,7 +1626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "Gentleman-Programming"
     },
     {
@@ -1852,19 +1912,34 @@
       "user": "Manuel Weiss"
     },
     {
-      "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
-      "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
-      "published_at": "2026-02-19T18:28:58Z",
-      "description": "Introduction   OpenClaw, originally called ClawdBot, is trending everywhere. People are...",
+      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
+      "published_at": "2026-02-17T12:42:44Z",
+      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
       "tags": [
-        "ai",
+        "softwareengineering",
+        "career",
         "productivity",
-        "opensource",
-        "programming"
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F040m7nfxxy8m9kq8kd82.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
       "source": "Dev.to",
-      "user": "Astrodevil"
+      "user": "NorthernDev"
+    },
+    {
+      "title": "khalildh/garment-notation - GitHub Repository",
+      "url": "https://github.com/khalildh/garment-notation",
+      "published_at": "2026-02-17T06:50:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "khalildh"
     },
     {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
@@ -1878,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 257,
       "user": "yeuxuan"
     },
     {
@@ -1895,21 +1970,6 @@
       "source": "GitHub",
       "stars": 254,
       "user": "dimartarmizi"
-    },
-    {
-      "title": "khalildh/garment-notation - GitHub Repository",
-      "url": "https://github.com/khalildh/garment-notation",
-      "published_at": "2026-02-17T06:50:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
-      "source": "GitHub",
-      "stars": 253,
-      "user": "khalildh"
     },
     {
       "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
@@ -1953,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 920,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1968,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 603,
       "user": "CraftyGeezer"
     },
     {
@@ -1983,23 +2043,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "Pickle-Pixel"
-    },
-    {
-      "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
-      "url": "https://github.com/badaramoni/wave-field-llm",
-      "published_at": "2026-02-18T17:45:54Z",
-      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
-      "source": "GitHub",
-      "stars": 272,
-      "user": "badaramoni"
     },
     {
       "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
@@ -2013,8 +2058,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 285,
       "user": "olvvier"
+    },
+    {
+      "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "url": "https://github.com/badaramoni/wave-field-llm",
+      "published_at": "2026-02-18T17:45:54Z",
+      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
+      "source": "GitHub",
+      "stars": 273,
+      "user": "badaramoni"
     },
     {
       "title": "Gentleman-Programming/engram - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
@@ -2028,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "Gentleman-Programming"
     },
     {
@@ -2062,6 +2122,21 @@
       "user": "jasperan"
     },
     {
+      "title": "pixperk/plethora - GitHub Repository",
+      "url": "https://github.com/pixperk/plethora",
+      "published_at": "2026-02-17T05:13:27Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139905059?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "pixperk"
+    },
+    {
       "title": "judsenb/GateKeeper - Self-hosted SSH access gateway in Go with OIDC/LDAP auth, RBAC, MFA, session recording, audit export, encryption at rest, IP rules, and policy enforcement.",
       "url": "https://github.com/judsenb/GateKeeper",
       "published_at": "2026-02-19T10:07:31Z",
@@ -2075,21 +2150,6 @@
       "source": "GitHub",
       "stars": 57,
       "user": "judsenb"
-    },
-    {
-      "title": "pixperk/plethora - GitHub Repository",
-      "url": "https://github.com/pixperk/plethora",
-      "published_at": "2026-02-17T05:13:27Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139905059?v=4",
-      "source": "GitHub",
-      "stars": 57,
-      "user": "pixperk"
     }
   ]
 }
