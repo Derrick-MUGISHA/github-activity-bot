@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-22-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (43.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (30.4%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.6%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Security**: 🟦🟦🟦 7 (6.9%)
+**Cloud**: 🟦🟦🟦 7 (6.7%)
 
-**Cloud**: 🟦🟦🟦 6 (5.9%)
+**Security**: 🟦🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦🟦 4 (3.9%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦🟦 4 (3.9%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
-**Database**: 🟦🟦 4 (3.9%)
+**Database**: 🟦🟦 4 (3.8%)
 
 **Mobile**:  1 (1.0%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 57 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 32.3 (32.3%)
-Java            ███████████████████ 20.8 (20.8%)
-Python          ██████████████████ 19.8 (19.8%)
-Go              ████████████████ 16.7 (16.7%)
+JavaScript      ██████████████████████████████ 32.0 (32.0%)
+Java            ███████████████████ 20.6 (20.6%)
+Python          ██████████████████ 19.6 (19.6%)
+Go              ████████████████ 17.5 (17.5%)
 Rust            █████ 5.2 (5.2%)
 PHP             ███ 3.1 (3.1%)
 CSharp          █ 1.0 (1.0%)
@@ -76,7 +76,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 31
     "Java" : 20
     "Python" : 19
-    "Go" : 16
+    "Go" : 17
     "Rust" : 5
     "PHP" : 3
     "CSharp" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-16-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![showdev](https://img.shields.io/badge/showdev-4-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-4-blue) 
 
 
 
@@ -218,7 +218,7 @@ npm run test
 - [The Future of Software Has a Lot More Builders. They’re Going to Need a Home.](https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65) _[Dev.to]_
 - [Hexagonal Architecture in Angular - A Practical, Minimal Use Case](https://dev.to/nugetchar/hexagonal-architecture-in-angular-a-practical-minimal-use-case-3og5) _[Dev.to]_
 
-_Last automated update: Sun, 22 Feb 2026 19:40:51 CAT_
+_Last automated update: Sun, 22 Feb 2026 19:57:49 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 22 Feb 2026 19:40:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Heap, stack, garbage collection
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Feb 2026 17:40:51 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Feb 2026 17:57:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

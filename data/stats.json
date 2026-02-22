@@ -1,25 +1,25 @@
 {
-  "total": 102,
+  "total": 105,
   "by_source": {
-    "Dev.to": 57,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 44,
+    "AI": 45,
     "JavaScript": 31,
     "Python": 19,
     "DevOps": 4,
     "WebDev": 4,
     "Mobile": 1,
-    "Cloud": 6,
+    "Cloud": 7,
     "Database": 4,
     "Security": 7,
     "Tools": 27
   },
   "by_language": {
     "Python": 19,
-    "Go": 16,
+    "Go": 17,
     "JavaScript": 31,
     "Rust": 5,
     "CSharp": 1,
@@ -29,9 +29,9 @@
   },
   "by_date": {
     "2026-02-22": 1,
-    "2026-02-21": 6,
+    "2026-02-21": 7,
     "2026-02-19": 12,
-    "2026-02-20": 11,
+    "2026-02-20": 13,
     "2026-02-18": 6,
     "2026-02-17": 12,
     "2026-02-16": 5,
@@ -73,35 +73,35 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 16,
+    "ai": 17,
     "webdev": 16,
     "github": 15,
     "open-source": 15,
+    "discuss": 10,
     "javascript": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "python": 9,
     "programming": 9,
-    "discuss": 8,
     "typescript": 7,
     "tutorial": 6,
     "go": 6,
+    "career": 4,
     "showdev": 4,
     "security": 4,
     "rust": 4,
     "opensource": 4,
-    "career": 3,
-    "devops": 3
+    "gemini": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "19.8",
-    "Go": "16.7",
-    "JavaScript": "32.3",
+    "Python": "19.6",
+    "Go": "17.5",
+    "JavaScript": "32.0",
     "Rust": "5.2",
     "CSharp": "1.0",
-    "Java": "20.8",
+    "Java": "20.6",
     "PHP": "3.1",
     "Swift": "1.0"
   }
