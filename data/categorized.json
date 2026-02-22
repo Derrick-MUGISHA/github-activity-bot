@@ -588,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "CraftyGeezer"
     },
     {
@@ -603,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "Pickle-Pixel"
     },
     {
@@ -756,6 +756,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
+    },
+    {
+      "title": "Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)",
+      "url": "https://dev.to/shofol/adding-web-analytics-on-vercel-is-easier-than-ever-free-built-in-57bl",
+      "published_at": "2026-02-17T04:42:56Z",
+      "description": "Did you know that Vercel provides built-in web analytics that you can use even on the free plan?  In...",
+      "tags": [
+        "vercel",
+        "nextjs",
+        "analytics",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlc2fw3533schl5jn6au.png",
+      "source": "Dev.to",
+      "user": "Anower Jahan Shofol"
     },
     {
       "title": "Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2",
@@ -1013,6 +1028,21 @@
       "user": "khalildh"
     },
     {
+      "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
+      "url": "https://github.com/dimartarmizi/map-to-poster",
+      "published_at": "2026-02-17T09:03:26Z",
+      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "dimartarmizi"
+    },
+    {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
       "url": "https://github.com/yeuxuan/openclaw-docs",
       "published_at": "2026-02-19T02:30:39Z",
@@ -1026,21 +1056,6 @@
       "source": "GitHub",
       "stars": 258,
       "user": "yeuxuan"
-    },
-    {
-      "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "url": "https://github.com/dimartarmizi/map-to-poster",
-      "published_at": "2026-02-17T09:03:26Z",
-      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
-      "source": "GitHub",
-      "stars": 258,
-      "user": "dimartarmizi"
     },
     {
       "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
@@ -1266,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 961,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1281,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "CraftyGeezer"
     },
     {
@@ -1296,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "Pickle-Pixel"
     },
     {
@@ -1311,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 343,
       "user": "olvvier"
     },
     {
@@ -1485,21 +1500,6 @@
       "user": "Felix Schober"
     },
     {
-      "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup",
-      "url": "https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
-      "published_at": "2026-02-21T14:44:45Z",
-      "description": "I've got OpenClaw running locally on a Raspberry Pi — where computation power is scarce, and it's...",
-      "tags": [
-        "aws",
-        "bedrock",
-        "openclaw",
-        "kiro"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqo74hl0vrs55ad13oaj0.png",
-      "source": "Dev.to",
-      "user": "Gabriel Koo"
-    },
-    {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
       "published_at": "2026-02-15T10:27:55Z",
@@ -1528,6 +1528,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
       "source": "Dev.to",
       "user": "suin"
+    },
+    {
+      "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup",
+      "url": "https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
+      "published_at": "2026-02-21T14:44:45Z",
+      "description": "I've got OpenClaw running locally on a Raspberry Pi — where computation power is scarce, and it's...",
+      "tags": [
+        "aws",
+        "bedrock",
+        "openclaw",
+        "kiro"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqo74hl0vrs55ad13oaj0.png",
+      "source": "Dev.to",
+      "user": "Gabriel Koo"
     },
     {
       "title": "What Do You Want to Know About Antigravity?",
@@ -1913,6 +1928,21 @@
       "user": "khalildh"
     },
     {
+      "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
+      "url": "https://github.com/dimartarmizi/map-to-poster",
+      "published_at": "2026-02-17T09:03:26Z",
+      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "dimartarmizi"
+    },
+    {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
       "url": "https://github.com/yeuxuan/openclaw-docs",
       "published_at": "2026-02-19T02:30:39Z",
@@ -1926,21 +1956,6 @@
       "source": "GitHub",
       "stars": 258,
       "user": "yeuxuan"
-    },
-    {
-      "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "url": "https://github.com/dimartarmizi/map-to-poster",
-      "published_at": "2026-02-17T09:03:26Z",
-      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
-      "source": "GitHub",
-      "stars": 258,
-      "user": "dimartarmizi"
     },
     {
       "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
@@ -1984,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 961,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1999,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "CraftyGeezer"
     },
     {
@@ -2014,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "Pickle-Pixel"
     },
     {
@@ -2029,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 343,
       "user": "olvvier"
     },
     {
@@ -2074,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "Fox-Fig"
     },
     {
