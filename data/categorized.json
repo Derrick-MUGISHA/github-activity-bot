@@ -118,36 +118,6 @@
       "user": "Chukwuemeka Maduekwe"
     },
     {
-      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
-      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
-      "published_at": "2026-02-18T14:10:39Z",
-      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
-      "tags": [
-        "writing",
-        "ai",
-        "watercooler",
-        "nanobanana"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "What Do You Want to Know About Antigravity?",
-      "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
-      "published_at": "2026-02-20T20:45:03Z",
-      "description": "Last week Jack Wotherspoon and @greggyb dove into skills, hooks, and Plan Mode on Google Cloud Live....",
-      "tags": [
-        "antigravity",
-        "discuss",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgkcyvxwbxoi4a3mctrx.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Getting Started with LLM Gateway in 5 Minutes",
       "url": "https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p",
       "published_at": "2026-02-21T18:31:02Z",
@@ -588,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 613,
       "user": "CraftyGeezer"
     },
     {
@@ -603,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "Pickle-Pixel"
     },
     {
@@ -618,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 276,
       "user": "badaramoni"
     },
     {
@@ -633,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 320,
       "user": "Gentleman-Programming"
     },
     {
@@ -1024,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 261,
       "user": "khalildh"
     },
     {
@@ -1054,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "dimartarmizi"
     },
     {
@@ -1281,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 937,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1296,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 613,
       "user": "CraftyGeezer"
     },
     {
@@ -1311,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "Pickle-Pixel"
     },
     {
@@ -1326,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 314,
       "user": "olvvier"
     },
     {
@@ -1341,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 276,
       "user": "badaramoni"
     }
   ],
@@ -1515,21 +1485,6 @@
       "user": "Gabriel Koo"
     },
     {
-      "title": "What Do You Want to Know About Antigravity?",
-      "url": "https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a",
-      "published_at": "2026-02-20T20:45:03Z",
-      "description": "Last week Jack Wotherspoon and @greggyb dove into skills, hooks, and Plan Mode on Google Cloud Live....",
-      "tags": [
-        "antigravity",
-        "discuss",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgkcyvxwbxoi4a3mctrx.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
       "published_at": "2026-02-15T10:27:55Z",
@@ -1626,7 +1581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 320,
       "user": "Gentleman-Programming"
     },
     {
@@ -1938,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 261,
       "user": "khalildh"
     },
     {
@@ -1968,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "dimartarmizi"
     },
     {
@@ -2013,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 937,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2028,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 613,
       "user": "CraftyGeezer"
     },
     {
@@ -2043,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "Pickle-Pixel"
     },
     {
@@ -2058,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 314,
       "user": "olvvier"
     },
     {
@@ -2073,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 276,
       "user": "badaramoni"
     },
     {
@@ -2088,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 320,
       "user": "Gentleman-Programming"
     },
     {
@@ -2103,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "Fox-Fig"
     },
     {
