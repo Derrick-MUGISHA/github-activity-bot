@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 45,
+    "AI": 44,
     "JavaScript": 32,
     "Python": 18,
     "DevOps": 4,
@@ -32,7 +32,7 @@
     "2026-02-20": 13,
     "2026-02-21": 7,
     "2026-02-19": 12,
-    "2026-02-17": 12,
+    "2026-02-17": 11,
     "2026-02-16": 5,
     "2026-02-15": 3,
     "2026-02-13": 5,
@@ -72,7 +72,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 18,
+    "ai": 17,
     "webdev": 17,
     "github": 15,
     "open-source": 15,
@@ -87,10 +87,10 @@
     "tutorial": 6,
     "go": 6,
     "opensource": 5,
-    "gemini": 4,
     "showdev": 4,
     "security": 4,
     "rust": 4,
+    "gemini": 3,
     "career": 3
   },
   "trending_topics": [],

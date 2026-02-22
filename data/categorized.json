@@ -193,21 +193,6 @@
       "user": "Roberto B."
     },
     {
-      "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
-      "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
-      "published_at": "2026-02-17T18:27:56Z",
-      "description": "Hundreds of developers have already completed our first DEV Education Track, and today we're excited...",
-      "tags": [
-        "agents",
-        "gemini",
-        "ai",
-        "buildmultiagents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyedmo3tx4u5ewng0f8k.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
       "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
       "published_at": "2026-02-18T14:00:30Z",
@@ -558,7 +543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "vikasprogrammer"
     },
     {
@@ -573,7 +558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 459,
       "user": "CraftyGeezer"
     },
     {
@@ -588,7 +573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 321,
       "user": "Pickle-Pixel"
     },
     {
@@ -603,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 247,
       "user": "badaramoni"
     },
     {
@@ -618,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "Gentleman-Programming"
     },
     {
@@ -633,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 103,
       "user": "jasperan"
     }
   ],
@@ -1039,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 227,
       "user": "dimartarmizi"
     },
     {
@@ -1054,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 208,
       "user": "khalildh"
     },
     {
@@ -1084,7 +1069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "vikasprogrammer"
     }
   ],
@@ -1266,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 812,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1281,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 459,
       "user": "CraftyGeezer"
     },
     {
@@ -1296,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 321,
       "user": "Pickle-Pixel"
     },
     {
@@ -1311,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 247,
       "user": "badaramoni"
     },
     {
@@ -1326,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "olvvier"
     }
   ],
@@ -1470,21 +1455,6 @@
   ],
   "Cloud": [
     {
-      "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup",
-      "url": "https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
-      "published_at": "2026-02-21T14:44:45Z",
-      "description": "I've got OpenClaw running locally on a Raspberry Pi — where computation power is scarce, and it's...",
-      "tags": [
-        "aws",
-        "bedrock",
-        "openclaw",
-        "kiro"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqo74hl0vrs55ad13oaj0.png",
-      "source": "Dev.to",
-      "user": "Gabriel Koo"
-    },
-    {
       "title": "Why Azure Front Door Made My Next.js App Take 90 Seconds to Load (and How I Fixed It)",
       "url": "https://dev.to/felixschober/why-azure-front-door-made-my-nextjs-app-take-90-seconds-to-load-and-how-i-fixed-it-4kof",
       "published_at": "2026-02-21T16:17:46Z",
@@ -1498,6 +1468,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feo57n2koohwym8fg32nk.png",
       "source": "Dev.to",
       "user": "Felix Schober"
+    },
+    {
+      "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup",
+      "url": "https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
+      "published_at": "2026-02-21T14:44:45Z",
+      "description": "I've got OpenClaw running locally on a Raspberry Pi — where computation power is scarce, and it's...",
+      "tags": [
+        "aws",
+        "bedrock",
+        "openclaw",
+        "kiro"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqo74hl0vrs55ad13oaj0.png",
+      "source": "Dev.to",
+      "user": "Gabriel Koo"
     },
     {
       "title": "What Do You Want to Know About Antigravity?",
@@ -1611,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "Gentleman-Programming"
     },
     {
@@ -1626,7 +1611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 103,
       "user": "jasperan"
     }
   ],
@@ -1938,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 227,
       "user": "dimartarmizi"
     },
     {
@@ -1953,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 208,
       "user": "khalildh"
     },
     {
@@ -1983,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "vikasprogrammer"
     },
     {
@@ -1998,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 812,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2013,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 459,
       "user": "CraftyGeezer"
     },
     {
@@ -2028,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 321,
       "user": "Pickle-Pixel"
     },
     {
@@ -2043,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 247,
       "user": "badaramoni"
     },
     {
@@ -2058,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "olvvier"
     },
     {
@@ -2073,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97131605?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "Gentleman-Programming"
     },
     {
@@ -2088,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 103,
       "user": "jasperan"
     },
     {
@@ -2103,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 91,
       "user": "Fox-Fig"
     },
     {
