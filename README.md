@@ -218,7 +218,7 @@ npm run test
 - [Hexagonal Architecture in Angular - A Practical, Minimal Use Case](https://dev.to/nugetchar/hexagonal-architecture-in-angular-a-practical-minimal-use-case-3og5) _[Dev.to]_
 - [Building a Gmail/Outlook email preview component for Vue](https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk) _[Dev.to]_
 
-_Last automated update: Mon, 23 Feb 2026 00:20:31 CAT_
+_Last automated update: Mon, 23 Feb 2026 00:50:06 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 23 Feb 2026 00:20:31 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Feb 2026 22:20:31 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Feb 2026 22:50:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
