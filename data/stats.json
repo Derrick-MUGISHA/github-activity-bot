@@ -11,7 +11,7 @@
     "Python": 18,
     "DevOps": 5,
     "WebDev": 5,
-    "Mobile": 1,
+    "Mobile": 0,
     "Cloud": 3,
     "Database": 3,
     "Security": 5,
@@ -24,11 +24,10 @@
     "Python": 18,
     "CSharp": 1,
     "Java": 19,
-    "PHP": 1,
-    "Swift": 1
+    "PHP": 1
   },
   "by_date": {
-    "2026-02-23": 9,
+    "2026-02-23": 10,
     "2026-02-22": 10,
     "2026-02-20": 9,
     "2026-02-18": 5,
@@ -43,7 +42,6 @@
     "2026-02-11": 1,
     "2026-02-14": 1,
     "2026-02-08": 1,
-    "2026-02-09": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
     "2025-06-02": 1,
@@ -83,27 +81,26 @@
     "Python": 10,
     "javascript": 9,
     "discuss": 8,
-    "typescript": 8,
     "programming": 8,
+    "typescript": 8,
     "python": 8,
     "go": 6,
-    "showdev": 5,
     "productivity": 5,
     "tutorial": 5,
     "opensource": 4,
+    "showdev": 4,
     "devops": 4,
     "rust": 4,
     "watercooler": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "18.5",
-    "JavaScript": "33.7",
-    "Rust": "4.3",
-    "Python": "19.6",
+    "Go": "18.7",
+    "JavaScript": "34.1",
+    "Rust": "4.4",
+    "Python": "19.8",
     "CSharp": "1.1",
-    "Java": "20.7",
-    "PHP": "1.1",
-    "Swift": "1.1"
+    "Java": "20.9",
+    "PHP": "1.1"
   }
 }
