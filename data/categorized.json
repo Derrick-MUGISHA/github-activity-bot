@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "A Quick Recovery Guide for AI-Dependent Coders",
+      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
+      "published_at": "2026-02-23T05:00:00Z",
+      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
+    },
+    {
       "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
       "url": "https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h",
       "published_at": "2026-02-19T20:34:23Z",
@@ -383,36 +398,6 @@
       "user": "Stephan Miller"
     },
     {
-      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
-      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
-      "published_at": "2026-02-18T14:10:39Z",
-      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
-      "tags": [
-        "writing",
-        "ai",
-        "watercooler",
-        "nanobanana"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "Exploring Olympic Downhill Results with PHP Statistics",
-      "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
-      "published_at": "2026-02-20T20:57:54Z",
-      "description": "When Franjo von Allmen crossed the finish line in 111.61 seconds at the 2026 Olympic Downhill, he...",
-      "tags": [
-        "php",
-        "statistics",
-        "programming",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -556,7 +541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 713,
       "user": "CraftyGeezer"
     },
     {
@@ -571,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 390,
       "user": "Pickle-Pixel"
     },
     {
@@ -586,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "badaramoni"
     },
     {
@@ -616,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 108,
       "user": "quailyquaily"
     },
     {
@@ -631,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 65,
       "user": "almonk"
     }
   ],
@@ -1022,7 +1007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "khalildh"
     },
     {
@@ -1037,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 302,
       "user": "dimartarmizi"
     },
     {
@@ -1052,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "yeuxuan"
     },
     {
@@ -1067,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 206,
       "user": "vava-nessa"
     },
     {
@@ -1264,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1154,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1279,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 713,
       "user": "CraftyGeezer"
     },
     {
@@ -1294,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 598,
       "user": "olvvier"
     },
     {
@@ -1309,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 390,
       "user": "Pickle-Pixel"
     },
     {
@@ -1324,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "badaramoni"
     }
   ],
@@ -1892,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "khalildh"
     },
     {
@@ -1907,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 302,
       "user": "dimartarmizi"
     },
     {
@@ -1922,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "yeuxuan"
     },
     {
@@ -1937,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 206,
       "user": "vava-nessa"
     },
     {
@@ -1967,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1154,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1982,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 713,
       "user": "CraftyGeezer"
     },
     {
@@ -1997,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 598,
       "user": "olvvier"
     },
     {
@@ -2012,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 390,
       "user": "Pickle-Pixel"
     },
     {
@@ -2027,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "badaramoni"
     },
     {
@@ -2072,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 108,
       "user": "quailyquaily"
     },
     {
@@ -2087,7 +2072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 65,
       "user": "almonk"
     },
     {
@@ -2102,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139905059?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "pixperk"
     }
   ]
