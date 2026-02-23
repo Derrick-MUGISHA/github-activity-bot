@@ -16,21 +16,6 @@
       "user": "Cesar Aguirre"
     },
     {
-      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
-      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
-      "published_at": "2026-02-22T14:24:05Z",
-      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
-      "tags": [
-        "ai",
-        "mcp",
-        "programming",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
       "url": "https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h",
       "published_at": "2026-02-19T20:34:23Z",
@@ -101,6 +86,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
       "source": "Dev.to",
       "user": "Dorothy J Aubrey"
+    },
+    {
+      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
+      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
+      "published_at": "2026-02-22T14:24:05Z",
+      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
+      "tags": [
+        "ai",
+        "mcp",
+        "programming",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "I built a CSS framework where every class name is an emoji",
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "vikasprogrammer"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 709,
       "user": "CraftyGeezer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 411,
       "user": "Pickle-Pixel"
     },
     {
@@ -628,8 +628,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 343,
       "user": "badaramoni"
+    },
+    {
+      "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
+      "url": "https://github.com/quailyquaily/aqua",
+      "published_at": "2026-02-21T19:04:48Z",
+      "description": "Aqua, a cli message tool for AI agents ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "quailyquaily"
     },
     {
       "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
@@ -645,21 +660,6 @@
       "source": "GitHub",
       "stars": 123,
       "user": "jasperan"
-    },
-    {
-      "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
-      "url": "https://github.com/quailyquaily/aqua",
-      "published_at": "2026-02-21T19:04:48Z",
-      "description": "Aqua, a cli message tool for AI agents ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
-      "source": "GitHub",
-      "stars": 122,
-      "user": "quailyquaily"
     },
     {
       "title": "almonk/bontree - A file explorer to pair with your favourite agent",
@@ -1064,7 +1064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 343,
       "user": "dimartarmizi"
     },
     {
@@ -1079,7 +1079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "khalildh"
     },
     {
@@ -1109,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 235,
       "user": "vava-nessa"
     },
     {
@@ -1124,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "vikasprogrammer"
     }
   ],
@@ -1306,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1190,
+      "stars": 1206,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1321,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 709,
       "user": "CraftyGeezer"
     },
     {
@@ -1336,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 659,
       "user": "olvvier"
     },
     {
@@ -1351,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 411,
       "user": "Pickle-Pixel"
     },
     {
@@ -1366,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 343,
       "user": "badaramoni"
     }
   ],
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 343,
       "user": "dimartarmizi"
     },
     {
@@ -1933,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "khalildh"
     },
     {
@@ -1963,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 235,
       "user": "vava-nessa"
     },
     {
@@ -1978,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "vikasprogrammer"
     },
     {
@@ -1993,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1190,
+      "stars": 1206,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2008,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 709,
       "user": "CraftyGeezer"
     },
     {
@@ -2023,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 659,
       "user": "olvvier"
     },
     {
@@ -2038,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 411,
       "user": "Pickle-Pixel"
     },
     {
@@ -2053,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 343,
       "user": "badaramoni"
     },
     {
@@ -2068,8 +2068,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "Fox-Fig"
+    },
+    {
+      "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
+      "url": "https://github.com/quailyquaily/aqua",
+      "published_at": "2026-02-21T19:04:48Z",
+      "description": "Aqua, a cli message tool for AI agents ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "quailyquaily"
     },
     {
       "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
@@ -2085,21 +2100,6 @@
       "source": "GitHub",
       "stars": 123,
       "user": "jasperan"
-    },
-    {
-      "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
-      "url": "https://github.com/quailyquaily/aqua",
-      "published_at": "2026-02-21T19:04:48Z",
-      "description": "Aqua, a cli message tool for AI agents ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
-      "source": "GitHub",
-      "stars": 122,
-      "user": "quailyquaily"
     },
     {
       "title": "almonk/bontree - A file explorer to pair with your favourite agent",
