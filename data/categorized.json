@@ -16,6 +16,21 @@
       "user": "Cesar Aguirre"
     },
     {
+      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
+      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
+      "published_at": "2026-02-22T14:24:05Z",
+      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
+      "tags": [
+        "ai",
+        "mcp",
+        "programming",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
       "url": "https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h",
       "published_at": "2026-02-19T20:34:23Z",
@@ -29,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9kqocccu808m6zu7etd7.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
+      "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
+      "published_at": "2026-02-23T00:28:37Z",
+      "description": "Custom agents have been in AI coding tools for months. We finally connected the dots—the documentation system we'd been building was already the blueprint for a team of specialists.",
+      "tags": [
+        "ai",
+        "productivity",
+        "automation",
+        "devrel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
+      "source": "Dev.to",
+      "user": "Dorothy J Aubrey"
     },
     {
       "title": "Hello World with Agent Skills",
@@ -161,21 +191,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "The Ghost in the Training Set",
-      "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
-      "published_at": "2026-02-16T20:10:18Z",
-      "description": "During the last several weeks, I've run into setting up MCP servers a few times and noticed something...",
-      "tags": [
-        "ai",
-        "mcp",
-        "programming",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
-      "source": "Dev.to",
-      "user": "Alessandro Bahgat"
-    },
-    {
       "title": "Building a Gmail/Outlook email preview component for Vue",
       "url": "https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk",
       "published_at": "2026-02-20T07:56:21Z",
@@ -219,21 +234,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
-    },
-    {
-      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
-      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
-      "published_at": "2026-02-13T20:08:54Z",
-      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
-      "tags": [
-        "opensource",
-        "ai",
-        "codex",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "David Alcala"
     },
     {
       "title": "Software engineering is not dead",
@@ -398,6 +398,36 @@
       "user": "Stephan Miller"
     },
     {
+      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
+      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
+      "published_at": "2026-02-18T14:10:39Z",
+      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
+      "tags": [
+        "writing",
+        "ai",
+        "watercooler",
+        "nanobanana"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Exploring Olympic Downhill Results with PHP Statistics",
+      "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
+      "published_at": "2026-02-20T20:57:54Z",
+      "description": "When Franjo von Allmen crossed the finish line in 111.61 seconds at the 2026 Olympic Downhill, he...",
+      "tags": [
+        "php",
+        "statistics",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -541,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 712,
       "user": "CraftyGeezer"
     },
     {
@@ -556,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 396,
       "user": "Pickle-Pixel"
     },
     {
@@ -571,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 335,
       "user": "badaramoni"
     },
     {
@@ -586,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 125,
       "user": "jasperan"
     },
     {
@@ -601,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 115,
       "user": "quailyquaily"
     },
     {
@@ -771,21 +801,6 @@
       "user": "Ale"
     },
     {
-      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
-      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
-      "published_at": "2026-02-12T06:27:14Z",
-      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
-      "tags": [
-        "supabase",
-        "react",
-        "tutorial",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
-      "source": "Dev.to",
-      "user": "Fongoh Martin T."
-    },
-    {
       "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
       "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
       "published_at": "2026-02-19T03:23:34Z",
@@ -799,6 +814,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
       "source": "Dev.to",
       "user": "Maame Afua A. P. Fordjour "
+    },
+    {
+      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
+      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
+      "published_at": "2026-02-12T06:27:14Z",
+      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
+      "tags": [
+        "supabase",
+        "react",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
+      "source": "Dev.to",
+      "user": "Fongoh Martin T."
     },
     {
       "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
@@ -1007,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 318,
       "user": "dimartarmizi"
     },
     {
@@ -1022,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "khalildh"
     },
     {
@@ -1052,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 214,
       "user": "vava-nessa"
     },
     {
@@ -1249,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1175,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1264,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 712,
       "user": "CraftyGeezer"
     },
     {
@@ -1279,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 628,
       "user": "olvvier"
     },
     {
@@ -1294,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 396,
       "user": "Pickle-Pixel"
     },
     {
@@ -1309,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 335,
       "user": "badaramoni"
     }
   ],
@@ -1498,21 +1528,6 @@
       "user": "suin"
     },
     {
-      "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup",
-      "url": "https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
-      "published_at": "2026-02-21T14:44:45Z",
-      "description": "I've got OpenClaw running locally on a Raspberry Pi — where computation power is scarce, and it's...",
-      "tags": [
-        "aws",
-        "bedrock",
-        "openclaw",
-        "kiro"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqo74hl0vrs55ad13oaj0.png",
-      "source": "Dev.to",
-      "user": "Gabriel Koo"
-    },
-    {
       "title": "Why Azure Front Door Made My Next.js App Take 90 Seconds to Load (and How I Fixed It)",
       "url": "https://dev.to/felixschober/why-azure-front-door-made-my-nextjs-app-take-90-seconds-to-load-and-how-i-fixed-it-4kof",
       "published_at": "2026-02-21T16:17:46Z",
@@ -1580,7 +1595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 125,
       "user": "jasperan"
     }
   ],
@@ -1673,6 +1688,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
+      "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
+      "published_at": "2026-02-23T00:28:37Z",
+      "description": "Custom agents have been in AI coding tools for months. We finally connected the dots—the documentation system we'd been building was already the blueprint for a team of specialists.",
+      "tags": [
+        "ai",
+        "productivity",
+        "automation",
+        "devrel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
+      "source": "Dev.to",
+      "user": "Dorothy J Aubrey"
+    },
     {
       "title": "Get React out of my terminal: a case for headless mode",
       "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
@@ -1791,21 +1821,6 @@
       "user": "Lucca Sanwald"
     },
     {
-      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
-      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
-      "published_at": "2026-02-13T20:08:54Z",
-      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
-      "tags": [
-        "opensource",
-        "ai",
-        "codex",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "David Alcala"
-    },
-    {
       "title": "Why I built yet another release tool for npm",
       "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
       "published_at": "2026-02-13T22:33:56Z",
@@ -1877,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 318,
       "user": "dimartarmizi"
     },
     {
@@ -1892,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "khalildh"
     },
     {
@@ -1922,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 214,
       "user": "vava-nessa"
     },
     {
@@ -1952,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1175,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1967,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 712,
       "user": "CraftyGeezer"
     },
     {
@@ -1982,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 628,
       "user": "olvvier"
     },
     {
@@ -1997,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 396,
       "user": "Pickle-Pixel"
     },
     {
@@ -2012,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 335,
       "user": "badaramoni"
     },
     {
@@ -2042,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 125,
       "user": "jasperan"
     },
     {
@@ -2057,7 +2072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 115,
       "user": "quailyquaily"
     },
     {
