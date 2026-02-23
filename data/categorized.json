@@ -43,6 +43,21 @@
       "user": "CodeNameGrant"
     },
     {
+      "title": "I built a CSS framework where every class name is an emoji",
+      "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
+      "published_at": "2026-02-23T11:38:19Z",
+      "description": "BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.",
+      "tags": [
+        "css",
+        "jokes",
+        "tailwindcss",
+        "bem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
+      "source": "Dev.to",
+      "user": "Tom Hayes"
+    },
+    {
       "title": "Everything I've learned so far about .cursorrules after mass testing them",
       "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
       "published_at": "2026-02-22T22:34:02Z",
@@ -86,21 +101,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "I built a CSS framework where every class name is an emoji",
-      "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
-      "published_at": "2026-02-23T11:38:19Z",
-      "description": "BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.",
-      "tags": [
-        "css",
-        "jokes",
-        "tailwindcss",
-        "bem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Tom Hayes"
     },
     {
       "title": "Hello World with Agent Skills",
@@ -572,6 +572,21 @@
       "user": "veesahni"
     },
     {
+      "title": "vava-nessa/free-coding-models - Find the fastest coding LLM models in seconds",
+      "url": "https://github.com/vava-nessa/free-coding-models",
+      "published_at": "2026-02-20T23:12:50Z",
+      "description": "Find the fastest coding LLM models in seconds",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
+      "source": "GitHub",
+      "stars": 245,
+      "user": "vava-nessa"
+    },
+    {
       "title": "vikasprogrammer/walkie - P2P communication for AI agents. No server. No setup. Just talk.",
       "url": "https://github.com/vikasprogrammer/walkie",
       "published_at": "2026-02-19T14:57:30Z",
@@ -583,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 188,
       "user": "vikasprogrammer"
     },
     {
@@ -598,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 687,
       "user": "CraftyGeezer"
     },
     {
@@ -613,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 424,
       "user": "Pickle-Pixel"
     },
     {
@@ -628,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "badaramoni"
     },
     {
@@ -643,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "quailyquaily"
     },
     {
@@ -658,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 127,
       "user": "jasperan"
     },
     {
@@ -673,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 72,
       "user": "almonk"
     }
   ],
@@ -1049,7 +1064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 356,
       "user": "dimartarmizi"
     },
     {
@@ -1083,10 +1098,10 @@
       "user": "yeuxuan"
     },
     {
-      "title": "vava-nessa/free-coding-models - GitHub Repository",
+      "title": "vava-nessa/free-coding-models - Find the fastest coding LLM models in seconds",
       "url": "https://github.com/vava-nessa/free-coding-models",
       "published_at": "2026-02-20T23:12:50Z",
-      "description": "Trending GitHub Repository",
+      "description": "Find the fastest coding LLM models in seconds",
       "tags": [
         "javascript",
         "github",
@@ -1094,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "vava-nessa"
     },
     {
@@ -1109,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 188,
       "user": "vikasprogrammer"
     }
   ],
@@ -1291,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1231,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1306,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 687,
       "user": "CraftyGeezer"
     },
     {
@@ -1321,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 669,
       "user": "olvvier"
     },
     {
@@ -1336,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 424,
       "user": "Pickle-Pixel"
     },
     {
@@ -1351,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "badaramoni"
     }
   ],
@@ -1607,7 +1622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 127,
       "user": "jasperan"
     }
   ],
@@ -1888,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 356,
       "user": "dimartarmizi"
     },
     {
@@ -1922,10 +1937,10 @@
       "user": "yeuxuan"
     },
     {
-      "title": "vava-nessa/free-coding-models - GitHub Repository",
+      "title": "vava-nessa/free-coding-models - Find the fastest coding LLM models in seconds",
       "url": "https://github.com/vava-nessa/free-coding-models",
       "published_at": "2026-02-20T23:12:50Z",
-      "description": "Trending GitHub Repository",
+      "description": "Find the fastest coding LLM models in seconds",
       "tags": [
         "javascript",
         "github",
@@ -1933,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "vava-nessa"
     },
     {
@@ -1948,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 188,
       "user": "vikasprogrammer"
     },
     {
@@ -1963,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1231,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1978,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 687,
       "user": "CraftyGeezer"
     },
     {
@@ -1993,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 669,
       "user": "olvvier"
     },
     {
@@ -2008,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 424,
       "user": "Pickle-Pixel"
     },
     {
@@ -2023,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "badaramoni"
     },
     {
@@ -2053,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "quailyquaily"
     },
     {
@@ -2068,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 127,
       "user": "jasperan"
     },
     {
@@ -2083,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 83,
       "user": "wesm"
     },
     {
@@ -2098,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 72,
       "user": "almonk"
     }
   ]
