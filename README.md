@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-23 13:00 CAT)
+## 📅 Latest Updates (2026-02-23 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,13 +212,13 @@ npm run test
 - [One OpenClaw Gateway Multiple Isolated AI Assistants (One Telegram Bot Per Worker)](https://dev.to/onin/one-openclaw-gateway-multiple-isolated-ai-assistants-one-telegram-bot-per-worker-3k97) _[Dev.to]_
 - [Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard](https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4) _[Dev.to]_
 - [Getting Started with LLM Gateway in 5 Minutes](https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p) _[Dev.to]_
+- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 - [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n) _[Dev.to]_
-- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
 - [Hexagonal Architecture in Angular - A Practical, Minimal Use Case](https://dev.to/nugetchar/hexagonal-architecture-in-angular-a-practical-minimal-use-case-3og5) _[Dev.to]_
 - [Building a Gmail/Outlook email preview component for Vue](https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk) _[Dev.to]_
 
-_Last automated update: Mon, 23 Feb 2026 13:53:19 CAT_
+_Last automated update: Mon, 23 Feb 2026 14:56:43 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 23 Feb 2026 13:53:19 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 23 Feb 2026 11:53:19 GMT</b><br/>
+  <b>Last automated update: Mon, 23 Feb 2026 12:56:43 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

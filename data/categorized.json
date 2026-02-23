@@ -131,21 +131,6 @@
       "user": "smakosh"
     },
     {
-      "title": "The Ghost in the Training Set",
-      "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
-      "published_at": "2026-02-16T20:10:18Z",
-      "description": "During the last several weeks, I've run into setting up MCP servers a few times and noticed something...",
-      "tags": [
-        "ai",
-        "mcp",
-        "programming",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
-      "source": "Dev.to",
-      "user": "Alessandro Bahgat"
-    },
-    {
       "title": "The Meter Was Always Running",
       "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
       "published_at": "2026-02-20T17:57:37Z",
@@ -159,6 +144,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flc8fmxx7zlew87bk4jf9.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "The Ghost in the Training Set",
+      "url": "https://dev.to/abahgat/the-ghost-in-the-training-set-496n",
+      "published_at": "2026-02-16T20:10:18Z",
+      "description": "During the last several weeks, I've run into setting up MCP servers a few times and noticed something...",
+      "tags": [
+        "ai",
+        "mcp",
+        "programming",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
+      "source": "Dev.to",
+      "user": "Alessandro Bahgat"
     },
     {
       "title": "Building a Gmail/Outlook email preview component for Vue",
@@ -556,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 705,
       "user": "CraftyGeezer"
     },
     {
@@ -571,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 384,
       "user": "Pickle-Pixel"
     },
     {
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 325,
       "user": "badaramoni"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 100,
       "user": "quailyquaily"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 62,
       "user": "almonk"
     }
   ],
@@ -1022,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 301,
       "user": "khalildh"
     },
     {
@@ -1037,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 294,
       "user": "dimartarmizi"
     },
     {
@@ -1067,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 202,
       "user": "vava-nessa"
     },
     {
@@ -1264,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1140,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1279,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 705,
       "user": "CraftyGeezer"
     },
     {
@@ -1294,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 582,
       "user": "olvvier"
     },
     {
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 384,
       "user": "Pickle-Pixel"
     },
     {
@@ -1324,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 325,
       "user": "badaramoni"
     }
   ],
@@ -1892,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 301,
       "user": "khalildh"
     },
     {
@@ -1907,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 294,
       "user": "dimartarmizi"
     },
     {
@@ -1937,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 202,
       "user": "vava-nessa"
     },
     {
@@ -1967,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1140,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1982,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 705,
       "user": "CraftyGeezer"
     },
     {
@@ -1997,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 582,
       "user": "olvvier"
     },
     {
@@ -2012,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 384,
       "user": "Pickle-Pixel"
     },
     {
@@ -2027,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 325,
       "user": "badaramoni"
     },
     {
@@ -2072,8 +2072,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 100,
       "user": "quailyquaily"
+    },
+    {
+      "title": "almonk/bontree - A file explorer to pair with your favourite agent",
+      "url": "https://github.com/almonk/bontree",
+      "published_at": "2026-02-22T02:56:49Z",
+      "description": "A file explorer to pair with your favourite agent",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
+      "source": "GitHub",
+      "stars": 62,
+      "user": "almonk"
     },
     {
       "title": "pixperk/plethora - GitHub Repository",
@@ -2089,21 +2104,6 @@
       "source": "GitHub",
       "stars": 61,
       "user": "pixperk"
-    },
-    {
-      "title": "almonk/bontree - A file explorer to pair with your favourite agent",
-      "url": "https://github.com/almonk/bontree",
-      "published_at": "2026-02-22T02:56:49Z",
-      "description": "A file explorer to pair with your favourite agent",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
-      "source": "GitHub",
-      "stars": 59,
-      "user": "almonk"
     }
   ]
 }
