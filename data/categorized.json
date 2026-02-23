@@ -16,6 +16,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Hello World with Agent Skills",
+      "url": "https://dev.to/daveu1983/hello-world-with-agent-skills-ngj",
+      "published_at": "2026-02-22T21:07:05Z",
+      "description": "After hearing about Agent skills, I thought I would try it out and where better to start than Hello...",
+      "tags": [
+        "ai",
+        "beginners",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ayz5ad87jin8u8h31kw.png",
+      "source": "Dev.to",
+      "user": "Daveu1983"
+    },
+    {
       "title": "Get React out of my terminal: a case for headless mode",
       "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
       "published_at": "2026-02-22T15:36:54Z",
@@ -29,20 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
       "source": "Dev.to",
       "user": "Anton"
-    },
-    {
-      "title": "Hello World with Agent Skills",
-      "url": "https://dev.to/daveu1983/hello-world-with-agent-skills-ngj",
-      "published_at": "2026-02-22T21:07:05Z",
-      "description": "After hearing about Agent skills, I thought I would try it out and where better to start than Hello...",
-      "tags": [
-        "ai",
-        "beginners",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ayz5ad87jin8u8h31kw.png",
-      "source": "Dev.to",
-      "user": "Daveu1983"
     },
     {
       "title": "The Meter Was Always Running",
@@ -159,21 +159,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqpu9yigkdugf9otrj5i.png",
       "source": "Dev.to",
       "user": "Alessandro Bahgat"
-    },
-    {
-      "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
-      "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
-      "published_at": "2026-02-18T14:00:30Z",
-      "description": "I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...",
-      "tags": [
-        "discuss",
-        "news",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oqm9p89lj4fnebzc54n.png",
-      "source": "Dev.to",
-      "user": "Jon Gottfried"
     },
     {
       "title": "Building a Gmail/Outlook email preview component for Vue",
@@ -413,6 +398,21 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "Exploring Olympic Downhill Results with PHP Statistics",
+      "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
+      "published_at": "2026-02-20T20:57:54Z",
+      "description": "When Franjo von Allmen crossed the finish line in 111.61 seconds at the 2026 Olympic Downhill, he...",
+      "tags": [
+        "php",
+        "statistics",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -556,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 689,
       "user": "CraftyGeezer"
     },
     {
@@ -571,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "Pickle-Pixel"
     },
     {
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "badaramoni"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 130,
       "user": "jasperan"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 84,
       "user": "quailyquaily"
     }
   ],
@@ -1022,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "dimartarmizi"
     },
     {
@@ -1037,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "yeuxuan"
     },
     {
@@ -1052,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 190,
       "user": "vava-nessa"
     },
     {
@@ -1249,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1109,
+      "stars": 1116,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1264,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 689,
       "user": "CraftyGeezer"
     },
     {
@@ -1279,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 565,
       "user": "olvvier"
     },
     {
@@ -1294,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "Pickle-Pixel"
     },
     {
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "badaramoni"
     }
   ],
@@ -1580,7 +1580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 130,
       "user": "jasperan"
     }
   ],
@@ -1907,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "dimartarmizi"
     },
     {
@@ -1922,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "yeuxuan"
     },
     {
@@ -1937,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 190,
       "user": "vava-nessa"
     },
     {
@@ -1967,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1109,
+      "stars": 1116,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1982,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 689,
       "user": "CraftyGeezer"
     },
     {
@@ -1997,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 565,
       "user": "olvvier"
     },
     {
@@ -2012,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "Pickle-Pixel"
     },
     {
@@ -2027,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "badaramoni"
     },
     {
@@ -2042,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "Fox-Fig"
     },
     {
@@ -2057,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 130,
       "user": "jasperan"
     },
     {
@@ -2072,7 +2072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 84,
       "user": "quailyquaily"
     },
     {
@@ -2087,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139905059?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 61,
       "user": "pixperk"
     },
     {
