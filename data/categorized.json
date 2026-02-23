@@ -46,6 +46,33 @@
       "user": "Jess Lee"
     },
     {
+      "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
+      "url": "https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib",
+      "published_at": "2026-02-23T15:50:04Z",
+      "description": "It is 3:14 AM on a Tuesday, and your heart is beating with the rhythmic intensity of a kick drum in a...",
+      "tags": [
+        "personal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmq9xqrlwdewtul35vew2.png",
+      "source": "Dev.to",
+      "user": "Chandravijay Agrawal"
+    },
+    {
+      "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
+      "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
+      "published_at": "2026-02-23T11:31:51Z",
+      "description": "Where should this go? Which apps are using this library?  Those two questions are plaguing my team as...",
+      "tags": [
+        "nx",
+        "typescript",
+        "architecture",
+        "monorepo"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png",
+      "source": "Dev.to",
+      "user": "CodeNameGrant"
+    },
+    {
       "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
       "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
       "published_at": "2026-02-23T00:28:37Z",
@@ -59,6 +86,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
       "source": "Dev.to",
       "user": "Dorothy J Aubrey"
+    },
+    {
+      "title": "I built a CSS framework where every class name is an emoji",
+      "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
+      "published_at": "2026-02-23T11:38:19Z",
+      "description": "BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.",
+      "tags": [
+        "css",
+        "jokes",
+        "tailwindcss",
+        "bem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
+      "source": "Dev.to",
+      "user": "Tom Hayes"
+    },
+    {
+      "title": "Everything I've learned so far about .cursorrules after mass testing them",
+      "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
+      "published_at": "2026-02-22T22:34:02Z",
+      "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
+      "tags": [
+        "cursor",
+        "ai",
+        "cursorrules",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
+      "source": "Dev.to",
+      "user": "Ned C"
     },
     {
       "title": "Hello World with Agent Skills",
@@ -130,6 +187,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14s5llrn1m8ew5dddztn.png",
       "source": "Dev.to",
       "user": "Chukwuemeka Maduekwe"
+    },
+    {
+      "title": "The Evolution of the AI-Driven Coder",
+      "url": "https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f",
+      "published_at": "2026-02-22T21:15:24Z",
+      "description": "In the past year many of us developers have evolved from being skeptical of AI tools to fully...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcbxwrtg3j7npg6ub4mmo.png",
+      "source": "Dev.to",
+      "user": "Ian Wilson"
     },
     {
       "title": "One OpenClaw Gateway Multiple Isolated AI Assistants (One Telegram Bot Per Worker)",
@@ -236,6 +307,21 @@
       "user": "Sem Gebresilassie"
     },
     {
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codex",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "David Alcala"
+    },
+    {
       "title": "Software engineering is not dead",
       "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
       "published_at": "2026-02-16T23:29:28Z",
@@ -338,94 +424,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
       "source": "Dev.to",
       "user": "Natnael Getenew"
-    },
-    {
-      "title": "Why Azure Front Door Made My Next.js App Take 90 Seconds to Load (and How I Fixed It)",
-      "url": "https://dev.to/felixschober/why-azure-front-door-made-my-nextjs-app-take-90-seconds-to-load-and-how-i-fixed-it-4kof",
-      "published_at": "2026-02-21T16:17:46Z",
-      "description": "We shipped a Next.js app on Azure Container Apps behind Azure Front Door Premium with Private Link....",
-      "tags": [
-        "azure",
-        "nextjs",
-        "webdev",
-        "debug"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feo57n2koohwym8fg32nk.png",
-      "source": "Dev.to",
-      "user": "Felix Schober"
-    },
-    {
-      "title": "Build your own AI code review agent in CI",
-      "url": "https://dev.to/lvndry/build-your-own-ai-code-review-agent-in-ci-4mai",
-      "published_at": "2026-02-21T14:13:20Z",
-      "description": "Build a cheap, bring-your-own-model AI code review agent that runs automatically in GitHub Actions on every pull request. We’ll define a strict review rubric, generate a structured Markdown review, and optionally post it as a PR comment—without paying for another “AI code review” subscription.",
-      "tags": [
-        "ai",
-        "automation",
-        "githubactions",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F16h1q6dzswvelrucuhp7.png",
-      "source": "Dev.to",
-      "user": "Landry Monga"
-    },
-    {
-      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
-      "published_at": "2026-02-17T12:42:44Z",
-      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
-      "tags": [
-        "softwareengineering",
-        "career",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
-      "source": "Dev.to",
-      "user": "NorthernDev"
-    },
-    {
-      "title": "I Burned Out on Vibe Coding, Came Back, and Rewrote Everything",
-      "url": "https://dev.to/eristoddle/i-burned-out-on-vibe-coding-came-back-and-rewrote-everything-l6i",
-      "published_at": "2026-02-08T07:00:00Z",
-      "description": "I hit a wall with vibe coding. Not a dramatic crash. More like the slow realization that I’d been...",
-      "tags": [
-        "aiassisteddevelopmen",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3izjofe75fag2txrxazo.png",
-      "source": "Dev.to",
-      "user": "Stephan Miller"
-    },
-    {
-      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
-      "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
-      "published_at": "2026-02-18T14:10:39Z",
-      "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
-      "tags": [
-        "writing",
-        "ai",
-        "watercooler",
-        "nanobanana"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frz11c71mzd5dquh8el8b.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "Exploring Olympic Downhill Results with PHP Statistics",
-      "url": "https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1",
-      "published_at": "2026-02-20T20:57:54Z",
-      "description": "When Franjo von Allmen crossed the finish line in 111.61 seconds at the 2026 Olympic Downhill, he...",
-      "tags": [
-        "php",
-        "statistics",
-        "programming",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4ln7ksxz1xx58x20a1e.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
     },
     {
       "title": "Airfoil",
@@ -560,6 +558,21 @@
       "user": "veesahni"
     },
     {
+      "title": "vikasprogrammer/walkie - P2P communication for AI agents. No server. No setup. Just talk.",
+      "url": "https://github.com/vikasprogrammer/walkie",
+      "published_at": "2026-02-19T14:57:30Z",
+      "description": "P2P communication for AI agents. No server. No setup. Just talk.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
+      "source": "GitHub",
+      "stars": 180,
+      "user": "vikasprogrammer"
+    },
+    {
       "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
       "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "published_at": "2026-02-21T12:51:03Z",
@@ -571,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 708,
       "user": "CraftyGeezer"
     },
     {
@@ -586,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 400,
       "user": "Pickle-Pixel"
     },
     {
@@ -616,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 123,
       "user": "jasperan"
     },
     {
@@ -631,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 120,
       "user": "quailyquaily"
     },
     {
@@ -646,11 +659,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 67,
       "user": "almonk"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
+      "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
+      "published_at": "2026-02-23T11:31:51Z",
+      "description": "Where should this go? Which apps are using this library?  Those two questions are plaguing my team as...",
+      "tags": [
+        "nx",
+        "typescript",
+        "architecture",
+        "monorepo"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png",
+      "source": "Dev.to",
+      "user": "CodeNameGrant"
+    },
     {
       "title": "Get React out of my terminal: a case for headless mode",
       "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
@@ -891,21 +919,6 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
-      "title": "Why Azure Front Door Made My Next.js App Take 90 Seconds to Load (and How I Fixed It)",
-      "url": "https://dev.to/felixschober/why-azure-front-door-made-my-nextjs-app-take-90-seconds-to-load-and-how-i-fixed-it-4kof",
-      "published_at": "2026-02-21T16:17:46Z",
-      "description": "We shipped a Next.js app on Azure Container Apps behind Azure Front Door Premium with Private Link....",
-      "tags": [
-        "azure",
-        "nextjs",
-        "webdev",
-        "debug"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feo57n2koohwym8fg32nk.png",
-      "source": "Dev.to",
-      "user": "Felix Schober"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1037,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 327,
       "user": "dimartarmizi"
     },
     {
@@ -1052,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "khalildh"
     },
     {
@@ -1067,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "yeuxuan"
     },
     {
@@ -1082,23 +1095,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 219,
       "user": "vava-nessa"
     },
     {
-      "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
-      "url": "https://github.com/andyhuo520/rf-detr-detection",
-      "published_at": "2026-02-17T16:58:10Z",
-      "description": "基于 RF-DETR 的浏览器端实时目标检测应用",
+      "title": "vikasprogrammer/walkie - P2P communication for AI agents. No server. No setup. Just talk.",
+      "url": "https://github.com/vikasprogrammer/walkie",
+      "published_at": "2026-02-19T14:57:30Z",
+      "description": "P2P communication for AI agents. No server. No setup. Just talk.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 179,
-      "user": "andyhuo520"
+      "stars": 180,
+      "user": "vikasprogrammer"
     }
   ],
   "Python": [
@@ -1279,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1183,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1294,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 708,
       "user": "CraftyGeezer"
     },
     {
@@ -1309,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 638,
       "user": "olvvier"
     },
     {
@@ -1324,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 400,
       "user": "Pickle-Pixel"
     },
     {
@@ -1344,6 +1357,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Switching Minikube from Docker Driver to kvm2 for Better Stability",
+      "url": "https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil",
+      "published_at": "2026-02-23T05:44:59Z",
+      "description": "#kubernetes #minikube #devops #linux #kvm",
+      "tags": [
+        "devops",
+        "kubernetes",
+        "linux",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgmyxrm2gj50agll4uild.png",
+      "source": "Dev.to",
+      "user": "iapilgrim"
+    },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
@@ -1406,6 +1434,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "I built a CSS framework where every class name is an emoji",
+      "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
+      "published_at": "2026-02-23T11:38:19Z",
+      "description": "BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.",
+      "tags": [
+        "css",
+        "jokes",
+        "tailwindcss",
+        "bem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
+      "source": "Dev.to",
+      "user": "Tom Hayes"
+    },
     {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
@@ -1528,21 +1571,6 @@
       "user": "suin"
     },
     {
-      "title": "Why Azure Front Door Made My Next.js App Take 90 Seconds to Load (and How I Fixed It)",
-      "url": "https://dev.to/felixschober/why-azure-front-door-made-my-nextjs-app-take-90-seconds-to-load-and-how-i-fixed-it-4kof",
-      "published_at": "2026-02-21T16:17:46Z",
-      "description": "We shipped a Next.js app on Azure Container Apps behind Azure Front Door Premium with Private Link....",
-      "tags": [
-        "azure",
-        "nextjs",
-        "webdev",
-        "debug"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feo57n2koohwym8fg32nk.png",
-      "source": "Dev.to",
-      "user": "Felix Schober"
-    },
-    {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
       "published_at": "2025-08-21T12:53:16Z",
@@ -1595,7 +1623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 123,
       "user": "jasperan"
     }
   ],
@@ -1704,6 +1732,21 @@
       "user": "Dorothy J Aubrey"
     },
     {
+      "title": "Everything I've learned so far about .cursorrules after mass testing them",
+      "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
+      "published_at": "2026-02-22T22:34:02Z",
+      "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
+      "tags": [
+        "cursor",
+        "ai",
+        "cursorrules",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
+      "source": "Dev.to",
+      "user": "Ned C"
+    },
+    {
       "title": "Get React out of my terminal: a case for headless mode",
       "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
       "published_at": "2026-02-22T15:36:54Z",
@@ -1745,6 +1788,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "The Evolution of the AI-Driven Coder",
+      "url": "https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f",
+      "published_at": "2026-02-22T21:15:24Z",
+      "description": "In the past year many of us developers have evolved from being skeptical of AI tools to fully...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcbxwrtg3j7npg6ub4mmo.png",
+      "source": "Dev.to",
+      "user": "Ian Wilson"
     },
     {
       "title": "Building a Gmail/Outlook email preview component for Vue",
@@ -1821,6 +1878,21 @@
       "user": "Lucca Sanwald"
     },
     {
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codex",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "David Alcala"
+    },
+    {
       "title": "Why I built yet another release tool for npm",
       "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
       "published_at": "2026-02-13T22:33:56Z",
@@ -1851,36 +1923,6 @@
       "user": "Manuel Weiss"
     },
     {
-      "title": "Build your own AI code review agent in CI",
-      "url": "https://dev.to/lvndry/build-your-own-ai-code-review-agent-in-ci-4mai",
-      "published_at": "2026-02-21T14:13:20Z",
-      "description": "Build a cheap, bring-your-own-model AI code review agent that runs automatically in GitHub Actions on every pull request. We’ll define a strict review rubric, generate a structured Markdown review, and optionally post it as a PR comment—without paying for another “AI code review” subscription.",
-      "tags": [
-        "ai",
-        "automation",
-        "githubactions",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F16h1q6dzswvelrucuhp7.png",
-      "source": "Dev.to",
-      "user": "Landry Monga"
-    },
-    {
-      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
-      "published_at": "2026-02-17T12:42:44Z",
-      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
-      "tags": [
-        "softwareengineering",
-        "career",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzzgjrg9y5d348i9r1xsb.png",
-      "source": "Dev.to",
-      "user": "NorthernDev"
-    },
-    {
       "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
       "url": "https://github.com/dimartarmizi/map-to-poster",
       "published_at": "2026-02-17T09:03:26Z",
@@ -1892,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 327,
       "user": "dimartarmizi"
     },
     {
@@ -1907,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "khalildh"
     },
     {
@@ -1922,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "yeuxuan"
     },
     {
@@ -1937,23 +1979,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 219,
       "user": "vava-nessa"
     },
     {
-      "title": "andyhuo520/rf-detr-detection - 基于 RF-DETR 的浏览器端实时目标检测应用",
-      "url": "https://github.com/andyhuo520/rf-detr-detection",
-      "published_at": "2026-02-17T16:58:10Z",
-      "description": "基于 RF-DETR 的浏览器端实时目标检测应用",
+      "title": "vikasprogrammer/walkie - P2P communication for AI agents. No server. No setup. Just talk.",
+      "url": "https://github.com/vikasprogrammer/walkie",
+      "published_at": "2026-02-19T14:57:30Z",
+      "description": "P2P communication for AI agents. No server. No setup. Just talk.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 179,
-      "user": "andyhuo520"
+      "stars": 180,
+      "user": "vikasprogrammer"
     },
     {
       "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
@@ -1967,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1183,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1982,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 708,
       "user": "CraftyGeezer"
     },
     {
@@ -1997,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 638,
       "user": "olvvier"
     },
     {
@@ -2012,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 400,
       "user": "Pickle-Pixel"
     },
     {
@@ -2042,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "Fox-Fig"
     },
     {
@@ -2057,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 123,
       "user": "jasperan"
     },
     {
@@ -2072,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 120,
       "user": "quailyquaily"
     },
     {
@@ -2087,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 67,
       "user": "almonk"
     },
     {
