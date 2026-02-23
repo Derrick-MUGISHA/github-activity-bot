@@ -73,6 +73,21 @@
       "user": "CodeNameGrant"
     },
     {
+      "title": "Everything I've learned so far about .cursorrules after mass testing them",
+      "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
+      "published_at": "2026-02-22T22:34:02Z",
+      "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
+      "tags": [
+        "cursor",
+        "ai",
+        "cursorrules",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
+      "source": "Dev.to",
+      "user": "Ned C"
+    },
+    {
       "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
       "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
       "published_at": "2026-02-23T00:28:37Z",
@@ -101,21 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
       "source": "Dev.to",
       "user": "Tom Hayes"
-    },
-    {
-      "title": "Everything I've learned so far about .cursorrules after mass testing them",
-      "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
-      "published_at": "2026-02-22T22:34:02Z",
-      "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
-      "tags": [
-        "cursor",
-        "ai",
-        "cursorrules",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
-      "source": "Dev.to",
-      "user": "Ned C"
     },
     {
       "title": "Hello World with Agent Skills",
@@ -201,6 +201,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcbxwrtg3j7npg6ub4mmo.png",
       "source": "Dev.to",
       "user": "Ian Wilson"
+    },
+    {
+      "title": "I feel lost on AI",
+      "url": "https://dev.to/therogvarok/i-feel-lost-on-ai-367c",
+      "published_at": "2026-02-22T01:56:58Z",
+      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
+      "tags": [
+        "discuss",
+        "community",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
+      "source": "Dev.to",
+      "user": "Ed"
     },
     {
       "title": "One OpenClaw Gateway Multiple Isolated AI Assistants (One Telegram Bot Per Worker)",
@@ -569,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 183,
       "user": "vikasprogrammer"
     },
     {
@@ -599,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 406,
       "user": "Pickle-Pixel"
     },
     {
@@ -614,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 338,
       "user": "badaramoni"
     },
     {
@@ -644,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "quailyquaily"
     },
     {
@@ -659,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 70,
       "user": "almonk"
     }
   ],
@@ -1050,7 +1064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 336,
       "user": "dimartarmizi"
     },
     {
@@ -1065,7 +1079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "khalildh"
     },
     {
@@ -1095,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 226,
       "user": "vava-nessa"
     },
     {
@@ -1110,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 183,
       "user": "vikasprogrammer"
     }
   ],
@@ -1292,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1190,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1322,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 654,
       "user": "olvvier"
     },
     {
@@ -1337,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 406,
       "user": "Pickle-Pixel"
     },
     {
@@ -1352,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 338,
       "user": "badaramoni"
     }
   ],
@@ -1493,21 +1507,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
       "source": "Dev.to",
       "user": "Loaiabdalslam"
-    },
-    {
-      "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
-      "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
-      "published_at": "2026-02-09T14:43:12Z",
-      "description": "👉 Before you continue: This guide assumes you’re already familiar with the Wishlist Power web...",
-      "tags": [
-        "shopify",
-        "webdev",
-        "frontend",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
-      "source": "Dev.to",
-      "user": "Fabien Sebban"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1688,21 +1687,6 @@
       "user": "Natnael Getenew"
     },
     {
-      "title": "Pseudonymization vs. Anonymization: Which One Actually Protects Your Data?",
-      "url": "https://dev.to/manualwise/pseudonymization-vs-anonymization-which-one-actually-protects-your-data-94k",
-      "published_at": "2026-02-20T14:42:42Z",
-      "description": "I've seen this play out dozens of times. Your team needs production data to test a new feature. I've...",
-      "tags": [
-        "data",
-        "privacy",
-        "security",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4ntnyef5z3nqpnrd2xu.png",
-      "source": "Dev.to",
-      "user": "Manuel Weiss"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1717,19 +1701,19 @@
   ],
   "Tools": [
     {
-      "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
-      "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
-      "published_at": "2026-02-23T00:28:37Z",
-      "description": "Custom agents have been in AI coding tools for months. We finally connected the dots—the documentation system we'd been building was already the blueprint for a team of specialists.",
+      "title": "Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint",
+      "url": "https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7",
+      "published_at": "2026-02-23T17:08:17Z",
+      "description": "...",
       "tags": [
-        "ai",
-        "productivity",
-        "automation",
-        "devrel"
+        "codequality",
+        "opensource",
+        "showdev",
+        "tooling"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3bp8k90c619g27epwbk.png",
       "source": "Dev.to",
-      "user": "Dorothy J Aubrey"
+      "user": "Ned C"
     },
     {
       "title": "Everything I've learned so far about .cursorrules after mass testing them",
@@ -1745,6 +1729,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
       "source": "Dev.to",
       "user": "Ned C"
+    },
+    {
+      "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
+      "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
+      "published_at": "2026-02-23T00:28:37Z",
+      "description": "Custom agents have been in AI coding tools for months. We finally connected the dots—the documentation system we'd been building was already the blueprint for a team of specialists.",
+      "tags": [
+        "ai",
+        "productivity",
+        "automation",
+        "devrel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
+      "source": "Dev.to",
+      "user": "Dorothy J Aubrey"
     },
     {
       "title": "Get React out of my terminal: a case for headless mode",
@@ -1908,21 +1907,6 @@
       "user": "Niccolò Olivieri Achille"
     },
     {
-      "title": "Pseudonymization vs. Anonymization: Which One Actually Protects Your Data?",
-      "url": "https://dev.to/manualwise/pseudonymization-vs-anonymization-which-one-actually-protects-your-data-94k",
-      "published_at": "2026-02-20T14:42:42Z",
-      "description": "I've seen this play out dozens of times. Your team needs production data to test a new feature. I've...",
-      "tags": [
-        "data",
-        "privacy",
-        "security",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4ntnyef5z3nqpnrd2xu.png",
-      "source": "Dev.to",
-      "user": "Manuel Weiss"
-    },
-    {
       "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
       "url": "https://github.com/dimartarmizi/map-to-poster",
       "published_at": "2026-02-17T09:03:26Z",
@@ -1934,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 336,
       "user": "dimartarmizi"
     },
     {
@@ -1949,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "khalildh"
     },
     {
@@ -1979,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 226,
       "user": "vava-nessa"
     },
     {
@@ -1994,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 183,
       "user": "vikasprogrammer"
     },
     {
@@ -2009,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1190,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2039,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 654,
       "user": "olvvier"
     },
     {
@@ -2054,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 406,
       "user": "Pickle-Pixel"
     },
     {
@@ -2069,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 338,
       "user": "badaramoni"
     },
     {
@@ -2084,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "Fox-Fig"
     },
     {
@@ -2114,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "quailyquaily"
     },
     {
@@ -2129,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 70,
       "user": "almonk"
     },
     {
