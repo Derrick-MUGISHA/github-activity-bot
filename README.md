@@ -36,9 +36,9 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**WebDev**: 🟦🟦🟦 6 (5.7%)
-
 **DevOps**: 🟦🟦 5 (4.8%)
+
+**WebDev**: 🟦🟦 5 (4.8%)
 
 **Security**: 🟦🟦 5 (4.8%)
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![typescript](https://img.shields.io/badge/typescript-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![typescript](https://img.shields.io/badge/typescript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) 
 
 
 
@@ -164,6 +164,15 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg66kkbt5nsy50za29jmt.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+      <br/>
+      <b>Top 7 Featured DEV Posts of the Week</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3bp8k90c619g27epwbk.png" width="200" alt="Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint" />
       <br/>
@@ -181,15 +190,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flj1e097uh4ulmmeoc9no.jpeg" width="200" alt="I Left My First Hackathon at 8 PM — And it Was a Massive Success!" />
-      <br/>
-      <b>I Left My First Hackathon at 8 PM — And it Was a M...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -200,12 +200,13 @@ npm run test
 - [First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!](https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3) _[Dev.to]_
 - [The Increasing Need for Human Connection in the Age of AI](https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd) _[Dev.to]_
 - [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc) _[Dev.to]_
 - [Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint](https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7) _[Dev.to]_
 - [I Said Yes to Everything for a Year. Here's What It Cost Me.](https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib) _[Dev.to]_
 - [I Left My First Hackathon at 8 PM — And it Was a Massive Success!](https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme) _[Dev.to]_
 - [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g) _[Dev.to]_
-- [LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)](https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4) _[Dev.to]_
 - [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884) _[Dev.to]_
+- [LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)](https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4) _[Dev.to]_
 - [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
 - [Get React out of my terminal: a case for headless mode](https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie) _[Dev.to]_
 - [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
@@ -216,9 +217,8 @@ npm run test
 - [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 - [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4) _[Dev.to]_
 - [Stop Rebuilding Modals: A Deep Dive into the <dialog> Element](https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko) _[Dev.to]_
-- [Getting Started with LLM Gateway in 5 Minutes](https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p) _[Dev.to]_
 
-_Last automated update: Tue, 24 Feb 2026 22:04:35 CAT_
+_Last automated update: Tue, 24 Feb 2026 22:55:53 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 24 Feb 2026 22:04:35 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Heap, stack, garbage collection
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Feb 2026 20:04:35 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Feb 2026 20:55:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
