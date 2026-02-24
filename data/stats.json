@@ -29,7 +29,8 @@
   },
   "by_date": {
     "2026-02-23": 12,
-    "2026-02-22": 11,
+    "2026-02-24": 1,
+    "2026-02-22": 10,
     "2026-02-18": 5,
     "2026-02-20": 7,
     "2026-02-19": 11,
@@ -91,9 +92,9 @@
     "opensource": 5,
     "showdev": 5,
     "productivity": 5,
+    "career": 4,
     "devops": 4,
-    "rust": 4,
-    "frontend": 4
+    "rust": 4
   },
   "trending_topics": [],
   "language_percentages": {
