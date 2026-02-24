@@ -28,6 +28,21 @@
       "user": "Chandravijay Agrawal"
     },
     {
+      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
+      "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
+      "published_at": "2026-02-23T23:11:18Z",
+      "description": "Postman didn't become essential by testing APIs. It became essential by showing developers what was...",
+      "tags": [
+        "ucp",
+        "postman",
+        "playground",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
+      "source": "Dev.to",
+      "user": "Benji Fisher"
+    },
+    {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
       "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
       "published_at": "2026-02-23T11:31:51Z",
@@ -101,20 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "Hello World with Agent Skills",
-      "url": "https://dev.to/daveu1983/hello-world-with-agent-skills-ngj",
-      "published_at": "2026-02-22T21:07:05Z",
-      "description": "After hearing about Agent skills, I thought I would try it out and where better to start than Hello...",
-      "tags": [
-        "ai",
-        "beginners",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ayz5ad87jin8u8h31kw.png",
-      "source": "Dev.to",
-      "user": "Daveu1983"
     },
     {
       "title": "Get React out of my terminal: a case for headless mode",
@@ -583,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 254,
       "user": "vava-nessa"
     },
     {
@@ -598,8 +599,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 190,
       "user": "vikasprogrammer"
+    },
+    {
+      "title": "userland-run/nano - nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
+      "url": "https://github.com/userland-run/nano",
+      "published_at": "2026-02-18T14:34:15Z",
+      "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "userland-run"
+    },
+    {
+      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
+      "published_at": "2026-02-21T23:34:11Z",
+      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "DaveMoudy"
     },
     {
       "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
@@ -613,23 +644,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 692,
       "user": "CraftyGeezer"
-    },
-    {
-      "title": "Pickle-Pixel/ApplyPilot - AI agent that applies to jobs for you. Any site. Any form.",
-      "url": "https://github.com/Pickle-Pixel/ApplyPilot",
-      "published_at": "2026-02-17T16:22:54Z",
-      "description": "AI agent that applies to jobs for you. Any site. Any form.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
-      "source": "GitHub",
-      "stars": 427,
-      "user": "Pickle-Pixel"
     },
     {
       "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
@@ -643,8 +659,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 349,
       "user": "badaramoni"
+    },
+    {
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
+      "source": "GitHub",
+      "stars": 316,
+      "user": "ochyai"
     },
     {
       "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
@@ -658,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 141,
       "user": "jasperan"
     },
     {
@@ -673,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 140,
       "user": "quailyquaily"
     },
     {
@@ -688,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "almonk"
     }
   ],
@@ -1053,36 +1084,6 @@
       "user": "velmu"
     },
     {
-      "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "url": "https://github.com/dimartarmizi/map-to-poster",
-      "published_at": "2026-02-17T09:03:26Z",
-      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
-      "source": "GitHub",
-      "stars": 358,
-      "user": "dimartarmizi"
-    },
-    {
-      "title": "khalildh/garment-notation - GitHub Repository",
-      "url": "https://github.com/khalildh/garment-notation",
-      "published_at": "2026-02-17T06:50:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "khalildh"
-    },
-    {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
       "url": "https://github.com/yeuxuan/openclaw-docs",
       "published_at": "2026-02-19T02:30:39Z",
@@ -1094,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 289,
       "user": "yeuxuan"
     },
     {
@@ -1109,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 254,
       "user": "vava-nessa"
     },
     {
@@ -1124,8 +1125,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 190,
       "user": "vikasprogrammer"
+    },
+    {
+      "title": "userland-run/nano - nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
+      "url": "https://github.com/userland-run/nano",
+      "published_at": "2026-02-18T14:34:15Z",
+      "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "userland-run"
+    },
+    {
+      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
+      "published_at": "2026-02-21T23:34:11Z",
+      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "DaveMoudy"
     }
   ],
   "Python": [
@@ -1306,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1240,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1321,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 692,
       "user": "CraftyGeezer"
     },
     {
@@ -1336,23 +1367,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 680,
       "user": "olvvier"
-    },
-    {
-      "title": "Pickle-Pixel/ApplyPilot - AI agent that applies to jobs for you. Any site. Any form.",
-      "url": "https://github.com/Pickle-Pixel/ApplyPilot",
-      "published_at": "2026-02-17T16:22:54Z",
-      "description": "AI agent that applies to jobs for you. Any site. Any form.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
-      "source": "GitHub",
-      "stars": 427,
-      "user": "Pickle-Pixel"
     },
     {
       "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
@@ -1366,26 +1382,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 349,
       "user": "badaramoni"
+    },
+    {
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
+      "source": "GitHub",
+      "stars": 316,
+      "user": "ochyai"
     }
   ],
   "DevOps": [
-    {
-      "title": "Switching Minikube from Docker Driver to kvm2 for Better Stability",
-      "url": "https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil",
-      "published_at": "2026-02-23T05:44:59Z",
-      "description": "#kubernetes #minikube #devops #linux #kvm",
-      "tags": [
-        "devops",
-        "kubernetes",
-        "linux",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgmyxrm2gj50agll4uild.png",
-      "source": "Dev.to",
-      "user": "iapilgrim"
-    },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
@@ -1400,6 +1416,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "Switching Minikube from Docker Driver to kvm2 for Better Stability",
+      "url": "https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil",
+      "published_at": "2026-02-23T05:44:59Z",
+      "description": "#kubernetes #minikube #devops #linux #kvm",
+      "tags": [
+        "devops",
+        "kubernetes",
+        "linux",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgmyxrm2gj50agll4uild.png",
+      "source": "Dev.to",
+      "user": "iapilgrim"
     },
     {
       "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
@@ -1606,7 +1637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 141,
       "user": "jasperan"
     }
   ],
@@ -1698,6 +1729,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3bp8k90c619g27epwbk.png",
       "source": "Dev.to",
       "user": "Ned C"
+    },
+    {
+      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
+      "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
+      "published_at": "2026-02-23T23:11:18Z",
+      "description": "Postman didn't become essential by testing APIs. It became essential by showing developers what was...",
+      "tags": [
+        "ucp",
+        "postman",
+        "playground",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
+      "source": "Dev.to",
+      "user": "Benji Fisher"
     },
     {
       "title": "Everything I've learned so far about .cursorrules after mass testing them",
@@ -1876,36 +1922,6 @@
       "user": "David Alcala"
     },
     {
-      "title": "dimartarmizi/map-to-poster - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "url": "https://github.com/dimartarmizi/map-to-poster",
-      "published_at": "2026-02-17T09:03:26Z",
-      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
-      "source": "GitHub",
-      "stars": 358,
-      "user": "dimartarmizi"
-    },
-    {
-      "title": "khalildh/garment-notation - GitHub Repository",
-      "url": "https://github.com/khalildh/garment-notation",
-      "published_at": "2026-02-17T06:50:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16530987?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "khalildh"
-    },
-    {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
       "url": "https://github.com/yeuxuan/openclaw-docs",
       "published_at": "2026-02-19T02:30:39Z",
@@ -1917,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 289,
       "user": "yeuxuan"
     },
     {
@@ -1932,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 254,
       "user": "vava-nessa"
     },
     {
@@ -1947,8 +1963,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 190,
       "user": "vikasprogrammer"
+    },
+    {
+      "title": "userland-run/nano - nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
+      "url": "https://github.com/userland-run/nano",
+      "published_at": "2026-02-18T14:34:15Z",
+      "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "userland-run"
+    },
+    {
+      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
+      "published_at": "2026-02-21T23:34:11Z",
+      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "DaveMoudy"
     },
     {
       "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
@@ -1962,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1240,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1977,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 692,
       "user": "CraftyGeezer"
     },
     {
@@ -1992,23 +2038,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 680,
       "user": "olvvier"
-    },
-    {
-      "title": "Pickle-Pixel/ApplyPilot - AI agent that applies to jobs for you. Any site. Any form.",
-      "url": "https://github.com/Pickle-Pixel/ApplyPilot",
-      "published_at": "2026-02-17T16:22:54Z",
-      "description": "AI agent that applies to jobs for you. Any site. Any form.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142660885?v=4",
-      "source": "GitHub",
-      "stars": 427,
-      "user": "Pickle-Pixel"
     },
     {
       "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
@@ -2022,8 +2053,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 349,
       "user": "badaramoni"
+    },
+    {
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
+      "source": "GitHub",
+      "stars": 316,
+      "user": "ochyai"
     },
     {
       "title": "Fox-Fig/phoenix - Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing.",
@@ -2037,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "Fox-Fig"
     },
     {
@@ -2052,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 141,
       "user": "jasperan"
     },
     {
@@ -2067,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 140,
       "user": "quailyquaily"
     },
     {
@@ -2082,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 89,
       "user": "wesm"
     },
     {
@@ -2097,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "almonk"
     }
   ]
