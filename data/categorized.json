@@ -16,6 +16,21 @@
       "user": "Julien Avezou"
     },
     {
+      "title": "A Quick Recovery Guide for AI-Dependent Coders",
+      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
+      "published_at": "2026-02-23T05:00:00Z",
+      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
+    },
+    {
       "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
       "url": "https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib",
       "published_at": "2026-02-23T15:50:04Z",
@@ -99,21 +114,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
       "source": "Dev.to",
       "user": "Romain Lespinasse"
-    },
-    {
-      "title": "A Quick Recovery Guide for AI-Dependent Coders",
-      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
-      "published_at": "2026-02-23T05:00:00Z",
-      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -600,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "userland-run"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 683,
       "user": "CraftyGeezer"
     },
     {
@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 393,
       "user": "ochyai"
     },
     {
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "quailyquaily"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 144,
       "user": "jasperan"
     },
     {
@@ -1051,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "yeuxuan"
     },
     {
@@ -1096,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "direkturcrypto"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "userland-run"
     }
   ],
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1280,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1308,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 683,
       "user": "CraftyGeezer"
     },
     {
@@ -1323,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "runesleo"
     },
     {
@@ -1338,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 393,
       "user": "ochyai"
     }
   ],
@@ -1609,7 +1609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 144,
       "user": "jasperan"
     }
   ],
@@ -1920,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "yeuxuan"
     },
     {
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "direkturcrypto"
     },
     {
@@ -1980,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "userland-run"
     },
     {
@@ -1995,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1280,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2025,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 683,
       "user": "CraftyGeezer"
     },
     {
@@ -2040,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "runesleo"
     },
     {
@@ -2055,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 393,
       "user": "ochyai"
     },
     {
@@ -2070,23 +2070,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "quailyquaily"
-    },
-    {
-      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
-      "url": "https://github.com/jasperan/picooraclaw",
-      "published_at": "2026-02-18T04:44:35Z",
-      "description": "PicoClaw that works with Oracle AI Database",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
-      "source": "GitHub",
-      "stars": 148,
-      "user": "jasperan"
     },
     {
       "title": "Fox-Fig/phoenix - Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing.",
@@ -2102,6 +2087,21 @@
       "source": "GitHub",
       "stars": 146,
       "user": "Fox-Fig"
+    },
+    {
+      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
+      "url": "https://github.com/jasperan/picooraclaw",
+      "published_at": "2026-02-18T04:44:35Z",
+      "description": "PicoClaw that works with Oracle AI Database",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "jasperan"
     },
     {
       "title": "wesm/agentsview - Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search",
