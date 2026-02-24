@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
-      "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
-      "published_at": "2026-02-23T23:11:18Z",
-      "description": "Postman didn't become essential by testing APIs. It became essential by showing developers what was...",
-      "tags": [
-        "ucp",
-        "postman",
-        "playground",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
-      "source": "Dev.to",
-      "user": "Benji Fisher"
-    },
-    {
       "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
       "url": "https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib",
       "published_at": "2026-02-23T15:50:04Z",
@@ -86,6 +71,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
+      "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
+      "published_at": "2026-02-23T23:11:18Z",
+      "description": "Postman didn't become essential by testing APIs. It became essential by showing developers what was...",
+      "tags": [
+        "ucp",
+        "postman",
+        "playground",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
+      "source": "Dev.to",
+      "user": "Benji Fisher"
     },
     {
       "title": "Get React out of my terminal: a case for headless mode",
@@ -413,6 +413,20 @@
       "user": "Natnael Getenew"
     },
     {
+      "title": "I feel lost on AI",
+      "url": "https://dev.to/therogvarok/i-feel-lost-on-ai-367c",
+      "published_at": "2026-02-22T01:56:58Z",
+      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
+      "tags": [
+        "discuss",
+        "community",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
+      "source": "Dev.to",
+      "user": "Ed"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -556,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "vava-nessa"
     },
     {
@@ -571,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "vikasprogrammer"
     },
     {
@@ -601,8 +615,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 692,
       "user": "CraftyGeezer"
+    },
+    {
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
+      "source": "GitHub",
+      "stars": 366,
+      "user": "ochyai"
     },
     {
       "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
@@ -620,21 +649,6 @@
       "user": "badaramoni"
     },
     {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
-      "source": "GitHub",
-      "stars": 360,
-      "user": "ochyai"
-    },
-    {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
       "url": "https://github.com/quailyquaily/aqua",
       "published_at": "2026-02-21T19:04:48Z",
@@ -646,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "quailyquaily"
     },
     {
@@ -676,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "almonk"
     }
   ],
@@ -710,21 +724,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
       "source": "Dev.to",
       "user": "Anton"
-    },
-    {
-      "title": "Hexagonal Architecture in Angular - A Practical, Minimal Use Case",
-      "url": "https://dev.to/nugetchar/hexagonal-architecture-in-angular-a-practical-minimal-use-case-3og5",
-      "published_at": "2026-02-20T10:05:20Z",
-      "description": "In today's article, we are gonna learn a bit more about hexagonal architecture with Angular. This...",
-      "tags": [
-        "angular",
-        "hexagonal",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq1w14vsxepsioh1r89pl.png",
-      "source": "Dev.to",
-      "user": "Thomas Toledo-Pierre"
     },
     {
       "title": "Building a Gmail/Outlook email preview component for Vue",
@@ -1067,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "yeuxuan"
     },
     {
@@ -1082,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "vava-nessa"
     },
     {
@@ -1097,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "vikasprogrammer"
     },
     {
@@ -1112,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "direkturcrypto"
     },
     {
@@ -1309,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1263,
+      "stars": 1264,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1324,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 735,
       "user": "olvvier"
     },
     {
@@ -1339,8 +1338,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 692,
       "user": "CraftyGeezer"
+    },
+    {
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
+      "source": "GitHub",
+      "stars": 366,
+      "user": "ochyai"
     },
     {
       "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
@@ -1356,21 +1370,6 @@
       "source": "GitHub",
       "stars": 364,
       "user": "badaramoni"
-    },
-    {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
-      "source": "GitHub",
-      "stars": 360,
-      "user": "ochyai"
     }
   ],
   "DevOps": [
@@ -1510,6 +1509,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
       "source": "Dev.to",
       "user": "Loaiabdalslam"
+    },
+    {
+      "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
+      "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
+      "published_at": "2026-02-09T14:43:12Z",
+      "description": "👉 Before you continue: This guide assumes you’re already familiar with the Wishlist Power web...",
+      "tags": [
+        "shopify",
+        "webdev",
+        "frontend",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
+      "source": "Dev.to",
+      "user": "Fabien Sebban"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1719,21 +1733,6 @@
       "user": "Ned C"
     },
     {
-      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
-      "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
-      "published_at": "2026-02-23T23:11:18Z",
-      "description": "Postman didn't become essential by testing APIs. It became essential by showing developers what was...",
-      "tags": [
-        "ucp",
-        "postman",
-        "playground",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
-      "source": "Dev.to",
-      "user": "Benji Fisher"
-    },
-    {
       "title": "Everything I've learned so far about .cursorrules after mass testing them",
       "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
       "published_at": "2026-02-22T22:34:02Z",
@@ -1747,6 +1746,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
       "source": "Dev.to",
       "user": "Ned C"
+    },
+    {
+      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
+      "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
+      "published_at": "2026-02-23T23:11:18Z",
+      "description": "Postman didn't become essential by testing APIs. It became essential by showing developers what was...",
+      "tags": [
+        "ucp",
+        "postman",
+        "playground",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
+      "source": "Dev.to",
+      "user": "Benji Fisher"
     },
     {
       "title": "Get React out of my terminal: a case for headless mode",
@@ -1936,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "yeuxuan"
     },
     {
@@ -1951,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "vava-nessa"
     },
     {
@@ -1966,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "vikasprogrammer"
     },
     {
@@ -1981,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "direkturcrypto"
     },
     {
@@ -2011,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1263,
+      "stars": 1264,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2026,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 735,
       "user": "olvvier"
     },
     {
@@ -2041,8 +2055,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 692,
       "user": "CraftyGeezer"
+    },
+    {
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
+      "source": "GitHub",
+      "stars": 366,
+      "user": "ochyai"
     },
     {
       "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
@@ -2060,21 +2089,6 @@
       "user": "badaramoni"
     },
     {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
-      "source": "GitHub",
-      "stars": 360,
-      "user": "ochyai"
-    },
-    {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
       "url": "https://github.com/quailyquaily/aqua",
       "published_at": "2026-02-21T19:04:48Z",
@@ -2086,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "quailyquaily"
     },
     {
@@ -2131,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "wesm"
     },
     {
@@ -2146,7 +2160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "almonk"
     }
   ]
