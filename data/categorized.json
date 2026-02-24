@@ -31,6 +31,20 @@
       "user": "Julien Avezou"
     },
     {
+      "title": "Once Upon a Time, Writing Code Was Fun",
+      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
+      "published_at": "2026-02-24T20:11:41Z",
+      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
+      "tags": [
+        "ai",
+        "programming",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
+      "source": "Dev.to",
+      "user": "Abdelrahman Ismail"
+    },
+    {
       "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
       "published_at": "2026-02-24T03:56:47Z",
@@ -44,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
       "source": "Dev.to",
       "user": "Matthew Hou"
+    },
+    {
+      "title": "Software 3.1? - AI Functions",
+      "url": "https://dev.to/aws/software-31-ai-functions-5acn",
+      "published_at": "2026-02-24T06:19:23Z",
+      "description": "Andrej Karpathy has a version numbering scheme for how software gets written. Software 1.0 is code...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F24up6tniqihuhyhshqap.png",
+      "source": "Dev.to",
+      "user": "Mike Chambers"
     },
     {
       "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
@@ -600,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 116,
       "user": "userland-run"
     },
     {
@@ -630,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 399,
       "user": "ochyai"
     },
     {
@@ -890,21 +919,6 @@
       "user": "Natnael Getenew"
     },
     {
-      "title": "Handy Bit Manipulation Tricks",
-      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
-      "published_at": "2026-02-13T06:54:48Z",
-      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component...",
-      "tags": [
-        "algorithms",
-        "programming",
-        "javascript",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F23ezcxw3fgp7pbupk687.png",
-      "source": "Dev.to",
-      "user": "Manuj Sankrit"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1081,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "direkturcrypto"
     },
     {
@@ -1096,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 116,
       "user": "userland-run"
     }
   ],
@@ -1278,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 770,
       "user": "olvvier"
     },
     {
@@ -1323,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 399,
       "user": "ochyai"
     }
   ],
@@ -1493,23 +1507,7 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [
-    {
-      "title": "My New Language That’s Almost Done",
-      "url": "https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31",
-      "published_at": "2026-02-09T20:10:51Z",
-      "description": "I’ve been building a programming language for the past 3 months. Although it’s written in Swift, I’m...",
-      "tags": [
-        "programming",
-        "showdev",
-        "sideprojects",
-        "swift"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Focscz47o1wxswnzbq3eb.png",
-      "source": "Dev.to",
-      "user": "Ryan Bae"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
@@ -1965,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "direkturcrypto"
     },
     {
@@ -1980,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 116,
       "user": "userland-run"
     },
     {
@@ -2010,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 770,
       "user": "olvvier"
     },
     {
@@ -2055,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 399,
       "user": "ochyai"
     },
     {
@@ -2115,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "wesm"
     },
     {
