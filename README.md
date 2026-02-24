@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
@@ -59,21 +59,21 @@
 
 ```
 JavaScript      ██████████████████████████████ 34.1 (34.1%)
-Java            ███████████████████ 21.2 (21.2%)
-Python          ██████████████████ 20.0 (20.0%)
-Go              ███████████████ 17.6 (17.6%)
-Rust            ████ 4.7 (4.7%)
-CSharp          █ 1.2 (1.2%)
-PHP             █ 1.2 (1.2%)
+Java            ███████████████████ 21.6 (21.6%)
+Python          █████████████████ 19.3 (19.3%)
+Go              ████████████████ 18.2 (18.2%)
+Rust            ████ 4.5 (4.5%)
+CSharp          █ 1.1 (1.1%)
+PHP             █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 29
-    "Java" : 18
+    "JavaScript" : 30
+    "Java" : 19
     "Python" : 17
-    "Go" : 15
+    "Go" : 16
     "Rust" : 4
     "CSharp" : 1
     "PHP" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![devops](https://img.shields.io/badge/devops-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![typescript](https://img.shields.io/badge/typescript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![devops](https://img.shields.io/badge/devops-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
 
 
 
@@ -214,7 +214,7 @@ npm run test
 - [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f) _[Dev.to]_
 - [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 
-_Last automated update: Wed, 25 Feb 2026 01:28:08 CAT_
+_Last automated update: Wed, 25 Feb 2026 01:56:56 CAT_
 
 
 
@@ -222,29 +222,7 @@ _Last automated update: Wed, 25 Feb 2026 01:28:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
-
-<details>
-<summary>💡 Hint</summary>
-
-Heap, stack, garbage collection
-
-</details>
-
-### 2. Database: What is database normalization and denormalization?
-
-**Difficulty**: Medium | **Topics**: design, optimization
-
-<details>
-<summary>💡 Hint</summary>
-
-Normal forms, redundancy, performance trade-offs
-
-</details>
-
-### 3. Java: What are Java Streams and how do they work?
+### 1. Java: What are Java Streams and how do they work?
 
 **Difficulty**: Medium | **Topics**: functional programming, collections
 
@@ -252,6 +230,28 @@ Normal forms, redundancy, performance trade-offs
 <summary>💡 Hint</summary>
 
 Lazy evaluation, pipeline, terminal operations
+
+</details>
+
+### 2. Python: Explain decorators in Python with an example
+
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
+
+<details>
+<summary>💡 Hint</summary>
+
+Function wrappers, @syntax, practical uses
+
+</details>
+
+### 3. SystemDesign: Design a URL shortening service like bit.ly
+
+**Difficulty**: Medium | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Feb 2026 23:28:08 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Feb 2026 23:56:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
