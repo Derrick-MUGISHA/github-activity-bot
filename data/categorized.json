@@ -278,21 +278,6 @@
       "user": "David Alcala"
     },
     {
-      "title": "Everything I've learned so far about .cursorrules after mass testing them",
-      "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
-      "published_at": "2026-02-22T22:34:02Z",
-      "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
-      "tags": [
-        "cursor",
-        "ai",
-        "cursorrules",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
-      "source": "Dev.to",
-      "user": "Ned C"
-    },
-    {
       "title": "Software engineering is not dead",
       "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
       "published_at": "2026-02-16T23:29:28Z",
@@ -599,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "vava-nessa"
     },
     {
@@ -614,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "vikasprogrammer"
     },
     {
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "CraftyGeezer"
     },
     {
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 401,
       "user": "ochyai"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "quailyquaily"
     },
     {
@@ -919,6 +904,21 @@
       "user": "Natnael Getenew"
     },
     {
+      "title": "Handy Bit Manipulation Tricks",
+      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
+      "published_at": "2026-02-13T06:54:48Z",
+      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component...",
+      "tags": [
+        "algorithms",
+        "programming",
+        "javascript",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F23ezcxw3fgp7pbupk687.png",
+      "source": "Dev.to",
+      "user": "Manuj Sankrit"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1065,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "vava-nessa"
     },
     {
@@ -1080,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "vikasprogrammer"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 771,
       "user": "olvvier"
     },
     {
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "CraftyGeezer"
     },
     {
@@ -1337,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 401,
       "user": "ochyai"
     }
   ],
@@ -1877,21 +1877,6 @@
       "user": "David Alcala"
     },
     {
-      "title": "Everything I've learned so far about .cursorrules after mass testing them",
-      "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
-      "published_at": "2026-02-22T22:34:02Z",
-      "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
-      "tags": [
-        "cursor",
-        "ai",
-        "cursorrules",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
-      "source": "Dev.to",
-      "user": "Ned C"
-    },
-    {
       "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
       "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
       "published_at": "2026-02-23T00:28:37Z",
@@ -1933,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "vava-nessa"
     },
     {
@@ -1948,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "vikasprogrammer"
     },
     {
@@ -2008,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 771,
       "user": "olvvier"
     },
     {
@@ -2023,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "CraftyGeezer"
     },
     {
@@ -2053,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 401,
       "user": "ochyai"
     },
     {
@@ -2068,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "quailyquaily"
     },
     {
@@ -2113,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "wesm"
     },
     {
