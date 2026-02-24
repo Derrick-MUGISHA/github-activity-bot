@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "A Quick Recovery Guide for AI-Dependent Coders",
+      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
+      "published_at": "2026-02-23T05:00:00Z",
+      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
+    },
+    {
       "title": "The Increasing Need for Human Connection in the Age of AI",
       "url": "https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd",
       "published_at": "2026-02-24T12:02:47Z",
@@ -16,19 +31,19 @@
       "user": "Julien Avezou"
     },
     {
-      "title": "A Quick Recovery Guide for AI-Dependent Coders",
-      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
-      "published_at": "2026-02-23T05:00:00Z",
-      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
       "tags": [
-        "beginners",
         "ai",
-        "coding",
-        "softwaredevelopment"
+        "testing",
+        "discuss",
+        "codequality"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
       "source": "Dev.to",
-      "user": "Cesar Aguirre"
+      "user": "Matthew Hou"
     },
     {
       "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
@@ -570,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 302,
       "user": "vava-nessa"
     },
     {
@@ -585,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "vikasprogrammer"
     },
     {
@@ -600,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 116,
       "user": "userland-run"
     },
     {
@@ -615,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 684,
       "user": "CraftyGeezer"
     },
     {
@@ -905,21 +920,6 @@
       "user": "Manuj Sankrit"
     },
     {
-      "title": "Why I built yet another release tool for npm",
-      "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
-      "published_at": "2026-02-13T22:33:56Z",
-      "description": "Years of frustration with existing tools led me to build bonvoy",
-      "tags": [
-        "javascript",
-        "npm",
-        "opensource",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
-      "source": "Dev.to",
-      "user": "Niccolò Olivieri Achille"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1066,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 302,
       "user": "vava-nessa"
     },
     {
@@ -1081,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "vikasprogrammer"
     },
     {
@@ -1096,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "direkturcrypto"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 116,
       "user": "userland-run"
     }
   ],
@@ -1308,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 684,
       "user": "CraftyGeezer"
     },
     {
@@ -1323,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 402,
       "user": "runesleo"
     },
     {
@@ -1673,6 +1673,21 @@
   ],
   "Tools": [
     {
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
+      "tags": [
+        "ai",
+        "testing",
+        "discuss",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
+      "source": "Dev.to",
+      "user": "Matthew Hou"
+    },
+    {
       "title": "Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint",
       "url": "https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7",
       "published_at": "2026-02-23T17:08:17Z",
@@ -1879,21 +1894,6 @@
       "user": "Dorothy J Aubrey"
     },
     {
-      "title": "Why I built yet another release tool for npm",
-      "url": "https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m",
-      "published_at": "2026-02-13T22:33:56Z",
-      "description": "Years of frustration with existing tools led me to build bonvoy",
-      "tags": [
-        "javascript",
-        "npm",
-        "opensource",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fzweer.github.io%2Fbonvoy%2Fbonvoy-logo.png",
-      "source": "Dev.to",
-      "user": "Niccolò Olivieri Achille"
-    },
-    {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
       "url": "https://github.com/yeuxuan/openclaw-docs",
       "published_at": "2026-02-19T02:30:39Z",
@@ -1920,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 302,
       "user": "vava-nessa"
     },
     {
@@ -1935,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "vikasprogrammer"
     },
     {
@@ -1950,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "direkturcrypto"
     },
     {
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 116,
       "user": "userland-run"
     },
     {
@@ -2010,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 684,
       "user": "CraftyGeezer"
     },
     {
@@ -2025,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 402,
       "user": "runesleo"
     },
     {
@@ -2100,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "wesm"
     },
     {
