@@ -353,21 +353,6 @@
       "user": "SnykSec"
     },
     {
-      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
-      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
-      "published_at": "2026-02-14T23:30:20Z",
-      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
-      "tags": [
-        "ai",
-        "javascript",
-        "cicd",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
-      "source": "Dev.to",
-      "user": "Monarch Wadia"
-    },
-    {
       "title": "I built a CSS framework where every class name is an emoji",
       "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
       "published_at": "2026-02-23T11:38:19Z",
@@ -381,6 +366,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
       "source": "Dev.to",
       "user": "Tom Hayes"
+    },
+    {
+      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
+      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
+      "published_at": "2026-02-14T23:30:20Z",
+      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
+      "tags": [
+        "ai",
+        "javascript",
+        "cicd",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
+      "source": "Dev.to",
+      "user": "Monarch Wadia"
     },
     {
       "title": "I feel lost on AI",
@@ -570,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "vava-nessa"
     },
     {
@@ -1066,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "vava-nessa"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1285,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1293,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 768,
       "user": "olvvier"
     },
     {
@@ -1935,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "vava-nessa"
     },
     {
@@ -1995,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1285,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2010,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 768,
       "user": "olvvier"
     },
     {
