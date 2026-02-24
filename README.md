@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+
+**WebDev**: 🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
-
-**WebDev**: 🟦🟦 5 (4.8%)
 
 **Security**: 🟦🟦 5 (4.8%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 33.7 (33.7%)
-Java            ███████████████████ 21.1 (21.1%)
-Python          █████████████████ 18.9 (18.9%)
-Go              ████████████████ 17.9 (17.9%)
-Rust            █████ 5.3 (5.3%)
+JavaScript      ██████████████████████████████ 33.3 (33.3%)
+Java            ███████████████████ 21.5 (21.5%)
+Python          █████████████████ 19.4 (19.4%)
+Go              ███████████████ 17.2 (17.2%)
+Rust            █████ 5.4 (5.4%)
 CSharp          █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -73,10 +73,10 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 32
+    "JavaScript" : 31
     "Java" : 20
     "Python" : 18
-    "Go" : 17
+    "Go" : 16
     "Rust" : 5
     "CSharp" : 1
     "PHP" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![typescript](https://img.shields.io/badge/typescript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![typescript](https://img.shields.io/badge/typescript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -153,17 +153,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp" width="200" alt="We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found" />
-      <br/>
-      <b>We Ran 180 AI Agent Shopping Sessions Across 11 Mo...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmq9xqrlwdewtul35vew2.png" width="200" alt="I Said Yes to Everything for a Year. Here's What It Cost Me." />
       <br/>
@@ -172,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flj1e097uh4ulmmeoc9no.jpeg" width="200" alt="I Left My First Hackathon at 8 PM — And it Was a Massive Success!" />
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png" width="200" alt="I built a CSS framework where every class name is an emoji" />
+      <br/>
+      <b>I built a CSS framework where every class name is ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -199,7 +199,6 @@ npm run test
 
 - [First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!](https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3) _[Dev.to]_
 - [Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint](https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7) _[Dev.to]_
-- [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884) _[Dev.to]_
 - [I Said Yes to Everything for a Year. Here's What It Cost Me.](https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib) _[Dev.to]_
 - [I Left My First Hackathon at 8 PM — And it Was a Massive Success!](https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme) _[Dev.to]_
 - [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g) _[Dev.to]_
@@ -207,6 +206,7 @@ npm run test
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a3g) _[Dev.to]_
 - [Everything I've learned so far about .cursorrules after mass testing them](https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km) _[Dev.to]_
 - [LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)](https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4) _[Dev.to]_
+- [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884) _[Dev.to]_
 - [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
 - [Get React out of my terminal: a case for headless mode](https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie) _[Dev.to]_
 - [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f) _[Dev.to]_
 - [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 
-_Last automated update: Tue, 24 Feb 2026 13:12:45 CAT_
+_Last automated update: Tue, 24 Feb 2026 13:56:15 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 24 Feb 2026 13:12:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. Python: What are generators and when would you use them?
+### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Feb 2026 11:12:45 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Feb 2026 11:56:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
