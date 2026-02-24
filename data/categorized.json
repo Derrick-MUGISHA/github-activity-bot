@@ -88,21 +88,6 @@
       "user": "Benji Fisher"
     },
     {
-      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
-      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
-      "published_at": "2026-02-22T14:24:05Z",
-      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
-      "tags": [
-        "ai",
-        "mcp",
-        "programming",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "Get React out of my terminal: a case for headless mode",
       "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
       "published_at": "2026-02-22T15:36:54Z",
@@ -306,6 +291,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
       "source": "Dev.to",
       "user": "Juan G De Jesus Torres"
+    },
+    {
+      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
+      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
+      "published_at": "2026-02-22T14:24:05Z",
+      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
+      "tags": [
+        "ai",
+        "mcp",
+        "programming",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "userland-run"
     },
     {
@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 683,
       "user": "CraftyGeezer"
     },
     {
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "ochyai"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "userland-run"
     }
   ],
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1286,
+      "stars": 1288,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1308,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 683,
       "user": "CraftyGeezer"
     },
     {
@@ -1323,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 403,
       "user": "runesleo"
     },
     {
@@ -1338,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "ochyai"
     }
   ],
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "userland-run"
     },
     {
@@ -1980,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1286,
+      "stars": 1288,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2010,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 683,
       "user": "CraftyGeezer"
     },
     {
@@ -2025,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 403,
       "user": "runesleo"
     },
     {
@@ -2040,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "ochyai"
     },
     {
@@ -2100,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "wesm"
     },
     {
