@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-24 11:00 CAT)
+## 📅 Latest Updates (2026-02-24 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f) _[Dev.to]_
 - [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 
-_Last automated update: Tue, 24 Feb 2026 11:28:56 CAT_
+_Last automated update: Tue, 24 Feb 2026 12:26:53 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 24 Feb 2026 11:28:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Feb 2026 09:28:56 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Feb 2026 10:26:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
