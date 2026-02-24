@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "The Increasing Need for Human Connection in the Age of AI",
+      "url": "https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd",
+      "published_at": "2026-02-24T12:02:47Z",
+      "description": "Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...",
+      "tags": [
+        "ai",
+        "community",
+        "career",
+        "growth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuz3d3j9k7zvirrlecnp.png",
+      "source": "Dev.to",
+      "user": "Julien Avezou"
+    },
+    {
       "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
       "url": "https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib",
       "published_at": "2026-02-23T15:50:04Z",
@@ -368,6 +383,20 @@
       "user": "Tom Hayes"
     },
     {
+      "title": "I feel lost on AI",
+      "url": "https://dev.to/therogvarok/i-feel-lost-on-ai-367c",
+      "published_at": "2026-02-22T01:56:58Z",
+      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
+      "tags": [
+        "discuss",
+        "community",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
+      "source": "Dev.to",
+      "user": "Ed"
+    },
+    {
       "title": "Using Laravel Boost With DDEV",
       "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
       "published_at": "2026-02-10T00:00:00Z",
@@ -383,20 +412,6 @@
       "user": "Russell Jones"
     },
     {
-      "title": "I feel lost on AI",
-      "url": "https://dev.to/therogvarok/i-feel-lost-on-ai-367c",
-      "published_at": "2026-02-22T01:56:58Z",
-      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
-      "tags": [
-        "discuss",
-        "community",
-        "mentalhealth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
-      "source": "Dev.to",
-      "user": "Ed"
-    },
-    {
       "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
       "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
       "published_at": "2026-02-13T15:27:58Z",
@@ -410,20 +425,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
       "source": "Dev.to",
       "user": "Natnael Getenew"
-    },
-    {
-      "title": "Hello World with Agent Skills",
-      "url": "https://dev.to/daveu1983/hello-world-with-agent-skills-ngj",
-      "published_at": "2026-02-22T21:07:05Z",
-      "description": "After hearing about Agent skills, I thought I would try it out and where better to start than Hello...",
-      "tags": [
-        "ai",
-        "beginners",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ayz5ad87jin8u8h31kw.png",
-      "source": "Dev.to",
-      "user": "Daveu1983"
     },
     {
       "title": "Airfoil",
@@ -569,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 292,
       "user": "vava-nessa"
     },
     {
@@ -629,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 387,
       "user": "ochyai"
     },
     {
@@ -644,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 174,
       "user": "quailyquaily"
     },
     {
@@ -1065,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 292,
       "user": "vava-nessa"
     },
     {
@@ -1095,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 148,
       "user": "direkturcrypto"
     },
     {
@@ -1277,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1277,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1292,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 757,
       "user": "olvvier"
     },
     {
@@ -1311,21 +1312,6 @@
       "user": "CraftyGeezer"
     },
     {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
-      "source": "GitHub",
-      "stars": 388,
-      "user": "ochyai"
-    },
-    {
       "title": "runesleo/x-reader - Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
       "url": "https://github.com/runesleo/x-reader",
       "published_at": "2026-02-22T08:47:26Z",
@@ -1337,8 +1323,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 395,
       "user": "runesleo"
+    },
+    {
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
+      "source": "GitHub",
+      "stars": 387,
+      "user": "ochyai"
     }
   ],
   "DevOps": [
@@ -1934,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 292,
       "user": "vava-nessa"
     },
     {
@@ -1964,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 148,
       "user": "direkturcrypto"
     },
     {
@@ -1994,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1277,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2009,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 757,
       "user": "olvvier"
     },
     {
@@ -2028,21 +2029,6 @@
       "user": "CraftyGeezer"
     },
     {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
-      "source": "GitHub",
-      "stars": 388,
-      "user": "ochyai"
-    },
-    {
       "title": "runesleo/x-reader - Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
       "url": "https://github.com/runesleo/x-reader",
       "published_at": "2026-02-22T08:47:26Z",
@@ -2054,8 +2040,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 395,
       "user": "runesleo"
+    },
+    {
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
+      "source": "GitHub",
+      "stars": 387,
+      "user": "ochyai"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -2069,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 174,
       "user": "quailyquaily"
     },
     {
@@ -2114,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "wesm"
     },
     {
