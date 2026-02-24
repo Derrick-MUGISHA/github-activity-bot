@@ -58,21 +58,6 @@
       "user": "CodeNameGrant"
     },
     {
-      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
-      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
-      "published_at": "2026-02-22T14:24:05Z",
-      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
-      "tags": [
-        "ai",
-        "mcp",
-        "programming",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
       "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
       "published_at": "2026-02-23T23:11:18Z",
@@ -86,6 +71,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
       "source": "Dev.to",
       "user": "Benji Fisher"
+    },
+    {
+      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
+      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
+      "published_at": "2026-02-22T14:24:05Z",
+      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
+      "tags": [
+        "ai",
+        "mcp",
+        "programming",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "Get React out of my terminal: a case for headless mode",
@@ -570,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "vava-nessa"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 685,
       "user": "CraftyGeezer"
     },
     {
@@ -1066,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "vava-nessa"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1286,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1293,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 769,
       "user": "olvvier"
     },
     {
@@ -1308,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 685,
       "user": "CraftyGeezer"
     },
     {
@@ -1479,21 +1479,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
       "source": "Dev.to",
       "user": "Tom Hayes"
-    },
-    {
-      "title": "How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?",
-      "url": "https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb",
-      "published_at": "2026-02-09T14:43:12Z",
-      "description": "👉 Before you continue: This guide assumes you’re already familiar with the Wishlist Power web...",
-      "tags": [
-        "shopify",
-        "webdev",
-        "frontend",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png",
-      "source": "Dev.to",
-      "user": "Fabien Sebban"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1935,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "vava-nessa"
     },
     {
@@ -1995,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1286,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2010,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 769,
       "user": "olvvier"
     },
     {
@@ -2025,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 685,
       "user": "CraftyGeezer"
     },
     {
@@ -2115,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "wesm"
     },
     {
