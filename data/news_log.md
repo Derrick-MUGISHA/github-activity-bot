@@ -300500,3 +300500,766 @@ A practical sprint playbook for building maintainable React + TypeScript UIs: da
 
 ---
 
+
+
+## 📰 DevTech News — 2026-02-24 17:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (48 articles)
+
+#### 1. [I Said Yes to Everything for a Year. Here's What It Cost Me.](https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib)
+📅 Mon, 23 Feb 2026 15:50:04 GMT
+👤 By: Chandravijay Agrawal | 📌 Source: Dev.to
+
+![I Said Yes to Everything for a Year. Here's What It Cost Me.](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmq9xqrlwdewtul35vew2.png)
+
+It is 3:14 AM on a Tuesday, and your heart is beating with the rhythmic intensity of a kick drum in a...
+
+🏷️ Tags: `personal`
+
+---
+
+#### 2. [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g)
+📅 Mon, 23 Feb 2026 11:31:51 GMT
+👤 By: CodeNameGrant | 📌 Source: Dev.to
+
+![Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png)
+
+Where should this go? Which apps are using this library?  Those two questions are plaguing my team as...
+
+🏷️ Tags: `nx`, `typescript`, `architecture`, `monorepo`
+
+---
+
+#### 3. [LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)](https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4)
+📅 Sun, 22 Feb 2026 14:24:05 GMT
+👤 By: marcosomma | 📌 Source: Dev.to
+
+![LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png)
+
+Let’s start with a statement that should be obvious but still feels controversial: Large Language...
+
+🏷️ Tags: `ai`, `mcp`, `programming`, `llm`
+
+---
+
+#### 4. [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884)
+📅 Mon, 23 Feb 2026 23:11:18 GMT
+👤 By: Benji Fisher | 📌 Source: Dev.to
+
+![We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp)
+
+Postman didn't become essential by testing APIs. It became essential by showing developers what was...
+
+🏷️ Tags: `ucp`, `postman`, `playground`, `agents`
+
+---
+
+#### 5. [Get React out of my terminal: a case for headless mode](https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie)
+📅 Sun, 22 Feb 2026 15:36:54 GMT
+👤 By: Anton | 📌 Source: Dev.to
+
+![Get React out of my terminal: a case for headless mode](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png)
+
+Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...
+
+🏷️ Tags: `agents`, `ai`, `cli`, `performance`
+
+---
+
+#### 6. [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8)
+📅 Fri, 20 Feb 2026 21:45:30 GMT
+👤 By: Romain Lespinasse | 📌 Source: Dev.to
+
+![Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png)
+
+Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.
+
+🏷️ Tags: `gitlab`, `cicd`
+
+---
+
+#### 7. [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112)
+📅 Mon, 23 Feb 2026 05:00:00 GMT
+👤 By: Cesar Aguirre | 📌 Source: Dev.to
+
+![A Quick Recovery Guide for AI-Dependent Coders](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png)
+
+Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...
+
+🏷️ Tags: `beginners`, `ai`, `coding`, `softwaredevelopment`
+
+---
+
+#### 8. [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo)
+📅 Thu, 19 Feb 2026 14:49:29 GMT
+👤 By: Yohei Seki | 📌 Source: Dev.to
+
+![Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png)
+
+Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.
+
+🏷️ Tags: `security`, `git`, `ai`, `devops`
+
+---
+
+#### 9. [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1)
+📅 Thu, 19 Feb 2026 09:25:47 GMT
+👤 By: Chukwuemeka Maduekwe | 📌 Source: Dev.to
+
+![Securing Your App with Access and Refresh Tokens: A Practical Guide](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14s5llrn1m8ew5dddztn.png)
+
+My Journey: From Naive to Secure Authentication Let me be honest about how I handled authentication...
+
+🏷️ Tags: `rust`, `oauth`, `security`
+
+---
+
+#### 10. [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f)
+📅 Sun, 22 Feb 2026 21:15:24 GMT
+👤 By: Ian Wilson | 📌 Source: Dev.to
+
+![The Evolution of the AI-Driven Coder](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcbxwrtg3j7npg6ub4mmo.png)
+
+In the past year many of us developers have evolved from being skeptical of AI tools to fully...
+
+🏷️ Tags: `ai`, `programming`, `productivity`
+
+---
+
+### 🏷️ JavaScript (31 articles)
+
+#### 1. [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g)
+📅 Mon, 23 Feb 2026 11:31:51 GMT
+👤 By: CodeNameGrant | 📌 Source: Dev.to
+
+![Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png)
+
+Where should this go? Which apps are using this library?  Those two questions are plaguing my team as...
+
+🏷️ Tags: `nx`, `typescript`, `architecture`, `monorepo`
+
+---
+
+#### 2. [Get React out of my terminal: a case for headless mode](https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie)
+📅 Sun, 22 Feb 2026 15:36:54 GMT
+👤 By: Anton | 📌 Source: Dev.to
+
+![Get React out of my terminal: a case for headless mode](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png)
+
+Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...
+
+🏷️ Tags: `agents`, `ai`, `cli`, `performance`
+
+---
+
+#### 3. [Building a Gmail/Outlook email preview component for Vue](https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk)
+📅 Fri, 20 Feb 2026 07:56:21 GMT
+👤 By: Aoife Shannon | 📌 Source: Dev.to
+
+![Building a Gmail/Outlook email preview component for Vue](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png)
+
+If you have ever built transactional emails in a Vue app, you have probably hit the same wall. You...
+
+🏷️ Tags: `showdev`, `tooling`, `vue`, `webdev`
+
+---
+
+#### 4. [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle)
+📅 Sun, 15 Feb 2026 10:27:55 GMT
+👤 By: DeVoresyah ArEst | 📌 Source: Dev.to
+
+![6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png)
+
+A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.
+
+🏷️ Tags: `cloudflare`, `webdev`, `javascript`, `satori`
+
+---
+
+#### 5. [Introducing ts-dash: A Quick and Simple TypeScript Project Creator](https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0)
+📅 Wed, 18 Feb 2026 17:46:05 GMT
+👤 By: Ely Lucas | 📌 Source: Dev.to
+
+![Introducing ts-dash: A Quick and Simple TypeScript Project Creator](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png)
+
+The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...
+
+🏷️ Tags: `typescript`, `cli`, `productivity`
+
+---
+
+#### 6. [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak)
+📅 Sun, 15 Feb 2026 12:26:26 GMT
+👤 By: Sem Gebresilassie | 📌 Source: Dev.to
+
+![From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png)
+
+A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.
+
+🏷️ Tags: `react`, `typescript`, `frontend`, `productivity`
+
+---
+
+#### 7. [Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)](https://dev.to/shofol/adding-web-analytics-on-vercel-is-easier-than-ever-free-built-in-57bl)
+📅 Tue, 17 Feb 2026 04:42:56 GMT
+👤 By: Anower Jahan Shofol | 📌 Source: Dev.to
+
+![Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlc2fw3533schl5jn6au.png)
+
+Did you know that Vercel provides built-in web analytics that you can use even on the free plan?  In...
+
+🏷️ Tags: `vercel`, `nextjs`, `analytics`, `webdev`
+
+---
+
+#### 8. [Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2](https://dev.to/fridzema/announcement-oxidedock-rust-vue-3-desktop-starter-built-on-tauri-v2-3d6a)
+📅 Mon, 16 Feb 2026 09:18:29 GMT
+👤 By: Robert Fridzema | 📌 Source: Dev.to
+
+![Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8of7zouja9n3nxg13usa.png)
+
+I built a Tauri v2 + Vue 3 desktop starter so you don't have to wire up the boring stuff. I got...
+
+🏷️ Tags: `opensource`, `rust`, `showdev`, `vue`
+
+---
+
+#### 9. [Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js](https://dev.to/arindamdawn/stop-wrestling-with-json-ld-type-safe-structured-data-for-nextjs-38on)
+📅 Mon, 16 Feb 2026 08:31:48 GMT
+👤 By: Arindam Dawn | 📌 Source: Dev.to
+
+![Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyphiwpeupxxzg5ukesg.png)
+
+Structured data is one of those things every developer knows they should implement, but few actually...
+
+🏷️ Tags: `nextjs`, `seo`, `jsonld`, `webdev`
+
+---
+
+#### 10. [I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3)
+📅 Fri, 13 Feb 2026 19:52:20 GMT
+👤 By: Ale | 📌 Source: Dev.to
+
+![I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png)
+
+The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...
+
+🏷️ Tags: `stripe`, `saas`, `javascript`, `webdev`
+
+---
+
+### 🏷️ Python (17 articles)
+
+#### 1. [I built an API that detects chess tactical patterns from FEN and PGN](https://dev.to/stevejvv/i-built-an-api-that-detects-chess-tactical-patterns-from-fen-and-pgn-5ef0)
+📅 Tue, 17 Feb 2026 22:48:09 GMT
+👤 By: stevejvv | 📌 Source: Dev.to
+
+![I built an API that detects chess tactical patterns from FEN and PGN](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft4ja9mpsntwunxayu2gx.png)
+
+I've been working on ChessGrammar, an API that takes a chess  position (FEN) or a full game (PGN) and...
+
+🏷️ Tags: `chess`, `python`, `api`, `opensource`
+
+---
+
+#### 2. [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef)
+📅 Thu, 19 Feb 2026 03:23:34 GMT
+👤 By: Maame Afua A. P. Fordjour  | 📌 Source: Dev.to
+
+![Suffering from BUGS: How I Almost Deleted My Entire Project](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png)
+
+You know that iconic DJ Khaled album, "Suffering from Success"? The one where he looks overwhelmed by...
+
+🏷️ Tags: `showdev`, `devops`, `python`, `typescript`
+
+---
+
+#### 3. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (5 articles)
+
+#### 1. [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo)
+📅 Thu, 19 Feb 2026 14:49:29 GMT
+👤 By: Yohei Seki | 📌 Source: Dev.to
+
+![Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png)
+
+Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.
+
+🏷️ Tags: `security`, `git`, `ai`, `devops`
+
+---
+
+#### 2. [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil)
+📅 Mon, 23 Feb 2026 05:44:59 GMT
+👤 By: iapilgrim | 📌 Source: Dev.to
+
+![Switching Minikube from Docker Driver to kvm2 for Better Stability](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgmyxrm2gj50agll4uild.png)
+
+#kubernetes #minikube #devops #linux #kvm
+
+🏷️ Tags: `devops`, `kubernetes`, `linux`, `tutorial`
+
+---
+
+#### 3. [Kubernetes: Should You Name Your Controller "foo-bar" or "foobar"? A Survey of 13 Open-Source Projects](https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c)
+📅 Tue, 17 Feb 2026 23:56:55 GMT
+👤 By: suin | 📌 Source: Dev.to
+
+![Kubernetes: Should You Name Your Controller "foo-bar" or "foobar"? A Survey of 13 Open-Source Projects](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png)
+
+I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.
+
+🏷️ Tags: `kubernetes`, `go`, `devops`, `cloudnative`
+
+---
+
+#### 4. [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef)
+📅 Thu, 19 Feb 2026 03:23:34 GMT
+👤 By: Maame Afua A. P. Fordjour  | 📌 Source: Dev.to
+
+![Suffering from BUGS: How I Almost Deleted My Entire Project](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png)
+
+You know that iconic DJ Khaled album, "Suffering from Success"? The one where he looks overwhelmed by...
+
+🏷️ Tags: `showdev`, `devops`, `python`, `typescript`
+
+---
+
+#### 5. [Using Laravel Boost With DDEV](https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6)
+📅 Tue, 10 Feb 2026 00:00:00 GMT
+👤 By: Russell Jones | 📌 Source: Dev.to
+
+![Using Laravel Boost With DDEV](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png)
+
+Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...
+
+🏷️ Tags: `ai`, `docker`, `laravel`, `mcp`
+
+---
+
+### 🏷️ WebDev (6 articles)
+
+#### 1. [Stop Rebuilding Modals: A Deep Dive into the <dialog> Element](https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko)
+📅 Sun, 22 Feb 2026 15:16:30 GMT
+👤 By: Anja Beisel | 📌 Source: Dev.to
+
+![Stop Rebuilding Modals: A Deep Dive into the <dialog> Element](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch7vqjii90e7m04icowr.png)
+
+Introduction   For more than a decade, building modals on the web meant re-implementing...
+
+🏷️ Tags: `webdev`, `frontend`, `a11y`, `html`
+
+---
+
+#### 2. [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak)
+📅 Sun, 15 Feb 2026 12:26:26 GMT
+👤 By: Sem Gebresilassie | 📌 Source: Dev.to
+
+![From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png)
+
+A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.
+
+🏷️ Tags: `react`, `typescript`, `frontend`, `productivity`
+
+---
+
+#### 3. [HJX: Rethinking the Web for the AI Era](https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1)
+📅 Tue, 17 Feb 2026 04:40:08 GMT
+👤 By: Loaiabdalslam | 📌 Source: Dev.to
+
+![HJX: Rethinking the Web for the AI Era](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png)
+
+HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...
+
+🏷️ Tags: `ai`, `frontend`, `web`, `programming`
+
+---
+
+#### 4. [I built a CSS framework where every class name is an emoji](https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3)
+📅 Mon, 23 Feb 2026 11:38:19 GMT
+👤 By: Tom Hayes | 📌 Source: Dev.to
+
+![I built a CSS framework where every class name is an emoji](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png)
+
+BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.
+
+🏷️ Tags: `css`, `jokes`, `tailwindcss`, `bem`
+
+---
+
+#### 5. [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb)
+📅 Mon, 09 Feb 2026 14:43:12 GMT
+👤 By: Fabien Sebban | 📌 Source: Dev.to
+
+![How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6pbf7p7peakftsvgdql.png)
+
+👉 Before you continue: This guide assumes you’re already familiar with the Wishlist Power web...
+
+🏷️ Tags: `shopify`, `webdev`, `frontend`, `tutorial`
+
+---
+
+#### 6. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (1 articles)
+
+#### 1. [My New Language That’s Almost Done](https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31)
+📅 Mon, 09 Feb 2026 20:10:51 GMT
+👤 By: Ryan Bae | 📌 Source: Dev.to
+
+![My New Language That’s Almost Done](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Focscz47o1wxswnzbq3eb.png)
+
+I’ve been building a programming language for the past 3 months. Although it’s written in Swift, I’m...
+
+🏷️ Tags: `programming`, `showdev`, `sideprojects`, `swift`
+
+---
+
+### 🏷️ Cloud (3 articles)
+
+#### 1. [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle)
+📅 Sun, 15 Feb 2026 10:27:55 GMT
+👤 By: DeVoresyah ArEst | 📌 Source: Dev.to
+
+![6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png)
+
+A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.
+
+🏷️ Tags: `cloudflare`, `webdev`, `javascript`, `satori`
+
+---
+
+#### 2. [Kubernetes: Should You Name Your Controller "foo-bar" or "foobar"? A Survey of 13 Open-Source Projects](https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c)
+📅 Tue, 17 Feb 2026 23:56:55 GMT
+👤 By: suin | 📌 Source: Dev.to
+
+![Kubernetes: Should You Name Your Controller "foo-bar" or "foobar"? A Survey of 13 Open-Source Projects](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png)
+
+I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.
+
+🏷️ Tags: `kubernetes`, `go`, `devops`, `cloudnative`
+
+---
+
+#### 3. [AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
+📅 Thu, 21 Aug 2025 12:53:16 GMT
+👤 By: JustExAWS | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Database (3 articles)
+
+#### 1. [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384)
+📅 Thu, 12 Feb 2026 06:27:14 GMT
+👤 By: Fongoh Martin T. | 📌 Source: Dev.to
+
+![Building a Simple Blog with Supabase (Posts & Comments)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png)
+
+In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...
+
+🏷️ Tags: `supabase`, `react`, `tutorial`, `typescript`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 3. [jasperan/picooraclaw - PicoClaw that works with Oracle AI Database](https://github.com/jasperan/picooraclaw)
+📅 Wed, 18 Feb 2026 04:44:35 GMT
+👤 By: jasperan | 📌 Source: GitHub
+
+![jasperan/picooraclaw - PicoClaw that works with Oracle AI Database](https://avatars.githubusercontent.com/u/20752424?v=4)
+
+PicoClaw that works with Oracle AI Database
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 148
+
+---
+
+### 🏷️ Security (5 articles)
+
+#### 1. [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo)
+📅 Thu, 19 Feb 2026 14:49:29 GMT
+👤 By: Yohei Seki | 📌 Source: Dev.to
+
+![Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png)
+
+Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.
+
+🏷️ Tags: `security`, `git`, `ai`, `devops`
+
+---
+
+#### 2. [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1)
+📅 Thu, 19 Feb 2026 09:25:47 GMT
+👤 By: Chukwuemeka Maduekwe | 📌 Source: Dev.to
+
+![Securing Your App with Access and Refresh Tokens: A Practical Guide](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14s5llrn1m8ew5dddztn.png)
+
+My Journey: From Naive to Secure Authentication Let me be honest about how I handled authentication...
+
+🏷️ Tags: `rust`, `oauth`, `security`
+
+---
+
+#### 3. [How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298)
+📅 Wed, 11 Feb 2026 02:00:24 GMT
+👤 By: SnykSec | 📌 Source: Dev.to
+
+![How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png)
+
+Breaking: Snyk researchers uncover a malicious "Google" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.
+
+
+🏷️ Tags: `ai`, `opensourcesecurity`, `securitylabs`, `supplychainsecurity`
+
+---
+
+#### 4. [How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd)
+📅 Fri, 13 Feb 2026 15:27:58 GMT
+👤 By: Natnael Getenew | 📌 Source: Dev.to
+
+![How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png)
+
+Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...
+
+🏷️ Tags: `ai`, `security`, `typescript`, `webdev`
+
+---
+
+#### 5. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (30 articles)
+
+#### 1. [Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint](https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7)
+📅 Mon, 23 Feb 2026 17:08:17 GMT
+👤 By: Ned C | 📌 Source: Dev.to
+
+![Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3bp8k90c619g27epwbk.png)
+
+...
+
+🏷️ Tags: `codequality`, `opensource`, `showdev`, `tooling`
+
+---
+
+#### 2. [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884)
+📅 Mon, 23 Feb 2026 23:11:18 GMT
+👤 By: Benji Fisher | 📌 Source: Dev.to
+
+![We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp)
+
+Postman didn't become essential by testing APIs. It became essential by showing developers what was...
+
+🏷️ Tags: `ucp`, `postman`, `playground`, `agents`
+
+---
+
+#### 3. [Get React out of my terminal: a case for headless mode](https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie)
+📅 Sun, 22 Feb 2026 15:36:54 GMT
+👤 By: Anton | 📌 Source: Dev.to
+
+![Get React out of my terminal: a case for headless mode](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png)
+
+Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...
+
+🏷️ Tags: `agents`, `ai`, `cli`, `performance`
+
+---
+
+#### 4. [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8)
+📅 Fri, 20 Feb 2026 21:45:30 GMT
+👤 By: Romain Lespinasse | 📌 Source: Dev.to
+
+![Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png)
+
+Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.
+
+🏷️ Tags: `gitlab`, `cicd`
+
+---
+
+#### 5. [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo)
+📅 Thu, 19 Feb 2026 14:49:29 GMT
+👤 By: Yohei Seki | 📌 Source: Dev.to
+
+![Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png)
+
+Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.
+
+🏷️ Tags: `security`, `git`, `ai`, `devops`
+
+---
+
+#### 6. [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f)
+📅 Sun, 22 Feb 2026 21:15:24 GMT
+👤 By: Ian Wilson | 📌 Source: Dev.to
+
+![The Evolution of the AI-Driven Coder](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcbxwrtg3j7npg6ub4mmo.png)
+
+In the past year many of us developers have evolved from being skeptical of AI tools to fully...
+
+🏷️ Tags: `ai`, `programming`, `productivity`
+
+---
+
+#### 7. [Building a Gmail/Outlook email preview component for Vue](https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk)
+📅 Fri, 20 Feb 2026 07:56:21 GMT
+👤 By: Aoife Shannon | 📌 Source: Dev.to
+
+![Building a Gmail/Outlook email preview component for Vue](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png)
+
+If you have ever built transactional emails in a Vue app, you have probably hit the same wall. You...
+
+🏷️ Tags: `showdev`, `tooling`, `vue`, `webdev`
+
+---
+
+#### 8. [Accessibility Testing with Playwright Assertions](https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i)
+📅 Thu, 19 Feb 2026 02:03:09 GMT
+👤 By: Mark Steadman | 📌 Source: Dev.to
+
+![Accessibility Testing with Playwright Assertions](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjubj6qdbqx5fnaumwrx.png)
+
+Playwright has become one of the most popular testing frameworks for web applications. During it's...
+
+🏷️ Tags: `a11y`, `webdev`, `testing`, `automation`
+
+---
+
+#### 9. [Introducing ts-dash: A Quick and Simple TypeScript Project Creator](https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0)
+📅 Wed, 18 Feb 2026 17:46:05 GMT
+👤 By: Ely Lucas | 📌 Source: Dev.to
+
+![Introducing ts-dash: A Quick and Simple TypeScript Project Creator](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png)
+
+The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...
+
+🏷️ Tags: `typescript`, `cli`, `productivity`
+
+---
+
+#### 10. [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak)
+📅 Sun, 15 Feb 2026 12:26:26 GMT
+👤 By: Sem Gebresilassie | 📌 Source: Dev.to
+
+![From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png)
+
+A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.
+
+🏷️ Tags: `react`, `typescript`, `frontend`, `productivity`
+
+---
+
