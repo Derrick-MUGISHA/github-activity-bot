@@ -6,16 +6,16 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 49,
+    "AI": 48,
     "JavaScript": 30,
     "Python": 17,
-    "DevOps": 5,
+    "DevOps": 6,
     "WebDev": 5,
     "Mobile": 1,
     "Cloud": 3,
     "Database": 3,
     "Security": 5,
-    "Tools": 30
+    "Tools": 31
   },
   "by_language": {
     "JavaScript": 30,
@@ -29,10 +29,10 @@
   },
   "by_date": {
     "2026-02-23": 12,
-    "2026-02-24": 3,
+    "2026-02-24": 4,
     "2026-02-22": 10,
     "2026-02-18": 5,
-    "2026-02-20": 7,
+    "2026-02-20": 6,
     "2026-02-19": 11,
     "2026-02-21": 4,
     "2026-02-17": 6,
@@ -75,25 +75,25 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 18,
+    "ai": 17,
     "github": 15,
     "open-source": 15,
-    "webdev": 12,
+    "webdev": 11,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "programming": 9,
-    "discuss": 9,
     "javascript": 9,
+    "discuss": 8,
     "typescript": 8,
     "python": 7,
     "go": 6,
+    "devops": 5,
     "showdev": 5,
     "productivity": 5,
     "tutorial": 5,
-    "career": 4,
+    "linux": 4,
     "opensource": 4,
-    "devops": 4,
     "rust": 4
   },
   "trending_topics": [],
