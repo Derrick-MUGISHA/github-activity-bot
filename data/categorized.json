@@ -88,21 +88,6 @@
       "user": "Ned C"
     },
     {
-      "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
-      "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
-      "published_at": "2026-02-23T00:28:37Z",
-      "description": "Custom agents have been in AI coding tools for months. We finally connected the dots—the documentation system we'd been building was already the blueprint for a team of specialists.",
-      "tags": [
-        "ai",
-        "productivity",
-        "automation",
-        "devrel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
-      "source": "Dev.to",
-      "user": "Dorothy J Aubrey"
-    },
-    {
       "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
       "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
       "published_at": "2026-02-22T14:24:05Z",
@@ -189,18 +174,19 @@
       "user": "Ian Wilson"
     },
     {
-      "title": "I feel lost on AI",
-      "url": "https://dev.to/therogvarok/i-feel-lost-on-ai-367c",
-      "published_at": "2026-02-22T01:56:58Z",
-      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
+      "title": "The Meter Was Always Running",
+      "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
+      "published_at": "2026-02-20T17:57:37Z",
+      "description": "On the All-In podcast (episode #261), Jason Calacanis revealed his AI agents cost $300 a day. Each....",
       "tags": [
-        "discuss",
-        "community",
-        "mentalhealth"
+        "ai",
+        "webdev",
+        "career",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flc8fmxx7zlew87bk4jf9.jpg",
       "source": "Dev.to",
-      "user": "Ed"
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "One OpenClaw Gateway Multiple Isolated AI Assistants (One Telegram Bot Per Worker)",
@@ -230,21 +216,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyasadcixczr1lhgi41t.jpeg",
       "source": "Dev.to",
       "user": "Paul Ruiz"
-    },
-    {
-      "title": "The Meter Was Always Running",
-      "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
-      "published_at": "2026-02-20T17:57:37Z",
-      "description": "On the All-In podcast (episode #261), Jason Calacanis revealed his AI agents cost $300 a day. Each....",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flc8fmxx7zlew87bk4jf9.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
     },
     {
       "title": "Getting Started with LLM Gateway in 5 Minutes",
@@ -349,6 +320,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
       "source": "Dev.to",
       "user": "Juan G De Jesus Torres"
+    },
+    {
+      "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
+      "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
+      "published_at": "2026-02-23T00:28:37Z",
+      "description": "Custom agents have been in AI coding tools for months. We finally connected the dots—the documentation system we'd been building was already the blueprint for a team of specialists.",
+      "tags": [
+        "ai",
+        "productivity",
+        "automation",
+        "devrel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
+      "source": "Dev.to",
+      "user": "Dorothy J Aubrey"
     },
     {
       "title": "HJX: Rethinking the Web for the AI Era",
@@ -584,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 259,
       "user": "vava-nessa"
     },
     {
@@ -614,23 +600,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 121,
       "user": "userland-run"
-    },
-    {
-      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
-      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
-      "published_at": "2026-02-21T23:34:11Z",
-      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "DaveMoudy"
     },
     {
       "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
@@ -644,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 686,
       "user": "CraftyGeezer"
     },
     {
@@ -659,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 354,
       "user": "badaramoni"
     },
     {
@@ -674,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 329,
       "user": "ochyai"
     },
     {
@@ -689,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 150,
       "user": "jasperan"
     },
     {
@@ -704,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 147,
       "user": "quailyquaily"
     },
     {
@@ -719,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 76,
       "user": "almonk"
     }
   ],
@@ -1095,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 309,
       "user": "yeuxuan"
     },
     {
@@ -1110,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 259,
       "user": "vava-nessa"
     },
     {
@@ -1140,23 +1111,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 121,
       "user": "userland-run"
     },
     {
-      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
-      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
-      "published_at": "2026-02-21T23:34:11Z",
-      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
+      "url": "https://github.com/direkturcrypto/polymarket-terminal",
+      "published_at": "2026-02-23T10:23:41Z",
+      "description": "Copy, Scalping & Sniper for polymarket",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 98,
-      "user": "DaveMoudy"
+      "stars": 101,
+      "user": "direkturcrypto"
     }
   ],
   "Python": [
@@ -1337,23 +1308,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1249,
       "user": "ShinMegamiBoson"
-    },
-    {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
-      "source": "GitHub",
-      "stars": 692,
-      "user": "CraftyGeezer"
     },
     {
       "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
@@ -1367,8 +1323,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 699,
       "user": "olvvier"
+    },
+    {
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "published_at": "2026-02-21T12:51:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "source": "GitHub",
+      "stars": 686,
+      "user": "CraftyGeezer"
     },
     {
       "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
@@ -1382,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 354,
       "user": "badaramoni"
     },
     {
@@ -1397,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 329,
       "user": "ochyai"
     }
   ],
@@ -1552,7 +1523,23 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "My New Language That’s Almost Done",
+      "url": "https://dev.to/ryan_bae_5bd7d40241e52c14/my-new-language-thats-almost-done-3d31",
+      "published_at": "2026-02-09T20:10:51Z",
+      "description": "I’ve been building a programming language for the past 3 months. Although it’s written in Swift, I’m...",
+      "tags": [
+        "programming",
+        "showdev",
+        "sideprojects",
+        "swift"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Focscz47o1wxswnzbq3eb.png",
+      "source": "Dev.to",
+      "user": "Ryan Bae"
+    }
+  ],
   "Cloud": [
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
@@ -1637,7 +1624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 150,
       "user": "jasperan"
     }
   ],
@@ -1759,21 +1746,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
       "source": "Dev.to",
       "user": "Ned C"
-    },
-    {
-      "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
-      "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
-      "published_at": "2026-02-23T00:28:37Z",
-      "description": "Custom agents have been in AI coding tools for months. We finally connected the dots—the documentation system we'd been building was already the blueprint for a team of specialists.",
-      "tags": [
-        "ai",
-        "productivity",
-        "automation",
-        "devrel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
-      "source": "Dev.to",
-      "user": "Dorothy J Aubrey"
     },
     {
       "title": "Get React out of my terminal: a case for headless mode",
@@ -1922,6 +1894,21 @@
       "user": "David Alcala"
     },
     {
+      "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
+      "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
+      "published_at": "2026-02-23T00:28:37Z",
+      "description": "Custom agents have been in AI coding tools for months. We finally connected the dots—the documentation system we'd been building was already the blueprint for a team of specialists.",
+      "tags": [
+        "ai",
+        "productivity",
+        "automation",
+        "devrel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
+      "source": "Dev.to",
+      "user": "Dorothy J Aubrey"
+    },
+    {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
       "url": "https://github.com/yeuxuan/openclaw-docs",
       "published_at": "2026-02-19T02:30:39Z",
@@ -1933,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 309,
       "user": "yeuxuan"
     },
     {
@@ -1948,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 259,
       "user": "vava-nessa"
     },
     {
@@ -1978,23 +1965,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 121,
       "user": "userland-run"
     },
     {
-      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
-      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
-      "published_at": "2026-02-21T23:34:11Z",
-      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
+      "url": "https://github.com/direkturcrypto/polymarket-terminal",
+      "published_at": "2026-02-23T10:23:41Z",
+      "description": "Copy, Scalping & Sniper for polymarket",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 98,
-      "user": "DaveMoudy"
+      "stars": 101,
+      "user": "direkturcrypto"
     },
     {
       "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
@@ -2008,23 +1995,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1249,
       "user": "ShinMegamiBoson"
-    },
-    {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
-      "source": "GitHub",
-      "stars": 692,
-      "user": "CraftyGeezer"
     },
     {
       "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
@@ -2038,8 +2010,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 699,
       "user": "olvvier"
+    },
+    {
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "published_at": "2026-02-21T12:51:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "source": "GitHub",
+      "stars": 686,
+      "user": "CraftyGeezer"
     },
     {
       "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
@@ -2053,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 354,
       "user": "badaramoni"
     },
     {
@@ -2068,8 +2055,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 329,
       "user": "ochyai"
+    },
+    {
+      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
+      "url": "https://github.com/jasperan/picooraclaw",
+      "published_at": "2026-02-18T04:44:35Z",
+      "description": "PicoClaw that works with Oracle AI Database",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
+      "source": "GitHub",
+      "stars": 150,
+      "user": "jasperan"
+    },
+    {
+      "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
+      "url": "https://github.com/quailyquaily/aqua",
+      "published_at": "2026-02-21T19:04:48Z",
+      "description": "Aqua, a cli message tool for AI agents ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "quailyquaily"
     },
     {
       "title": "Fox-Fig/phoenix - Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing.",
@@ -2087,36 +2104,6 @@
       "user": "Fox-Fig"
     },
     {
-      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
-      "url": "https://github.com/jasperan/picooraclaw",
-      "published_at": "2026-02-18T04:44:35Z",
-      "description": "PicoClaw that works with Oracle AI Database",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
-      "source": "GitHub",
-      "stars": 141,
-      "user": "jasperan"
-    },
-    {
-      "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
-      "url": "https://github.com/quailyquaily/aqua",
-      "published_at": "2026-02-21T19:04:48Z",
-      "description": "Aqua, a cli message tool for AI agents ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "quailyquaily"
-    },
-    {
       "title": "wesm/agentsview - Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search",
       "url": "https://github.com/wesm/agentsview",
       "published_at": "2026-02-19T19:33:24Z",
@@ -2128,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 96,
       "user": "wesm"
     },
     {
@@ -2143,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 76,
       "user": "almonk"
     }
   ]
