@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-24 10:00 CAT)
+## 📅 Latest Updates (2026-02-24 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -173,19 +173,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/peter/sorting-algorithms-visualized-5oh">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8yq3v4tc3jqyph8g9mh.png" width="200" alt="Sorting algorithms visualized" />
+    <a href="https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flj1e097uh4ulmmeoc9no.jpeg" width="200" alt="I Left My First Hackathon at 8 PM — And it Was a Massive Success!" />
       <br/>
-      <b>Sorting algorithms visualized</b>
+      <b>I Left My First Hackathon at 8 PM — And it Was a M...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flj1e097uh4ulmmeoc9no.jpeg" width="200" alt="I Left My First Hackathon at 8 PM — And it Was a Massive Success!" />
+    <a href="https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png" width="200" alt="Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious" />
       <br/>
-      <b>I Left My First Hackathon at 8 PM — And it Was a M...</b>
+      <b>Domain-First Nx Monorepos: Using `packages/` to Ma...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -201,7 +201,6 @@ npm run test
 - [Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint](https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7) _[Dev.to]_
 - [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884) _[Dev.to]_
 - [I Said Yes to Everything for a Year. Here's What It Cost Me.](https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib) _[Dev.to]_
-- [Sorting algorithms visualized](https://dev.to/peter/sorting-algorithms-visualized-5oh) _[Dev.to]_
 - [I Left My First Hackathon at 8 PM — And it Was a Massive Success!](https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme) _[Dev.to]_
 - [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g) _[Dev.to]_
 - [I built a CSS framework where every class name is an emoji](https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3) _[Dev.to]_
@@ -212,13 +211,14 @@ npm run test
 - [Get React out of my terminal: a case for headless mode](https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie) _[Dev.to]_
 - [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
 - [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112) _[Dev.to]_
+- [Sorting algorithms visualized](https://dev.to/peter/sorting-algorithms-visualized-5oh) _[Dev.to]_
 - [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-k5h) _[Dev.to]_
 - [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1) _[Dev.to]_
 - [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f) _[Dev.to]_
 - [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 
-_Last automated update: Tue, 24 Feb 2026 10:27:33 CAT_
+_Last automated update: Tue, 24 Feb 2026 11:28:56 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 24 Feb 2026 10:27:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Execution timing, event loop phases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Feb 2026 08:27:33 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Feb 2026 09:28:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
