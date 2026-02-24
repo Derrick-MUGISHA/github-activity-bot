@@ -16,18 +16,6 @@
       "user": "Cesar Aguirre"
     },
     {
-      "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
-      "url": "https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib",
-      "published_at": "2026-02-23T15:50:04Z",
-      "description": "It is 3:14 AM on a Tuesday, and your heart is beating with the rhythmic intensity of a kick drum in a...",
-      "tags": [
-        "personal"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmq9xqrlwdewtul35vew2.png",
-      "source": "Dev.to",
-      "user": "Chandravijay Agrawal"
-    },
-    {
       "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
       "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
       "published_at": "2026-02-23T23:11:18Z",
@@ -41,6 +29,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
       "source": "Dev.to",
       "user": "Benji Fisher"
+    },
+    {
+      "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
+      "url": "https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib",
+      "published_at": "2026-02-23T15:50:04Z",
+      "description": "It is 3:14 AM on a Tuesday, and your heart is beating with the rhythmic intensity of a kick drum in a...",
+      "tags": [
+        "personal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmq9xqrlwdewtul35vew2.png",
+      "source": "Dev.to",
+      "user": "Chandravijay Agrawal"
     },
     {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
@@ -556,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "vava-nessa"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 685,
       "user": "CraftyGeezer"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 348,
       "user": "ochyai"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 152,
       "user": "quailyquaily"
     },
     {
@@ -1067,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 337,
       "user": "yeuxuan"
     },
     {
@@ -1082,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "vava-nessa"
     },
     {
@@ -1101,6 +1101,21 @@
       "user": "vikasprogrammer"
     },
     {
+      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
+      "url": "https://github.com/direkturcrypto/polymarket-terminal",
+      "published_at": "2026-02-23T10:23:41Z",
+      "description": "Copy, Scalping & Sniper for polymarket",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "direkturcrypto"
+    },
+    {
       "title": "userland-run/nano - nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
       "url": "https://github.com/userland-run/nano",
       "published_at": "2026-02-18T14:34:15Z",
@@ -1114,21 +1129,6 @@
       "source": "GitHub",
       "stars": 118,
       "user": "userland-run"
-    },
-    {
-      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
-      "url": "https://github.com/direkturcrypto/polymarket-terminal",
-      "published_at": "2026-02-23T10:23:41Z",
-      "description": "Copy, Scalping & Sniper for polymarket",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
-      "source": "GitHub",
-      "stars": 112,
-      "user": "direkturcrypto"
     }
   ],
   "Python": [
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1259,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1324,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 720,
       "user": "olvvier"
     },
     {
@@ -1339,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 685,
       "user": "CraftyGeezer"
     },
     {
@@ -1369,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 348,
       "user": "ochyai"
     }
   ],
@@ -1936,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 337,
       "user": "yeuxuan"
     },
     {
@@ -1951,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "vava-nessa"
     },
     {
@@ -1970,6 +1970,21 @@
       "user": "vikasprogrammer"
     },
     {
+      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
+      "url": "https://github.com/direkturcrypto/polymarket-terminal",
+      "published_at": "2026-02-23T10:23:41Z",
+      "description": "Copy, Scalping & Sniper for polymarket",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "direkturcrypto"
+    },
+    {
       "title": "userland-run/nano - nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
       "url": "https://github.com/userland-run/nano",
       "published_at": "2026-02-18T14:34:15Z",
@@ -1985,21 +2000,6 @@
       "user": "userland-run"
     },
     {
-      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
-      "url": "https://github.com/direkturcrypto/polymarket-terminal",
-      "published_at": "2026-02-23T10:23:41Z",
-      "description": "Copy, Scalping & Sniper for polymarket",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
-      "source": "GitHub",
-      "stars": 112,
-      "user": "direkturcrypto"
-    },
-    {
       "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "published_at": "2026-02-20T01:04:23Z",
@@ -2011,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1259,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2026,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 720,
       "user": "olvvier"
     },
     {
@@ -2041,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 685,
       "user": "CraftyGeezer"
     },
     {
@@ -2071,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 348,
       "user": "ochyai"
     },
     {
@@ -2086,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 152,
       "user": "quailyquaily"
     },
     {
@@ -2131,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "wesm"
     },
     {
