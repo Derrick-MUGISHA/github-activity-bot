@@ -159,21 +159,6 @@
       "user": "Ian Wilson"
     },
     {
-      "title": "The Meter Was Always Running",
-      "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
-      "published_at": "2026-02-20T17:57:37Z",
-      "description": "On the All-In podcast (episode #261), Jason Calacanis revealed his AI agents cost $300 a day. Each....",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flc8fmxx7zlew87bk4jf9.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "Getting Started with LLM Gateway in 5 Minutes",
       "url": "https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p",
       "published_at": "2026-02-21T18:31:02Z",
@@ -630,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 682,
       "user": "CraftyGeezer"
     },
     {
@@ -645,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "ochyai"
     },
     {
@@ -1096,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "direkturcrypto"
     },
     {
@@ -1308,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 682,
       "user": "CraftyGeezer"
     },
     {
@@ -1338,11 +1323,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "ochyai"
     }
   ],
   "DevOps": [
+    {
+      "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
+      "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
+      "published_at": "2026-02-24T19:26:42Z",
+      "description": "During the early hours of the morning, I started receiving Gitaly alerts — memory spikes that weren't...",
+      "tags": [
+        "gitlab",
+        "linux",
+        "kernel",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
+      "source": "Dev.to",
+      "user": "Camila"
+    },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
@@ -1688,6 +1688,21 @@
       "user": "Matthew Hou"
     },
     {
+      "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
+      "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
+      "published_at": "2026-02-24T19:26:42Z",
+      "description": "During the early hours of the morning, I started receiving Gitaly alerts — memory spikes that weren't...",
+      "tags": [
+        "gitlab",
+        "linux",
+        "kernel",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
+      "source": "Dev.to",
+      "user": "Camila"
+    },
+    {
       "title": "Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint",
       "url": "https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7",
       "published_at": "2026-02-23T17:08:17Z",
@@ -1950,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "direkturcrypto"
     },
     {
@@ -2010,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 682,
       "user": "CraftyGeezer"
     },
     {
@@ -2040,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "ochyai"
     },
     {
