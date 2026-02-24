@@ -43,21 +43,6 @@
       "user": "Tom Hayes"
     },
     {
-      "title": "Everything I've learned so far about .cursorrules after mass testing them",
-      "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
-      "published_at": "2026-02-22T22:34:02Z",
-      "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
-      "tags": [
-        "cursor",
-        "ai",
-        "cursorrules",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
-      "source": "Dev.to",
-      "user": "Ned C"
-    },
-    {
       "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
       "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
       "published_at": "2026-02-22T14:24:05Z",
@@ -189,21 +174,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
-      "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
-      "published_at": "2026-02-21T20:34:35Z",
-      "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
-      "tags": [
-        "gemini",
-        "robotics",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyasadcixczr1lhgi41t.jpeg",
-      "source": "Dev.to",
-      "user": "Paul Ruiz"
-    },
-    {
       "title": "Getting Started with LLM Gateway in 5 Minutes",
       "url": "https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p",
       "published_at": "2026-02-21T18:31:02Z",
@@ -292,6 +262,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "David Alcala"
+    },
+    {
+      "title": "Everything I've learned so far about .cursorrules after mass testing them",
+      "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
+      "published_at": "2026-02-22T22:34:02Z",
+      "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
+      "tags": [
+        "cursor",
+        "ai",
+        "cursorrules",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
+      "source": "Dev.to",
+      "user": "Ned C"
     },
     {
       "title": "Software engineering is not dead",
@@ -425,6 +410,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
       "source": "Dev.to",
       "user": "Ed"
+    },
+    {
+      "title": "Hello World with Agent Skills",
+      "url": "https://dev.to/daveu1983/hello-world-with-agent-skills-ngj",
+      "published_at": "2026-02-22T21:07:05Z",
+      "description": "After hearing about Agent skills, I thought I would try it out and where better to start than Hello...",
+      "tags": [
+        "ai",
+        "beginners",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ayz5ad87jin8u8h31kw.png",
+      "source": "Dev.to",
+      "user": "Daveu1983"
     },
     {
       "title": "Airfoil",
@@ -570,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "vava-nessa"
     },
     {
@@ -615,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 696,
       "user": "CraftyGeezer"
     },
     {
@@ -630,23 +629,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 380,
       "user": "ochyai"
-    },
-    {
-      "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
-      "url": "https://github.com/badaramoni/wave-field-llm",
-      "published_at": "2026-02-18T17:45:54Z",
-      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
-      "source": "GitHub",
-      "stars": 365,
-      "user": "badaramoni"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -660,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "quailyquaily"
     },
     {
@@ -1081,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "vava-nessa"
     },
     {
@@ -1111,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 141,
       "user": "direkturcrypto"
     },
     {
@@ -1131,21 +1115,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
-      "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
-      "published_at": "2026-02-21T20:34:35Z",
-      "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
-      "tags": [
-        "gemini",
-        "robotics",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyasadcixczr1lhgi41t.jpeg",
-      "source": "Dev.to",
-      "user": "Paul Ruiz"
-    },
     {
       "title": "I built an API that detects chess tactical patterns from FEN and PGN",
       "url": "https://dev.to/stevejvv/i-built-an-api-that-detects-chess-tactical-patterns-from-fen-and-pgn-5ef0",
@@ -1308,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1272,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1323,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 744,
       "user": "olvvier"
     },
     {
@@ -1338,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 696,
       "user": "CraftyGeezer"
     },
     {
@@ -1353,23 +1322,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 380,
       "user": "ochyai"
     },
     {
-      "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
-      "url": "https://github.com/badaramoni/wave-field-llm",
-      "published_at": "2026-02-18T17:45:54Z",
-      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "title": "runesleo/x-reader - Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "url": "https://github.com/runesleo/x-reader",
+      "published_at": "2026-02-22T08:47:26Z",
+      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 365,
-      "user": "badaramoni"
+      "stars": 368,
+      "user": "runesleo"
     }
   ],
   "DevOps": [
@@ -1733,21 +1702,6 @@
       "user": "Ned C"
     },
     {
-      "title": "Everything I've learned so far about .cursorrules after mass testing them",
-      "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
-      "published_at": "2026-02-22T22:34:02Z",
-      "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
-      "tags": [
-        "cursor",
-        "ai",
-        "cursorrules",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
-      "source": "Dev.to",
-      "user": "Ned C"
-    },
-    {
       "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
       "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
       "published_at": "2026-02-23T23:11:18Z",
@@ -1909,6 +1863,21 @@
       "user": "David Alcala"
     },
     {
+      "title": "Everything I've learned so far about .cursorrules after mass testing them",
+      "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
+      "published_at": "2026-02-22T22:34:02Z",
+      "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
+      "tags": [
+        "cursor",
+        "ai",
+        "cursorrules",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz8bgwsg4io4qf3ul2u6.png",
+      "source": "Dev.to",
+      "user": "Ned C"
+    },
+    {
       "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
       "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
       "published_at": "2026-02-23T00:28:37Z",
@@ -1965,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "vava-nessa"
     },
     {
@@ -1995,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 141,
       "user": "direkturcrypto"
     },
     {
@@ -2025,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1272,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2040,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 744,
       "user": "olvvier"
     },
     {
@@ -2055,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 696,
       "user": "CraftyGeezer"
     },
     {
@@ -2070,23 +2039,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 380,
       "user": "ochyai"
     },
     {
-      "title": "badaramoni/wave-field-llm - An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
-      "url": "https://github.com/badaramoni/wave-field-llm",
-      "published_at": "2026-02-18T17:45:54Z",
-      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "title": "runesleo/x-reader - Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "url": "https://github.com/runesleo/x-reader",
+      "published_at": "2026-02-22T08:47:26Z",
+      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80014354?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 365,
-      "user": "badaramoni"
+      "stars": 368,
+      "user": "runesleo"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -2100,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "quailyquaily"
     },
     {
@@ -2130,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "Fox-Fig"
     },
     {
@@ -2145,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 120,
       "user": "wesm"
     },
     {
