@@ -291,21 +291,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
-      "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
-      "published_at": "2026-02-23T23:11:18Z",
-      "description": "Postman didn't become essential by testing APIs. It became essential by showing developers what was...",
-      "tags": [
-        "ucp",
-        "postman",
-        "playground",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
-      "source": "Dev.to",
-      "user": "Benji Fisher"
-    },
-    {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
       "published_at": "2026-02-15T12:26:26Z",
@@ -423,6 +408,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp5d6rb0k0a4h3x4ea4wq.png",
       "source": "Dev.to",
       "user": "Terence Tham"
+    },
+    {
+      "title": "I feel lost on AI",
+      "url": "https://dev.to/therogvarok/i-feel-lost-on-ai-367c",
+      "published_at": "2026-02-22T01:56:58Z",
+      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
+      "tags": [
+        "discuss",
+        "community",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
+      "source": "Dev.to",
+      "user": "Ed"
     },
     {
       "title": "Airfoil",
@@ -568,7 +567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "vava-nessa"
     },
     {
@@ -598,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 924,
       "user": "Panniantong"
     },
     {
@@ -613,8 +612,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "quailyquaily"
+    },
+    {
+      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "url": "https://github.com/taigrr/spank",
+      "published_at": "2026-02-23T00:43:05Z",
+      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
+      "source": "GitHub",
+      "stars": 102,
+      "user": "taigrr"
     }
   ],
   "JavaScript": [
@@ -959,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "vava-nessa"
     },
     {
@@ -989,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 206,
       "user": "mksglu"
     },
     {
@@ -1004,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "jesselau76"
     }
   ],
@@ -1228,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1079,
       "user": "anthropics"
     },
     {
@@ -1243,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 924,
       "user": "Panniantong"
     },
     {
@@ -1258,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 814,
       "user": "peteromallet"
     },
     {
@@ -1756,21 +1770,6 @@
       "user": "Aoife Shannon"
     },
     {
-      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
-      "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
-      "published_at": "2026-02-23T23:11:18Z",
-      "description": "Postman didn't become essential by testing APIs. It became essential by showing developers what was...",
-      "tags": [
-        "ucp",
-        "postman",
-        "playground",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
-      "source": "Dev.to",
-      "user": "Benji Fisher"
-    },
-    {
       "title": "Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint",
       "url": "https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7",
       "published_at": "2026-02-23T17:08:17Z",
@@ -1916,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "vava-nessa"
     },
     {
@@ -1946,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 206,
       "user": "mksglu"
     },
     {
@@ -1961,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "jesselau76"
     },
     {
@@ -1991,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1079,
       "user": "anthropics"
     },
     {
@@ -2006,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 924,
       "user": "Panniantong"
     },
     {
@@ -2021,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 814,
       "user": "peteromallet"
     },
     {
@@ -2051,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "quailyquaily"
     },
     {
@@ -2066,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 160,
       "user": "wesm"
     },
     {
@@ -2081,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 149,
       "user": "odvcencio"
     },
     {
@@ -2096,23 +2095,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "bjarneo"
     },
     {
-      "title": "NOBB2333/ClipCascade_go - ClipCascade go语言重制版",
-      "url": "https://github.com/NOBB2333/ClipCascade_go",
-      "published_at": "2026-02-23T15:12:05Z",
-      "description": "ClipCascade go语言重制版",
+      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "url": "https://github.com/taigrr/spank",
+      "published_at": "2026-02-23T00:43:05Z",
+      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72846817?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
       "stars": 102,
-      "user": "NOBB2333"
+      "user": "taigrr"
     }
   ]
 }
