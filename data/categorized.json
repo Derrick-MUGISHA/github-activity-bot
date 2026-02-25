@@ -570,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "vava-nessa"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 186,
       "user": "quailyquaily"
     },
     {
@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 98,
       "user": "taigrr"
     },
     {
@@ -1021,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "vava-nessa"
     },
     {
@@ -1040,21 +1040,6 @@
       "user": "vikasprogrammer"
     },
     {
-      "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
-      "url": "https://github.com/jesselau76/cigen",
-      "published_at": "2026-02-24T02:05:31Z",
-      "description": "Interactive root/affix vocabulary memory web app",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "jesselau76"
-    },
-    {
       "title": "mksglu/claude-context-mode - Stop losing context to large outputs.",
       "url": "https://github.com/mksglu/claude-context-mode",
       "published_at": "2026-02-23T05:56:28Z",
@@ -1066,8 +1051,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 169,
       "user": "mksglu"
+    },
+    {
+      "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
+      "url": "https://github.com/jesselau76/cigen",
+      "published_at": "2026-02-24T02:05:31Z",
+      "description": "Interactive root/affix vocabulary memory web app",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "jesselau76"
     }
   ],
   "Python": [
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 955,
       "user": "anthropics"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 800,
       "user": "olvvier"
     },
     {
@@ -1293,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 795,
       "user": "Panniantong"
     },
     {
@@ -1478,8 +1478,39 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "I Clicked ‘Azure Portal’ and Realized How Small My World Was",
+      "url": "https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78",
+      "published_at": "2026-02-23T18:03:43Z",
+      "description": "When I opened the Azure Portal for the first time, my first instinct wasn’t curiosity. It was...",
+      "tags": [
+        "azure",
+        "cloud",
+        "software",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cd36khfx6497jddb83g.gif",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
+    }
+  ],
   "Cloud": [
+    {
+      "title": "I Clicked ‘Azure Portal’ and Realized How Small My World Was",
+      "url": "https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78",
+      "published_at": "2026-02-23T18:03:43Z",
+      "description": "When I opened the Azure Portal for the first time, my first instinct wasn’t curiosity. It was...",
+      "tags": [
+        "azure",
+        "cloud",
+        "software",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cd36khfx6497jddb83g.gif",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
+    },
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
@@ -1863,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "vava-nessa"
     },
     {
@@ -1882,21 +1913,6 @@
       "user": "vikasprogrammer"
     },
     {
-      "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
-      "url": "https://github.com/jesselau76/cigen",
-      "published_at": "2026-02-24T02:05:31Z",
-      "description": "Interactive root/affix vocabulary memory web app",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "jesselau76"
-    },
-    {
       "title": "mksglu/claude-context-mode - Stop losing context to large outputs.",
       "url": "https://github.com/mksglu/claude-context-mode",
       "published_at": "2026-02-23T05:56:28Z",
@@ -1908,8 +1924,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 169,
       "user": "mksglu"
+    },
+    {
+      "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
+      "url": "https://github.com/jesselau76/cigen",
+      "published_at": "2026-02-24T02:05:31Z",
+      "description": "Interactive root/affix vocabulary memory web app",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "jesselau76"
     },
     {
       "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
@@ -1938,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 955,
       "user": "anthropics"
     },
     {
@@ -1953,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 800,
       "user": "olvvier"
     },
     {
@@ -1968,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 795,
       "user": "Panniantong"
     },
     {
@@ -1998,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 186,
       "user": "quailyquaily"
     },
     {
@@ -2043,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 98,
       "user": "taigrr"
     },
     {

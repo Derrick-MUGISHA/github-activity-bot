@@ -11,8 +11,8 @@
     "Python": 18,
     "DevOps": 6,
     "WebDev": 5,
-    "Mobile": 0,
-    "Cloud": 2,
+    "Mobile": 1,
+    "Cloud": 3,
     "Database": 2,
     "Security": 4,
     "Tools": 31
@@ -20,6 +20,7 @@
   "by_language": {
     "Go": 17,
     "Python": 18,
+    "Swift": 1,
     "JavaScript": 30,
     "CSharp": 1,
     "Java": 19,
@@ -83,7 +84,7 @@
     "javascript": 9,
     "python": 8,
     "typescript": 8,
-    "discuss": 7,
+    "discuss": 6,
     "go": 6,
     "productivity": 5,
     "devops": 5,
@@ -95,12 +96,13 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "19.3",
-    "Python": "20.5",
-    "JavaScript": "34.1",
+    "Go": "19.1",
+    "Python": "20.2",
+    "Swift": "1.1",
+    "JavaScript": "33.7",
     "CSharp": "1.1",
-    "Java": "21.6",
-    "Rust": "2.3",
+    "Java": "21.3",
+    "Rust": "2.2",
     "PHP": "1.1"
   }
 }
