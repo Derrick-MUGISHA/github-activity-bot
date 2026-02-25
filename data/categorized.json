@@ -485,18 +485,6 @@
       "user": "dmotz"
     },
     {
-      "title": "Bypassing airport security via SQL injection",
-      "url": "https://ian.sh/tsa",
-      "published_at": "2024-08-29T15:53:08Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "iancarroll"
-    },
-    {
       "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
       "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
       "published_at": "2026-02-24T12:16:45Z",
@@ -507,6 +495,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "Qem"
+    },
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
     },
     {
       "title": "Air Con: $1697 for an on/off switch",
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 349,
       "user": "vava-nessa"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 914,
       "user": "Panniantong"
     },
     {
@@ -613,23 +613,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "quailyquaily"
-    },
-    {
-      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "url": "https://github.com/taigrr/spank",
-      "published_at": "2026-02-23T00:43:05Z",
-      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "taigrr"
     }
   ],
   "JavaScript": [
@@ -974,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 349,
       "user": "vava-nessa"
     },
     {
@@ -1004,7 +989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 204,
       "user": "mksglu"
     },
     {
@@ -1019,7 +1004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "jesselau76"
     }
   ],
@@ -1243,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1063,
       "user": "anthropics"
     },
     {
@@ -1258,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 914,
       "user": "Panniantong"
     },
     {
@@ -1288,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 797,
       "user": "peteromallet"
     }
   ],
@@ -1609,21 +1594,6 @@
       "user": "Art light"
     },
     {
-      "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
-      "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
-      "published_at": "2026-02-24T19:26:42Z",
-      "description": "During the early hours of the morning, I started receiving Gitaly alerts — memory spikes that weren't...",
-      "tags": [
-        "gitlab",
-        "linux",
-        "kernel",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
-      "source": "Dev.to",
-      "user": "Camila"
-    },
-    {
       "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
       "published_at": "2026-02-24T03:56:47Z",
@@ -1637,6 +1607,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
       "source": "Dev.to",
       "user": "Matthew Hou"
+    },
+    {
+      "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
+      "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
+      "published_at": "2026-02-24T19:26:42Z",
+      "description": "During the early hours of the morning, I started receiving Gitaly alerts — memory spikes that weren't...",
+      "tags": [
+        "gitlab",
+        "linux",
+        "kernel",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
+      "source": "Dev.to",
+      "user": "Camila"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1901,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 349,
       "user": "vava-nessa"
     },
     {
@@ -1931,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 204,
       "user": "mksglu"
     },
     {
@@ -1946,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "jesselau76"
     },
     {
@@ -1976,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1063,
       "user": "anthropics"
     },
     {
@@ -1991,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 914,
       "user": "Panniantong"
     },
     {
@@ -2021,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 797,
       "user": "peteromallet"
     },
     {
@@ -2036,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "quailyquaily"
     },
     {
@@ -2051,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "wesm"
     },
     {
@@ -2066,8 +2051,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 133,
       "user": "odvcencio"
+    },
+    {
+      "title": "bjarneo/cliamp - Terminal Winamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "published_at": "2026-02-24T07:18:59Z",
+      "description": "Terminal Winamp",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "bjarneo"
     },
     {
       "title": "NOBB2333/ClipCascade_go - ClipCascade go语言重制版",
@@ -2083,21 +2083,6 @@
       "source": "GitHub",
       "stars": 102,
       "user": "NOBB2333"
-    },
-    {
-      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "url": "https://github.com/taigrr/spank",
-      "published_at": "2026-02-23T00:43:05Z",
-      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "taigrr"
     }
   ]
 }
