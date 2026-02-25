@@ -74,6 +74,21 @@
       "user": "Cesar Aguirre"
     },
     {
+      "title": "A Quick Recovery Guide for AI-Dependent Coders",
+      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
+      "published_at": "2026-02-23T05:00:00Z",
+      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
+    },
+    {
       "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
       "url": "https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib",
       "published_at": "2026-02-23T15:50:04Z",
@@ -101,21 +116,6 @@
       "user": "CodeNameGrant"
     },
     {
-      "title": "A Quick Recovery Guide for AI-Dependent Coders",
-      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
-      "published_at": "2026-02-23T05:00:00Z",
-      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
-    },
-    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -129,6 +129,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
       "source": "Dev.to",
       "user": "aileen vl"
+    },
+    {
+      "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
+      "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
+      "published_at": "2026-02-24T18:35:30Z",
+      "description": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
+      "tags": [
+        "rust",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
+      "source": "Dev.to",
+      "user": "Yaser Al-Najjar"
     },
     {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
@@ -146,19 +159,6 @@
       "user": "Kohki Makimoto"
     },
     {
-      "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
-      "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
-      "published_at": "2026-02-24T18:35:30Z",
-      "description": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
-      "tags": [
-        "rust",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
-      "source": "Dev.to",
-      "user": "Yaser Al-Najjar"
-    },
-    {
       "title": "Get React out of my terminal: a case for headless mode",
       "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
       "published_at": "2026-02-22T15:36:54Z",
@@ -174,19 +174,6 @@
       "user": "Anton"
     },
     {
-      "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
-      "url": "https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8",
-      "published_at": "2026-02-20T21:45:30Z",
-      "description": "Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.",
-      "tags": [
-        "gitlab",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
-      "source": "Dev.to",
-      "user": "Romain Lespinasse"
-    },
-    {
       "title": "The Increasing Need for Human Connection in the Age of AI",
       "url": "https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd",
       "published_at": "2026-02-24T12:02:47Z",
@@ -200,6 +187,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuz3d3j9k7zvirrlecnp.png",
       "source": "Dev.to",
       "user": "Julien Avezou"
+    },
+    {
+      "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
+      "url": "https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8",
+      "published_at": "2026-02-20T21:45:30Z",
+      "description": "Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.",
+      "tags": [
+        "gitlab",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
+      "source": "Dev.to",
+      "user": "Romain Lespinasse"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -425,20 +425,6 @@
       "user": "Terence Tham"
     },
     {
-      "title": "I feel lost on AI",
-      "url": "https://dev.to/therogvarok/i-feel-lost-on-ai-367c",
-      "published_at": "2026-02-22T01:56:58Z",
-      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
-      "tags": [
-        "discuss",
-        "community",
-        "mentalhealth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
-      "source": "Dev.to",
-      "user": "Ed"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -582,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "vava-nessa"
     },
     {
@@ -612,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 188,
       "user": "quailyquaily"
     },
     {
@@ -629,39 +615,9 @@
       "source": "GitHub",
       "stars": 98,
       "user": "taigrr"
-    },
-    {
-      "title": "almonk/bontree - A file explorer to pair with your favourite agent",
-      "url": "https://github.com/almonk/bontree",
-      "published_at": "2026-02-22T02:56:49Z",
-      "description": "A file explorer to pair with your favourite agent",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
-      "source": "GitHub",
-      "stars": 83,
-      "user": "almonk"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Static Imports Are Undermining JavaScript’s Isomorphism",
-      "url": "https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm",
-      "published_at": "2026-02-25T04:51:33Z",
-      "description": "Early binding reduces runtime universality. Dependency Injection restores control at the composition root.",
-      "tags": [
-        "javascript",
-        "webdev",
-        "architecture",
-        "designpatterns"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F663fj2k33nipbhhpj51s.png",
-      "source": "Dev.to",
-      "user": "Alex Gusev"
-    },
     {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
       "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
@@ -676,6 +632,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png",
       "source": "Dev.to",
       "user": "CodeNameGrant"
+    },
+    {
+      "title": "Static Imports Are Undermining JavaScript’s Isomorphism",
+      "url": "https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm",
+      "published_at": "2026-02-25T04:51:33Z",
+      "description": "Early binding reduces runtime universality. Dependency Injection restores control at the composition root.",
+      "tags": [
+        "javascript",
+        "webdev",
+        "architecture",
+        "designpatterns"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F663fj2k33nipbhhpj51s.png",
+      "source": "Dev.to",
+      "user": "Alex Gusev"
     },
     {
       "title": "Get React out of my terminal: a case for headless mode",
@@ -988,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "vava-nessa"
     },
     {
@@ -1018,7 +989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "mksglu"
     },
     {
@@ -1242,7 +1213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1315,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1257,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1035,
       "user": "anthropics"
     },
     {
@@ -1272,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 900,
       "user": "Panniantong"
     },
     {
@@ -1302,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 746,
       "user": "peteromallet"
     }
   ],
@@ -1383,21 +1354,6 @@
       "user": "Hansel Wei"
     },
     {
-      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
-      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
-      "published_at": "2026-02-19T03:23:34Z",
-      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
-      "tags": [
-        "showdev",
-        "devops",
-        "python",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
-      "source": "Dev.to",
-      "user": "Maame Afua A. P. Fordjour "
-    },
-    {
       "title": "The Agent Harness Is the Architecture (and Your Model Is Not the Bottleneck)",
       "url": "https://dev.to/epappas/the-agent-harness-is-the-architecture-and-your-model-is-not-the-bottleneck-3bjd",
       "published_at": "2026-02-24T12:23:34Z",
@@ -1411,6 +1367,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwo904hylivr29mqjiaga.png",
       "source": "Dev.to",
       "user": "Evangelos Pappas"
+    },
+    {
+      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
+      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
+      "published_at": "2026-02-19T03:23:34Z",
+      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
+      "tags": [
+        "showdev",
+        "devops",
+        "python",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
+      "source": "Dev.to",
+      "user": "Maame Afua A. P. Fordjour "
     }
   ],
   "WebDev": [
@@ -1499,6 +1470,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cd36khfx6497jddb83g.gif",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "I built a framework that lets you write native apps with YAML and Lua",
+      "url": "https://dev.to/josejuanqm/i-built-a-framework-that-lets-you-write-native-apps-with-yaml-and-lua-38lf",
+      "published_at": "2026-02-23T23:56:02Z",
+      "description": "I've been doing native mobile development for a while and one thing that always bugged me was the...",
+      "tags": [
+        "swift",
+        "kotlin",
+        "mobile",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxiglhwogug06jvt15xrc.png",
+      "source": "Dev.to",
+      "user": "Jose Quintero"
     },
     {
       "title": "Barcode Scanning on iOS: The Missing Web API and a WebAssembly Solution",
@@ -1930,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "vava-nessa"
     },
     {
@@ -1960,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "mksglu"
     },
     {
@@ -1990,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1315,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2005,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1035,
       "user": "anthropics"
     },
     {
@@ -2020,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 900,
       "user": "Panniantong"
     },
     {
@@ -2050,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 746,
       "user": "peteromallet"
     },
     {
@@ -2065,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 188,
       "user": "quailyquaily"
     },
     {
@@ -2114,19 +2100,19 @@
       "user": "taigrr"
     },
     {
-      "title": "almonk/bontree - A file explorer to pair with your favourite agent",
-      "url": "https://github.com/almonk/bontree",
-      "published_at": "2026-02-22T02:56:49Z",
-      "description": "A file explorer to pair with your favourite agent",
+      "title": "bjarneo/cliamp - Terminal Winamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "published_at": "2026-02-24T07:18:59Z",
+      "description": "Terminal Winamp",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 83,
-      "user": "almonk"
+      "stars": 88,
+      "user": "bjarneo"
     }
   ]
 }
