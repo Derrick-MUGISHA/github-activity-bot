@@ -145,20 +145,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "Securing Your App with Access and Refresh Tokens: A Practical Guide",
-      "url": "https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1",
-      "published_at": "2026-02-19T09:25:47Z",
-      "description": "My Journey: From Naive to Secure Authentication Let me be honest about how I handled authentication...",
-      "tags": [
-        "rust",
-        "oauth",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14s5llrn1m8ew5dddztn.png",
-      "source": "Dev.to",
-      "user": "Chukwuemeka Maduekwe"
-    },
-    {
       "title": "The Evolution of the AI-Driven Coder",
       "url": "https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f",
       "published_at": "2026-02-22T21:15:24Z",
@@ -525,18 +511,6 @@
       "user": "ranebo"
     },
     {
-      "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
-      "url": "https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html",
-      "published_at": "2018-05-08T17:51:44Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "ivank"
-    },
-    {
       "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
       "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
       "published_at": "2026-02-24T12:16:45Z",
@@ -547,6 +521,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "Qem"
+    },
+    {
+      "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
+      "url": "https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html",
+      "published_at": "2018-05-08T17:51:44Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "ivank"
     },
     {
       "title": "Paper Airplane Designs",
@@ -584,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 332,
       "user": "vava-nessa"
     },
     {
@@ -599,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 206,
       "user": "vikasprogrammer"
     },
     {
@@ -614,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 680,
       "user": "CraftyGeezer"
     },
     {
@@ -644,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 87,
       "user": "taigrr"
     },
     {
@@ -1020,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 332,
       "user": "vava-nessa"
     },
     {
@@ -1035,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 206,
       "user": "vikasprogrammer"
     },
     {
@@ -1050,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "jesselau76"
     },
     {
@@ -1262,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 881,
       "user": "anthropics"
     },
     {
@@ -1277,23 +1263,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 797,
       "user": "olvvier"
-    },
-    {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
-      "source": "GitHub",
-      "stars": 678,
-      "user": "CraftyGeezer"
     },
     {
       "title": "Panniantong/Agent-Reach - GitHub Repository",
@@ -1307,8 +1278,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 718,
       "user": "Panniantong"
+    },
+    {
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "published_at": "2026-02-21T12:51:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "source": "GitHub",
+      "stars": 680,
+      "user": "CraftyGeezer"
     }
   ],
   "DevOps": [
@@ -1556,20 +1542,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "Securing Your App with Access and Refresh Tokens: A Practical Guide",
-      "url": "https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1",
-      "published_at": "2026-02-19T09:25:47Z",
-      "description": "My Journey: From Naive to Secure Authentication Let me be honest about how I handled authentication...",
-      "tags": [
-        "rust",
-        "oauth",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14s5llrn1m8ew5dddztn.png",
-      "source": "Dev.to",
-      "user": "Chukwuemeka Maduekwe"
-    },
-    {
       "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
       "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
       "published_at": "2026-02-11T02:00:24Z",
@@ -1613,6 +1585,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "The $0 Developer Phase — And How Dev.to Pulled Me Out",
+      "url": "https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g",
+      "published_at": "2026-02-25T07:11:06Z",
+      "description": "Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...",
+      "tags": [
+        "career",
+        "webdev",
+        "productivity",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe492yw7tyhbwg5o8x6bx.png",
+      "source": "Dev.to",
+      "user": "Art light"
+    },
     {
       "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
       "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
@@ -1861,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 332,
       "user": "vava-nessa"
     },
     {
@@ -1876,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 206,
       "user": "vikasprogrammer"
     },
     {
@@ -1891,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "jesselau76"
     },
     {
@@ -1936,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 881,
       "user": "anthropics"
     },
     {
@@ -1951,23 +1938,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 797,
       "user": "olvvier"
-    },
-    {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
-      "source": "GitHub",
-      "stars": 678,
-      "user": "CraftyGeezer"
     },
     {
       "title": "Panniantong/Agent-Reach - GitHub Repository",
@@ -1981,8 +1953,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 718,
       "user": "Panniantong"
+    },
+    {
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "published_at": "2026-02-21T12:51:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "source": "GitHub",
+      "stars": 680,
+      "user": "CraftyGeezer"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -2011,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "wesm"
     },
     {
@@ -2041,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 87,
       "user": "taigrr"
     },
     {

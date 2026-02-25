@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -40,7 +40,7 @@
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦 4 (3.8%)
 
 **Cloud**: 🟦 2 (1.9%)
 
@@ -61,8 +61,8 @@
 JavaScript      ██████████████████████████████ 33.7 (33.7%)
 Python          ███████████████████ 20.9 (20.9%)
 Java            ███████████████████ 20.9 (20.9%)
-Go              ███████████████ 17.4 (17.4%)
-Rust            ████ 4.7 (4.7%)
+Go              █████████████████ 18.6 (18.6%)
+Rust            ███ 3.5 (3.5%)
 CSharp          █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 
@@ -73,8 +73,8 @@ pie title Programming Languages Distribution
     "JavaScript" : 29
     "Python" : 18
     "Java" : 18
-    "Go" : 15
-    "Rust" : 4
+    "Go" : 16
+    "Rust" : 3
     "CSharp" : 1
     "PHP" : 1
 ```
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![devops](https://img.shields.io/badge/devops-5-blue) ![linux](https://img.shields.io/badge/linux-4-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![typescript](https://img.shields.io/badge/typescript-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![devops](https://img.shields.io/badge/devops-5-blue) 
 
 
 
@@ -123,13 +123,22 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-25 13:00 CAT)
+## 📅 Latest Updates (2026-02-25 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe492yw7tyhbwg5o8x6bx.png" width="200" alt="The $0 Developer Phase — And How Dev.to Pulled Me Out" />
+      <br/>
+      <b>The $0 Developer Phase — And How Dev.to Pulled Me ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg" width="200" alt="Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented." />
@@ -148,6 +157,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuz3d3j9k7zvirrlecnp.png" width="200" alt="The Increasing Need for Human Connection in the Age of AI" />
@@ -157,8 +168,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png" width="200" alt="Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab" />
@@ -177,15 +186,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmq9xqrlwdewtul35vew2.png" width="200" alt="I Said Yes to Everything for a Year. Here's What It Cost Me." />
-      <br/>
-      <b>I Said Yes to Everything for a Year. Here's What I...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -193,6 +193,7 @@ npm run test
 
 ### 📰 Top Headlines
 
+- [The $0 Developer Phase — And How Dev.to Pulled Me Out](https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g) _[Dev.to]_
 - [Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.](https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe) _[Dev.to]_
 - [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62) _[Dev.to]_
 - [The Increasing Need for Human Connection in the Age of AI](https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd) _[Dev.to]_
@@ -208,13 +209,12 @@ npm run test
 - [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
 - [Sorting algorithms visualized](https://dev.to/peter/sorting-algorithms-visualized-5oh) _[Dev.to]_
 - [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo) _[Dev.to]_
-- [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1) _[Dev.to]_
 - [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f) _[Dev.to]_
 - [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 - [Stop Rebuilding Modals: A Deep Dive into the <dialog> Element](https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 
-_Last automated update: Wed, 25 Feb 2026 13:58:55 CAT_
+_Last automated update: Wed, 25 Feb 2026 15:21:14 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 25 Feb 2026 13:58:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Mutability, performance, use cases
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Feb 2026 11:58:55 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Feb 2026 13:21:14 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
