@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
+      "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
+      "published_at": "2026-02-25T17:41:43Z",
+      "description": "Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Once Upon a Time, Writing Code Was Fun",
       "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
       "published_at": "2026-02-24T20:11:41Z",
@@ -13,21 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
       "source": "Dev.to",
       "user": "Abdelrahman Ismail"
-    },
-    {
-      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
-      "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
-      "published_at": "2026-02-25T17:41:43Z",
-      "description": "Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2u26e2o6d4ng6x75mo17.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Stop Wasting Context",
@@ -74,21 +74,6 @@
       "user": "Cesar Aguirre"
     },
     {
-      "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
-      "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
-      "published_at": "2026-02-25T05:29:37Z",
-      "description": "This post walks through claude-sandbox, a small tool I built to bring predictable, low-friction...",
-      "tags": [
-        "ai",
-        "security",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
-      "source": "Dev.to",
-      "user": "Kohki Makimoto"
-    },
-    {
       "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
       "url": "https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib",
       "published_at": "2026-02-23T15:50:04Z",
@@ -131,21 +116,6 @@
       "user": "Cesar Aguirre"
     },
     {
-      "title": "Get React out of my terminal: a case for headless mode",
-      "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
-      "published_at": "2026-02-22T15:36:54Z",
-      "description": "Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cli",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
-      "source": "Dev.to",
-      "user": "Anton"
-    },
-    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -161,6 +131,21 @@
       "user": "aileen vl"
     },
     {
+      "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
+      "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
+      "published_at": "2026-02-25T05:29:37Z",
+      "description": "This post walks through claude-sandbox, a small tool I built to bring predictable, low-friction...",
+      "tags": [
+        "ai",
+        "security",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
+      "source": "Dev.to",
+      "user": "Kohki Makimoto"
+    },
+    {
       "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
       "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
       "published_at": "2026-02-24T18:35:30Z",
@@ -172,6 +157,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
       "source": "Dev.to",
       "user": "Yaser Al-Najjar"
+    },
+    {
+      "title": "Get React out of my terminal: a case for headless mode",
+      "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
+      "published_at": "2026-02-22T15:36:54Z",
+      "description": "Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...",
+      "tags": [
+        "agents",
+        "ai",
+        "cli",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
+      "source": "Dev.to",
+      "user": "Anton"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -261,6 +261,21 @@
       "user": "Aoife Shannon"
     },
     {
+      "title": "Build Domain-driven HTTP services",
+      "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
+      "published_at": "2026-02-20T04:21:37Z",
+      "description": "You're building ASP .NET web APIs that need to communicate with external APIs.  The UserRegister API...",
+      "tags": [
+        "webdev",
+        "dotnet",
+        "restapi",
+        "csharp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui38f6me5urbe1q3t35l.jpg",
+      "source": "Dev.to",
+      "user": "Mirza Leka"
+    },
+    {
       "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
       "url": "https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h",
       "published_at": "2026-02-19T20:34:23Z",
@@ -276,21 +291,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
-    },
-    {
       "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
       "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
       "published_at": "2026-02-23T23:11:18Z",
@@ -304,6 +304,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
       "source": "Dev.to",
       "user": "Benji Fisher"
+    },
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
     },
     {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
@@ -380,18 +395,19 @@
       "user": "Ale"
     },
     {
-      "title": "I feel lost on AI",
-      "url": "https://dev.to/therogvarok/i-feel-lost-on-ai-367c",
-      "published_at": "2026-02-22T01:56:58Z",
-      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
+      "title": "The Agent Harness Is the Architecture (and Your Model Is Not the Bottleneck)",
+      "url": "https://dev.to/epappas/the-agent-harness-is-the-architecture-and-your-model-is-not-the-bottleneck-3bjd",
+      "published_at": "2026-02-24T12:23:34Z",
+      "description": "I've been experimenting with agentic systems for a while now and I keep seeing the same pattern: the focus is on which model to use, run benchmarks -- and none of it fixes why their agents still suck on production.",
       "tags": [
-        "discuss",
-        "community",
-        "mentalhealth"
+        "ai",
+        "architecture",
+        "devops",
+        "agentic"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwo904hylivr29mqjiaga.png",
       "source": "Dev.to",
-      "user": "Ed"
+      "user": "Evangelos Pappas"
     },
     {
       "title": "38 Issues: Code Review Agent Showdown between BugBot, Copilot and Claude",
@@ -407,6 +423,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp5d6rb0k0a4h3x4ea4wq.png",
       "source": "Dev.to",
       "user": "Terence Tham"
+    },
+    {
+      "title": "I feel lost on AI",
+      "url": "https://dev.to/therogvarok/i-feel-lost-on-ai-367c",
+      "published_at": "2026-02-22T01:56:58Z",
+      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
+      "tags": [
+        "discuss",
+        "community",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
+      "source": "Dev.to",
+      "user": "Ed"
     },
     {
       "title": "Airfoil",
@@ -552,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "vava-nessa"
     },
     {
@@ -737,6 +767,21 @@
       "user": "Anower Jahan Shofol"
     },
     {
+      "title": "Automate Node.js Version Bumps with GitHub Actions (No Manual PRs Needed)",
+      "url": "https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8",
+      "published_at": "2026-02-24T01:10:00Z",
+      "description": "Manually bumping a package version is one of those low-value chores that's easy to forget, easy to...",
+      "tags": [
+        "node",
+        "github",
+        "automation",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqv1v8qv1qamlbxe95o0.png",
+      "source": "Dev.to",
+      "user": "Hansel Wei"
+    },
+    {
       "title": "Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2",
       "url": "https://dev.to/fridzema/announcement-oxidedock-rust-vue-3-desktop-starter-built-on-tauri-v2-3d6a",
       "published_at": "2026-02-16T09:18:29Z",
@@ -795,36 +840,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
       "source": "Dev.to",
       "user": "Maame Afua A. P. Fordjour "
-    },
-    {
-      "title": "Automate Node.js Version Bumps with GitHub Actions (No Manual PRs Needed)",
-      "url": "https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8",
-      "published_at": "2026-02-24T01:10:00Z",
-      "description": "Manually bumping a package version is one of those low-value chores that's easy to forget, easy to...",
-      "tags": [
-        "node",
-        "github",
-        "automation",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqv1v8qv1qamlbxe95o0.png",
-      "source": "Dev.to",
-      "user": "Hansel Wei"
-    },
-    {
-      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
-      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
-      "published_at": "2026-02-12T06:27:14Z",
-      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
-      "tags": [
-        "supabase",
-        "react",
-        "tutorial",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
-      "source": "Dev.to",
-      "user": "Fongoh Martin T."
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -973,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "vava-nessa"
     },
     {
@@ -1003,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "mksglu"
     },
     {
@@ -1018,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 168,
       "user": "jesselau76"
     }
   ],
@@ -1080,6 +1095,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
       "source": "Dev.to",
       "user": "Maame Afua A. P. Fordjour "
+    },
+    {
+      "title": "How a \"Simple\" QR Code Generator Ate All My RAM: A Tale of 50,000 QR Codes",
+      "url": "https://dev.to/budiwidhiyanto/how-a-simple-qr-code-generator-ate-all-my-ram-a-tale-of-50000-qr-codes-1nkg",
+      "published_at": "2026-02-24T02:43:04Z",
+      "description": "Sometimes the simplest tasks can become the biggest headaches. Here's how I learned that data size...",
+      "tags": [
+        "python",
+        "performance",
+        "optimization"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs9smbug1ep1af3sg3y2a.png",
+      "source": "Dev.to",
+      "user": "Budi Widhiyanto"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1213,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1313,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1228,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1009,
       "user": "anthropics"
     },
     {
@@ -1243,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 888,
       "user": "Panniantong"
     },
     {
@@ -1273,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 726,
       "user": "peteromallet"
     }
   ],
@@ -1339,6 +1368,21 @@
       "user": "suin"
     },
     {
+      "title": "Automate Node.js Version Bumps with GitHub Actions (No Manual PRs Needed)",
+      "url": "https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8",
+      "published_at": "2026-02-24T01:10:00Z",
+      "description": "Manually bumping a package version is one of those low-value chores that's easy to forget, easy to...",
+      "tags": [
+        "node",
+        "github",
+        "automation",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqv1v8qv1qamlbxe95o0.png",
+      "source": "Dev.to",
+      "user": "Hansel Wei"
+    },
+    {
       "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
       "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
       "published_at": "2026-02-19T03:23:34Z",
@@ -1354,19 +1398,19 @@
       "user": "Maame Afua A. P. Fordjour "
     },
     {
-      "title": "Automate Node.js Version Bumps with GitHub Actions (No Manual PRs Needed)",
-      "url": "https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8",
-      "published_at": "2026-02-24T01:10:00Z",
-      "description": "Manually bumping a package version is one of those low-value chores that's easy to forget, easy to...",
+      "title": "The Agent Harness Is the Architecture (and Your Model Is Not the Bottleneck)",
+      "url": "https://dev.to/epappas/the-agent-harness-is-the-architecture-and-your-model-is-not-the-bottleneck-3bjd",
+      "published_at": "2026-02-24T12:23:34Z",
+      "description": "I've been experimenting with agentic systems for a while now and I keep seeing the same pattern: the focus is on which model to use, run benchmarks -- and none of it fixes why their agents still suck on production.",
       "tags": [
-        "node",
-        "github",
-        "automation",
-        "devops"
+        "ai",
+        "architecture",
+        "devops",
+        "agentic"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqv1v8qv1qamlbxe95o0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwo904hylivr29mqjiaga.png",
       "source": "Dev.to",
-      "user": "Hansel Wei"
+      "user": "Evangelos Pappas"
     }
   ],
   "WebDev": [
@@ -1521,21 +1565,6 @@
   ],
   "Database": [
     {
-      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
-      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
-      "published_at": "2026-02-12T06:27:14Z",
-      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
-      "tags": [
-        "supabase",
-        "react",
-        "tutorial",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
-      "source": "Dev.to",
-      "user": "Fongoh Martin T."
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1609,6 +1638,21 @@
       "user": "Art light"
     },
     {
+      "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
+      "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
+      "published_at": "2026-02-24T19:26:42Z",
+      "description": "During the early hours of the morning, I started receiving Gitaly alerts — memory spikes that weren't...",
+      "tags": [
+        "gitlab",
+        "linux",
+        "kernel",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
+      "source": "Dev.to",
+      "user": "Camila"
+    },
+    {
       "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
       "published_at": "2026-02-24T03:56:47Z",
@@ -1624,19 +1668,19 @@
       "user": "Matthew Hou"
     },
     {
-      "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
-      "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
-      "published_at": "2026-02-24T19:26:42Z",
-      "description": "During the early hours of the morning, I started receiving Gitaly alerts — memory spikes that weren't...",
+      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
+      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
+      "published_at": "2026-02-25T01:28:04Z",
+      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
       "tags": [
-        "gitlab",
-        "linux",
-        "kernel",
-        "devops"
+        "ai",
+        "softwareengineering",
+        "productivity",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
       "source": "Dev.to",
-      "user": "Camila"
+      "user": "aileen vl"
     },
     {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
@@ -1667,21 +1711,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
       "source": "Dev.to",
       "user": "Anton"
-    },
-    {
-      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
-      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
-      "published_at": "2026-02-25T01:28:04Z",
-      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
-      "source": "Dev.to",
-      "user": "aileen vl"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -1739,6 +1768,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
       "source": "Dev.to",
       "user": "Aoife Shannon"
+    },
+    {
+      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
+      "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
+      "published_at": "2026-02-23T23:11:18Z",
+      "description": "Postman didn't become essential by testing APIs. It became essential by showing developers what was...",
+      "tags": [
+        "ucp",
+        "postman",
+        "playground",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
+      "source": "Dev.to",
+      "user": "Benji Fisher"
     },
     {
       "title": "Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint",
@@ -1815,21 +1859,6 @@
       "user": "Lucca Sanwald"
     },
     {
-      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
-      "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
-      "published_at": "2026-02-23T23:11:18Z",
-      "description": "Postman didn't become essential by testing APIs. It became essential by showing developers what was...",
-      "tags": [
-        "ucp",
-        "postman",
-        "playground",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz0zqsmz10gmw5mrjcml.webp",
-      "source": "Dev.to",
-      "user": "Benji Fisher"
-    },
-    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -1901,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "vava-nessa"
     },
     {
@@ -1931,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "mksglu"
     },
     {
@@ -1946,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 168,
       "user": "jesselau76"
     },
     {
@@ -1961,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1313,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1976,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1009,
       "user": "anthropics"
     },
     {
@@ -1991,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 888,
       "user": "Panniantong"
     },
     {
@@ -2021,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 726,
       "user": "peteromallet"
     },
     {
@@ -2051,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "wesm"
     },
     {
