@@ -15,6 +15,35 @@
       "user": "Abdelrahman Ismail"
     },
     {
+      "title": "Stop Wasting Context",
+      "url": "https://dev.to/prathamudeshmukh/stop-wasting-context-34b3",
+      "published_at": "2026-02-25T12:16:58Z",
+      "description": "OpenAI says \"Context is a scarce resource.\"  Treat it like one.  A giant instruction file feels safe....",
+      "tags": [
+        "ai",
+        "llm",
+        "memory"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frj53bn5v65z4bw3ymeb7.png",
+      "source": "Dev.to",
+      "user": "Prathamesh Deshmukh"
+    },
+    {
+      "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
+      "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
+      "published_at": "2026-02-25T05:29:37Z",
+      "description": "This post walks through claude-sandbox, a small tool I built to bring predictable, low-friction...",
+      "tags": [
+        "ai",
+        "security",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
+      "source": "Dev.to",
+      "user": "Kohki Makimoto"
+    },
+    {
       "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
       "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
       "published_at": "2026-02-24T19:29:47Z",
@@ -100,6 +129,34 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
       "source": "Dev.to",
       "user": "Anton"
+    },
+    {
+      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
+      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
+      "published_at": "2026-02-25T01:28:04Z",
+      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "productivity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
+      "source": "Dev.to",
+      "user": "aileen vl"
+    },
+    {
+      "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
+      "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
+      "published_at": "2026-02-24T18:35:30Z",
+      "description": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
+      "tags": [
+        "rust",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
+      "source": "Dev.to",
+      "user": "Yaser Al-Najjar"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -293,21 +350,6 @@
       "user": "marcosomma"
     },
     {
-      "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
-      "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
-      "published_at": "2026-02-23T00:28:37Z",
-      "description": "Custom agents have been in AI coding tools for months. We finally connected the dots—the documentation system we'd been building was already the blueprint for a team of specialists.",
-      "tags": [
-        "ai",
-        "productivity",
-        "automation",
-        "devrel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
-      "source": "Dev.to",
-      "user": "Dorothy J Aubrey"
-    },
-    {
       "title": "HJX: Rethinking the Web for the AI Era",
       "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
       "published_at": "2026-02-17T04:40:08Z",
@@ -352,79 +394,19 @@
       "user": "Ed"
     },
     {
-      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
-      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
-      "published_at": "2026-02-11T02:00:24Z",
-      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
+      "title": "38 Issues: Code Review Agent Showdown between BugBot, Copilot and Claude",
+      "url": "https://dev.to/terence/38-issues-showdown-between-bugbot-copilot-and-claude-2o7e",
+      "published_at": "2026-02-24T13:45:30Z",
+      "description": "AI code review tools promise to catch what human reviewers miss. But which one actually delivers? I...",
       "tags": [
         "ai",
-        "opensourcesecurity",
-        "securitylabs",
-        "supplychainsecurity"
+        "codequality",
+        "dotnet",
+        "githubcopilot"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp5d6rb0k0a4h3x4ea4wq.png",
       "source": "Dev.to",
-      "user": "SnykSec"
-    },
-    {
-      "title": "I built a CSS framework where every class name is an emoji",
-      "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
-      "published_at": "2026-02-23T11:38:19Z",
-      "description": "BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.",
-      "tags": [
-        "css",
-        "jokes",
-        "tailwindcss",
-        "bem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Tom Hayes"
-    },
-    {
-      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
-      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
-      "published_at": "2026-02-14T23:30:20Z",
-      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
-      "tags": [
-        "ai",
-        "javascript",
-        "cicd",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
-      "source": "Dev.to",
-      "user": "Monarch Wadia"
-    },
-    {
-      "title": "Using Laravel Boost With DDEV",
-      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
-      "published_at": "2026-02-10T00:00:00Z",
-      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
-      "tags": [
-        "ai",
-        "docker",
-        "laravel",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
-      "source": "Dev.to",
-      "user": "Russell Jones"
-    },
-    {
-      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
-      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
-      "published_at": "2026-02-13T15:27:58Z",
-      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
-      "tags": [
-        "ai",
-        "security",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
-      "source": "Dev.to",
-      "user": "Natnael Getenew"
+      "user": "Terence Tham"
     },
     {
       "title": "Airfoil",
@@ -570,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "vava-nessa"
     },
     {
@@ -650,6 +632,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Static Imports Are Undermining JavaScript’s Isomorphism",
+      "url": "https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm",
+      "published_at": "2026-02-25T04:51:33Z",
+      "description": "Early binding reduces runtime universality. Dependency Injection restores control at the composition root.",
+      "tags": [
+        "javascript",
+        "webdev",
+        "architecture",
+        "designpatterns"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F663fj2k33nipbhhpj51s.png",
+      "source": "Dev.to",
+      "user": "Alex Gusev"
+    },
     {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
       "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
@@ -815,6 +812,21 @@
       "user": "Maame Afua A. P. Fordjour "
     },
     {
+      "title": "Automate Node.js Version Bumps with GitHub Actions (No Manual PRs Needed)",
+      "url": "https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8",
+      "published_at": "2026-02-24T01:10:00Z",
+      "description": "Manually bumping a package version is one of those low-value chores that's easy to forget, easy to...",
+      "tags": [
+        "node",
+        "github",
+        "automation",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqv1v8qv1qamlbxe95o0.png",
+      "source": "Dev.to",
+      "user": "Hansel Wei"
+    },
+    {
       "title": "Building a Simple Blog with Supabase (Posts & Comments)",
       "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
       "published_at": "2026-02-12T06:27:14Z",
@@ -828,51 +840,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
       "source": "Dev.to",
       "user": "Fongoh Martin T."
-    },
-    {
-      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
-      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
-      "published_at": "2026-02-14T23:30:20Z",
-      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
-      "tags": [
-        "ai",
-        "javascript",
-        "cicd",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
-      "source": "Dev.to",
-      "user": "Monarch Wadia"
-    },
-    {
-      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
-      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
-      "published_at": "2026-02-13T15:27:58Z",
-      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
-      "tags": [
-        "ai",
-        "security",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
-      "source": "Dev.to",
-      "user": "Natnael Getenew"
-    },
-    {
-      "title": "Handy Bit Manipulation Tricks",
-      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
-      "published_at": "2026-02-13T06:54:48Z",
-      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component...",
-      "tags": [
-        "algorithms",
-        "programming",
-        "javascript",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F23ezcxw3fgp7pbupk687.png",
-      "source": "Dev.to",
-      "user": "Manuj Sankrit"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1021,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "vava-nessa"
     },
     {
@@ -1051,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 179,
       "user": "mksglu"
     },
     {
@@ -1085,6 +1052,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg",
       "source": "Dev.to",
       "user": "Pascal CESCATO"
+    },
+    {
+      "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
+      "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
+      "published_at": "2026-02-24T18:35:30Z",
+      "description": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
+      "tags": [
+        "rust",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
+      "source": "Dev.to",
+      "user": "Yaser Al-Najjar"
     },
     {
       "title": "I built an API that detects chess tactical patterns from FEN and PGN",
@@ -1263,23 +1243,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 982,
       "user": "anthropics"
-    },
-    {
-      "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
-      "published_at": "2026-02-19T04:37:47Z",
-      "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
-      "source": "GitHub",
-      "stars": 800,
-      "user": "olvvier"
     },
     {
       "title": "Panniantong/Agent-Reach - GitHub Repository",
@@ -1293,8 +1258,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 844,
       "user": "Panniantong"
+    },
+    {
+      "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+      "published_at": "2026-02-19T04:37:47Z",
+      "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
+      "source": "GitHub",
+      "stars": 801,
+      "user": "olvvier"
     },
     {
       "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
@@ -1389,22 +1369,34 @@
       "user": "Maame Afua A. P. Fordjour "
     },
     {
-      "title": "Using Laravel Boost With DDEV",
-      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
-      "published_at": "2026-02-10T00:00:00Z",
-      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
+      "title": "Automate Node.js Version Bumps with GitHub Actions (No Manual PRs Needed)",
+      "url": "https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8",
+      "published_at": "2026-02-24T01:10:00Z",
+      "description": "Manually bumping a package version is one of those low-value chores that's easy to forget, easy to...",
       "tags": [
-        "ai",
-        "docker",
-        "laravel",
-        "mcp"
+        "node",
+        "github",
+        "automation",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqv1v8qv1qamlbxe95o0.png",
       "source": "Dev.to",
-      "user": "Russell Jones"
+      "user": "Hansel Wei"
     }
   ],
   "WebDev": [
+    {
+      "title": "Mastering Smooth UI Transitions: The End of the \"Height: Auto\" Hack",
+      "url": "https://dev.to/vanaf1979/mastering-smooth-ui-transitions-the-end-of-the-height-auto-hack-3hjc",
+      "published_at": "2026-02-25T14:36:26Z",
+      "description": "In this article, I break down how the new interpolate-size and transition-behavior properties finally solve the \"height: auto\" problem in CSS. We walk through how to ditch old hacks for native, smooth transitions that handle both dynamic math and discrete display states the right way.",
+      "tags": [
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wp157lfoetjes2zdaa6.png",
+      "source": "Dev.to",
+      "user": "Stephan Nijman"
+    },
     {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
@@ -1451,21 +1443,6 @@
       "user": "Loaiabdalslam"
     },
     {
-      "title": "I built a CSS framework where every class name is an emoji",
-      "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
-      "published_at": "2026-02-23T11:38:19Z",
-      "description": "BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.",
-      "tags": [
-        "css",
-        "jokes",
-        "tailwindcss",
-        "bem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Tom Hayes"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1493,6 +1470,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cd36khfx6497jddb83g.gif",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "Barcode Scanning on iOS: The Missing Web API and a WebAssembly Solution",
+      "url": "https://dev.to/ilhannegis/barcode-scanning-on-ios-the-missing-web-api-and-a-webassembly-solution-2in2",
+      "published_at": "2026-02-24T09:28:29Z",
+      "description": "WebAssembly based barcode scanner for iOS/Safari browsers that lack the Barcode Detection API. Uses ZBar compiled to WASM via Emscripten to achieve almost native scanning performance directly in the browser, no native app required.",
+      "tags": [
+        "zbar",
+        "barcode",
+        "ios",
+        "webassembly"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fto2qsb6t69u50ihl47am.png",
+      "source": "Dev.to",
+      "user": "İlhan Neğiş"
     }
   ],
   "Cloud": [
@@ -1573,6 +1565,21 @@
   ],
   "Security": [
     {
+      "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
+      "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
+      "published_at": "2026-02-25T05:29:37Z",
+      "description": "This post walks through claude-sandbox, a small tool I built to bring predictable, low-friction...",
+      "tags": [
+        "ai",
+        "security",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
+      "source": "Dev.to",
+      "user": "Kohki Makimoto"
+    },
+    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -1586,36 +1593,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
-    },
-    {
-      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
-      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
-      "published_at": "2026-02-11T02:00:24Z",
-      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
-      "tags": [
-        "ai",
-        "opensourcesecurity",
-        "securitylabs",
-        "supplychainsecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
-      "source": "Dev.to",
-      "user": "SnykSec"
-    },
-    {
-      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
-      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
-      "published_at": "2026-02-13T15:27:58Z",
-      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
-      "tags": [
-        "ai",
-        "security",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
-      "source": "Dev.to",
-      "user": "Natnael Getenew"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1662,6 +1639,21 @@
       "user": "Camila"
     },
     {
+      "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
+      "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
+      "published_at": "2026-02-25T05:29:37Z",
+      "description": "This post walks through claude-sandbox, a small tool I built to bring predictable, low-friction...",
+      "tags": [
+        "ai",
+        "security",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
+      "source": "Dev.to",
+      "user": "Kohki Makimoto"
+    },
+    {
       "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
       "published_at": "2026-02-24T03:56:47Z",
@@ -1690,6 +1682,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
       "source": "Dev.to",
       "user": "Anton"
+    },
+    {
+      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
+      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
+      "published_at": "2026-02-25T01:28:04Z",
+      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "productivity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
+      "source": "Dev.to",
+      "user": "aileen vl"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -1853,19 +1860,34 @@
       "user": "David Alcala"
     },
     {
-      "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
-      "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
-      "published_at": "2026-02-23T00:28:37Z",
-      "description": "Custom agents have been in AI coding tools for months. We finally connected the dots—the documentation system we'd been building was already the blueprint for a team of specialists.",
+      "title": "Automate Node.js Version Bumps with GitHub Actions (No Manual PRs Needed)",
+      "url": "https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8",
+      "published_at": "2026-02-24T01:10:00Z",
+      "description": "Manually bumping a package version is one of those low-value chores that's easy to forget, easy to...",
+      "tags": [
+        "node",
+        "github",
+        "automation",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqv1v8qv1qamlbxe95o0.png",
+      "source": "Dev.to",
+      "user": "Hansel Wei"
+    },
+    {
+      "title": "38 Issues: Code Review Agent Showdown between BugBot, Copilot and Claude",
+      "url": "https://dev.to/terence/38-issues-showdown-between-bugbot-copilot-and-claude-2o7e",
+      "published_at": "2026-02-24T13:45:30Z",
+      "description": "AI code review tools promise to catch what human reviewers miss. But which one actually delivers? I...",
       "tags": [
         "ai",
-        "productivity",
-        "automation",
-        "devrel"
+        "codequality",
+        "dotnet",
+        "githubcopilot"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8y0s2lpxrwgztiau0qe.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp5d6rb0k0a4h3x4ea4wq.png",
       "source": "Dev.to",
-      "user": "Dorothy J Aubrey"
+      "user": "Terence Tham"
     },
     {
       "title": "yeuxuan/openclaw-docs - openclaw 剖析、拆解、教程在线文档",
@@ -1894,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "vava-nessa"
     },
     {
@@ -1924,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 179,
       "user": "mksglu"
     },
     {
@@ -1969,23 +1991,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 982,
       "user": "anthropics"
-    },
-    {
-      "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
-      "published_at": "2026-02-19T04:37:47Z",
-      "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
-      "source": "GitHub",
-      "stars": 800,
-      "user": "olvvier"
     },
     {
       "title": "Panniantong/Agent-Reach - GitHub Repository",
@@ -1999,8 +2006,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 844,
       "user": "Panniantong"
+    },
+    {
+      "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+      "published_at": "2026-02-19T04:37:47Z",
+      "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
+      "source": "GitHub",
+      "stars": 801,
+      "user": "olvvier"
     },
     {
       "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
@@ -2044,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 149,
       "user": "wesm"
     },
     {
@@ -2059,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72846817?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "NOBB2333"
     },
     {
