@@ -30,21 +30,6 @@
       "user": "Abdelrahman Ismail"
     },
     {
-      "title": "The Increasing Need for Human Connection in the Age of AI",
-      "url": "https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd",
-      "published_at": "2026-02-24T12:02:47Z",
-      "description": "Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...",
-      "tags": [
-        "ai",
-        "community",
-        "career",
-        "growth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuz3d3j9k7zvirrlecnp.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
-    },
-    {
       "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
       "published_at": "2026-02-24T03:56:47Z",
@@ -58,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
       "source": "Dev.to",
       "user": "Matthew Hou"
+    },
+    {
+      "title": "The Increasing Need for Human Connection in the Age of AI",
+      "url": "https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd",
+      "published_at": "2026-02-24T12:02:47Z",
+      "description": "Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...",
+      "tags": [
+        "ai",
+        "community",
+        "career",
+        "growth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuz3d3j9k7zvirrlecnp.png",
+      "source": "Dev.to",
+      "user": "Julien Avezou"
     },
     {
       "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 317,
       "user": "vava-nessa"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "vikasprogrammer"
     },
     {
@@ -629,23 +629,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 682,
       "user": "CraftyGeezer"
-    },
-    {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
-      "source": "GitHub",
-      "stars": 411,
-      "user": "ochyai"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "quailyquaily"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "almonk"
     }
   ],
@@ -1020,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 348,
       "user": "yeuxuan"
     },
     {
@@ -1035,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 317,
       "user": "vava-nessa"
     },
     {
@@ -1050,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "vikasprogrammer"
     },
     {
@@ -1065,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "direkturcrypto"
     },
     {
@@ -1080,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 130,
       "user": "jesselau76"
     }
   ],
@@ -1247,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1295,
+      "stars": 1299,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1262,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 779,
       "user": "olvvier"
     },
     {
@@ -1277,8 +1262,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 682,
       "user": "CraftyGeezer"
+    },
+    {
+      "title": "anthropics/financial-services-plugins - GitHub Repository",
+      "url": "https://github.com/anthropics/financial-services-plugins",
+      "published_at": "2026-02-23T19:24:50Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "source": "GitHub",
+      "stars": 526,
+      "user": "anthropics"
     },
     {
       "title": "runesleo/x-reader - Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
@@ -1292,23 +1292,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 421,
       "user": "runesleo"
-    },
-    {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
-      "source": "GitHub",
-      "stars": 411,
-      "user": "ochyai"
     }
   ],
   "DevOps": [
@@ -1858,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 348,
       "user": "yeuxuan"
     },
     {
@@ -1873,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 317,
       "user": "vava-nessa"
     },
     {
@@ -1888,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "vikasprogrammer"
     },
     {
@@ -1903,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "direkturcrypto"
     },
     {
@@ -1918,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 130,
       "user": "jesselau76"
     },
     {
@@ -1933,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1295,
+      "stars": 1299,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1948,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 779,
       "user": "olvvier"
     },
     {
@@ -1963,8 +1948,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 682,
       "user": "CraftyGeezer"
+    },
+    {
+      "title": "anthropics/financial-services-plugins - GitHub Repository",
+      "url": "https://github.com/anthropics/financial-services-plugins",
+      "published_at": "2026-02-23T19:24:50Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "source": "GitHub",
+      "stars": 526,
+      "user": "anthropics"
     },
     {
       "title": "runesleo/x-reader - Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
@@ -1978,23 +1978,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 421,
       "user": "runesleo"
-    },
-    {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
-      "source": "GitHub",
-      "stars": 411,
-      "user": "ochyai"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -2008,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "quailyquaily"
     },
     {
@@ -2023,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "wesm"
     },
     {
@@ -2038,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72846817?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "NOBB2333"
     },
     {
@@ -2053,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51724?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "almonk"
     },
     {
@@ -2068,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "bjarneo"
     }
   ]
