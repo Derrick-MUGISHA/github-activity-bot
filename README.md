@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (42.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (43.3%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 34 (32.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.2%)
 
@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/prathamudeshmukh/stop-wasting-context-34b3">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frj53bn5v65z4bw3ymeb7.png" width="200" alt="Stop Wasting Context" />
+    <a href="https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png" width="200" alt="Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab" />
       <br/>
-      <b>Stop Wasting Context</b>
+      <b>Understanding Gitaly and Kernel Memory Consumption...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,23 +202,23 @@ npm run test
 - [The $0 Developer Phase — And How Dev.to Pulled Me Out](https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g) _[Dev.to]_
 - [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62) _[Dev.to]_
 - [Mastering Smooth UI Transitions: The End of the "Height: Auto" Hack](https://dev.to/vanaf1979/mastering-smooth-ui-transitions-the-end-of-the-height-auto-hack-3hjc) _[Dev.to]_
-- [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 - [Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab](https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3) _[Dev.to]_
 - [Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.](https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84) _[Dev.to]_
 - [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112) _[Dev.to]_
 - [Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.](https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh) _[Dev.to]_
+- [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 - [I Said Yes to Everything for a Year. Here's What It Cost Me.](https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib) _[Dev.to]_
 - [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g) _[Dev.to]_
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 - [I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development](https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7) _[Dev.to]_
-- [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 - [Get React out of my terminal: a case for headless mode](https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie) _[Dev.to]_
 - [The Increasing Need for Human Connection in the Age of AI](https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc) _[Dev.to]_
+- [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
 
-_Last automated update: Wed, 25 Feb 2026 23:07:23 CAT_
+_Last automated update: Wed, 25 Feb 2026 23:48:20 CAT_
 
 
 
@@ -226,25 +226,25 @@ _Last automated update: Wed, 25 Feb 2026 23:07:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Feb 2026 21:07:23 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Feb 2026 21:48:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
