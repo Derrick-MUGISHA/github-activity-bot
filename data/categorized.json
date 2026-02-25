@@ -30,20 +30,6 @@
       "user": "Abdelrahman Ismail"
     },
     {
-      "title": "Stop Wasting Context",
-      "url": "https://dev.to/prathamudeshmukh/stop-wasting-context-34b3",
-      "published_at": "2026-02-25T12:16:58Z",
-      "description": "OpenAI says \"Context is a scarce resource.\"  Treat it like one.  A giant instruction file feels safe....",
-      "tags": [
-        "ai",
-        "llm",
-        "memory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frj53bn5v65z4bw3ymeb7.png",
-      "source": "Dev.to",
-      "user": "Prathamesh Deshmukh"
-    },
-    {
       "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
       "published_at": "2026-02-24T03:56:47Z",
@@ -87,6 +73,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
       "source": "Dev.to",
       "user": "Cesar Aguirre"
+    },
+    {
+      "title": "Stop Wasting Context",
+      "url": "https://dev.to/prathamudeshmukh/stop-wasting-context-34b3",
+      "published_at": "2026-02-25T12:16:58Z",
+      "description": "OpenAI says \"Context is a scarce resource.\"  Treat it like one.  A giant instruction file feels safe....",
+      "tags": [
+        "ai",
+        "llm",
+        "memory"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frj53bn5v65z4bw3ymeb7.png",
+      "source": "Dev.to",
+      "user": "Prathamesh Deshmukh"
     },
     {
       "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
@@ -497,18 +497,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "Air Con: $1697 for an on/off switch",
-      "url": "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/",
-      "published_at": "2024-08-29T01:28:01Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "ranebo"
-    },
-    {
       "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
       "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
       "published_at": "2026-02-24T12:16:45Z",
@@ -519,6 +507,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "Qem"
+    },
+    {
+      "title": "Air Con: $1697 for an on/off switch",
+      "url": "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/",
+      "published_at": "2024-08-29T01:28:01Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "ranebo"
     },
     {
       "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
@@ -583,8 +583,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "vikasprogrammer"
+    },
+    {
+      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "published_at": "2026-02-24T02:10:24Z",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
+      "source": "GitHub",
+      "stars": 908,
+      "user": "Panniantong"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -598,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 189,
       "user": "quailyquaily"
     },
     {
@@ -613,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "taigrr"
     }
   ],
@@ -974,7 +989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "vikasprogrammer"
     },
     {
@@ -989,7 +1004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 199,
       "user": "mksglu"
     },
     {
@@ -1004,7 +1019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "jesselau76"
     }
   ],
@@ -1228,14 +1243,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1058,
       "user": "anthropics"
     },
     {
-      "title": "Panniantong/Agent-Reach - GitHub Repository",
+      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "published_at": "2026-02-24T02:10:24Z",
-      "description": "Trending GitHub Repository",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "tags": [
         "python",
         "github",
@@ -1243,7 +1258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 908,
       "user": "Panniantong"
     },
     {
@@ -1273,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 784,
       "user": "peteromallet"
     }
   ],
@@ -1901,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "vikasprogrammer"
     },
     {
@@ -1916,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 199,
       "user": "mksglu"
     },
     {
@@ -1931,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "jesselau76"
     },
     {
@@ -1961,14 +1976,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1058,
       "user": "anthropics"
     },
     {
-      "title": "Panniantong/Agent-Reach - GitHub Repository",
+      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "published_at": "2026-02-24T02:10:24Z",
-      "description": "Trending GitHub Repository",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "tags": [
         "python",
         "github",
@@ -1976,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 908,
       "user": "Panniantong"
     },
     {
@@ -2006,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 784,
       "user": "peteromallet"
     },
     {
@@ -2021,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 189,
       "user": "quailyquaily"
     },
     {
@@ -2036,8 +2051,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "wesm"
+    },
+    {
+      "title": "odvcencio/gotreesitter - Pure Go tree-sitter runtime",
+      "url": "https://github.com/odvcencio/gotreesitter",
+      "published_at": "2026-02-20T03:11:46Z",
+      "description": "Pure Go tree-sitter runtime",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "odvcencio"
     },
     {
       "title": "NOBB2333/ClipCascade_go - ClipCascade go语言重制版",
@@ -2055,21 +2085,6 @@
       "user": "NOBB2333"
     },
     {
-      "title": "odvcencio/gotreesitter - Pure Go tree-sitter runtime",
-      "url": "https://github.com/odvcencio/gotreesitter",
-      "published_at": "2026-02-20T03:11:46Z",
-      "description": "Pure Go tree-sitter runtime",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "odvcencio"
-    },
-    {
       "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
       "url": "https://github.com/taigrr/spank",
       "published_at": "2026-02-23T00:43:05Z",
@@ -2081,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "taigrr"
     }
   ]
