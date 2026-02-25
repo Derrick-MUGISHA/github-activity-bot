@@ -16,6 +16,20 @@
       "user": "Cesar Aguirre"
     },
     {
+      "title": "Once Upon a Time, Writing Code Was Fun",
+      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
+      "published_at": "2026-02-24T20:11:41Z",
+      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
+      "tags": [
+        "ai",
+        "programming",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
+      "source": "Dev.to",
+      "user": "Abdelrahman Ismail"
+    },
+    {
       "title": "The Increasing Need for Human Connection in the Age of AI",
       "url": "https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd",
       "published_at": "2026-02-24T12:02:47Z",
@@ -31,20 +45,6 @@
       "user": "Julien Avezou"
     },
     {
-      "title": "Once Upon a Time, Writing Code Was Fun",
-      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
-      "published_at": "2026-02-24T20:11:41Z",
-      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
-      "tags": [
-        "ai",
-        "programming",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
-      "source": "Dev.to",
-      "user": "Abdelrahman Ismail"
-    },
-    {
       "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
       "published_at": "2026-02-24T03:56:47Z",
@@ -58,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
       "source": "Dev.to",
       "user": "Matthew Hou"
+    },
+    {
+      "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
+      "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
+      "published_at": "2026-02-24T19:29:47Z",
+      "description": "A Quick Recovery Guide for AI-Dependent Coders       Cesar...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
     },
     {
       "title": "Software 3.1? - AI Functions",
@@ -584,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 309,
       "user": "vava-nessa"
     },
     {
@@ -599,23 +614,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "vikasprogrammer"
-    },
-    {
-      "title": "userland-run/nano - nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
-      "url": "https://github.com/userland-run/nano",
-      "published_at": "2026-02-18T14:34:15Z",
-      "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
-      "source": "GitHub",
-      "stars": 116,
-      "user": "userland-run"
     },
     {
       "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 681,
       "user": "CraftyGeezer"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 411,
       "user": "ochyai"
     },
     {
@@ -661,21 +661,6 @@
       "source": "GitHub",
       "stars": 179,
       "user": "quailyquaily"
-    },
-    {
-      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
-      "url": "https://github.com/jasperan/picooraclaw",
-      "published_at": "2026-02-18T04:44:35Z",
-      "description": "PicoClaw that works with Oracle AI Database",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
-      "source": "GitHub",
-      "stars": 144,
-      "user": "jasperan"
     },
     {
       "title": "almonk/bontree - A file explorer to pair with your favourite agent",
@@ -904,21 +889,6 @@
       "user": "Natnael Getenew"
     },
     {
-      "title": "Handy Bit Manipulation Tricks",
-      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
-      "published_at": "2026-02-13T06:54:48Z",
-      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component...",
-      "tags": [
-        "algorithms",
-        "programming",
-        "javascript",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F23ezcxw3fgp7pbupk687.png",
-      "source": "Dev.to",
-      "user": "Manuj Sankrit"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1065,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 309,
       "user": "vava-nessa"
     },
     {
@@ -1080,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "vikasprogrammer"
     },
     {
@@ -1099,19 +1069,19 @@
       "user": "direkturcrypto"
     },
     {
-      "title": "userland-run/nano - nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
-      "url": "https://github.com/userland-run/nano",
-      "published_at": "2026-02-18T14:34:15Z",
-      "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
+      "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
+      "url": "https://github.com/jesselau76/cigen",
+      "published_at": "2026-02-24T02:05:31Z",
+      "description": "Interactive root/affix vocabulary memory web app",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 116,
-      "user": "userland-run"
+      "stars": 119,
+      "user": "jesselau76"
     }
   ],
   "Python": [
@@ -1277,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1295,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1292,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 776,
       "user": "olvvier"
     },
     {
@@ -1307,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 681,
       "user": "CraftyGeezer"
     },
     {
@@ -1322,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 417,
       "user": "runesleo"
     },
     {
@@ -1337,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 411,
       "user": "ochyai"
     }
   ],
@@ -1579,21 +1549,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
-      "url": "https://github.com/jasperan/picooraclaw",
-      "published_at": "2026-02-18T04:44:35Z",
-      "description": "PicoClaw that works with Oracle AI Database",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
-      "source": "GitHub",
-      "stars": 144,
-      "user": "jasperan"
     }
   ],
   "Security": [
@@ -1701,21 +1656,6 @@
       "user": "Camila"
     },
     {
-      "title": "Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint",
-      "url": "https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7",
-      "published_at": "2026-02-23T17:08:17Z",
-      "description": "...",
-      "tags": [
-        "codequality",
-        "opensource",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3bp8k90c619g27epwbk.png",
-      "source": "Dev.to",
-      "user": "Ned C"
-    },
-    {
       "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
       "url": "https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884",
       "published_at": "2026-02-23T23:11:18Z",
@@ -1801,6 +1741,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
       "source": "Dev.to",
       "user": "Aoife Shannon"
+    },
+    {
+      "title": "Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint",
+      "url": "https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7",
+      "published_at": "2026-02-23T17:08:17Z",
+      "description": "...",
+      "tags": [
+        "codequality",
+        "opensource",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3bp8k90c619g27epwbk.png",
+      "source": "Dev.to",
+      "user": "Ned C"
     },
     {
       "title": "Accessibility Testing with Playwright Assertions",
@@ -1918,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 309,
       "user": "vava-nessa"
     },
     {
@@ -1933,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "vikasprogrammer"
     },
     {
@@ -1952,19 +1907,19 @@
       "user": "direkturcrypto"
     },
     {
-      "title": "userland-run/nano - nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
-      "url": "https://github.com/userland-run/nano",
-      "published_at": "2026-02-18T14:34:15Z",
-      "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution.",
+      "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
+      "url": "https://github.com/jesselau76/cigen",
+      "published_at": "2026-02-24T02:05:31Z",
+      "description": "Interactive root/affix vocabulary memory web app",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256929651?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 116,
-      "user": "userland-run"
+      "stars": 119,
+      "user": "jesselau76"
     },
     {
       "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
@@ -1978,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1295,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1993,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 776,
       "user": "olvvier"
     },
     {
@@ -2008,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 681,
       "user": "CraftyGeezer"
     },
     {
@@ -2023,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 417,
       "user": "runesleo"
     },
     {
@@ -2038,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 411,
       "user": "ochyai"
     },
     {
@@ -2057,36 +2012,6 @@
       "user": "quailyquaily"
     },
     {
-      "title": "Fox-Fig/phoenix - Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing.",
-      "url": "https://github.com/Fox-Fig/phoenix",
-      "published_at": "2026-02-18T01:17:32Z",
-      "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252965211?v=4",
-      "source": "GitHub",
-      "stars": 146,
-      "user": "Fox-Fig"
-    },
-    {
-      "title": "jasperan/picooraclaw - PicoClaw that works with Oracle AI Database",
-      "url": "https://github.com/jasperan/picooraclaw",
-      "published_at": "2026-02-18T04:44:35Z",
-      "description": "PicoClaw that works with Oracle AI Database",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20752424?v=4",
-      "source": "GitHub",
-      "stars": 144,
-      "user": "jasperan"
-    },
-    {
       "title": "wesm/agentsview - Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search",
       "url": "https://github.com/wesm/agentsview",
       "published_at": "2026-02-19T19:33:24Z",
@@ -2098,8 +2023,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 135,
       "user": "wesm"
+    },
+    {
+      "title": "NOBB2333/ClipCascade_go - ClipCascade go语言重制版",
+      "url": "https://github.com/NOBB2333/ClipCascade_go",
+      "published_at": "2026-02-23T15:12:05Z",
+      "description": "ClipCascade go语言重制版",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72846817?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "NOBB2333"
     },
     {
       "title": "almonk/bontree - A file explorer to pair with your favourite agent",
@@ -2115,6 +2055,21 @@
       "source": "GitHub",
       "stars": 82,
       "user": "almonk"
+    },
+    {
+      "title": "bjarneo/cliamp - Terminal Winamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "published_at": "2026-02-24T07:18:59Z",
+      "description": "Terminal Winamp",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "bjarneo"
     }
   ]
 }
