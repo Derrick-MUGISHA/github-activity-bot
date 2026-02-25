@@ -16,20 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Once Upon a Time, Writing Code Was Fun",
-      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
-      "published_at": "2026-02-24T20:11:41Z",
-      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
-      "tags": [
-        "ai",
-        "programming",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
-      "source": "Dev.to",
-      "user": "Abdelrahman Ismail"
-    },
-    {
       "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
       "published_at": "2026-02-24T03:56:47Z",
@@ -114,6 +100,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png",
       "source": "Dev.to",
       "user": "CodeNameGrant"
+    },
+    {
+      "title": "Once Upon a Time, Writing Code Was Fun",
+      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
+      "published_at": "2026-02-24T20:11:41Z",
+      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
+      "tags": [
+        "ai",
+        "programming",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
+      "source": "Dev.to",
+      "user": "Abdelrahman Ismail"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "vava-nessa"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 917,
       "user": "Panniantong"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "quailyquaily"
     }
   ],
@@ -959,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "vava-nessa"
     },
     {
@@ -1213,7 +1213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1318,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1228,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1065,
       "user": "anthropics"
     },
     {
@@ -1243,8 +1243,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 917,
       "user": "Panniantong"
+    },
+    {
+      "title": "peteromallet/dataclaw - GitHub Repository",
+      "url": "https://github.com/peteromallet/dataclaw",
+      "published_at": "2026-02-24T20:33:55Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
+      "source": "GitHub",
+      "stars": 806,
+      "user": "peteromallet"
     },
     {
       "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
@@ -1260,21 +1275,6 @@
       "source": "GitHub",
       "stars": 801,
       "user": "olvvier"
-    },
-    {
-      "title": "peteromallet/dataclaw - GitHub Repository",
-      "url": "https://github.com/peteromallet/dataclaw",
-      "published_at": "2026-02-24T20:33:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
-      "source": "GitHub",
-      "stars": 797,
-      "user": "peteromallet"
     }
   ],
   "DevOps": [
@@ -1457,6 +1457,21 @@
   ],
   "Mobile": [
     {
+      "title": "I Clicked ‘Azure Portal’ and Realized How Small My World Was",
+      "url": "https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78",
+      "published_at": "2026-02-23T18:03:43Z",
+      "description": "When I opened the Azure Portal for the first time, my first instinct wasn’t curiosity. It was...",
+      "tags": [
+        "azure",
+        "cloud",
+        "software",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cd36khfx6497jddb83g.gif",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
+    },
+    {
       "title": "I built a framework that lets you write native apps with YAML and Lua",
       "url": "https://dev.to/josejuanqm/i-built-a-framework-that-lets-you-write-native-apps-with-yaml-and-lua-38lf",
       "published_at": "2026-02-23T23:56:02Z",
@@ -1488,6 +1503,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "I Clicked ‘Azure Portal’ and Realized How Small My World Was",
+      "url": "https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78",
+      "published_at": "2026-02-23T18:03:43Z",
+      "description": "When I opened the Azure Portal for the first time, my first instinct wasn’t curiosity. It was...",
+      "tags": [
+        "azure",
+        "cloud",
+        "software",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cd36khfx6497jddb83g.gif",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
+    },
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
@@ -1886,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "vava-nessa"
     },
     {
@@ -1946,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1318,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1961,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1065,
       "user": "anthropics"
     },
     {
@@ -1976,8 +2006,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 917,
       "user": "Panniantong"
+    },
+    {
+      "title": "peteromallet/dataclaw - GitHub Repository",
+      "url": "https://github.com/peteromallet/dataclaw",
+      "published_at": "2026-02-24T20:33:55Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
+      "source": "GitHub",
+      "stars": 806,
+      "user": "peteromallet"
     },
     {
       "title": "olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
@@ -1995,21 +2040,6 @@
       "user": "olvvier"
     },
     {
-      "title": "peteromallet/dataclaw - GitHub Repository",
-      "url": "https://github.com/peteromallet/dataclaw",
-      "published_at": "2026-02-24T20:33:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
-      "source": "GitHub",
-      "stars": 797,
-      "user": "peteromallet"
-    },
-    {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
       "url": "https://github.com/quailyquaily/aqua",
       "published_at": "2026-02-21T19:04:48Z",
@@ -2021,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "quailyquaily"
     },
     {
@@ -2051,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 140,
       "user": "odvcencio"
     },
     {
@@ -2066,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 108,
       "user": "bjarneo"
     },
     {
