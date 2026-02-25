@@ -30,21 +30,6 @@
       "user": "Julien Avezou"
     },
     {
-      "title": "Software 3.1? - AI Functions",
-      "url": "https://dev.to/aws/software-31-ai-functions-5acn",
-      "published_at": "2026-02-24T06:19:23Z",
-      "description": "Andrej Karpathy has a version numbering scheme for how software gets written. Software 1.0 is code...",
-      "tags": [
-        "ai",
-        "llm",
-        "programming",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F24up6tniqihuhyhshqap.png",
-      "source": "Dev.to",
-      "user": "Mike Chambers"
-    },
-    {
       "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
       "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
       "published_at": "2026-02-24T19:29:47Z",
@@ -201,6 +186,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhrzrl0hbkqlkf65e0t1f.png",
       "source": "Dev.to",
       "user": "smakosh"
+    },
+    {
+      "title": "Software 3.1? - AI Functions",
+      "url": "https://dev.to/aws/software-31-ai-functions-5acn",
+      "published_at": "2026-02-24T06:19:23Z",
+      "description": "Watch: AI Functions Deep Dive:                                  Andrej Karpathy has a...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F24up6tniqihuhyhshqap.png",
+      "source": "Dev.to",
+      "user": "Mike Chambers"
     },
     {
       "title": "Building a Gmail/Outlook email preview component for Vue",
@@ -552,18 +552,6 @@
       "user": "ivank"
     },
     {
-      "title": "Paper Airplane Designs",
-      "url": "https://www.foldnfly.com/",
-      "published_at": "2018-10-18T16:34:52Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "wilsonfiifi"
-    },
-    {
       "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
       "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
       "published_at": "2026-02-24T12:16:45Z",
@@ -574,6 +562,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "Qem"
+    },
+    {
+      "title": "Paper Airplane Designs",
+      "url": "https://www.foldnfly.com/",
+      "published_at": "2018-10-18T16:34:52Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "wilsonfiifi"
     },
     {
       "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 327,
       "user": "vava-nessa"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "vikasprogrammer"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 678,
       "user": "CraftyGeezer"
     },
     {
@@ -661,6 +661,21 @@
       "source": "GitHub",
       "stars": 83,
       "user": "almonk"
+    },
+    {
+      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "url": "https://github.com/taigrr/spank",
+      "published_at": "2026-02-23T00:43:05Z",
+      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
+      "source": "GitHub",
+      "stars": 75,
+      "user": "taigrr"
     }
   ],
   "JavaScript": [
@@ -1020,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 327,
       "user": "vava-nessa"
     },
     {
@@ -1035,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "vikasprogrammer"
     },
     {
@@ -1065,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 150,
       "user": "jesselau76"
     }
   ],
@@ -1232,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1305,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1247,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 794,
       "user": "olvvier"
     },
     {
@@ -1262,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 771,
       "user": "anthropics"
     },
     {
@@ -1277,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 678,
       "user": "CraftyGeezer"
     },
     {
@@ -1292,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 574,
       "user": "Panniantong"
     }
   ],
@@ -1846,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 327,
       "user": "vava-nessa"
     },
     {
@@ -1861,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "vikasprogrammer"
     },
     {
@@ -1891,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 150,
       "user": "jesselau76"
     },
     {
@@ -1906,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1305,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1921,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 794,
       "user": "olvvier"
     },
     {
@@ -1936,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 771,
       "user": "anthropics"
     },
     {
@@ -1951,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 678,
       "user": "CraftyGeezer"
     },
     {
@@ -1966,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 574,
       "user": "Panniantong"
     },
     {
@@ -2011,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72846817?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "NOBB2333"
     },
     {
@@ -2030,19 +2045,19 @@
       "user": "almonk"
     },
     {
-      "title": "bjarneo/cliamp - Terminal Winamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "published_at": "2026-02-24T07:18:59Z",
-      "description": "Terminal Winamp",
+      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "url": "https://github.com/taigrr/spank",
+      "published_at": "2026-02-23T00:43:05Z",
+      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 74,
-      "user": "bjarneo"
+      "stars": 75,
+      "user": "taigrr"
     }
   ]
 }
