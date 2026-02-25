@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-25 11:00 CAT)
+## 📅 Latest Updates (2026-02-25 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Getting Started with LLM Gateway in 5 Minutes](https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p) _[Dev.to]_
 - [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1) _[Dev.to]_
 
-_Last automated update: Wed, 25 Feb 2026 11:28:47 CAT_
+_Last automated update: Wed, 25 Feb 2026 12:29:41 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 25 Feb 2026 11:28:47 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Heap, stack, garbage collection
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Heap, stack, garbage collection
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Feb 2026 09:28:47 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Feb 2026 10:29:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
