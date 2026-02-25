@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-25 6:00 CAT)
+## 📅 Latest Updates (2026-02-25 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f) _[Dev.to]_
 - [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 
-_Last automated update: Wed, 25 Feb 2026 06:28:34 CAT_
+_Last automated update: Wed, 25 Feb 2026 07:44:20 CAT_
 
 
 
@@ -233,25 +233,25 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Feb 2026 04:28:34 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Feb 2026 05:44:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
