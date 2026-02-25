@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "A Quick Recovery Guide for AI-Dependent Coders",
-      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
-      "published_at": "2026-02-23T05:00:00Z",
-      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
-    },
-    {
       "title": "Once Upon a Time, Writing Code Was Fun",
       "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
       "published_at": "2026-02-24T20:11:41Z",
@@ -28,21 +13,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
       "source": "Dev.to",
       "user": "Abdelrahman Ismail"
-    },
-    {
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
-      "published_at": "2026-02-24T03:56:47Z",
-      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
-      "tags": [
-        "ai",
-        "testing",
-        "discuss",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
-      "source": "Dev.to",
-      "user": "Matthew Hou"
     },
     {
       "title": "The Increasing Need for Human Connection in the Age of AI",
@@ -132,6 +102,21 @@
       "user": "Benji Fisher"
     },
     {
+      "title": "A Quick Recovery Guide for AI-Dependent Coders",
+      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
+      "published_at": "2026-02-23T05:00:00Z",
+      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
+    },
+    {
       "title": "Get React out of my terminal: a case for headless mode",
       "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
       "published_at": "2026-02-22T15:36:54Z",
@@ -145,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
       "source": "Dev.to",
       "user": "Anton"
+    },
+    {
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
+      "tags": [
+        "ai",
+        "testing",
+        "discuss",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
+      "source": "Dev.to",
+      "user": "Matthew Hou"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "vava-nessa"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 680,
       "user": "CraftyGeezer"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "quailyquaily"
     },
     {
@@ -1020,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "vava-nessa"
     },
     {
@@ -1065,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "jesselau76"
     }
   ],
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1301,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 785,
       "user": "olvvier"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 680,
       "user": "CraftyGeezer"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 665,
       "user": "anthropics"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 469,
       "user": "Panniantong"
     }
   ],
@@ -1611,21 +1611,6 @@
   ],
   "Tools": [
     {
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
-      "published_at": "2026-02-24T03:56:47Z",
-      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
-      "tags": [
-        "ai",
-        "testing",
-        "discuss",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
-      "source": "Dev.to",
-      "user": "Matthew Hou"
-    },
-    {
       "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
       "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
       "published_at": "2026-02-24T19:26:42Z",
@@ -1669,6 +1654,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
       "source": "Dev.to",
       "user": "Anton"
+    },
+    {
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
+      "tags": [
+        "ai",
+        "testing",
+        "discuss",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
+      "source": "Dev.to",
+      "user": "Matthew Hou"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -1858,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "vava-nessa"
     },
     {
@@ -1903,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "jesselau76"
     },
     {
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1301,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1933,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 785,
       "user": "olvvier"
     },
     {
@@ -1948,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 680,
       "user": "CraftyGeezer"
     },
     {
@@ -1963,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 665,
       "user": "anthropics"
     },
     {
@@ -1978,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 469,
       "user": "Panniantong"
     },
     {
@@ -1993,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "quailyquaily"
     },
     {

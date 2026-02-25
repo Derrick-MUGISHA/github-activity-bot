@@ -123,22 +123,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-25 7:00 CAT)
+## 📅 Latest Updates (2026-02-25 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png" width="200" alt="A Quick Recovery Guide for AI-Dependent Coders" />
-      <br/>
-      <b>A Quick Recovery Guide for AI-Dependent Coders</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png" width="200" alt="Once Upon a Time, Writing Code Was Fun" />
@@ -148,17 +139,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png" width="200" alt="Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower." />
-      <br/>
-      <b>Developers Think AI Makes Them 24% Faster. The Dat...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuz3d3j9k7zvirrlecnp.png" width="200" alt="The Increasing Need for Human Connection in the Age of AI" />
@@ -177,11 +157,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png" width="200" alt="Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand." />
       <br/>
       <b>Think of AI-assisted coding as calculators in math...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/aws/software-31-ai-functions-5acn">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F24up6tniqihuhyhshqap.png" width="200" alt="Software 3.1? - AI Functions" />
+      <br/>
+      <b>Software 3.1? - AI Functions</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg66kkbt5nsy50za29jmt.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+      <br/>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -193,9 +193,7 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112) _[Dev.to]_
 - [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62) _[Dev.to]_
-- [Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.](https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84) _[Dev.to]_
 - [The Increasing Need for Human Connection in the Age of AI](https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd) _[Dev.to]_
 - [Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab](https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3) _[Dev.to]_
 - [Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.](https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh) _[Dev.to]_
@@ -204,8 +202,10 @@ npm run test
 - [I Said Yes to Everything for a Year. Here's What It Cost Me.](https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib) _[Dev.to]_
 - [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g) _[Dev.to]_
 - [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884) _[Dev.to]_
+- [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112) _[Dev.to]_
 - [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
 - [Get React out of my terminal: a case for headless mode](https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie) _[Dev.to]_
+- [Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.](https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84) _[Dev.to]_
 - [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
 - [First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!](https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3) _[Dev.to]_
 - [Sorting algorithms visualized](https://dev.to/peter/sorting-algorithms-visualized-5oh) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f) _[Dev.to]_
 - [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 
-_Last automated update: Wed, 25 Feb 2026 07:44:20 CAT_
+_Last automated update: Wed, 25 Feb 2026 08:44:17 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 25 Feb 2026 07:44:20 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Feb 2026 05:44:20 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Feb 2026 06:44:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
