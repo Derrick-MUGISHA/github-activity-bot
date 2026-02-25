@@ -173,21 +173,6 @@
       "user": "Ian Wilson"
     },
     {
-      "title": "Getting Started with LLM Gateway in 5 Minutes",
-      "url": "https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p",
-      "published_at": "2026-02-21T18:31:02Z",
-      "description": "This guide walks you through making your first LLM request through LLM Gateway. By the end, you'll...",
-      "tags": [
-        "llm",
-        "api",
-        "tutorial",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhrzrl0hbkqlkf65e0t1f.png",
-      "source": "Dev.to",
-      "user": "smakosh"
-    },
-    {
       "title": "Software 3.1? - AI Functions",
       "url": "https://dev.to/aws/software-31-ai-functions-5acn",
       "published_at": "2026-02-24T06:19:23Z",
@@ -599,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 331,
       "user": "vava-nessa"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "taigrr"
     }
   ],
@@ -889,6 +874,21 @@
       "user": "Natnael Getenew"
     },
     {
+      "title": "Handy Bit Manipulation Tricks",
+      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
+      "published_at": "2026-02-13T06:54:48Z",
+      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component...",
+      "tags": [
+        "algorithms",
+        "programming",
+        "javascript",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F23ezcxw3fgp7pbupk687.png",
+      "source": "Dev.to",
+      "user": "Manuj Sankrit"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1020,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 352,
       "user": "yeuxuan"
     },
     {
@@ -1035,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 331,
       "user": "vava-nessa"
     },
     {
@@ -1054,21 +1054,6 @@
       "user": "vikasprogrammer"
     },
     {
-      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
-      "url": "https://github.com/direkturcrypto/polymarket-terminal",
-      "published_at": "2026-02-23T10:23:41Z",
-      "description": "Copy, Scalping & Sniper for polymarket",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
-      "source": "GitHub",
-      "stars": 156,
-      "user": "direkturcrypto"
-    },
-    {
       "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
       "url": "https://github.com/jesselau76/cigen",
       "published_at": "2026-02-24T02:05:31Z",
@@ -1080,8 +1065,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 158,
       "user": "jesselau76"
+    },
+    {
+      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
+      "url": "https://github.com/direkturcrypto/polymarket-terminal",
+      "published_at": "2026-02-23T10:23:41Z",
+      "description": "Copy, Scalping & Sniper for polymarket",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "direkturcrypto"
     }
   ],
   "Python": [
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1308,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 835,
       "user": "anthropics"
     },
     {
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 642,
       "user": "Panniantong"
     }
   ],
@@ -1846,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77331948?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 352,
       "user": "yeuxuan"
     },
     {
@@ -1861,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 331,
       "user": "vava-nessa"
     },
     {
@@ -1880,21 +1880,6 @@
       "user": "vikasprogrammer"
     },
     {
-      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
-      "url": "https://github.com/direkturcrypto/polymarket-terminal",
-      "published_at": "2026-02-23T10:23:41Z",
-      "description": "Copy, Scalping & Sniper for polymarket",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
-      "source": "GitHub",
-      "stars": 156,
-      "user": "direkturcrypto"
-    },
-    {
       "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
       "url": "https://github.com/jesselau76/cigen",
       "published_at": "2026-02-24T02:05:31Z",
@@ -1906,8 +1891,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 158,
       "user": "jesselau76"
+    },
+    {
+      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
+      "url": "https://github.com/direkturcrypto/polymarket-terminal",
+      "published_at": "2026-02-23T10:23:41Z",
+      "description": "Copy, Scalping & Sniper for polymarket",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "direkturcrypto"
     },
     {
       "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
@@ -1921,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1308,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1936,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 835,
       "user": "anthropics"
     },
     {
@@ -1981,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 642,
       "user": "Panniantong"
     },
     {
@@ -2026,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72846817?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "NOBB2333"
     },
     {
@@ -2056,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "taigrr"
     }
   ]
