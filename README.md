@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-25-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 34 (32.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
@@ -40,11 +40,11 @@
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
+**Mobile**: 🟦 3 (2.9%)
+
 **Cloud**: 🟦 3 (2.9%)
 
 **Security**: 🟦 3 (2.9%)
-
-**Mobile**: 🟦 2 (1.9%)
 
 **Database**:  1 (1.0%)
 
@@ -60,13 +60,14 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.8 (31.8%)
-Python          █████████████████████ 22.7 (22.7%)
-Java            ███████████████████ 20.5 (20.5%)
-Go              █████████████████ 18.2 (18.2%)
-Swift           ██ 2.3 (2.3%)
-Rust            ██ 2.3 (2.3%)
-CSharp          ██ 2.3 (2.3%)
+JavaScript      ██████████████████████████████ 30.8 (30.8%)
+Python          █████████████████████ 22.0 (22.0%)
+Java            ████████████████████ 20.9 (20.9%)
+Go              █████████████████ 17.6 (17.6%)
+Swift           ███ 3.3 (3.3%)
+Rust            ██ 2.2 (2.2%)
+CSharp          ██ 2.2 (2.2%)
+Kotlin          █ 1.1 (1.1%)
 
 ```
 
@@ -74,18 +75,19 @@ CSharp          ██ 2.3 (2.3%)
 pie title Programming Languages Distribution
     "JavaScript" : 28
     "Python" : 20
-    "Java" : 18
+    "Java" : 19
     "Go" : 16
-    "Swift" : 2
+    "Swift" : 3
     "Rust" : 2
     "CSharp" : 2
+    "Kotlin" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![devops](https://img.shields.io/badge/devops-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![devops](https://img.shields.io/badge/devops-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -204,19 +206,19 @@ npm run test
 - [Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab](https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3) _[Dev.to]_
 - [Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.](https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84) _[Dev.to]_
 - [Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.](https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh) _[Dev.to]_
-- [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 - [I Clicked ‘Azure Portal’ and Realized How Small My World Was](https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78) _[Dev.to]_
+- [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112) _[Dev.to]_
 - [I Said Yes to Everything for a Year. Here's What It Cost Me.](https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib) _[Dev.to]_
 - [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g) _[Dev.to]_
-- [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112) _[Dev.to]_
-- [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
-- [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 - [I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development](https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7) _[Dev.to]_
+- [A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd) _[Dev.to]_
+- [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
+- [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 - [Get React out of my terminal: a case for headless mode](https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc) _[Dev.to]_
 
-_Last automated update: Wed, 25 Feb 2026 21:01:27 CAT_
+_Last automated update: Wed, 25 Feb 2026 21:54:45 CAT_
 
 
 
@@ -224,36 +226,36 @@ _Last automated update: Wed, 25 Feb 2026 21:01:27 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -287,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Feb 2026 19:01:27 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Feb 2026 19:54:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
