@@ -117,21 +117,6 @@
       "user": "Cesar Aguirre"
     },
     {
-      "title": "Get React out of my terminal: a case for headless mode",
-      "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
-      "published_at": "2026-02-22T15:36:54Z",
-      "description": "Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cli",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
-      "source": "Dev.to",
-      "user": "Anton"
-    },
-    {
       "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
       "published_at": "2026-02-24T03:56:47Z",
@@ -145,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
       "source": "Dev.to",
       "user": "Matthew Hou"
+    },
+    {
+      "title": "Get React out of my terminal: a case for headless mode",
+      "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
+      "published_at": "2026-02-22T15:36:54Z",
+      "description": "Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...",
+      "tags": [
+        "agents",
+        "ai",
+        "cli",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
+      "source": "Dev.to",
+      "user": "Anton"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "vava-nessa"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 679,
       "user": "CraftyGeezer"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "quailyquaily"
     },
     {
@@ -1020,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "vava-nessa"
     },
     {
@@ -1065,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "jesselau76"
     }
   ],
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1301,
+      "stars": 1303,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1247,23 +1247,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 787,
       "user": "olvvier"
-    },
-    {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
-      "source": "GitHub",
-      "stars": 680,
-      "user": "CraftyGeezer"
     },
     {
       "title": "anthropics/financial-services-plugins - GitHub Repository",
@@ -1277,8 +1262,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 707,
       "user": "anthropics"
+    },
+    {
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "published_at": "2026-02-21T12:51:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "source": "GitHub",
+      "stars": 679,
+      "user": "CraftyGeezer"
     },
     {
       "title": "Panniantong/Agent-Reach - GitHub Repository",
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 502,
       "user": "Panniantong"
     }
   ],
@@ -1641,21 +1641,6 @@
       "user": "Benji Fisher"
     },
     {
-      "title": "Get React out of my terminal: a case for headless mode",
-      "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
-      "published_at": "2026-02-22T15:36:54Z",
-      "description": "Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cli",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
-      "source": "Dev.to",
-      "user": "Anton"
-    },
-    {
       "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
       "published_at": "2026-02-24T03:56:47Z",
@@ -1669,6 +1654,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
       "source": "Dev.to",
       "user": "Matthew Hou"
+    },
+    {
+      "title": "Get React out of my terminal: a case for headless mode",
+      "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
+      "published_at": "2026-02-22T15:36:54Z",
+      "description": "Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...",
+      "tags": [
+        "agents",
+        "ai",
+        "cli",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
+      "source": "Dev.to",
+      "user": "Anton"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -1858,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "vava-nessa"
     },
     {
@@ -1903,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "jesselau76"
     },
     {
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1301,
+      "stars": 1303,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1933,23 +1933,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 787,
       "user": "olvvier"
-    },
-    {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
-      "source": "GitHub",
-      "stars": 680,
-      "user": "CraftyGeezer"
     },
     {
       "title": "anthropics/financial-services-plugins - GitHub Repository",
@@ -1963,8 +1948,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 707,
       "user": "anthropics"
+    },
+    {
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "published_at": "2026-02-21T12:51:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "source": "GitHub",
+      "stars": 679,
+      "user": "CraftyGeezer"
     },
     {
       "title": "Panniantong/Agent-Reach - GitHub Repository",
@@ -1978,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 502,
       "user": "Panniantong"
     },
     {
@@ -1993,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "quailyquaily"
     },
     {
@@ -2008,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 140,
       "user": "wesm"
     },
     {
@@ -2023,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72846817?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "NOBB2333"
     },
     {
@@ -2053,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 72,
       "user": "bjarneo"
     }
   ]
