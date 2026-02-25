@@ -633,6 +633,21 @@
       "user": "quailyquaily"
     },
     {
+      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "url": "https://github.com/taigrr/spank",
+      "published_at": "2026-02-23T00:43:05Z",
+      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
+      "source": "GitHub",
+      "stars": 84,
+      "user": "taigrr"
+    },
+    {
       "title": "almonk/bontree - A file explorer to pair with your favourite agent",
       "url": "https://github.com/almonk/bontree",
       "published_at": "2026-02-22T02:56:49Z",
@@ -646,21 +661,6 @@
       "source": "GitHub",
       "stars": 83,
       "user": "almonk"
-    },
-    {
-      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "url": "https://github.com/taigrr/spank",
-      "published_at": "2026-02-23T00:43:05Z",
-      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
-      "source": "GitHub",
-      "stars": 82,
-      "user": "taigrr"
     }
   ],
   "JavaScript": [
@@ -874,21 +874,6 @@
       "user": "Natnael Getenew"
     },
     {
-      "title": "Handy Bit Manipulation Tricks",
-      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
-      "published_at": "2026-02-13T06:54:48Z",
-      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component...",
-      "tags": [
-        "algorithms",
-        "programming",
-        "javascript",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F23ezcxw3fgp7pbupk687.png",
-      "source": "Dev.to",
-      "user": "Manuj Sankrit"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1065,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "jesselau76"
     },
     {
@@ -1085,6 +1070,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe",
+      "published_at": "2026-02-24T23:44:05Z",
+      "description": "HTCPCP/1.0, the 418 teapot, a full interactive dashboard, and why a 1998 April Fools RFC teaches better software design than most tech books.",
+      "tags": [
+        "fun",
+        "http",
+        "python",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg",
+      "source": "Dev.to",
+      "user": "Pascal CESCATO"
+    },
     {
       "title": "I built an API that detects chess tactical patterns from FEN and PGN",
       "url": "https://dev.to/stevejvv/i-built-an-api-that-detects-chess-tactical-patterns-from-fen-and-pgn-5ef0",
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1308,
+      "stars": 1309,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 844,
       "user": "anthropics"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 796,
       "user": "olvvier"
     },
     {
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 669,
       "user": "Panniantong"
     }
   ],
@@ -1891,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "jesselau76"
     },
     {
@@ -1921,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1308,
+      "stars": 1309,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1936,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 844,
       "user": "anthropics"
     },
     {
@@ -1951,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45577527?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 796,
       "user": "olvvier"
     },
     {
@@ -1981,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 669,
       "user": "Panniantong"
     },
     {
@@ -2011,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "wesm"
     },
     {
@@ -2030,6 +2030,21 @@
       "user": "NOBB2333"
     },
     {
+      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "url": "https://github.com/taigrr/spank",
+      "published_at": "2026-02-23T00:43:05Z",
+      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
+      "source": "GitHub",
+      "stars": 84,
+      "user": "taigrr"
+    },
+    {
       "title": "almonk/bontree - A file explorer to pair with your favourite agent",
       "url": "https://github.com/almonk/bontree",
       "published_at": "2026-02-22T02:56:49Z",
@@ -2043,21 +2058,6 @@
       "source": "GitHub",
       "stars": 83,
       "user": "almonk"
-    },
-    {
-      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "url": "https://github.com/taigrr/spank",
-      "published_at": "2026-02-23T00:43:05Z",
-      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
-      "source": "GitHub",
-      "stars": 82,
-      "user": "taigrr"
     }
   ]
 }
