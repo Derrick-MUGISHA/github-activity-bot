@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-25 21:00 CAT)
+## 📅 Latest Updates (2026-02-25 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -206,8 +206,8 @@ npm run test
 - [Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab](https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3) _[Dev.to]_
 - [Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.](https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84) _[Dev.to]_
 - [Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.](https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh) _[Dev.to]_
-- [I Clicked ‘Azure Portal’ and Realized How Small My World Was](https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78) _[Dev.to]_
 - [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112) _[Dev.to]_
+- [I Clicked ‘Azure Portal’ and Realized How Small My World Was](https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78) _[Dev.to]_
 - [I Said Yes to Everything for a Year. Here's What It Cost Me.](https://dev.to/chandravijayagr/i-said-yes-to-everything-for-a-year-heres-what-it-cost-me-35ib) _[Dev.to]_
 - [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g) _[Dev.to]_
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Get React out of my terminal: a case for headless mode](https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc) _[Dev.to]_
 
-_Last automated update: Wed, 25 Feb 2026 21:54:45 CAT_
+_Last automated update: Wed, 25 Feb 2026 22:32:12 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 25 Feb 2026 21:54:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Feb 2026 19:54:45 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Feb 2026 20:32:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
