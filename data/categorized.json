@@ -15,6 +15,21 @@
       "user": "Abdelrahman Ismail"
     },
     {
+      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
+      "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
+      "published_at": "2026-02-25T17:41:43Z",
+      "description": "Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2u26e2o6d4ng6x75mo17.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Stop Wasting Context",
       "url": "https://dev.to/prathamudeshmukh/stop-wasting-context-34b3",
       "published_at": "2026-02-25T12:16:58Z",
@@ -29,19 +44,19 @@
       "user": "Prathamesh Deshmukh"
     },
     {
-      "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
-      "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
-      "published_at": "2026-02-25T05:29:37Z",
-      "description": "This post walks through claude-sandbox, a small tool I built to bring predictable, low-friction...",
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
       "tags": [
         "ai",
-        "security",
-        "showdev",
-        "tooling"
+        "testing",
+        "discuss",
+        "codequality"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
       "source": "Dev.to",
-      "user": "Kohki Makimoto"
+      "user": "Matthew Hou"
     },
     {
       "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
@@ -57,6 +72,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
       "source": "Dev.to",
       "user": "Cesar Aguirre"
+    },
+    {
+      "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
+      "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
+      "published_at": "2026-02-25T05:29:37Z",
+      "description": "This post walks through claude-sandbox, a small tool I built to bring predictable, low-friction...",
+      "tags": [
+        "ai",
+        "security",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
+      "source": "Dev.to",
+      "user": "Kohki Makimoto"
     },
     {
       "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
@@ -99,21 +129,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
       "source": "Dev.to",
       "user": "Cesar Aguirre"
-    },
-    {
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
-      "published_at": "2026-02-24T03:56:47Z",
-      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
-      "tags": [
-        "ai",
-        "testing",
-        "discuss",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
-      "source": "Dev.to",
-      "user": "Matthew Hou"
     },
     {
       "title": "Get React out of my terminal: a case for headless mode",
@@ -244,21 +259,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
       "source": "Dev.to",
       "user": "Aoife Shannon"
-    },
-    {
-      "title": "Build Domain-driven HTTP services",
-      "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
-      "published_at": "2026-02-20T04:21:37Z",
-      "description": "You're building ASP .NET web APIs that need to communicate with external APIs.  The UserRegister API...",
-      "tags": [
-        "webdev",
-        "dotnet",
-        "restapi",
-        "csharp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui38f6me5urbe1q3t35l.jpg",
-      "source": "Dev.to",
-      "user": "Mirza Leka"
     },
     {
       "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
@@ -552,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "vava-nessa"
     },
     {
@@ -567,23 +567,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "vikasprogrammer"
-    },
-    {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
-      "source": "GitHub",
-      "stars": 680,
-      "user": "CraftyGeezer"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -988,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "vava-nessa"
     },
     {
@@ -1003,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "vikasprogrammer"
     },
     {
@@ -1018,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 191,
       "user": "mksglu"
     },
     {
@@ -1228,7 +1213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1310,
+      "stars": 1311,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1243,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 998,
       "user": "anthropics"
     },
     {
@@ -1258,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 871,
       "user": "Panniantong"
     },
     {
@@ -1277,19 +1262,19 @@
       "user": "olvvier"
     },
     {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
+      "title": "peteromallet/dataclaw - GitHub Repository",
+      "url": "https://github.com/peteromallet/dataclaw",
+      "published_at": "2026-02-24T20:33:55Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 680,
-      "user": "CraftyGeezer"
+      "stars": 695,
+      "user": "peteromallet"
     }
   ],
   "DevOps": [
@@ -1624,6 +1609,21 @@
       "user": "Art light"
     },
     {
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
+      "tags": [
+        "ai",
+        "testing",
+        "discuss",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
+      "source": "Dev.to",
+      "user": "Matthew Hou"
+    },
+    {
       "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
       "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
       "published_at": "2026-02-24T19:26:42Z",
@@ -1652,21 +1652,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
       "source": "Dev.to",
       "user": "Kohki Makimoto"
-    },
-    {
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
-      "published_at": "2026-02-24T03:56:47Z",
-      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
-      "tags": [
-        "ai",
-        "testing",
-        "discuss",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
-      "source": "Dev.to",
-      "user": "Matthew Hou"
     },
     {
       "title": "Get React out of my terminal: a case for headless mode",
@@ -1916,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "vava-nessa"
     },
     {
@@ -1931,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1262327?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "vikasprogrammer"
     },
     {
@@ -1946,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 191,
       "user": "mksglu"
     },
     {
@@ -1976,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1310,
+      "stars": 1311,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1991,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 998,
       "user": "anthropics"
     },
     {
@@ -2006,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 871,
       "user": "Panniantong"
     },
     {
@@ -2025,19 +2010,19 @@
       "user": "olvvier"
     },
     {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
+      "title": "peteromallet/dataclaw - GitHub Repository",
+      "url": "https://github.com/peteromallet/dataclaw",
+      "published_at": "2026-02-24T20:33:55Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 680,
-      "user": "CraftyGeezer"
+      "stars": 695,
+      "user": "peteromallet"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -2066,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329591?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "wesm"
     },
     {
