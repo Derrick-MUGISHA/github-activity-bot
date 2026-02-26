@@ -398,21 +398,6 @@
       "user": "Prosper Otemuyiwa"
     },
     {
-      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
-      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
-      "published_at": "2026-02-11T02:00:24Z",
-      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
-      "tags": [
-        "ai",
-        "opensourcesecurity",
-        "securitylabs",
-        "supplychainsecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
-      "source": "Dev.to",
-      "user": "SnykSec"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -556,7 +541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 375,
       "user": "vava-nessa"
     },
     {
@@ -586,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1496,
       "user": "Panniantong"
     },
     {
@@ -620,19 +605,19 @@
       "user": "quailyquaily"
     },
     {
-      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "url": "https://github.com/taigrr/spank",
-      "published_at": "2026-02-23T00:43:05Z",
-      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "title": "nextlevelbuilder/goclaw - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
+      "url": "https://github.com/nextlevelbuilder/goclaw",
+      "published_at": "2026-02-22T07:26:36Z",
+      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 111,
-      "user": "taigrr"
+      "stars": 113,
+      "user": "nextlevelbuilder"
     }
   ],
   "JavaScript": [
@@ -801,21 +786,6 @@
       "user": "Ale"
     },
     {
-      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
-      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
-      "published_at": "2026-02-12T06:27:14Z",
-      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
-      "tags": [
-        "supabase",
-        "react",
-        "tutorial",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
-      "source": "Dev.to",
-      "user": "Fongoh Martin T."
-    },
-    {
       "title": "How I Built a Live Stock Market AI Agent in ~40 Lines of TypeScript",
       "url": "https://dev.to/valyuai/how-i-built-a-live-stock-market-ai-agent-in-40-lines-of-typescript-3aa3",
       "published_at": "2026-02-24T11:48:37Z",
@@ -829,6 +799,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6f01nafbtz8hmwc1vij9.png",
       "source": "Dev.to",
       "user": "Prosper Otemuyiwa"
+    },
+    {
+      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
+      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
+      "published_at": "2026-02-12T06:27:14Z",
+      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
+      "tags": [
+        "supabase",
+        "react",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
+      "source": "Dev.to",
+      "user": "Fongoh Martin T."
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -962,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 375,
       "user": "vava-nessa"
     },
     {
@@ -992,7 +977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "jesselau76"
     },
     {
@@ -1216,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1496,
       "user": "Panniantong"
     },
     {
@@ -1231,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1369,
+      "stars": 1409,
       "user": "anthropics"
     },
     {
@@ -1246,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1329,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1261,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1115,
+      "stars": 1138,
       "user": "peteromallet"
     },
     {
@@ -1613,21 +1598,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
-      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
-      "published_at": "2026-02-11T02:00:24Z",
-      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
-      "tags": [
-        "ai",
-        "opensourcesecurity",
-        "securitylabs",
-        "supplychainsecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
-      "source": "Dev.to",
-      "user": "SnykSec"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1641,6 +1611,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "The Developer I'm Grateful I Never Became",
+      "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
+      "published_at": "2026-02-25T22:40:07Z",
+      "description": "Inspired by—but not aligned with—\"The $0 Developer Phase—And How Dev.to Pulled Me Out\" by Art...",
+      "tags": [
+        "career",
+        "webdev",
+        "beginners",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
+      "source": "Dev.to",
+      "user": "Narnaiezzsshaa Truong"
+    },
     {
       "title": "The $0 Developer Phase — And How Dev.to Pulled Me Out",
       "url": "https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g",
@@ -1889,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 375,
       "user": "vava-nessa"
     },
     {
@@ -1919,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "jesselau76"
     },
     {
@@ -1964,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1496,
       "user": "Panniantong"
     },
     {
@@ -1979,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1369,
+      "stars": 1409,
       "user": "anthropics"
     },
     {
@@ -1994,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1329,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2009,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1115,
+      "stars": 1138,
       "user": "peteromallet"
     },
     {
@@ -2039,8 +2024,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 270,
       "user": "odvcencio"
+    },
+    {
+      "title": "thellimist/clihub - GitHub Repository",
+      "url": "https://github.com/thellimist/clihub",
+      "published_at": "2026-02-23T13:43:14Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
+      "source": "GitHub",
+      "stars": 207,
+      "user": "thellimist"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -2058,21 +2058,6 @@
       "user": "quailyquaily"
     },
     {
-      "title": "thellimist/clihub - GitHub Repository",
-      "url": "https://github.com/thellimist/clihub",
-      "published_at": "2026-02-23T13:43:14Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
-      "source": "GitHub",
-      "stars": 194,
-      "user": "thellimist"
-    },
-    {
       "title": "bjarneo/cliamp - Terminal Winamp",
       "url": "https://github.com/bjarneo/cliamp",
       "published_at": "2026-02-24T07:18:59Z",
@@ -2084,23 +2069,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 139,
       "user": "bjarneo"
     },
     {
-      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "url": "https://github.com/taigrr/spank",
-      "published_at": "2026-02-23T00:43:05Z",
-      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "title": "nextlevelbuilder/goclaw - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
+      "url": "https://github.com/nextlevelbuilder/goclaw",
+      "published_at": "2026-02-22T07:26:36Z",
+      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 111,
-      "user": "taigrr"
+      "stars": 113,
+      "user": "nextlevelbuilder"
     }
   ]
 }
