@@ -74,21 +74,6 @@
       "user": "Gus"
     },
     {
-      "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
-      "url": "https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a",
-      "published_at": "2026-02-26T07:58:44Z",
-      "description": "Token cost in browser automation MCPs has become a real topic — articles like \"Playwright MCP Burns...",
-      "tags": [
-        "mcp",
-        "ai",
-        "webdev",
-        "playwright"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
-      "source": "Dev.to",
-      "user": "kuroko"
-    },
-    {
       "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
       "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
       "published_at": "2026-02-26T08:08:54Z",
@@ -134,6 +119,21 @@
       "user": "CodeNameGrant"
     },
     {
+      "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
+      "url": "https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a",
+      "published_at": "2026-02-26T07:58:44Z",
+      "description": "Token cost in browser automation MCPs has become a real topic — articles like \"Playwright MCP Burns...",
+      "tags": [
+        "mcp",
+        "ai",
+        "webdev",
+        "playwright"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
+      "source": "Dev.to",
+      "user": "kuroko"
+    },
+    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -160,20 +160,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
       "source": "Dev.to",
       "user": "Yaser Al-Najjar"
-    },
-    {
-      "title": "The Day Agents Achieved Real Authority, and What It Means for Trust",
-      "url": "https://dev.to/kimmaida/the-day-agents-achieved-real-authority-and-what-it-means-for-trust-2e4",
-      "published_at": "2026-02-25T19:37:13Z",
-      "description": "Five major announcements landed on a single Monday in February, and just like that, it became very...",
-      "tags": [
-        "ai",
-        "security",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
-      "source": "Dev.to",
-      "user": "Kim Maida"
     },
     {
       "title": "Meet Semantic Components — A Modern Angular UI Library",
@@ -307,6 +293,80 @@
       "user": "Ian Wilson"
     },
     {
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
+      "tags": [
+        "ai",
+        "testing",
+        "discuss",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
+      "source": "Dev.to",
+      "user": "Matthew Hou"
+    },
+    {
+      "title": "Build Domain-driven HTTP services",
+      "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
+      "published_at": "2026-02-20T04:21:37Z",
+      "description": "You're building ASP .NET web APIs that need to communicate with external APIs.  The UserRegister API...",
+      "tags": [
+        "webdev",
+        "dotnet",
+        "restapi",
+        "csharp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui38f6me5urbe1q3t35l.jpg",
+      "source": "Dev.to",
+      "user": "Mirza Leka"
+    },
+    {
+      "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
+      "url": "https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h",
+      "published_at": "2026-02-19T20:34:23Z",
+      "description": "The results are in! We are thrilled to announce the winners of the New Year, New You Portfolio...",
+      "tags": [
+        "devchallenge",
+        "googleaichallenge",
+        "gemini",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9kqocccu808m6zu7etd7.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Once Upon a Time, Writing Code Was Fun",
+      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
+      "published_at": "2026-02-24T20:11:41Z",
+      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
+      "tags": [
+        "ai",
+        "programming",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
+      "source": "Dev.to",
+      "user": "Abdelrahman Ismail"
+    },
+    {
+      "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
+      "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
+      "published_at": "2026-02-24T19:29:47Z",
+      "description": "A Quick Recovery Guide for AI-Dependent Coders       Cesar...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
+    },
+    {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
       "published_at": "2026-02-15T12:26:26Z",
@@ -351,6 +411,20 @@
       "user": "Juan G De Jesus Torres"
     },
     {
+      "title": "The Day Agents Achieved Real Authority, and What It Means for Trust",
+      "url": "https://dev.to/kimmaida/the-day-agents-achieved-real-authority-and-what-it-means-for-trust-2e4",
+      "published_at": "2026-02-25T19:37:13Z",
+      "description": "Five major announcements landed on a single Monday in February, and just like that, it became very...",
+      "tags": [
+        "ai",
+        "security",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
+      "source": "Dev.to",
+      "user": "Kim Maida"
+    },
+    {
       "title": "HJX: Rethinking the Web for the AI Era",
       "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
       "published_at": "2026-02-17T04:40:08Z",
@@ -381,6 +455,36 @@
       "user": "Ale"
     },
     {
+      "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
+      "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
+      "published_at": "2026-02-25T16:08:56Z",
+      "description": "Recently, I spent some time exploring OpenClaw — an open-source, agentic AI assistant that goes...",
+      "tags": [
+        "ai",
+        "openclaw",
+        "machinelearning",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkahtcoc3pu1euptxogxz.png",
+      "source": "Dev.to",
+      "user": "Praveen Gowthaman"
+    },
+    {
+      "title": "Stop Putting API Keys in Your Shell Config",
+      "url": "https://dev.to/kakkoyun/stop-putting-api-keys-in-your-shell-config-119o",
+      "published_at": "2026-02-12T00:00:00Z",
+      "description": "We all know better. Don’t hardcode secrets. Use a vault. Rotate your keys. We’ve been saying this for...",
+      "tags": [
+        "ai",
+        "api",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymxtizzta0i4aqqu49or.png",
+      "source": "Dev.to",
+      "user": "Kemal Akkoyun"
+    },
+    {
       "title": "The Increasing Need for Human Connection in the Age of AI",
       "url": "https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd",
       "published_at": "2026-02-24T12:02:47Z",
@@ -409,66 +513,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp5d6rb0k0a4h3x4ea4wq.png",
       "source": "Dev.to",
       "user": "Terence Tham"
-    },
-    {
-      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
-      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
-      "published_at": "2026-02-11T02:00:24Z",
-      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
-      "tags": [
-        "ai",
-        "opensourcesecurity",
-        "securitylabs",
-        "supplychainsecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
-      "source": "Dev.to",
-      "user": "SnykSec"
-    },
-    {
-      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
-      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
-      "published_at": "2026-02-14T23:30:20Z",
-      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
-      "tags": [
-        "ai",
-        "javascript",
-        "cicd",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
-      "source": "Dev.to",
-      "user": "Monarch Wadia"
-    },
-    {
-      "title": "Using Laravel Boost With DDEV",
-      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
-      "published_at": "2026-02-10T00:00:00Z",
-      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
-      "tags": [
-        "ai",
-        "docker",
-        "laravel",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
-      "source": "Dev.to",
-      "user": "Russell Jones"
-    },
-    {
-      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
-      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
-      "published_at": "2026-02-13T15:27:58Z",
-      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
-      "tags": [
-        "ai",
-        "security",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
-      "source": "Dev.to",
-      "user": "Natnael Getenew"
     },
     {
       "title": "Airfoil",
@@ -629,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1762,
       "user": "Panniantong"
     },
     {
@@ -857,81 +901,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
       "source": "Dev.to",
       "user": "Ale"
-    },
-    {
-      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
-      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
-      "published_at": "2026-02-12T06:27:14Z",
-      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
-      "tags": [
-        "supabase",
-        "react",
-        "tutorial",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
-      "source": "Dev.to",
-      "user": "Fongoh Martin T."
-    },
-    {
-      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
-      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
-      "published_at": "2026-02-14T23:30:20Z",
-      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
-      "tags": [
-        "ai",
-        "javascript",
-        "cicd",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
-      "source": "Dev.to",
-      "user": "Monarch Wadia"
-    },
-    {
-      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
-      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
-      "published_at": "2026-02-13T15:27:58Z",
-      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
-      "tags": [
-        "ai",
-        "security",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
-      "source": "Dev.to",
-      "user": "Natnael Getenew"
-    },
-    {
-      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
-      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
-      "published_at": "2026-02-19T03:23:34Z",
-      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
-      "tags": [
-        "showdev",
-        "devops",
-        "python",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
-      "source": "Dev.to",
-      "user": "Maame Afua A. P. Fordjour "
-    },
-    {
-      "title": "Handy Bit Manipulation Tricks",
-      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
-      "published_at": "2026-02-13T06:54:48Z",
-      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component...",
-      "tags": [
-        "algorithms",
-        "programming",
-        "javascript",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F23ezcxw3fgp7pbupk687.png",
-      "source": "Dev.to",
-      "user": "Manuj Sankrit"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1174,21 +1143,6 @@
       "user": "stevejvv"
     },
     {
-      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
-      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
-      "published_at": "2026-02-19T03:23:34Z",
-      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
-      "tags": [
-        "showdev",
-        "devops",
-        "python",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
-      "source": "Dev.to",
-      "user": "Maame Afua A. P. Fordjour "
-    },
-    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1320,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2332,
+      "stars": 2374,
       "user": "anthropics"
     },
     {
@@ -1335,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1762,
       "user": "Panniantong"
     },
     {
@@ -1350,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1341,
+      "stars": 1342,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1365,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1286,
+      "stars": 1290,
       "user": "peteromallet"
     },
     {
@@ -1380,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 506,
       "user": "runesleo"
     }
   ],
@@ -1431,6 +1385,21 @@
       "user": "iapilgrim"
     },
     {
+      "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
+      "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
+      "published_at": "2026-02-24T19:26:42Z",
+      "description": "During the early hours of the morning, I started receiving Gitaly alerts — memory spikes that weren't...",
+      "tags": [
+        "gitlab",
+        "linux",
+        "kernel",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
+      "source": "Dev.to",
+      "user": "Camila"
+    },
+    {
       "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
       "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
       "published_at": "2026-02-17T23:56:55Z",
@@ -1444,51 +1413,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
       "source": "Dev.to",
       "user": "suin"
-    },
-    {
-      "title": "IaC with Excel",
-      "url": "https://dev.to/raisingcode/iac-with-excel-16hh",
-      "published_at": "2026-02-24T03:04:19Z",
-      "description": "The Infrastructure as Code Dilemma: What If Excel WAS the IaC?   As organizations adopt...",
-      "tags": [
-        "terraform",
-        "infrastructureascode",
-        "bicep",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffqb1mwtaanh7lg5v0iuh.png",
-      "source": "Dev.to",
-      "user": "Jason Phillips"
-    },
-    {
-      "title": "Using Laravel Boost With DDEV",
-      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
-      "published_at": "2026-02-10T00:00:00Z",
-      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
-      "tags": [
-        "ai",
-        "docker",
-        "laravel",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
-      "source": "Dev.to",
-      "user": "Russell Jones"
-    },
-    {
-      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
-      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
-      "published_at": "2026-02-19T03:23:34Z",
-      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
-      "tags": [
-        "showdev",
-        "devops",
-        "python",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
-      "source": "Dev.to",
-      "user": "Maame Afua A. P. Fordjour "
     }
   ],
   "WebDev": [
@@ -1536,6 +1460,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch7vqjii90e7m04icowr.png",
       "source": "Dev.to",
       "user": "Anja Beisel"
+    },
+    {
+      "title": "Mastering Smooth UI Transitions: The End of the \"Height: Auto\" Hack",
+      "url": "https://dev.to/vanaf1979/mastering-smooth-ui-transitions-the-end-of-the-height-auto-hack-3hjc",
+      "published_at": "2026-02-25T14:36:26Z",
+      "description": "In this article, I break down how the new interpolate-size and transition-behavior properties finally solve the \"height: auto\" problem in CSS. We walk through how to ditch old hacks for native, smooth transitions that handle both dynamic math and discrete display states the right way.",
+      "tags": [
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wp157lfoetjes2zdaa6.png",
+      "source": "Dev.to",
+      "user": "Stephan Nijman"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -1610,21 +1546,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxiglhwogug06jvt15xrc.png",
       "source": "Dev.to",
       "user": "Jose Quintero"
-    },
-    {
-      "title": "Barcode Scanning on iOS: The Missing Web API and a WebAssembly Solution",
-      "url": "https://dev.to/ilhannegis/barcode-scanning-on-ios-the-missing-web-api-and-a-webassembly-solution-2in2",
-      "published_at": "2026-02-24T09:28:29Z",
-      "description": "WebAssembly based barcode scanner for iOS/Safari browsers that lack the Barcode Detection API. Uses ZBar compiled to WASM via Emscripten to achieve almost native scanning performance directly in the browser, no native app required.",
-      "tags": [
-        "zbar",
-        "barcode",
-        "ios",
-        "webassembly"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fto2qsb6t69u50ihl47am.png",
-      "source": "Dev.to",
-      "user": "İlhan Neğiş"
     }
   ],
   "Cloud": [
@@ -1672,39 +1593,9 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
       "source": "Dev.to",
       "user": "suin"
-    },
-    {
-      "title": "IaC with Excel",
-      "url": "https://dev.to/raisingcode/iac-with-excel-16hh",
-      "published_at": "2026-02-24T03:04:19Z",
-      "description": "The Infrastructure as Code Dilemma: What If Excel WAS the IaC?   As organizations adopt...",
-      "tags": [
-        "terraform",
-        "infrastructureascode",
-        "bicep",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffqb1mwtaanh7lg5v0iuh.png",
-      "source": "Dev.to",
-      "user": "Jason Phillips"
     }
   ],
   "Database": [
-    {
-      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
-      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
-      "published_at": "2026-02-12T06:27:14Z",
-      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
-      "tags": [
-        "supabase",
-        "react",
-        "tutorial",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
-      "source": "Dev.to",
-      "user": "Fongoh Martin T."
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1733,20 +1624,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
       "source": "Dev.to",
       "user": "Gus"
-    },
-    {
-      "title": "The Day Agents Achieved Real Authority, and What It Means for Trust",
-      "url": "https://dev.to/kimmaida/the-day-agents-achieved-real-authority-and-what-it-means-for-trust-2e4",
-      "published_at": "2026-02-25T19:37:13Z",
-      "description": "Five major announcements landed on a single Monday in February, and just like that, it became very...",
-      "tags": [
-        "ai",
-        "security",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
-      "source": "Dev.to",
-      "user": "Kim Maida"
     },
     {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
@@ -1779,34 +1656,33 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
-      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
-      "published_at": "2026-02-11T02:00:24Z",
-      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
-      "tags": [
-        "ai",
-        "opensourcesecurity",
-        "securitylabs",
-        "supplychainsecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
-      "source": "Dev.to",
-      "user": "SnykSec"
-    },
-    {
-      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
-      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
-      "published_at": "2026-02-13T15:27:58Z",
-      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
+      "title": "The Day Agents Achieved Real Authority, and What It Means for Trust",
+      "url": "https://dev.to/kimmaida/the-day-agents-achieved-real-authority-and-what-it-means-for-trust-2e4",
+      "published_at": "2026-02-25T19:37:13Z",
+      "description": "Five major announcements landed on a single Monday in February, and just like that, it became very...",
       "tags": [
         "ai",
         "security",
-        "typescript",
-        "webdev"
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
       "source": "Dev.to",
-      "user": "Natnael Getenew"
+      "user": "Kim Maida"
+    },
+    {
+      "title": "Stop Putting API Keys in Your Shell Config",
+      "url": "https://dev.to/kakkoyun/stop-putting-api-keys-in-your-shell-config-119o",
+      "published_at": "2026-02-12T00:00:00Z",
+      "description": "We all know better. Don’t hardcode secrets. Use a vault. Rotate your keys. We’ve been saying this for...",
+      "tags": [
+        "ai",
+        "api",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymxtizzta0i4aqqu49or.png",
+      "source": "Dev.to",
+      "user": "Kemal Akkoyun"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1969,6 +1845,51 @@
       "user": "Ian Wilson"
     },
     {
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
+      "tags": [
+        "ai",
+        "testing",
+        "discuss",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
+      "source": "Dev.to",
+      "user": "Matthew Hou"
+    },
+    {
+      "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
+      "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
+      "published_at": "2026-02-24T19:26:42Z",
+      "description": "During the early hours of the morning, I started receiving Gitaly alerts — memory spikes that weren't...",
+      "tags": [
+        "gitlab",
+        "linux",
+        "kernel",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
+      "source": "Dev.to",
+      "user": "Camila"
+    },
+    {
+      "title": "Accessibility Testing with Playwright Assertions",
+      "url": "https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i",
+      "published_at": "2026-02-19T02:03:09Z",
+      "description": "Playwright has become one of the most popular testing frameworks for web applications. During it's...",
+      "tags": [
+        "a11y",
+        "webdev",
+        "testing",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjubj6qdbqx5fnaumwrx.png",
+      "source": "Dev.to",
+      "user": "Mark Steadman"
+    },
+    {
       "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
       "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
       "published_at": "2026-02-18T17:46:05Z",
@@ -2114,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2332,
+      "stars": 2374,
       "user": "anthropics"
     },
     {
@@ -2129,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1762,
       "user": "Panniantong"
     },
     {
@@ -2144,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1341,
+      "stars": 1342,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2159,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1286,
+      "stars": 1290,
       "user": "peteromallet"
     },
     {
@@ -2174,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 506,
       "user": "runesleo"
     },
     {
@@ -2189,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 316,
       "user": "thellimist"
     },
     {
@@ -2204,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 295,
       "user": "odvcencio"
     },
     {
