@@ -31,20 +31,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
-      "published_at": "2026-02-26T22:42:29Z",
-      "description": "In August of last year, our Gemini Image model, Nano Banana, became a viral sensation, redefining...",
-      "tags": [
-        "nanobanana",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utfv29sqz058e0n9ahc.webp",
-      "source": "Dev.to",
-      "user": "Alisa Fortin"
-    },
-    {
       "title": "The Agent Skills Gold Rush Has a Malware Problem",
       "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
       "published_at": "2026-02-26T16:08:19Z",
@@ -57,6 +43,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
       "source": "Dev.to",
       "user": "Mei Park"
+    },
+    {
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
+      "published_at": "2026-02-26T22:42:29Z",
+      "description": "In August of last year, our Gemini Image model, Nano Banana, became a viral sensation, redefining...",
+      "tags": [
+        "nanobanana",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utfv29sqz058e0n9ahc.webp",
+      "source": "Dev.to",
+      "user": "Alisa Fortin"
     },
     {
       "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1767,
+      "stars": 1778,
       "user": "Panniantong"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 162,
       "user": "nextlevelbuilder"
     }
   ],
@@ -1288,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2442,
+      "stars": 2479,
       "user": "anthropics"
     },
     {
@@ -1303,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1767,
+      "stars": 1778,
       "user": "Panniantong"
     },
     {
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1343,
+      "stars": 1344,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1301,
+      "stars": 1303,
       "user": "peteromallet"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 520,
       "user": "apple"
     }
   ],
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2442,
+      "stars": 2479,
       "user": "anthropics"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1767,
+      "stars": 1778,
       "user": "Panniantong"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1343,
+      "stars": 1344,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1301,
+      "stars": 1303,
       "user": "peteromallet"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 520,
       "user": "apple"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 320,
       "user": "thellimist"
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 180,
       "user": "bjarneo"
     },
     {
@@ -2184,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 162,
       "user": "nextlevelbuilder"
     }
   ]
