@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-26 16:00 CAT)
+## 📅 Latest Updates (2026-02-26 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 - [Stop Rebuilding Modals: A Deep Dive into the <dialog> Element](https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko) _[Dev.to]_
 
-_Last automated update: Thu, 26 Feb 2026 16:11:29 CAT_
+_Last automated update: Thu, 26 Feb 2026 17:06:13 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Thu, 26 Feb 2026 16:11:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 26 Feb 2026 14:11:29 GMT</b><br/>
+  <b>Last automated update: Thu, 26 Feb 2026 15:06:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
