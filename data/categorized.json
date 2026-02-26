@@ -61,20 +61,6 @@
       "user": "Cesar Aguirre"
     },
     {
-      "title": "Stop Wasting Context",
-      "url": "https://dev.to/prathamudeshmukh/stop-wasting-context-34b3",
-      "published_at": "2026-02-25T12:16:58Z",
-      "description": "OpenAI says \"Context is a scarce resource.\"  Treat it like one.  A giant instruction file feels safe....",
-      "tags": [
-        "ai",
-        "llm",
-        "memory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frj53bn5v65z4bw3ymeb7.png",
-      "source": "Dev.to",
-      "user": "Prathamesh Deshmukh"
-    },
-    {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
       "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
       "published_at": "2026-02-23T11:31:51Z",
@@ -145,6 +131,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
       "source": "Dev.to",
       "user": "Kohki Makimoto"
+    },
+    {
+      "title": "Stop Wasting Context",
+      "url": "https://dev.to/prathamudeshmukh/stop-wasting-context-34b3",
+      "published_at": "2026-02-25T12:16:58Z",
+      "description": "OpenAI says \"Context is a scarce resource.\"  Treat it like one.  A giant instruction file feels safe....",
+      "tags": [
+        "ai",
+        "llm",
+        "memory"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frj53bn5v65z4bw3ymeb7.png",
+      "source": "Dev.to",
+      "user": "Prathamesh Deshmukh"
     },
     {
       "title": "Get React out of my terminal: a case for headless mode",
@@ -541,7 +541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 366,
       "user": "vava-nessa"
     },
     {
@@ -556,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "maile456"
     },
     {
@@ -571,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1151,
       "user": "Panniantong"
     },
     {
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 501,
       "user": "CraftyGeezer"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 198,
       "user": "quailyquaily"
     },
     {
@@ -962,7 +962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 366,
       "user": "vava-nessa"
     },
     {
@@ -992,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "jesselau76"
     },
     {
@@ -1022,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "maile456"
     }
   ],
@@ -1231,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1322,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1246,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1237,
+      "stars": 1261,
       "user": "anthropics"
     },
     {
@@ -1261,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1151,
       "user": "Panniantong"
     },
     {
@@ -1276,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 1018,
       "user": "peteromallet"
     },
     {
@@ -1291,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 501,
       "user": "CraftyGeezer"
     }
   ],
@@ -1934,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 366,
       "user": "vava-nessa"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "jesselau76"
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "maile456"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1322,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2024,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1237,
+      "stars": 1261,
       "user": "anthropics"
     },
     {
@@ -2039,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1151,
       "user": "Panniantong"
     },
     {
@@ -2054,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 1018,
       "user": "peteromallet"
     },
     {
@@ -2069,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 501,
       "user": "CraftyGeezer"
     },
     {
@@ -2084,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 236,
       "user": "odvcencio"
     },
     {
@@ -2099,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 198,
       "user": "quailyquaily"
     },
     {
@@ -2114,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 142,
       "user": "thellimist"
     },
     {
