@@ -16,21 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
-      "published_at": "2026-02-24T03:56:47Z",
-      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
-      "tags": [
-        "ai",
-        "testing",
-        "discuss",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
-      "source": "Dev.to",
-      "user": "Matthew Hou"
-    },
-    {
       "title": "A Quick Recovery Guide for AI-Dependent Coders",
       "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
       "published_at": "2026-02-23T05:00:00Z",
@@ -219,19 +204,19 @@
       "user": "Ian Wilson"
     },
     {
-      "title": "Software 3.1? - AI Functions",
-      "url": "https://dev.to/aws/software-31-ai-functions-5acn",
-      "published_at": "2026-02-24T06:19:23Z",
-      "description": "Watch: AI Functions Deep Dive:                                  Andrej Karpathy has a...",
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
       "tags": [
         "ai",
-        "llm",
-        "programming",
-        "softwaredevelopment"
+        "testing",
+        "discuss",
+        "codequality"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F24up6tniqihuhyhshqap.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
       "source": "Dev.to",
-      "user": "Mike Chambers"
+      "user": "Matthew Hou"
     },
     {
       "title": "Building a Gmail/Outlook email preview component for Vue",
@@ -309,20 +294,6 @@
       "user": "David Alcala"
     },
     {
-      "title": "Software engineering is not dead",
-      "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
-      "published_at": "2026-02-16T23:29:28Z",
-      "description": "Lately, my LinkedIn feed has become an echo chamber of AI evangelists worshiping at the altar of the...",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
-      "source": "Dev.to",
-      "user": "Juan G De Jesus Torres"
-    },
-    {
       "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
       "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
       "published_at": "2026-02-22T14:24:05Z",
@@ -336,6 +307,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Software engineering is not dead",
+      "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
+      "published_at": "2026-02-16T23:29:28Z",
+      "description": "Lately, my LinkedIn feed has become an echo chamber of AI evangelists worshiping at the altar of the...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
+      "source": "Dev.to",
+      "user": "Juan G De Jesus Torres"
     },
     {
       "title": "HJX: Rethinking the Web for the AI Era",
@@ -396,6 +381,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp5d6rb0k0a4h3x4ea4wq.png",
       "source": "Dev.to",
       "user": "Terence Tham"
+    },
+    {
+      "title": "How I Built a Live Stock Market AI Agent in ~40 Lines of TypeScript",
+      "url": "https://dev.to/valyuai/how-i-built-a-live-stock-market-ai-agent-in-40-lines-of-typescript-3aa3",
+      "published_at": "2026-02-24T11:48:37Z",
+      "description": "I got tired of jumping between Yahoo Finance, a broker dashboard, and a Google News tab every time I...",
+      "tags": [
+        "ai",
+        "agents",
+        "typescript",
+        "valyu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6f01nafbtz8hmwc1vij9.png",
+      "source": "Dev.to",
+      "user": "Prosper Otemuyiwa"
     },
     {
       "title": "Airfoil",
@@ -541,7 +541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 370,
       "user": "vava-nessa"
     },
     {
@@ -556,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "maile456"
     },
     {
@@ -571,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1151,
+      "stars": 1216,
       "user": "Panniantong"
     },
     {
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 498,
       "user": "CraftyGeezer"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 200,
       "user": "quailyquaily"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "taigrr"
     }
   ],
@@ -831,6 +831,21 @@
       "user": "Fongoh Martin T."
     },
     {
+      "title": "How I Built a Live Stock Market AI Agent in ~40 Lines of TypeScript",
+      "url": "https://dev.to/valyuai/how-i-built-a-live-stock-market-ai-agent-in-40-lines-of-typescript-3aa3",
+      "published_at": "2026-02-24T11:48:37Z",
+      "description": "I got tired of jumping between Yahoo Finance, a broker dashboard, and a Google News tab every time I...",
+      "tags": [
+        "ai",
+        "agents",
+        "typescript",
+        "valyu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6f01nafbtz8hmwc1vij9.png",
+      "source": "Dev.to",
+      "user": "Prosper Otemuyiwa"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -962,7 +977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 370,
       "user": "vava-nessa"
     },
     {
@@ -977,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "mksglu"
     },
     {
@@ -1022,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "maile456"
     }
   ],
@@ -1231,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1325,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1246,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1291,
       "user": "anthropics"
     },
     {
@@ -1261,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1151,
+      "stars": 1216,
       "user": "Panniantong"
     },
     {
@@ -1276,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1046,
       "user": "peteromallet"
     },
     {
@@ -1291,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 498,
       "user": "CraftyGeezer"
     }
   ],
@@ -1687,21 +1702,6 @@
       "user": "Art light"
     },
     {
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
-      "published_at": "2026-02-24T03:56:47Z",
-      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
-      "tags": [
-        "ai",
-        "testing",
-        "discuss",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
-      "source": "Dev.to",
-      "user": "Matthew Hou"
-    },
-    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -1802,6 +1802,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
       "source": "Dev.to",
       "user": "Camila"
+    },
+    {
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
+      "tags": [
+        "ai",
+        "testing",
+        "discuss",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
+      "source": "Dev.to",
+      "user": "Matthew Hou"
     },
     {
       "title": "Building a Gmail/Outlook email preview component for Vue",
@@ -1934,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 370,
       "user": "vava-nessa"
     },
     {
@@ -1949,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "mksglu"
     },
     {
@@ -1994,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "maile456"
     },
     {
@@ -2009,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1325,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2024,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1291,
       "user": "anthropics"
     },
     {
@@ -2039,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1151,
+      "stars": 1216,
       "user": "Panniantong"
     },
     {
@@ -2054,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1046,
       "user": "peteromallet"
     },
     {
@@ -2069,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 498,
       "user": "CraftyGeezer"
     },
     {
@@ -2084,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 249,
       "user": "odvcencio"
     },
     {
@@ -2099,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 200,
       "user": "quailyquaily"
     },
     {
@@ -2114,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 154,
       "user": "thellimist"
     },
     {
@@ -2129,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "bjarneo"
     },
     {
@@ -2144,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "taigrr"
     }
   ]
