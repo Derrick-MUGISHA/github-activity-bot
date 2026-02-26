@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-26 11:00 CAT)
+## 📅 Latest Updates (2026-02-26 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,19 +144,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe492yw7tyhbwg5o8x6bx.png" width="200" alt="The $0 Developer Phase — And How Dev.to Pulled Me Out" />
+    <a href="https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg" width="200" alt="Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented." />
       <br/>
-      <b>The $0 Developer Phase — And How Dev.to Pulled Me ...</b>
+      <b>Stop Ignoring RFC 2324. It's the Most Important Pr...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg" width="200" alt="Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented." />
+    <a href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe492yw7tyhbwg5o8x6bx.png" width="200" alt="The $0 Developer Phase — And How Dev.to Pulled Me Out" />
       <br/>
-      <b>Stop Ignoring RFC 2324. It's the Most Important Pr...</b>
+      <b>The $0 Developer Phase — And How Dev.to Pulled Me ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,8 +198,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [Join the "Built with Google Gemini: Writing Challenge" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!](https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk) _[Dev.to]_
-- [The $0 Developer Phase — And How Dev.to Pulled Me Out](https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g) _[Dev.to]_
 - [Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.](https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe) _[Dev.to]_
+- [The $0 Developer Phase — And How Dev.to Pulled Me Out](https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g) _[Dev.to]_
 - [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112) _[Dev.to]_
 - [Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.](https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh) _[Dev.to]_
 - [Mastering Smooth UI Transitions: The End of the "Height: Auto" Hack](https://dev.to/vanaf1979/mastering-smooth-ui-transitions-the-end-of-the-height-auto-hack-3hjc) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f) _[Dev.to]_
 - [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 
-_Last automated update: Thu, 26 Feb 2026 11:04:52 CAT_
+_Last automated update: Thu, 26 Feb 2026 12:06:03 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 26 Feb 2026 11:04:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 26 Feb 2026 09:04:52 GMT</b><br/>
+  <b>Last automated update: Thu, 26 Feb 2026 10:06:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
