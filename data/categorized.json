@@ -16,6 +16,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "The Token Economy",
+      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
+      "published_at": "2026-02-26T13:36:47Z",
+      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
+      "tags": [
+        "ai",
+        "webdev",
+        "career",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "The Agent Skills Gold Rush Has a Malware Problem",
       "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
       "published_at": "2026-02-26T16:08:19Z",
@@ -28,6 +43,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
       "source": "Dev.to",
       "user": "Mei Park"
+    },
+    {
+      "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
+      "url": "https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg",
+      "published_at": "2026-02-26T20:03:50Z",
+      "description": "Last week @stephr_wong, Kevin Hou, and Andy Zhang explored the Antigravity Editor and Agent...",
+      "tags": [
+        "gemini",
+        "agents",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flfdllhjk854joak0k2x1.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
@@ -88,20 +117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
       "source": "Dev.to",
       "user": "Cesar Aguirre"
-    },
-    {
-      "title": "Once Upon a Time, Writing Code Was Fun",
-      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
-      "published_at": "2026-02-24T20:11:41Z",
-      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
-      "tags": [
-        "ai",
-        "programming",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
-      "source": "Dev.to",
-      "user": "Abdelrahman Ismail"
     },
     {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
@@ -599,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "vava-nessa"
     },
     {
@@ -614,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1753,
+      "stars": 1754,
       "user": "Panniantong"
     },
     {
@@ -644,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "nextlevelbuilder"
     }
   ],
@@ -1050,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "vava-nessa"
     },
     {
@@ -1305,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2267,
       "user": "anthropics"
     },
     {
@@ -1320,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1753,
+      "stars": 1754,
       "user": "Panniantong"
     },
     {
@@ -1335,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1340,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1350,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1280,
+      "stars": 1282,
       "user": "peteromallet"
     },
     {
@@ -1365,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 503,
       "user": "runesleo"
     }
   ],
@@ -2024,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "vava-nessa"
     },
     {
@@ -2099,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2267,
       "user": "anthropics"
     },
     {
@@ -2114,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1753,
+      "stars": 1754,
       "user": "Panniantong"
     },
     {
@@ -2129,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1340,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2144,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1280,
+      "stars": 1282,
       "user": "peteromallet"
     },
     {
@@ -2159,7 +2174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 503,
       "user": "runesleo"
     },
     {
@@ -2174,7 +2189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "thellimist"
     },
     {
@@ -2189,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "odvcencio"
     },
     {
@@ -2219,7 +2234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "bjarneo"
     },
     {
@@ -2234,7 +2249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "nextlevelbuilder"
     }
   ]
