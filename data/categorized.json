@@ -16,6 +16,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "The Agent Skills Gold Rush Has a Malware Problem",
+      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
+      "published_at": "2026-02-26T16:08:19Z",
+      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
+      "tags": [
+        "devtools",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
+      "source": "Dev.to",
+      "user": "Mei Park"
+    },
+    {
       "title": "A Quick Recovery Guide for AI-Dependent Coders",
       "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
       "published_at": "2026-02-23T05:00:00Z",
@@ -368,21 +382,6 @@
       "user": "SnykSec"
     },
     {
-      "title": "I built a CSS framework where every class name is an emoji",
-      "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
-      "published_at": "2026-02-23T11:38:19Z",
-      "description": "BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.",
-      "tags": [
-        "css",
-        "jokes",
-        "tailwindcss",
-        "bem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Tom Hayes"
-    },
-    {
       "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
       "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
       "published_at": "2026-02-14T23:30:20Z",
@@ -571,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 383,
       "user": "vava-nessa"
     },
     {
@@ -586,23 +585,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1731,
       "user": "Panniantong"
-    },
-    {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
-      "source": "GitHub",
-      "stars": 493,
-      "user": "ochyai"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -631,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 149,
       "user": "nextlevelbuilder"
     }
   ],
@@ -831,6 +815,21 @@
       "user": "Natnael Getenew"
     },
     {
+      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
+      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
+      "published_at": "2026-02-19T03:23:34Z",
+      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
+      "tags": [
+        "showdev",
+        "devops",
+        "python",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
+      "source": "Dev.to",
+      "user": "Maame Afua A. P. Fordjour "
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -962,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 383,
       "user": "vava-nessa"
     },
     {
@@ -1007,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "direkturcrypto"
     },
     {
@@ -1022,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "joeseesun"
     }
   ],
@@ -1083,6 +1082,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs9smbug1ep1af3sg3y2a.png",
       "source": "Dev.to",
       "user": "Budi Widhiyanto"
+    },
+    {
+      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
+      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
+      "published_at": "2026-02-19T03:23:34Z",
+      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
+      "tags": [
+        "showdev",
+        "devops",
+        "python",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
+      "source": "Dev.to",
+      "user": "Maame Afua A. P. Fordjour "
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1216,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1943,
+      "stars": 2047,
       "user": "anthropics"
     },
     {
@@ -1231,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1731,
       "user": "Panniantong"
     },
     {
@@ -1246,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1334,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1261,23 +1275,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1250,
       "user": "peteromallet"
     },
     {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
+      "title": "runesleo/x-reader - Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "url": "https://github.com/runesleo/x-reader",
+      "published_at": "2026-02-22T08:47:26Z",
+      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 493,
-      "user": "ochyai"
+      "stars": 499,
+      "user": "runesleo"
     }
   ],
   "DevOps": [
@@ -1370,6 +1384,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
       "source": "Dev.to",
       "user": "Russell Jones"
+    },
+    {
+      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
+      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
+      "published_at": "2026-02-19T03:23:34Z",
+      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
+      "tags": [
+        "showdev",
+        "devops",
+        "python",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
+      "source": "Dev.to",
+      "user": "Maame Afua A. P. Fordjour "
     }
   ],
   "WebDev": [
@@ -1429,21 +1458,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
       "source": "Dev.to",
       "user": "Loaiabdalslam"
-    },
-    {
-      "title": "I built a CSS framework where every class name is an emoji",
-      "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
-      "published_at": "2026-02-23T11:38:19Z",
-      "description": "BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.",
-      "tags": [
-        "css",
-        "jokes",
-        "tailwindcss",
-        "bem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Tom Hayes"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1687,6 +1701,20 @@
       "user": "Narnaiezzsshaa Truong"
     },
     {
+      "title": "The Agent Skills Gold Rush Has a Malware Problem",
+      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
+      "published_at": "2026-02-26T16:08:19Z",
+      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
+      "tags": [
+        "devtools",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
+      "source": "Dev.to",
+      "user": "Mei Park"
+    },
+    {
       "title": "The $0 Developer Phase — And How Dev.to Pulled Me Out",
       "url": "https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g",
       "published_at": "2026-02-25T07:11:06Z",
@@ -1904,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 383,
       "user": "vava-nessa"
     },
     {
@@ -1949,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "direkturcrypto"
     },
     {
@@ -1964,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "joeseesun"
     },
     {
@@ -1979,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1943,
+      "stars": 2047,
       "user": "anthropics"
     },
     {
@@ -1994,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1731,
       "user": "Panniantong"
     },
     {
@@ -2009,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1334,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2024,23 +2052,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1250,
       "user": "peteromallet"
     },
     {
-      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "published_at": "2026-02-22T04:33:03Z",
-      "description": "Free AI coding environment: Ollama + Python",
+      "title": "runesleo/x-reader - Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "url": "https://github.com/runesleo/x-reader",
+      "published_at": "2026-02-22T08:47:26Z",
+      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 493,
-      "user": "ochyai"
+      "stars": 499,
+      "user": "runesleo"
     },
     {
       "title": "odvcencio/gotreesitter - Pure Go tree-sitter runtime",
@@ -2054,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 289,
       "user": "odvcencio"
     },
     {
@@ -2069,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 285,
       "user": "thellimist"
     },
     {
@@ -2099,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 159,
       "user": "bjarneo"
     },
     {
@@ -2114,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 149,
       "user": "nextlevelbuilder"
     }
   ]
