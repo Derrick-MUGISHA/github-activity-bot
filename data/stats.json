@@ -1,12 +1,12 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 50,
+    "AI": 51,
     "JavaScript": 28,
     "Python": 18,
     "DevOps": 5,
@@ -28,11 +28,11 @@
     "Kotlin": 1
   },
   "by_date": {
-    "2026-02-25": 14,
-    "2026-02-26": 7,
+    "2026-02-25": 15,
+    "2026-02-26": 8,
     "2026-02-24": 14,
     "2026-02-23": 9,
-    "2026-02-22": 5,
+    "2026-02-22": 4,
     "2026-02-20": 5,
     "2026-02-19": 5,
     "2026-02-18": 2,
@@ -71,7 +71,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 25,
+    "ai": 26,
     "webdev": 16,
     "github": 15,
     "open-source": 15,
@@ -88,9 +88,9 @@
     "discuss": 5,
     "agents": 5,
     "security": 5,
+    "gemini": 4,
     "beginners": 4,
-    "cli": 4,
-    "architecture": 4
+    "cli": 4
   },
   "trending_topics": [],
   "language_percentages": {
