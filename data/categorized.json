@@ -398,6 +398,21 @@
       "user": "Prosper Otemuyiwa"
     },
     {
+      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
+      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
+      "published_at": "2026-02-11T02:00:24Z",
+      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
+      "tags": [
+        "ai",
+        "opensourcesecurity",
+        "securitylabs",
+        "supplychainsecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
+      "source": "Dev.to",
+      "user": "SnykSec"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -541,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 371,
       "user": "vava-nessa"
     },
     {
@@ -571,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1371,
       "user": "Panniantong"
     },
     {
@@ -586,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 497,
       "user": "CraftyGeezer"
     },
     {
@@ -601,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "quailyquaily"
     },
     {
@@ -616,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "taigrr"
     }
   ],
@@ -786,21 +801,6 @@
       "user": "Ale"
     },
     {
-      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
-      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
-      "published_at": "2026-02-19T03:23:34Z",
-      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
-      "tags": [
-        "showdev",
-        "devops",
-        "python",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
-      "source": "Dev.to",
-      "user": "Maame Afua A. P. Fordjour "
-    },
-    {
       "title": "Building a Simple Blog with Supabase (Posts & Comments)",
       "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
       "published_at": "2026-02-12T06:27:14Z",
@@ -962,7 +962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 371,
       "user": "vava-nessa"
     },
     {
@@ -977,7 +977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "mksglu"
     },
     {
@@ -1069,21 +1069,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft4ja9mpsntwunxayu2gx.png",
       "source": "Dev.to",
       "user": "stevejvv"
-    },
-    {
-      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
-      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
-      "published_at": "2026-02-19T03:23:34Z",
-      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
-      "tags": [
-        "showdev",
-        "devops",
-        "python",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
-      "source": "Dev.to",
-      "user": "Maame Afua A. P. Fordjour "
     },
     {
       "title": "How a \"Simple\" QR Code Generator Ate All My RAM: A Tale of 50,000 QR Codes",
@@ -1220,19 +1205,19 @@
       "user": "gilad"
     },
     {
-      "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
-      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
-      "published_at": "2026-02-20T01:04:23Z",
-      "description": "Trending GitHub Repository",
+      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "published_at": "2026-02-24T02:10:24Z",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1325,
-      "user": "ShinMegamiBoson"
+      "stars": 1371,
+      "user": "Panniantong"
     },
     {
       "title": "anthropics/financial-services-plugins - GitHub Repository",
@@ -1246,23 +1231,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1343,
       "user": "anthropics"
     },
     {
-      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "published_at": "2026-02-24T02:10:24Z",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+      "published_at": "2026-02-20T01:04:23Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1296,
-      "user": "Panniantong"
+      "stars": 1326,
+      "user": "ShinMegamiBoson"
     },
     {
       "title": "peteromallet/dataclaw - GitHub Repository",
@@ -1276,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1070,
+      "stars": 1094,
       "user": "peteromallet"
     },
     {
@@ -1291,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 497,
       "user": "CraftyGeezer"
     }
   ],
@@ -1370,21 +1355,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwo904hylivr29mqjiaga.png",
       "source": "Dev.to",
       "user": "Evangelos Pappas"
-    },
-    {
-      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
-      "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
-      "published_at": "2026-02-19T03:23:34Z",
-      "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
-      "tags": [
-        "showdev",
-        "devops",
-        "python",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0ot4q5711pxfrcoqdjr.png",
-      "source": "Dev.to",
-      "user": "Maame Afua A. P. Fordjour "
     },
     {
       "title": "IaC with Excel",
@@ -1641,6 +1611,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
+      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
+      "published_at": "2026-02-11T02:00:24Z",
+      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
+      "tags": [
+        "ai",
+        "opensourcesecurity",
+        "securitylabs",
+        "supplychainsecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
+      "source": "Dev.to",
+      "user": "SnykSec"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1904,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 371,
       "user": "vava-nessa"
     },
     {
@@ -1919,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "mksglu"
     },
     {
@@ -1968,19 +1953,19 @@
       "user": "maile456"
     },
     {
-      "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
-      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
-      "published_at": "2026-02-20T01:04:23Z",
-      "description": "Trending GitHub Repository",
+      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "published_at": "2026-02-24T02:10:24Z",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1325,
-      "user": "ShinMegamiBoson"
+      "stars": 1371,
+      "user": "Panniantong"
     },
     {
       "title": "anthropics/financial-services-plugins - GitHub Repository",
@@ -1994,23 +1979,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1343,
       "user": "anthropics"
     },
     {
-      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "published_at": "2026-02-24T02:10:24Z",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+      "published_at": "2026-02-20T01:04:23Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1296,
-      "user": "Panniantong"
+      "stars": 1326,
+      "user": "ShinMegamiBoson"
     },
     {
       "title": "peteromallet/dataclaw - GitHub Repository",
@@ -2024,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1070,
+      "stars": 1094,
       "user": "peteromallet"
     },
     {
@@ -2039,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 497,
       "user": "CraftyGeezer"
     },
     {
@@ -2054,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 259,
       "user": "odvcencio"
     },
     {
@@ -2069,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "quailyquaily"
     },
     {
@@ -2084,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 178,
       "user": "thellimist"
     },
     {
@@ -2099,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "bjarneo"
     },
     {
@@ -2114,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "taigrr"
     }
   ]
