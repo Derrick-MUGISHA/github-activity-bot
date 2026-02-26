@@ -31,21 +31,6 @@
       "user": "Cesar Aguirre"
     },
     {
-      "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
-      "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
-      "published_at": "2026-02-24T19:29:47Z",
-      "description": "A Quick Recovery Guide for AI-Dependent Coders       Cesar...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
-    },
-    {
       "title": "Once Upon a Time, Writing Code Was Fun",
       "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
       "published_at": "2026-02-24T20:11:41Z",
@@ -204,21 +189,6 @@
       "user": "Matthew Hou"
     },
     {
-      "title": "Building a Gmail/Outlook email preview component for Vue",
-      "url": "https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk",
-      "published_at": "2026-02-20T07:56:21Z",
-      "description": "If you have ever built transactional emails in a Vue app, you have probably hit the same wall. You...",
-      "tags": [
-        "showdev",
-        "tooling",
-        "vue",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
-      "source": "Dev.to",
-      "user": "Aoife Shannon"
-    },
-    {
       "title": "Build Domain-driven HTTP services",
       "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
       "published_at": "2026-02-20T04:21:37Z",
@@ -249,6 +219,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
+      "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
+      "published_at": "2026-02-24T19:29:47Z",
+      "description": "A Quick Recovery Guide for AI-Dependent Coders       Cesar...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
+    },
+    {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
       "published_at": "2026-02-15T12:26:26Z",
@@ -264,21 +249,6 @@
       "user": "Sem Gebresilassie"
     },
     {
-      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
-      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
-      "published_at": "2026-02-13T20:08:54Z",
-      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
-      "tags": [
-        "opensource",
-        "ai",
-        "codex",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "David Alcala"
-    },
-    {
       "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
       "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
       "published_at": "2026-02-22T14:24:05Z",
@@ -292,6 +262,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+      "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+      "published_at": "2026-02-13T20:08:54Z",
+      "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game — but is packed with real developer tools.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codex",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fdeivid11%2Ftide-commander%2Fmaster%2Fdocs%2Fexample-battlefield.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "David Alcala"
     },
     {
       "title": "Software engineering is not dead",
@@ -338,21 +323,6 @@
       "user": "Ale"
     },
     {
-      "title": "The Agent Harness Is the Architecture (and Your Model Is Not the Bottleneck)",
-      "url": "https://dev.to/epappas/the-agent-harness-is-the-architecture-and-your-model-is-not-the-bottleneck-3bjd",
-      "published_at": "2026-02-24T12:23:34Z",
-      "description": "I've been experimenting with agentic systems for a while now and I keep seeing the same pattern: the focus is on which model to use, run benchmarks -- and none of it fixes why their agents still suck on production.",
-      "tags": [
-        "ai",
-        "architecture",
-        "devops",
-        "agentic"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwo904hylivr29mqjiaga.png",
-      "source": "Dev.to",
-      "user": "Evangelos Pappas"
-    },
-    {
       "title": "The Increasing Need for Human Connection in the Age of AI",
       "url": "https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd",
       "published_at": "2026-02-24T12:02:47Z",
@@ -383,19 +353,64 @@
       "user": "Terence Tham"
     },
     {
-      "title": "How I Built a Live Stock Market AI Agent in ~40 Lines of TypeScript",
-      "url": "https://dev.to/valyuai/how-i-built-a-live-stock-market-ai-agent-in-40-lines-of-typescript-3aa3",
-      "published_at": "2026-02-24T11:48:37Z",
-      "description": "I got tired of jumping between Yahoo Finance, a broker dashboard, and a Google News tab every time I...",
+      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
+      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
+      "published_at": "2026-02-11T02:00:24Z",
+      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
       "tags": [
         "ai",
-        "agents",
-        "typescript",
-        "valyu"
+        "opensourcesecurity",
+        "securitylabs",
+        "supplychainsecurity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6f01nafbtz8hmwc1vij9.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
       "source": "Dev.to",
-      "user": "Prosper Otemuyiwa"
+      "user": "SnykSec"
+    },
+    {
+      "title": "I built a CSS framework where every class name is an emoji",
+      "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
+      "published_at": "2026-02-23T11:38:19Z",
+      "description": "BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.",
+      "tags": [
+        "css",
+        "jokes",
+        "tailwindcss",
+        "bem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
+      "source": "Dev.to",
+      "user": "Tom Hayes"
+    },
+    {
+      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
+      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
+      "published_at": "2026-02-14T23:30:20Z",
+      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
+      "tags": [
+        "ai",
+        "javascript",
+        "cicd",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
+      "source": "Dev.to",
+      "user": "Monarch Wadia"
+    },
+    {
+      "title": "Using Laravel Boost With DDEV",
+      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
+      "published_at": "2026-02-10T00:00:00Z",
+      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
+      "tags": [
+        "ai",
+        "docker",
+        "laravel",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
+      "source": "Dev.to",
+      "user": "Russell Jones"
     },
     {
       "title": "Airfoil",
@@ -541,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "vava-nessa"
     },
     {
@@ -556,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "maile456"
     },
     {
@@ -571,23 +586,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1607,
       "user": "Panniantong"
     },
     {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
-      "description": "Trending GitHub Repository",
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 497,
-      "user": "CraftyGeezer"
+      "stars": 490,
+      "user": "ochyai"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -601,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "quailyquaily"
     },
     {
@@ -616,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 137,
       "user": "nextlevelbuilder"
     }
   ],
@@ -665,21 +680,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
       "source": "Dev.to",
       "user": "Anton"
-    },
-    {
-      "title": "Building a Gmail/Outlook email preview component for Vue",
-      "url": "https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk",
-      "published_at": "2026-02-20T07:56:21Z",
-      "description": "If you have ever built transactional emails in a Vue app, you have probably hit the same wall. You...",
-      "tags": [
-        "showdev",
-        "tooling",
-        "vue",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
-      "source": "Dev.to",
-      "user": "Aoife Shannon"
     },
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
@@ -786,21 +786,6 @@
       "user": "Ale"
     },
     {
-      "title": "How I Built a Live Stock Market AI Agent in ~40 Lines of TypeScript",
-      "url": "https://dev.to/valyuai/how-i-built-a-live-stock-market-ai-agent-in-40-lines-of-typescript-3aa3",
-      "published_at": "2026-02-24T11:48:37Z",
-      "description": "I got tired of jumping between Yahoo Finance, a broker dashboard, and a Google News tab every time I...",
-      "tags": [
-        "ai",
-        "agents",
-        "typescript",
-        "valyu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6f01nafbtz8hmwc1vij9.png",
-      "source": "Dev.to",
-      "user": "Prosper Otemuyiwa"
-    },
-    {
       "title": "Building a Simple Blog with Supabase (Posts & Comments)",
       "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
       "published_at": "2026-02-12T06:27:14Z",
@@ -814,6 +799,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
       "source": "Dev.to",
       "user": "Fongoh Martin T."
+    },
+    {
+      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
+      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
+      "published_at": "2026-02-14T23:30:20Z",
+      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
+      "tags": [
+        "ai",
+        "javascript",
+        "cicd",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
+      "source": "Dev.to",
+      "user": "Monarch Wadia"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -947,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "vava-nessa"
     },
     {
@@ -962,7 +962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "mksglu"
     },
     {
@@ -1007,7 +1007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "maile456"
     }
   ],
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1607,
+      "stars": 1730,
       "user": "anthropics"
     },
     {
@@ -1216,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1607,
       "user": "Panniantong"
     },
     {
@@ -1246,23 +1246,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1197,
       "user": "peteromallet"
     },
     {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
-      "description": "Trending GitHub Repository",
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 497,
-      "user": "CraftyGeezer"
+      "stars": 490,
+      "user": "ochyai"
     }
   ],
   "DevOps": [
@@ -1327,21 +1327,6 @@
       "user": "suin"
     },
     {
-      "title": "The Agent Harness Is the Architecture (and Your Model Is Not the Bottleneck)",
-      "url": "https://dev.to/epappas/the-agent-harness-is-the-architecture-and-your-model-is-not-the-bottleneck-3bjd",
-      "published_at": "2026-02-24T12:23:34Z",
-      "description": "I've been experimenting with agentic systems for a while now and I keep seeing the same pattern: the focus is on which model to use, run benchmarks -- and none of it fixes why their agents still suck on production.",
-      "tags": [
-        "ai",
-        "architecture",
-        "devops",
-        "agentic"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwo904hylivr29mqjiaga.png",
-      "source": "Dev.to",
-      "user": "Evangelos Pappas"
-    },
-    {
       "title": "IaC with Excel",
       "url": "https://dev.to/raisingcode/iac-with-excel-16hh",
       "published_at": "2026-02-24T03:04:19Z",
@@ -1355,6 +1340,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffqb1mwtaanh7lg5v0iuh.png",
       "source": "Dev.to",
       "user": "Jason Phillips"
+    },
+    {
+      "title": "Using Laravel Boost With DDEV",
+      "url": "https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6",
+      "published_at": "2026-02-10T00:00:00Z",
+      "description": "Ahnii!  Laravel Boost is an official MCP server that gives AI coding agents deep context about your...",
+      "tags": [
+        "ai",
+        "docker",
+        "laravel",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0vegz7g1ns0vqv1j774.png",
+      "source": "Dev.to",
+      "user": "Russell Jones"
     }
   ],
   "WebDev": [
@@ -1414,6 +1414,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
       "source": "Dev.to",
       "user": "Loaiabdalslam"
+    },
+    {
+      "title": "I built a CSS framework where every class name is an emoji",
+      "url": "https://dev.to/tomhayes/i-built-a-css-framework-where-every-class-name-is-an-emoji-1h3",
+      "published_at": "2026-02-23T11:38:19Z",
+      "description": "BEMoji is a fully featured BEM framework that uses emoji as class names. It's stupid. It works. It's on npm.",
+      "tags": [
+        "css",
+        "jokes",
+        "tailwindcss",
+        "bem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomhayes.github.io%2FBEMoji%2Fog-image.png",
+      "source": "Dev.to",
+      "user": "Tom Hayes"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1598,6 +1613,21 @@
       "user": "Yohei Seki"
     },
     {
+      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
+      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
+      "published_at": "2026-02-11T02:00:24Z",
+      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
+      "tags": [
+        "ai",
+        "opensourcesecurity",
+        "securitylabs",
+        "supplychainsecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
+      "source": "Dev.to",
+      "user": "SnykSec"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1759,21 +1789,6 @@
       "user": "Camila"
     },
     {
-      "title": "Building a Gmail/Outlook email preview component for Vue",
-      "url": "https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk",
-      "published_at": "2026-02-20T07:56:21Z",
-      "description": "If you have ever built transactional emails in a Vue app, you have probably hit the same wall. You...",
-      "tags": [
-        "showdev",
-        "tooling",
-        "vue",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbvt74jul5goj6a1qb1d.png",
-      "source": "Dev.to",
-      "user": "Aoife Shannon"
-    },
-    {
       "title": "Accessibility Testing with Playwright Assertions",
       "url": "https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i",
       "published_at": "2026-02-19T02:03:09Z",
@@ -1818,21 +1833,6 @@
       "user": "Sem Gebresilassie"
     },
     {
-      "title": "Visualizing UV on a Polygon2D in Godot",
-      "url": "https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o",
-      "published_at": "2026-02-15T11:53:49Z",
-      "description": "Run on: Godot: v4.6.stable.official [89cea1439]  https://github.com/idkshite/fragment-shader-uv  I...",
-      "tags": [
-        "godot",
-        "godotengine",
-        "shader",
-        "gdscript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2eyt63wb0hh5u9xpc82n.png",
-      "source": "Dev.to",
-      "user": "Lucca Sanwald"
-    },
-    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -1874,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "vava-nessa"
     },
     {
@@ -1889,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "mksglu"
     },
     {
@@ -1934,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "maile456"
     },
     {
@@ -1949,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1607,
+      "stars": 1730,
       "user": "anthropics"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1607,
       "user": "Panniantong"
     },
     {
@@ -1994,23 +1994,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1197,
       "user": "peteromallet"
     },
     {
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot - GitHub Repository",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "published_at": "2026-02-21T12:51:03Z",
-      "description": "Trending GitHub Repository",
+      "title": "ochyai/vibe-local - Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "published_at": "2026-02-22T04:33:03Z",
+      "description": "Free AI coding environment: Ollama + Python",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104236309?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 497,
-      "user": "CraftyGeezer"
+      "stars": 490,
+      "user": "ochyai"
     },
     {
       "title": "odvcencio/gotreesitter - Pure Go tree-sitter runtime",
@@ -2024,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 285,
       "user": "odvcencio"
     },
     {
@@ -2039,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 243,
       "user": "thellimist"
     },
     {
@@ -2054,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "quailyquaily"
     },
     {
@@ -2069,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 150,
       "user": "bjarneo"
     },
     {
@@ -2084,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 137,
       "user": "nextlevelbuilder"
     }
   ]
