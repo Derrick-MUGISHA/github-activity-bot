@@ -413,6 +413,21 @@
       "user": "Russell Jones"
     },
     {
+      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
+      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
+      "published_at": "2026-02-13T15:27:58Z",
+      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
+      "tags": [
+        "ai",
+        "security",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
+      "source": "Dev.to",
+      "user": "Natnael Getenew"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -556,23 +571,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "vava-nessa"
-    },
-    {
-      "title": "maile456/qq-farm-bot - 基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。",
-      "url": "https://github.com/maile456/qq-farm-bot",
-      "published_at": "2026-02-20T19:41:06Z",
-      "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
-      "source": "GitHub",
-      "stars": 136,
-      "user": "maile456"
     },
     {
       "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1650,
+      "stars": 1702,
       "user": "Panniantong"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "ochyai"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "quailyquaily"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 145,
       "user": "nextlevelbuilder"
     }
   ],
@@ -816,6 +816,21 @@
       "user": "Monarch Wadia"
     },
     {
+      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
+      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
+      "published_at": "2026-02-13T15:27:58Z",
+      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
+      "tags": [
+        "ai",
+        "security",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
+      "source": "Dev.to",
+      "user": "Natnael Getenew"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -947,7 +962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "vava-nessa"
     },
     {
@@ -996,19 +1011,19 @@
       "user": "direkturcrypto"
     },
     {
-      "title": "maile456/qq-farm-bot - 基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。",
-      "url": "https://github.com/maile456/qq-farm-bot",
-      "published_at": "2026-02-20T19:41:06Z",
-      "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。",
+      "title": "joeseesun/word-root-workshop - 📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
+      "url": "https://github.com/joeseesun/word-root-workshop",
+      "published_at": "2026-02-25T06:38:42Z",
+      "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 136,
-      "user": "maile456"
+      "stars": 137,
+      "user": "joeseesun"
     }
   ],
   "Python": [
@@ -1201,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1829,
+      "stars": 1943,
       "user": "anthropics"
     },
     {
@@ -1216,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1650,
+      "stars": 1702,
       "user": "Panniantong"
     },
     {
@@ -1231,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1331,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1246,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1232,
       "user": "peteromallet"
     },
     {
@@ -1261,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "ochyai"
     }
   ],
@@ -1628,6 +1643,21 @@
       "user": "SnykSec"
     },
     {
+      "title": "How to Detect Prompt Injection Attacks in Your AI Agent (3 Layers, 5 Minutes)",
+      "url": "https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd",
+      "published_at": "2026-02-13T15:27:58Z",
+      "description": "Your AI agent accepts user input. That means someone will try to hijack it.  Prompt injection is the...",
+      "tags": [
+        "ai",
+        "security",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7aq39gi2i302g4dqsad.png",
+      "source": "Dev.to",
+      "user": "Natnael Getenew"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1642,21 +1672,6 @@
   ],
   "Tools": [
     {
-      "title": "The $0 Developer Phase — And How Dev.to Pulled Me Out",
-      "url": "https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g",
-      "published_at": "2026-02-25T07:11:06Z",
-      "description": "Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...",
-      "tags": [
-        "career",
-        "webdev",
-        "productivity",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe492yw7tyhbwg5o8x6bx.png",
-      "source": "Dev.to",
-      "user": "Art light"
-    },
-    {
       "title": "The Developer I'm Grateful I Never Became",
       "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
       "published_at": "2026-02-25T22:40:07Z",
@@ -1670,6 +1685,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
       "source": "Dev.to",
       "user": "Narnaiezzsshaa Truong"
+    },
+    {
+      "title": "The $0 Developer Phase — And How Dev.to Pulled Me Out",
+      "url": "https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g",
+      "published_at": "2026-02-25T07:11:06Z",
+      "description": "Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...",
+      "tags": [
+        "career",
+        "webdev",
+        "productivity",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe492yw7tyhbwg5o8x6bx.png",
+      "source": "Dev.to",
+      "user": "Art light"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1874,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "vava-nessa"
     },
     {
@@ -1923,19 +1953,19 @@
       "user": "direkturcrypto"
     },
     {
-      "title": "maile456/qq-farm-bot - 基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。",
-      "url": "https://github.com/maile456/qq-farm-bot",
-      "published_at": "2026-02-20T19:41:06Z",
-      "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。",
+      "title": "joeseesun/word-root-workshop - 📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
+      "url": "https://github.com/joeseesun/word-root-workshop",
+      "published_at": "2026-02-25T06:38:42Z",
+      "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/144443965?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 136,
-      "user": "maile456"
+      "stars": 137,
+      "user": "joeseesun"
     },
     {
       "title": "anthropics/financial-services-plugins - GitHub Repository",
@@ -1949,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1829,
+      "stars": 1943,
       "user": "anthropics"
     },
     {
@@ -1964,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1650,
+      "stars": 1702,
       "user": "Panniantong"
     },
     {
@@ -1979,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1331,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1994,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1232,
       "user": "peteromallet"
     },
     {
@@ -2009,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/530126?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "ochyai"
     },
     {
@@ -2039,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 268,
       "user": "thellimist"
     },
     {
@@ -2054,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "quailyquaily"
     },
     {
@@ -2069,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "bjarneo"
     },
     {
@@ -2084,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 145,
       "user": "nextlevelbuilder"
     }
   ]
