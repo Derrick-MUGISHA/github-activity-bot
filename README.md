@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-26 22:00 CAT)
+## 📅 Latest Updates (2026-02-26 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 - [The Frontend Developer Is Dead (And That’s Good)](https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43) _[Dev.to]_
 
-_Last automated update: Thu, 26 Feb 2026 22:33:19 CAT_
+_Last automated update: Thu, 26 Feb 2026 23:18:21 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Thu, 26 Feb 2026 22:33:19 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 26 Feb 2026 20:33:19 GMT</b><br/>
+  <b>Last automated update: Thu, 26 Feb 2026 21:18:21 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
