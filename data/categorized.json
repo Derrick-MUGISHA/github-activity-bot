@@ -263,21 +263,6 @@
       "user": "Sem Gebresilassie"
     },
     {
-      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
-      "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
-      "published_at": "2026-02-22T14:24:05Z",
-      "description": "Let’s start with a statement that should be obvious but still feels controversial: Large Language...",
-      "tags": [
-        "ai",
-        "mcp",
-        "programming",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm314ox7knil293i7jh.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -570,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 384,
       "user": "vava-nessa"
     },
     {
@@ -585,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1731,
+      "stars": 1740,
       "user": "Panniantong"
     },
     {
@@ -600,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "quailyquaily"
     },
     {
@@ -615,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "nextlevelbuilder"
     }
   ],
@@ -830,6 +815,21 @@
       "user": "Maame Afua A. P. Fordjour "
     },
     {
+      "title": "Handy Bit Manipulation Tricks",
+      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
+      "published_at": "2026-02-13T06:54:48Z",
+      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component...",
+      "tags": [
+        "algorithms",
+        "programming",
+        "javascript",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F23ezcxw3fgp7pbupk687.png",
+      "source": "Dev.to",
+      "user": "Manuj Sankrit"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -961,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 384,
       "user": "vava-nessa"
     },
     {
@@ -976,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "mksglu"
     },
     {
@@ -1006,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "direkturcrypto"
     },
     {
@@ -1068,20 +1068,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft4ja9mpsntwunxayu2gx.png",
       "source": "Dev.to",
       "user": "stevejvv"
-    },
-    {
-      "title": "How a \"Simple\" QR Code Generator Ate All My RAM: A Tale of 50,000 QR Codes",
-      "url": "https://dev.to/budiwidhiyanto/how-a-simple-qr-code-generator-ate-all-my-ram-a-tale-of-50000-qr-codes-1nkg",
-      "published_at": "2026-02-24T02:43:04Z",
-      "description": "Sometimes the simplest tasks can become the biggest headaches. Here's how I learned that data size...",
-      "tags": [
-        "python",
-        "performance",
-        "optimization"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs9smbug1ep1af3sg3y2a.png",
-      "source": "Dev.to",
-      "user": "Budi Widhiyanto"
     },
     {
       "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
@@ -1230,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2047,
+      "stars": 2106,
       "user": "anthropics"
     },
     {
@@ -1245,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1731,
+      "stars": 1740,
       "user": "Panniantong"
     },
     {
@@ -1260,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1334,
+      "stars": 1335,
       "user": "ShinMegamiBoson"
     },
     {
@@ -1275,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1250,
+      "stars": 1261,
       "user": "peteromallet"
     },
     {
@@ -1403,18 +1389,6 @@
   ],
   "WebDev": [
     {
-      "title": "Mastering Smooth UI Transitions: The End of the \"Height: Auto\" Hack",
-      "url": "https://dev.to/vanaf1979/mastering-smooth-ui-transitions-the-end-of-the-height-auto-hack-3hjc",
-      "published_at": "2026-02-25T14:36:26Z",
-      "description": "In this article, I break down how the new interpolate-size and transition-behavior properties finally solve the \"height: auto\" problem in CSS. We walk through how to ditch old hacks for native, smooth transitions that handle both dynamic math and discrete display states the right way.",
-      "tags": [
-        "css"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wp157lfoetjes2zdaa6.png",
-      "source": "Dev.to",
-      "user": "Stephan Nijman"
-    },
-    {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
       "published_at": "2026-02-22T15:16:30Z",
@@ -1428,6 +1402,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch7vqjii90e7m04icowr.png",
       "source": "Dev.to",
       "user": "Anja Beisel"
+    },
+    {
+      "title": "Mastering Smooth UI Transitions: The End of the \"Height: Auto\" Hack",
+      "url": "https://dev.to/vanaf1979/mastering-smooth-ui-transitions-the-end-of-the-height-auto-hack-3hjc",
+      "published_at": "2026-02-25T14:36:26Z",
+      "description": "In this article, I break down how the new interpolate-size and transition-behavior properties finally solve the \"height: auto\" problem in CSS. We walk through how to ditch old hacks for native, smooth transitions that handle both dynamic math and discrete display states the right way.",
+      "tags": [
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wp157lfoetjes2zdaa6.png",
+      "source": "Dev.to",
+      "user": "Stephan Nijman"
     },
     {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
@@ -1932,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 384,
       "user": "vava-nessa"
     },
     {
@@ -1947,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "mksglu"
     },
     {
@@ -1977,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "direkturcrypto"
     },
     {
@@ -2007,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2047,
+      "stars": 2106,
       "user": "anthropics"
     },
     {
@@ -2022,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1731,
+      "stars": 1740,
       "user": "Panniantong"
     },
     {
@@ -2037,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
       "source": "GitHub",
-      "stars": 1334,
+      "stars": 1335,
       "user": "ShinMegamiBoson"
     },
     {
@@ -2052,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1250,
+      "stars": 1261,
       "user": "peteromallet"
     },
     {
@@ -2071,6 +2057,21 @@
       "user": "runesleo"
     },
     {
+      "title": "thellimist/clihub - GitHub Repository",
+      "url": "https://github.com/thellimist/clihub",
+      "published_at": "2026-02-23T13:43:14Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "thellimist"
+    },
+    {
       "title": "odvcencio/gotreesitter - Pure Go tree-sitter runtime",
       "url": "https://github.com/odvcencio/gotreesitter",
       "published_at": "2026-02-20T03:11:46Z",
@@ -2086,21 +2087,6 @@
       "user": "odvcencio"
     },
     {
-      "title": "thellimist/clihub - GitHub Repository",
-      "url": "https://github.com/thellimist/clihub",
-      "published_at": "2026-02-23T13:43:14Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
-      "source": "GitHub",
-      "stars": 285,
-      "user": "thellimist"
-    },
-    {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
       "url": "https://github.com/quailyquaily/aqua",
       "published_at": "2026-02-21T19:04:48Z",
@@ -2112,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "quailyquaily"
     },
     {
@@ -2142,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "nextlevelbuilder"
     }
   ]
