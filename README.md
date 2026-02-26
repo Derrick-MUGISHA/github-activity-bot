@@ -30,13 +30,13 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**DevOps**: 🟦🟦🟦🟦 8 (7.6%)
+**DevOps**: 🟦🟦🟦 7 (6.7%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
@@ -60,25 +60,25 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.9 (31.9%)
-Python          ████████████████████ 21.3 (21.3%)
-Java            ███████████████████ 20.2 (20.2%)
-Go              █████████████████ 18.1 (18.1%)
+JavaScript      ██████████████████████████████ 31.2 (31.2%)
+Python          █████████████████████ 21.5 (21.5%)
+Java            ████████████████████ 20.4 (20.4%)
+Go              █████████████████ 17.2 (17.2%)
+Rust            ███ 3.2 (3.2%)
 Swift           ███ 3.2 (3.2%)
-Rust            ██ 2.1 (2.1%)
-CSharp          ██ 2.1 (2.1%)
+CSharp          ██ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 30
+    "JavaScript" : 29
     "Python" : 20
     "Java" : 19
-    "Go" : 17
+    "Go" : 16
+    "Rust" : 3
     "Swift" : 3
-    "Rust" : 2
     "CSharp" : 2
     "Kotlin" : 1
 ```
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![devops](https://img.shields.io/badge/devops-7-blue) ![typescript](https://img.shields.io/badge/typescript-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![career](https://img.shields.io/badge/career-4-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![typescript](https://img.shields.io/badge/typescript-6-blue) ![devops](https://img.shields.io/badge/devops-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-26 9:00 CAT)
+## 📅 Latest Updates (2026-02-26 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,11 +214,11 @@ npm run test
 - [The Increasing Need for Human Connection in the Age of AI](https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc) _[Dev.to]_
 - [Optimizing Shared GitLab Pipelines: Flexibility and Maintainability](https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8) _[Dev.to]_
-- [Sorting algorithms visualized](https://dev.to/peter/sorting-algorithms-visualized-5oh) _[Dev.to]_
 - [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo) _[Dev.to]_
 - [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f) _[Dev.to]_
+- [Switching Minikube from Docker Driver to kvm2 for Better Stability](https://dev.to/pilgrim2go/switching-minikube-from-docker-driver-to-kvm2-for-better-stability-2fil) _[Dev.to]_
 
-_Last automated update: Thu, 26 Feb 2026 09:15:42 CAT_
+_Last automated update: Thu, 26 Feb 2026 10:03:32 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 26 Feb 2026 09:15:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 26 Feb 2026 07:15:42 GMT</b><br/>
+  <b>Last automated update: Thu, 26 Feb 2026 08:03:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
