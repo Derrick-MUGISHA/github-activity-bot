@@ -75,6 +75,35 @@
       "user": "CodeNameGrant"
     },
     {
+      "title": "Wiring Claude Into Real Systems With Tool Use",
+      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
+      "published_at": "2026-02-27T05:46:09Z",
+      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
+      "source": "Dev.to",
+      "user": "Prabhat Kumar"
+    },
+    {
+      "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
+      "url": "https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag",
+      "published_at": "2026-02-26T23:21:17Z",
+      "description": "When I briefly worked with Peec AI, one of the first things I noticed that could greatly improve the...",
+      "tags": [
+        "firebase",
+        "serverless",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
+      "source": "Dev.to",
+      "user": "Ozan"
+    },
+    {
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
       "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
       "published_at": "2026-02-26T22:42:29Z",
@@ -218,51 +247,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
-    },
-    {
-      "title": "Build Domain-driven HTTP services",
-      "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
-      "published_at": "2026-02-20T04:21:37Z",
-      "description": "You're building ASP .NET web APIs that need to communicate with external APIs.  The UserRegister API...",
-      "tags": [
-        "webdev",
-        "dotnet",
-        "restapi",
-        "csharp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui38f6me5urbe1q3t35l.jpg",
-      "source": "Dev.to",
-      "user": "Mirza Leka"
-    },
-    {
-      "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
-      "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
-      "published_at": "2026-02-24T19:29:47Z",
-      "description": "A Quick Recovery Guide for AI-Dependent Coders       Cesar...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
-    },
-    {
-      "title": "Vibe Coding an Audio Engineer Who Never Sleeps",
-      "url": "https://dev.to/deanius/vibe-coding-an-audio-engineer-who-never-sleeps-4o61",
-      "published_at": "2026-02-25T19:09:12Z",
-      "description": "A story of how vibe coding in OpenClaw unlocked musical creativity.",
-      "tags": [
-        "ai",
-        "openclaw",
-        "vibecode",
-        "music"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjwxbnzcrvl9uyq0jrr9m.jpg",
-      "source": "Dev.to",
-      "user": "Dean Radcliffe"
     },
     {
       "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
@@ -631,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2312,
+      "stars": 2315,
       "user": "Panniantong"
     },
     {
@@ -676,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "taigrr"
     }
   ],
@@ -1056,22 +1040,37 @@
       "user": "joeseesun"
     },
     {
-      "title": "silships/figma-cli - GitHub Repository",
-      "url": "https://github.com/silships/figma-cli",
-      "published_at": "2026-02-23T19:19:36Z",
+      "title": "Sir-Scuzza/gluetun-webui - GitHub Repository",
+      "url": "https://github.com/Sir-Scuzza/gluetun-webui",
+      "published_at": "2026-02-24T11:44:26Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 140,
-      "user": "silships"
+      "stars": 142,
+      "user": "Sir-Scuzza"
     }
   ],
   "Python": [
+    {
+      "title": "Wiring Claude Into Real Systems With Tool Use",
+      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
+      "published_at": "2026-02-27T05:46:09Z",
+      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
+      "source": "Dev.to",
+      "user": "Prabhat Kumar"
+    },
     {
       "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe",
@@ -1234,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3827,
+      "stars": 3887,
       "user": "anthropics"
     },
     {
@@ -1249,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2312,
+      "stars": 2315,
       "user": "Panniantong"
     },
     {
@@ -1264,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1448,
       "user": "peteromallet"
     },
     {
@@ -1294,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 587,
       "user": "runesleo"
     }
   ],
@@ -1495,6 +1494,20 @@
   ],
   "Cloud": [
     {
+      "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
+      "url": "https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag",
+      "published_at": "2026-02-26T23:21:17Z",
+      "description": "When I briefly worked with Peec AI, one of the first things I noticed that could greatly improve the...",
+      "tags": [
+        "firebase",
+        "serverless",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
+      "source": "Dev.to",
+      "user": "Ozan"
+    },
+    {
       "title": "I Clicked ‘Azure Portal’ and Realized How Small My World Was",
       "url": "https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78",
       "published_at": "2026-02-23T18:03:43Z",
@@ -1685,6 +1698,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
       "source": "Dev.to",
       "user": "Narnaiezzsshaa Truong"
+    },
+    {
+      "title": "Wiring Claude Into Real Systems With Tool Use",
+      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
+      "published_at": "2026-02-27T05:46:09Z",
+      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
+      "source": "Dev.to",
+      "user": "Prabhat Kumar"
+    },
+    {
+      "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
+      "url": "https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag",
+      "published_at": "2026-02-26T23:21:17Z",
+      "description": "When I briefly worked with Peec AI, one of the first things I noticed that could greatly improve the...",
+      "tags": [
+        "firebase",
+        "serverless",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
+      "source": "Dev.to",
+      "user": "Ozan"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1925,19 +1967,19 @@
       "user": "joeseesun"
     },
     {
-      "title": "silships/figma-cli - GitHub Repository",
-      "url": "https://github.com/silships/figma-cli",
-      "published_at": "2026-02-23T19:19:36Z",
+      "title": "Sir-Scuzza/gluetun-webui - GitHub Repository",
+      "url": "https://github.com/Sir-Scuzza/gluetun-webui",
+      "published_at": "2026-02-24T11:44:26Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 140,
-      "user": "silships"
+      "stars": 142,
+      "user": "Sir-Scuzza"
     },
     {
       "title": "anthropics/financial-services-plugins - GitHub Repository",
@@ -1951,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3827,
+      "stars": 3887,
       "user": "anthropics"
     },
     {
@@ -1966,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2312,
+      "stars": 2315,
       "user": "Panniantong"
     },
     {
@@ -1981,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1448,
       "user": "peteromallet"
     },
     {
@@ -2011,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 587,
       "user": "runesleo"
     },
     {
@@ -2026,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "thellimist"
     },
     {
@@ -2071,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "bjarneo"
     },
     {
@@ -2086,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "taigrr"
     }
   ]

@@ -6,38 +6,37 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 48,
+    "AI": 47,
     "JavaScript": 28,
-    "Python": 17,
+    "Python": 18,
     "DevOps": 4,
     "WebDev": 7,
     "Mobile": 2,
-    "Cloud": 3,
+    "Cloud": 4,
     "Database": 2,
     "Security": 5,
-    "Tools": 30
+    "Tools": 32
   },
   "by_language": {
-    "Go": 18,
+    "Go": 19,
     "JavaScript": 28,
-    "Python": 17,
+    "Python": 18,
     "Java": 21,
     "Swift": 2,
-    "CSharp": 2,
     "Rust": 2,
-    "Kotlin": 1
+    "Kotlin": 1,
+    "CSharp": 1
   },
   "by_date": {
-    "2026-02-27": 3,
-    "2026-02-25": 15,
-    "2026-02-26": 8,
-    "2026-02-23": 11,
+    "2026-02-27": 6,
+    "2026-02-25": 14,
+    "2026-02-26": 9,
+    "2026-02-23": 10,
     "2026-02-24": 12,
     "2026-02-19": 5,
     "2026-02-22": 4,
-    "2026-02-18": 2,
-    "2026-02-20": 1,
     "2026-02-15": 2,
+    "2026-02-18": 1,
     "2026-02-17": 5,
     "2026-02-13": 2,
     "2026-02-16": 3,
@@ -72,7 +71,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 25,
+    "ai": 24,
     "webdev": 17,
     "github": 15,
     "open-source": 15,
@@ -80,28 +79,28 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "python": 8,
+    "career": 7,
     "productivity": 7,
-    "python": 7,
-    "discuss": 6,
-    "career": 6,
     "programming": 6,
     "opensource": 6,
     "go": 6,
+    "discuss": 5,
+    "agents": 5,
     "gemini": 4,
-    "beginners": 4,
     "typescript": 4,
     "architecture": 4,
-    "agents": 4
+    "security": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "19.8",
-    "JavaScript": "30.8",
-    "Python": "18.7",
-    "Java": "23.1",
+    "Go": "20.7",
+    "JavaScript": "30.4",
+    "Python": "19.6",
+    "Java": "22.8",
     "Swift": "2.2",
-    "CSharp": "2.2",
     "Rust": "2.2",
-    "Kotlin": "1.1"
+    "Kotlin": "1.1",
+    "CSharp": "1.1"
   }
 }
