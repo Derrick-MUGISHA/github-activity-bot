@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-9-blue)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-27-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,25 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **WebDev**: 🟦🟦🟦 7 (6.7%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦 3 (2.9%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **Cloud**: 🟦 3 (2.9%)
 
-**Database**: 🟦 2 (1.9%)
-
-**Mobile**:  1 (1.0%)
+**Database**:  1 (1.0%)
 
 
 
@@ -60,35 +58,32 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.2 (30.2%)
-Java            ██████████████████████ 21.9 (21.9%)
-Go              ████████████████████ 19.8 (19.8%)
-Python          ████████████████████ 19.8 (19.8%)
-Rust            ███ 3.1 (3.1%)
-PHP             ██ 2.1 (2.1%)
-Swift           █ 1.0 (1.0%)
-Kotlin          █ 1.0 (1.0%)
-CSharp          █ 1.0 (1.0%)
+JavaScript      ██████████████████████████████ 28.7 (28.7%)
+Go              ███████████████████████ 21.8 (21.8%)
+Python          ███████████████████████ 21.8 (21.8%)
+Java            ███████████████████████ 21.8 (21.8%)
+PHP             ██ 2.3 (2.3%)
+Rust            ██ 2.3 (2.3%)
+CSharp          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 29
-    "Java" : 21
+    "JavaScript" : 25
     "Go" : 19
     "Python" : 19
-    "Rust" : 3
+    "Java" : 19
     "PHP" : 2
-    "Swift" : 1
-    "Kotlin" : 1
+    "Rust" : 2
+    "CSharp" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![webdev](https://img.shields.io/badge/webdev-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
+![ai](https://img.shields.io/badge/ai-28-blue) ![webdev](https://img.shields.io/badge/webdev-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![architecture](https://img.shields.io/badge/architecture-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
 
 
 
@@ -128,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-27 22:00 CAT)
+## 📅 Latest Updates (2026-02-27 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -154,17 +149,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dannwaneri/the-token-economy-3cd9">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg" width="200" alt="The Token Economy" />
-      <br/>
-      <b>The Token Economy</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png" width="200" alt="Upgraded embed experience and new embed types in DEV posts" />
       <br/>
@@ -173,11 +157,13 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nbmfj79d55rwrfyzgvs.png" width="200" alt="A Founder’s Blueprint to Creating a Technical Sales Team" />
+    <a href="https://dev.to/dannwaneri/the-token-economy-3cd9">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg" width="200" alt="The Token Economy" />
       <br/>
-      <b>A Founder’s Blueprint to Creating a Technical Sale...</b>
+      <b>The Token Economy</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -191,6 +177,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnbj661po1w5k9jzuqjz.png" width="200" alt="I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest" />
+      <br/>
+      <b>I Run a Fleet of AI Agents in Production — Here's ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -200,11 +195,12 @@ npm run test
 
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h33) _[Dev.to]_
 - [Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.](https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8) _[Dev.to]_
-- [The Token Economy](https://dev.to/dannwaneri/the-token-economy-3cd9) _[Dev.to]_
 - [Upgraded embed experience and new embed types in DEV posts](https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho) _[Dev.to]_
-- [A Founder’s Blueprint to Creating a Technical Sales Team](https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f) _[Dev.to]_
+- [The Token Economy](https://dev.to/dannwaneri/the-token-economy-3cd9) _[Dev.to]_
 - [Join the "Built with Google Gemini: Writing Challenge" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!](https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk) _[Dev.to]_
+- [I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest](https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h) _[Dev.to]_
 - [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
+- [A Founder’s Blueprint to Creating a Technical Sales Team](https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f) _[Dev.to]_
 - [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
 - [Data Pseudonymization: When You Can't Just Delete Everything](https://dev.to/manualwise/data-pseudonymization-when-you-cant-just-delete-everything-4goa) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
@@ -217,9 +213,8 @@ npm run test
 - [Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.](https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe) _[Dev.to]_
 - [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1) _[Dev.to]_
 - [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg) _[Dev.to]_
-- [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j) _[Dev.to]_
 
-_Last automated update: Fri, 27 Feb 2026 22:51:59 CAT_
+_Last automated update: Fri, 27 Feb 2026 23:26:00 CAT_
 
 
 
@@ -227,18 +222,29 @@ _Last automated update: Fri, 27 Feb 2026 22:51:59 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 3. DataStructures: Find the longest substring without repeating characters
 
 **Difficulty**: Medium | **Topics**: strings, sliding window
 
@@ -246,17 +252,6 @@ Function wrappers, @syntax, practical uses
 <summary>💡 Hint</summary>
 
 Sliding window, hash map, two pointers
-
-</details>
-
-### 3. React: What are hooks and why were they introduced?
-
-**Difficulty**: Medium | **Topics**: hooks, functional components
-
-<details>
-<summary>💡 Hint</summary>
-
-State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -290,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Feb 2026 20:51:59 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Feb 2026 21:26:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
