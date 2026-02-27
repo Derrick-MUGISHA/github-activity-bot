@@ -74,21 +74,6 @@
       "user": "Alisa Fortin"
     },
     {
-      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
-      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
-      "published_at": "2026-02-26T08:08:54Z",
-      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
-      "tags": [
-        "claudecode",
-        "tailscale",
-        "ntfy",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
-      "source": "Dev.to",
-      "user": "Felipe Philipp"
-    },
-    {
       "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
       "url": "https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg",
       "published_at": "2026-02-26T20:03:50Z",
@@ -131,6 +116,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
       "source": "Dev.to",
       "user": "kuroko"
+    },
+    {
+      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
+      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
+      "published_at": "2026-02-26T08:08:54Z",
+      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
+      "tags": [
+        "claudecode",
+        "tailscale",
+        "ntfy",
+        "docker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
+      "source": "Dev.to",
+      "user": "Felipe Philipp"
     },
     {
       "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
@@ -248,19 +248,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frj53bn5v65z4bw3ymeb7.png",
       "source": "Dev.to",
       "user": "Prathamesh Deshmukh"
-    },
-    {
-      "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
-      "url": "https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8",
-      "published_at": "2026-02-20T21:45:30Z",
-      "description": "Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.",
-      "tags": [
-        "gitlab",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
-      "source": "Dev.to",
-      "user": "Romain Lespinasse"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -484,21 +471,6 @@
       "user": "Praveen Gowthaman"
     },
     {
-      "title": "Stop Putting API Keys in Your Shell Config",
-      "url": "https://dev.to/kakkoyun/stop-putting-api-keys-in-your-shell-config-119o",
-      "published_at": "2026-02-12T00:00:00Z",
-      "description": "We all know better. Don’t hardcode secrets. Use a vault. Rotate your keys. We’ve been saying this for...",
-      "tags": [
-        "ai",
-        "api",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymxtizzta0i4aqqu49or.png",
-      "source": "Dev.to",
-      "user": "Kemal Akkoyun"
-    },
-    {
       "title": "The Increasing Need for Human Connection in the Age of AI",
       "url": "https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd",
       "published_at": "2026-02-24T12:02:47Z",
@@ -672,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2116,
+      "stars": 2146,
       "user": "Panniantong"
     },
     {
@@ -687,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "quailyquaily"
     },
     {
@@ -702,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 216,
       "user": "nextlevelbuilder"
     },
     {
@@ -717,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "taigrr"
     }
   ],
@@ -902,6 +874,21 @@
       "user": "Ale"
     },
     {
+      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
+      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
+      "published_at": "2026-02-12T06:27:14Z",
+      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
+      "tags": [
+        "supabase",
+        "react",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
+      "source": "Dev.to",
+      "user": "Fongoh Martin T."
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1078,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "joeseesun"
     },
     {
@@ -1093,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "silships"
     }
   ],
@@ -1273,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3195,
+      "stars": 3267,
       "user": "anthropics"
     },
     {
@@ -1288,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2116,
+      "stars": 2146,
       "user": "Panniantong"
     },
     {
@@ -1303,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1403,
       "user": "peteromallet"
     },
     {
@@ -1318,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 631,
       "user": "apple"
     },
     {
@@ -1333,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 568,
       "user": "runesleo"
     }
   ],
@@ -1581,6 +1568,21 @@
   ],
   "Database": [
     {
+      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
+      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
+      "published_at": "2026-02-12T06:27:14Z",
+      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
+      "tags": [
+        "supabase",
+        "react",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
+      "source": "Dev.to",
+      "user": "Fongoh Martin T."
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1652,21 +1654,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
       "source": "Dev.to",
       "user": "Kim Maida"
-    },
-    {
-      "title": "Stop Putting API Keys in Your Shell Config",
-      "url": "https://dev.to/kakkoyun/stop-putting-api-keys-in-your-shell-config-119o",
-      "published_at": "2026-02-12T00:00:00Z",
-      "description": "We all know better. Don’t hardcode secrets. Use a vault. Rotate your keys. We’ve been saying this for...",
-      "tags": [
-        "ai",
-        "api",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymxtizzta0i4aqqu49or.png",
-      "source": "Dev.to",
-      "user": "Kemal Akkoyun"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1770,19 +1757,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
       "source": "Dev.to",
       "user": "Kohki Makimoto"
-    },
-    {
-      "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
-      "url": "https://dev.to/rlespinasse/optimizing-shared-gitlab-pipelines-flexibility-and-maintainability-7p8",
-      "published_at": "2026-02-20T21:45:30Z",
-      "description": "Optimizing shared GitLab pipelines enhances flexibility and maintainability. Users can easily customize pipeline behavior by implementing variables as configuration points without compromising the original intent. While temporary workarounds exist, contributing to open-source projects to improve shared pipeline structures is highly recommended, especially during events like Hacktoberfest.",
-      "tags": [
-        "gitlab",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk467lh5qtqhn1vlhfw7k.png",
-      "source": "Dev.to",
-      "user": "Romain Lespinasse"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -1959,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "joeseesun"
     },
     {
@@ -1974,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "silships"
     },
     {
@@ -1989,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3195,
+      "stars": 3267,
       "user": "anthropics"
     },
     {
@@ -2004,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2116,
+      "stars": 2146,
       "user": "Panniantong"
     },
     {
@@ -2019,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1403,
       "user": "peteromallet"
     },
     {
@@ -2034,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 631,
       "user": "apple"
     },
     {
@@ -2049,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 568,
       "user": "runesleo"
     },
     {
@@ -2064,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 355,
       "user": "thellimist"
     },
     {
@@ -2079,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "quailyquaily"
     },
     {
@@ -2094,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 216,
       "user": "nextlevelbuilder"
     },
     {
@@ -2109,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 199,
       "user": "bjarneo"
     },
     {
@@ -2124,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "taigrr"
     }
   ]
