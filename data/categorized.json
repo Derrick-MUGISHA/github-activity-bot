@@ -31,20 +31,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "The Agent Skills Gold Rush Has a Malware Problem",
-      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
-      "published_at": "2026-02-26T16:08:19Z",
-      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
-      "tags": [
-        "devtools",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
-      "source": "Dev.to",
-      "user": "Mei Park"
-    },
-    {
       "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
       "url": "https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8",
       "published_at": "2026-02-27T03:00:00Z",
@@ -58,6 +44,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymcxcb34vr6ew58onbey.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The Agent Skills Gold Rush Has a Malware Problem",
+      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
+      "published_at": "2026-02-26T16:08:19Z",
+      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
+      "tags": [
+        "devtools",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
+      "source": "Dev.to",
+      "user": "Mei Park"
     },
     {
       "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1897,
+      "stars": 1965,
       "user": "Panniantong"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "quailyquaily"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 195,
       "user": "nextlevelbuilder"
     },
     {
@@ -1048,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "mksglu"
     },
     {
@@ -1063,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "jesselau76"
     },
     {
@@ -1093,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "joeseesun"
     },
     {
@@ -1288,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2710,
+      "stars": 2845,
       "user": "anthropics"
     },
     {
@@ -1303,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1897,
+      "stars": 1965,
       "user": "Panniantong"
     },
     {
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1340,
+      "stars": 1360,
       "user": "peteromallet"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 590,
       "user": "apple"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 546,
       "user": "runesleo"
     }
   ],
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "mksglu"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "jesselau76"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "joeseesun"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2710,
+      "stars": 2845,
       "user": "anthropics"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1897,
+      "stars": 1965,
       "user": "Panniantong"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1340,
+      "stars": 1360,
       "user": "peteromallet"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 590,
       "user": "apple"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 546,
       "user": "runesleo"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 340,
       "user": "thellimist"
     },
     {
@@ -2094,23 +2094,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "quailyquaily"
-    },
-    {
-      "title": "bjarneo/cliamp - Terminal Winamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "published_at": "2026-02-24T07:18:59Z",
-      "description": "Terminal Winamp",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
-      "source": "GitHub",
-      "stars": 186,
-      "user": "bjarneo"
     },
     {
       "title": "nextlevelbuilder/goclaw - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
@@ -2124,8 +2109,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 195,
       "user": "nextlevelbuilder"
+    },
+    {
+      "title": "bjarneo/cliamp - Terminal Winamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "published_at": "2026-02-24T07:18:59Z",
+      "description": "Terminal Winamp",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
+      "source": "GitHub",
+      "stars": 190,
+      "user": "bjarneo"
     },
     {
       "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
