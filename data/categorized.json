@@ -60,20 +60,6 @@
       "user": "Mei Park"
     },
     {
-      "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
-      "url": "https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg",
-      "published_at": "2026-02-26T20:03:50Z",
-      "description": "Last week @stephr_wong, Kevin Hou, and Andy Zhang explored the Antigravity Editor and Agent...",
-      "tags": [
-        "gemini",
-        "agents",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flfdllhjk854joak0k2x1.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
       "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
       "published_at": "2026-02-26T22:42:29Z",
@@ -101,6 +87,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
+    },
+    {
+      "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
+      "url": "https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg",
+      "published_at": "2026-02-26T20:03:50Z",
+      "description": "Last week @stephr_wong, Kevin Hou, and Andy Zhang explored the Antigravity Editor and Agent...",
+      "tags": [
+        "gemini",
+        "agents",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flfdllhjk854joak0k2x1.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
@@ -661,21 +661,6 @@
       "user": "veesahni"
     },
     {
-      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
-      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
-      "published_at": "2026-02-21T23:34:11Z",
-      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
-      "source": "GitHub",
-      "stars": 107,
-      "user": "DaveMoudy"
-    },
-    {
       "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "published_at": "2026-02-24T02:10:24Z",
@@ -687,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1992,
+      "stars": 2032,
       "user": "Panniantong"
     },
     {
@@ -702,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "quailyquaily"
     },
     {
@@ -717,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 206,
       "user": "nextlevelbuilder"
     },
     {
@@ -732,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "taigrr"
     }
   ],
@@ -1093,23 +1078,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 150,
       "user": "joeseesun"
     },
     {
-      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
-      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
-      "published_at": "2026-02-21T23:34:11Z",
-      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "title": "silships/figma-cli - GitHub Repository",
+      "url": "https://github.com/silships/figma-cli",
+      "published_at": "2026-02-23T19:19:36Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
       "stars": 107,
-      "user": "DaveMoudy"
+      "user": "silships"
     }
   ],
   "Python": [
@@ -1288,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2909,
+      "stars": 2993,
       "user": "anthropics"
     },
     {
@@ -1303,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1992,
+      "stars": 2032,
       "user": "Panniantong"
     },
     {
@@ -1318,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1370,
+      "stars": 1379,
       "user": "peteromallet"
     },
     {
@@ -1333,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 610,
       "user": "apple"
     },
     {
@@ -1348,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 555,
       "user": "runesleo"
     }
   ],
@@ -1974,23 +1959,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 150,
       "user": "joeseesun"
     },
     {
-      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
-      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
-      "published_at": "2026-02-21T23:34:11Z",
-      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "title": "silships/figma-cli - GitHub Repository",
+      "url": "https://github.com/silships/figma-cli",
+      "published_at": "2026-02-23T19:19:36Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
       "stars": 107,
-      "user": "DaveMoudy"
+      "user": "silships"
     },
     {
       "title": "anthropics/financial-services-plugins - GitHub Repository",
@@ -2004,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2909,
+      "stars": 2993,
       "user": "anthropics"
     },
     {
@@ -2019,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1992,
+      "stars": 2032,
       "user": "Panniantong"
     },
     {
@@ -2034,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1370,
+      "stars": 1379,
       "user": "peteromallet"
     },
     {
@@ -2049,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 610,
       "user": "apple"
     },
     {
@@ -2064,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 555,
       "user": "runesleo"
     },
     {
@@ -2079,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "thellimist"
     },
     {
@@ -2094,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "quailyquaily"
     },
     {
@@ -2109,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 206,
       "user": "nextlevelbuilder"
     },
     {
@@ -2124,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "bjarneo"
     },
     {
@@ -2139,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "taigrr"
     }
   ]
