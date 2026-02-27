@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-27 23:00 CAT)
+## 📅 Latest Updates (2026-02-28 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1) _[Dev.to]_
 - [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg) _[Dev.to]_
 
-_Last automated update: Fri, 27 Feb 2026 23:51:03 CAT_
+_Last automated update: Sat, 28 Feb 2026 00:19:34 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 27 Feb 2026 23:51:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Feb 2026 21:51:03 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Feb 2026 22:19:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
