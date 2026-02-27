@@ -60,20 +60,6 @@
       "user": "Mei Park"
     },
     {
-      "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
-      "url": "https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg",
-      "published_at": "2026-02-26T20:03:50Z",
-      "description": "Last week @stephr_wong, Kevin Hou, and Andy Zhang explored the Antigravity Editor and Agent...",
-      "tags": [
-        "gemini",
-        "agents",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flfdllhjk854joak0k2x1.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
       "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
       "published_at": "2026-02-23T11:31:51Z",
@@ -89,34 +75,19 @@
       "user": "CodeNameGrant"
     },
     {
-      "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
-      "url": "https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a",
-      "published_at": "2026-02-26T07:58:44Z",
-      "description": "Token cost in browser automation MCPs has become a real topic — articles like \"Playwright MCP Burns...",
+      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
+      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
+      "published_at": "2026-02-26T13:33:02Z",
+      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
       "tags": [
-        "mcp",
+        "security",
         "ai",
-        "webdev",
-        "playwright"
+        "opensource",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
       "source": "Dev.to",
-      "user": "kuroko"
-    },
-    {
-      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
-      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
-      "published_at": "2026-02-26T08:08:54Z",
-      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
-      "tags": [
-        "claudecode",
-        "tailscale",
-        "ntfy",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
-      "source": "Dev.to",
-      "user": "Felipe Philipp"
+      "user": "Gus"
     },
     {
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
@@ -133,19 +104,18 @@
       "user": "Alisa Fortin"
     },
     {
-      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
-      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
-      "published_at": "2026-02-26T13:33:02Z",
-      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
+      "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
+      "url": "https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg",
+      "published_at": "2026-02-26T20:03:50Z",
+      "description": "Last week @stephr_wong, Kevin Hou, and Andy Zhang explored the Antigravity Editor and Agent...",
       "tags": [
-        "security",
-        "ai",
-        "opensource",
-        "agents"
+        "gemini",
+        "agents",
+        "cli"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flfdllhjk854joak0k2x1.png",
       "source": "Dev.to",
-      "user": "Gus"
+      "user": "Jess Lee"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -293,21 +263,6 @@
       "user": "Cesar Aguirre"
     },
     {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
-    },
-    {
       "title": "Vibe Coding an Audio Engineer Who Never Sleeps",
       "url": "https://dev.to/deanius/vibe-coding-an-audio-engineer-who-never-sleeps-4o61",
       "published_at": "2026-02-25T19:09:12Z",
@@ -321,6 +276,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjwxbnzcrvl9uyq0jrr9m.jpg",
       "source": "Dev.to",
       "user": "Dean Radcliffe"
+    },
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
     },
     {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
@@ -644,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2283,
       "user": "Panniantong"
     },
     {
@@ -695,21 +665,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
-      "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
-      "published_at": "2026-02-23T11:31:51Z",
-      "description": "Where should this go? Which apps are using this library?  Those two questions are plaguing my team as...",
-      "tags": [
-        "nx",
-        "typescript",
-        "architecture",
-        "monorepo"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png",
-      "source": "Dev.to",
-      "user": "CodeNameGrant"
-    },
-    {
       "title": "Understanding Next.js Rewrites",
       "url": "https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j",
       "published_at": "2026-02-26T18:04:54Z",
@@ -723,6 +678,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fez7fx6i3lhwlxh7vosms.png",
       "source": "Dev.to",
       "user": "Emeruche Ikenna"
+    },
+    {
+      "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
+      "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
+      "published_at": "2026-02-23T11:31:51Z",
+      "description": "Where should this go? Which apps are using this library?  Those two questions are plaguing my team as...",
+      "tags": [
+        "nx",
+        "typescript",
+        "architecture",
+        "monorepo"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png",
+      "source": "Dev.to",
+      "user": "CodeNameGrant"
     },
     {
       "title": "Static Imports Are Undermining JavaScript’s Isomorphism",
@@ -1080,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "silships"
     }
   ],
@@ -1260,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3658,
+      "stars": 3700,
       "user": "anthropics"
     },
     {
@@ -1275,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2283,
       "user": "Panniantong"
     },
     {
@@ -1290,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1436,
       "user": "peteromallet"
     },
     {
@@ -1305,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 657,
       "user": "apple"
     },
     {
@@ -1320,26 +1290,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 582,
       "user": "runesleo"
     }
   ],
   "DevOps": [
-    {
-      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
-      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
-      "published_at": "2026-02-26T08:08:54Z",
-      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
-      "tags": [
-        "claudecode",
-        "tailscale",
-        "ntfy",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
-      "source": "Dev.to",
-      "user": "Felipe Philipp"
-    },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
@@ -1962,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "silships"
     },
     {
@@ -1977,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3658,
+      "stars": 3700,
       "user": "anthropics"
     },
     {
@@ -1992,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2283,
       "user": "Panniantong"
     },
     {
@@ -2007,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1436,
       "user": "peteromallet"
     },
     {
@@ -2022,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 657,
       "user": "apple"
     },
     {
@@ -2037,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 582,
       "user": "runesleo"
     },
     {
@@ -2052,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 386,
       "user": "thellimist"
     },
     {
