@@ -221,21 +221,6 @@
       "user": "Kohki Makimoto"
     },
     {
-      "title": "The Frontend Developer Is Dead (And That’s Good)",
-      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
-      "published_at": "2026-02-25T18:55:28Z",
-      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
-      "tags": [
-        "frontend",
-        "ai",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
-      "source": "Dev.to",
-      "user": "Dustin Myers"
-    },
-    {
       "title": "Stop Wasting Context",
       "url": "https://dev.to/prathamudeshmukh/stop-wasting-context-34b3",
       "published_at": "2026-02-25T12:16:58Z",
@@ -294,6 +279,20 @@
       "user": "Matthew Hou"
     },
     {
+      "title": "Once Upon a Time, Writing Code Was Fun",
+      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
+      "published_at": "2026-02-24T20:11:41Z",
+      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
+      "tags": [
+        "ai",
+        "programming",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
+      "source": "Dev.to",
+      "user": "Abdelrahman Ismail"
+    },
+    {
       "title": "Build Domain-driven HTTP services",
       "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
       "published_at": "2026-02-20T04:21:37Z",
@@ -307,20 +306,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui38f6me5urbe1q3t35l.jpg",
       "source": "Dev.to",
       "user": "Mirza Leka"
-    },
-    {
-      "title": "Once Upon a Time, Writing Code Was Fun",
-      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
-      "published_at": "2026-02-24T20:11:41Z",
-      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
-      "tags": [
-        "ai",
-        "programming",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
-      "source": "Dev.to",
-      "user": "Abdelrahman Ismail"
     },
     {
       "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
@@ -439,6 +424,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
       "source": "Dev.to",
       "user": "Cesar Aguirre"
+    },
+    {
+      "title": "The Frontend Developer Is Dead (And That’s Good)",
+      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
+      "published_at": "2026-02-25T18:55:28Z",
+      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
+      "tags": [
+        "frontend",
+        "ai",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
+      "source": "Dev.to",
+      "user": "Dustin Myers"
     },
     {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2230,
+      "stars": 2249,
       "user": "Panniantong"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "nextlevelbuilder"
     },
     {
@@ -740,21 +740,6 @@
       "user": "khalil la"
     },
     {
-      "title": "The Frontend Developer Is Dead (And That’s Good)",
-      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
-      "published_at": "2026-02-25T18:55:28Z",
-      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
-      "tags": [
-        "frontend",
-        "ai",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
-      "source": "Dev.to",
-      "user": "Dustin Myers"
-    },
-    {
       "title": "Static Imports Are Undermining JavaScript’s Isomorphism",
       "url": "https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm",
       "published_at": "2026-02-25T04:51:33Z",
@@ -827,6 +812,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlc2fw3533schl5jn6au.png",
       "source": "Dev.to",
       "user": "Anower Jahan Shofol"
+    },
+    {
+      "title": "The Frontend Developer Is Dead (And That’s Good)",
+      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
+      "published_at": "2026-02-25T18:55:28Z",
+      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
+      "tags": [
+        "frontend",
+        "ai",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
+      "source": "Dev.to",
+      "user": "Dustin Myers"
     },
     {
       "title": "Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2",
@@ -1080,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "silships"
     }
   ],
@@ -1260,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3566,
+      "stars": 3611,
       "user": "anthropics"
     },
     {
@@ -1275,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2230,
+      "stars": 2249,
       "user": "Panniantong"
     },
     {
@@ -1290,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1425,
+      "stars": 1431,
       "user": "peteromallet"
     },
     {
@@ -1305,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 647,
       "user": "apple"
     },
     {
@@ -1320,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 580,
       "user": "runesleo"
     }
   ],
@@ -1403,21 +1403,6 @@
       "user": "khalil la"
     },
     {
-      "title": "The Frontend Developer Is Dead (And That’s Good)",
-      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
-      "published_at": "2026-02-25T18:55:28Z",
-      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
-      "tags": [
-        "frontend",
-        "ai",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
-      "source": "Dev.to",
-      "user": "Dustin Myers"
-    },
-    {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
       "published_at": "2026-02-22T15:16:30Z",
@@ -1473,6 +1458,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
       "source": "Dev.to",
       "user": "Loaiabdalslam"
+    },
+    {
+      "title": "The Frontend Developer Is Dead (And That’s Good)",
+      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
+      "published_at": "2026-02-25T18:55:28Z",
+      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
+      "tags": [
+        "frontend",
+        "ai",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
+      "source": "Dev.to",
+      "user": "Dustin Myers"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1669,6 +1669,20 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Upgraded embed experience and new embed types in DEV posts",
+      "url": "https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho",
+      "published_at": "2026-02-27T14:29:22Z",
+      "description": "When you paste a URL into your DEV post, if it is embeddable, you now get a handy little tooltip to...",
+      "tags": [
+        "news",
+        "devto",
+        "forem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png",
+      "source": "Dev.to",
+      "user": "Jon Gottfried"
+    },
     {
       "title": "The Agent Skills Gold Rush Has a Malware Problem",
       "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
@@ -1948,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "silships"
     },
     {
@@ -1963,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3566,
+      "stars": 3611,
       "user": "anthropics"
     },
     {
@@ -1978,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2230,
+      "stars": 2249,
       "user": "Panniantong"
     },
     {
@@ -1993,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1425,
+      "stars": 1431,
       "user": "peteromallet"
     },
     {
@@ -2008,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 647,
       "user": "apple"
     },
     {
@@ -2023,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 580,
       "user": "runesleo"
     },
     {
@@ -2038,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 378,
       "user": "thellimist"
     },
     {
@@ -2053,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "nextlevelbuilder"
     },
     {
