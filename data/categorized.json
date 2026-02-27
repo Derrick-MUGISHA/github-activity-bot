@@ -46,20 +46,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
-      "published_at": "2026-02-26T22:42:29Z",
-      "description": "In August of last year, our Gemini Image model, Nano Banana, became a viral sensation, redefining...",
-      "tags": [
-        "nanobanana",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utfv29sqz058e0n9ahc.webp",
-      "source": "Dev.to",
-      "user": "Alisa Fortin"
-    },
-    {
       "title": "The Agent Skills Gold Rush Has a Malware Problem",
       "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
       "published_at": "2026-02-26T16:08:19Z",
@@ -133,6 +119,20 @@
       "user": "Felipe Philipp"
     },
     {
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
+      "published_at": "2026-02-26T22:42:29Z",
+      "description": "In August of last year, our Gemini Image model, Nano Banana, became a viral sensation, redefining...",
+      "tags": [
+        "nanobanana",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utfv29sqz058e0n9ahc.webp",
+      "source": "Dev.to",
+      "user": "Alisa Fortin"
+    },
+    {
       "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
       "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
       "published_at": "2026-02-26T13:33:02Z",
@@ -174,36 +174,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
       "source": "Dev.to",
       "user": "Yaser Al-Najjar"
-    },
-    {
-      "title": "Meet Semantic Components — A Modern Angular UI Library",
-      "url": "https://dev.to/gridou/meet-semantic-components-a-modern-angular-ui-library-3352",
-      "published_at": "2026-02-25T19:26:58Z",
-      "description": "After waiting so long for an Angular UI library that actually met my needs, I decided to stop waiting...",
-      "tags": [
-        "angular",
-        "ui",
-        "tailwindcss",
-        "shadcn"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
-      "source": "Dev.to",
-      "user": "khalil la"
-    },
-    {
-      "title": "Vibe Coding an Audio Engineer Who Never Sleeps",
-      "url": "https://dev.to/deanius/vibe-coding-an-audio-engineer-who-never-sleeps-4o61",
-      "published_at": "2026-02-25T19:09:12Z",
-      "description": "A story of how vibe coding in OpenClaw unlocked musical creativity.",
-      "tags": [
-        "ai",
-        "openclaw",
-        "vibecode",
-        "music"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjwxbnzcrvl9uyq0jrr9m.jpg",
-      "source": "Dev.to",
-      "user": "Dean Radcliffe"
     },
     {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
@@ -338,6 +308,21 @@
       "user": "Sem Gebresilassie"
     },
     {
+      "title": "Vibe Coding an Audio Engineer Who Never Sleeps",
+      "url": "https://dev.to/deanius/vibe-coding-an-audio-engineer-who-never-sleeps-4o61",
+      "published_at": "2026-02-25T19:09:12Z",
+      "description": "A story of how vibe coding in OpenClaw unlocked musical creativity.",
+      "tags": [
+        "ai",
+        "openclaw",
+        "vibecode",
+        "music"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjwxbnzcrvl9uyq0jrr9m.jpg",
+      "source": "Dev.to",
+      "user": "Dean Radcliffe"
+    },
+    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -382,6 +367,36 @@
       "user": "Juan G De Jesus Torres"
     },
     {
+      "title": "A Quick Recovery Guide for AI-Dependent Coders",
+      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
+      "published_at": "2026-02-23T05:00:00Z",
+      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
+    },
+    {
+      "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
+      "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
+      "published_at": "2026-02-25T16:08:56Z",
+      "description": "Recently, I spent some time exploring OpenClaw — an open-source, agentic AI assistant that goes...",
+      "tags": [
+        "ai",
+        "openclaw",
+        "machinelearning",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkahtcoc3pu1euptxogxz.png",
+      "source": "Dev.to",
+      "user": "Praveen Gowthaman"
+    },
+    {
       "title": "The Day Agents Achieved Real Authority, and What It Means for Trust",
       "url": "https://dev.to/kimmaida/the-day-agents-achieved-real-authority-and-what-it-means-for-trust-2e4",
       "published_at": "2026-02-25T19:37:13Z",
@@ -411,19 +426,19 @@
       "user": "Loaiabdalslam"
     },
     {
-      "title": "A Quick Recovery Guide for AI-Dependent Coders",
-      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
-      "published_at": "2026-02-23T05:00:00Z",
-      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+      "title": "Meet Semantic Components — A Modern Angular UI Library",
+      "url": "https://dev.to/gridou/meet-semantic-components-a-modern-angular-ui-library-3352",
+      "published_at": "2026-02-25T19:26:58Z",
+      "description": "After waiting so long for an Angular UI library that actually met my needs, I decided to stop waiting...",
       "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
+        "angular",
+        "ui",
+        "tailwindcss",
+        "shadcn"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
       "source": "Dev.to",
-      "user": "Cesar Aguirre"
+      "user": "khalil la"
     },
     {
       "title": "The Frontend Developer Is Dead (And That’s Good)",
@@ -454,21 +469,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
       "source": "Dev.to",
       "user": "Ale"
-    },
-    {
-      "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
-      "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
-      "published_at": "2026-02-25T16:08:56Z",
-      "description": "Recently, I spent some time exploring OpenClaw — an open-source, agentic AI assistant that goes...",
-      "tags": [
-        "ai",
-        "openclaw",
-        "machinelearning",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkahtcoc3pu1euptxogxz.png",
-      "source": "Dev.to",
-      "user": "Praveen Gowthaman"
     },
     {
       "title": "The Increasing Need for Human Connection in the Age of AI",
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2249,
+      "stars": 2273,
       "user": "Panniantong"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "nextlevelbuilder"
     },
     {
@@ -723,21 +723,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fez7fx6i3lhwlxh7vosms.png",
       "source": "Dev.to",
       "user": "Emeruche Ikenna"
-    },
-    {
-      "title": "Meet Semantic Components — A Modern Angular UI Library",
-      "url": "https://dev.to/gridou/meet-semantic-components-a-modern-angular-ui-library-3352",
-      "published_at": "2026-02-25T19:26:58Z",
-      "description": "After waiting so long for an Angular UI library that actually met my needs, I decided to stop waiting...",
-      "tags": [
-        "angular",
-        "ui",
-        "tailwindcss",
-        "shadcn"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
-      "source": "Dev.to",
-      "user": "khalil la"
     },
     {
       "title": "Static Imports Are Undermining JavaScript’s Isomorphism",
@@ -812,6 +797,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlc2fw3533schl5jn6au.png",
       "source": "Dev.to",
       "user": "Anower Jahan Shofol"
+    },
+    {
+      "title": "Meet Semantic Components — A Modern Angular UI Library",
+      "url": "https://dev.to/gridou/meet-semantic-components-a-modern-angular-ui-library-3352",
+      "published_at": "2026-02-25T19:26:58Z",
+      "description": "After waiting so long for an Angular UI library that actually met my needs, I decided to stop waiting...",
+      "tags": [
+        "angular",
+        "ui",
+        "tailwindcss",
+        "shadcn"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
+      "source": "Dev.to",
+      "user": "khalil la"
     },
     {
       "title": "The Frontend Developer Is Dead (And That’s Good)",
@@ -1020,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "mksglu"
     },
     {
@@ -1065,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "joeseesun"
     },
     {
@@ -1080,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "silships"
     }
   ],
@@ -1260,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3611,
+      "stars": 3658,
       "user": "anthropics"
     },
     {
@@ -1275,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2249,
+      "stars": 2273,
       "user": "Panniantong"
     },
     {
@@ -1290,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1431,
+      "stars": 1434,
       "user": "peteromallet"
     },
     {
@@ -1305,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 654,
       "user": "apple"
     },
     {
@@ -1320,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 581,
       "user": "runesleo"
     }
   ],
@@ -1388,21 +1388,6 @@
   ],
   "WebDev": [
     {
-      "title": "Meet Semantic Components — A Modern Angular UI Library",
-      "url": "https://dev.to/gridou/meet-semantic-components-a-modern-angular-ui-library-3352",
-      "published_at": "2026-02-25T19:26:58Z",
-      "description": "After waiting so long for an Angular UI library that actually met my needs, I decided to stop waiting...",
-      "tags": [
-        "angular",
-        "ui",
-        "tailwindcss",
-        "shadcn"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
-      "source": "Dev.to",
-      "user": "khalil la"
-    },
-    {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
       "published_at": "2026-02-22T15:16:30Z",
@@ -1458,6 +1443,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
       "source": "Dev.to",
       "user": "Loaiabdalslam"
+    },
+    {
+      "title": "Meet Semantic Components — A Modern Angular UI Library",
+      "url": "https://dev.to/gridou/meet-semantic-components-a-modern-angular-ui-library-3352",
+      "published_at": "2026-02-25T19:26:58Z",
+      "description": "After waiting so long for an Angular UI library that actually met my needs, I decided to stop waiting...",
+      "tags": [
+        "angular",
+        "ui",
+        "tailwindcss",
+        "shadcn"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
+      "source": "Dev.to",
+      "user": "khalil la"
     },
     {
       "title": "The Frontend Developer Is Dead (And That’s Good)",
@@ -1902,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "mksglu"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "joeseesun"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "silships"
     },
     {
@@ -1977,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3611,
+      "stars": 3658,
       "user": "anthropics"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2249,
+      "stars": 2273,
       "user": "Panniantong"
     },
     {
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1431,
+      "stars": 1434,
       "user": "peteromallet"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 654,
       "user": "apple"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 581,
       "user": "runesleo"
     },
     {
@@ -2052,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 382,
       "user": "thellimist"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "nextlevelbuilder"
     },
     {
