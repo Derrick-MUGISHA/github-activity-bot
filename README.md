@@ -219,7 +219,7 @@ npm run test
 - [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg) _[Dev.to]_
 - [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j) _[Dev.to]_
 
-_Last automated update: Fri, 27 Feb 2026 22:23:52 CAT_
+_Last automated update: Fri, 27 Feb 2026 22:51:59 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Fri, 27 Feb 2026 22:23:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Feb 2026 20:23:52 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Feb 2026 20:51:59 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
