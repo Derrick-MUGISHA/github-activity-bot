@@ -45,18 +45,19 @@
       "user": "Mei Park"
     },
     {
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
-      "published_at": "2026-02-26T22:42:29Z",
-      "description": "In August of last year, our Gemini Image model, Nano Banana, became a viral sensation, redefining...",
+      "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
+      "url": "https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8",
+      "published_at": "2026-02-27T03:00:00Z",
+      "description": "Good morning! Good afternoon! Good Evening!   Welcome to our first DEV Weekend Challenge, a short...",
       "tags": [
-        "nanobanana",
-        "gemini",
+        "devchallenge",
+        "weekendchallenge",
+        "webdev",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utfv29sqz058e0n9ahc.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymcxcb34vr6ew58onbey.png",
       "source": "Dev.to",
-      "user": "Alisa Fortin"
+      "user": "Jess Lee"
     },
     {
       "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
@@ -71,6 +72,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flfdllhjk854joak0k2x1.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
+      "published_at": "2026-02-26T22:42:29Z",
+      "description": "In August of last year, our Gemini Image model, Nano Banana, became a viral sensation, redefining...",
+      "tags": [
+        "nanobanana",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utfv29sqz058e0n9ahc.webp",
+      "source": "Dev.to",
+      "user": "Alisa Fortin"
     },
     {
       "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
@@ -248,21 +263,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frj53bn5v65z4bw3ymeb7.png",
       "source": "Dev.to",
       "user": "Prathamesh Deshmukh"
-    },
-    {
-      "title": "Get React out of my terminal: a case for headless mode",
-      "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
-      "published_at": "2026-02-22T15:36:54Z",
-      "description": "Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cli",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
-      "source": "Dev.to",
-      "user": "Anton"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1784,
+      "stars": 1897,
       "user": "Panniantong"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "quailyquaily"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 180,
       "user": "nextlevelbuilder"
     },
     {
@@ -811,21 +811,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F663fj2k33nipbhhpj51s.png",
       "source": "Dev.to",
       "user": "Alex Gusev"
-    },
-    {
-      "title": "Get React out of my terminal: a case for headless mode",
-      "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
-      "published_at": "2026-02-22T15:36:54Z",
-      "description": "Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cli",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
-      "source": "Dev.to",
-      "user": "Anton"
     },
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
@@ -1078,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "jesselau76"
     },
     {
@@ -1108,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 145,
       "user": "joeseesun"
     },
     {
@@ -1129,6 +1114,19 @@
   ],
   "Python": [
     {
+      "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
+      "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
+      "published_at": "2026-02-24T18:35:30Z",
+      "description": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
+      "tags": [
+        "rust",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
+      "source": "Dev.to",
+      "user": "Yaser Al-Najjar"
+    },
+    {
       "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe",
       "published_at": "2026-02-24T23:44:05Z",
@@ -1142,19 +1140,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg",
       "source": "Dev.to",
       "user": "Pascal CESCATO"
-    },
-    {
-      "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
-      "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
-      "published_at": "2026-02-24T18:35:30Z",
-      "description": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
-      "tags": [
-        "rust",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
-      "source": "Dev.to",
-      "user": "Yaser Al-Najjar"
     },
     {
       "title": "I built an API that detects chess tactical patterns from FEN and PGN",
@@ -1303,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2493,
+      "stars": 2710,
       "user": "anthropics"
     },
     {
@@ -1318,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1784,
+      "stars": 1897,
       "user": "Panniantong"
     },
     {
@@ -1333,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1340,
       "user": "peteromallet"
     },
     {
@@ -1348,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 574,
       "user": "apple"
     },
     {
@@ -1363,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 537,
       "user": "runesleo"
     }
   ],
@@ -1412,21 +1397,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgmyxrm2gj50agll4uild.png",
       "source": "Dev.to",
       "user": "iapilgrim"
-    },
-    {
-      "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
-      "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
-      "published_at": "2026-02-24T19:26:42Z",
-      "description": "During the early hours of the morning, I started receiving Gitaly alerts — memory spikes that weren't...",
-      "tags": [
-        "gitlab",
-        "linux",
-        "kernel",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
-      "source": "Dev.to",
-      "user": "Camila"
     },
     {
       "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
@@ -1728,21 +1698,6 @@
   ],
   "Tools": [
     {
-      "title": "The Developer I'm Grateful I Never Became",
-      "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
-      "published_at": "2026-02-25T22:40:07Z",
-      "description": "Inspired by—but not aligned with—\"The $0 Developer Phase—And How Dev.to Pulled Me Out\" by Art...",
-      "tags": [
-        "career",
-        "webdev",
-        "beginners",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
-      "source": "Dev.to",
-      "user": "Narnaiezzsshaa Truong"
-    },
-    {
       "title": "The Agent Skills Gold Rush Has a Malware Problem",
       "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
       "published_at": "2026-02-26T16:08:19Z",
@@ -1787,6 +1742,21 @@
       "user": "Gus"
     },
     {
+      "title": "The Developer I'm Grateful I Never Became",
+      "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
+      "published_at": "2026-02-25T22:40:07Z",
+      "description": "Inspired by—but not aligned with—\"The $0 Developer Phase—And How Dev.to Pulled Me Out\" by Art...",
+      "tags": [
+        "career",
+        "webdev",
+        "beginners",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
+      "source": "Dev.to",
+      "user": "Narnaiezzsshaa Truong"
+    },
+    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -1815,21 +1785,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
       "source": "Dev.to",
       "user": "Kohki Makimoto"
-    },
-    {
-      "title": "Get React out of my terminal: a case for headless mode",
-      "url": "https://dev.to/antonmry/get-react-out-of-my-terminal-a-case-for-headless-mode-44ie",
-      "published_at": "2026-02-22T15:36:54Z",
-      "description": "Code agents are fun. I use them every day. They fit neatly into the tools I already use: Bash,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cli",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2gim0u5brjjtkf0jxuv3.png",
-      "source": "Dev.to",
-      "user": "Anton"
     },
     {
       "title": "Optimizing Shared GitLab Pipelines: Flexibility and Maintainability",
@@ -1887,21 +1842,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
       "source": "Dev.to",
       "user": "Matthew Hou"
-    },
-    {
-      "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
-      "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
-      "published_at": "2026-02-24T19:26:42Z",
-      "description": "During the early hours of the morning, I started receiving Gitaly alerts — memory spikes that weren't...",
-      "tags": [
-        "gitlab",
-        "linux",
-        "kernel",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfmnt2az88j2gf4zq221.png",
-      "source": "Dev.to",
-      "user": "Camila"
     },
     {
       "title": "Accessibility Testing with Playwright Assertions",
@@ -2004,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "jesselau76"
     },
     {
@@ -2034,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 145,
       "user": "joeseesun"
     },
     {
@@ -2064,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2493,
+      "stars": 2710,
       "user": "anthropics"
     },
     {
@@ -2079,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1784,
+      "stars": 1897,
       "user": "Panniantong"
     },
     {
@@ -2094,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1340,
       "user": "peteromallet"
     },
     {
@@ -2109,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 574,
       "user": "apple"
     },
     {
@@ -2124,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 537,
       "user": "runesleo"
     },
     {
@@ -2139,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 333,
       "user": "thellimist"
     },
     {
@@ -2154,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "quailyquaily"
     },
     {
@@ -2169,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 186,
       "user": "bjarneo"
     },
     {
@@ -2184,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 180,
       "user": "nextlevelbuilder"
     },
     {
