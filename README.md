@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-27 6:00 CAT)
+## 📅 Latest Updates (2026-02-27 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,20 +205,20 @@ npm run test
 - [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg) _[Dev.to]_
 - [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1) _[Dev.to]_
 - [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j) _[Dev.to]_
-- [How I Built a Semgrep-Like Scanner for AI Agent Skills](https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh) _[Dev.to]_
 - [Perfect Claude Code Notifications Setup with Tailscale and ntfy](https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1) _[Dev.to]_
-- [A Quick Recovery Guide for AI-Dependent Coders](https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112) _[Dev.to]_
 - [The Developer I'm Grateful I Never Became](https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d) _[Dev.to]_
 - [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g) _[Dev.to]_
 - [How Accessibility Tree Formatting Affects Token Cost in Browser MCPs](https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a) _[Dev.to]_
+- [How I Built a Semgrep-Like Scanner for AI Agent Skills](https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh) _[Dev.to]_
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 - [I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development](https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7) _[Dev.to]_
 - [Meet Semantic Components — A Modern Angular UI Library](https://dev.to/gridou/meet-semantic-components-a-modern-angular-ui-library-3352) _[Dev.to]_
 - [Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.](https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe) _[Dev.to]_
 - [Vibe Coding an Audio Engineer Who Never Sleeps](https://dev.to/deanius/vibe-coding-an-audio-engineer-who-never-sleeps-4o61) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
+- [The Frontend Developer Is Dead (And That’s Good)](https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43) _[Dev.to]_
 
-_Last automated update: Fri, 27 Feb 2026 06:55:23 CAT_
+_Last automated update: Fri, 27 Feb 2026 07:50:24 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Feb 2026 06:55:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Feb 2026 04:55:23 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Feb 2026 05:50:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

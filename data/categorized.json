@@ -88,21 +88,6 @@
       "user": "Alisa Fortin"
     },
     {
-      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
-      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
-      "published_at": "2026-02-26T13:33:02Z",
-      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
-      "tags": [
-        "security",
-        "ai",
-        "opensource",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
-      "source": "Dev.to",
-      "user": "Gus"
-    },
-    {
       "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
       "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
       "published_at": "2026-02-26T08:08:54Z",
@@ -116,21 +101,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
-    },
-    {
-      "title": "A Quick Recovery Guide for AI-Dependent Coders",
-      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
-      "published_at": "2026-02-23T05:00:00Z",
-      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
     },
     {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
@@ -161,6 +131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
       "source": "Dev.to",
       "user": "kuroko"
+    },
+    {
+      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
+      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
+      "published_at": "2026-02-26T13:33:02Z",
+      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
+      "tags": [
+        "security",
+        "ai",
+        "opensource",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
+      "source": "Dev.to",
+      "user": "Gus"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -469,6 +454,21 @@
       "user": "Ale"
     },
     {
+      "title": "A Quick Recovery Guide for AI-Dependent Coders",
+      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
+      "published_at": "2026-02-23T05:00:00Z",
+      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
+    },
+    {
       "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
       "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
       "published_at": "2026-02-25T16:08:56Z",
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1965,
+      "stars": 1992,
       "user": "Panniantong"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 200,
       "user": "nextlevelbuilder"
     },
     {
@@ -1093,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "joeseesun"
     },
     {
@@ -1288,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2845,
+      "stars": 2909,
       "user": "anthropics"
     },
     {
@@ -1303,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1965,
+      "stars": 1992,
       "user": "Panniantong"
     },
     {
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1360,
+      "stars": 1370,
       "user": "peteromallet"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 599,
       "user": "apple"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 548,
       "user": "runesleo"
     }
   ],
@@ -1727,21 +1727,6 @@
       "user": "Art light"
     },
     {
-      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
-      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
-      "published_at": "2026-02-26T13:33:02Z",
-      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
-      "tags": [
-        "security",
-        "ai",
-        "opensource",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
-      "source": "Dev.to",
-      "user": "Gus"
-    },
-    {
       "title": "The Developer I'm Grateful I Never Became",
       "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
       "published_at": "2026-02-25T22:40:07Z",
@@ -1755,6 +1740,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
       "source": "Dev.to",
       "user": "Narnaiezzsshaa Truong"
+    },
+    {
+      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
+      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
+      "published_at": "2026-02-26T13:33:02Z",
+      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
+      "tags": [
+        "security",
+        "ai",
+        "opensource",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
+      "source": "Dev.to",
+      "user": "Gus"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "joeseesun"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2845,
+      "stars": 2909,
       "user": "anthropics"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1965,
+      "stars": 1992,
       "user": "Panniantong"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1360,
+      "stars": 1370,
       "user": "peteromallet"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 599,
       "user": "apple"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 548,
       "user": "runesleo"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "thellimist"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 200,
       "user": "nextlevelbuilder"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "bjarneo"
     },
     {
