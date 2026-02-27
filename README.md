@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-27 19:00 CAT)
+## 📅 Latest Updates (2026-02-27 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo) _[Dev.to]_
 - [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f) _[Dev.to]_
 
-_Last automated update: Fri, 27 Feb 2026 19:32:44 CAT_
+_Last automated update: Fri, 27 Feb 2026 20:05:28 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Feb 2026 19:32:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Feb 2026 17:32:44 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Feb 2026 18:05:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
