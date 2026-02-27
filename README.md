@@ -149,10 +149,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png" width="200" alt="Upgraded embed experience and new embed types in DEV posts" />
+    <a href="https://dev.to/dannwaneri/the-token-economy-3cd9">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg" width="200" alt="The Token Economy" />
       <br/>
-      <b>Upgraded embed experience and new embed types in D...</b>
+      <b>The Token Economy</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -160,10 +160,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/dannwaneri/the-token-economy-3cd9">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg" width="200" alt="The Token Economy" />
+    <a href="https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png" width="200" alt="Upgraded embed experience and new embed types in DEV posts" />
       <br/>
-      <b>The Token Economy</b>
+      <b>Upgraded embed experience and new embed types in D...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,8 +195,8 @@ npm run test
 
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h33) _[Dev.to]_
 - [Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.](https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8) _[Dev.to]_
-- [Upgraded embed experience and new embed types in DEV posts](https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho) _[Dev.to]_
 - [The Token Economy](https://dev.to/dannwaneri/the-token-economy-3cd9) _[Dev.to]_
+- [Upgraded embed experience and new embed types in DEV posts](https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho) _[Dev.to]_
 - [Join the "Built with Google Gemini: Writing Challenge" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!](https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk) _[Dev.to]_
 - [I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest](https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h) _[Dev.to]_
 - [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg) _[Dev.to]_
 - [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 01:20:49 CAT_
+_Last automated update: Sat, 28 Feb 2026 01:46:16 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 28 Feb 2026 01:20:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Feb 2026 23:20:49 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Feb 2026 23:46:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
