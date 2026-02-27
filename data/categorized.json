@@ -439,21 +439,6 @@
       "user": "Loaiabdalslam"
     },
     {
-      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
-      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
-      "published_at": "2026-02-13T19:52:20Z",
-      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
-      "tags": [
-        "stripe",
-        "saas",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
-      "source": "Dev.to",
-      "user": "Ale"
-    },
-    {
       "title": "A Quick Recovery Guide for AI-Dependent Coders",
       "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
       "published_at": "2026-02-23T05:00:00Z",
@@ -467,6 +452,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
       "source": "Dev.to",
       "user": "Cesar Aguirre"
+    },
+    {
+      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
+      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
+      "published_at": "2026-02-13T19:52:20Z",
+      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
+      "tags": [
+        "stripe",
+        "saas",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
+      "source": "Dev.to",
+      "user": "Ale"
     },
     {
       "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2032,
+      "stars": 2060,
       "user": "Panniantong"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "quailyquaily"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "nextlevelbuilder"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "taigrr"
     }
   ],
@@ -1093,24 +1093,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "silships"
     }
   ],
   "Python": [
-    {
-      "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
-      "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
-      "published_at": "2026-02-24T18:35:30Z",
-      "description": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
-      "tags": [
-        "rust",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
-      "source": "Dev.to",
-      "user": "Yaser Al-Najjar"
-    },
     {
       "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe",
@@ -1125,6 +1112,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg",
       "source": "Dev.to",
       "user": "Pascal CESCATO"
+    },
+    {
+      "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
+      "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
+      "published_at": "2026-02-24T18:35:30Z",
+      "description": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
+      "tags": [
+        "rust",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
+      "source": "Dev.to",
+      "user": "Yaser Al-Najjar"
     },
     {
       "title": "I built an API that detects chess tactical patterns from FEN and PGN",
@@ -1273,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2993,
+      "stars": 3067,
       "user": "anthropics"
     },
     {
@@ -1288,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2032,
+      "stars": 2060,
       "user": "Panniantong"
     },
     {
@@ -1303,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1379,
+      "stars": 1386,
       "user": "peteromallet"
     },
     {
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 618,
       "user": "apple"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 559,
       "user": "runesleo"
     }
   ],
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "silships"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2993,
+      "stars": 3067,
       "user": "anthropics"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2032,
+      "stars": 2060,
       "user": "Panniantong"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1379,
+      "stars": 1386,
       "user": "peteromallet"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 618,
       "user": "apple"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 559,
       "user": "runesleo"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "thellimist"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "quailyquaily"
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "nextlevelbuilder"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "taigrr"
     }
   ]
