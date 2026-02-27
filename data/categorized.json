@@ -31,21 +31,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "A Founder’s Blueprint to Creating a Technical Sales Team",
-      "url": "https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f",
-      "published_at": "2026-02-27T17:52:39Z",
-      "description": "I have found that technical founders tend to treat Go-To-Market (GTM) as an afterthought (or a black...",
-      "tags": [
-        "startup",
-        "gtm",
-        "product",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nbmfj79d55rwrfyzgvs.png",
-      "source": "Dev.to",
-      "user": "Abraham Gomez"
-    },
-    {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
       "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
       "published_at": "2026-02-25T17:41:43Z",
@@ -61,6 +46,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
+      "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
+      "published_at": "2026-02-27T15:27:49Z",
+      "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
+      "tags": [
+        "ai",
+        "architecture",
+        "devops",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnbj661po1w5k9jzuqjz.png",
+      "source": "Dev.to",
+      "user": "Mike"
+    },
+    {
       "title": "Using tox to Test a Django App Across Multiple Django Versions",
       "url": "https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9",
       "published_at": "2026-02-27T18:53:25Z",
@@ -74,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ubpltdhsx0n7owyd5ol.png",
       "source": "Dev.to",
       "user": "Aidas Bendoraitis"
+    },
+    {
+      "title": "A Founder’s Blueprint to Creating a Technical Sales Team",
+      "url": "https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f",
+      "published_at": "2026-02-27T17:52:39Z",
+      "description": "I have found that technical founders tend to treat Go-To-Market (GTM) as an afterthought (or a black...",
+      "tags": [
+        "startup",
+        "gtm",
+        "product",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nbmfj79d55rwrfyzgvs.png",
+      "source": "Dev.to",
+      "user": "Abraham Gomez"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -248,6 +263,109 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcbxwrtg3j7npg6ub4mmo.png",
       "source": "Dev.to",
       "user": "Ian Wilson"
+    },
+    {
+      "title": "The Agent Skills Gold Rush Has a Malware Problem",
+      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
+      "published_at": "2026-02-26T16:08:19Z",
+      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
+      "tags": [
+        "devtools",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
+      "source": "Dev.to",
+      "user": "Mei Park"
+    },
+    {
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
+      "tags": [
+        "ai",
+        "testing",
+        "discuss",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
+      "source": "Dev.to",
+      "user": "Matthew Hou"
+    },
+    {
+      "title": "Once Upon a Time, Writing Code Was Fun",
+      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
+      "published_at": "2026-02-24T20:11:41Z",
+      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
+      "tags": [
+        "ai",
+        "programming",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
+      "source": "Dev.to",
+      "user": "Abdelrahman Ismail"
+    },
+    {
+      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
+      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
+      "published_at": "2026-02-26T08:08:54Z",
+      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
+      "tags": [
+        "claudecode",
+        "tailscale",
+        "ntfy",
+        "docker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
+      "source": "Dev.to",
+      "user": "Felipe Philipp"
+    },
+    {
+      "title": "Build Domain-driven HTTP services",
+      "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
+      "published_at": "2026-02-20T04:21:37Z",
+      "description": "You're building ASP .NET web APIs that need to communicate with external APIs.  The UserRegister API...",
+      "tags": [
+        "webdev",
+        "dotnet",
+        "restapi",
+        "csharp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui38f6me5urbe1q3t35l.jpg",
+      "source": "Dev.to",
+      "user": "Mirza Leka"
+    },
+    {
+      "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
+      "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
+      "published_at": "2026-02-24T19:29:47Z",
+      "description": "A Quick Recovery Guide for AI-Dependent Coders       Cesar...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
+    },
+    {
+      "title": "Vibe Coding an Audio Engineer Who Never Sleeps",
+      "url": "https://dev.to/deanius/vibe-coding-an-audio-engineer-who-never-sleeps-4o61",
+      "published_at": "2026-02-25T19:09:12Z",
+      "description": "A story of how vibe coding in OpenClaw unlocked musical creativity.",
+      "tags": [
+        "ai",
+        "openclaw",
+        "vibecode",
+        "music"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjwxbnzcrvl9uyq0jrr9m.jpg",
+      "source": "Dev.to",
+      "user": "Dean Radcliffe"
     },
     {
       "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
@@ -428,51 +546,6 @@
       "user": "Loaiabdalslam"
     },
     {
-      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
-      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
-      "published_at": "2026-02-13T19:52:20Z",
-      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
-      "tags": [
-        "stripe",
-        "saas",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
-      "source": "Dev.to",
-      "user": "Ale"
-    },
-    {
-      "title": "The Increasing Need for Human Connection in the Age of AI",
-      "url": "https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd",
-      "published_at": "2026-02-24T12:02:47Z",
-      "description": "Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...",
-      "tags": [
-        "ai",
-        "community",
-        "career",
-        "growth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuz3d3j9k7zvirrlecnp.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
-    },
-    {
-      "title": "38 Issues: Code Review Agent Showdown between BugBot, Copilot and Claude",
-      "url": "https://dev.to/terence/38-issues-showdown-between-bugbot-copilot-and-claude-2o7e",
-      "published_at": "2026-02-24T13:45:30Z",
-      "description": "AI code review tools promise to catch what human reviewers miss. But which one actually delivers? I...",
-      "tags": [
-        "ai",
-        "codequality",
-        "dotnet",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp5d6rb0k0a4h3x4ea4wq.png",
-      "source": "Dev.to",
-      "user": "Terence Tham"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -616,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2323,
+      "stars": 2325,
       "user": "Panniantong"
     },
     {
@@ -631,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "nextlevelbuilder"
     },
     {
@@ -814,66 +887,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
       "source": "Dev.to",
       "user": "khalil la"
-    },
-    {
-      "title": "Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2",
-      "url": "https://dev.to/fridzema/announcement-oxidedock-rust-vue-3-desktop-starter-built-on-tauri-v2-3d6a",
-      "published_at": "2026-02-16T09:18:29Z",
-      "description": "I built a Tauri v2 + Vue 3 desktop starter so you don't have to wire up the boring stuff. I got...",
-      "tags": [
-        "opensource",
-        "rust",
-        "showdev",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8of7zouja9n3nxg13usa.png",
-      "source": "Dev.to",
-      "user": "Robert Fridzema"
-    },
-    {
-      "title": "Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js",
-      "url": "https://dev.to/arindamdawn/stop-wrestling-with-json-ld-type-safe-structured-data-for-nextjs-38on",
-      "published_at": "2026-02-16T08:31:48Z",
-      "description": "Structured data is one of those things every developer knows they should implement, but few actually...",
-      "tags": [
-        "nextjs",
-        "seo",
-        "jsonld",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyphiwpeupxxzg5ukesg.png",
-      "source": "Dev.to",
-      "user": "Arindam Dawn"
-    },
-    {
-      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
-      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
-      "published_at": "2026-02-13T19:52:20Z",
-      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
-      "tags": [
-        "stripe",
-        "saas",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
-      "source": "Dev.to",
-      "user": "Ale"
-    },
-    {
-      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
-      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
-      "published_at": "2026-02-12T06:27:14Z",
-      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
-      "tags": [
-        "supabase",
-        "react",
-        "tutorial",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
-      "source": "Dev.to",
-      "user": "Fongoh Martin T."
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1067,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "Sir-Scuzza"
     }
   ],
@@ -1264,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3968,
+      "stars": 3995,
       "user": "anthropics"
     },
     {
@@ -1279,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2323,
+      "stars": 2325,
       "user": "Panniantong"
     },
     {
@@ -1309,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 665,
       "user": "apple"
     },
     {
@@ -1329,6 +1342,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
+      "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
+      "published_at": "2026-02-27T15:27:49Z",
+      "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
+      "tags": [
+        "ai",
+        "architecture",
+        "devops",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnbj661po1w5k9jzuqjz.png",
+      "source": "Dev.to",
+      "user": "Mike"
+    },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
@@ -1358,6 +1386,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgmyxrm2gj50agll4uild.png",
       "source": "Dev.to",
       "user": "iapilgrim"
+    },
+    {
+      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
+      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
+      "published_at": "2026-02-26T08:08:54Z",
+      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
+      "tags": [
+        "claudecode",
+        "tailscale",
+        "ntfy",
+        "docker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
+      "source": "Dev.to",
+      "user": "Felipe Philipp"
     },
     {
       "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
@@ -1476,23 +1519,7 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [
-    {
-      "title": "I built a framework that lets you write native apps with YAML and Lua",
-      "url": "https://dev.to/josejuanqm/i-built-a-framework-that-lets-you-write-native-apps-with-yaml-and-lua-38lf",
-      "published_at": "2026-02-23T23:56:02Z",
-      "description": "I've been doing native mobile development for a while and one thing that always bugged me was the...",
-      "tags": [
-        "swift",
-        "kotlin",
-        "mobile",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxiglhwogug06jvt15xrc.png",
-      "source": "Dev.to",
-      "user": "Jose Quintero"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
     {
       "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
@@ -1540,21 +1567,6 @@
     }
   ],
   "Database": [
-    {
-      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
-      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
-      "published_at": "2026-02-12T06:27:14Z",
-      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
-      "tags": [
-        "supabase",
-        "react",
-        "tutorial",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
-      "source": "Dev.to",
-      "user": "Fongoh Martin T."
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1790,6 +1802,35 @@
       "user": "Ian Wilson"
     },
     {
+      "title": "The Agent Skills Gold Rush Has a Malware Problem",
+      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
+      "published_at": "2026-02-26T16:08:19Z",
+      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
+      "tags": [
+        "devtools",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
+      "source": "Dev.to",
+      "user": "Mei Park"
+    },
+    {
+      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+      "published_at": "2026-02-24T03:56:47Z",
+      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
+      "tags": [
+        "ai",
+        "testing",
+        "discuss",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
+      "source": "Dev.to",
+      "user": "Matthew Hou"
+    },
+    {
       "title": "Accessibility Testing with Playwright Assertions",
       "url": "https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i",
       "published_at": "2026-02-19T02:03:09Z",
@@ -1864,21 +1905,6 @@
       "user": "David Alcala"
     },
     {
-      "title": "38 Issues: Code Review Agent Showdown between BugBot, Copilot and Claude",
-      "url": "https://dev.to/terence/38-issues-showdown-between-bugbot-copilot-and-claude-2o7e",
-      "published_at": "2026-02-24T13:45:30Z",
-      "description": "AI code review tools promise to catch what human reviewers miss. But which one actually delivers? I...",
-      "tags": [
-        "ai",
-        "codequality",
-        "dotnet",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp5d6rb0k0a4h3x4ea4wq.png",
-      "source": "Dev.to",
-      "user": "Terence Tham"
-    },
-    {
       "title": "mksglu/claude-context-mode - Stop losing context to large outputs.",
       "url": "https://github.com/mksglu/claude-context-mode",
       "published_at": "2026-02-23T05:56:28Z",
@@ -1950,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "Sir-Scuzza"
     },
     {
@@ -1965,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3968,
+      "stars": 3995,
       "user": "anthropics"
     },
     {
@@ -1980,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2323,
+      "stars": 2325,
       "user": "Panniantong"
     },
     {
@@ -2010,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 665,
       "user": "apple"
     },
     {
@@ -2040,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 404,
       "user": "thellimist"
     },
     {
@@ -2055,8 +2081,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "nextlevelbuilder"
+    },
+    {
+      "title": "bjarneo/cliamp - Terminal Winamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "published_at": "2026-02-24T07:18:59Z",
+      "description": "Terminal Winamp",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
+      "source": "GitHub",
+      "stars": 221,
+      "user": "bjarneo"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -2072,21 +2113,6 @@
       "source": "GitHub",
       "stars": 220,
       "user": "quailyquaily"
-    },
-    {
-      "title": "bjarneo/cliamp - Terminal Winamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "published_at": "2026-02-24T07:18:59Z",
-      "description": "Terminal Winamp",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "bjarneo"
     },
     {
       "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
