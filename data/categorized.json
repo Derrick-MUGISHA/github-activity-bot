@@ -661,19 +661,19 @@
       "user": "veesahni"
     },
     {
-      "title": "vava-nessa/free-coding-models - Find the fastest coding LLM models in seconds",
-      "url": "https://github.com/vava-nessa/free-coding-models",
-      "published_at": "2026-02-20T23:12:50Z",
-      "description": "Find the fastest coding LLM models in seconds",
+      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
+      "published_at": "2026-02-21T23:34:11Z",
+      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
       "source": "GitHub",
-      "stars": 390,
-      "user": "vava-nessa"
+      "stars": 107,
+      "user": "DaveMoudy"
     },
     {
       "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1778,
+      "stars": 1784,
       "user": "Panniantong"
     },
     {
@@ -719,6 +719,21 @@
       "source": "GitHub",
       "stars": 162,
       "user": "nextlevelbuilder"
+    },
+    {
+      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "url": "https://github.com/taigrr/spank",
+      "published_at": "2026-02-23T00:43:05Z",
+      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "taigrr"
     }
   ],
   "JavaScript": [
@@ -1037,21 +1052,6 @@
       "user": "velmu"
     },
     {
-      "title": "vava-nessa/free-coding-models - Find the fastest coding LLM models in seconds",
-      "url": "https://github.com/vava-nessa/free-coding-models",
-      "published_at": "2026-02-20T23:12:50Z",
-      "description": "Find the fastest coding LLM models in seconds",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
-      "source": "GitHub",
-      "stars": 390,
-      "user": "vava-nessa"
-    },
-    {
       "title": "mksglu/claude-context-mode - Stop losing context to large outputs.",
       "url": "https://github.com/mksglu/claude-context-mode",
       "published_at": "2026-02-23T05:56:28Z",
@@ -1110,6 +1110,21 @@
       "source": "GitHub",
       "stars": 139,
       "user": "joeseesun"
+    },
+    {
+      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
+      "published_at": "2026-02-21T23:34:11Z",
+      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "DaveMoudy"
     }
   ],
   "Python": [
@@ -1288,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2479,
+      "stars": 2493,
       "user": "anthropics"
     },
     {
@@ -1303,23 +1318,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1778,
+      "stars": 1784,
       "user": "Panniantong"
-    },
-    {
-      "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
-      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
-      "published_at": "2026-02-20T01:04:23Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
-      "source": "GitHub",
-      "stars": 1344,
-      "user": "ShinMegamiBoson"
     },
     {
       "title": "peteromallet/dataclaw - GitHub Repository",
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1305,
       "user": "peteromallet"
     },
     {
@@ -1348,8 +1348,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 525,
       "user": "apple"
+    },
+    {
+      "title": "runesleo/x-reader - Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "url": "https://github.com/runesleo/x-reader",
+      "published_at": "2026-02-22T08:47:26Z",
+      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
+      "source": "GitHub",
+      "stars": 515,
+      "user": "runesleo"
     }
   ],
   "DevOps": [
@@ -1963,21 +1978,6 @@
       "user": "Terence Tham"
     },
     {
-      "title": "vava-nessa/free-coding-models - Find the fastest coding LLM models in seconds",
-      "url": "https://github.com/vava-nessa/free-coding-models",
-      "published_at": "2026-02-20T23:12:50Z",
-      "description": "Find the fastest coding LLM models in seconds",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5466264?v=4",
-      "source": "GitHub",
-      "stars": 390,
-      "user": "vava-nessa"
-    },
-    {
       "title": "mksglu/claude-context-mode - Stop losing context to large outputs.",
       "url": "https://github.com/mksglu/claude-context-mode",
       "published_at": "2026-02-23T05:56:28Z",
@@ -2038,6 +2038,21 @@
       "user": "joeseesun"
     },
     {
+      "title": "DaveMoudy/SalesforceDocGen - This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "url": "https://github.com/DaveMoudy/SalesforceDocGen",
+      "published_at": "2026-02-21T23:34:11Z",
+      "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90444263?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "DaveMoudy"
+    },
+    {
       "title": "anthropics/financial-services-plugins - GitHub Repository",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "published_at": "2026-02-23T19:24:50Z",
@@ -2049,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2479,
+      "stars": 2493,
       "user": "anthropics"
     },
     {
@@ -2064,23 +2079,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1778,
+      "stars": 1784,
       "user": "Panniantong"
-    },
-    {
-      "title": "ShinMegamiBoson/OpenPlanter - GitHub Repository",
-      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
-      "published_at": "2026-02-20T01:04:23Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/191285399?v=4",
-      "source": "GitHub",
-      "stars": 1344,
-      "user": "ShinMegamiBoson"
     },
     {
       "title": "peteromallet/dataclaw - GitHub Repository",
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1305,
       "user": "peteromallet"
     },
     {
@@ -2109,8 +2109,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 525,
       "user": "apple"
+    },
+    {
+      "title": "runesleo/x-reader - Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "url": "https://github.com/runesleo/x-reader",
+      "published_at": "2026-02-22T08:47:26Z",
+      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
+      "source": "GitHub",
+      "stars": 515,
+      "user": "runesleo"
     },
     {
       "title": "thellimist/clihub - GitHub Repository",
@@ -2124,23 +2139,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "thellimist"
-    },
-    {
-      "title": "odvcencio/gotreesitter - Pure Go tree-sitter runtime",
-      "url": "https://github.com/odvcencio/gotreesitter",
-      "published_at": "2026-02-20T03:11:46Z",
-      "description": "Pure Go tree-sitter runtime",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9220505?v=4",
-      "source": "GitHub",
-      "stars": 295,
-      "user": "odvcencio"
     },
     {
       "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "bjarneo"
     },
     {
@@ -2186,6 +2186,21 @@
       "source": "GitHub",
       "stars": 162,
       "user": "nextlevelbuilder"
+    },
+    {
+      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "url": "https://github.com/taigrr/spank",
+      "published_at": "2026-02-23T00:43:05Z",
+      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "taigrr"
     }
   ]
 }
