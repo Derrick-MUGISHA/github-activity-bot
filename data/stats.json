@@ -20,8 +20,8 @@
   "by_language": {
     "Go": 18,
     "JavaScript": 28,
-    "Java": 21,
     "Python": 18,
+    "Java": 21,
     "Rust": 4,
     "Swift": 2,
     "CSharp": 2,
@@ -89,17 +89,17 @@
     "go": 6,
     "discuss": 5,
     "gemini": 4,
-    "architecture": 4,
     "agents": 4,
     "beginners": 4,
-    "typescript": 4
+    "typescript": 4,
+    "architecture": 4
   },
   "trending_topics": [],
   "language_percentages": {
     "Go": "19.1",
     "JavaScript": "29.8",
-    "Java": "22.3",
     "Python": "19.1",
+    "Java": "22.3",
     "Rust": "4.3",
     "Swift": "2.1",
     "CSharp": "2.1",
