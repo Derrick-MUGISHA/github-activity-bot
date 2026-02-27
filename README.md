@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-27 11:00 CAT)
+## 📅 Latest Updates (2026-02-27 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -164,28 +164,28 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png" width="200" alt="The Agent Skills Gold Rush Has a Malware Problem" />
-      <br/>
-      <b>The Agent Skills Gold Rush Has a Malware Problem</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe492yw7tyhbwg5o8x6bx.png" width="200" alt="The $0 Developer Phase — And How Dev.to Pulled Me Out" />
-      <br/>
-      <b>The $0 Developer Phase — And How Dev.to Pulled Me ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utfv29sqz058e0n9ahc.webp" width="200" alt="Nano Banana 2: Combining Pro capabilities with lightning-fast speed" />
       <br/>
       <b>Nano Banana 2: Combining Pro capabilities with lig...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fez7fx6i3lhwlxh7vosms.png" width="200" alt="Understanding Next.js Rewrites" />
+      <br/>
+      <b>Understanding Next.js Rewrites</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png" width="200" alt="The Agent Skills Gold Rush Has a Malware Problem" />
+      <br/>
+      <b>The Agent Skills Gold Rush Has a Malware Problem</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,10 +200,9 @@ npm run test
 - [Join the "Built with Google Gemini: Writing Challenge" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!](https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk) _[Dev.to]_
 - [The Token Economy](https://dev.to/dannwaneri/the-token-economy-3cd9) _[Dev.to]_
 - [Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.](https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8) _[Dev.to]_
-- [The Agent Skills Gold Rush Has a Malware Problem](https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai) _[Dev.to]_
-- [The $0 Developer Phase — And How Dev.to Pulled Me Out](https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g) _[Dev.to]_
 - [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1) _[Dev.to]_
 - [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j) _[Dev.to]_
+- [The Agent Skills Gold Rush Has a Malware Problem](https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai) _[Dev.to]_
 - [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg) _[Dev.to]_
 - [The Developer I'm Grateful I Never Became](https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d) _[Dev.to]_
 - [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [Vibe Coding an Audio Engineer Who Never Sleeps](https://dev.to/deanius/vibe-coding-an-audio-engineer-who-never-sleeps-4o61) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 - [The Frontend Developer Is Dead (And That’s Good)](https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43) _[Dev.to]_
+- [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 
-_Last automated update: Fri, 27 Feb 2026 11:58:46 CAT_
+_Last automated update: Fri, 27 Feb 2026 12:46:22 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Feb 2026 11:58:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Heap, stack, garbage collection
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Feb 2026 09:58:46 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Feb 2026 10:46:22 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
