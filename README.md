@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-27 14:00 CAT)
+## 📅 Latest Updates (2026-02-27 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [The Frontend Developer Is Dead (And That’s Good)](https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43) _[Dev.to]_
 - [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 
-_Last automated update: Fri, 27 Feb 2026 14:55:23 CAT_
+_Last automated update: Fri, 27 Feb 2026 15:58:19 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Feb 2026 14:55:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Feb 2026 12:55:23 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Feb 2026 13:58:19 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
