@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
-      "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
-      "published_at": "2026-02-25T17:41:43Z",
-      "description": "Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
       "url": "https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8",
       "published_at": "2026-02-27T03:00:00Z",
@@ -46,18 +31,63 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "The Agent Skills Gold Rush Has a Malware Problem",
-      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
-      "published_at": "2026-02-26T16:08:19Z",
-      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
+      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
+      "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
+      "published_at": "2026-02-25T17:41:43Z",
+      "description": "Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...",
       "tags": [
-        "devtools",
-        "ai",
-        "productivity"
+        "devchallenge",
+        "geminireflections",
+        "gemini",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
       "source": "Dev.to",
-      "user": "Mei Park"
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Using tox to Test a Django App Across Multiple Django Versions",
+      "url": "https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9",
+      "published_at": "2026-02-27T18:53:25Z",
+      "description": "Recently, I developed a reusable Django app django-clearplaintext for normalizing plain text in...",
+      "tags": [
+        "django",
+        "python",
+        "tox",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ubpltdhsx0n7owyd5ol.png",
+      "source": "Dev.to",
+      "user": "Aidas Bendoraitis"
+    },
+    {
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
+      "tags": [
+        "ai",
+        "engineering",
+        "productivity",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
+      "source": "Dev.to",
+      "user": "Denis Bakhoum"
+    },
+    {
+      "title": "I deleted my source code",
+      "url": "https://dev.to/joppedc/i-deleted-my-source-code-4a0g",
+      "published_at": "2026-02-27T06:59:43Z",
+      "description": "We obsess over clean code because we have to read it. But what happens when we no longer have to? ",
+      "tags": [
+        "symfony",
+        "ai",
+        "php"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjoppe.dev%2Fimages%2Fposts%2Fspec-driven-dev%2Fbanner.webp",
+      "source": "Dev.to",
+      "user": "JoppeDC"
     },
     {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
@@ -203,50 +233,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcbxwrtg3j7npg6ub4mmo.png",
       "source": "Dev.to",
       "user": "Ian Wilson"
-    },
-    {
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
-      "published_at": "2026-02-24T03:56:47Z",
-      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
-      "tags": [
-        "ai",
-        "testing",
-        "discuss",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
-      "source": "Dev.to",
-      "user": "Matthew Hou"
-    },
-    {
-      "title": "Once Upon a Time, Writing Code Was Fun",
-      "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
-      "published_at": "2026-02-24T20:11:41Z",
-      "description": "I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...",
-      "tags": [
-        "ai",
-        "programming",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf1k47qn7nbk7l20dxai.png",
-      "source": "Dev.to",
-      "user": "Abdelrahman Ismail"
-    },
-    {
-      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
-      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
-      "published_at": "2026-02-26T08:08:54Z",
-      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
-      "tags": [
-        "claudecode",
-        "tailscale",
-        "ntfy",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
-      "source": "Dev.to",
-      "user": "Felipe Philipp"
     },
     {
       "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
@@ -615,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2315,
+      "stars": 2318,
       "user": "Panniantong"
     },
     {
@@ -630,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "nextlevelbuilder"
     },
     {
@@ -665,6 +651,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)",
+      "url": "https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67",
+      "published_at": "2026-02-27T15:57:33Z",
+      "description": "The Laravel ecosystem is spoiled for choice. When building a modern web app, the first big decision...",
+      "tags": [
+        "webdev",
+        "livewire",
+        "inertiajs",
+        "laravel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1jkk7lkh7isg71dhiqdt.webp",
+      "source": "Dev.to",
+      "user": "hamizulfaiz"
+    },
     {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
       "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
@@ -1051,11 +1052,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 146,
       "user": "Sir-Scuzza"
     }
   ],
   "Python": [
+    {
+      "title": "Using tox to Test a Django App Across Multiple Django Versions",
+      "url": "https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9",
+      "published_at": "2026-02-27T18:53:25Z",
+      "description": "Recently, I developed a reusable Django app django-clearplaintext for normalizing plain text in...",
+      "tags": [
+        "django",
+        "python",
+        "tox",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ubpltdhsx0n7owyd5ol.png",
+      "source": "Dev.to",
+      "user": "Aidas Bendoraitis"
+    },
     {
       "title": "Wiring Claude Into Real Systems With Tool Use",
       "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
@@ -1233,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3887,
+      "stars": 3926,
       "user": "anthropics"
     },
     {
@@ -1248,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2315,
+      "stars": 2318,
       "user": "Panniantong"
     },
     {
@@ -1278,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 662,
       "user": "apple"
     },
     {
@@ -1327,21 +1343,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgmyxrm2gj50agll4uild.png",
       "source": "Dev.to",
       "user": "iapilgrim"
-    },
-    {
-      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
-      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
-      "published_at": "2026-02-26T08:08:54Z",
-      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
-      "tags": [
-        "claudecode",
-        "tailscale",
-        "ntfy",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
-      "source": "Dev.to",
-      "user": "Felipe Philipp"
     },
     {
       "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
@@ -1462,21 +1463,6 @@
   ],
   "Mobile": [
     {
-      "title": "I Clicked ‘Azure Portal’ and Realized How Small My World Was",
-      "url": "https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78",
-      "published_at": "2026-02-23T18:03:43Z",
-      "description": "When I opened the Azure Portal for the first time, my first instinct wasn’t curiosity. It was...",
-      "tags": [
-        "azure",
-        "cloud",
-        "software",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cd36khfx6497jddb83g.gif",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
-    },
-    {
       "title": "I built a framework that lets you write native apps with YAML and Lua",
       "url": "https://dev.to/josejuanqm/i-built-a-framework-that-lets-you-write-native-apps-with-yaml-and-lua-38lf",
       "published_at": "2026-02-23T23:56:02Z",
@@ -1506,21 +1492,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
       "source": "Dev.to",
       "user": "Ozan"
-    },
-    {
-      "title": "I Clicked ‘Azure Portal’ and Realized How Small My World Was",
-      "url": "https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78",
-      "published_at": "2026-02-23T18:03:43Z",
-      "description": "When I opened the Azure Portal for the first time, my first instinct wasn’t curiosity. It was...",
-      "tags": [
-        "azure",
-        "cloud",
-        "software",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cd36khfx6497jddb83g.gif",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
     },
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
@@ -1671,18 +1642,19 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "The Agent Skills Gold Rush Has a Malware Problem",
-      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
-      "published_at": "2026-02-26T16:08:19Z",
-      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
       "tags": [
-        "devtools",
         "ai",
-        "productivity"
+        "engineering",
+        "productivity",
+        "dx"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
-      "user": "Mei Park"
+      "user": "Denis Bakhoum"
     },
     {
       "title": "The Developer I'm Grateful I Never Became",
@@ -1801,21 +1773,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcbxwrtg3j7npg6ub4mmo.png",
       "source": "Dev.to",
       "user": "Ian Wilson"
-    },
-    {
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
-      "published_at": "2026-02-24T03:56:47Z",
-      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
-      "tags": [
-        "ai",
-        "testing",
-        "discuss",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
-      "source": "Dev.to",
-      "user": "Matthew Hou"
     },
     {
       "title": "Accessibility Testing with Playwright Assertions",
@@ -1978,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 146,
       "user": "Sir-Scuzza"
     },
     {
@@ -1993,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3887,
+      "stars": 3926,
       "user": "anthropics"
     },
     {
@@ -2008,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2315,
+      "stars": 2318,
       "user": "Panniantong"
     },
     {
@@ -2038,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 662,
       "user": "apple"
     },
     {
@@ -2068,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "thellimist"
     },
     {
@@ -2083,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "nextlevelbuilder"
     },
     {
@@ -2113,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "bjarneo"
     },
     {
