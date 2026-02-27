@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The Token Economy",
-      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
-      "published_at": "2026-02-26T13:36:47Z",
-      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
       "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
       "published_at": "2026-02-25T17:41:43Z",
@@ -46,6 +31,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "The Token Economy",
+      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
+      "published_at": "2026-02-26T13:36:47Z",
+      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
+      "tags": [
+        "ai",
+        "webdev",
+        "career",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "The Agent Skills Gold Rush Has a Malware Problem",
       "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
       "published_at": "2026-02-26T16:08:19Z",
@@ -73,21 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png",
       "source": "Dev.to",
       "user": "CodeNameGrant"
-    },
-    {
-      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
-      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
-      "published_at": "2026-02-26T13:33:02Z",
-      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
-      "tags": [
-        "security",
-        "ai",
-        "opensource",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
-      "source": "Dev.to",
-      "user": "Gus"
     },
     {
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
@@ -131,19 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
       "source": "Dev.to",
       "user": "aileen vl"
-    },
-    {
-      "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
-      "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
-      "published_at": "2026-02-24T18:35:30Z",
-      "description": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
-      "tags": [
-        "rust",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
-      "source": "Dev.to",
-      "user": "Yaser Al-Najjar"
     },
     {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
@@ -233,6 +205,21 @@
       "user": "Abdelrahman Ismail"
     },
     {
+      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
+      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
+      "published_at": "2026-02-26T08:08:54Z",
+      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
+      "tags": [
+        "claudecode",
+        "tailscale",
+        "ntfy",
+        "docker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
+      "source": "Dev.to",
+      "user": "Felipe Philipp"
+    },
+    {
       "title": "Build Domain-driven HTTP services",
       "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
       "published_at": "2026-02-20T04:21:37Z",
@@ -278,6 +265,35 @@
       "user": "Dean Radcliffe"
     },
     {
+      "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
+      "url": "https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a",
+      "published_at": "2026-02-26T07:58:44Z",
+      "description": "Token cost in browser automation MCPs has become a real topic — articles like \"Playwright MCP Burns...",
+      "tags": [
+        "mcp",
+        "ai",
+        "webdev",
+        "playwright"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
+      "source": "Dev.to",
+      "user": "kuroko"
+    },
+    {
+      "title": "The Day Agents Achieved Real Authority, and What It Means for Trust",
+      "url": "https://dev.to/kimmaida/the-day-agents-achieved-real-authority-and-what-it-means-for-trust-2e4",
+      "published_at": "2026-02-25T19:37:13Z",
+      "description": "Five major announcements landed on a single Monday in February, and just like that, it became very...",
+      "tags": [
+        "ai",
+        "security",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
+      "source": "Dev.to",
+      "user": "Kim Maida"
+    },
+    {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
       "published_at": "2026-02-15T12:26:26Z",
@@ -291,6 +307,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
+    },
+    {
+      "title": "The Frontend Developer Is Dead (And That’s Good)",
+      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
+      "published_at": "2026-02-25T18:55:28Z",
+      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
+      "tags": [
+        "frontend",
+        "ai",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
+      "source": "Dev.to",
+      "user": "Dustin Myers"
+    },
+    {
+      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
+      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
+      "published_at": "2026-02-26T13:33:02Z",
+      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
+      "tags": [
+        "security",
+        "ai",
+        "opensource",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
+      "source": "Dev.to",
+      "user": "Gus"
     },
     {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
@@ -323,35 +369,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Software engineering is not dead",
-      "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
-      "published_at": "2026-02-16T23:29:28Z",
-      "description": "Lately, my LinkedIn feed has become an echo chamber of AI evangelists worshiping at the altar of the...",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
-      "source": "Dev.to",
-      "user": "Juan G De Jesus Torres"
-    },
-    {
-      "title": "A Quick Recovery Guide for AI-Dependent Coders",
-      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
-      "published_at": "2026-02-23T05:00:00Z",
-      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
-    },
-    {
       "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
       "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
       "published_at": "2026-02-25T16:08:56Z",
@@ -367,33 +384,18 @@
       "user": "Praveen Gowthaman"
     },
     {
-      "title": "The Day Agents Achieved Real Authority, and What It Means for Trust",
-      "url": "https://dev.to/kimmaida/the-day-agents-achieved-real-authority-and-what-it-means-for-trust-2e4",
-      "published_at": "2026-02-25T19:37:13Z",
-      "description": "Five major announcements landed on a single Monday in February, and just like that, it became very...",
+      "title": "Software engineering is not dead",
+      "url": "https://dev.to/juan1003/software-engineering-is-not-dead-5flc",
+      "published_at": "2026-02-16T23:29:28Z",
+      "description": "Lately, my LinkedIn feed has become an echo chamber of AI evangelists worshiping at the altar of the...",
       "tags": [
+        "webdev",
         "ai",
-        "security",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
-      "source": "Dev.to",
-      "user": "Kim Maida"
-    },
-    {
-      "title": "HJX: Rethinking the Web for the AI Era",
-      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
-      "published_at": "2026-02-17T04:40:08Z",
-      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
-      "tags": [
-        "ai",
-        "frontend",
-        "web",
         "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfbqdqmhs14jnussu668.webp",
       "source": "Dev.to",
-      "user": "Loaiabdalslam"
+      "user": "Juan G De Jesus Torres"
     },
     {
       "title": "Meet Semantic Components — A Modern Angular UI Library",
@@ -411,19 +413,34 @@
       "user": "khalil la"
     },
     {
-      "title": "The Frontend Developer Is Dead (And That’s Good)",
-      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
-      "published_at": "2026-02-25T18:55:28Z",
-      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
+      "title": "A Quick Recovery Guide for AI-Dependent Coders",
+      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
+      "published_at": "2026-02-23T05:00:00Z",
+      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
       "tags": [
-        "frontend",
+        "beginners",
         "ai",
-        "webdev",
-        "javascript"
+        "coding",
+        "softwaredevelopment"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
       "source": "Dev.to",
-      "user": "Dustin Myers"
+      "user": "Cesar Aguirre"
+    },
+    {
+      "title": "HJX: Rethinking the Web for the AI Era",
+      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
+      "published_at": "2026-02-17T04:40:08Z",
+      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
+      "tags": [
+        "ai",
+        "frontend",
+        "web",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
+      "source": "Dev.to",
+      "user": "Loaiabdalslam"
     },
     {
       "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
@@ -614,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2283,
+      "stars": 2299,
       "user": "Panniantong"
     },
     {
@@ -629,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "nextlevelbuilder"
     },
     {
@@ -659,26 +676,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "taigrr"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Understanding Next.js Rewrites",
-      "url": "https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j",
-      "published_at": "2026-02-26T18:04:54Z",
-      "description": "Most people use Next.js very superficially.  Routing, SSR, maybe API routes — and that’s it. But...",
-      "tags": [
-        "architecture",
-        "javascript",
-        "nextjs",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fez7fx6i3lhwlxh7vosms.png",
-      "source": "Dev.to",
-      "user": "Emeruche Ikenna"
-    },
     {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
       "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
@@ -693,6 +695,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf364h3qewmtnl4uae41.png",
       "source": "Dev.to",
       "user": "CodeNameGrant"
+    },
+    {
+      "title": "Understanding Next.js Rewrites",
+      "url": "https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j",
+      "published_at": "2026-02-26T18:04:54Z",
+      "description": "Most people use Next.js very superficially.  Routing, SSR, maybe API routes — and that’s it. But...",
+      "tags": [
+        "architecture",
+        "javascript",
+        "nextjs",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fez7fx6i3lhwlxh7vosms.png",
+      "source": "Dev.to",
+      "user": "Emeruche Ikenna"
     },
     {
       "title": "Static Imports Are Undermining JavaScript’s Isomorphism",
@@ -754,6 +771,21 @@
       "user": "Sem Gebresilassie"
     },
     {
+      "title": "The Frontend Developer Is Dead (And That’s Good)",
+      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
+      "published_at": "2026-02-25T18:55:28Z",
+      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
+      "tags": [
+        "frontend",
+        "ai",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
+      "source": "Dev.to",
+      "user": "Dustin Myers"
+    },
+    {
       "title": "Adding Web Analytics on Vercel Is Easier Than Ever (Free & Built-In)",
       "url": "https://dev.to/shofol/adding-web-analytics-on-vercel-is-easier-than-ever-free-built-in-57bl",
       "published_at": "2026-02-17T04:42:56Z",
@@ -782,21 +814,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
       "source": "Dev.to",
       "user": "khalil la"
-    },
-    {
-      "title": "The Frontend Developer Is Dead (And That’s Good)",
-      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
-      "published_at": "2026-02-25T18:55:28Z",
-      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
-      "tags": [
-        "frontend",
-        "ai",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
-      "source": "Dev.to",
-      "user": "Dustin Myers"
     },
     {
       "title": "Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2",
@@ -1050,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 133,
       "user": "silships"
     }
   ],
@@ -1069,19 +1086,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg",
       "source": "Dev.to",
       "user": "Pascal CESCATO"
-    },
-    {
-      "title": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
-      "url": "https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7",
-      "published_at": "2026-02-24T18:35:30Z",
-      "description": "I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development",
-      "tags": [
-        "rust",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaf7czsdzf9hih9ah909.png",
-      "source": "Dev.to",
-      "user": "Yaser Al-Najjar"
     },
     {
       "title": "I built an API that detects chess tactical patterns from FEN and PGN",
@@ -1230,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3700,
+      "stars": 3755,
       "user": "anthropics"
     },
     {
@@ -1245,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2283,
+      "stars": 2299,
       "user": "Panniantong"
     },
     {
@@ -1260,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 1439,
       "user": "peteromallet"
     },
     {
@@ -1275,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 659,
       "user": "apple"
     },
     {
@@ -1290,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 584,
       "user": "runesleo"
     }
   ],
@@ -1324,6 +1328,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgmyxrm2gj50agll4uild.png",
       "source": "Dev.to",
       "user": "iapilgrim"
+    },
+    {
+      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
+      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
+      "published_at": "2026-02-26T08:08:54Z",
+      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
+      "tags": [
+        "claudecode",
+        "tailscale",
+        "ntfy",
+        "docker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
+      "source": "Dev.to",
+      "user": "Felipe Philipp"
     },
     {
       "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
@@ -1385,19 +1404,19 @@
       "user": "Sem Gebresilassie"
     },
     {
-      "title": "HJX: Rethinking the Web for the AI Era",
-      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
-      "published_at": "2026-02-17T04:40:08Z",
-      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
+      "title": "The Frontend Developer Is Dead (And That’s Good)",
+      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
+      "published_at": "2026-02-25T18:55:28Z",
+      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
       "tags": [
-        "ai",
         "frontend",
-        "web",
-        "programming"
+        "ai",
+        "webdev",
+        "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
       "source": "Dev.to",
-      "user": "Loaiabdalslam"
+      "user": "Dustin Myers"
     },
     {
       "title": "Meet Semantic Components — A Modern Angular UI Library",
@@ -1415,19 +1434,19 @@
       "user": "khalil la"
     },
     {
-      "title": "The Frontend Developer Is Dead (And That’s Good)",
-      "url": "https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43",
-      "published_at": "2026-02-25T18:55:28Z",
-      "description": "In 2026, “frontend developer” doesn’t mean what it used to.  And that’s a good thing.  Over the past...",
+      "title": "HJX: Rethinking the Web for the AI Era",
+      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
+      "published_at": "2026-02-17T04:40:08Z",
+      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
       "tags": [
-        "frontend",
         "ai",
-        "webdev",
-        "javascript"
+        "frontend",
+        "web",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwh2gw1tg8tocl3df1d7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
       "source": "Dev.to",
-      "user": "Dustin Myers"
+      "user": "Loaiabdalslam"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1552,21 +1571,6 @@
   ],
   "Security": [
     {
-      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
-      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
-      "published_at": "2026-02-26T13:33:02Z",
-      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
-      "tags": [
-        "security",
-        "ai",
-        "opensource",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
-      "source": "Dev.to",
-      "user": "Gus"
-    },
-    {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
       "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
       "published_at": "2026-02-25T05:29:37Z",
@@ -1609,6 +1613,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
       "source": "Dev.to",
       "user": "Kim Maida"
+    },
+    {
+      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
+      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
+      "published_at": "2026-02-26T13:33:02Z",
+      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
+      "tags": [
+        "security",
+        "ai",
+        "opensource",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
+      "source": "Dev.to",
+      "user": "Gus"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1666,21 +1685,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
       "source": "Dev.to",
       "user": "Narnaiezzsshaa Truong"
-    },
-    {
-      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
-      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
-      "published_at": "2026-02-26T13:33:02Z",
-      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
-      "tags": [
-        "security",
-        "ai",
-        "opensource",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
-      "source": "Dev.to",
-      "user": "Gus"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1816,6 +1820,21 @@
       "user": "Sem Gebresilassie"
     },
     {
+      "title": "How I Built a Semgrep-Like Scanner for AI Agent Skills",
+      "url": "https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh",
+      "published_at": "2026-02-26T13:33:02Z",
+      "description": "AI agents are installing tools, running MCP servers, and executing third-party code on your behalf. But who's checking whether that skill file is safe before it runs?",
+      "tags": [
+        "security",
+        "ai",
+        "opensource",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yg9pipv5ty34lt751rw.png",
+      "source": "Dev.to",
+      "user": "Gus"
+    },
+    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -1917,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 133,
       "user": "silships"
     },
     {
@@ -1932,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 3700,
+      "stars": 3755,
       "user": "anthropics"
     },
     {
@@ -1947,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2283,
+      "stars": 2299,
       "user": "Panniantong"
     },
     {
@@ -1962,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 1439,
       "user": "peteromallet"
     },
     {
@@ -1977,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 659,
       "user": "apple"
     },
     {
@@ -1992,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 584,
       "user": "runesleo"
     },
     {
@@ -2007,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 388,
       "user": "thellimist"
     },
     {
@@ -2022,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "nextlevelbuilder"
     },
     {
@@ -2052,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 211,
       "user": "bjarneo"
     },
     {
@@ -2067,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "taigrr"
     }
   ]
