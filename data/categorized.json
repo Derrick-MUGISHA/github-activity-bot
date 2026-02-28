@@ -104,6 +104,21 @@
       "user": "Aidas Bendoraitis"
     },
     {
+      "title": "Automatic cross-platform testing: part 7: 32 bit, again",
+      "url": "https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf",
+      "published_at": "2026-02-27T21:23:41Z",
+      "description": "I have written about this before, but I've had to do it again. I noted previously that Github's...",
+      "tags": [
+        "testing",
+        "githubactions",
+        "ci",
+        "32bit"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk3nsmfxk1k1wshviczw.png",
+      "source": "Dev.to",
+      "user": "David Cantrell"
+    },
+    {
       "title": "Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious",
       "url": "https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g",
       "published_at": "2026-02-23T11:31:51Z",
@@ -672,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3009,
+      "stars": 3012,
       "user": "Panniantong"
     },
     {
@@ -687,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 1937,
+      "stars": 1947,
       "user": "agentscope-ai"
     },
     {
@@ -702,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 743,
       "user": "taigrr"
     },
     {
@@ -717,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "nextlevelbuilder"
     },
     {
@@ -1033,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 347,
       "user": "mksglu"
     },
     {
@@ -1078,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "silships"
     },
     {
@@ -1290,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4850,
+      "stars": 4854,
       "user": "anthropics"
     },
     {
@@ -1305,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3009,
+      "stars": 3012,
       "user": "Panniantong"
     },
     {
@@ -1320,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 1937,
+      "stars": 1947,
       "user": "agentscope-ai"
     },
     {
@@ -1350,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 813,
       "user": "eooce"
     }
   ],
@@ -1576,7 +1591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 1937,
+      "stars": 1947,
       "user": "agentscope-ai"
     }
   ],
@@ -1681,6 +1696,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "Automatic cross-platform testing: part 7: 32 bit, again",
+      "url": "https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf",
+      "published_at": "2026-02-27T21:23:41Z",
+      "description": "I have written about this before, but I've had to do it again. I noted previously that Github's...",
+      "tags": [
+        "testing",
+        "githubactions",
+        "ci",
+        "32bit"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk3nsmfxk1k1wshviczw.png",
+      "source": "Dev.to",
+      "user": "David Cantrell"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1885,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 347,
       "user": "mksglu"
     },
     {
@@ -1930,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "silships"
     },
     {
@@ -1960,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4850,
+      "stars": 4854,
       "user": "anthropics"
     },
     {
@@ -1975,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3009,
+      "stars": 3012,
       "user": "Panniantong"
     },
     {
@@ -1990,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 1937,
+      "stars": 1947,
       "user": "agentscope-ai"
     },
     {
@@ -2020,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 813,
       "user": "eooce"
     },
     {
@@ -2035,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 743,
       "user": "taigrr"
     },
     {
@@ -2065,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "bjarneo"
     },
     {
@@ -2080,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "nextlevelbuilder"
     },
     {
