@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-28 22:00 CAT)
+## 📅 Latest Updates (2026-02-28 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -209,6 +209,7 @@ npm run test
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
 - [The Token Economy](https://dev.to/dannwaneri/the-token-economy-3cd9) _[Dev.to]_
 - [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
+- [Automatic cross-platform testing: part 7: 32 bit, again](https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf) _[Dev.to]_
 - [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g) _[Dev.to]_
 - [A Founder’s Blueprint to Creating a Technical Sales Team](https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f) _[Dev.to]_
 - [Data Pseudonymization: When You Can't Just Delete Everything](https://dev.to/manualwise/data-pseudonymization-when-you-cant-just-delete-everything-4goa) _[Dev.to]_
@@ -217,9 +218,8 @@ npm run test
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 - [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
-- [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 22:46:42 CAT_
+_Last automated update: Sat, 28 Feb 2026 23:18:12 CAT_
 
 
 
@@ -227,29 +227,7 @@ _Last automated update: Sat, 28 Feb 2026 22:46:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
-
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
-
-<details>
-<summary>💡 Hint</summary>
-
-Doubly linked list + hash map, O(1) operations
-
-</details>
-
-### 2. Database: What is the difference between SQL and NoSQL databases?
-
-**Difficulty**: Easy | **Topics**: databases, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Schema, scalability, ACID vs BASE
-
-</details>
-
-### 3. SystemDesign: How would you design a rate limiter?
+### 1. SystemDesign: How would you design a rate limiter?
 
 **Difficulty**: Medium | **Topics**: system design, algorithms
 
@@ -257,6 +235,28 @@ Schema, scalability, ACID vs BASE
 <summary>💡 Hint</summary>
 
 Token bucket, sliding window, distributed systems
+
+</details>
+
+### 2. React: Explain the difference between state and props
+
+**Difficulty**: Easy | **Topics**: data flow, components
+
+<details>
+<summary>💡 Hint</summary>
+
+Ownership, mutability, data flow direction
+
+</details>
+
+### 3. SystemDesign: Design a URL shortening service like bit.ly
+
+**Difficulty**: Medium | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Feb 2026 20:46:42 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 21:18:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
