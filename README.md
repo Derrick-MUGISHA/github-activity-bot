@@ -219,7 +219,7 @@ npm run test
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 - [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 23:42:04 CAT_
+_Last automated update: Sat, 28 Feb 2026 23:53:01 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 28 Feb 2026 23:42:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Feb 2026 21:42:04 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 21:53:01 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
