@@ -214,7 +214,7 @@ npm run test
 - [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 13:16:35 CAT_
+_Last automated update: Sat, 28 Feb 2026 13:40:23 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 28 Feb 2026 13:16:35 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Iterative or recursive, three pointers
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Feb 2026 11:16:35 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 11:40:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
