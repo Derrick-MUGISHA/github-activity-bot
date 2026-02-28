@@ -279,6 +279,21 @@
       "user": "Felipe Philipp"
     },
     {
+      "title": "Build Domain-driven HTTP services",
+      "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
+      "published_at": "2026-02-20T04:21:37Z",
+      "description": "You're building ASP .NET web APIs that need to communicate with external APIs.  The UserRegister API...",
+      "tags": [
+        "webdev",
+        "dotnet",
+        "restapi",
+        "csharp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui38f6me5urbe1q3t35l.jpg",
+      "source": "Dev.to",
+      "user": "Mirza Leka"
+    },
+    {
       "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
       "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
       "published_at": "2026-02-24T19:29:47Z",
@@ -514,21 +529,6 @@
       "user": "Loaiabdalslam"
     },
     {
-      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
-      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
-      "published_at": "2026-02-13T19:52:20Z",
-      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
-      "tags": [
-        "stripe",
-        "saas",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
-      "source": "Dev.to",
-      "user": "Ale"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3008,
+      "stars": 3009,
       "user": "Panniantong"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 1937,
       "user": "agentscope-ai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 740,
       "user": "taigrr"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 262,
       "user": "nextlevelbuilder"
     },
     {
@@ -902,21 +902,6 @@
       "user": "Arindam Dawn"
     },
     {
-      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
-      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
-      "published_at": "2026-02-13T19:52:20Z",
-      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
-      "tags": [
-        "stripe",
-        "saas",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
-      "source": "Dev.to",
-      "user": "Ale"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1048,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 336,
       "user": "mksglu"
     },
     {
@@ -1063,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "Sir-Scuzza"
     },
     {
@@ -1305,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4847,
+      "stars": 4850,
       "user": "anthropics"
     },
     {
@@ -1320,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3008,
+      "stars": 3009,
       "user": "Panniantong"
     },
     {
@@ -1335,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 1937,
       "user": "agentscope-ai"
     },
     {
@@ -1365,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 812,
       "user": "eooce"
     }
   ],
@@ -1591,7 +1576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 1937,
       "user": "agentscope-ai"
     }
   ],
@@ -1786,6 +1771,21 @@
       "user": "Mei Park"
     },
     {
+      "title": "The Developer I'm Grateful I Never Became",
+      "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
+      "published_at": "2026-02-25T22:40:07Z",
+      "description": "Inspired by—but not aligned with—\"The $0 Developer Phase—And How Dev.to Pulled Me Out\" by Art...",
+      "tags": [
+        "career",
+        "webdev",
+        "beginners",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
+      "source": "Dev.to",
+      "user": "Narnaiezzsshaa Truong"
+    },
+    {
       "title": "Accessibility Testing with Playwright Assertions",
       "url": "https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i",
       "published_at": "2026-02-19T02:03:09Z",
@@ -1885,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 336,
       "user": "mksglu"
     },
     {
@@ -1900,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "Sir-Scuzza"
     },
     {
@@ -1960,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4847,
+      "stars": 4850,
       "user": "anthropics"
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3008,
+      "stars": 3009,
       "user": "Panniantong"
     },
     {
@@ -1990,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 1937,
       "user": "agentscope-ai"
     },
     {
@@ -2020,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 812,
       "user": "eooce"
     },
     {
@@ -2035,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 740,
       "user": "taigrr"
     },
     {
@@ -2065,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 274,
       "user": "bjarneo"
     },
     {
@@ -2080,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 262,
       "user": "nextlevelbuilder"
     },
     {
