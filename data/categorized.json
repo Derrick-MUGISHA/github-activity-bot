@@ -31,19 +31,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "AI Ate the Homework: What Communities Are Actually For Now",
-      "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
-      "published_at": "2026-02-27T22:05:16Z",
-      "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builders and members.",
-      "tags": [
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9wf3o4i4z2u8k2jxdar.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
-    },
-    {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
       "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
       "published_at": "2026-02-25T17:41:43Z",
@@ -57,6 +44,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "AI Ate the Homework: What Communities Are Actually For Now",
+      "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
+      "published_at": "2026-02-27T22:05:16Z",
+      "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builders and members.",
+      "tags": [
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9wf3o4i4z2u8k2jxdar.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
     },
     {
       "title": "Using tox to Test a Django App Across Multiple Django Versions",
@@ -104,21 +104,6 @@
       "user": "Mike"
     },
     {
-      "title": "A Founder’s Blueprint to Creating a Technical Sales Team",
-      "url": "https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f",
-      "published_at": "2026-02-27T17:52:39Z",
-      "description": "I have found that technical founders tend to treat Go-To-Market (GTM) as an afterthought (or a black...",
-      "tags": [
-        "startup",
-        "gtm",
-        "product",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nbmfj79d55rwrfyzgvs.png",
-      "source": "Dev.to",
-      "user": "Abraham Gomez"
-    },
-    {
       "title": "I deleted my source code",
       "url": "https://dev.to/joppedc/i-deleted-my-source-code-4a0g",
       "published_at": "2026-02-27T06:59:43Z",
@@ -148,19 +133,19 @@
       "user": "CodeNameGrant"
     },
     {
-      "title": "Wiring Claude Into Real Systems With Tool Use",
-      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
-      "published_at": "2026-02-27T05:46:09Z",
-      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
+      "title": "A Founder’s Blueprint to Creating a Technical Sales Team",
+      "url": "https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f",
+      "published_at": "2026-02-27T17:52:39Z",
+      "description": "I have found that technical founders tend to treat Go-To-Market (GTM) as an afterthought (or a black...",
       "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "python"
+        "startup",
+        "gtm",
+        "product",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nbmfj79d55rwrfyzgvs.png",
       "source": "Dev.to",
-      "user": "Prabhat Kumar"
+      "user": "Abraham Gomez"
     },
     {
       "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
@@ -175,20 +160,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
       "source": "Dev.to",
       "user": "Ozan"
-    },
-    {
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
-      "published_at": "2026-02-26T22:42:29Z",
-      "description": "In August of last year, our Gemini Image model, Nano Banana, became a viral sensation, redefining...",
-      "tags": [
-        "nanobanana",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utfv29sqz058e0n9ahc.webp",
-      "source": "Dev.to",
-      "user": "Alisa Fortin"
     },
     {
       "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
@@ -455,6 +426,21 @@
       "user": "David Alcala"
     },
     {
+      "title": "Wiring Claude Into Real Systems With Tool Use",
+      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
+      "published_at": "2026-02-27T05:46:09Z",
+      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
+      "source": "Dev.to",
+      "user": "Prabhat Kumar"
+    },
+    {
       "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
       "url": "https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h",
       "published_at": "2026-02-19T20:34:23Z",
@@ -527,6 +513,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
       "source": "Dev.to",
       "user": "khalil la"
+    },
+    {
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
+      "published_at": "2026-02-26T22:42:29Z",
+      "description": "In August of last year, our Gemini Image model, Nano Banana, became a viral sensation, redefining...",
+      "tags": [
+        "nanobanana",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utfv29sqz058e0n9ahc.webp",
+      "source": "Dev.to",
+      "user": "Alisa Fortin"
     },
     {
       "title": "HJX: Rethinking the Web for the AI Era",
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2573,
+      "stars": 2589,
       "user": "Panniantong"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 904,
       "user": "agentscope-ai"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 350,
       "user": "taigrr"
     },
     {
@@ -1063,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "jesselau76"
     },
     {
@@ -1093,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "silships"
     }
   ],
@@ -1114,21 +1114,6 @@
       "user": "Aidas Bendoraitis"
     },
     {
-      "title": "Wiring Claude Into Real Systems With Tool Use",
-      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
-      "published_at": "2026-02-27T05:46:09Z",
-      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
-      "source": "Dev.to",
-      "user": "Prabhat Kumar"
-    },
-    {
       "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe",
       "published_at": "2026-02-24T23:44:05Z",
@@ -1142,6 +1127,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg",
       "source": "Dev.to",
       "user": "Pascal CESCATO"
+    },
+    {
+      "title": "Wiring Claude Into Real Systems With Tool Use",
+      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
+      "published_at": "2026-02-27T05:46:09Z",
+      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
+      "source": "Dev.to",
+      "user": "Prabhat Kumar"
     },
     {
       "title": "I built an API that detects chess tactical patterns from FEN and PGN",
@@ -1290,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4555,
+      "stars": 4573,
       "user": "anthropics"
     },
     {
@@ -1305,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2573,
+      "stars": 2589,
       "user": "Panniantong"
     },
     {
@@ -1320,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1481,
+      "stars": 1482,
       "user": "peteromallet"
     },
     {
@@ -1335,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 904,
       "user": "agentscope-ai"
     },
     {
@@ -1590,7 +1590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 904,
       "user": "agentscope-ai"
     }
   ],
@@ -1710,21 +1710,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
-    },
-    {
-      "title": "Wiring Claude Into Real Systems With Tool Use",
-      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
-      "published_at": "2026-02-27T05:46:09Z",
-      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
-      "source": "Dev.to",
-      "user": "Prabhat Kumar"
     },
     {
       "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
@@ -1918,6 +1903,21 @@
       "user": "David Alcala"
     },
     {
+      "title": "Wiring Claude Into Real Systems With Tool Use",
+      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
+      "published_at": "2026-02-27T05:46:09Z",
+      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
+      "source": "Dev.to",
+      "user": "Prabhat Kumar"
+    },
+    {
       "title": "mksglu/claude-context-mode - Stop losing context to large outputs.",
       "url": "https://github.com/mksglu/claude-context-mode",
       "published_at": "2026-02-23T05:56:28Z",
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "jesselau76"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "silships"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4555,
+      "stars": 4573,
       "user": "anthropics"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2573,
+      "stars": 2589,
       "user": "Panniantong"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1481,
+      "stars": 1482,
       "user": "peteromallet"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 904,
       "user": "agentscope-ai"
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 350,
       "user": "taigrr"
     },
     {
