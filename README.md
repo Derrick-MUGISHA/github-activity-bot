@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-01 0:00 CAT)
+## 📅 Latest Updates (2026-03-01 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 
-_Last automated update: Sun, 01 Mar 2026 00:45:58 CAT_
+_Last automated update: Sun, 01 Mar 2026 01:18:24 CAT_
 
 
 
@@ -227,18 +227,7 @@ _Last automated update: Sun, 01 Mar 2026 00:45:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
-
-**Difficulty**: Hard | **Topics**: distributed systems, caching
-
-<details>
-<summary>💡 Hint</summary>
-
-Consistency, partitioning, replication, eviction policies
-
-</details>
-
-### 2. JavaScript: What is the event loop and how does it work?
+### 1. JavaScript: What is the event loop and how does it work?
 
 **Difficulty**: Hard | **Topics**: async, runtime
 
@@ -249,14 +238,25 @@ Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. React: How would you optimize a React app's performance?
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Doubly linked list + hash map, O(1) operations
+
+</details>
+
+### 3. Database: Design a database schema for a social media platform
+
+**Difficulty**: Hard | **Topics**: design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Feb 2026 22:45:58 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 23:18:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
