@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-28 18:00 CAT)
+## 📅 Latest Updates (2026-02-28 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 - [The $0 Developer Phase — And How Dev.to Pulled Me Out](https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 18:48:22 CAT_
+_Last automated update: Sat, 28 Feb 2026 19:17:36 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 28 Feb 2026 18:48:22 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Feb 2026 16:48:22 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 17:17:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
