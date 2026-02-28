@@ -214,7 +214,7 @@ npm run test
 - [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 15:24:41 CAT_
+_Last automated update: Sat, 28 Feb 2026 15:52:26 CAT_
 
 
 
@@ -222,18 +222,29 @@ _Last automated update: Sat, 28 Feb 2026 15:24:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. JavaScript: Implement a debounce function from scratch
+
+**Difficulty**: Hard | **Topics**: functions, timing
+
+<details>
+<summary>💡 Hint</summary>
+
+setTimeout, clearTimeout, wrapper function
+
+</details>
+
+### 3. Java: What is the difference between abstract class and interface?
 
 **Difficulty**: Easy | **Topics**: OOP, design
 
@@ -241,17 +252,6 @@ try/catch, .catch(), error middleware
 <summary>💡 Hint</summary>
 
 Multiple inheritance, method implementation, use cases
-
-</details>
-
-### 3. Database: Explain database indexing and when to use it
-
-**Difficulty**: Medium | **Topics**: optimization, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-B-tree, trade-offs, query performance
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Feb 2026 13:24:41 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 13:52:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
