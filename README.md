@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-28-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (50.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**WebDev**: 🟦🟦 6 (5.8%)
-
-**Security**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
 **Cloud**: 🟦🟦 4 (3.8%)
+
+**Security**: 🟦🟦 4 (3.8%)
 
 **Mobile**:  1 (1.0%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.8 (27.8%)
-Go              ███████████████████████ 21.1 (21.1%)
-Python          ███████████████████████ 21.1 (21.1%)
-Java            ███████████████████████ 21.1 (21.1%)
-Rust            ████ 3.3 (3.3%)
+JavaScript      ██████████████████████████████ 28.3 (28.3%)
+Java            ███████████████████████ 21.7 (21.7%)
+Go              ██████████████████████ 20.7 (20.7%)
+Python          ██████████████████████ 20.7 (20.7%)
+Rust            ███ 3.3 (3.3%)
 PHP             ██ 2.2 (2.2%)
 CSharp          █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -74,10 +74,10 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 25
+    "JavaScript" : 26
+    "Java" : 20
     "Go" : 19
     "Python" : 19
-    "Java" : 19
     "Rust" : 3
     "PHP" : 2
     "CSharp" : 1
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![architecture](https://img.shields.io/badge/architecture-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![webdev](https://img.shields.io/badge/webdev-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![architecture](https://img.shields.io/badge/architecture-5-blue) ![career](https://img.shields.io/badge/career-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -219,7 +219,7 @@ npm run test
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 - [The $0 Developer Phase — And How Dev.to Pulled Me Out](https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 17:18:28 CAT_
+_Last automated update: Sat, 28 Feb 2026 17:43:19 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 28 Feb 2026 17:18:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain GIL and its implications for multithreading
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Iterative or recursive, three pointers
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Feb 2026 15:18:28 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 15:43:19 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
