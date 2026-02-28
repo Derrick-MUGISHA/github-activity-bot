@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
-      "url": "https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8",
-      "published_at": "2026-02-27T03:00:00Z",
-      "description": "Good morning! Good afternoon! Good Evening!   Welcome to our first DEV Weekend Challenge, a short...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "webdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymcxcb34vr6ew58onbey.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The Token Economy",
       "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
       "published_at": "2026-02-26T13:36:47Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
+      "url": "https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8",
+      "published_at": "2026-02-27T03:00:00Z",
+      "description": "Good morning! Good afternoon! Good Evening!   Welcome to our first DEV Weekend Challenge, a short...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymcxcb34vr6ew58onbey.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "AI Ate the Homework: What Communities Are Actually For Now",
@@ -59,21 +59,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
-      "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
-      "published_at": "2026-02-27T15:27:49Z",
-      "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
-      "tags": [
-        "ai",
-        "architecture",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnbj661po1w5k9jzuqjz.png",
-      "source": "Dev.to",
-      "user": "Mike"
-    },
-    {
       "title": "Using tox to Test a Django App Across Multiple Django Versions",
       "url": "https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9",
       "published_at": "2026-02-27T18:53:25Z",
@@ -102,6 +87,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
+      "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
+      "published_at": "2026-02-27T15:27:49Z",
+      "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
+      "tags": [
+        "ai",
+        "architecture",
+        "devops",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnbj661po1w5k9jzuqjz.png",
+      "source": "Dev.to",
+      "user": "Mike"
     },
     {
       "title": "A Founder’s Blueprint to Creating a Technical Sales Team",
@@ -290,21 +290,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
       "source": "Dev.to",
       "user": "Mei Park"
-    },
-    {
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
-      "published_at": "2026-02-24T03:56:47Z",
-      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
-      "tags": [
-        "ai",
-        "testing",
-        "discuss",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
-      "source": "Dev.to",
-      "user": "Matthew Hou"
     },
     {
       "title": "Once Upon a Time, Writing Code Was Fun",
@@ -544,6 +529,21 @@
       "user": "khalil la"
     },
     {
+      "title": "HJX: Rethinking the Web for the AI Era",
+      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
+      "published_at": "2026-02-17T04:40:08Z",
+      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
+      "tags": [
+        "ai",
+        "frontend",
+        "web",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
+      "source": "Dev.to",
+      "user": "Loaiabdalslam"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21200978?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 209,
       "user": "bcurts"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2444,
       "user": "Panniantong"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 265,
       "user": "taigrr"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 243,
       "user": "nextlevelbuilder"
     },
     {
@@ -1048,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21200978?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 209,
       "user": "bcurts"
     },
     {
@@ -1063,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 185,
       "user": "Sir-Scuzza"
     },
     {
@@ -1290,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4345,
+      "stars": 4388,
       "user": "anthropics"
     },
     {
@@ -1305,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2444,
       "user": "Panniantong"
     },
     {
@@ -1350,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "runesleo"
     }
   ],
@@ -1503,6 +1503,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
       "source": "Dev.to",
       "user": "khalil la"
+    },
+    {
+      "title": "HJX: Rethinking the Web for the AI Era",
+      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
+      "published_at": "2026-02-17T04:40:08Z",
+      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
+      "tags": [
+        "ai",
+        "frontend",
+        "web",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
+      "source": "Dev.to",
+      "user": "Loaiabdalslam"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1799,21 +1814,6 @@
       "user": "Mei Park"
     },
     {
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
-      "published_at": "2026-02-24T03:56:47Z",
-      "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI — it's where we spend our attention.",
-      "tags": [
-        "ai",
-        "testing",
-        "discuss",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8azm9pm0e17w2pztpov.png",
-      "source": "Dev.to",
-      "user": "Matthew Hou"
-    },
-    {
       "title": "The Developer I'm Grateful I Never Became",
       "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
       "published_at": "2026-02-25T22:40:07Z",
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21200978?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 209,
       "user": "bcurts"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 185,
       "user": "Sir-Scuzza"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4345,
+      "stars": 4388,
       "user": "anthropics"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2444,
       "user": "Panniantong"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "runesleo"
     },
     {
@@ -2068,21 +2068,6 @@
       "user": "thellimist"
     },
     {
-      "title": "bjarneo/cliamp - Terminal Winamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "published_at": "2026-02-24T07:18:59Z",
-      "description": "Terminal Winamp",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
-      "source": "GitHub",
-      "stars": 245,
-      "user": "bjarneo"
-    },
-    {
       "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
       "url": "https://github.com/taigrr/spank",
       "published_at": "2026-02-23T00:43:05Z",
@@ -2094,8 +2079,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 265,
       "user": "taigrr"
+    },
+    {
+      "title": "bjarneo/cliamp - Terminal Winamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "published_at": "2026-02-24T07:18:59Z",
+      "description": "Terminal Winamp",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
+      "source": "GitHub",
+      "stars": 247,
+      "user": "bjarneo"
     },
     {
       "title": "nextlevelbuilder/goclaw - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 243,
       "user": "nextlevelbuilder"
     },
     {
