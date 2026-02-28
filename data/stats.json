@@ -18,11 +18,11 @@
     "Tools": 31
   },
   "by_language": {
-    "Go": 19,
+    "Go": 20,
     "Python": 19,
     "JavaScript": 25,
     "PHP": 2,
-    "Rust": 2,
+    "Rust": 3,
     "Java": 19,
     "CSharp": 1
   },
@@ -37,9 +37,9 @@
     "2026-02-18": 2,
     "2026-02-20": 1,
     "2026-02-15": 2,
-    "2026-02-17": 4,
+    "2026-02-17": 3,
     "2026-02-13": 1,
-    "2026-02-16": 1,
+    "2026-02-16": 2,
     "2024-02-27": 1,
     "2024-07-23": 1,
     "2025-06-02": 1,
@@ -71,7 +71,7 @@
   },
   "top_tags": {
     "ai": 28,
-    "webdev": 18,
+    "webdev": 17,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -85,20 +85,20 @@
     "discuss": 5,
     "architecture": 5,
     "agents": 5,
+    "opensource": 5,
     "career": 4,
     "gemini": 4,
     "devops": 4,
-    "security": 4,
-    "beginners": 4
+    "security": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "21.8",
-    "Python": "21.8",
-    "JavaScript": "28.7",
-    "PHP": "2.3",
-    "Rust": "2.3",
-    "Java": "21.8",
+    "Go": "22.5",
+    "Python": "21.3",
+    "JavaScript": "28.1",
+    "PHP": "2.2",
+    "Rust": "3.4",
+    "Java": "21.3",
     "CSharp": "1.1"
   }
 }
