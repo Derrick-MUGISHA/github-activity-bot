@@ -214,7 +214,7 @@ npm run test
 - [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1) _[Dev.to]_
 - [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 07:21:24 CAT_
+_Last automated update: Sat, 28 Feb 2026 07:55:00 CAT_
 
 
 
@@ -222,18 +222,7 @@ _Last automated update: Sat, 28 Feb 2026 07:21:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
-
-<details>
-<summary>💡 Hint</summary>
-
-Heap, stack, garbage collection
-
-</details>
-
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
 **Difficulty**: Easy | **Topics**: variables, scope
 
@@ -244,14 +233,25 @@ Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+State in functional components, reusable logic, cleaner code
+
+</details>
+
+### 3. React: How would you optimize a React app's performance?
+
+**Difficulty**: Hard | **Topics**: optimization, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Feb 2026 05:21:24 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 05:55:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
