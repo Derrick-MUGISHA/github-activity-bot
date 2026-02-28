@@ -19,12 +19,12 @@
   },
   "by_language": {
     "Go": 20,
-    "Python": 19,
     "JavaScript": 25,
     "PHP": 2,
-    "Rust": 3,
+    "Python": 19,
     "Java": 19,
-    "CSharp": 1
+    "CSharp": 1,
+    "Rust": 3
   },
   "by_date": {
     "2026-02-27": 13,
@@ -94,11 +94,11 @@
   "trending_topics": [],
   "language_percentages": {
     "Go": "22.5",
-    "Python": "21.3",
     "JavaScript": "28.1",
     "PHP": "2.2",
-    "Rust": "3.4",
+    "Python": "21.3",
     "Java": "21.3",
-    "CSharp": "1.1"
+    "CSharp": "1.1",
+    "Rust": "3.4"
   }
 }
