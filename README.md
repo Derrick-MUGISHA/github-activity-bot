@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-27-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-02-28-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -30,13 +30,13 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (50.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**WebDev**: 🟦🟦 6 (5.8%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-28-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![architecture](https://img.shields.io/badge/architecture-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![webdev](https://img.shields.io/badge/webdev-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![architecture](https://img.shields.io/badge/architecture-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-28 1:00 CAT)
+## 📅 Latest Updates (2026-02-28 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg) _[Dev.to]_
 - [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 01:46:16 CAT_
+_Last automated update: Sat, 28 Feb 2026 03:29:23 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 28 Feb 2026 01:46:16 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Mutability, performance, use cases
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Feb 2026 23:46:16 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 01:29:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
