@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -9,7 +9,7 @@
     "AI": 52,
     "JavaScript": 25,
     "Python": 19,
-    "DevOps": 5,
+    "DevOps": 4,
     "WebDev": 6,
     "Mobile": 1,
     "Cloud": 4,
@@ -32,7 +32,7 @@
     "2026-02-27": 13,
     "2026-02-25": 12,
     "2026-02-26": 9,
-    "2026-02-23": 10,
+    "2026-02-23": 9,
     "2026-02-24": 12,
     "2026-02-19": 4,
     "2026-02-22": 4,
@@ -89,9 +89,9 @@
     "agents": 5,
     "discuss": 4,
     "gemini": 4,
-    "devops": 4,
     "career": 4,
-    "security": 4
+    "security": 4,
+    "beginners": 4
   },
   "trending_topics": [],
   "language_percentages": {
