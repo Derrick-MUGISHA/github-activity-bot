@@ -472,21 +472,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
-      "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
-      "published_at": "2026-02-25T16:08:56Z",
-      "description": "Recently, I spent some time exploring OpenClaw — an open-source, agentic AI assistant that goes...",
-      "tags": [
-        "ai",
-        "openclaw",
-        "machinelearning",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkahtcoc3pu1euptxogxz.png",
-      "source": "Dev.to",
-      "user": "Praveen Gowthaman"
-    },
-    {
       "title": "A Quick Recovery Guide for AI-Dependent Coders",
       "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
       "published_at": "2026-02-23T05:00:00Z",
@@ -500,6 +485,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
       "source": "Dev.to",
       "user": "Cesar Aguirre"
+    },
+    {
+      "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
+      "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
+      "published_at": "2026-02-25T16:08:56Z",
+      "description": "Recently, I spent some time exploring OpenClaw — an open-source, agentic AI assistant that goes...",
+      "tags": [
+        "ai",
+        "openclaw",
+        "machinelearning",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkahtcoc3pu1euptxogxz.png",
+      "source": "Dev.to",
+      "user": "Praveen Gowthaman"
     },
     {
       "title": "Software engineering is not dead",
@@ -529,21 +529,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
       "source": "Dev.to",
       "user": "khalil la"
-    },
-    {
-      "title": "HJX: Rethinking the Web for the AI Era",
-      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
-      "published_at": "2026-02-17T04:40:08Z",
-      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
-      "tags": [
-        "ai",
-        "frontend",
-        "web",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
-      "source": "Dev.to",
-      "user": "Loaiabdalslam"
     },
     {
       "title": "Airfoil",
@@ -678,6 +663,21 @@
       "user": "veesahni"
     },
     {
+      "title": "bcurts/agentchattr - Local chat server for real-time autonomous coordination between AI coding agents and humans",
+      "url": "https://github.com/bcurts/agentchattr",
+      "published_at": "2026-02-26T19:03:35Z",
+      "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/21200978?v=4",
+      "source": "GitHub",
+      "stars": 193,
+      "user": "bcurts"
+    },
+    {
       "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "published_at": "2026-02-24T02:10:24Z",
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2330,
+      "stars": 2357,
       "user": "Panniantong"
     },
     {
@@ -704,23 +704,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "nextlevelbuilder"
-    },
-    {
-      "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
-      "url": "https://github.com/quailyquaily/aqua",
-      "published_at": "2026-02-21T19:04:48Z",
-      "description": "Aqua, a cli message tool for AI agents ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
-      "source": "GitHub",
-      "stars": 220,
-      "user": "quailyquaily"
     },
     {
       "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
@@ -734,8 +719,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 141,
       "user": "taigrr"
+    },
+    {
+      "title": "afumu/openlink - OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
+      "url": "https://github.com/afumu/openlink",
+      "published_at": "2026-02-24T04:55:25Z",
+      "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50908453?v=4",
+      "source": "GitHub",
+      "stars": 114,
+      "user": "afumu"
     }
   ],
   "JavaScript": [
@@ -1024,6 +1024,21 @@
       "user": "mksglu"
     },
     {
+      "title": "bcurts/agentchattr - Local chat server for real-time autonomous coordination between AI coding agents and humans",
+      "url": "https://github.com/bcurts/agentchattr",
+      "published_at": "2026-02-26T19:03:35Z",
+      "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/21200978?v=4",
+      "source": "GitHub",
+      "stars": 193,
+      "user": "bcurts"
+    },
+    {
       "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
       "url": "https://github.com/jesselau76/cigen",
       "published_at": "2026-02-24T02:05:31Z",
@@ -1050,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 172,
       "user": "Sir-Scuzza"
     },
     {
@@ -1067,21 +1082,6 @@
       "source": "GitHub",
       "stars": 165,
       "user": "direkturcrypto"
-    },
-    {
-      "title": "joeseesun/word-root-workshop - 📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
-      "url": "https://github.com/joeseesun/word-root-workshop",
-      "published_at": "2026-02-25T06:38:42Z",
-      "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "joeseesun"
     }
   ],
   "Python": [
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4083,
+      "stars": 4164,
       "user": "anthropics"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2330,
+      "stars": 2357,
       "user": "Panniantong"
     },
     {
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1454,
+      "stars": 1461,
       "user": "peteromallet"
     },
     {
@@ -1322,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 676,
       "user": "apple"
     },
     {
@@ -1337,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 600,
       "user": "runesleo"
     }
   ],
@@ -1490,21 +1490,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1meo83gggipdvjrls7br.png",
       "source": "Dev.to",
       "user": "khalil la"
-    },
-    {
-      "title": "HJX: Rethinking the Web for the AI Era",
-      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
-      "published_at": "2026-02-17T04:40:08Z",
-      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
-      "tags": [
-        "ai",
-        "frontend",
-        "web",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
-      "source": "Dev.to",
-      "user": "Loaiabdalslam"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1816,6 +1801,21 @@
       "user": "Matthew Hou"
     },
     {
+      "title": "The Developer I'm Grateful I Never Became",
+      "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
+      "published_at": "2026-02-25T22:40:07Z",
+      "description": "Inspired by—but not aligned with—\"The $0 Developer Phase—And How Dev.to Pulled Me Out\" by Art...",
+      "tags": [
+        "career",
+        "webdev",
+        "beginners",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
+      "source": "Dev.to",
+      "user": "Narnaiezzsshaa Truong"
+    },
+    {
       "title": "Accessibility Testing with Playwright Assertions",
       "url": "https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i",
       "published_at": "2026-02-19T02:03:09Z",
@@ -1905,6 +1905,21 @@
       "user": "mksglu"
     },
     {
+      "title": "bcurts/agentchattr - Local chat server for real-time autonomous coordination between AI coding agents and humans",
+      "url": "https://github.com/bcurts/agentchattr",
+      "published_at": "2026-02-26T19:03:35Z",
+      "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/21200978?v=4",
+      "source": "GitHub",
+      "stars": 193,
+      "user": "bcurts"
+    },
+    {
       "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
       "url": "https://github.com/jesselau76/cigen",
       "published_at": "2026-02-24T02:05:31Z",
@@ -1931,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 172,
       "user": "Sir-Scuzza"
     },
     {
@@ -1950,21 +1965,6 @@
       "user": "direkturcrypto"
     },
     {
-      "title": "joeseesun/word-root-workshop - 📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
-      "url": "https://github.com/joeseesun/word-root-workshop",
-      "published_at": "2026-02-25T06:38:42Z",
-      "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "joeseesun"
-    },
-    {
       "title": "anthropics/financial-services-plugins - GitHub Repository",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "published_at": "2026-02-23T19:24:50Z",
@@ -1976,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4083,
+      "stars": 4164,
       "user": "anthropics"
     },
     {
@@ -1991,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2330,
+      "stars": 2357,
       "user": "Panniantong"
     },
     {
@@ -2006,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1454,
+      "stars": 1461,
       "user": "peteromallet"
     },
     {
@@ -2021,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 676,
       "user": "apple"
     },
     {
@@ -2036,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 600,
       "user": "runesleo"
     },
     {
@@ -2051,23 +2051,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 412,
       "user": "thellimist"
-    },
-    {
-      "title": "nextlevelbuilder/goclaw - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "url": "https://github.com/nextlevelbuilder/goclaw",
-      "published_at": "2026-02-22T07:26:36Z",
-      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
-      "source": "GitHub",
-      "stars": 234,
-      "user": "nextlevelbuilder"
     },
     {
       "title": "bjarneo/cliamp - Terminal Winamp",
@@ -2081,23 +2066,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 237,
       "user": "bjarneo"
     },
     {
-      "title": "quailyquaily/aqua - Aqua, a cli message tool for AI agents ",
-      "url": "https://github.com/quailyquaily/aqua",
-      "published_at": "2026-02-21T19:04:48Z",
-      "description": "Aqua, a cli message tool for AI agents ",
+      "title": "nextlevelbuilder/goclaw - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
+      "url": "https://github.com/nextlevelbuilder/goclaw",
+      "published_at": "2026-02-22T07:26:36Z",
+      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139473545?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 220,
-      "user": "quailyquaily"
+      "stars": 235,
+      "user": "nextlevelbuilder"
     },
     {
       "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
@@ -2111,8 +2096,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 141,
       "user": "taigrr"
+    },
+    {
+      "title": "afumu/openlink - OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
+      "url": "https://github.com/afumu/openlink",
+      "published_at": "2026-02-24T04:55:25Z",
+      "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50908453?v=4",
+      "source": "GitHub",
+      "stars": 114,
+      "user": "afumu"
     }
   ]
 }
