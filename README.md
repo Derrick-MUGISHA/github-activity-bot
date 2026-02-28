@@ -219,7 +219,7 @@ npm run test
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 - [The $0 Developer Phase — And How Dev.to Pulled Me Out](https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 19:17:36 CAT_
+_Last automated update: Sat, 28 Feb 2026 19:43:53 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 28 Feb 2026 19:17:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Execution timing, event loop phases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Feb 2026 17:17:36 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 17:43:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
