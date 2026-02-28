@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-02-28 5:00 CAT)
+## 📅 Latest Updates (2026-02-28 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1) _[Dev.to]_
 - [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg) _[Dev.to]_
 
-_Last automated update: Sat, 28 Feb 2026 05:31:02 CAT_
+_Last automated update: Sat, 28 Feb 2026 06:43:24 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 28 Feb 2026 05:31:02 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Heap, stack, garbage collection
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Feb 2026 03:31:02 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Feb 2026 04:43:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
