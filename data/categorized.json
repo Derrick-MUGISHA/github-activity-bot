@@ -31,6 +31,19 @@
       "user": "Daniel Nwaneri"
     },
     {
+      "title": "AI Ate the Homework: What Communities Are Actually For Now",
+      "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
+      "published_at": "2026-02-27T22:05:16Z",
+      "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builders and members.",
+      "tags": [
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9wf3o4i4z2u8k2jxdar.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
+    },
+    {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
       "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
       "published_at": "2026-02-25T17:41:43Z",
@@ -76,21 +89,6 @@
       "user": "Aidas Bendoraitis"
     },
     {
-      "title": "A Founder’s Blueprint to Creating a Technical Sales Team",
-      "url": "https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f",
-      "published_at": "2026-02-27T17:52:39Z",
-      "description": "I have found that technical founders tend to treat Go-To-Market (GTM) as an afterthought (or a black...",
-      "tags": [
-        "startup",
-        "gtm",
-        "product",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nbmfj79d55rwrfyzgvs.png",
-      "source": "Dev.to",
-      "user": "Abraham Gomez"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -104,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "A Founder’s Blueprint to Creating a Technical Sales Team",
+      "url": "https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f",
+      "published_at": "2026-02-27T17:52:39Z",
+      "description": "I have found that technical founders tend to treat Go-To-Market (GTM) as an afterthought (or a black...",
+      "tags": [
+        "startup",
+        "gtm",
+        "product",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nbmfj79d55rwrfyzgvs.png",
+      "source": "Dev.to",
+      "user": "Abraham Gomez"
     },
     {
       "title": "I deleted my source code",
@@ -674,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21200978?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 198,
       "user": "bcurts"
     },
     {
@@ -689,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2357,
+      "stars": 2409,
       "user": "Panniantong"
     },
     {
@@ -704,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "nextlevelbuilder"
     },
     {
@@ -719,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 205,
       "user": "taigrr"
     },
     {
@@ -734,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50908453?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "afumu"
     }
   ],
@@ -1035,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21200978?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 198,
       "user": "bcurts"
     },
     {
@@ -1065,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 180,
       "user": "Sir-Scuzza"
     },
     {
@@ -1277,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4164,
+      "stars": 4264,
       "user": "anthropics"
     },
     {
@@ -1292,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2357,
+      "stars": 2409,
       "user": "Panniantong"
     },
     {
@@ -1307,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1469,
       "user": "peteromallet"
     },
     {
@@ -1322,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 677,
       "user": "apple"
     },
     {
@@ -1337,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 603,
       "user": "runesleo"
     }
   ],
@@ -1916,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21200978?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 198,
       "user": "bcurts"
     },
     {
@@ -1946,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 180,
       "user": "Sir-Scuzza"
     },
     {
@@ -1976,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4164,
+      "stars": 4264,
       "user": "anthropics"
     },
     {
@@ -1991,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 2357,
+      "stars": 2409,
       "user": "Panniantong"
     },
     {
@@ -2006,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1469,
       "user": "peteromallet"
     },
     {
@@ -2021,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 677,
       "user": "apple"
     },
     {
@@ -2036,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245669230?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 603,
       "user": "runesleo"
     },
     {
@@ -2051,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 416,
       "user": "thellimist"
     },
     {
@@ -2066,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "bjarneo"
     },
     {
@@ -2081,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246974152?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "nextlevelbuilder"
     },
     {
@@ -2096,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 205,
       "user": "taigrr"
     },
     {
@@ -2111,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50908453?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "afumu"
     }
   ]
