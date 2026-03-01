@@ -44,7 +44,7 @@
 
 **Security**: 🟦🟦 4 (3.8%)
 
-**Database**: 🟦 3 (2.9%)
+**Database**: 🟦 2 (1.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -219,7 +219,7 @@ npm run test
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 - [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 
-_Last automated update: Sun, 01 Mar 2026 17:19:55 CAT_
+_Last automated update: Sun, 01 Mar 2026 17:44:24 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 01 Mar 2026 17:19:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 3. JavaScript: Implement a debounce function from scratch
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 01 Mar 2026 15:19:55 GMT</b><br/>
+  <b>Last automated update: Sun, 01 Mar 2026 15:44:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
