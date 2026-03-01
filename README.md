@@ -219,7 +219,7 @@ npm run test
 - [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 
-_Last automated update: Sun, 01 Mar 2026 20:28:51 CAT_
+_Last automated update: Sun, 01 Mar 2026 20:57:52 CAT_
 
 
 
@@ -227,29 +227,7 @@ _Last automated update: Sun, 01 Mar 2026 20:28:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
-
-**Difficulty**: Medium | **Topics**: linked lists, pointers
-
-<details>
-<summary>💡 Hint</summary>
-
-Iterative or recursive, three pointers
-
-</details>
-
-### 2. DataStructures: Find the median of two sorted arrays
-
-**Difficulty**: Hard | **Topics**: arrays, binary search
-
-<details>
-<summary>💡 Hint</summary>
-
-Binary search, partition, time complexity O(log(min(m,n)))
-
-</details>
-
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
 **Difficulty**: Easy | **Topics**: databases, design
 
@@ -257,6 +235,28 @@ Binary search, partition, time complexity O(log(min(m,n)))
 <summary>💡 Hint</summary>
 
 Schema, scalability, ACID vs BASE
+
+</details>
+
+### 2. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 3. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 01 Mar 2026 18:28:51 GMT</b><br/>
+  <b>Last automated update: Sun, 01 Mar 2026 18:57:52 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
