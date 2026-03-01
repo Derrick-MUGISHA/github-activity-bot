@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-01 23:00 CAT)
+## 📅 Latest Updates (2026-03-02 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Join the "Built with Google Gemini: Writing Challenge" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!](https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk) _[Dev.to]_
 - [I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest](https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h) _[Dev.to]_
 
-_Last automated update: Sun, 01 Mar 2026 23:56:35 CAT_
+_Last automated update: Mon, 02 Mar 2026 00:24:33 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 01 Mar 2026 23:56:35 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 01 Mar 2026 21:56:35 GMT</b><br/>
+  <b>Last automated update: Sun, 01 Mar 2026 22:24:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
