@@ -149,6 +149,19 @@
       "user": "Jess Lee"
     },
     {
+      "title": "AI Ate the Homework: What Communities Are Actually For Now",
+      "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
+      "published_at": "2026-02-27T22:05:16Z",
+      "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builders and members.",
+      "tags": [
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9wf3o4i4z2u8k2jxdar.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
+    },
+    {
       "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
       "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
       "published_at": "2026-02-27T15:27:49Z",
@@ -191,19 +204,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
       "source": "Dev.to",
       "user": "Mei Park"
-    },
-    {
-      "title": "AI Ate the Homework: What Communities Are Actually For Now",
-      "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
-      "published_at": "2026-02-27T22:05:16Z",
-      "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builders and members.",
-      "tags": [
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9wf3o4i4z2u8k2jxdar.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
     },
     {
       "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
@@ -600,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3391,
+      "stars": 3392,
       "user": "Panniantong"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3190,
+      "stars": 3194,
       "user": "agentscope-ai"
     },
     {
@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1019,
       "user": "taigrr"
     },
     {
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "geekjourneyx"
     }
   ],
@@ -946,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1342,
       "user": "mksglu"
     },
     {
@@ -1188,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 5053,
+      "stars": 5055,
       "user": "anthropics"
     },
     {
@@ -1203,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3391,
+      "stars": 3392,
       "user": "Panniantong"
     },
     {
@@ -1218,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3190,
+      "stars": 3194,
       "user": "agentscope-ai"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1677,
+      "stars": 1679,
       "user": "peteromallet"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1331,
       "user": "Lakr233"
     }
   ],
@@ -1384,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "geekjourneyx"
     }
   ],
@@ -1462,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3190,
+      "stars": 3194,
       "user": "agentscope-ai"
     }
   ],
@@ -1758,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1342,
       "user": "mksglu"
     },
     {
@@ -1833,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 5053,
+      "stars": 5055,
       "user": "anthropics"
     },
     {
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3391,
+      "stars": 3392,
       "user": "Panniantong"
     },
     {
@@ -1863,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3190,
+      "stars": 3194,
       "user": "agentscope-ai"
     },
     {
@@ -1878,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1677,
+      "stars": 1679,
       "user": "peteromallet"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1331,
       "user": "Lakr233"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1019,
       "user": "taigrr"
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 464,
       "user": "thellimist"
     },
     {
@@ -1938,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 367,
       "user": "bjarneo"
     },
     {
@@ -1953,23 +1953,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "geekjourneyx"
     },
     {
-      "title": "junevm/splathash - compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.",
-      "url": "https://github.com/junevm/splathash",
-      "published_at": "2026-02-27T05:36:30Z",
-      "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.",
+      "title": "Resinat/Resin - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.",
+      "url": "https://github.com/Resinat/Resin",
+      "published_at": "2026-02-28T07:18:53Z",
+      "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62926341?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 132,
-      "user": "junevm"
+      "stars": 133,
+      "user": "Resinat"
     }
   ]
 }
