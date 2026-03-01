@@ -369,6 +369,21 @@
       "user": "Sem Gebresilassie"
     },
     {
+      "title": "A Founder’s Blueprint to Creating a Technical Sales Team",
+      "url": "https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f",
+      "published_at": "2026-02-27T17:52:39Z",
+      "description": "I have found that technical founders tend to treat Go-To-Market (GTM) as an afterthought (or a black...",
+      "tags": [
+        "startup",
+        "gtm",
+        "product",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nbmfj79d55rwrfyzgvs.png",
+      "source": "Dev.to",
+      "user": "Abraham Gomez"
+    },
+    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -472,20 +487,6 @@
       "user": "khalil la"
     },
     {
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "url": "https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1",
-      "published_at": "2026-02-26T22:42:29Z",
-      "description": "In August of last year, our Gemini Image model, Nano Banana, became a viral sensation, redefining...",
-      "tags": [
-        "nanobanana",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utfv29sqz058e0n9ahc.webp",
-      "source": "Dev.to",
-      "user": "Alisa Fortin"
-    },
-    {
       "title": "HJX: Rethinking the Web for the AI Era",
       "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
       "published_at": "2026-02-17T04:40:08Z",
@@ -499,6 +500,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
       "source": "Dev.to",
       "user": "Loaiabdalslam"
+    },
+    {
+      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
+      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
+      "published_at": "2026-02-13T19:52:20Z",
+      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
+      "tags": [
+        "stripe",
+        "saas",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
+      "source": "Dev.to",
+      "user": "Ale"
     },
     {
       "title": "Airfoil",
@@ -644,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3067,
+      "stars": 3117,
       "user": "Panniantong"
     },
     {
@@ -659,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2088,
+      "stars": 2282,
       "user": "agentscope-ai"
     },
     {
@@ -674,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 790,
       "user": "taigrr"
     },
     {
@@ -689,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50908453?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "afumu"
     }
   ],
@@ -859,6 +875,21 @@
       "user": "Arindam Dawn"
     },
     {
+      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
+      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
+      "published_at": "2026-02-13T19:52:20Z",
+      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
+      "tags": [
+        "stripe",
+        "saas",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
+      "source": "Dev.to",
+      "user": "Ale"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -990,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 537,
       "user": "mksglu"
     },
     {
@@ -1005,8 +1036,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 221,
       "user": "Sir-Scuzza"
+    },
+    {
+      "title": "silships/figma-cli - GitHub Repository",
+      "url": "https://github.com/silships/figma-cli",
+      "published_at": "2026-02-23T19:19:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
+      "source": "GitHub",
+      "stars": 184,
+      "user": "silships"
     },
     {
       "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
@@ -1022,21 +1068,6 @@
       "source": "GitHub",
       "stars": 183,
       "user": "jesselau76"
-    },
-    {
-      "title": "silships/figma-cli - GitHub Repository",
-      "url": "https://github.com/silships/figma-cli",
-      "published_at": "2026-02-23T19:19:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
-      "source": "GitHub",
-      "stars": 181,
-      "user": "silships"
     },
     {
       "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
@@ -1069,21 +1100,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ubpltdhsx0n7owyd5ol.png",
       "source": "Dev.to",
       "user": "Aidas Bendoraitis"
-    },
-    {
-      "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe",
-      "published_at": "2026-02-24T23:44:05Z",
-      "description": "HTCPCP/1.0, the 418 teapot, a full interactive dashboard, and why a 1998 April Fools RFC teaches better software design than most tech books.",
-      "tags": [
-        "fun",
-        "http",
-        "python",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg",
-      "source": "Dev.to",
-      "user": "Pascal CESCATO"
     },
     {
       "title": "Wiring Claude Into Real Systems With Tool Use",
@@ -1247,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4898,
+      "stars": 4925,
       "user": "anthropics"
     },
     {
@@ -1262,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3067,
+      "stars": 3117,
       "user": "Panniantong"
     },
     {
@@ -1277,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2088,
+      "stars": 2282,
       "user": "agentscope-ai"
     },
     {
@@ -1292,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1615,
+      "stars": 1626,
       "user": "peteromallet"
     },
     {
@@ -1307,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 733,
       "user": "apple"
     }
   ],
@@ -1533,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2088,
+      "stars": 2282,
       "user": "agentscope-ai"
     }
   ],
@@ -1843,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 537,
       "user": "mksglu"
     },
     {
@@ -1858,8 +1874,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 221,
       "user": "Sir-Scuzza"
+    },
+    {
+      "title": "silships/figma-cli - GitHub Repository",
+      "url": "https://github.com/silships/figma-cli",
+      "published_at": "2026-02-23T19:19:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
+      "source": "GitHub",
+      "stars": 184,
+      "user": "silships"
     },
     {
       "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
@@ -1875,21 +1906,6 @@
       "source": "GitHub",
       "stars": 183,
       "user": "jesselau76"
-    },
-    {
-      "title": "silships/figma-cli - GitHub Repository",
-      "url": "https://github.com/silships/figma-cli",
-      "published_at": "2026-02-23T19:19:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
-      "source": "GitHub",
-      "stars": 181,
-      "user": "silships"
     },
     {
       "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
@@ -1918,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4898,
+      "stars": 4925,
       "user": "anthropics"
     },
     {
@@ -1933,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3067,
+      "stars": 3117,
       "user": "Panniantong"
     },
     {
@@ -1948,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2088,
+      "stars": 2282,
       "user": "agentscope-ai"
     },
     {
@@ -1963,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1615,
+      "stars": 1626,
       "user": "peteromallet"
     },
     {
@@ -1978,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 733,
       "user": "apple"
     },
     {
@@ -1993,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 790,
       "user": "taigrr"
     },
     {
@@ -2008,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 446,
       "user": "thellimist"
     },
     {
@@ -2023,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 318,
       "user": "bjarneo"
     },
     {
@@ -2038,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50908453?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "afumu"
     },
     {
