@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-01 6:00 CAT)
+## 📅 Latest Updates (2026-03-01 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 
-_Last automated update: Sun, 01 Mar 2026 06:28:00 CAT_
+_Last automated update: Sun, 01 Mar 2026 07:36:25 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 01 Mar 2026 06:28:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Execution timing, event loop phases
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 01 Mar 2026 04:28:00 GMT</b><br/>
+  <b>Last automated update: Sun, 01 Mar 2026 05:36:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
