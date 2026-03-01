@@ -219,7 +219,7 @@ npm run test
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc) _[Dev.to]_
 
-_Last automated update: Sun, 01 Mar 2026 13:41:45 CAT_
+_Last automated update: Sun, 01 Mar 2026 13:53:08 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 01 Mar 2026 13:41:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 01 Mar 2026 11:41:45 GMT</b><br/>
+  <b>Last automated update: Sun, 01 Mar 2026 11:53:08 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
