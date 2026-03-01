@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3277,
+      "stars": 3294,
       "user": "Panniantong"
     },
     {
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2777,
+      "stars": 2829,
       "user": "agentscope-ai"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 904,
       "user": "taigrr"
     },
     {
@@ -675,23 +675,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "geekjourneyx"
-    },
-    {
-      "title": "afumu/openlink - OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
-      "url": "https://github.com/afumu/openlink",
-      "published_at": "2026-02-24T04:55:25Z",
-      "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50908453?v=4",
-      "source": "GitHub",
-      "stars": 118,
-      "user": "afumu"
     }
   ],
   "JavaScript": [
@@ -1006,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 850,
       "user": "mksglu"
     },
     {
@@ -1248,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4983,
+      "stars": 4993,
       "user": "anthropics"
     },
     {
@@ -1263,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3277,
+      "stars": 3294,
       "user": "Panniantong"
     },
     {
@@ -1278,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2777,
+      "stars": 2829,
       "user": "agentscope-ai"
     },
     {
@@ -1293,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1662,
       "user": "peteromallet"
     },
     {
@@ -1308,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 843,
       "user": "ylytdeng"
     }
   ],
@@ -1459,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "geekjourneyx"
     }
   ],
@@ -1537,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2777,
+      "stars": 2829,
       "user": "agentscope-ai"
     }
   ],
@@ -1581,7 +1566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 843,
       "user": "ylytdeng"
     }
   ],
@@ -1660,6 +1645,20 @@
       "user": "Denis Bakhoum"
     },
     {
+      "title": "Upgraded embed experience and new embed types in DEV posts",
+      "url": "https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho",
+      "published_at": "2026-02-27T14:29:22Z",
+      "description": "When you paste a URL into your DEV post, if it is embeddable, you now get a handy little tooltip to...",
+      "tags": [
+        "news",
+        "devto",
+        "forem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png",
+      "source": "Dev.to",
+      "user": "Jon Gottfried"
+    },
+    {
       "title": "Automatic cross-platform testing: part 7: 32 bit, again",
       "url": "https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf",
       "published_at": "2026-02-27T21:23:41Z",
@@ -1673,20 +1672,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk3nsmfxk1k1wshviczw.png",
       "source": "Dev.to",
       "user": "David Cantrell"
-    },
-    {
-      "title": "Upgraded embed experience and new embed types in DEV posts",
-      "url": "https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho",
-      "published_at": "2026-02-27T14:29:22Z",
-      "description": "When you paste a URL into your DEV post, if it is embeddable, you now get a handy little tooltip to...",
-      "tags": [
-        "news",
-        "devto",
-        "forem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png",
-      "source": "Dev.to",
-      "user": "Jon Gottfried"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1862,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 850,
       "user": "mksglu"
     },
     {
@@ -1937,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4983,
+      "stars": 4993,
       "user": "anthropics"
     },
     {
@@ -1952,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3277,
+      "stars": 3294,
       "user": "Panniantong"
     },
     {
@@ -1967,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2777,
+      "stars": 2829,
       "user": "agentscope-ai"
     },
     {
@@ -1982,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1662,
       "user": "peteromallet"
     },
     {
@@ -1997,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 843,
       "user": "ylytdeng"
     },
     {
@@ -2012,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 904,
       "user": "taigrr"
     },
     {
@@ -2057,23 +2042,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "geekjourneyx"
     },
     {
-      "title": "afumu/openlink - OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
-      "url": "https://github.com/afumu/openlink",
-      "published_at": "2026-02-24T04:55:25Z",
-      "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
+      "title": "junevm/splathash - compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.",
+      "url": "https://github.com/junevm/splathash",
+      "published_at": "2026-02-27T05:36:30Z",
+      "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50908453?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/62926341?v=4",
       "source": "GitHub",
-      "stars": 118,
-      "user": "afumu"
+      "stars": 120,
+      "user": "junevm"
     }
   ]
 }
