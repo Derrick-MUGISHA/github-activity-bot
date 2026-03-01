@@ -208,8 +208,8 @@ npm run test
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
 - [The Token Economy](https://dev.to/dannwaneri/the-token-economy-3cd9) _[Dev.to]_
 - [Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.](https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8) _[Dev.to]_
-- [Upgraded embed experience and new embed types in DEV posts](https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho) _[Dev.to]_
 - [AI Ate the Homework: What Communities Are Actually For Now](https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi) _[Dev.to]_
+- [Upgraded embed experience and new embed types in DEV posts](https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho) _[Dev.to]_
 - [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
 - [Automatic cross-platform testing: part 7: 32 bit, again](https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf) _[Dev.to]_
 - [An App where you can Train your Own Hand Pose Model for your Project! 🤌](https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 - [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 
-_Last automated update: Sun, 01 Mar 2026 18:31:09 CAT_
+_Last automated update: Sun, 01 Mar 2026 18:58:18 CAT_
 
 
 
@@ -238,25 +238,25 @@ Heap, stack, garbage collection
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 01 Mar 2026 16:31:09 GMT</b><br/>
+  <b>Last automated update: Sun, 01 Mar 2026 16:58:18 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
