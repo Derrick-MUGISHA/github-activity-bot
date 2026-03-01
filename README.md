@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-01-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (48.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (28.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦 7 (6.8%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦🟦 4 (3.9%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
-**Cloud**: 🟦🟦 4 (3.9%)
+**Cloud**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (3.9%)
+**Security**: 🟦🟦 4 (3.8%)
 
-**Database**: 🟦 2 (1.9%)
+**Database**: 🟦 3 (2.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,13 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.9 (28.9%)
-Java            ████████████████████████ 23.3 (23.3%)
-Python          █████████████████████ 20.0 (20.0%)
-Go              ████████████████████ 18.9 (18.9%)
+JavaScript      ██████████████████████████████ 29.3 (29.3%)
+Java            ███████████████████████ 22.8 (22.8%)
+Python          ████████████████████ 19.6 (19.6%)
+Go              ███████████████████ 18.5 (18.5%)
 Rust            ███ 3.3 (3.3%)
 PHP             ██ 2.2 (2.2%)
-CSharp          █ 1.1 (1.1%)
+CSharp          ██ 2.2 (2.2%)
 Swift           █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 
@@ -74,13 +74,13 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 26
+    "JavaScript" : 27
     "Java" : 21
     "Python" : 18
     "Go" : 17
     "Rust" : 3
     "PHP" : 2
-    "CSharp" : 1
+    "CSharp" : 2
     "Swift" : 1
 ```
 
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![showdev](https://img.shields.io/badge/showdev-4-blue) ![discuss](https://img.shields.io/badge/discuss-4-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -219,7 +219,7 @@ npm run test
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc) _[Dev.to]_
 
-_Last automated update: Sun, 01 Mar 2026 12:21:22 CAT_
+_Last automated update: Sun, 01 Mar 2026 12:49:30 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 01 Mar 2026 12:21:22 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Execution timing, event loop phases
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 01 Mar 2026 10:21:22 GMT</b><br/>
+  <b>Last automated update: Sun, 01 Mar 2026 10:49:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
