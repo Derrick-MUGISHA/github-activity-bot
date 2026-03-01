@@ -266,21 +266,6 @@
       "user": "Dean Radcliffe"
     },
     {
-      "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
-      "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
-      "published_at": "2026-02-24T19:29:47Z",
-      "description": "A Quick Recovery Guide for AI-Dependent Coders       Cesar...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
-    },
-    {
       "title": "A Quick Recovery Guide for AI-Dependent Coders",
       "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
       "published_at": "2026-02-23T05:00:00Z",
@@ -502,6 +487,21 @@
       "user": "Ale"
     },
     {
+      "title": "38 Issues: Code Review Agent Showdown between BugBot, Copilot and Claude",
+      "url": "https://dev.to/terence/38-issues-showdown-between-bugbot-copilot-and-claude-2o7e",
+      "published_at": "2026-02-24T13:45:30Z",
+      "description": "AI code review tools promise to catch what human reviewers miss. But which one actually delivers? I...",
+      "tags": [
+        "ai",
+        "codequality",
+        "dotnet",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp5d6rb0k0a4h3x4ea4wq.png",
+      "source": "Dev.to",
+      "user": "Terence Tham"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3241,
+      "stars": 3254,
       "user": "Panniantong"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2676,
       "user": "agentscope-ai"
     },
     {
@@ -675,8 +675,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 873,
       "user": "taigrr"
+    },
+    {
+      "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "url": "https://github.com/geekjourneyx/jina-cli",
+      "published_at": "2026-02-28T08:39:26Z",
+      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "geekjourneyx"
     },
     {
       "title": "afumu/openlink - OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
@@ -692,21 +707,6 @@
       "source": "GitHub",
       "stars": 118,
       "user": "afumu"
-    },
-    {
-      "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "url": "https://github.com/geekjourneyx/jina-cli",
-      "published_at": "2026-02-28T08:39:26Z",
-      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
-      "source": "GitHub",
-      "stars": 117,
-      "user": "geekjourneyx"
     }
   ],
   "JavaScript": [
@@ -875,6 +875,21 @@
       "user": "Ale"
     },
     {
+      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
+      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
+      "published_at": "2026-02-12T06:27:14Z",
+      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
+      "tags": [
+        "supabase",
+        "react",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
+      "source": "Dev.to",
+      "user": "Fongoh Martin T."
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1006,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 744,
       "user": "mksglu"
     },
     {
@@ -1248,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4970,
+      "stars": 4975,
       "user": "anthropics"
     },
     {
@@ -1263,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3241,
+      "stars": 3254,
       "user": "Panniantong"
     },
     {
@@ -1278,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2676,
       "user": "agentscope-ai"
     },
     {
@@ -1293,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1646,
+      "stars": 1648,
       "user": "peteromallet"
     },
     {
@@ -1308,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 796,
       "user": "ylytdeng"
     }
   ],
@@ -1391,18 +1406,6 @@
       "user": "Anja Beisel"
     },
     {
-      "title": "Mastering Smooth UI Transitions: The End of the \"Height: Auto\" Hack",
-      "url": "https://dev.to/vanaf1979/mastering-smooth-ui-transitions-the-end-of-the-height-auto-hack-3hjc",
-      "published_at": "2026-02-25T14:36:26Z",
-      "description": "In this article, I break down how the new interpolate-size and transition-behavior properties finally solve the \"height: auto\" problem in CSS. We walk through how to ditch old hacks for native, smooth transitions that handle both dynamic math and discrete display states the right way.",
-      "tags": [
-        "css"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wp157lfoetjes2zdaa6.png",
-      "source": "Dev.to",
-      "user": "Stephan Nijman"
-    },
-    {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
       "published_at": "2026-02-15T12:26:26Z",
@@ -1471,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 120,
       "user": "geekjourneyx"
     }
   ],
@@ -1549,11 +1552,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2676,
       "user": "agentscope-ai"
     }
   ],
   "Database": [
+    {
+      "title": "Building a Simple Blog with Supabase (Posts & Comments)",
+      "url": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
+      "published_at": "2026-02-12T06:27:14Z",
+      "description": "In this tutorial, we will build a simple blog system using Supabase (PostgreSQL + Auth) and React...",
+      "tags": [
+        "supabase",
+        "react",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxejkk33ebyi6lktv99wd.png",
+      "source": "Dev.to",
+      "user": "Fongoh Martin T."
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1578,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 796,
       "user": "ylytdeng"
     }
   ],
@@ -1848,6 +1866,21 @@
       "user": "Prabhat Kumar"
     },
     {
+      "title": "38 Issues: Code Review Agent Showdown between BugBot, Copilot and Claude",
+      "url": "https://dev.to/terence/38-issues-showdown-between-bugbot-copilot-and-claude-2o7e",
+      "published_at": "2026-02-24T13:45:30Z",
+      "description": "AI code review tools promise to catch what human reviewers miss. But which one actually delivers? I...",
+      "tags": [
+        "ai",
+        "codequality",
+        "dotnet",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp5d6rb0k0a4h3x4ea4wq.png",
+      "source": "Dev.to",
+      "user": "Terence Tham"
+    },
+    {
       "title": "mksglu/claude-context-mode - Stop losing context to large outputs.",
       "url": "https://github.com/mksglu/claude-context-mode",
       "published_at": "2026-02-23T05:56:28Z",
@@ -1859,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 744,
       "user": "mksglu"
     },
     {
@@ -1934,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4970,
+      "stars": 4975,
       "user": "anthropics"
     },
     {
@@ -1949,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3241,
+      "stars": 3254,
       "user": "Panniantong"
     },
     {
@@ -1964,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2676,
       "user": "agentscope-ai"
     },
     {
@@ -1979,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1646,
+      "stars": 1648,
       "user": "peteromallet"
     },
     {
@@ -1994,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 796,
       "user": "ylytdeng"
     },
     {
@@ -2009,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 873,
       "user": "taigrr"
     },
     {
@@ -2039,8 +2072,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 329,
       "user": "bjarneo"
+    },
+    {
+      "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "url": "https://github.com/geekjourneyx/jina-cli",
+      "published_at": "2026-02-28T08:39:26Z",
+      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "geekjourneyx"
     },
     {
       "title": "afumu/openlink - OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
@@ -2056,21 +2104,6 @@
       "source": "GitHub",
       "stars": 118,
       "user": "afumu"
-    },
-    {
-      "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "url": "https://github.com/geekjourneyx/jina-cli",
-      "published_at": "2026-02-28T08:39:26Z",
-      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
-      "source": "GitHub",
-      "stars": 117,
-      "user": "geekjourneyx"
     }
   ]
 }
