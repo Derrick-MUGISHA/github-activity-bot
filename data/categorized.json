@@ -251,21 +251,6 @@
       "user": "Mirza Leka"
     },
     {
-      "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
-      "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
-      "published_at": "2026-02-24T19:29:47Z",
-      "description": "A Quick Recovery Guide for AI-Dependent Coders       Cesar...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
-    },
-    {
       "title": "Vibe Coding an Audio Engineer Who Never Sleeps",
       "url": "https://dev.to/deanius/vibe-coding-an-audio-engineer-who-never-sleeps-4o61",
       "published_at": "2026-02-25T19:09:12Z",
@@ -279,6 +264,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjwxbnzcrvl9uyq0jrr9m.jpg",
       "source": "Dev.to",
       "user": "Dean Radcliffe"
+    },
+    {
+      "title": "Think of AI-assisted coding as calculators in math classes. You can't use them until you know the procedure you want to automate by hand.",
+      "url": "https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh",
+      "published_at": "2026-02-24T19:29:47Z",
+      "description": "A Quick Recovery Guide for AI-Dependent Coders       Cesar...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizpn2p4ptubptfek5f2h.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
     },
     {
       "title": "A Quick Recovery Guide for AI-Dependent Coders",
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3232,
+      "stars": 3241,
       "user": "Panniantong"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2625,
+      "stars": 2652,
       "user": "agentscope-ai"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 867,
       "user": "taigrr"
     },
     {
@@ -692,6 +692,21 @@
       "source": "GitHub",
       "stars": 118,
       "user": "afumu"
+    },
+    {
+      "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "url": "https://github.com/geekjourneyx/jina-cli",
+      "published_at": "2026-02-28T08:39:26Z",
+      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "geekjourneyx"
     }
   ],
   "JavaScript": [
@@ -991,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 730,
       "user": "mksglu"
     },
     {
@@ -1021,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "silships"
     },
     {
@@ -1233,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4967,
+      "stars": 4970,
       "user": "anthropics"
     },
     {
@@ -1248,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3232,
+      "stars": 3241,
       "user": "Panniantong"
     },
     {
@@ -1263,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2625,
+      "stars": 2652,
       "user": "agentscope-ai"
     },
     {
@@ -1278,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1643,
+      "stars": 1646,
       "user": "peteromallet"
     },
     {
@@ -1293,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 789,
       "user": "ylytdeng"
     }
   ],
@@ -1443,6 +1458,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "url": "https://github.com/geekjourneyx/jina-cli",
+      "published_at": "2026-02-28T08:39:26Z",
+      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "geekjourneyx"
     }
   ],
   "Mobile": [
@@ -1519,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2625,
+      "stars": 2652,
       "user": "agentscope-ai"
     }
   ],
@@ -1548,7 +1578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 789,
       "user": "ylytdeng"
     }
   ],
@@ -1829,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 730,
       "user": "mksglu"
     },
     {
@@ -1859,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "silships"
     },
     {
@@ -1904,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4967,
+      "stars": 4970,
       "user": "anthropics"
     },
     {
@@ -1919,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3232,
+      "stars": 3241,
       "user": "Panniantong"
     },
     {
@@ -1934,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2625,
+      "stars": 2652,
       "user": "agentscope-ai"
     },
     {
@@ -1949,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1643,
+      "stars": 1646,
       "user": "peteromallet"
     },
     {
@@ -1964,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 789,
       "user": "ylytdeng"
     },
     {
@@ -1979,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 867,
       "user": "taigrr"
     },
     {
@@ -2009,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 327,
       "user": "bjarneo"
     },
     {
@@ -2028,19 +2058,19 @@
       "user": "afumu"
     },
     {
-      "title": "NOBB2333/ClipCascade_go - ClipCascade 跨平台跨设备剪贴板同步工具 go语言重制版",
-      "url": "https://github.com/NOBB2333/ClipCascade_go",
-      "published_at": "2026-02-23T15:12:05Z",
-      "description": "ClipCascade 跨平台跨设备剪贴板同步工具 go语言重制版",
+      "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "url": "https://github.com/geekjourneyx/jina-cli",
+      "published_at": "2026-02-28T08:39:26Z",
+      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72846817?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 113,
-      "user": "NOBB2333"
+      "stars": 117,
+      "user": "geekjourneyx"
     }
   ]
 }
