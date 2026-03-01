@@ -177,21 +177,6 @@
       "user": "Prathamesh Deshmukh"
     },
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
       "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
       "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
       "published_at": "2026-02-27T15:27:49Z",
@@ -205,6 +190,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnbj661po1w5k9jzuqjz.png",
       "source": "Dev.to",
       "user": "Mike"
+    },
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
     },
     {
       "title": "The Agent Skills Gold Rush Has a Malware Problem",
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3191,
+      "stars": 3202,
       "user": "Panniantong"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2496,
+      "stars": 2548,
       "user": "agentscope-ai"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 835,
       "user": "taigrr"
     },
     {
@@ -991,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 674,
       "user": "mksglu"
     },
     {
@@ -1021,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 189,
       "user": "silships"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4947,
+      "stars": 4952,
       "user": "anthropics"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3191,
+      "stars": 3202,
       "user": "Panniantong"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2496,
+      "stars": 2548,
       "user": "agentscope-ai"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1635,
       "user": "peteromallet"
     },
     {
@@ -1293,26 +1293,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 751,
       "user": "ylytdeng"
     }
   ],
   "DevOps": [
-    {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
     {
       "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
       "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
@@ -1327,6 +1312,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnbj661po1w5k9jzuqjz.png",
       "source": "Dev.to",
       "user": "Mike"
+    },
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
     },
     {
       "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
@@ -1519,7 +1519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2496,
+      "stars": 2548,
       "user": "agentscope-ai"
     }
   ],
@@ -1548,7 +1548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 751,
       "user": "ylytdeng"
     }
   ],
@@ -1684,21 +1684,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgk98ex09d6uno2w7ldy.png",
       "source": "Dev.to",
       "user": "Kohki Makimoto"
-    },
-    {
-      "title": "The $0 Developer Phase — And How Dev.to Pulled Me Out",
-      "url": "https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g",
-      "published_at": "2026-02-25T07:11:06Z",
-      "description": "Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...",
-      "tags": [
-        "career",
-        "webdev",
-        "productivity",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe492yw7tyhbwg5o8x6bx.png",
-      "source": "Dev.to",
-      "user": "Art light"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -1844,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 674,
       "user": "mksglu"
     },
     {
@@ -1874,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 189,
       "user": "silships"
     },
     {
@@ -1919,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4947,
+      "stars": 4952,
       "user": "anthropics"
     },
     {
@@ -1934,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3191,
+      "stars": 3202,
       "user": "Panniantong"
     },
     {
@@ -1949,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2496,
+      "stars": 2548,
       "user": "agentscope-ai"
     },
     {
@@ -1964,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1635,
       "user": "peteromallet"
     },
     {
@@ -1979,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 751,
       "user": "ylytdeng"
     },
     {
@@ -1994,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 835,
       "user": "taigrr"
     },
     {
@@ -2009,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "thellimist"
     },
     {
@@ -2024,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 324,
       "user": "bjarneo"
     },
     {
@@ -2054,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72846817?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "NOBB2333"
     }
   ]
