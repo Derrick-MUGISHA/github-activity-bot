@@ -61,6 +61,19 @@
       "user": "Jess Lee"
     },
     {
+      "title": "AI Ate the Homework: What Communities Are Actually For Now",
+      "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
+      "published_at": "2026-02-27T22:05:16Z",
+      "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builders and members.",
+      "tags": [
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9wf3o4i4z2u8k2jxdar.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
+    },
+    {
       "title": "Using tox to Test a Django App Across Multiple Django Versions",
       "url": "https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9",
       "published_at": "2026-02-27T18:53:25Z",
@@ -74,19 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ubpltdhsx0n7owyd5ol.png",
       "source": "Dev.to",
       "user": "Aidas Bendoraitis"
-    },
-    {
-      "title": "AI Ate the Homework: What Communities Are Actually For Now",
-      "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
-      "published_at": "2026-02-27T22:05:16Z",
-      "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builders and members.",
-      "tags": [
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9wf3o4i4z2u8k2jxdar.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
     },
     {
       "title": "Automatic cross-platform testing: part 7: 32 bit, again",
@@ -234,21 +234,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
-    },
-    {
-      "title": "Build Domain-driven HTTP services",
-      "url": "https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a",
-      "published_at": "2026-02-20T04:21:37Z",
-      "description": "You're building ASP .NET web APIs that need to communicate with external APIs.  The UserRegister API...",
-      "tags": [
-        "webdev",
-        "dotnet",
-        "restapi",
-        "csharp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui38f6me5urbe1q3t35l.jpg",
-      "source": "Dev.to",
-      "user": "Mirza Leka"
     },
     {
       "title": "Vibe Coding an Audio Engineer Who Never Sleeps",
@@ -645,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3265,
+      "stars": 3277,
       "user": "Panniantong"
     },
     {
@@ -660,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2725,
+      "stars": 2777,
       "user": "agentscope-ai"
     },
     {
@@ -675,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 889,
       "user": "taigrr"
     },
     {
@@ -690,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "geekjourneyx"
     },
     {
@@ -1021,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 817,
       "user": "mksglu"
     },
     {
@@ -1263,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4981,
+      "stars": 4983,
       "user": "anthropics"
     },
     {
@@ -1278,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3265,
+      "stars": 3277,
       "user": "Panniantong"
     },
     {
@@ -1293,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2725,
+      "stars": 2777,
       "user": "agentscope-ai"
     },
     {
@@ -1308,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1652,
+      "stars": 1657,
       "user": "peteromallet"
     },
     {
@@ -1323,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 828,
       "user": "ylytdeng"
     }
   ],
@@ -1474,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "geekjourneyx"
     }
   ],
@@ -1552,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2725,
+      "stars": 2777,
       "user": "agentscope-ai"
     }
   ],
@@ -1596,7 +1581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 828,
       "user": "ylytdeng"
     }
   ],
@@ -1660,20 +1645,6 @@
   ],
   "Tools": [
     {
-      "title": "Upgraded embed experience and new embed types in DEV posts",
-      "url": "https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho",
-      "published_at": "2026-02-27T14:29:22Z",
-      "description": "When you paste a URL into your DEV post, if it is embeddable, you now get a handy little tooltip to...",
-      "tags": [
-        "news",
-        "devto",
-        "forem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png",
-      "source": "Dev.to",
-      "user": "Jon Gottfried"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -1702,6 +1673,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk3nsmfxk1k1wshviczw.png",
       "source": "Dev.to",
       "user": "David Cantrell"
+    },
+    {
+      "title": "Upgraded embed experience and new embed types in DEV posts",
+      "url": "https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho",
+      "published_at": "2026-02-27T14:29:22Z",
+      "description": "When you paste a URL into your DEV post, if it is embeddable, you now get a handy little tooltip to...",
+      "tags": [
+        "news",
+        "devto",
+        "forem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png",
+      "source": "Dev.to",
+      "user": "Jon Gottfried"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1776,21 +1761,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
       "source": "Dev.to",
       "user": "Narnaiezzsshaa Truong"
-    },
-    {
-      "title": "Accessibility Testing with Playwright Assertions",
-      "url": "https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i",
-      "published_at": "2026-02-19T02:03:09Z",
-      "description": "Playwright has become one of the most popular testing frameworks for web applications. During it's...",
-      "tags": [
-        "a11y",
-        "webdev",
-        "testing",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjubj6qdbqx5fnaumwrx.png",
-      "source": "Dev.to",
-      "user": "Mark Steadman"
     },
     {
       "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
@@ -1892,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 817,
       "user": "mksglu"
     },
     {
@@ -1967,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 4981,
+      "stars": 4983,
       "user": "anthropics"
     },
     {
@@ -1982,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3265,
+      "stars": 3277,
       "user": "Panniantong"
     },
     {
@@ -1997,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 2725,
+      "stars": 2777,
       "user": "agentscope-ai"
     },
     {
@@ -2012,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1652,
+      "stars": 1657,
       "user": "peteromallet"
     },
     {
@@ -2027,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 828,
       "user": "ylytdeng"
     },
     {
@@ -2042,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 889,
       "user": "taigrr"
     },
     {
@@ -2072,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "bjarneo"
     },
     {
@@ -2087,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "geekjourneyx"
     },
     {
