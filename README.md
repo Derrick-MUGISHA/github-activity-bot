@@ -219,7 +219,7 @@ npm run test
 - [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc) _[Dev.to]_
 
-_Last automated update: Sun, 01 Mar 2026 11:26:29 CAT_
+_Last automated update: Sun, 01 Mar 2026 11:51:25 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 01 Mar 2026 11:26:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 01 Mar 2026 09:26:29 GMT</b><br/>
+  <b>Last automated update: Sun, 01 Mar 2026 09:51:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
