@@ -74,21 +74,6 @@
       "user": "Aidas Bendoraitis"
     },
     {
-      "title": "Automatic cross-platform testing: part 7: 32 bit, again",
-      "url": "https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf",
-      "published_at": "2026-02-27T21:23:41Z",
-      "description": "I have written about this before, but I've had to do it again. I noted previously that Github's...",
-      "tags": [
-        "testing",
-        "githubactions",
-        "ci",
-        "32bit"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk3nsmfxk1k1wshviczw.png",
-      "source": "Dev.to",
-      "user": "David Cantrell"
-    },
-    {
       "title": "An App where you can Train your Own Hand Pose Model for your Project! 🤌",
       "url": "https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib",
       "published_at": "2026-02-28T02:30:21Z",
@@ -234,6 +219,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
+    },
+    {
+      "title": "Automatic cross-platform testing: part 7: 32 bit, again",
+      "url": "https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf",
+      "published_at": "2026-02-27T21:23:41Z",
+      "description": "I have written about this before, but I've had to do it again. I noted previously that Github's...",
+      "tags": [
+        "testing",
+        "githubactions",
+        "ci",
+        "32bit"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk3nsmfxk1k1wshviczw.png",
+      "source": "Dev.to",
+      "user": "David Cantrell"
     },
     {
       "title": "A Quick Recovery Guide for AI-Dependent Coders",
@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3148,
+      "stars": 3156,
       "user": "agentscope-ai"
     },
     {
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1009,
       "user": "taigrr"
     },
     {
@@ -961,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1275,
       "user": "mksglu"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3148,
+      "stars": 3156,
       "user": "agentscope-ai"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1675,
+      "stars": 1676,
       "user": "peteromallet"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 1252,
+      "stars": 1260,
       "user": "Lakr233"
     }
   ],
@@ -1477,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3148,
+      "stars": 3156,
       "user": "agentscope-ai"
     }
   ],
@@ -1585,21 +1585,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "Automatic cross-platform testing: part 7: 32 bit, again",
-      "url": "https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf",
-      "published_at": "2026-02-27T21:23:41Z",
-      "description": "I have written about this before, but I've had to do it again. I noted previously that Github's...",
-      "tags": [
-        "testing",
-        "githubactions",
-        "ci",
-        "32bit"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk3nsmfxk1k1wshviczw.png",
-      "source": "Dev.to",
-      "user": "David Cantrell"
-    },
-    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -1672,6 +1657,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
       "source": "Dev.to",
       "user": "Narnaiezzsshaa Truong"
+    },
+    {
+      "title": "Automatic cross-platform testing: part 7: 32 bit, again",
+      "url": "https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf",
+      "published_at": "2026-02-27T21:23:41Z",
+      "description": "I have written about this before, but I've had to do it again. I noted previously that Github's...",
+      "tags": [
+        "testing",
+        "githubactions",
+        "ci",
+        "32bit"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk3nsmfxk1k1wshviczw.png",
+      "source": "Dev.to",
+      "user": "David Cantrell"
     },
     {
       "title": "Accessibility Testing with Playwright Assertions",
@@ -1788,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1275,
       "user": "mksglu"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3148,
+      "stars": 3156,
       "user": "agentscope-ai"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1675,
+      "stars": 1676,
       "user": "peteromallet"
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 1252,
+      "stars": 1260,
       "user": "Lakr233"
     },
     {
@@ -1938,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1009,
       "user": "taigrr"
     },
     {
@@ -1953,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 461,
       "user": "thellimist"
     },
     {
@@ -1968,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 357,
       "user": "bjarneo"
     },
     {
@@ -1998,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "Resinat"
     }
   ]
