@@ -218,7 +218,7 @@ npm run test
 - [Why I spent my weekend building a "Cyber-Immune System" for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 
-_Last automated update: Mon, 02 Mar 2026 19:10:58 CAT_
+_Last automated update: Mon, 02 Mar 2026 19:59:06 CAT_
 
 
 
@@ -226,29 +226,7 @@ _Last automated update: Mon, 02 Mar 2026 19:10:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
-
-**Difficulty**: Hard | **Topics**: distributed systems, caching
-
-<details>
-<summary>💡 Hint</summary>
-
-Consistency, partitioning, replication, eviction policies
-
-</details>
-
-### 2. SystemDesign: How would you design a rate limiter?
-
-**Difficulty**: Medium | **Topics**: system design, algorithms
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, distributed systems
-
-</details>
-
-### 3. DataStructures: Find the longest substring without repeating characters
+### 1. DataStructures: Find the longest substring without repeating characters
 
 **Difficulty**: Medium | **Topics**: strings, sliding window
 
@@ -256,6 +234,28 @@ Token bucket, sliding window, distributed systems
 <summary>💡 Hint</summary>
 
 Sliding window, hash map, two pointers
+
+</details>
+
+### 2. DataStructures: Find the longest substring without repeating characters
+
+**Difficulty**: Medium | **Topics**: strings, sliding window
+
+<details>
+<summary>💡 Hint</summary>
+
+Sliding window, hash map, two pointers
+
+</details>
+
+### 3. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 02 Mar 2026 17:10:58 GMT</b><br/>
+  <b>Last automated update: Mon, 02 Mar 2026 17:59:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
