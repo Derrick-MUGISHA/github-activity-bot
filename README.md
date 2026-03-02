@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.4 (28.4%)
-Java            ████████████████████████ 22.7 (22.7%)
-Python          ███████████████████████ 21.6 (21.6%)
-Go              ████████████████████ 19.3 (19.3%)
+JavaScript      ██████████████████████████████ 28.7 (28.7%)
+Java            ████████████████████████ 23.0 (23.0%)
+Python          ███████████████████████ 21.8 (21.8%)
+Go              ███████████████████ 18.4 (18.4%)
 Rust            ████ 3.4 (3.4%)
 PHP             ██ 2.3 (2.3%)
 Swift           █ 1.1 (1.1%)
@@ -76,7 +76,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 25
     "Java" : 20
     "Python" : 19
-    "Go" : 17
+    "Go" : 16
     "Rust" : 3
     "PHP" : 2
     "Swift" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![showdev](https://img.shields.io/badge/showdev-8-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![showdev](https://img.shields.io/badge/showdev-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
 
 
 
@@ -135,6 +135,15 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png" width="200" alt="What should I do and learn in 2026?" />
+      <br/>
+      <b>What should I do and learn in 2026?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpz2bi0eyqe7c99w8r8yy.jpeg" width="200" alt="DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies" />
       <br/>
@@ -152,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/lisacee/flexible-border-element-m6e">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png" width="200" alt="Flexible Border Element" />
@@ -161,22 +172,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F50unu9xv4z5q7mpewji2.png" width="200" alt="The Software Factory: A Practitioner's Guide to Specification-Driven Development for Enterprise Services - February 2026" />
       <br/>
       <b>The Software Factory: A Practitioner's Guide to Sp...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp" width="200" alt="🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)" />
-      <br/>
-      <b>🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,11 +197,11 @@ npm run test
 
 ### 📰 Top Headlines
 
+- [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 - [DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies](https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am) _[Dev.to]_
 - [Making London's hidden film clubs discoverable](https://dev.to/alistairjcbrown/i-built-a-film-club-discovery-tool-for-londons-cinema-community-2md) _[Dev.to]_
 - [Flexible Border Element](https://dev.to/lisacee/flexible-border-element-m6e) _[Dev.to]_
 - [The Software Factory: A Practitioner's Guide to Specification-Driven Development for Enterprise Services - February 2026](https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c) _[Dev.to]_
-- [🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)](https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h33) _[Dev.to]_
 - [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Why I spent my weekend building a "Cyber-Immune System" for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 
-_Last automated update: Mon, 02 Mar 2026 22:03:14 CAT_
+_Last automated update: Mon, 02 Mar 2026 22:54:31 CAT_
 
 
 
@@ -226,29 +226,18 @@ _Last automated update: Mon, 02 Mar 2026 22:03:14 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Fan-out, caching, ranking, real-time updates
-
-</details>
-
-### 2. React: What are hooks and why were they introduced?
-
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
 **Difficulty**: Medium | **Topics**: event loop, async
 
@@ -256,6 +245,17 @@ State in functional components, reusable logic, cleaner code
 <summary>💡 Hint</summary>
 
 Execution timing, event loop phases
+
+</details>
+
+### 3. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 02 Mar 2026 20:03:15 GMT</b><br/>
+  <b>Last automated update: Mon, 02 Mar 2026 20:54:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

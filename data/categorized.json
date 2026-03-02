@@ -31,21 +31,6 @@
       "user": "Chad Woolley"
     },
     {
-      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
-      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
-      "published_at": "2026-03-01T13:53:25Z",
-      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
-      "tags": [
-        "agents",
-        "ai",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
-      "source": "Dev.to",
-      "user": "Ahnaf Tahmid"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -268,6 +253,21 @@
       "user": "👾 FrancisTRᴅᴇᴠ 👾"
     },
     {
+      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
+      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
+      "published_at": "2026-03-01T13:53:25Z",
+      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
+      "tags": [
+        "agents",
+        "ai",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
+      "source": "Dev.to",
+      "user": "Ahnaf Tahmid"
+    },
+    {
       "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
       "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
       "published_at": "2026-02-26T08:08:54Z",
@@ -371,21 +371,6 @@
       "user": "Sem Gebresilassie"
     },
     {
-      "title": "A Founder’s Blueprint to Creating a Technical Sales Team",
-      "url": "https://dev.to/googleai/a-founders-blueprint-to-creating-a-technical-sales-team-247f",
-      "published_at": "2026-02-27T17:52:39Z",
-      "description": "I have found that technical founders tend to treat Go-To-Market (GTM) as an afterthought (or a black...",
-      "tags": [
-        "startup",
-        "gtm",
-        "product",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nbmfj79d55rwrfyzgvs.png",
-      "source": "Dev.to",
-      "user": "Abraham Gomez"
-    },
-    {
       "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
       "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
       "published_at": "2026-02-13T20:08:54Z",
@@ -445,21 +430,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
-      "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
-      "published_at": "2026-02-25T16:08:56Z",
-      "description": "Recently, I spent some time exploring OpenClaw — an open-source, agentic AI assistant that goes...",
-      "tags": [
-        "ai",
-        "openclaw",
-        "machinelearning",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkahtcoc3pu1euptxogxz.png",
-      "source": "Dev.to",
-      "user": "Praveen Gowthaman"
-    },
-    {
       "title": "A Quick Recovery Guide for AI-Dependent Coders",
       "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
       "published_at": "2026-02-23T05:00:00Z",
@@ -473,6 +443,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
       "source": "Dev.to",
       "user": "Cesar Aguirre"
+    },
+    {
+      "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
+      "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
+      "published_at": "2026-02-25T16:08:56Z",
+      "description": "Recently, I spent some time exploring OpenClaw — an open-source, agentic AI assistant that goes...",
+      "tags": [
+        "ai",
+        "openclaw",
+        "machinelearning",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkahtcoc3pu1euptxogxz.png",
+      "source": "Dev.to",
+      "user": "Praveen Gowthaman"
     },
     {
       "title": "Software engineering is not dead",
@@ -692,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5144,
+      "stars": 5177,
       "user": "agentscope-ai"
     },
     {
@@ -707,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3792,
+      "stars": 3793,
       "user": "Panniantong"
     },
     {
@@ -737,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "chenhg5"
     }
   ],
@@ -1280,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5144,
+      "stars": 5177,
       "user": "agentscope-ai"
     },
     {
@@ -1295,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3792,
+      "stars": 3793,
       "user": "Panniantong"
     },
     {
@@ -1310,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2568,
+      "stars": 2581,
       "user": "Lakr233"
     },
     {
@@ -1340,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1298,
       "user": "ylytdeng"
     }
   ],
@@ -1629,7 +1614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5144,
+      "stars": 5177,
       "user": "agentscope-ai"
     }
   ],
@@ -1658,7 +1643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1298,
       "user": "ylytdeng"
     }
   ],
@@ -1721,6 +1706,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "What should I do and learn in 2026?",
+      "url": "https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc",
+      "published_at": "2026-03-02T19:31:11Z",
+      "description": "Maybe it's not about skills, but tactics.",
+      "tags": [
+        "career",
+        "learning",
+        "motivation",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png",
+      "source": "Dev.to",
+      "user": "Amara Graham"
+    },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5144,
+      "stars": 5177,
       "user": "agentscope-ai"
     },
     {
@@ -2015,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3792,
+      "stars": 3793,
       "user": "Panniantong"
     },
     {
@@ -2030,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2568,
+      "stars": 2581,
       "user": "Lakr233"
     },
     {
@@ -2060,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1298,
       "user": "ylytdeng"
     },
     {
@@ -2075,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 450,
       "user": "bjarneo"
     },
     {
@@ -2135,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "chenhg5"
     }
   ]
