@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-02 19:00 CAT)
+## 📅 Latest Updates (2026-03-02 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -208,7 +208,6 @@ npm run test
 - [Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.](https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8) _[Dev.to]_
 - [Coding Agents Are Actually Good at This One Thing](https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej) _[Dev.to]_
 - [Amanzi - Know Your Water](https://dev.to/skomfi/amanzi-know-your-water-47p3) _[Dev.to]_
-- [Introducing the Zen of DevOps](https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm) _[Dev.to]_
 - [Scaling AI Memory: How I Tamed a 120k-Token Prompt with Deterministic GraphRAG](https://dev.to/juandastic/scaling-ai-memory-how-i-tamed-a-120k-token-prompt-with-deterministic-graphrag-4f85) _[Dev.to]_
 - [I Built a Gmail AI Responder in Node.js (and it Actually Works)](https://dev.to/alagrede/i-built-a-gmail-ai-responder-in-nodejs-and-it-actually-works-2jc6) _[Dev.to]_
 - [How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software](https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 - [Why I spent my weekend building a "Cyber-Immune System" for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
+- [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 
-_Last automated update: Mon, 02 Mar 2026 19:59:06 CAT_
+_Last automated update: Mon, 02 Mar 2026 20:59:04 CAT_
 
 
 
@@ -226,14 +226,14 @@ _Last automated update: Mon, 02 Mar 2026 19:59:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -248,14 +248,14 @@ Sliding window, hash map, two pointers
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Heap, stack, garbage collection
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 02 Mar 2026 17:59:06 GMT</b><br/>
+  <b>Last automated update: Mon, 02 Mar 2026 18:59:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
