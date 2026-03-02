@@ -46,21 +46,6 @@
       "user": "Ahnaf Tahmid"
     },
     {
-      "title": "The Token Economy",
-      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
-      "published_at": "2026-02-26T13:36:47Z",
-      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -661,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158358668?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "lovisdotio"
     },
     {
@@ -691,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 4657,
+      "stars": 4754,
       "user": "agentscope-ai"
     },
     {
@@ -706,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3715,
+      "stars": 3737,
       "user": "Panniantong"
     },
     {
@@ -721,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "geekjourneyx"
     },
     {
@@ -1082,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158358668?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "lovisdotio"
     },
     {
@@ -1294,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 4657,
+      "stars": 4754,
       "user": "agentscope-ai"
     },
     {
@@ -1309,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3715,
+      "stars": 3737,
       "user": "Panniantong"
     },
     {
@@ -1324,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2364,
       "user": "Lakr233"
     },
     {
@@ -1339,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1751,
+      "stars": 1753,
       "user": "peteromallet"
     },
     {
@@ -1354,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1245,
       "user": "ylytdeng"
     }
   ],
@@ -1520,7 +1505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "geekjourneyx"
     }
   ],
@@ -1628,7 +1613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 4657,
+      "stars": 4754,
       "user": "agentscope-ai"
     }
   ],
@@ -1672,7 +1657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1245,
       "user": "ylytdeng"
     }
   ],
@@ -1855,6 +1840,20 @@
       "user": "Mei Park"
     },
     {
+      "title": "Upgraded embed experience and new embed types in DEV posts",
+      "url": "https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho",
+      "published_at": "2026-02-27T14:29:22Z",
+      "description": "When you paste a URL into your DEV post, if it is embeddable, you now get a handy little tooltip to...",
+      "tags": [
+        "news",
+        "devto",
+        "forem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png",
+      "source": "Dev.to",
+      "user": "Jon Gottfried"
+    },
+    {
       "title": "Accessibility Testing with Playwright Assertions",
       "url": "https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i",
       "published_at": "2026-02-19T02:03:09Z",
@@ -2014,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158358668?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "lovisdotio"
     },
     {
@@ -2044,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 4657,
+      "stars": 4754,
       "user": "agentscope-ai"
     },
     {
@@ -2059,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3715,
+      "stars": 3737,
       "user": "Panniantong"
     },
     {
@@ -2074,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2364,
       "user": "Lakr233"
     },
     {
@@ -2089,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1751,
+      "stars": 1753,
       "user": "peteromallet"
     },
     {
@@ -2104,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1245,
       "user": "ylytdeng"
     },
     {
@@ -2119,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 428,
       "user": "bjarneo"
     },
     {
@@ -2134,7 +2133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "Resinat"
     },
     {
@@ -2149,7 +2148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "geekjourneyx"
     },
     {
@@ -2164,7 +2163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62926341?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "junevm"
     },
     {
