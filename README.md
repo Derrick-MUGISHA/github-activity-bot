@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-02 16:00 CAT)
+## 📅 Latest Updates (2026-03-02 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -213,12 +213,12 @@ npm run test
 - [I Built a Gmail AI Responder in Node.js (and it Actually Works)](https://dev.to/alagrede/i-built-a-gmail-ai-responder-in-nodejs-and-it-actually-works-2jc6) _[Dev.to]_
 - [How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software](https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk) _[Dev.to]_
 - [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
-- [An App where you can Train your Own Hand Pose Model for your Project! 🤌](https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib) _[Dev.to]_
 - [🐾 FurEver Log — The App I Built After Losing Abu](https://dev.to/siti_aisyahmatzainal_73/furever-log-the-app-i-built-after-losing-abu-4agn) _[Dev.to]_
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 - [Why I spent my weekend building a "Cyber-Immune System" for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682) _[Dev.to]_
+- [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 
-_Last automated update: Mon, 02 Mar 2026 16:49:08 CAT_
+_Last automated update: Mon, 02 Mar 2026 17:38:36 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 02 Mar 2026 16:49:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Heap, stack, garbage collection
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 02 Mar 2026 14:49:08 GMT</b><br/>
+  <b>Last automated update: Mon, 02 Mar 2026 15:38:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
