@@ -1,6 +1,66 @@
 {
   "AI": [
     {
+      "title": "Coding Agents Are Actually Good at This One Thing",
+      "url": "https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej",
+      "published_at": "2026-03-01T20:31:28Z",
+      "description": "Coding agents aren't magic. But for internal tooling? They've brought back the \"just build the thing\" era I've been missing since Microsoft Access.",
+      "tags": [
+        "webdev",
+        "productivity",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
+    },
+    {
+      "title": "Flexible Border Element",
+      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
+      "published_at": "2026-03-01T21:12:43Z",
+      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
+      "tags": [
+        "css",
+        "frontend",
+        "tailwindcss",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
+      "source": "Dev.to",
+      "user": "Lisa Cee"
+    },
+    {
+      "title": "The Software Factory: A Practitioner's Guide to Specification-Driven Development for Enterprise Services - February 2026",
+      "url": "https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c",
+      "published_at": "2026-03-01T16:04:00Z",
+      "description": "A reference for implementing factory-pattern development within an enterprise SOA",
+      "tags": [
+        "softwarefactory",
+        "ai",
+        "agentic",
+        "soa"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F50unu9xv4z5q7mpewji2.png",
+      "source": "Dev.to",
+      "user": "Chad Woolley"
+    },
+    {
+      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
+      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
+      "published_at": "2026-03-01T13:53:25Z",
+      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
+      "tags": [
+        "agents",
+        "ai",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
+      "source": "Dev.to",
+      "user": "Ahnaf Tahmid"
+    },
+    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -14,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
+      "url": "https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8",
+      "published_at": "2026-02-27T03:00:00Z",
+      "description": "Good morning! Good afternoon! Good Evening!   Welcome to our first DEV Weekend Challenge, a short...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymcxcb34vr6ew58onbey.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "The Token Economy",
@@ -31,19 +106,49 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
-      "url": "https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8",
-      "published_at": "2026-02-27T03:00:00Z",
-      "description": "Good morning! Good afternoon! Good Evening!   Welcome to our first DEV Weekend Challenge, a short...",
+      "title": "Scaling AI Memory: How I Tamed a 120k-Token Prompt with Deterministic GraphRAG",
+      "url": "https://dev.to/juandastic/scaling-ai-memory-how-i-tamed-a-120k-token-prompt-with-deterministic-graphrag-4f85",
+      "published_at": "2026-03-01T08:59:50Z",
+      "description": "In a past article, I wrote about Synapse, an AI companion I built for my wife. To solve the problem...",
       "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "webdev",
-        "ai"
+        "ai",
+        "gemini",
+        "llm",
+        "rag"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymcxcb34vr6ew58onbey.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpimh52xjjiw4x4w4ebma.png",
       "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "Juan David Gómez"
+    },
+    {
+      "title": "I Built a Gmail AI Responder in Node.js (and it Actually Works)",
+      "url": "https://dev.to/alagrede/i-built-a-gmail-ai-responder-in-nodejs-and-it-actually-works-2jc6",
+      "published_at": "2026-03-01T09:50:04Z",
+      "description": "How I automated email draft polishing with the Gmail API and OpenAI in under 200 lines of code.",
+      "tags": [
+        "node",
+        "gmail",
+        "openai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6fjf8imruhymhd49o74.png",
+      "source": "Dev.to",
+      "user": "Anthony Lagrede"
+    },
+    {
+      "title": "How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software",
+      "url": "https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk",
+      "published_at": "2026-03-01T03:36:32Z",
+      "description": "This blog post chronicles how VS Code equipped with GitHub Copilot powered by Claude Opus 4.6 was used to port the open-source whisper-asr-webservice project to NVIDIA Jetson hardware with full GPU acceleration — navigating over 15 build iterations, compiling CTranslate2 from source for aarch64 CUDA, working around Poetry resolver conflicts and pip wheel priority bugs, creating runtime compatibility shims for torchaudio, torch.load, and huggingface_hub API changes, testing all three ASR engines with self-generated speech audio, and ultimately forking the repo, opening a detailed pull request, and pushing a pre-built container image to Docker Hub — all driven by natural-language prompts — demonstrating how GPU-powered AI coding agents can come full circle by building GPU-accelerated software for edge devices like the Jetson Orin, unlocking practical automations such as automatic subtitle generation for Plex media libraries via Bazarr integration.",
+      "tags": [
+        "jetson",
+        "nvidia",
+        "docker",
+        "whisper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3skj4imt4hs3ou0yp3ul.png",
+      "source": "Dev.to",
+      "user": "Paul DeCarlo"
     },
     {
       "title": "Using tox to Test a Django App Across Multiple Django Versions",
@@ -74,20 +179,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsp6yq72zmn9uvmkvmnoy.gif",
       "source": "Dev.to",
       "user": "👾 FrancisTRᴅᴇᴠ 👾"
-    },
-    {
-      "title": "Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!",
-      "url": "https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg",
-      "published_at": "2026-02-26T20:03:50Z",
-      "description": "Last week @stephr_wong, Kevin Hou, and Andy Zhang explored the Antigravity Editor and Agent...",
-      "tags": [
-        "gemini",
-        "agents",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flfdllhjk854joak0k2x1.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -204,36 +295,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
       "source": "Dev.to",
       "user": "Mei Park"
-    },
-    {
-      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
-      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
-      "published_at": "2026-02-26T08:08:54Z",
-      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
-      "tags": [
-        "claudecode",
-        "tailscale",
-        "ntfy",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
-      "source": "Dev.to",
-      "user": "Felipe Philipp"
-    },
-    {
-      "title": "A Quick Recovery Guide for AI-Dependent Coders",
-      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
-      "published_at": "2026-02-23T05:00:00Z",
-      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
     },
     {
       "title": "Vibe Coding an Audio Engineer Who Never Sleeps",
@@ -589,19 +650,34 @@
       "user": "veesahni"
     },
     {
-      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "published_at": "2026-02-24T02:10:24Z",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "title": "lovisdotio/falsprite -   Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
+      "url": "https://github.com/lovisdotio/falsprite",
+      "published_at": "2026-02-26T22:17:11Z",
+      "description": "  Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/158358668?v=4",
       "source": "GitHub",
-      "stars": 3393,
-      "user": "Panniantong"
+      "stars": 135,
+      "user": "lovisdotio"
+    },
+    {
+      "title": "ellipticmarketing/modelrelay - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
+      "url": "https://github.com/ellipticmarketing/modelrelay",
+      "published_at": "2026-02-25T16:45:48Z",
+      "description": "Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63985076?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "ellipticmarketing"
     },
     {
       "title": "agentscope-ai/CoPaw - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
@@ -615,23 +691,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3200,
+      "stars": 3518,
       "user": "agentscope-ai"
     },
     {
-      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "url": "https://github.com/taigrr/spank",
-      "published_at": "2026-02-23T00:43:05Z",
-      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "published_at": "2026-02-24T02:10:24Z",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 1020,
-      "user": "taigrr"
+      "stars": 3467,
+      "user": "Panniantong"
     },
     {
       "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
@@ -645,8 +721,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "geekjourneyx"
+    },
+    {
+      "title": "afumu/openlink - OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
+      "url": "https://github.com/afumu/openlink",
+      "published_at": "2026-02-24T04:55:25Z",
+      "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50908453?v=4",
+      "source": "GitHub",
+      "stars": 119,
+      "user": "afumu"
     }
   ],
   "JavaScript": [
@@ -664,6 +755,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1jkk7lkh7isg71dhiqdt.webp",
       "source": "Dev.to",
       "user": "hamizulfaiz"
+    },
+    {
+      "title": "I Built a Gmail AI Responder in Node.js (and it Actually Works)",
+      "url": "https://dev.to/alagrede/i-built-a-gmail-ai-responder-in-nodejs-and-it-actually-works-2jc6",
+      "published_at": "2026-03-01T09:50:04Z",
+      "description": "How I automated email draft polishing with the Gmail API and OpenAI in under 200 lines of code.",
+      "tags": [
+        "node",
+        "gmail",
+        "openai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6fjf8imruhymhd49o74.png",
+      "source": "Dev.to",
+      "user": "Anthony Lagrede"
     },
     {
       "title": "An App where you can Train your Own Hand Pose Model for your Project! 🤌",
@@ -935,21 +1041,6 @@
       "user": "velmu"
     },
     {
-      "title": "mksglu/claude-context-mode - Stop losing context to large outputs.",
-      "url": "https://github.com/mksglu/claude-context-mode",
-      "published_at": "2026-02-23T05:56:28Z",
-      "description": "Stop losing context to large outputs.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
-      "source": "GitHub",
-      "stars": 1347,
-      "user": "mksglu"
-    },
-    {
       "title": "Sir-Scuzza/gluetun-webui - GitHub Repository",
       "url": "https://github.com/Sir-Scuzza/gluetun-webui",
       "published_at": "2026-02-24T11:44:26Z",
@@ -961,23 +1052,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "Sir-Scuzza"
-    },
-    {
-      "title": "silships/figma-cli - GitHub Repository",
-      "url": "https://github.com/silships/figma-cli",
-      "published_at": "2026-02-23T19:19:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
-      "source": "GitHub",
-      "stars": 195,
-      "user": "silships"
     },
     {
       "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
@@ -995,22 +1071,67 @@
       "user": "jesselau76"
     },
     {
-      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
-      "url": "https://github.com/direkturcrypto/polymarket-terminal",
-      "published_at": "2026-02-23T10:23:41Z",
-      "description": "Copy, Scalping & Sniper for polymarket",
+      "title": "joeseesun/word-root-workshop - 📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
+      "url": "https://github.com/joeseesun/word-root-workshop",
+      "published_at": "2026-02-25T06:38:42Z",
+      "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 165,
-      "user": "direkturcrypto"
+      "stars": 162,
+      "user": "joeseesun"
+    },
+    {
+      "title": "lovisdotio/falsprite -   Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
+      "url": "https://github.com/lovisdotio/falsprite",
+      "published_at": "2026-02-26T22:17:11Z",
+      "description": "  Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/158358668?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "lovisdotio"
+    },
+    {
+      "title": "ellipticmarketing/modelrelay - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
+      "url": "https://github.com/ellipticmarketing/modelrelay",
+      "published_at": "2026-02-25T16:45:48Z",
+      "description": "Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63985076?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "ellipticmarketing"
     }
   ],
   "Python": [
+    {
+      "title": "Introducing the Zen of DevOps",
+      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
+      "published_at": "2026-03-01T08:31:00Z",
+      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
+      "tags": [
+        "devops",
+        "sre",
+        "platformengineering",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
+      "source": "Dev.to",
+      "user": "Tibo Beijen"
+    },
     {
       "title": "Using tox to Test a Django App Across Multiple Django Versions",
       "url": "https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9",
@@ -1177,19 +1298,19 @@
       "user": "gilad"
     },
     {
-      "title": "anthropics/financial-services-plugins - GitHub Repository",
-      "url": "https://github.com/anthropics/financial-services-plugins",
-      "published_at": "2026-02-23T19:24:50Z",
-      "description": "Trending GitHub Repository",
+      "title": "agentscope-ai/CoPaw - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "url": "https://github.com/agentscope-ai/CoPaw",
+      "published_at": "2026-02-24T03:42:56Z",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5055,
-      "user": "anthropics"
+      "stars": 3518,
+      "user": "agentscope-ai"
     },
     {
       "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
@@ -1203,23 +1324,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3393,
+      "stars": 3467,
       "user": "Panniantong"
-    },
-    {
-      "title": "agentscope-ai/CoPaw - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "url": "https://github.com/agentscope-ai/CoPaw",
-      "published_at": "2026-02-24T03:42:56Z",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
-      "source": "GitHub",
-      "stars": 3200,
-      "user": "agentscope-ai"
     },
     {
       "title": "peteromallet/dataclaw - GitHub Repository",
@@ -1233,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1680,
+      "stars": 1702,
       "user": "peteromallet"
     },
     {
@@ -1248,11 +1354,56 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 1345,
+      "stars": 1604,
       "user": "Lakr233"
+    },
+    {
+      "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "url": "https://github.com/ylytdeng/wechat-decrypt",
+      "published_at": "2026-02-28T04:03:44Z",
+      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
+      "source": "GitHub",
+      "stars": 982,
+      "user": "ylytdeng"
     }
   ],
   "DevOps": [
+    {
+      "title": "Introducing the Zen of DevOps",
+      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
+      "published_at": "2026-03-01T08:31:00Z",
+      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
+      "tags": [
+        "devops",
+        "sre",
+        "platformengineering",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
+      "source": "Dev.to",
+      "user": "Tibo Beijen"
+    },
+    {
+      "title": "How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software",
+      "url": "https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk",
+      "published_at": "2026-03-01T03:36:32Z",
+      "description": "This blog post chronicles how VS Code equipped with GitHub Copilot powered by Claude Opus 4.6 was used to port the open-source whisper-asr-webservice project to NVIDIA Jetson hardware with full GPU acceleration — navigating over 15 build iterations, compiling CTranslate2 from source for aarch64 CUDA, working around Poetry resolver conflicts and pip wheel priority bugs, creating runtime compatibility shims for torchaudio, torch.load, and huggingface_hub API changes, testing all three ASR engines with self-generated speech audio, and ultimately forking the repo, opening a detailed pull request, and pushing a pre-built container image to Docker Hub — all driven by natural-language prompts — demonstrating how GPU-powered AI coding agents can come full circle by building GPU-accelerated software for edge devices like the Jetson Orin, unlocking practical automations such as automatic subtitle generation for Plex media libraries via Bazarr integration.",
+      "tags": [
+        "jetson",
+        "nvidia",
+        "docker",
+        "whisper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3skj4imt4hs3ou0yp3ul.png",
+      "source": "Dev.to",
+      "user": "Paul DeCarlo"
+    },
     {
       "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
       "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
@@ -1284,21 +1435,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
-      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
-      "published_at": "2026-02-26T08:08:54Z",
-      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
-      "tags": [
-        "claudecode",
-        "tailscale",
-        "ntfy",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
-      "source": "Dev.to",
-      "user": "Felipe Philipp"
-    },
-    {
       "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
       "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
       "published_at": "2026-02-17T23:56:55Z",
@@ -1315,6 +1451,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "Flexible Border Element",
+      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
+      "published_at": "2026-03-01T21:12:43Z",
+      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
+      "tags": [
+        "css",
+        "frontend",
+        "tailwindcss",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
+      "source": "Dev.to",
+      "user": "Lisa Cee"
+    },
     {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
@@ -1384,11 +1535,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "geekjourneyx"
     }
   ],
   "Mobile": [
+    {
+      "title": "Amanzi - Know Your Water",
+      "url": "https://dev.to/skomfi/amanzi-know-your-water-47p3",
+      "published_at": "2026-03-01T22:18:12Z",
+      "description": "This is a submission for the DEV Weekend Challenge: Community           The Community   South Africa...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "showdev",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwf8r18ozmm88bfnrl4eo.png",
+      "source": "Dev.to",
+      "user": "Samuel Komfi"
+    },
     {
       "title": "I built a framework that lets you write native apps with YAML and Lua",
       "url": "https://dev.to/josejuanqm/i-built-a-framework-that-lets-you-write-native-apps-with-yaml-and-lua-38lf",
@@ -1406,6 +1572,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
+      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
+      "published_at": "2026-03-01T13:53:25Z",
+      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
+      "tags": [
+        "agents",
+        "ai",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
+      "source": "Dev.to",
+      "user": "Ahnaf Tahmid"
+    },
     {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
@@ -1462,7 +1643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3200,
+      "stars": 3518,
       "user": "agentscope-ai"
     }
   ],
@@ -1493,6 +1674,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "url": "https://github.com/ylytdeng/wechat-decrypt",
+      "published_at": "2026-02-28T04:03:44Z",
+      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
+      "source": "GitHub",
+      "stars": 982,
+      "user": "ylytdeng"
     }
   ],
   "Security": [
@@ -1555,6 +1751,21 @@
   ],
   "Tools": [
     {
+      "title": "Coding Agents Are Actually Good at This One Thing",
+      "url": "https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej",
+      "published_at": "2026-03-01T20:31:28Z",
+      "description": "Coding agents aren't magic. But for internal tooling? They've brought back the \"just build the thing\" era I've been missing since Microsoft Access.",
+      "tags": [
+        "webdev",
+        "productivity",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
+    },
+    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -1568,6 +1779,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "I Built a Gmail AI Responder in Node.js (and it Actually Works)",
+      "url": "https://dev.to/alagrede/i-built-a-gmail-ai-responder-in-nodejs-and-it-actually-works-2jc6",
+      "published_at": "2026-03-01T09:50:04Z",
+      "description": "How I automated email draft polishing with the Gmail API and OpenAI in under 200 lines of code.",
+      "tags": [
+        "node",
+        "gmail",
+        "openai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6fjf8imruhymhd49o74.png",
+      "source": "Dev.to",
+      "user": "Anthony Lagrede"
+    },
+    {
+      "title": "How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software",
+      "url": "https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk",
+      "published_at": "2026-03-01T03:36:32Z",
+      "description": "This blog post chronicles how VS Code equipped with GitHub Copilot powered by Claude Opus 4.6 was used to port the open-source whisper-asr-webservice project to NVIDIA Jetson hardware with full GPU acceleration — navigating over 15 build iterations, compiling CTranslate2 from source for aarch64 CUDA, working around Poetry resolver conflicts and pip wheel priority bugs, creating runtime compatibility shims for torchaudio, torch.load, and huggingface_hub API changes, testing all three ASR engines with self-generated speech audio, and ultimately forking the repo, opening a detailed pull request, and pushing a pre-built container image to Docker Hub — all driven by natural-language prompts — demonstrating how GPU-powered AI coding agents can come full circle by building GPU-accelerated software for edge devices like the Jetson Orin, unlocking practical automations such as automatic subtitle generation for Plex media libraries via Bazarr integration.",
+      "tags": [
+        "jetson",
+        "nvidia",
+        "docker",
+        "whisper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3skj4imt4hs3ou0yp3ul.png",
+      "source": "Dev.to",
+      "user": "Paul DeCarlo"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1627,21 +1868,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
       "source": "Dev.to",
       "user": "Mei Park"
-    },
-    {
-      "title": "The Developer I'm Grateful I Never Became",
-      "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
-      "published_at": "2026-02-25T22:40:07Z",
-      "description": "Inspired by—but not aligned with—\"The $0 Developer Phase—And How Dev.to Pulled Me Out\" by Art...",
-      "tags": [
-        "career",
-        "webdev",
-        "beginners",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fe3y8kjqtymu78vqopx.jpg",
-      "source": "Dev.to",
-      "user": "Narnaiezzsshaa Truong"
     },
     {
       "title": "Accessibility Testing with Playwright Assertions",
@@ -1747,21 +1973,6 @@
       "user": "Terence Tham"
     },
     {
-      "title": "mksglu/claude-context-mode - Stop losing context to large outputs.",
-      "url": "https://github.com/mksglu/claude-context-mode",
-      "published_at": "2026-02-23T05:56:28Z",
-      "description": "Stop losing context to large outputs.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6067714?v=4",
-      "source": "GitHub",
-      "stars": 1347,
-      "user": "mksglu"
-    },
-    {
       "title": "Sir-Scuzza/gluetun-webui - GitHub Repository",
       "url": "https://github.com/Sir-Scuzza/gluetun-webui",
       "published_at": "2026-02-24T11:44:26Z",
@@ -1773,23 +1984,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "Sir-Scuzza"
-    },
-    {
-      "title": "silships/figma-cli - GitHub Repository",
-      "url": "https://github.com/silships/figma-cli",
-      "published_at": "2026-02-23T19:19:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241590296?v=4",
-      "source": "GitHub",
-      "stars": 195,
-      "user": "silships"
     },
     {
       "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
@@ -1807,49 +2003,49 @@
       "user": "jesselau76"
     },
     {
-      "title": "direkturcrypto/polymarket-terminal - Copy, Scalping & Sniper for polymarket",
-      "url": "https://github.com/direkturcrypto/polymarket-terminal",
-      "published_at": "2026-02-23T10:23:41Z",
-      "description": "Copy, Scalping & Sniper for polymarket",
+      "title": "joeseesun/word-root-workshop - 📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
+      "url": "https://github.com/joeseesun/word-root-workshop",
+      "published_at": "2026-02-25T06:38:42Z",
+      "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168287805?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 165,
-      "user": "direkturcrypto"
+      "stars": 162,
+      "user": "joeseesun"
     },
     {
-      "title": "anthropics/financial-services-plugins - GitHub Repository",
-      "url": "https://github.com/anthropics/financial-services-plugins",
-      "published_at": "2026-02-23T19:24:50Z",
-      "description": "Trending GitHub Repository",
+      "title": "lovisdotio/falsprite -   Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
+      "url": "https://github.com/lovisdotio/falsprite",
+      "published_at": "2026-02-26T22:17:11Z",
+      "description": "  Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/158358668?v=4",
       "source": "GitHub",
-      "stars": 5055,
-      "user": "anthropics"
+      "stars": 135,
+      "user": "lovisdotio"
     },
     {
-      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "published_at": "2026-02-24T02:10:24Z",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "title": "ellipticmarketing/modelrelay - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
+      "url": "https://github.com/ellipticmarketing/modelrelay",
+      "published_at": "2026-02-25T16:45:48Z",
+      "description": "Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/63985076?v=4",
       "source": "GitHub",
-      "stars": 3393,
-      "user": "Panniantong"
+      "stars": 77,
+      "user": "ellipticmarketing"
     },
     {
       "title": "agentscope-ai/CoPaw - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
@@ -1863,8 +2059,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 3200,
+      "stars": 3518,
       "user": "agentscope-ai"
+    },
+    {
+      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "published_at": "2026-02-24T02:10:24Z",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
+      "source": "GitHub",
+      "stars": 3467,
+      "user": "Panniantong"
     },
     {
       "title": "peteromallet/dataclaw - GitHub Repository",
@@ -1878,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1680,
+      "stars": 1702,
       "user": "peteromallet"
     },
     {
@@ -1893,38 +2104,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 1345,
+      "stars": 1604,
       "user": "Lakr233"
     },
     {
-      "title": "taigrr/spank - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "url": "https://github.com/taigrr/spank",
-      "published_at": "2026-02-23T00:43:05Z",
-      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "url": "https://github.com/ylytdeng/wechat-decrypt",
+      "published_at": "2026-02-28T04:03:44Z",
+      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8261498?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1020,
-      "user": "taigrr"
-    },
-    {
-      "title": "thellimist/clihub - GitHub Repository",
-      "url": "https://github.com/thellimist/clihub",
-      "published_at": "2026-02-23T13:43:14Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6690196?v=4",
-      "source": "GitHub",
-      "stars": 464,
-      "user": "thellimist"
+      "stars": 982,
+      "user": "ylytdeng"
     },
     {
       "title": "bjarneo/cliamp - Terminal Winamp",
@@ -1938,7 +2134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 371,
       "user": "bjarneo"
     },
     {
@@ -1953,7 +2149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "geekjourneyx"
     },
     {
@@ -1968,8 +2164,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 138,
       "user": "Resinat"
+    },
+    {
+      "title": "junevm/splathash - compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.",
+      "url": "https://github.com/junevm/splathash",
+      "published_at": "2026-02-27T05:36:30Z",
+      "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62926341?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "junevm"
+    },
+    {
+      "title": "afumu/openlink - OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
+      "url": "https://github.com/afumu/openlink",
+      "published_at": "2026-02-24T04:55:25Z",
+      "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50908453?v=4",
+      "source": "GitHub",
+      "stars": 119,
+      "user": "afumu"
     }
   ]
 }
