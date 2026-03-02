@@ -151,6 +151,19 @@
       "user": "Aidas Bendoraitis"
     },
     {
+      "title": "AI Ate the Homework: What Communities Are Actually For Now",
+      "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
+      "published_at": "2026-02-27T22:05:16Z",
+      "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builders and members.",
+      "tags": [
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9wf3o4i4z2u8k2jxdar.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
+    },
+    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -210,19 +223,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "AI Ate the Homework: What Communities Are Actually For Now",
-      "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
-      "published_at": "2026-02-27T22:05:16Z",
-      "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builders and members.",
-      "tags": [
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9wf3o4i4z2u8k2jxdar.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
-    },
-    {
       "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
       "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
       "published_at": "2026-02-27T15:27:49Z",
@@ -251,20 +251,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
-    },
-    {
-      "title": "The Agent Skills Gold Rush Has a Malware Problem",
-      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
-      "published_at": "2026-02-26T16:08:19Z",
-      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
-      "tags": [
-        "devtools",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
-      "source": "Dev.to",
-      "user": "Mei Park"
     },
     {
       "title": "An App where you can Train your Own Hand Pose Model for your Project! 🤌",
@@ -459,21 +445,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "A Quick Recovery Guide for AI-Dependent Coders",
-      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
-      "published_at": "2026-02-23T05:00:00Z",
-      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
-      "tags": [
-        "beginners",
-        "ai",
-        "coding",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
-    },
-    {
       "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
       "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
       "published_at": "2026-02-25T16:08:56Z",
@@ -487,6 +458,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkahtcoc3pu1euptxogxz.png",
       "source": "Dev.to",
       "user": "Praveen Gowthaman"
+    },
+    {
+      "title": "A Quick Recovery Guide for AI-Dependent Coders",
+      "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
+      "published_at": "2026-02-23T05:00:00Z",
+      "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+      "tags": [
+        "beginners",
+        "ai",
+        "coding",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cberi3nlb6bjefe47rm.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
     },
     {
       "title": "Software engineering is not dead",
@@ -706,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5117,
+      "stars": 5133,
       "user": "agentscope-ai"
     },
     {
@@ -721,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3789,
+      "stars": 3790,
       "user": "Panniantong"
     },
     {
@@ -736,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "geekjourneyx"
     },
     {
@@ -1294,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5117,
+      "stars": 5133,
       "user": "agentscope-ai"
     },
     {
@@ -1309,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3789,
+      "stars": 3790,
       "user": "Panniantong"
     },
     {
@@ -1324,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2557,
+      "stars": 2565,
       "user": "Lakr233"
     },
     {
@@ -1339,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1760,
       "user": "peteromallet"
     },
     {
@@ -1354,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1294,
       "user": "ylytdeng"
     }
   ],
@@ -1535,7 +1521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "geekjourneyx"
     }
   ],
@@ -1643,7 +1629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5117,
+      "stars": 5133,
       "user": "agentscope-ai"
     }
   ],
@@ -1672,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1294,
       "user": "ylytdeng"
     }
   ],
@@ -1841,20 +1827,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "The Agent Skills Gold Rush Has a Malware Problem",
-      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
-      "published_at": "2026-02-26T16:08:19Z",
-      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
-      "tags": [
-        "devtools",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqqmle0874qzd8u2u3py.png",
-      "source": "Dev.to",
-      "user": "Mei Park"
-    },
-    {
       "title": "Upgraded embed experience and new embed types in DEV posts",
       "url": "https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho",
       "published_at": "2026-02-27T14:29:22Z",
@@ -1867,21 +1839,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png",
       "source": "Dev.to",
       "user": "Jon Gottfried"
-    },
-    {
-      "title": "Accessibility Testing with Playwright Assertions",
-      "url": "https://dev.to/steady5063/accessibility-testing-with-playwright-assertions-3m3i",
-      "published_at": "2026-02-19T02:03:09Z",
-      "description": "Playwright has become one of the most popular testing frameworks for web applications. During it's...",
-      "tags": [
-        "a11y",
-        "webdev",
-        "testing",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjubj6qdbqx5fnaumwrx.png",
-      "source": "Dev.to",
-      "user": "Mark Steadman"
     },
     {
       "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
@@ -2043,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5117,
+      "stars": 5133,
       "user": "agentscope-ai"
     },
     {
@@ -2058,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3789,
+      "stars": 3790,
       "user": "Panniantong"
     },
     {
@@ -2073,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2557,
+      "stars": 2565,
       "user": "Lakr233"
     },
     {
@@ -2088,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1760,
       "user": "peteromallet"
     },
     {
@@ -2103,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1294,
       "user": "ylytdeng"
     },
     {
@@ -2118,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 446,
       "user": "bjarneo"
     },
     {
@@ -2133,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 225,
       "user": "Resinat"
     },
     {
@@ -2148,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "geekjourneyx"
     },
     {
