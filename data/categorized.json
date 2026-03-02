@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5064,
+      "stars": 5117,
       "user": "agentscope-ai"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3785,
+      "stars": 3789,
       "user": "Panniantong"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 130,
       "user": "chenhg5"
     }
   ],
@@ -1103,21 +1103,6 @@
   ],
   "Python": [
     {
-      "title": "Introducing the Zen of DevOps",
-      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
-      "published_at": "2026-03-01T08:31:00Z",
-      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
-      "tags": [
-        "devops",
-        "sre",
-        "platformengineering",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
-      "source": "Dev.to",
-      "user": "Tibo Beijen"
-    },
-    {
       "title": "Using tox to Test a Django App Across Multiple Django Versions",
       "url": "https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9",
       "published_at": "2026-02-27T18:53:25Z",
@@ -1131,6 +1116,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ubpltdhsx0n7owyd5ol.png",
       "source": "Dev.to",
       "user": "Aidas Bendoraitis"
+    },
+    {
+      "title": "Introducing the Zen of DevOps",
+      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
+      "published_at": "2026-03-01T08:31:00Z",
+      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
+      "tags": [
+        "devops",
+        "sre",
+        "platformengineering",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
+      "source": "Dev.to",
+      "user": "Tibo Beijen"
     },
     {
       "title": "Wiring Claude Into Real Systems With Tool Use",
@@ -1294,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5064,
+      "stars": 5117,
       "user": "agentscope-ai"
     },
     {
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3785,
+      "stars": 3789,
       "user": "Panniantong"
     },
     {
@@ -1324,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2534,
+      "stars": 2557,
       "user": "Lakr233"
     },
     {
@@ -1354,26 +1354,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1292,
       "user": "ylytdeng"
     }
   ],
   "DevOps": [
-    {
-      "title": "Introducing the Zen of DevOps",
-      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
-      "published_at": "2026-03-01T08:31:00Z",
-      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
-      "tags": [
-        "devops",
-        "sre",
-        "platformengineering",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
-      "source": "Dev.to",
-      "user": "Tibo Beijen"
-    },
     {
       "title": "How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software",
       "url": "https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk",
@@ -1418,6 +1403,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "Introducing the Zen of DevOps",
+      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
+      "published_at": "2026-03-01T08:31:00Z",
+      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
+      "tags": [
+        "devops",
+        "sre",
+        "platformengineering",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
+      "source": "Dev.to",
+      "user": "Tibo Beijen"
     },
     {
       "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
@@ -1643,7 +1643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5064,
+      "stars": 5117,
       "user": "agentscope-ai"
     }
   ],
@@ -1672,7 +1672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1292,
       "user": "ylytdeng"
     }
   ],
@@ -2043,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5064,
+      "stars": 5117,
       "user": "agentscope-ai"
     },
     {
@@ -2058,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3785,
+      "stars": 3789,
       "user": "Panniantong"
     },
     {
@@ -2073,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2534,
+      "stars": 2557,
       "user": "Lakr233"
     },
     {
@@ -2103,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1292,
       "user": "ylytdeng"
     },
     {
@@ -2118,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 445,
       "user": "bjarneo"
     },
     {
@@ -2133,7 +2133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 224,
       "user": "Resinat"
     },
     {
@@ -2178,7 +2178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 130,
       "user": "chenhg5"
     }
   ]
