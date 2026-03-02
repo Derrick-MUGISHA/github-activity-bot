@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-02-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (48.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**DevOps**: 🟦🟦 6 (5.8%)
+**DevOps**: 🟦🟦 6 (5.7%)
 
-**WebDev**: 🟦🟦 6 (5.8%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
 **Cloud**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **Mobile**: 🟦 2 (1.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,23 +60,23 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.1 (29.1%)
-Java            ████████████████████████ 23.3 (23.3%)
-Python          ███████████████████████ 22.1 (22.1%)
-Go              ██████████████████ 17.4 (17.4%)
-Rust            ████ 3.5 (3.5%)
+JavaScript      ██████████████████████████████ 28.4 (28.4%)
+Python          ████████████████████████ 22.7 (22.7%)
+Java            ████████████████████████ 22.7 (22.7%)
+Go              ███████████████████ 18.2 (18.2%)
+Rust            ████ 3.4 (3.4%)
 PHP             ██ 2.3 (2.3%)
-Swift           █ 1.2 (1.2%)
-Kotlin          █ 1.2 (1.2%)
+Swift           █ 1.1 (1.1%)
+Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 25
+    "Python" : 20
     "Java" : 20
-    "Python" : 19
-    "Go" : 15
+    "Go" : 16
     "Rust" : 3
     "PHP" : 2
     "Swift" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![showdev](https://img.shields.io/badge/showdev-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![showdev](https://img.shields.io/badge/showdev-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -144,15 +144,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpz2bi0eyqe7c99w8r8yy.jpeg" width="200" alt="DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies" />
-      <br/>
-      <b>DevStretch: The Antiburnout Protocol for Devs Who ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/lisacee/flexible-border-element-m6e">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png" width="200" alt="Flexible Border Element" />
       <br/>
@@ -161,8 +152,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F50unu9xv4z5q7mpewji2.png" width="200" alt="The Software Factory: A Practitioner's Guide to Specification-Driven Development for Enterprise Services - February 2026" />
@@ -172,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-5h33">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqktip6gitx4mis5wj86s.jpg" width="200" alt="What was your win this week?!" />
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png" width="200" alt="How Do You Actually Know If AI Is Working On Your Team?" />
+      <br/>
+      <b>How Do You Actually Know If AI Is Working On Your ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -198,12 +198,12 @@ npm run test
 ### 📰 Top Headlines
 
 - [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
-- [DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies](https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am) _[Dev.to]_
 - [Flexible Border Element](https://dev.to/lisacee/flexible-border-element-m6e) _[Dev.to]_
 - [The Software Factory: A Practitioner's Guide to Specification-Driven Development for Enterprise Services - February 2026](https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h33) _[Dev.to]_
 - [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
+- [DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies](https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am) _[Dev.to]_
 - [Coding Agents Are Actually Good at This One Thing](https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej) _[Dev.to]_
 - [Amanzi - Know Your Water](https://dev.to/skomfi/amanzi-know-your-water-47p3) _[Dev.to]_
 - [Scaling AI Memory: How I Tamed a 120k-Token Prompt with Deterministic GraphRAG](https://dev.to/juandastic/scaling-ai-memory-how-i-tamed-a-120k-token-prompt-with-deterministic-graphrag-4f85) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 - [Join the "Built with Google Gemini: Writing Challenge" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!](https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk) _[Dev.to]_
 
-_Last automated update: Tue, 03 Mar 2026 01:33:17 CAT_
+_Last automated update: Tue, 03 Mar 2026 01:58:51 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 03 Mar 2026 01:33:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 02 Mar 2026 23:33:17 GMT</b><br/>
+  <b>Last automated update: Mon, 02 Mar 2026 23:58:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

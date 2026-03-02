@@ -283,21 +283,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "Vibe Coding an Audio Engineer Who Never Sleeps",
-      "url": "https://dev.to/deanius/vibe-coding-an-audio-engineer-who-never-sleeps-4o61",
-      "published_at": "2026-02-25T19:09:12Z",
-      "description": "A story of how vibe coding in OpenClaw unlocked musical creativity.",
-      "tags": [
-        "ai",
-        "openclaw",
-        "vibecode",
-        "music"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjwxbnzcrvl9uyq0jrr9m.jpg",
-      "source": "Dev.to",
-      "user": "Dean Radcliffe"
-    },
-    {
       "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
       "url": "https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a",
       "published_at": "2026-02-26T07:58:44Z",
@@ -489,6 +474,36 @@
       "user": "Ale"
     },
     {
+      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
+      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
+      "published_at": "2026-02-11T02:00:24Z",
+      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
+      "tags": [
+        "ai",
+        "opensourcesecurity",
+        "securitylabs",
+        "supplychainsecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
+      "source": "Dev.to",
+      "user": "SnykSec"
+    },
+    {
+      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
+      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
+      "published_at": "2026-02-14T23:30:20Z",
+      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
+      "tags": [
+        "ai",
+        "javascript",
+        "cicd",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
+      "source": "Dev.to",
+      "user": "Monarch Wadia"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -662,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5259,
+      "stars": 5278,
       "user": "agentscope-ai"
     },
     {
@@ -677,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3797,
+      "stars": 3798,
       "user": "Panniantong"
     },
     {
@@ -707,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "chenhg5"
     }
   ],
@@ -802,21 +817,6 @@
       "user": "Sem Gebresilassie"
     },
     {
-      "title": "Understanding Next.js Rewrites",
-      "url": "https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j",
-      "published_at": "2026-02-26T18:04:54Z",
-      "description": "Most people use Next.js very superficially.  Routing, SSR, maybe API routes — and that’s it. But...",
-      "tags": [
-        "architecture",
-        "javascript",
-        "nextjs",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fez7fx6i3lhwlxh7vosms.png",
-      "source": "Dev.to",
-      "user": "Emeruche Ikenna"
-    },
-    {
       "title": "Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2",
       "url": "https://dev.to/fridzema/announcement-oxidedock-rust-vue-3-desktop-starter-built-on-tauri-v2-3d6a",
       "published_at": "2026-02-16T09:18:29Z",
@@ -860,6 +860,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
       "source": "Dev.to",
       "user": "Ale"
+    },
+    {
+      "title": "Convention as Code: Enforcing Architecture with Scripts, CI, and AI Agents",
+      "url": "https://dev.to/monarchwadia/convention-as-code-enforcing-architecture-with-scripts-ci-and-ai-agents-hgd",
+      "published_at": "2026-02-14T23:30:20Z",
+      "description": "Conventions Drift   Vibe coding gets it 80% right, but the remaining 20% needs enforcement...",
+      "tags": [
+        "ai",
+        "javascript",
+        "cicd",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4apgzhrf27wmn3fehqy.png",
+      "source": "Dev.to",
+      "user": "Monarch Wadia"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1119,6 +1134,21 @@
       "user": "stevejvv"
     },
     {
+      "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe",
+      "published_at": "2026-02-24T23:44:05Z",
+      "description": "HTCPCP/1.0, the 418 teapot, a full interactive dashboard, and why a 1998 April Fools RFC teaches better software design than most tech books.",
+      "tags": [
+        "fun",
+        "http",
+        "python",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg",
+      "source": "Dev.to",
+      "user": "Pascal CESCATO"
+    },
+    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1250,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5259,
+      "stars": 5278,
       "user": "agentscope-ai"
     },
     {
@@ -1265,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3797,
+      "stars": 3798,
       "user": "Panniantong"
     },
     {
@@ -1280,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2599,
+      "stars": 2606,
       "user": "Lakr233"
     },
     {
@@ -1310,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1306,
       "user": "ylytdeng"
     }
   ],
@@ -1599,7 +1629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5259,
+      "stars": 5278,
       "user": "agentscope-ai"
     }
   ],
@@ -1628,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1306,
       "user": "ylytdeng"
     }
   ],
@@ -1676,6 +1706,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
       "source": "Dev.to",
       "user": "Kim Maida"
+    },
+    {
+      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
+      "url": "https://dev.to/snyk/how-a-malicious-google-skill-on-clawhub-tricks-users-into-installing-malware-2298",
+      "published_at": "2026-02-11T02:00:24Z",
+      "description": "Breaking: Snyk researchers uncover a malicious \"Google\" skill on ClawHub that tricks users into installing malware via a fake OpenClaw dependency. Learn how the attack works and how to protect your AI agents.\n",
+      "tags": [
+        "ai",
+        "opensourcesecurity",
+        "securitylabs",
+        "supplychainsecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770747213%2FScreenshot_2026-02-10_at_1.11.10_PM_des6d7.png",
+      "source": "Dev.to",
+      "user": "SnykSec"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1985,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "source": "GitHub",
-      "stars": 5259,
+      "stars": 5278,
       "user": "agentscope-ai"
     },
     {
@@ -2000,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
       "source": "GitHub",
-      "stars": 3797,
+      "stars": 3798,
       "user": "Panniantong"
     },
     {
@@ -2015,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2599,
+      "stars": 2606,
       "user": "Lakr233"
     },
     {
@@ -2045,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1306,
       "user": "ylytdeng"
     },
     {
@@ -2060,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 454,
       "user": "bjarneo"
     },
     {
@@ -2120,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "chenhg5"
     }
   ]
