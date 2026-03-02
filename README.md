@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-02 11:00 CAT)
+## 📅 Latest Updates (2026-03-02 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -136,19 +136,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpz2bi0eyqe7c99w8r8yy.jpeg" width="200" alt="DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies" />
+    <a href="https://dev.to/alistairjcbrown/i-built-a-film-club-discovery-tool-for-londons-cinema-community-2md">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuhk3deebdo8banzcjg6.png" width="200" alt="Making London's hidden film clubs discoverable" />
       <br/>
-      <b>DevStretch: The Antiburnout Protocol for Devs Who ...</b>
+      <b>Making London's hidden film clubs discoverable</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/alistairjcbrown/i-built-a-film-club-discovery-tool-for-londons-cinema-community-2md">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuhk3deebdo8banzcjg6.png" width="200" alt="Making London's hidden film clubs discoverable" />
+    <a href="https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpz2bi0eyqe7c99w8r8yy.jpeg" width="200" alt="DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies" />
       <br/>
-      <b>Making London's hidden film clubs discoverable</b>
+      <b>DevStretch: The Antiburnout Protocol for Devs Who ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -174,19 +174,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png" width="200" alt="Coding Agents Are Actually Good at This One Thing" />
+    <a href="https://dev.to/lisacee/flexible-border-element-m6e">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png" width="200" alt="Flexible Border Element" />
       <br/>
-      <b>Coding Agents Are Actually Good at This One Thing</b>
+      <b>Flexible Border Element</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/lisacee/flexible-border-element-m6e">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png" width="200" alt="Flexible Border Element" />
+    <a href="https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F50unu9xv4z5q7mpewji2.png" width="200" alt="The Software Factory: A Practitioner's Guide to Specification-Driven Development for Enterprise Services - February 2026" />
       <br/>
-      <b>Flexible Border Element</b>
+      <b>The Software Factory: A Practitioner's Guide to Sp...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,11 +198,10 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies](https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am) _[Dev.to]_
 - [Making London's hidden film clubs discoverable](https://dev.to/alistairjcbrown/i-built-a-film-club-discovery-tool-for-londons-cinema-community-2md) _[Dev.to]_
+- [DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies](https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am) _[Dev.to]_
 - [Why I spent my weekend building a "Cyber-Immune System" for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682) _[Dev.to]_
 - [Amanzi - Know Your Water](https://dev.to/skomfi/amanzi-know-your-water-47p3) _[Dev.to]_
-- [Coding Agents Are Actually Good at This One Thing](https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej) _[Dev.to]_
 - [Flexible Border Element](https://dev.to/lisacee/flexible-border-element-m6e) _[Dev.to]_
 - [The Software Factory: A Practitioner's Guide to Specification-Driven Development for Enterprise Services - February 2026](https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c) _[Dev.to]_
 - [🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)](https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d) _[Dev.to]_
@@ -211,6 +210,7 @@ npm run test
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
 - [Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.](https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8) _[Dev.to]_
 - [The Token Economy](https://dev.to/dannwaneri/the-token-economy-3cd9) _[Dev.to]_
+- [Coding Agents Are Actually Good at This One Thing](https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej) _[Dev.to]_
 - [Introducing the Zen of DevOps](https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm) _[Dev.to]_
 - [Scaling AI Memory: How I Tamed a 120k-Token Prompt with Deterministic GraphRAG](https://dev.to/juandastic/scaling-ai-memory-how-i-tamed-a-120k-token-prompt-with-deterministic-graphrag-4f85) _[Dev.to]_
 - [I Built a Gmail AI Responder in Node.js (and it Actually Works)](https://dev.to/alagrede/i-built-a-gmail-ai-responder-in-nodejs-and-it-actually-works-2jc6) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [An App where you can Train your Own Hand Pose Model for your Project! 🤌](https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib) _[Dev.to]_
 - [🐾 FurEver Log — The App I Built After Losing Abu](https://dev.to/siti_aisyahmatzainal_73/furever-log-the-app-i-built-after-losing-abu-4agn) _[Dev.to]_
 
-_Last automated update: Mon, 02 Mar 2026 11:06:26 CAT_
+_Last automated update: Mon, 02 Mar 2026 12:05:46 CAT_
 
 
 
@@ -227,18 +227,7 @@ _Last automated update: Mon, 02 Mar 2026 11:06:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
-
-**Difficulty**: Hard | **Topics**: security, middleware
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, Redis
-
-</details>
-
-### 2. Java: Explain the Java memory model
+### 1. Java: Explain the Java memory model
 
 **Difficulty**: Hard | **Topics**: memory, JVM
 
@@ -249,14 +238,25 @@ Heap, stack, garbage collection
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Doubly linked list + hash map, O(1) operations
+
+</details>
+
+### 3. SystemDesign: Design a URL shortening service like bit.ly
+
+**Difficulty**: Medium | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 02 Mar 2026 09:06:26 GMT</b><br/>
+  <b>Last automated update: Mon, 02 Mar 2026 10:05:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
