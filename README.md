@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-02 4:00 CAT)
+## 📅 Latest Updates (2026-03-02 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [An App where you can Train your Own Hand Pose Model for your Project! 🤌](https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib) _[Dev.to]_
 - [🐾 FurEver Log — The App I Built After Losing Abu](https://dev.to/siti_aisyahmatzainal_73/furever-log-the-app-i-built-after-losing-abu-4agn) _[Dev.to]_
 
-_Last automated update: Mon, 02 Mar 2026 04:32:03 CAT_
+_Last automated update: Mon, 02 Mar 2026 06:28:16 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Mon, 02 Mar 2026 04:32:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 02 Mar 2026 02:32:03 GMT</b><br/>
+  <b>Last automated update: Mon, 02 Mar 2026 04:28:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
