@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-03 14:00 CAT)
+## 📅 Latest Updates (2026-03-03 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,15 +210,15 @@ npm run test
 - [Amanzi - Know Your Water](https://dev.to/skomfi/amanzi-know-your-water-47p3) _[Dev.to]_
 - [Scaling AI Memory: How I Tamed a 120k-Token Prompt with Deterministic GraphRAG](https://dev.to/juandastic/scaling-ai-memory-how-i-tamed-a-120k-token-prompt-with-deterministic-graphrag-4f85) _[Dev.to]_
 - [How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software](https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk) _[Dev.to]_
-- [Making London's hidden film clubs discoverable](https://dev.to/alistairjcbrown/i-built-a-film-club-discovery-tool-for-londons-cinema-community-2md) _[Dev.to]_
 - [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
 - [🐾 FurEver Log — The App I Built After Losing Abu](https://dev.to/siti_aisyahmatzainal_73/furever-log-the-app-i-built-after-losing-abu-4agn) _[Dev.to]_
 - [AI Ate the Homework: What Communities Are Actually For Now](https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi) _[Dev.to]_
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 - [Why I spent my weekend building a "Cyber-Immune System" for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
+- [Stop Wasting Context](https://dev.to/prathamudeshmukh/stop-wasting-context-34b3) _[Dev.to]_
 
-_Last automated update: Tue, 03 Mar 2026 14:51:06 CAT_
+_Last automated update: Tue, 03 Mar 2026 15:57:50 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 03 Mar 2026 14:51:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Heap, stack, garbage collection
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Mutability, performance, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 03 Mar 2026 12:51:06 GMT</b><br/>
+  <b>Last automated update: Tue, 03 Mar 2026 13:57:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
