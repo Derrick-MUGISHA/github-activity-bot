@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-03-orange)
 
@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (45.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
 
 **WebDev**: 🟦🟦🟦 7 (6.7%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.7 (28.7%)
-Java            ████████████████████████ 23.0 (23.0%)
-Go              ███████████████████████ 21.8 (21.8%)
-Python          ███████████████████████ 21.8 (21.8%)
+JavaScript      ██████████████████████████████ 29.1 (29.1%)
+Java            ████████████████████████ 23.3 (23.3%)
+Python          ███████████████████████ 22.1 (22.1%)
+Go              ██████████████████████ 20.9 (20.9%)
 PHP             ██ 2.3 (2.3%)
 Rust            ██ 2.3 (2.3%)
 
@@ -73,8 +73,8 @@ Rust            ██ 2.3 (2.3%)
 pie title Programming Languages Distribution
     "JavaScript" : 25
     "Java" : 20
-    "Go" : 19
     "Python" : 19
+    "Go" : 18
     "PHP" : 2
     "Rust" : 2
 ```
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemini](https://img.shields.io/badge/gemini-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![showdev](https://img.shields.io/badge/showdev-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemini](https://img.shields.io/badge/gemini-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![showdev](https://img.shields.io/badge/showdev-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -216,7 +216,7 @@ But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-for
 - [Stop Running Prettier Through ESLint — Here's Why Standalone Is Better](https://dev.to/vadim/stop-running-prettier-through-eslint-heres-why-standalone-is-better-78a) _[Dev.to]_
 - [Mastering JavaScript Arrays: A Beginner's Guide to Organize Data Like a Pro](https://dev.to/ritam369/mastering-javascript-arrays-a-beginners-guide-to-organize-data-like-a-pro-2dk0) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 00:00:42 CAT_
+_Last automated update: Wed, 04 Mar 2026 00:47:34 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 04 Mar 2026 00:00:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Heap, stack, garbage collection
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 03 Mar 2026 22:00:42 GMT</b><br/>
+  <b>Last automated update: Tue, 03 Mar 2026 22:47:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
