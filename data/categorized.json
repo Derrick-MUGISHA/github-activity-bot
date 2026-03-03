@@ -74,21 +74,6 @@
       "user": "Ali Farhat"
     },
     {
-      "title": "Flexible Border Element",
-      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
-      "published_at": "2026-03-01T21:12:43Z",
-      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
-      "tags": [
-        "css",
-        "frontend",
-        "tailwindcss",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
-      "source": "Dev.to",
-      "user": "Lisa Cee"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -117,36 +102,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
-    },
-    {
-      "title": "Scaling AI Memory: How I Tamed a 120k-Token Prompt with Deterministic GraphRAG",
-      "url": "https://dev.to/juandastic/scaling-ai-memory-how-i-tamed-a-120k-token-prompt-with-deterministic-graphrag-4f85",
-      "published_at": "2026-03-01T08:59:50Z",
-      "description": "In a past article, I wrote about Synapse, an AI companion I built for my wife. To solve the problem...",
-      "tags": [
-        "ai",
-        "gemini",
-        "llm",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpimh52xjjiw4x4w4ebma.png",
-      "source": "Dev.to",
-      "user": "Juan David Gómez"
-    },
-    {
-      "title": "How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software",
-      "url": "https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk",
-      "published_at": "2026-03-01T03:36:32Z",
-      "description": "This blog post chronicles how VS Code equipped with GitHub Copilot powered by Claude Opus 4.6 was used to port the open-source whisper-asr-webservice project to NVIDIA Jetson hardware with full GPU acceleration — navigating over 15 build iterations, compiling CTranslate2 from source for aarch64 CUDA, working around Poetry resolver conflicts and pip wheel priority bugs, creating runtime compatibility shims for torchaudio, torch.load, and huggingface_hub API changes, testing all three ASR engines with self-generated speech audio, and ultimately forking the repo, opening a detailed pull request, and pushing a pre-built container image to Docker Hub — all driven by natural-language prompts — demonstrating how GPU-powered AI coding agents can come full circle by building GPU-accelerated software for edge devices like the Jetson Orin, unlocking practical automations such as automatic subtitle generation for Plex media libraries via Bazarr integration.",
-      "tags": [
-        "jetson",
-        "nvidia",
-        "docker",
-        "whisper"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3skj4imt4hs3ou0yp3ul.png",
-      "source": "Dev.to",
-      "user": "Paul DeCarlo"
     },
     {
       "title": "Using tox to Test a Django App Across Multiple Django Versions",
@@ -264,6 +219,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsp6yq72zmn9uvmkvmnoy.gif",
       "source": "Dev.to",
       "user": "👾 FrancisTRᴅᴇᴠ 👾"
+    },
+    {
+      "title": "Flexible Border Element",
+      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
+      "published_at": "2026-03-01T21:12:43Z",
+      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
+      "tags": [
+        "css",
+        "frontend",
+        "tailwindcss",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
+      "source": "Dev.to",
+      "user": "Lisa Cee"
     },
     {
       "title": "PENDING - February 2026",
@@ -502,6 +472,21 @@
       "user": "Juan G De Jesus Torres"
     },
     {
+      "title": "HJX: Rethinking the Web for the AI Era",
+      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
+      "published_at": "2026-02-17T04:40:08Z",
+      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
+      "tags": [
+        "ai",
+        "frontend",
+        "web",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
+      "source": "Dev.to",
+      "user": "Loaiabdalslam"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -675,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 271,
       "user": "chenhg5"
     },
     {
@@ -705,11 +690,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "Enriquefft"
     }
   ],
   "JavaScript": [
+    {
+      "title": "i built a social platform where everything vanishes after 24 hours",
+      "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
+      "published_at": "2026-03-03T04:44:50Z",
+      "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
+      "tags": [
+        "socialmedia",
+        "showdev",
+        "webdev",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
+      "source": "Dev.to",
+      "user": "Ovi ren"
+    },
     {
       "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
       "url": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "cporter202"
     }
   ],
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2877,
+      "stars": 2883,
       "user": "Lakr233"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1409,
       "user": "ylytdeng"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1143,
       "user": "World-Open-Graph"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 806,
       "user": "apple"
     },
     {
@@ -1298,21 +1298,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software",
-      "url": "https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk",
-      "published_at": "2026-03-01T03:36:32Z",
-      "description": "This blog post chronicles how VS Code equipped with GitHub Copilot powered by Claude Opus 4.6 was used to port the open-source whisper-asr-webservice project to NVIDIA Jetson hardware with full GPU acceleration — navigating over 15 build iterations, compiling CTranslate2 from source for aarch64 CUDA, working around Poetry resolver conflicts and pip wheel priority bugs, creating runtime compatibility shims for torchaudio, torch.load, and huggingface_hub API changes, testing all three ASR engines with self-generated speech audio, and ultimately forking the repo, opening a detailed pull request, and pushing a pre-built container image to Docker Hub — all driven by natural-language prompts — demonstrating how GPU-powered AI coding agents can come full circle by building GPU-accelerated software for edge devices like the Jetson Orin, unlocking practical automations such as automatic subtitle generation for Plex media libraries via Bazarr integration.",
-      "tags": [
-        "jetson",
-        "nvidia",
-        "docker",
-        "whisper"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3skj4imt4hs3ou0yp3ul.png",
-      "source": "Dev.to",
-      "user": "Paul DeCarlo"
-    },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
@@ -1391,21 +1376,6 @@
       "user": "Aleksandar Maletic"
     },
     {
-      "title": "Flexible Border Element",
-      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
-      "published_at": "2026-03-01T21:12:43Z",
-      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
-      "tags": [
-        "css",
-        "frontend",
-        "tailwindcss",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
-      "source": "Dev.to",
-      "user": "Lisa Cee"
-    },
-    {
       "title": "Stop Running Prettier Through ESLint — Here's Why Standalone Is Better",
       "url": "https://dev.to/vadim/stop-running-prettier-through-eslint-heres-why-standalone-is-better-78a",
       "published_at": "2026-03-02T11:48:12Z",
@@ -1436,6 +1406,21 @@
       "user": "Anja Beisel"
     },
     {
+      "title": "Flexible Border Element",
+      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
+      "published_at": "2026-03-01T21:12:43Z",
+      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
+      "tags": [
+        "css",
+        "frontend",
+        "tailwindcss",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
+      "source": "Dev.to",
+      "user": "Lisa Cee"
+    },
+    {
       "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
       "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
       "published_at": "2026-02-15T12:26:26Z",
@@ -1449,6 +1434,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
+    },
+    {
+      "title": "HJX: Rethinking the Web for the AI Era",
+      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
+      "published_at": "2026-02-17T04:40:08Z",
+      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
+      "tags": [
+        "ai",
+        "frontend",
+        "web",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
+      "source": "Dev.to",
+      "user": "Loaiabdalslam"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1567,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "Enriquefft"
     }
   ],
@@ -1611,7 +1611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1409,
       "user": "ylytdeng"
     }
   ],
@@ -1735,21 +1735,6 @@
       "user": "Matty Stratton"
     },
     {
-      "title": "How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software",
-      "url": "https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk",
-      "published_at": "2026-03-01T03:36:32Z",
-      "description": "This blog post chronicles how VS Code equipped with GitHub Copilot powered by Claude Opus 4.6 was used to port the open-source whisper-asr-webservice project to NVIDIA Jetson hardware with full GPU acceleration — navigating over 15 build iterations, compiling CTranslate2 from source for aarch64 CUDA, working around Poetry resolver conflicts and pip wheel priority bugs, creating runtime compatibility shims for torchaudio, torch.load, and huggingface_hub API changes, testing all three ASR engines with self-generated speech audio, and ultimately forking the repo, opening a detailed pull request, and pushing a pre-built container image to Docker Hub — all driven by natural-language prompts — demonstrating how GPU-powered AI coding agents can come full circle by building GPU-accelerated software for edge devices like the Jetson Orin, unlocking practical automations such as automatic subtitle generation for Plex media libraries via Bazarr integration.",
-      "tags": [
-        "jetson",
-        "nvidia",
-        "docker",
-        "whisper"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3skj4imt4hs3ou0yp3ul.png",
-      "source": "Dev.to",
-      "user": "Paul DeCarlo"
-    },
-    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -1808,20 +1793,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5kerlsg631nshiajmwgo.png",
       "source": "Dev.to",
       "user": "Hafiq Iqmal"
-    },
-    {
-      "title": "Upgraded embed experience and new embed types in DEV posts",
-      "url": "https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho",
-      "published_at": "2026-02-27T14:29:22Z",
-      "description": "When you paste a URL into your DEV post, if it is embeddable, you now get a handy little tooltip to...",
-      "tags": [
-        "news",
-        "devto",
-        "forem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimpdnw3z9qppff9cvjtc.png",
-      "source": "Dev.to",
-      "user": "Jon Gottfried"
     },
     {
       "title": "I Built a Gmail AI Responder in Node.js (and it Actually Works)",
@@ -1983,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "cporter202"
     },
     {
@@ -1998,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2877,
+      "stars": 2883,
       "user": "Lakr233"
     },
     {
@@ -2013,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1409,
       "user": "ylytdeng"
     },
     {
@@ -2028,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1143,
       "user": "World-Open-Graph"
     },
     {
@@ -2043,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 806,
       "user": "apple"
     },
     {
@@ -2088,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 271,
       "user": "chenhg5"
     },
     {
@@ -2133,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "Enriquefft"
     }
   ]
