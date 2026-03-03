@@ -16,21 +16,6 @@
       "user": "Lisa Cee"
     },
     {
-      "title": "The Software Factory: A Practitioner's Guide to Specification-Driven Development for Enterprise Services - February 2026",
-      "url": "https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c",
-      "published_at": "2026-03-01T16:04:00Z",
-      "description": "A reference for implementing factory-pattern development within an enterprise SOA",
-      "tags": [
-        "softwarefactory",
-        "ai",
-        "agentic",
-        "soa"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F50unu9xv4z5q7mpewji2.png",
-      "source": "Dev.to",
-      "user": "Chad Woolley"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -221,6 +206,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsp6yq72zmn9uvmkvmnoy.gif",
       "source": "Dev.to",
       "user": "👾 FrancisTRᴅᴇᴠ 👾"
+    },
+    {
+      "title": "PENDING - February 2026",
+      "url": "https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c",
+      "published_at": "2026-03-01T16:04:00Z",
+      "description": "A reference for implementing factory-pattern development within an enterprise SOA",
+      "tags": [
+        "softwarefactory",
+        "ai",
+        "agentic",
+        "soa"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flildtpjrrkfocvaq0s7e.png",
+      "source": "Dev.to",
+      "user": "Chad Woolley"
     },
     {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
@@ -666,34 +666,19 @@
       "user": "ellipticmarketing"
     },
     {
-      "title": "agentscope-ai/CoPaw - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "url": "https://github.com/agentscope-ai/CoPaw",
-      "published_at": "2026-02-24T03:42:56Z",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "title": "6551Team/opennews-mcp - Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
+      "url": "https://github.com/6551Team/opennews-mcp",
+      "published_at": "2026-02-26T06:04:49Z",
+      "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 5278,
-      "user": "agentscope-ai"
-    },
-    {
-      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "published_at": "2026-02-24T02:10:24Z",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
-      "source": "GitHub",
-      "stars": 3798,
-      "user": "Panniantong"
+      "stars": 600,
+      "user": "6551Team"
     },
     {
       "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
@@ -707,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 189,
       "user": "geekjourneyx"
     },
     {
@@ -722,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 149,
       "user": "chenhg5"
     }
   ],
@@ -997,36 +982,6 @@
       "user": "velmu"
     },
     {
-      "title": "Sir-Scuzza/gluetun-webui - GitHub Repository",
-      "url": "https://github.com/Sir-Scuzza/gluetun-webui",
-      "published_at": "2026-02-24T11:44:26Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
-      "source": "GitHub",
-      "stars": 236,
-      "user": "Sir-Scuzza"
-    },
-    {
-      "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
-      "url": "https://github.com/jesselau76/cigen",
-      "published_at": "2026-02-24T02:05:31Z",
-      "description": "Interactive root/affix vocabulary memory web app",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "jesselau76"
-    },
-    {
       "title": "joeseesun/word-root-workshop - 📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
       "url": "https://github.com/joeseesun/word-root-workshop",
       "published_at": "2026-02-25T06:38:42Z",
@@ -1038,7 +993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "joeseesun"
     },
     {
@@ -1070,6 +1025,36 @@
       "source": "GitHub",
       "stars": 84,
       "user": "ellipticmarketing"
+    },
+    {
+      "title": "cporter202/openclaw-api-list - This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
+      "url": "https://github.com/cporter202/openclaw-api-list",
+      "published_at": "2026-03-01T04:39:17Z",
+      "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "cporter202"
+    },
+    {
+      "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
+      "url": "https://github.com/r3nzsec/irflow-timeline",
+      "published_at": "2026-03-01T19:31:35Z",
+      "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "r3nzsec"
     }
   ],
   "Python": [
@@ -1132,21 +1117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft4ja9mpsntwunxayu2gx.png",
       "source": "Dev.to",
       "user": "stevejvv"
-    },
-    {
-      "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe",
-      "published_at": "2026-02-24T23:44:05Z",
-      "description": "HTCPCP/1.0, the 418 teapot, a full interactive dashboard, and why a 1998 April Fools RFC teaches better software design than most tech books.",
-      "tags": [
-        "fun",
-        "http",
-        "python",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu62xxyp4bk85oc1nzdl.jpg",
-      "source": "Dev.to",
-      "user": "Pascal CESCATO"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1269,36 +1239,6 @@
       "user": "gilad"
     },
     {
-      "title": "agentscope-ai/CoPaw - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "url": "https://github.com/agentscope-ai/CoPaw",
-      "published_at": "2026-02-24T03:42:56Z",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
-      "source": "GitHub",
-      "stars": 5278,
-      "user": "agentscope-ai"
-    },
-    {
-      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "published_at": "2026-02-24T02:10:24Z",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
-      "source": "GitHub",
-      "stars": 3798,
-      "user": "Panniantong"
-    },
-    {
       "title": "Lakr233/vphone-cli - GitHub Repository",
       "url": "https://github.com/Lakr233/vphone-cli",
       "published_at": "2026-02-26T11:29:08Z",
@@ -1310,23 +1250,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2606,
+      "stars": 2669,
       "user": "Lakr233"
-    },
-    {
-      "title": "peteromallet/dataclaw - GitHub Repository",
-      "url": "https://github.com/peteromallet/dataclaw",
-      "published_at": "2026-02-24T20:33:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
-      "source": "GitHub",
-      "stars": 1760,
-      "user": "peteromallet"
     },
     {
       "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
@@ -1340,8 +1265,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1336,
       "user": "ylytdeng"
+    },
+    {
+      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
+      "url": "https://github.com/World-Open-Graph/br-acc",
+      "published_at": "2026-03-01T15:24:07Z",
+      "description": "World Transparency Graph public codebase (🚧 website in progress)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
+      "source": "GitHub",
+      "stars": 1060,
+      "user": "World-Open-Graph"
+    },
+    {
+      "title": "apple/python-apple-fm-sdk - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+      "url": "https://github.com/apple/python-apple-fm-sdk",
+      "published_at": "2026-02-25T19:30:46Z",
+      "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
+      "source": "GitHub",
+      "stars": 798,
+      "user": "apple"
+    },
+    {
+      "title": "6551Team/opennews-mcp - Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
+      "url": "https://github.com/6551Team/opennews-mcp",
+      "published_at": "2026-02-26T06:04:49Z",
+      "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
+      "source": "GitHub",
+      "stars": 600,
+      "user": "6551Team"
     }
   ],
   "DevOps": [
@@ -1521,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 189,
       "user": "geekjourneyx"
     }
   ],
@@ -1616,21 +1586,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
       "source": "Dev.to",
       "user": "Ozan"
-    },
-    {
-      "title": "agentscope-ai/CoPaw - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "url": "https://github.com/agentscope-ai/CoPaw",
-      "published_at": "2026-02-24T03:42:56Z",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
-      "source": "GitHub",
-      "stars": 5278,
-      "user": "agentscope-ai"
     }
   ],
   "Database": [
@@ -1647,6 +1602,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
+      "url": "https://github.com/r3nzsec/irflow-timeline",
+      "published_at": "2026-03-01T19:31:35Z",
+      "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "r3nzsec"
+    },
+    {
       "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "published_at": "2026-02-28T04:03:44Z",
@@ -1658,7 +1628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1336,
       "user": "ylytdeng"
     }
   ],
@@ -1944,36 +1914,6 @@
       "user": "Prabhat Kumar"
     },
     {
-      "title": "Sir-Scuzza/gluetun-webui - GitHub Repository",
-      "url": "https://github.com/Sir-Scuzza/gluetun-webui",
-      "published_at": "2026-02-24T11:44:26Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260712477?v=4",
-      "source": "GitHub",
-      "stars": 236,
-      "user": "Sir-Scuzza"
-    },
-    {
-      "title": "jesselau76/cigen - Interactive root/affix vocabulary memory web app",
-      "url": "https://github.com/jesselau76/cigen",
-      "published_at": "2026-02-24T02:05:31Z",
-      "description": "Interactive root/affix vocabulary memory web app",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40444824?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "jesselau76"
-    },
-    {
       "title": "joeseesun/word-root-workshop - 📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词",
       "url": "https://github.com/joeseesun/word-root-workshop",
       "published_at": "2026-02-25T06:38:42Z",
@@ -1985,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "joeseesun"
     },
     {
@@ -2019,34 +1959,34 @@
       "user": "ellipticmarketing"
     },
     {
-      "title": "agentscope-ai/CoPaw - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "url": "https://github.com/agentscope-ai/CoPaw",
-      "published_at": "2026-02-24T03:42:56Z",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "title": "cporter202/openclaw-api-list - This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
+      "url": "https://github.com/cporter202/openclaw-api-list",
+      "published_at": "2026-03-01T04:39:17Z",
+      "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211762292?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 5278,
-      "user": "agentscope-ai"
+      "stars": 78,
+      "user": "cporter202"
     },
     {
-      "title": "Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "published_at": "2026-02-24T02:10:24Z",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
+      "url": "https://github.com/r3nzsec/irflow-timeline",
+      "published_at": "2026-03-01T19:31:35Z",
+      "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73925474?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 3798,
-      "user": "Panniantong"
+      "stars": 77,
+      "user": "r3nzsec"
     },
     {
       "title": "Lakr233/vphone-cli - GitHub Repository",
@@ -2060,23 +2000,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2606,
+      "stars": 2669,
       "user": "Lakr233"
-    },
-    {
-      "title": "peteromallet/dataclaw - GitHub Repository",
-      "url": "https://github.com/peteromallet/dataclaw",
-      "published_at": "2026-02-24T20:33:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4647941?v=4",
-      "source": "GitHub",
-      "stars": 1760,
-      "user": "peteromallet"
     },
     {
       "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
@@ -2090,23 +2015,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1336,
       "user": "ylytdeng"
     },
     {
-      "title": "bjarneo/cliamp - Terminal Winamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "published_at": "2026-02-24T07:18:59Z",
-      "description": "Terminal Winamp",
+      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
+      "url": "https://github.com/World-Open-Graph/br-acc",
+      "published_at": "2026-03-01T15:24:07Z",
+      "description": "World Transparency Graph public codebase (🚧 website in progress)",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 454,
-      "user": "bjarneo"
+      "stars": 1060,
+      "user": "World-Open-Graph"
+    },
+    {
+      "title": "apple/python-apple-fm-sdk - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+      "url": "https://github.com/apple/python-apple-fm-sdk",
+      "published_at": "2026-02-25T19:30:46Z",
+      "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
+      "source": "GitHub",
+      "stars": 798,
+      "user": "apple"
+    },
+    {
+      "title": "6551Team/opennews-mcp - Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
+      "url": "https://github.com/6551Team/opennews-mcp",
+      "published_at": "2026-02-26T06:04:49Z",
+      "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
+      "source": "GitHub",
+      "stars": 600,
+      "user": "6551Team"
     },
     {
       "title": "Resinat/Resin - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.",
@@ -2120,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 237,
       "user": "Resinat"
     },
     {
@@ -2135,8 +2090,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 189,
       "user": "geekjourneyx"
+    },
+    {
+      "title": "chenhg5/cc-connect - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+      "url": "https://github.com/chenhg5/cc-connect",
+      "published_at": "2026-02-28T02:39:39Z",
+      "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "chenhg5"
     },
     {
       "title": "junevm/splathash - compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.",
@@ -2154,19 +2124,19 @@
       "user": "junevm"
     },
     {
-      "title": "chenhg5/cc-connect - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
-      "url": "https://github.com/chenhg5/cc-connect",
-      "published_at": "2026-02-28T02:39:39Z",
-      "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+      "title": "Higangssh/gitcredits - Roll movie-style credits for your git repo — right in the terminal",
+      "url": "https://github.com/Higangssh/gitcredits",
+      "published_at": "2026-02-28T12:18:36Z",
+      "description": "Roll movie-style credits for your git repo — right in the terminal",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/149052256?v=4",
       "source": "GitHub",
-      "stars": 135,
-      "user": "chenhg5"
+      "stars": 87,
+      "user": "Higangssh"
     }
   ]
 }
