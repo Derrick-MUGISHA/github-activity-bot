@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![showdev](https://img.shields.io/badge/showdev-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![showdev](https://img.shields.io/badge/showdev-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
 
 
 
@@ -169,21 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpwdww315c2rc7mm5rf6.png" width="200" alt="I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened." />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqgvsibijj7zswk4u8ugk.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>I Plugged Gemini Into My 10,000-Line Rental Platfo...</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qryiewn69er77mbl5zx.png" width="200" alt="We had a big team offsite and I forgot meme monday yesterday 😭
-
-But here is another post" />
+    <a href="https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpwdww315c2rc7mm5rf6.png" width="200" alt="I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened." />
       <br/>
-      <b>We had a big team offsite and I forgot meme monday...</b>
+      <b>I Plugged Gemini Into My 10,000-Line Rental Platfo...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,6 +197,7 @@ But here is another post" />
 - [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 - [Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!](https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm) _[Dev.to]_
 - [How to make your first contribution to an open source project](https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0) _[Dev.to]_
 - [I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened.](https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi) _[Dev.to]_
 - [We had a big team offsite and I forgot meme monday yesterday 😭
 
@@ -216,9 +215,8 @@ But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-for
 - [Coding Agents Are Actually Good at This One Thing](https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej) _[Dev.to]_
 - [Stop Running Prettier Through ESLint — Here's Why Standalone Is Better](https://dev.to/vadim/stop-running-prettier-through-eslint-heres-why-standalone-is-better-78a) _[Dev.to]_
 - [Mastering JavaScript Arrays: A Beginner's Guide to Organize Data Like a Pro](https://dev.to/ritam369/mastering-javascript-arrays-a-beginners-guide-to-organize-data-like-a-pro-2dk0) _[Dev.to]_
-- [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
 
-_Last automated update: Tue, 03 Mar 2026 22:28:54 CAT_
+_Last automated update: Tue, 03 Mar 2026 22:58:12 CAT_
 
 
 
@@ -226,36 +224,36 @@ _Last automated update: Tue, 03 Mar 2026 22:28:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Execution timing, event loop phases
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -289,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 03 Mar 2026 20:28:54 GMT</b><br/>
+  <b>Last automated update: Tue, 03 Mar 2026 20:58:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
