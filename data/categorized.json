@@ -1,6 +1,64 @@
 {
   "AI": [
     {
+      "title": "Gemini 3.1 Flash-Lite: Developer guide and use cases",
+      "url": "https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh",
+      "published_at": "2026-03-03T16:04:16Z",
+      "description": "Gemini 3.1 Flash-Lite is the high-volume, affordable powerhouse of the Gemini family. It’s...",
+      "tags": [
+        "gemini",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5s5sepylgzwml9we0agc.png",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
+    },
+    {
+      "title": "Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!",
+      "url": "https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm",
+      "published_at": "2026-03-03T11:25:11Z",
+      "description": "This is a submission for the Built with Google Gemini: Writing Challenge  What if tracking near-Earth...",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png",
+      "source": "Dev.to",
+      "user": "Deeptej"
+    },
+    {
+      "title": "Oooh very interesting",
+      "url": "https://dev.to/ben/oooh-very-interesting-ohk",
+      "published_at": "2026-03-03T16:12:24Z",
+      "description": "Gemini 3.1 Flash-Lite: Developer guide...",
+      "tags": [
+        "gemini",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Meme Monday",
+      "url": "https://dev.to/raddevus/meme-monday-5d21",
+      "published_at": "2026-03-02T18:31:16Z",
+      "description": "Meme Monday   I can't wait all day for this site to start the Meme Monday post, so here it...",
+      "tags": [
+        "community",
+        "discuss",
+        "programming",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
+      "source": "Dev.to",
+      "user": "raddevus"
+    },
+    {
       "title": "How to Switch from ChatGPT to Claude Without Losing Context",
       "url": "https://dev.to/alifar/how-to-switch-from-chatgpt-to-claude-without-losing-context-374d",
       "published_at": "2026-03-03T08:15:51Z",
@@ -444,36 +502,6 @@
       "user": "Juan G De Jesus Torres"
     },
     {
-      "title": "HJX: Rethinking the Web for the AI Era",
-      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
-      "published_at": "2026-02-17T04:40:08Z",
-      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
-      "tags": [
-        "ai",
-        "frontend",
-        "web",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
-      "source": "Dev.to",
-      "user": "Loaiabdalslam"
-    },
-    {
-      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
-      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
-      "published_at": "2026-02-13T19:52:20Z",
-      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
-      "tags": [
-        "stripe",
-        "saas",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
-      "source": "Dev.to",
-      "user": "Ale"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -647,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 269,
       "user": "chenhg5"
     },
     {
@@ -677,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "Enriquefft"
     }
   ],
@@ -815,51 +843,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
       "source": "Dev.to",
       "user": "Sem Gebresilassie"
-    },
-    {
-      "title": "Announcement: OxideDock Rust + Vue 3 desktop starter built on Tauri v2",
-      "url": "https://dev.to/fridzema/announcement-oxidedock-rust-vue-3-desktop-starter-built-on-tauri-v2-3d6a",
-      "published_at": "2026-02-16T09:18:29Z",
-      "description": "I built a Tauri v2 + Vue 3 desktop starter so you don't have to wire up the boring stuff. I got...",
-      "tags": [
-        "opensource",
-        "rust",
-        "showdev",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8of7zouja9n3nxg13usa.png",
-      "source": "Dev.to",
-      "user": "Robert Fridzema"
-    },
-    {
-      "title": "Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js",
-      "url": "https://dev.to/arindamdawn/stop-wrestling-with-json-ld-type-safe-structured-data-for-nextjs-38on",
-      "published_at": "2026-02-16T08:31:48Z",
-      "description": "Structured data is one of those things every developer knows they should implement, but few actually...",
-      "tags": [
-        "nextjs",
-        "seo",
-        "jsonld",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyphiwpeupxxzg5ukesg.png",
-      "source": "Dev.to",
-      "user": "Arindam Dawn"
-    },
-    {
-      "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
-      "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
-      "published_at": "2026-02-13T19:52:20Z",
-      "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
-      "tags": [
-        "stripe",
-        "saas",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a4s0dc9t8twq3qgr20j.png",
-      "source": "Dev.to",
-      "user": "Ale"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1053,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 89,
       "user": "cporter202"
     }
   ],
@@ -1250,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2871,
+      "stars": 2877,
       "user": "Lakr233"
     },
     {
@@ -1265,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1407,
+      "stars": 1410,
       "user": "ylytdeng"
     },
     {
@@ -1280,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1134,
+      "stars": 1137,
       "user": "World-Open-Graph"
     },
     {
@@ -1468,21 +1451,6 @@
       "user": "Sem Gebresilassie"
     },
     {
-      "title": "HJX: Rethinking the Web for the AI Era",
-      "url": "https://dev.to/loaiabdalslam/hjx-rethinking-the-web-for-the-ai-era-13p1",
-      "published_at": "2026-02-17T04:40:08Z",
-      "description": "HJX: Rethinking the Web for the AI Era            By Loai Abdalslam      For more than 30...",
-      "tags": [
-        "ai",
-        "frontend",
-        "web",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpa1r7iyr4robc70a28a.png",
-      "source": "Dev.to",
-      "user": "Loaiabdalslam"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1525,21 +1493,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwf8r18ozmm88bfnrl4eo.png",
       "source": "Dev.to",
       "user": "Samuel Komfi"
-    },
-    {
-      "title": "I built a framework that lets you write native apps with YAML and Lua",
-      "url": "https://dev.to/josejuanqm/i-built-a-framework-that-lets-you-write-native-apps-with-yaml-and-lua-38lf",
-      "published_at": "2026-02-23T23:56:02Z",
-      "description": "I've been doing native mobile development for a while and one thing that always bugged me was the...",
-      "tags": [
-        "swift",
-        "kotlin",
-        "mobile",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxiglhwogug06jvt15xrc.png",
-      "source": "Dev.to",
-      "user": "Jose Quintero"
     }
   ],
   "Cloud": [
@@ -1614,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "Enriquefft"
     }
   ],
@@ -1658,7 +1611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1407,
+      "stars": 1410,
       "user": "ylytdeng"
     }
   ],
@@ -2030,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 89,
       "user": "cporter202"
     },
     {
@@ -2045,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2871,
+      "stars": 2877,
       "user": "Lakr233"
     },
     {
@@ -2060,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1407,
+      "stars": 1410,
       "user": "ylytdeng"
     },
     {
@@ -2075,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1134,
+      "stars": 1137,
       "user": "World-Open-Graph"
     },
     {
@@ -2135,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 269,
       "user": "chenhg5"
     },
     {
@@ -2180,7 +2133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "Enriquefft"
     }
   ]
