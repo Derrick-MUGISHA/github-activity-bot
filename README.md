@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-03-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**WebDev**: 🟦🟦🟦 8 (7.6%)
+**WebDev**: 🟦🟦🟦 7 (6.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -46,7 +46,7 @@
 
 **Database**: 🟦 3 (2.9%)
 
-**Mobile**: 🟦 2 (1.9%)
+**Mobile**:  1 (1.0%)
 
 
 
@@ -60,34 +60,30 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.3 (29.3%)
-Java            ████████████████████████ 23.9 (23.9%)
-Python          █████████████████████ 20.7 (20.7%)
-Go              ███████████████████ 18.5 (18.5%)
-Rust            ███ 3.3 (3.3%)
-PHP             ██ 2.2 (2.2%)
-Swift           █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 28.2 (28.2%)
+Java            █████████████████████████ 23.5 (23.5%)
+Python          ████████████████████████ 22.4 (22.4%)
+Go              ███████████████████████ 21.2 (21.2%)
+PHP             ███ 2.4 (2.4%)
+Rust            ███ 2.4 (2.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 27
-    "Java" : 22
+    "JavaScript" : 24
+    "Java" : 20
     "Python" : 19
-    "Go" : 17
-    "Rust" : 3
+    "Go" : 18
     "PHP" : 2
-    "Swift" : 1
-    "Kotlin" : 1
+    "Rust" : 2
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![showdev](https://img.shields.io/badge/showdev-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![frontend](https://img.shields.io/badge/frontend-6-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![showdev](https://img.shields.io/badge/showdev-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
 
 
 
@@ -127,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-03 17:00 CAT)
+## 📅 Latest Updates (2026-03-03 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,6 +140,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5s5sepylgzwml9we0agc.png" width="200" alt="Gemini 3.1 Flash-Lite: Developer guide and use cases" />
+      <br/>
+      <b>Gemini 3.1 Flash-Lite: Developer guide and use cas...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpwdww315c2rc7mm5rf6.png" width="200" alt="I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened." />
       <br/>
@@ -152,40 +157,33 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/alifar/how-to-switch-from-chatgpt-to-claude-without-losing-context-374d">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb62b790le120w4w5r89q.jpg" width="200" alt="How to Switch from ChatGPT to Claude Without Losing Context" />
-      <br/>
-      <b>How to Switch from ChatGPT to Claude Without Losin...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fczmztjfyv1kye2o0vou3.png" width="200" alt="Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework" />
+    <a href="https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png" width="200" alt="Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!" />
       <br/>
-      <b>Meet BlokJS - 9 KB, No Build Step, Standalone, Ful...</b>
+      <b>Fusing NASA Data with AI: How I Built CosmoDex and...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/lisacee/flexible-border-element-m6e">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png" width="200" alt="Flexible Border Element" />
+    <a href="https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwn6yjkfdwg9kjunpfd1k.png" width="200" alt="How to make your first contribution to an open source project" />
       <br/>
-      <b>Flexible Border Element</b>
+      <b>How to make your first contribution to an open sou...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpz2bi0eyqe7c99w8r8yy.jpeg" width="200" alt="DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies" />
+    <a href="https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qryiewn69er77mbl5zx.png" width="200" alt="We had a big team offsite and I forgot meme monday yesterday 😭
+
+But here is another post" />
       <br/>
-      <b>DevStretch: The Antiburnout Protocol for Devs Who ...</b>
+      <b>We had a big team offsite and I forgot meme monday...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,7 +196,15 @@ npm run test
 ### 📰 Top Headlines
 
 - [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
+- [Gemini 3.1 Flash-Lite: Developer guide and use cases](https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh) _[Dev.to]_
 - [I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened.](https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi) _[Dev.to]_
+- [Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!](https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm) _[Dev.to]_
+- [How to make your first contribution to an open source project](https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50) _[Dev.to]_
+- [We had a big team offsite and I forgot meme monday yesterday 😭
+
+But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
+- [Oooh very interesting](https://dev.to/ben/oooh-very-interesting-ohk) _[Dev.to]_
+- [Meme Monday](https://dev.to/raddevus/meme-monday-5d21) _[Dev.to]_
 - [How to Switch from ChatGPT to Claude Without Losing Context](https://dev.to/alifar/how-to-switch-from-chatgpt-to-claude-without-losing-context-374d) _[Dev.to]_
 - [Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework](https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg) _[Dev.to]_
 - [Flexible Border Element](https://dev.to/lisacee/flexible-border-element-m6e) _[Dev.to]_
@@ -211,14 +217,8 @@ npm run test
 - [Amanzi - Know Your Water](https://dev.to/skomfi/amanzi-know-your-water-47p3) _[Dev.to]_
 - [Scaling AI Memory: How I Tamed a 120k-Token Prompt with Deterministic GraphRAG](https://dev.to/juandastic/scaling-ai-memory-how-i-tamed-a-120k-token-prompt-with-deterministic-graphrag-4f85) _[Dev.to]_
 - [How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software](https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk) _[Dev.to]_
-- [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
-- [🐾 FurEver Log — The App I Built After Losing Abu](https://dev.to/siti_aisyahmatzainal_73/furever-log-the-app-i-built-after-losing-abu-4agn) _[Dev.to]_
-- [AI Ate the Homework: What Communities Are Actually For Now](https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi) _[Dev.to]_
-- [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
-- [Why I spent my weekend building a "Cyber-Immune System" for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682) _[Dev.to]_
-- [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 
-_Last automated update: Tue, 03 Mar 2026 17:43:16 CAT_
+_Last automated update: Tue, 03 Mar 2026 18:28:29 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 03 Mar 2026 17:43:16 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 03 Mar 2026 15:43:16 GMT</b><br/>
+  <b>Last automated update: Tue, 03 Mar 2026 16:28:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
