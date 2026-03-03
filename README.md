@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-04 0:00 CAT)
+## 📅 Latest Updates (2026-03-04 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-for
 - [Stop Running Prettier Through ESLint — Here's Why Standalone Is Better](https://dev.to/vadim/stop-running-prettier-through-eslint-heres-why-standalone-is-better-78a) _[Dev.to]_
 - [Mastering JavaScript Arrays: A Beginner's Guide to Organize Data Like a Pro](https://dev.to/ritam369/mastering-javascript-arrays-a-beginners-guide-to-organize-data-like-a-pro-2dk0) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 00:47:34 CAT_
+_Last automated update: Wed, 04 Mar 2026 01:23:31 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 04 Mar 2026 00:47:34 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 03 Mar 2026 22:47:34 GMT</b><br/>
+  <b>Last automated update: Tue, 03 Mar 2026 23:23:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
