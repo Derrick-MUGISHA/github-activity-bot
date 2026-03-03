@@ -6,13 +6,13 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 46,
+    "AI": 48,
     "JavaScript": 27,
     "Python": 19,
     "DevOps": 5,
     "WebDev": 8,
     "Mobile": 2,
-    "Cloud": 4,
+    "Cloud": 5,
     "Database": 3,
     "Security": 5,
     "Tools": 30
@@ -29,12 +29,12 @@
   },
   "by_date": {
     "2026-03-02": 6,
-    "2026-03-03": 1,
+    "2026-03-03": 2,
     "2026-03-01": 15,
     "2026-02-27": 10,
     "2026-02-28": 8,
     "2026-02-25": 8,
-    "2026-02-19": 4,
+    "2026-02-19": 3,
     "2026-02-22": 1,
     "2026-02-26": 7,
     "2026-02-18": 2,
@@ -75,7 +75,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 21,
+    "ai": 22,
     "github": 15,
     "open-source": 15,
     "webdev": 14,
@@ -90,8 +90,8 @@
     "opensource": 7,
     "frontend": 6,
     "weekendchallenge": 6,
-    "programming": 6,
     "go": 6,
+    "programming": 5,
     "career": 4,
     "gemini": 4,
     "agents": 4
