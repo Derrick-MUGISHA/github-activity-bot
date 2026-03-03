@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-03 13:00 CAT)
+## 📅 Latest Updates (2026-03-03 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Why I spent my weekend building a "Cyber-Immune System" for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 
-_Last automated update: Tue, 03 Mar 2026 13:52:55 CAT_
+_Last automated update: Tue, 03 Mar 2026 14:51:06 CAT_
 
 
 
@@ -226,18 +226,7 @@ _Last automated update: Tue, 03 Mar 2026 13:52:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
-
-**Difficulty**: Hard | **Topics**: functions, timing
-
-<details>
-<summary>💡 Hint</summary>
-
-setTimeout, clearTimeout, wrapper function
-
-</details>
-
-### 2. Java: What are Java Streams and how do they work?
+### 1. Java: What are Java Streams and how do they work?
 
 **Difficulty**: Medium | **Topics**: functional programming, collections
 
@@ -248,14 +237,25 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Multiple inheritance, method implementation, use cases
+
+</details>
+
+### 3. SystemDesign: Design a distributed cache system
+
+**Difficulty**: Hard | **Topics**: distributed systems, caching
+
+<details>
+<summary>💡 Hint</summary>
+
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 03 Mar 2026 11:52:55 GMT</b><br/>
+  <b>Last automated update: Tue, 03 Mar 2026 12:51:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
