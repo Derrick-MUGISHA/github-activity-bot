@@ -163,21 +163,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
-      "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
-      "published_at": "2026-02-27T15:27:49Z",
-      "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
-      "tags": [
-        "ai",
-        "architecture",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnbj661po1w5k9jzuqjz.png",
-      "source": "Dev.to",
-      "user": "Mike"
-    },
-    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -647,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 606,
       "user": "6551Team"
     },
     {
@@ -662,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 199,
       "user": "chenhg5"
     },
     {
@@ -677,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 191,
       "user": "geekjourneyx"
     }
   ],
@@ -1012,19 +997,19 @@
       "user": "lovisdotio"
     },
     {
-      "title": "ellipticmarketing/modelrelay - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
-      "url": "https://github.com/ellipticmarketing/modelrelay",
-      "published_at": "2026-02-25T16:45:48Z",
-      "description": "Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
+      "title": "TriangleMagistrate/lovable-openclaw - lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
+      "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
+      "published_at": "2026-03-02T18:35:58Z",
+      "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63985076?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/258351581?v=4",
       "source": "GitHub",
       "stars": 85,
-      "user": "ellipticmarketing"
+      "user": "TriangleMagistrate"
     },
     {
       "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
@@ -1038,23 +1023,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "r3nzsec"
     },
     {
-      "title": "cporter202/openclaw-api-list - This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
-      "url": "https://github.com/cporter202/openclaw-api-list",
-      "published_at": "2026-03-01T04:39:17Z",
-      "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
+      "title": "ellipticmarketing/modelrelay - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
+      "url": "https://github.com/ellipticmarketing/modelrelay",
+      "published_at": "2026-02-25T16:45:48Z",
+      "description": "Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/63985076?v=4",
       "source": "GitHub",
-      "stars": 81,
-      "user": "cporter202"
+      "stars": 85,
+      "user": "ellipticmarketing"
     }
   ],
   "Python": [
@@ -1250,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2739,
+      "stars": 2763,
       "user": "Lakr233"
     },
     {
@@ -1265,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1363,
       "user": "ylytdeng"
     },
     {
@@ -1295,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 801,
       "user": "apple"
     },
     {
@@ -1310,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 606,
       "user": "6551Team"
     }
   ],
@@ -1329,21 +1314,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3skj4imt4hs3ou0yp3ul.png",
       "source": "Dev.to",
       "user": "Paul DeCarlo"
-    },
-    {
-      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
-      "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
-      "published_at": "2026-02-27T15:27:49Z",
-      "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
-      "tags": [
-        "ai",
-        "architecture",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnbj661po1w5k9jzuqjz.png",
-      "source": "Dev.to",
-      "user": "Mike"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -1521,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 191,
       "user": "geekjourneyx"
     }
   ],
@@ -1643,7 +1613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "r3nzsec"
     },
     {
@@ -1658,7 +1628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1363,
       "user": "ylytdeng"
     }
   ],
@@ -1989,6 +1959,36 @@
       "user": "lovisdotio"
     },
     {
+      "title": "TriangleMagistrate/lovable-openclaw - lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
+      "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
+      "published_at": "2026-03-02T18:35:58Z",
+      "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258351581?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "TriangleMagistrate"
+    },
+    {
+      "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
+      "url": "https://github.com/r3nzsec/irflow-timeline",
+      "published_at": "2026-03-01T19:31:35Z",
+      "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "r3nzsec"
+    },
+    {
       "title": "ellipticmarketing/modelrelay - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw",
       "url": "https://github.com/ellipticmarketing/modelrelay",
       "published_at": "2026-02-25T16:45:48Z",
@@ -2004,36 +2004,6 @@
       "user": "ellipticmarketing"
     },
     {
-      "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
-      "url": "https://github.com/r3nzsec/irflow-timeline",
-      "published_at": "2026-03-01T19:31:35Z",
-      "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
-      "source": "GitHub",
-      "stars": 84,
-      "user": "r3nzsec"
-    },
-    {
-      "title": "cporter202/openclaw-api-list - This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
-      "url": "https://github.com/cporter202/openclaw-api-list",
-      "published_at": "2026-03-01T04:39:17Z",
-      "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
-      "source": "GitHub",
-      "stars": 81,
-      "user": "cporter202"
-    },
-    {
       "title": "Lakr233/vphone-cli - GitHub Repository",
       "url": "https://github.com/Lakr233/vphone-cli",
       "published_at": "2026-02-26T11:29:08Z",
@@ -2045,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2739,
+      "stars": 2763,
       "user": "Lakr233"
     },
     {
@@ -2060,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1363,
       "user": "ylytdeng"
     },
     {
@@ -2090,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 801,
       "user": "apple"
     },
     {
@@ -2105,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 606,
       "user": "6551Team"
     },
     {
@@ -2135,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 199,
       "user": "chenhg5"
     },
     {
@@ -2150,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 191,
       "user": "geekjourneyx"
     },
     {
