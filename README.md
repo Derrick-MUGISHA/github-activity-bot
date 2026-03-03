@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-03 8:00 CAT)
+## 📅 Latest Updates (2026-03-03 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,15 +210,15 @@ npm run test
 - [Amanzi - Know Your Water](https://dev.to/skomfi/amanzi-know-your-water-47p3) _[Dev.to]_
 - [Scaling AI Memory: How I Tamed a 120k-Token Prompt with Deterministic GraphRAG](https://dev.to/juandastic/scaling-ai-memory-how-i-tamed-a-120k-token-prompt-with-deterministic-graphrag-4f85) _[Dev.to]_
 - [How GPU-Powered Coding Agents Can Assist in Development of GPU-Accelerated Software](https://dev.to/toolboc/how-gpu-powered-coding-agents-can-assist-in-development-of-gpu-accelerated-software-4fhk) _[Dev.to]_
-- [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
 - [Making London's hidden film clubs discoverable](https://dev.to/alistairjcbrown/i-built-a-film-club-discovery-tool-for-londons-cinema-community-2md) _[Dev.to]_
+- [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
 - [🐾 FurEver Log — The App I Built After Losing Abu](https://dev.to/siti_aisyahmatzainal_73/furever-log-the-app-i-built-after-losing-abu-4agn) _[Dev.to]_
 - [AI Ate the Homework: What Communities Are Actually For Now](https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi) _[Dev.to]_
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 - [Why I spent my weekend building a "Cyber-Immune System" for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682) _[Dev.to]_
 - [claude-sandbox: Yet another sandboxing tool for Claude Code on macOS](https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n) _[Dev.to]_
 
-_Last automated update: Tue, 03 Mar 2026 08:30:43 CAT_
+_Last automated update: Tue, 03 Mar 2026 09:30:00 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 03 Mar 2026 08:30:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. React: How would you optimize a React app's performance?
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 03 Mar 2026 06:30:43 GMT</b><br/>
+  <b>Last automated update: Tue, 03 Mar 2026 07:30:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
