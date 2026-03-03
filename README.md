@@ -216,7 +216,7 @@ But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-for
 - [Stop Running Prettier Through ESLint — Here's Why Standalone Is Better](https://dev.to/vadim/stop-running-prettier-through-eslint-heres-why-standalone-is-better-78a) _[Dev.to]_
 - [Mastering JavaScript Arrays: A Beginner's Guide to Organize Data Like a Pro](https://dev.to/ritam369/mastering-javascript-arrays-a-beginners-guide-to-organize-data-like-a-pro-2dk0) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 01:23:31 CAT_
+_Last automated update: Wed, 04 Mar 2026 01:49:42 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 04 Mar 2026 01:23:31 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Mutability, performance, use cases
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 03 Mar 2026 23:23:31 GMT</b><br/>
+  <b>Last automated update: Tue, 03 Mar 2026 23:49:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
