@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-03 19:00 CAT)
+## 📅 Latest Updates (2026-03-03 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -149,10 +149,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png" width="200" alt="What should I do and learn in 2026?" />
+    <a href="https://dev.to/googleai/detecting-and-editing-visual-objects-with-gemini-116p">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fstorage.googleapis.com%2Fgithub-repo%2Fgenerative-ai%2Fgemini%2Fuse-cases%2Fspatial-understanding%2Fobject_detection_and_editing%2Fcover_image.png" width="200" alt="Detecting and Editing Visual Objects with Gemini" />
       <br/>
-      <b>What should I do and learn in 2026?</b>
+      <b>Detecting and Editing Visual Objects with Gemini</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -160,10 +160,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/detecting-and-editing-visual-objects-with-gemini-116p">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fstorage.googleapis.com%2Fgithub-repo%2Fgenerative-ai%2Fgemini%2Fuse-cases%2Fspatial-understanding%2Fobject_detection_and_editing%2Fcover_image.png" width="200" alt="Detecting and Editing Visual Objects with Gemini" />
+    <a href="https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png" width="200" alt="What should I do and learn in 2026?" />
       <br/>
-      <b>Detecting and Editing Visual Objects with Gemini</b>
+      <b>What should I do and learn in 2026?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -178,10 +178,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpwdww315c2rc7mm5rf6.png" width="200" alt="I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened." />
+    <a href="https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwn6yjkfdwg9kjunpfd1k.png" width="200" alt="How to make your first contribution to an open source project" />
       <br/>
-      <b>I Plugged Gemini Into My 10,000-Line Rental Platfo...</b>
+      <b>How to make your first contribution to an open sou...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,11 +195,11 @@ npm run test
 
 - [Gemini 3.1 Flash-Lite: Developer guide and use cases](https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
-- [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 - [Detecting and Editing Visual Objects with Gemini](https://dev.to/googleai/detecting-and-editing-visual-objects-with-gemini-116p) _[Dev.to]_
+- [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 - [Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!](https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm) _[Dev.to]_
-- [I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened.](https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi) _[Dev.to]_
 - [How to make your first contribution to an open source project](https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50) _[Dev.to]_
+- [I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened.](https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi) _[Dev.to]_
 - [We had a big team offsite and I forgot meme monday yesterday 😭
 
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
@@ -216,7 +216,7 @@ But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-for
 - [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
 - [🐾 FurEver Log — The App I Built After Losing Abu](https://dev.to/siti_aisyahmatzainal_73/furever-log-the-app-i-built-after-losing-abu-4agn) _[Dev.to]_
 
-_Last automated update: Tue, 03 Mar 2026 19:13:00 CAT_
+_Last automated update: Tue, 03 Mar 2026 20:00:26 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 03 Mar 2026 19:13:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 03 Mar 2026 17:13:00 GMT</b><br/>
+  <b>Last automated update: Tue, 03 Mar 2026 18:00:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
