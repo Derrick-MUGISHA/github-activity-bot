@@ -1,16 +1,16 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 49,
+    "AI": 48,
     "JavaScript": 25,
     "Python": 19,
     "DevOps": 4,
-    "WebDev": 8,
+    "WebDev": 7,
     "Mobile": 1,
     "Cloud": 5,
     "Database": 3,
@@ -37,7 +37,7 @@
     "2026-02-26": 6,
     "2026-02-18": 2,
     "2026-02-15": 2,
-    "2026-02-17": 3,
+    "2026-02-17": 2,
     "2026-02-13": 1,
     "2026-02-23": 1,
     "2026-02-16": 1,
@@ -72,7 +72,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 23,
+    "ai": 22,
     "github": 15,
     "open-source": 15,
     "webdev": 14,
@@ -85,12 +85,12 @@
     "showdev": 8,
     "productivity": 7,
     "gemini": 7,
-    "programming": 7,
     "discuss": 6,
     "opensource": 6,
-    "frontend": 6,
+    "programming": 6,
     "weekendchallenge": 6,
     "go": 6,
+    "frontend": 5,
     "typescript": 4
   },
   "trending_topics": [],
