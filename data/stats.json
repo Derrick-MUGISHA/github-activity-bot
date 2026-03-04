@@ -6,8 +6,8 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 45,
-    "JavaScript": 28,
+    "AI": 46,
+    "JavaScript": 27,
     "Python": 17,
     "DevOps": 4,
     "WebDev": 8,
@@ -18,7 +18,7 @@
     "Tools": 33
   },
   "by_language": {
-    "JavaScript": 28,
+    "JavaScript": 27,
     "Go": 19,
     "Java": 22,
     "PHP": 2,
@@ -26,7 +26,7 @@
   },
   "by_date": {
     "2026-03-03": 21,
-    "2026-03-04": 5,
+    "2026-03-04": 6,
     "2026-03-02": 10,
     "2026-02-27": 5,
     "2026-03-01": 13,
@@ -34,8 +34,8 @@
     "2026-02-19": 2,
     "2026-02-22": 1,
     "2026-02-28": 5,
+    "2026-02-18": 1,
     "2026-02-26": 7,
-    "2026-02-18": 2,
     "2026-02-15": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -68,9 +68,9 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 20,
+    "ai": 21,
+    "webdev": 16,
     "github": 16,
-    "webdev": 15,
     "open-source": 15,
     "javascript": 12,
     "devchallenge": 10,
@@ -86,15 +86,15 @@
     "geminireflections": 5,
     "agents": 5,
     "go": 5,
-    "tutorial": 4,
-    "frontend": 4
+    "opensource": 4,
+    "tutorial": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "31.8",
-    "Go": "21.6",
-    "Java": "25.0",
+    "JavaScript": "31.0",
+    "Go": "21.8",
+    "Java": "25.3",
     "PHP": "2.3",
-    "Python": "19.3"
+    "Python": "19.5"
   }
 }
