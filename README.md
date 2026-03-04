@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
 **WebDev**: 🟦🟦🟦 8 (7.6%)
 
-**Cloud**: 🟦🟦🟦 6 (5.7%)
+**Security**: 🟦🟦 5 (4.8%)
+
+**Cloud**: 🟦🟦 4 (3.8%)
 
 **DevOps**: 🟦 3 (2.9%)
 
 **Database**: 🟦 3 (2.9%)
-
-**Security**: 🟦 3 (2.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.0 (30.0%)
-Java            ████████████████████████ 24.4 (24.4%)
-Go              █████████████████████ 21.1 (21.1%)
-Python          ████████████████████ 20.0 (20.0%)
-PHP             ██ 2.2 (2.2%)
-Rust            ██ 2.2 (2.2%)
+JavaScript      ██████████████████████████████ 31.0 (31.0%)
+Java            ████████████████████████ 25.3 (25.3%)
+Go              █████████████████████ 21.8 (21.8%)
+Python          ███████████████████ 19.5 (19.5%)
+PHP             █ 1.1 (1.1%)
+Rust            █ 1.1 (1.1%)
 
 ```
 
@@ -74,16 +74,16 @@ pie title Programming Languages Distribution
     "JavaScript" : 27
     "Java" : 22
     "Go" : 19
-    "Python" : 18
-    "PHP" : 2
-    "Rust" : 2
+    "Python" : 17
+    "PHP" : 1
+    "Rust" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-9-blue) ![showdev](https://img.shields.io/badge/showdev-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-04 3:00 CAT)
+## 📅 Latest Updates (2026-03-04 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,18 +205,18 @@ npm run test
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
 - [Building a Local PR Review Interface for Claude Code Plans](https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2) _[Dev.to]_
 - [Oooh very interesting](https://dev.to/ben/oooh-very-interesting-ohk) _[Dev.to]_
-- [Mastering JavaScript Array Methods: A Beginner's Guide](https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89) _[Dev.to]_
 - [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e) _[Dev.to]_
 - [Gemini 3.1 Flash-Lite: Developer guide and use cases](https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh) _[Dev.to]_
 - [Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI](https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk) _[Dev.to]_
 - [Detecting and Editing Visual Objects with Gemini](https://dev.to/googleai/detecting-and-editing-visual-objects-with-gemini-116p) _[Dev.to]_
 - [Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework](https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg) _[Dev.to]_
+- [Mastering JavaScript Array Methods: A Beginner's Guide](https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89) _[Dev.to]_
 - [How to make your first contribution to an open source project](https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50) _[Dev.to]_
 - [I ship software with 13 AI agents. Here's what that actually looks like](https://dev.to/nmelo/i-ship-software-with-13-ai-agents-heres-what-that-actually-looks-like-420c) _[Dev.to]_
 - [I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots](https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob) _[Dev.to]_
 - [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 03:47:03 CAT_
+_Last automated update: Wed, 04 Mar 2026 06:06:30 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 04 Mar 2026 03:47:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 04 Mar 2026 01:47:03 GMT</b><br/>
+  <b>Last automated update: Wed, 04 Mar 2026 04:06:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
