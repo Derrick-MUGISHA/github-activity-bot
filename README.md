@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-04 15:00 CAT)
+## 📅 Latest Updates (2026-03-04 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-for
 - [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
 - [Gemini 3.1 Flash-Lite: Developer guide and use cases](https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 15:06:44 CAT_
+_Last automated update: Wed, 04 Mar 2026 16:03:42 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 04 Mar 2026 15:06:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. React: What is the Virtual DOM and how does React use it?
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 04 Mar 2026 13:06:44 GMT</b><br/>
+  <b>Last automated update: Wed, 04 Mar 2026 14:03:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
