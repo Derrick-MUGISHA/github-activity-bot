@@ -221,6 +221,21 @@
       "user": "Aidas Bendoraitis"
     },
     {
+      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
+      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
+      "published_at": "2026-02-25T01:28:04Z",
+      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "productivity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
+      "source": "Dev.to",
+      "user": "aileen vl"
+    },
+    {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
       "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
       "published_at": "2026-02-25T05:29:37Z",
@@ -617,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 784,
       "user": "LeoYeAI"
     },
     {
@@ -647,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "chenhg5"
     },
     {
@@ -664,21 +679,6 @@
       "source": "GitHub",
       "stars": 204,
       "user": "geekjourneyx"
-    },
-    {
-      "title": "Enriquefft/openclaw-kapso-whatsapp - Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
-      "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
-      "published_at": "2026-02-28T01:28:38Z",
-      "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
-      "source": "GitHub",
-      "stars": 111,
-      "user": "Enriquefft"
     }
   ],
   "JavaScript": [
@@ -1249,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1203,
+      "stars": 1205,
       "user": "World-Open-Graph"
     },
     {
@@ -1264,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 784,
       "user": "LeoYeAI"
     },
     {
@@ -1328,21 +1328,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
-    },
-    {
-      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
-      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
-      "published_at": "2026-02-17T23:56:55Z",
-      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
-      "tags": [
-        "kubernetes",
-        "go",
-        "devops",
-        "cloudnative"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
-      "source": "Dev.to",
-      "user": "suin"
     }
   ],
   "WebDev": [
@@ -1540,36 +1525,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
       "user": "DeVoresyah ArEst"
-    },
-    {
-      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
-      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
-      "published_at": "2026-02-17T23:56:55Z",
-      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
-      "tags": [
-        "kubernetes",
-        "go",
-        "devops",
-        "cloudnative"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
-      "source": "Dev.to",
-      "user": "suin"
-    },
-    {
-      "title": "Enriquefft/openclaw-kapso-whatsapp - Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
-      "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
-      "published_at": "2026-02-28T01:28:38Z",
-      "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
-      "source": "GitHub",
-      "stars": 111,
-      "user": "Enriquefft"
     }
   ],
   "Database": [
@@ -1824,6 +1779,21 @@
       "user": "Matty Stratton"
     },
     {
+      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
+      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
+      "published_at": "2026-02-25T01:28:04Z",
+      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "productivity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
+      "source": "Dev.to",
+      "user": "aileen vl"
+    },
+    {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
       "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
       "published_at": "2026-02-25T05:29:37Z",
@@ -2029,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1203,
+      "stars": 1205,
       "user": "World-Open-Graph"
     },
     {
@@ -2044,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 784,
       "user": "LeoYeAI"
     },
     {
@@ -2074,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "chenhg5"
     },
     {
@@ -2123,19 +2093,19 @@
       "user": "junevm"
     },
     {
-      "title": "Enriquefft/openclaw-kapso-whatsapp - Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
-      "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
-      "published_at": "2026-02-28T01:28:38Z",
-      "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "title": "LeoChen-CoreMind/VMPacker - ARM64 ELF Virtual Machine Protection System",
+      "url": "https://github.com/LeoChen-CoreMind/VMPacker",
+      "published_at": "2026-03-02T07:21:42Z",
+      "description": "ARM64 ELF Virtual Machine Protection System",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 111,
-      "user": "Enriquefft"
+      "stars": 112,
+      "user": "LeoChen-CoreMind"
     }
   ]
 }
