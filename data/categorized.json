@@ -604,7 +604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 932,
       "user": "LeoYeAI"
     },
     {
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 3021,
+      "stars": 3022,
       "user": "Lakr233"
     },
     {
@@ -1206,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1454,
+      "stars": 1455,
       "user": "ylytdeng"
     },
     {
@@ -1221,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1233,
       "user": "World-Open-Graph"
     },
     {
@@ -1236,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 932,
       "user": "LeoYeAI"
     },
     {
@@ -1454,21 +1454,6 @@
   ],
   "Cloud": [
     {
-      "title": "Securing CI/CD Access to AWS",
-      "url": "https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7",
-      "published_at": "2026-03-03T00:00:00Z",
-      "description": "I've seen a lot of complex tooling in my experience, but by far the worst case is designing just one...",
-      "tags": [
-        "aws",
-        "gitlab",
-        "github",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszy1mhwalprqc3o3jt15.png",
-      "source": "Dev.to",
-      "user": "Warren Parad"
-    },
-    {
       "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
       "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
       "published_at": "2026-03-03T17:21:42Z",
@@ -1482,6 +1467,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
       "source": "Dev.to",
       "user": "Harish Aravindan"
+    },
+    {
+      "title": "Securing CI/CD Access to AWS",
+      "url": "https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7",
+      "published_at": "2026-03-03T00:00:00Z",
+      "description": "I've seen a lot of complex tooling in my experience, but by far the worst case is designing just one...",
+      "tags": [
+        "aws",
+        "gitlab",
+        "github",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszy1mhwalprqc3o3jt15.png",
+      "source": "Dev.to",
+      "user": "Warren Parad"
     },
     {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
@@ -1539,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1454,
+      "stars": 1455,
       "user": "ylytdeng"
     }
   ],
@@ -1928,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 3021,
+      "stars": 3022,
       "user": "Lakr233"
     },
     {
@@ -1943,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1454,
+      "stars": 1455,
       "user": "ylytdeng"
     },
     {
@@ -1958,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1233,
       "user": "World-Open-Graph"
     },
     {
@@ -1973,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 932,
       "user": "LeoYeAI"
     },
     {
