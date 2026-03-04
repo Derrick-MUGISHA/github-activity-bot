@@ -1,12 +1,12 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 46,
+    "AI": 47,
     "JavaScript": 27,
     "Python": 17,
     "DevOps": 4,
@@ -15,7 +15,7 @@
     "Cloud": 3,
     "Database": 3,
     "Security": 4,
-    "Tools": 31
+    "Tools": 32
   },
   "by_language": {
     "JavaScript": 27,
@@ -26,12 +26,12 @@
   },
   "by_date": {
     "2026-03-04": 12,
-    "2026-03-03": 20,
+    "2026-03-03": 21,
     "2026-02-27": 5,
     "2026-03-01": 11,
-    "2026-03-02": 9,
+    "2026-03-02": 10,
     "2026-02-25": 2,
-    "2026-02-19": 2,
+    "2026-02-19": 1,
     "2026-02-22": 1,
     "2026-02-28": 5,
     "2026-02-18": 1,
@@ -67,26 +67,26 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 21,
-    "webdev": 16,
+    "ai": 22,
     "github": 16,
+    "webdev": 15,
     "open-source": 15,
     "gemini": 11,
     "javascript": 11,
+    "productivity": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "devchallenge": 9,
-    "productivity": 9,
     "discuss": 8,
-    "programming": 8,
+    "programming": 7,
     "python": 7,
     "geminireflections": 5,
     "agents": 5,
     "go": 5,
     "showdev": 4,
-    "tutorial": 4,
-    "frontend": 4
+    "frontend": 4,
+    "security": 3
   },
   "trending_topics": [],
   "language_percentages": {

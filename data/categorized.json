@@ -236,21 +236,6 @@
       "user": "Matty Stratton"
     },
     {
-      "title": "Meme Monday",
-      "url": "https://dev.to/raddevus/meme-monday-5d21",
-      "published_at": "2026-03-02T18:31:16Z",
-      "description": "Meme Monday   I can't wait all day for this site to start the Meme Monday post, so here it...",
-      "tags": [
-        "community",
-        "discuss",
-        "programming",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
-      "source": "Dev.to",
-      "user": "raddevus"
-    },
-    {
       "title": "Using tox to Test a Django App Across Multiple Django Versions",
       "url": "https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9",
       "published_at": "2026-02-27T18:53:25Z",
@@ -324,6 +309,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "How to Switch from ChatGPT to Claude Without Losing Context",
+      "url": "https://dev.to/alifar/how-to-switch-from-chatgpt-to-claude-without-losing-context-374d",
+      "published_at": "2026-03-03T08:15:51Z",
+      "description": "Switching from ChatGPT to Claude is no longer a risky reset. What used to feel like abandoning months...",
+      "tags": [
+        "chatgpt",
+        "claude",
+        "openai",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb62b790le120w4w5r89q.jpg",
+      "source": "Dev.to",
+      "user": "Ali Farhat"
     },
     {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
@@ -429,6 +429,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Meme Monday",
+      "url": "https://dev.to/raddevus/meme-monday-5d21",
+      "published_at": "2026-03-02T18:31:16Z",
+      "description": "Meme Monday   I can't wait all day for this site to start the Meme Monday post, so here it...",
+      "tags": [
+        "community",
+        "discuss",
+        "programming",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
+      "source": "Dev.to",
+      "user": "raddevus"
     },
     {
       "title": "Airfoil",
@@ -604,7 +619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 939,
       "user": "LeoYeAI"
     },
     {
@@ -994,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "cporter202"
     },
     {
@@ -1024,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58330966?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "Kanezal"
     }
   ],
@@ -1221,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1234,
       "user": "World-Open-Graph"
     },
     {
@@ -1236,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 939,
       "user": "LeoYeAI"
     },
     {
@@ -1797,6 +1812,21 @@
       "user": "aileen vl"
     },
     {
+      "title": "What should I do and learn in 2026?",
+      "url": "https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc",
+      "published_at": "2026-03-02T19:31:11Z",
+      "description": "Maybe it's not about skills, but tactics.",
+      "tags": [
+        "career",
+        "learning",
+        "motivation",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png",
+      "source": "Dev.to",
+      "user": "Amara Graham"
+    },
+    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -1883,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "cporter202"
     },
     {
@@ -1913,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58330966?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "Kanezal"
     },
     {
@@ -1958,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1234,
       "user": "World-Open-Graph"
     },
     {
@@ -1973,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 939,
       "user": "LeoYeAI"
     },
     {
@@ -2063,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "LeoChen-CoreMind"
     }
   ]
