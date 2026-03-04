@@ -16,19 +16,19 @@
       "user": "Daniel Balcarek"
     },
     {
-      "title": "I Shipped Broken Code and Wrote an Article About It",
-      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
-      "published_at": "2026-03-04T11:13:54Z",
-      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+      "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
+      "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
+      "published_at": "2026-03-04T20:19:27Z",
+      "description": "Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...",
       "tags": [
         "ai",
-        "opensource",
-        "webdev",
-        "productivity"
+        "forem",
+        "devto",
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fip4stvvkffywe6r9lknf.png",
       "source": "Dev.to",
-      "user": "Daniel Nwaneri"
+      "user": "Jon Gottfried"
     },
     {
       "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
@@ -44,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qa4kduo001bwy9lwn4w.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "I Shipped Broken Code and Wrote an Article About It",
+      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
+      "published_at": "2026-03-04T11:13:54Z",
+      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+      "tags": [
+        "ai",
+        "opensource",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
@@ -189,21 +204,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
-    },
-    {
-      "title": "How to Switch from ChatGPT to Claude Without Losing Context",
-      "url": "https://dev.to/alifar/how-to-switch-from-chatgpt-to-claude-without-losing-context-374d",
-      "published_at": "2026-03-03T08:15:51Z",
-      "description": "Switching from ChatGPT to Claude is no longer a risky reset. What used to feel like abandoning months...",
-      "tags": [
-        "chatgpt",
-        "claude",
-        "openai",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb62b790le120w4w5r89q.jpg",
-      "source": "Dev.to",
-      "user": "Ali Farhat"
     },
     {
       "title": "I Run a Solo Company with AI Agent Departments",
@@ -604,7 +604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 918,
       "user": "LeoYeAI"
     },
     {
@@ -1236,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 918,
       "user": "LeoYeAI"
     },
     {
@@ -1664,21 +1664,6 @@
       "user": "Warren Parad"
     },
     {
-      "title": "What should I do and learn in 2026?",
-      "url": "https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc",
-      "published_at": "2026-03-02T19:31:11Z",
-      "description": "Maybe it's not about skills, but tactics.",
-      "tags": [
-        "career",
-        "learning",
-        "motivation",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png",
-      "source": "Dev.to",
-      "user": "Amara Graham"
-    },
-    {
       "title": "I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots",
       "url": "https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob",
       "published_at": "2026-03-03T13:38:00Z",
@@ -1988,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 918,
       "user": "LeoYeAI"
     },
     {
