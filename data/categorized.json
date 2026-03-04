@@ -15,21 +15,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "I Run a Solo Company with AI Agent Departments",
-      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
-      "published_at": "2026-03-03T10:41:20Z",
-      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
-      "tags": [
-        "agents",
-        "ai",
-        "automation",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
-      "source": "Dev.to",
-      "user": "João Pedro Silva Setas"
-    },
-    {
       "title": "Building a Local PR Review Interface for Claude Code Plans",
       "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
       "published_at": "2026-03-04T00:27:49Z",
@@ -118,20 +103,6 @@
       "user": "nmelo"
     },
     {
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
-      "published_at": "2026-03-03T18:54:28Z",
-      "description": "Today, we're introducing Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series...",
-      "tags": [
-        "gemini",
-        "ai",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
-      "source": "Dev.to",
-      "user": "Alisa Fortin"
-    },
-    {
       "title": "Gemini 3.1 Flash-Lite: Developer guide and use cases",
       "url": "https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh",
       "published_at": "2026-03-03T18:55:00Z",
@@ -144,6 +115,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5s5sepylgzwml9we0agc.png",
       "source": "Dev.to",
       "user": "Patrick Loeber"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
+      "published_at": "2026-03-03T18:54:28Z",
+      "description": "Today, we're introducing Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series...",
+      "tags": [
+        "gemini",
+        "ai",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
+      "source": "Dev.to",
+      "user": "Alisa Fortin"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -189,6 +174,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
+    },
+    {
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "published_at": "2026-03-03T10:41:20Z",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
+      "source": "Dev.to",
+      "user": "João Pedro Silva Setas"
     },
     {
       "title": "Meme Monday",
@@ -416,20 +416,6 @@
       "user": "kuroko"
     },
     {
-      "title": "The Day Agents Achieved Real Authority, and What It Means for Trust",
-      "url": "https://dev.to/kimmaida/the-day-agents-achieved-real-authority-and-what-it-means-for-trust-2e4",
-      "published_at": "2026-02-25T19:37:13Z",
-      "description": "Five major announcements landed on a single Monday in February, and just like that, it became very...",
-      "tags": [
-        "ai",
-        "security",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
-      "source": "Dev.to",
-      "user": "Kim Maida"
-    },
-    {
       "title": "I deleted my source code",
       "url": "https://dev.to/joppedc/i-deleted-my-source-code-4a0g",
       "published_at": "2026-02-27T06:59:43Z",
@@ -632,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 825,
       "user": "LeoYeAI"
     },
     {
@@ -662,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 331,
       "user": "chenhg5"
     },
     {
@@ -677,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "geekjourneyx"
     }
   ],
@@ -1007,7 +993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "r3nzsec"
     },
     {
@@ -1022,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "cporter202"
     },
     {
@@ -1052,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58330966?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "Kanezal"
     }
   ],
@@ -1219,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2995,
+      "stars": 2999,
       "user": "Lakr233"
     },
     {
@@ -1234,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1446,
       "user": "ylytdeng"
     },
     {
@@ -1249,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1212,
       "user": "World-Open-Graph"
     },
     {
@@ -1264,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 825,
       "user": "LeoYeAI"
     },
     {
@@ -1328,6 +1314,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
+    },
+    {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
     }
   ],
   "WebDev": [
@@ -1459,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "geekjourneyx"
     }
   ],
@@ -1525,6 +1526,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
       "user": "DeVoresyah ArEst"
+    },
+    {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
     }
   ],
   "Database": [
@@ -1552,7 +1568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "r3nzsec"
     },
     {
@@ -1567,7 +1583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1446,
       "user": "ylytdeng"
     }
   ],
@@ -1618,20 +1634,6 @@
       "user": "Hafiq Iqmal"
     },
     {
-      "title": "The Day Agents Achieved Real Authority, and What It Means for Trust",
-      "url": "https://dev.to/kimmaida/the-day-agents-achieved-real-authority-and-what-it-means-for-trust-2e4",
-      "published_at": "2026-02-25T19:37:13Z",
-      "description": "Five major announcements landed on a single Monday in February, and just like that, it became very...",
-      "tags": [
-        "ai",
-        "security",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcyq2qiozal91t7bdayv.png",
-      "source": "Dev.to",
-      "user": "Kim Maida"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1645,21 +1647,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "I Run a Solo Company with AI Agent Departments",
-      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
-      "published_at": "2026-03-03T10:41:20Z",
-      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
-      "tags": [
-        "agents",
-        "ai",
-        "automation",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
-      "source": "Dev.to",
-      "user": "João Pedro Silva Setas"
-    },
     {
       "title": "Building a Local PR Review Interface for Claude Code Plans",
       "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
@@ -1777,6 +1764,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
+    },
+    {
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "published_at": "2026-03-03T10:41:20Z",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
+      "source": "Dev.to",
+      "user": "João Pedro Silva Setas"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1909,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "r3nzsec"
     },
     {
@@ -1924,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "cporter202"
     },
     {
@@ -1954,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58330966?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "Kanezal"
     },
     {
@@ -1969,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2995,
+      "stars": 2999,
       "user": "Lakr233"
     },
     {
@@ -1984,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1446,
       "user": "ylytdeng"
     },
     {
@@ -1999,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1212,
       "user": "World-Open-Graph"
     },
     {
@@ -2014,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 825,
       "user": "LeoYeAI"
     },
     {
@@ -2044,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 331,
       "user": "chenhg5"
     },
     {
@@ -2074,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "geekjourneyx"
     },
     {
@@ -2104,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 117,
       "user": "LeoChen-CoreMind"
     }
   ]
