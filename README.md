@@ -216,7 +216,7 @@ npm run test
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
 - [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 07:13:48 CAT_
+_Last automated update: Wed, 04 Mar 2026 07:59:53 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 04 Mar 2026 07:13:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 04 Mar 2026 05:13:48 GMT</b><br/>
+  <b>Last automated update: Wed, 04 Mar 2026 05:59:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
