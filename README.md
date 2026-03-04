@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-04 9:00 CAT)
+## 📅 Latest Updates (2026-03-04 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -149,17 +149,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png" width="200" alt="Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!" />
-      <br/>
-      <b>Fusing NASA Data with AI: How I Built CosmoDex and...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png" width="200" alt="i built a social platform where everything vanishes after 24 hours" />
       <br/>
@@ -168,6 +157,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqgvsibijj7zswk4u8ugk.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
@@ -186,6 +177,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpwdww315c2rc7mm5rf6.png" width="200" alt="I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened." />
+      <br/>
+      <b>I Plugged Gemini Into My 10,000-Line Rental Platfo...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -195,13 +195,13 @@ npm run test
 
 - [I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini](https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424) _[Dev.to]_
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
-- [Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!](https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0) _[Dev.to]_
 - [I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12) _[Dev.to]_
 - [I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened.](https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi) _[Dev.to]_
 - [Building a Local PR Review Interface for Claude Code Plans](https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2) _[Dev.to]_
 - [Oooh very interesting](https://dev.to/ben/oooh-very-interesting-ohk) _[Dev.to]_
+- [Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!](https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm) _[Dev.to]_
 - [Gemini 3.1 Flash-Lite: Developer guide and use cases](https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh) _[Dev.to]_
 - [Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI](https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk) _[Dev.to]_
 - [Detecting and Editing Visual Objects with Gemini](https://dev.to/googleai/detecting-and-editing-visual-objects-with-gemini-116p) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
 - [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 09:51:49 CAT_
+_Last automated update: Wed, 04 Mar 2026 10:35:04 CAT_
 
 
 
@@ -224,7 +224,18 @@ _Last automated update: Wed, 04 Mar 2026 09:51:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. SystemDesign: Design a distributed cache system
+
+**Difficulty**: Hard | **Topics**: distributed systems, caching
+
+<details>
+<summary>💡 Hint</summary>
+
+Consistency, partitioning, replication, eviction policies
+
+</details>
+
+### 2. NodeJS: How do you handle errors in async/await?
 
 **Difficulty**: Medium | **Topics**: error handling, async
 
@@ -235,25 +246,14 @@ try/catch, .catch(), error middleware
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Easy | **Topics**: express, architecture
-
-<details>
-<summary>💡 Hint</summary>
-
-Request/response cycle, next(), chain of functions
-
-</details>
-
-### 3. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 04 Mar 2026 07:51:49 GMT</b><br/>
+  <b>Last automated update: Wed, 04 Mar 2026 08:35:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
