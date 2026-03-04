@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
+      "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
+      "published_at": "2026-03-04T15:02:08Z",
+      "description": "I recently saw a meme about terrible legacy code on platform X and it gave me an idea for a...",
+      "tags": [
+        "discuss",
+        "ai",
+        "chatgpt",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
+      "source": "Dev.to",
+      "user": "Daniel Balcarek"
+    },
+    {
       "title": "SaaS Companies Fear Me: Cloning* Granola for Linux",
       "url": "https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0",
       "published_at": "2026-03-03T21:23:35Z",
@@ -416,21 +431,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
-      "url": "https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a",
-      "published_at": "2026-02-26T07:58:44Z",
-      "description": "Token cost in browser automation MCPs has become a real topic — articles like \"Playwright MCP Burns...",
-      "tags": [
-        "mcp",
-        "ai",
-        "webdev",
-        "playwright"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
-      "source": "Dev.to",
-      "user": "kuroko"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -604,7 +604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 885,
       "user": "LeoYeAI"
     },
     {
@@ -634,7 +634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "chenhg5"
     },
     {
@@ -683,21 +683,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fatyeksv5khnv2lnbx6wx.png",
       "source": "Dev.to",
       "user": "Vatsal Trivedi"
-    },
-    {
-      "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
-      "url": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
-      "published_at": "2026-03-02T20:32:12Z",
-      "description": "BlokJS - Zero-Build, Zero-Dependency, Standalone, Reactive, Lightweight UI Framework   New...",
-      "tags": [
-        "javascript",
-        "frontend",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fczmztjfyv1kye2o0vou3.png",
-      "source": "Dev.to",
-      "user": "Aleksandar Maletic"
     },
     {
       "title": "The Server-Side Mocking Gap Nobody Talks About",
@@ -789,6 +774,21 @@
       "user": "wintercounter"
     },
     {
+      "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
+      "url": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
+      "published_at": "2026-03-02T20:32:12Z",
+      "description": "BlokJS - Zero-Build, Zero-Dependency, Standalone, Reactive, Lightweight UI Framework   New...",
+      "tags": [
+        "javascript",
+        "frontend",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fczmztjfyv1kye2o0vou3.png",
+      "source": "Dev.to",
+      "user": "Aleksandar Maletic"
+    },
+    {
       "title": "Stop Running Prettier Through ESLint — Here's Why Standalone Is Better",
       "url": "https://dev.to/vadim/stop-running-prettier-through-eslint-heres-why-standalone-is-better-78a",
       "published_at": "2026-03-02T11:48:12Z",
@@ -817,21 +817,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6fjf8imruhymhd49o74.png",
       "source": "Dev.to",
       "user": "Anthony Lagrede"
-    },
-    {
-      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
-      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
-      "published_at": "2026-02-15T10:27:55Z",
-      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
-      "tags": [
-        "cloudflare",
-        "webdev",
-        "javascript",
-        "satori"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
-      "source": "Dev.to",
-      "user": "DeVoresyah ArEst"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1192,7 +1177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 3012,
+      "stars": 3014,
       "user": "Lakr233"
     },
     {
@@ -1222,7 +1207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1219,
       "user": "World-Open-Graph"
     },
     {
@@ -1237,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 885,
       "user": "LeoYeAI"
     },
     {
@@ -1334,21 +1319,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
-      "url": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
-      "published_at": "2026-03-02T20:32:12Z",
-      "description": "BlokJS - Zero-Build, Zero-Dependency, Standalone, Reactive, Lightweight UI Framework   New...",
-      "tags": [
-        "javascript",
-        "frontend",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fczmztjfyv1kye2o0vou3.png",
-      "source": "Dev.to",
-      "user": "Aleksandar Maletic"
-    },
-    {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
       "published_at": "2026-02-22T15:16:30Z",
@@ -1377,6 +1347,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
+    },
+    {
+      "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
+      "url": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
+      "published_at": "2026-03-02T20:32:12Z",
+      "description": "BlokJS - Zero-Build, Zero-Dependency, Standalone, Reactive, Lightweight UI Framework   New...",
+      "tags": [
+        "javascript",
+        "frontend",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fczmztjfyv1kye2o0vou3.png",
+      "source": "Dev.to",
+      "user": "Aleksandar Maletic"
     },
     {
       "title": "Stop Running Prettier Through ESLint — Here's Why Standalone Is Better",
@@ -1498,21 +1483,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
       "source": "Dev.to",
       "user": "Ahnaf Tahmid"
-    },
-    {
-      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
-      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
-      "published_at": "2026-02-15T10:27:55Z",
-      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
-      "tags": [
-        "cloudflare",
-        "webdev",
-        "javascript",
-        "satori"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
-      "source": "Dev.to",
-      "user": "DeVoresyah ArEst"
     }
   ],
   "Database": [
@@ -1560,6 +1530,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
+      "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
+      "published_at": "2026-03-04T15:02:08Z",
+      "description": "I recently saw a meme about terrible legacy code on platform X and it gave me an idea for a...",
+      "tags": [
+        "discuss",
+        "ai",
+        "chatgpt",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
+      "source": "Dev.to",
+      "user": "Daniel Balcarek"
+    },
     {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
       "url": "https://dev.to/kohkimakimoto/claude-sandbox-yet-another-sandboxing-tool-for-claude-code-on-macos-o6n",
@@ -1974,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 3012,
+      "stars": 3014,
       "user": "Lakr233"
     },
     {
@@ -2004,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1219,
       "user": "World-Open-Graph"
     },
     {
@@ -2019,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 885,
       "user": "LeoYeAI"
     },
     {
@@ -2049,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "chenhg5"
     },
     {
