@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -15,7 +15,7 @@
     "Cloud": 3,
     "Database": 3,
     "Security": 4,
-    "Tools": 32
+    "Tools": 31
   },
   "by_language": {
     "JavaScript": 27,
@@ -25,11 +25,11 @@
     "Python": 17
   },
   "by_date": {
-    "2026-03-03": 21,
-    "2026-03-04": 11,
-    "2026-03-02": 10,
+    "2026-03-03": 20,
+    "2026-03-04": 12,
     "2026-02-27": 5,
     "2026-03-01": 11,
+    "2026-03-02": 9,
     "2026-02-25": 2,
     "2026-02-19": 2,
     "2026-02-22": 1,
@@ -71,13 +71,13 @@
     "webdev": 16,
     "github": 16,
     "open-source": 15,
+    "gemini": 11,
     "javascript": 11,
-    "productivity": 10,
-    "gemini": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "devchallenge": 9,
+    "productivity": 9,
     "discuss": 8,
     "programming": 8,
     "python": 7,
