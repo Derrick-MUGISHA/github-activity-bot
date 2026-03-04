@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-04 23:00 CAT)
+## 📅 Latest Updates (2026-03-05 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -207,12 +207,12 @@ npm run test
 - [Welcome Thread - v367](https://dev.to/devteam/welcome-thread-v367-33cn) _[Dev.to]_
 - [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp) _[Dev.to]_
 - [How I Use Multi-Agent AI to Debug Production Errors in My Laravel App](https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90) _[Dev.to]_
-- [Securing CI/CD Access to AWS](https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7) _[Dev.to]_
 - [Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI](https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk) _[Dev.to]_
+- [Securing CI/CD Access to AWS](https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7) _[Dev.to]_
 - [I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots](https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob) _[Dev.to]_
 - [Building a Local PR Review Interface for Claude Code Plans](https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 23:30:43 CAT_
+_Last automated update: Thu, 05 Mar 2026 00:02:33 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Wed, 04 Mar 2026 23:30:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Mutability, performance, use cases
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 04 Mar 2026 21:30:43 GMT</b><br/>
+  <b>Last automated update: Wed, 04 Mar 2026 22:02:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
