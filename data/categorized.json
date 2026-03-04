@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "Building a Local PR Review Interface for Claude Code Plans",
+      "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
+      "published_at": "2026-03-04T00:27:49Z",
+      "description": "GitHub PR Review UI for Claude Code Plans",
+      "tags": [
+        "claudecode",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
+      "source": "Dev.to",
+      "user": "Eduard Maghakyan"
+    },
+    {
       "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
       "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
       "published_at": "2026-03-04T00:02:48Z",
@@ -15,20 +29,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Building a Local PR Review Interface for Claude Code Plans",
-      "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
-      "published_at": "2026-03-04T00:27:49Z",
-      "description": "GitHub PR Review UI for Claude Code Plans",
-      "tags": [
-        "claudecode",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
-      "source": "Dev.to",
-      "user": "Eduard Maghakyan"
-    },
-    {
       "title": "SaaS Companies Fear Me: Cloning* Granola for Linux",
       "url": "https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0",
       "published_at": "2026-03-03T21:23:35Z",
@@ -39,7 +39,7 @@
         "gemini",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flefih9vapmoxwpsmk8wc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flefih9vapmoxwpsmk8wc.png",
       "source": "Dev.to",
       "user": "Ryan Swift"
     },
@@ -53,7 +53,7 @@
         "ai",
         "coding"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
     },
@@ -68,7 +68,7 @@
         "gemini",
         "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png",
       "source": "Dev.to",
       "user": "Deeptej"
     },
@@ -83,7 +83,7 @@
         "ai",
         "bedrock"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
       "source": "Dev.to",
       "user": "Harish Aravindan"
     },
@@ -98,7 +98,7 @@
         "programming",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5ctnywtfrv6tfeesmgc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5ctnywtfrv6tfeesmgc.png",
       "source": "Dev.to",
       "user": "nmelo"
     },
@@ -186,7 +186,7 @@
         "automation",
         "startup"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
       "source": "Dev.to",
       "user": "João Pedro Silva Setas"
     },
@@ -201,7 +201,7 @@
         "programming",
         "watercooler"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
       "source": "Dev.to",
       "user": "raddevus"
     },
@@ -306,7 +306,7 @@
         "career",
         "softwaredevelopment"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfdsswifmqpd4n0zhxmm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfdsswifmqpd4n0zhxmm.png",
       "source": "Dev.to",
       "user": "spyke"
     },
@@ -336,7 +336,7 @@
         "agentic",
         "soa"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flildtpjrrkfocvaq0s7e.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flildtpjrrkfocvaq0s7e.png",
       "source": "Dev.to",
       "user": "Chad Woolley"
     },
@@ -603,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "wahdalo"
     },
     {
@@ -618,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 859,
       "user": "LeoYeAI"
     },
     {
@@ -648,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 336,
       "user": "chenhg5"
     },
     {
@@ -738,7 +738,7 @@
         "javascript",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
       "source": "Dev.to",
       "user": "Eastkap"
     },
@@ -1023,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "wahdalo"
     },
     {
@@ -1205,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 3007,
+      "stars": 3010,
       "user": "Lakr233"
     },
     {
@@ -1220,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1446,
+      "stars": 1449,
       "user": "ylytdeng"
     },
     {
@@ -1235,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1215,
       "user": "World-Open-Graph"
     },
     {
@@ -1250,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 859,
       "user": "LeoYeAI"
     },
     {
@@ -1493,7 +1493,7 @@
         "ai",
         "bedrock"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
       "source": "Dev.to",
       "user": "Harish Aravindan"
     },
@@ -1583,7 +1583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1446,
+      "stars": 1449,
       "user": "ylytdeng"
     }
   ],
@@ -1629,7 +1629,7 @@
         "owasp",
         "devtools"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5kerlsg631nshiajmwgo.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5kerlsg631nshiajmwgo.png",
       "source": "Dev.to",
       "user": "Hafiq Iqmal"
     },
@@ -1657,9 +1657,24 @@
         "ai",
         "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
       "source": "Dev.to",
       "user": "Eduard Maghakyan"
+    },
+    {
+      "title": "What should I do and learn in 2026?",
+      "url": "https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc",
+      "published_at": "2026-03-02T19:31:11Z",
+      "description": "Maybe it's not about skills, but tactics.",
+      "tags": [
+        "career",
+        "learning",
+        "motivation",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png",
+      "source": "Dev.to",
+      "user": "Amara Graham"
     },
     {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
@@ -1672,7 +1687,7 @@
         "programming",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5ctnywtfrv6tfeesmgc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5ctnywtfrv6tfeesmgc.png",
       "source": "Dev.to",
       "user": "nmelo"
     },
@@ -1687,24 +1702,9 @@
         "techdebt",
         "staticanalysis"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcreo4nb0mbkbkedb3j45.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcreo4nb0mbkbkedb3j45.png",
       "source": "Dev.to",
       "user": "Stephen Collins"
-    },
-    {
-      "title": "What should I do and learn in 2026?",
-      "url": "https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc",
-      "published_at": "2026-03-02T19:31:11Z",
-      "description": "Maybe it's not about skills, but tactics.",
-      "tags": [
-        "career",
-        "learning",
-        "motivation",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png",
-      "source": "Dev.to",
-      "user": "Amara Graham"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -1731,7 +1731,7 @@
         "javascript",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
       "source": "Dev.to",
       "user": "Eastkap"
     },
@@ -1746,7 +1746,7 @@
         "tutorial",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwv30hqb9u1tfkqg913u7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwv30hqb9u1tfkqg913u7.png",
       "source": "Dev.to",
       "user": "Ankit Gaur"
     },
@@ -1776,7 +1776,7 @@
         "automation",
         "startup"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
       "source": "Dev.to",
       "user": "João Pedro Silva Setas"
     },
@@ -1836,7 +1836,7 @@
         "owasp",
         "devtools"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5kerlsg631nshiajmwgo.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5kerlsg631nshiajmwgo.png",
       "source": "Dev.to",
       "user": "Hafiq Iqmal"
     },
@@ -1941,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "wahdalo"
     },
     {
@@ -1971,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 3007,
+      "stars": 3010,
       "user": "Lakr233"
     },
     {
@@ -1986,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1446,
+      "stars": 1449,
       "user": "ylytdeng"
     },
     {
@@ -2001,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1215,
       "user": "World-Open-Graph"
     },
     {
@@ -2016,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 859,
       "user": "LeoYeAI"
     },
     {
@@ -2046,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 336,
       "user": "chenhg5"
     },
     {
@@ -2106,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "LeoChen-CoreMind"
     }
   ]
