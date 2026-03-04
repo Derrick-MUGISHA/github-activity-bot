@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (31.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
+**WebDev**: 🟦🟦🟦🟦 8 (7.6%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
@@ -60,19 +60,19 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.0 (31.0%)
-Java            ███████████████████████ 24.1 (24.1%)
-Go              ██████████████████████ 23.0 (23.0%)
-Python          ███████████████████ 19.5 (19.5%)
+JavaScript      ██████████████████████████████ 31.8 (31.8%)
+Java            ████████████████████████ 25.0 (25.0%)
+Go              ████████████████████ 21.6 (21.6%)
+Python          ██████████████████ 19.3 (19.3%)
 PHP             ██ 2.3 (2.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 27
-    "Java" : 21
-    "Go" : 20
+    "JavaScript" : 28
+    "Java" : 22
+    "Go" : 19
     "Python" : 17
     "PHP" : 2
 ```
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![showdev](https://img.shields.io/badge/showdev-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![showdev](https://img.shields.io/badge/showdev-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-04 16:00 CAT)
+## 📅 Latest Updates (2026-03-04 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -147,25 +147,16 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpwdww315c2rc7mm5rf6.png" width="200" alt="I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened." />
+    <a href="https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flefih9vapmoxwpsmk8wc.png" width="200" alt="SaaS Companies Fear Me: Cloning* Granola for Linux" />
       <br/>
-      <b>I Plugged Gemini Into My 10,000-Line Rental Platfo...</b>
+      <b>SaaS Companies Fear Me: Cloning* Granola for Linux</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
 </tr>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png" width="200" alt="Building a Local PR Review Interface for Claude Code Plans" />
-      <br/>
-      <b>Building a Local PR Review Interface for Claude Co...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg" width="200" alt="I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini" />
@@ -176,10 +167,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flefih9vapmoxwpsmk8wc.png" width="200" alt="SaaS Companies Fear Me: Cloning* Granola for Linux" />
+    <a href="https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpwdww315c2rc7mm5rf6.png" width="200" alt="I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened." />
       <br/>
-      <b>SaaS Companies Fear Me: Cloning* Granola for Linux</b>
+      <b>I Plugged Gemini Into My 10,000-Line Rental Platfo...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png" width="200" alt="Building a Local PR Review Interface for Claude Code Plans" />
+      <br/>
+      <b>Building a Local PR Review Interface for Claude Co...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -193,28 +193,28 @@ npm run test
 
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0) _[Dev.to]_
+- [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
+- [I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini](https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424) _[Dev.to]_
 - [I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened.](https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi) _[Dev.to]_
 - [Building a Local PR Review Interface for Claude Code Plans](https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2) _[Dev.to]_
-- [I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini](https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424) _[Dev.to]_
-- [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 - [Oooh very interesting](https://dev.to/ben/oooh-very-interesting-ohk) _[Dev.to]_
 - [I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12) _[Dev.to]_
+- [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp) _[Dev.to]_
+- [How I Use Multi-Agent AI to Debug Production Errors in My Laravel App](https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90) _[Dev.to]_
 - [Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!](https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm) _[Dev.to]_
 - [Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI](https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk) _[Dev.to]_
 - [Detecting and Editing Visual Objects with Gemini](https://dev.to/googleai/detecting-and-editing-visual-objects-with-gemini-116p) _[Dev.to]_
+- [Securing CI/CD Access to AWS](https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7) _[Dev.to]_
 - [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 - [Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework](https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg) _[Dev.to]_
 - [How to make your first contribution to an open source project](https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50) _[Dev.to]_
-- [I ship software with 13 AI agents. Here's what that actually looks like](https://dev.to/nmelo/i-ship-software-with-13-ai-agents-heres-what-that-actually-looks-like-420c) _[Dev.to]_
 - [I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots](https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob) _[Dev.to]_
 - [We had a big team offsite and I forgot meme monday yesterday 😭
 
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
-- [Mastering JavaScript Array Methods: A Beginner's Guide](https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89) _[Dev.to]_
-- [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
-- [Gemini 3.1 Flash-Lite: Developer guide and use cases](https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh) _[Dev.to]_
+- [The Server-Side Mocking Gap Nobody Talks About](https://dev.to/rrafatpanah/the-server-side-mocking-gap-nobody-talks-about-36jb) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 16:56:55 CAT_
+_Last automated update: Wed, 04 Mar 2026 17:42:00 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 04 Mar 2026 16:56:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 04 Mar 2026 14:56:55 GMT</b><br/>
+  <b>Last automated update: Wed, 04 Mar 2026 15:42:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
