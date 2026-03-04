@@ -236,20 +236,6 @@
       "user": "Kohki Makimoto"
     },
     {
-      "title": "Stop Wasting Context",
-      "url": "https://dev.to/prathamudeshmukh/stop-wasting-context-34b3",
-      "published_at": "2026-02-25T12:16:58Z",
-      "description": "OpenAI says \"Context is a scarce resource.\"  Treat it like one.  A giant instruction file feels safe....",
-      "tags": [
-        "ai",
-        "llm",
-        "memory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frj53bn5v65z4bw3ymeb7.png",
-      "source": "Dev.to",
-      "user": "Prathamesh Deshmukh"
-    },
-    {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
       "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
       "published_at": "2026-02-25T17:41:43Z",
@@ -631,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 766,
       "user": "LeoYeAI"
     },
     {
@@ -646,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 621,
       "user": "6551Team"
     },
     {
@@ -661,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "chenhg5"
     },
     {
@@ -1021,7 +1007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "r3nzsec"
     },
     {
@@ -1066,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58330966?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "Kanezal"
     }
   ],
@@ -1233,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2973,
+      "stars": 2983,
       "user": "Lakr233"
     },
     {
@@ -1248,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1443,
       "user": "ylytdeng"
     },
     {
@@ -1278,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 766,
       "user": "LeoYeAI"
     },
     {
@@ -1293,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 621,
       "user": "6551Team"
     }
   ],
@@ -1342,6 +1328,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
+    },
+    {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
     }
   ],
   "WebDev": [
@@ -1541,6 +1542,21 @@
       "user": "DeVoresyah ArEst"
     },
     {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
+    },
+    {
       "title": "Enriquefft/openclaw-kapso-whatsapp - Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
       "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
       "published_at": "2026-02-28T01:28:38Z",
@@ -1581,7 +1597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "r3nzsec"
     },
     {
@@ -1596,7 +1612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1443,
       "user": "ylytdeng"
     }
   ],
@@ -1923,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "r3nzsec"
     },
     {
@@ -1968,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58330966?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "Kanezal"
     },
     {
@@ -1983,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2973,
+      "stars": 2983,
       "user": "Lakr233"
     },
     {
@@ -1998,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1443,
       "user": "ylytdeng"
     },
     {
@@ -2028,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 766,
       "user": "LeoYeAI"
     },
     {
@@ -2043,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 621,
       "user": "6551Team"
     },
     {
@@ -2058,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "chenhg5"
     },
     {
