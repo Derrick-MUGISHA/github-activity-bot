@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-04 10:00 CAT)
+## 📅 Latest Updates (2026-03-04 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
 - [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 10:35:04 CAT_
+_Last automated update: Wed, 04 Mar 2026 11:23:54 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Wed, 04 Mar 2026 10:35:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
-
-**Difficulty**: Hard | **Topics**: distributed systems, caching
-
-<details>
-<summary>💡 Hint</summary>
-
-Consistency, partitioning, replication, eviction policies
-
-</details>
-
-### 2. NodeJS: How do you handle errors in async/await?
+### 1. NodeJS: How do you handle errors in async/await?
 
 **Difficulty**: Medium | **Topics**: error handling, async
 
@@ -246,14 +235,25 @@ try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Iterative or recursive, three pointers
+
+</details>
+
+### 3. SystemDesign: Design a distributed cache system
+
+**Difficulty**: Hard | **Topics**: distributed systems, caching
+
+<details>
+<summary>💡 Hint</summary>
+
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 04 Mar 2026 08:35:04 GMT</b><br/>
+  <b>Last automated update: Wed, 04 Mar 2026 09:23:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
