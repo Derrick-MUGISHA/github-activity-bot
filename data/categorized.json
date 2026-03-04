@@ -16,21 +16,6 @@
       "user": "Daniel Balcarek"
     },
     {
-      "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
-      "url": "https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e",
-      "published_at": "2026-03-04T17:28:14Z",
-      "description": "We're excited to announce our newest challenge in partnership with Major League Hacking (MLH) and...",
-      "tags": [
-        "notionchallenge",
-        "devchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qa4kduo001bwy9lwn4w.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "I Shipped Broken Code and Wrote an Article About It",
       "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
       "published_at": "2026-03-04T11:13:54Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
+      "url": "https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e",
+      "published_at": "2026-03-04T17:28:14Z",
+      "description": "We're excited to announce our newest challenge in partnership with Major League Hacking (MLH) and...",
+      "tags": [
+        "notionchallenge",
+        "devchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qa4kduo001bwy9lwn4w.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
@@ -75,20 +75,6 @@
       "user": "Ryan Swift"
     },
     {
-      "title": "Building a Local PR Review Interface for Claude Code Plans",
-      "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
-      "published_at": "2026-03-04T00:27:49Z",
-      "description": "GitHub PR Review UI for Claude Code Plans",
-      "tags": [
-        "claudecode",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
-      "source": "Dev.to",
-      "user": "Eduard Maghakyan"
-    },
-    {
       "title": "Oooh very interesting",
       "url": "https://dev.to/ben/oooh-very-interesting-ohk",
       "published_at": "2026-03-03T16:12:24Z",
@@ -118,21 +104,6 @@
       "user": "Ojie Oriarewo"
     },
     {
-      "title": "Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!",
-      "url": "https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm",
-      "published_at": "2026-03-03T11:25:11Z",
-      "description": "This is a submission for the Built with Google Gemini: Writing Challenge  What if tracking near-Earth...",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png",
-      "source": "Dev.to",
-      "user": "Deeptej"
-    },
-    {
       "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
       "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
       "published_at": "2026-03-03T17:21:42Z",
@@ -146,6 +117,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
       "source": "Dev.to",
       "user": "Harish Aravindan"
+    },
+    {
+      "title": "Building a Local PR Review Interface for Claude Code Plans",
+      "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
+      "published_at": "2026-03-04T00:27:49Z",
+      "description": "GitHub PR Review UI for Claude Code Plans",
+      "tags": [
+        "claudecode",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
+      "source": "Dev.to",
+      "user": "Eduard Maghakyan"
     },
     {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
@@ -221,21 +206,6 @@
       "user": "Ali Farhat"
     },
     {
-      "title": "Coding Agents Are Actually Good at This One Thing",
-      "url": "https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej",
-      "published_at": "2026-03-01T20:31:28Z",
-      "description": "Coding agents aren't magic. But for internal tooling? They've brought back the \"just build the thing\" era I've been missing since Microsoft Access.",
-      "tags": [
-        "webdev",
-        "productivity",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
-    },
-    {
       "title": "I Run a Solo Company with AI Agent Departments",
       "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
       "published_at": "2026-03-03T10:41:20Z",
@@ -249,6 +219,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
       "source": "Dev.to",
       "user": "João Pedro Silva Setas"
+    },
+    {
+      "title": "Coding Agents Are Actually Good at This One Thing",
+      "url": "https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej",
+      "published_at": "2026-03-01T20:31:28Z",
+      "description": "Coding agents aren't magic. But for internal tooling? They've brought back the \"just build the thing\" era I've been missing since Microsoft Access.",
+      "tags": [
+        "webdev",
+        "productivity",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
     },
     {
       "title": "Meme Monday",
@@ -279,6 +264,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ubpltdhsx0n7owyd5ol.png",
       "source": "Dev.to",
       "user": "Aidas Bendoraitis"
+    },
+    {
+      "title": "Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!",
+      "url": "https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm",
+      "published_at": "2026-03-03T11:25:11Z",
+      "description": "This is a submission for the Built with Google Gemini: Writing Challenge  What if tracking near-Earth...",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png",
+      "source": "Dev.to",
+      "user": "Deeptej"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -604,7 +604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 908,
       "user": "LeoYeAI"
     },
     {
@@ -634,7 +634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "chenhg5"
     },
     {
@@ -668,6 +668,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
       "user": "Ovi ren"
+    },
+    {
+      "title": "React: Singletons aren't as evil as you think",
+      "url": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
+      "published_at": "2026-03-04T18:43:16Z",
+      "description": "In the world of React, the humble singleton gets a bit of a bad rap. It is often dismissed as a messy...",
+      "tags": [
+        "react",
+        "webdev",
+        "singleton"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozcggfsouuv2shb8vpiz.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
     },
     {
       "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
@@ -965,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "r3nzsec"
     },
     {
@@ -1177,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 3016,
+      "stars": 3019,
       "user": "Lakr233"
     },
     {
@@ -1192,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1454,
       "user": "ylytdeng"
     },
     {
@@ -1207,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1231,
       "user": "World-Open-Graph"
     },
     {
@@ -1222,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 908,
       "user": "LeoYeAI"
     },
     {
@@ -1510,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "r3nzsec"
     },
     {
@@ -1525,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1454,
       "user": "ylytdeng"
     }
   ],
@@ -1605,20 +1619,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "Building a Local PR Review Interface for Claude Code Plans",
-      "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
-      "published_at": "2026-03-04T00:27:49Z",
-      "description": "GitHub PR Review UI for Claude Code Plans",
-      "tags": [
-        "claudecode",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
-      "source": "Dev.to",
-      "user": "Eduard Maghakyan"
-    },
-    {
       "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
       "url": "https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp",
       "published_at": "2026-03-04T11:17:15Z",
@@ -1694,6 +1694,20 @@
       "user": "Stephen Collins"
     },
     {
+      "title": "Building a Local PR Review Interface for Claude Code Plans",
+      "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
+      "published_at": "2026-03-04T00:27:49Z",
+      "description": "GitHub PR Review UI for Claude Code Plans",
+      "tags": [
+        "claudecode",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
+      "source": "Dev.to",
+      "user": "Eduard Maghakyan"
+    },
+    {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
       "url": "https://dev.to/nmelo/i-ship-software-with-13-ai-agents-heres-what-that-actually-looks-like-420c",
       "published_at": "2026-03-03T15:30:49Z",
@@ -1753,21 +1767,6 @@
       "user": "Ankit Gaur"
     },
     {
-      "title": "Coding Agents Are Actually Good at This One Thing",
-      "url": "https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej",
-      "published_at": "2026-03-01T20:31:28Z",
-      "description": "Coding agents aren't magic. But for internal tooling? They've brought back the \"just build the thing\" era I've been missing since Microsoft Access.",
-      "tags": [
-        "webdev",
-        "productivity",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
-    },
-    {
       "title": "I Run a Solo Company with AI Agent Departments",
       "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
       "published_at": "2026-03-03T10:41:20Z",
@@ -1781,6 +1780,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
       "source": "Dev.to",
       "user": "João Pedro Silva Setas"
+    },
+    {
+      "title": "Coding Agents Are Actually Good at This One Thing",
+      "url": "https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej",
+      "published_at": "2026-03-01T20:31:28Z",
+      "description": "Coding agents aren't magic. But for internal tooling? They've brought back the \"just build the thing\" era I've been missing since Microsoft Access.",
+      "tags": [
+        "webdev",
+        "productivity",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1869,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "r3nzsec"
     },
     {
@@ -1929,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 3016,
+      "stars": 3019,
       "user": "Lakr233"
     },
     {
@@ -1944,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1454,
       "user": "ylytdeng"
     },
     {
@@ -1959,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1231,
       "user": "World-Open-Graph"
     },
     {
@@ -1974,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 908,
       "user": "LeoYeAI"
     },
     {
@@ -2004,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "chenhg5"
     },
     {
@@ -2064,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "LeoChen-CoreMind"
     }
   ]
