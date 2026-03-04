@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-04 21:00 CAT)
+## 📅 Latest Updates (2026-03-04 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -129,19 +129,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png" width="200" alt="What’s the Worst Advice AI Has Given You? Here’s Mine." />
+    <a href="https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png" width="200" alt="i built a social platform where everything vanishes after 24 hours" />
       <br/>
-      <b>What’s the Worst Advice AI Has Given You? Here’s M...</b>
+      <b>i built a social platform where everything vanishe...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png" width="200" alt="i built a social platform where everything vanishes after 24 hours" />
+    <a href="https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png" width="200" alt="What’s the Worst Advice AI Has Given You? Here’s Mine." />
       <br/>
-      <b>i built a social platform where everything vanishe...</b>
+      <b>What’s the Worst Advice AI Has Given You? Here’s M...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -191,8 +191,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [What’s the Worst Advice AI Has Given You? Here’s Mine.](https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
+- [What’s the Worst Advice AI Has Given You? Here’s Mine.](https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4) _[Dev.to]_
 - [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0) _[Dev.to]_
 - [I Shipped Broken Code and Wrote an Article About It](https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p) _[Dev.to]_
@@ -212,7 +212,7 @@ npm run test
 - [I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots](https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob) _[Dev.to]_
 - [Building a Local PR Review Interface for Claude Code Plans](https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2) _[Dev.to]_
 
-_Last automated update: Wed, 04 Mar 2026 21:35:51 CAT_
+_Last automated update: Wed, 04 Mar 2026 22:03:05 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Wed, 04 Mar 2026 21:35:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 04 Mar 2026 19:35:51 GMT</b><br/>
+  <b>Last automated update: Wed, 04 Mar 2026 20:03:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
