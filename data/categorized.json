@@ -15,19 +15,19 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "SaaS Companies Fear Me: Cloning* Granola for Linux",
-      "url": "https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0",
-      "published_at": "2026-03-03T21:23:35Z",
-      "description": "This is a submission for the Built with Google Gemini: Writing Challenge  I've been spending a lot of...",
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "published_at": "2026-03-03T10:41:20Z",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
       "tags": [
-        "devchallenge",
-        "mlhreflections",
-        "gemini",
-        "ai"
+        "agents",
+        "ai",
+        "automation",
+        "startup"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flefih9vapmoxwpsmk8wc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
       "source": "Dev.to",
-      "user": "Ryan Swift"
+      "user": "João Pedro Silva Setas"
     },
     {
       "title": "Building a Local PR Review Interface for Claude Code Plans",
@@ -42,6 +42,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
       "source": "Dev.to",
       "user": "Eduard Maghakyan"
+    },
+    {
+      "title": "SaaS Companies Fear Me: Cloning* Granola for Linux",
+      "url": "https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0",
+      "published_at": "2026-03-03T21:23:35Z",
+      "description": "This is a submission for the Built with Google Gemini: Writing Challenge  I've been spending a lot of...",
+      "tags": [
+        "devchallenge",
+        "mlhreflections",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flefih9vapmoxwpsmk8wc.png",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
     },
     {
       "title": "Oooh very interesting",
@@ -204,21 +219,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ubpltdhsx0n7owyd5ol.png",
       "source": "Dev.to",
       "user": "Aidas Bendoraitis"
-    },
-    {
-      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
-      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
-      "published_at": "2026-02-25T01:28:04Z",
-      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
-      "source": "Dev.to",
-      "user": "aileen vl"
     },
     {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
@@ -617,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 779,
       "user": "LeoYeAI"
     },
     {
@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 328,
       "user": "chenhg5"
     },
     {
@@ -664,6 +664,21 @@
       "source": "GitHub",
       "stars": 204,
       "user": "geekjourneyx"
+    },
+    {
+      "title": "Enriquefft/openclaw-kapso-whatsapp - Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
+      "published_at": "2026-02-28T01:28:38Z",
+      "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
+      "source": "GitHub",
+      "stars": 111,
+      "user": "Enriquefft"
     }
   ],
   "JavaScript": [
@@ -1204,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2992,
+      "stars": 2995,
       "user": "Lakr233"
     },
     {
@@ -1234,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1203,
       "user": "World-Open-Graph"
     },
     {
@@ -1249,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 779,
       "user": "LeoYeAI"
     },
     {
@@ -1540,6 +1555,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
       "source": "Dev.to",
       "user": "suin"
+    },
+    {
+      "title": "Enriquefft/openclaw-kapso-whatsapp - Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
+      "published_at": "2026-02-28T01:28:38Z",
+      "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
+      "source": "GitHub",
+      "stars": 111,
+      "user": "Enriquefft"
     }
   ],
   "Database": [
@@ -1661,6 +1691,21 @@
   ],
   "Tools": [
     {
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "published_at": "2026-03-03T10:41:20Z",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
+      "source": "Dev.to",
+      "user": "João Pedro Silva Setas"
+    },
+    {
       "title": "Building a Local PR Review Interface for Claude Code Plans",
       "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
       "published_at": "2026-03-04T00:27:49Z",
@@ -1777,21 +1822,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
-    },
-    {
-      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
-      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
-      "published_at": "2026-02-25T01:28:04Z",
-      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
-      "source": "Dev.to",
-      "user": "aileen vl"
     },
     {
       "title": "claude-sandbox: Yet another sandboxing tool for Claude Code on macOS",
@@ -1969,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2992,
+      "stars": 2995,
       "user": "Lakr233"
     },
     {
@@ -1999,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1203,
       "user": "World-Open-Graph"
     },
     {
@@ -2014,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 779,
       "user": "LeoYeAI"
     },
     {
@@ -2044,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 328,
       "user": "chenhg5"
     },
     {
@@ -2059,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "Resinat"
     },
     {
@@ -2093,19 +2123,19 @@
       "user": "junevm"
     },
     {
-      "title": "LeoChen-CoreMind/VMPacker - ARM64 ELF Virtual Machine Protection System",
-      "url": "https://github.com/LeoChen-CoreMind/VMPacker",
-      "published_at": "2026-03-02T07:21:42Z",
-      "description": "ARM64 ELF Virtual Machine Protection System",
+      "title": "Enriquefft/openclaw-kapso-whatsapp - Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
+      "published_at": "2026-02-28T01:28:38Z",
+      "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
       "stars": 111,
-      "user": "LeoChen-CoreMind"
+      "user": "Enriquefft"
     }
   ]
 }
