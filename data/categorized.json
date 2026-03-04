@@ -206,19 +206,6 @@
       "user": "Aidas Bendoraitis"
     },
     {
-      "title": "AI Ate the Homework: What Communities Are Actually For Now",
-      "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
-      "published_at": "2026-02-27T22:05:16Z",
-      "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builders and members.",
-      "tags": [
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9wf3o4i4z2u8k2jxdar.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
-    },
-    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -456,6 +443,21 @@
       "user": "JoppeDC"
     },
     {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -629,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 738,
       "user": "LeoYeAI"
     },
     {
@@ -644,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 618,
       "user": "6551Team"
     },
     {
@@ -659,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "chenhg5"
     },
     {
@@ -689,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "Enriquefft"
     }
   ],
@@ -858,6 +860,21 @@
       "user": "Ely Lucas"
     },
     {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -989,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351581?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 171,
       "user": "TriangleMagistrate"
     },
     {
@@ -1019,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "r3nzsec"
     },
     {
@@ -1216,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2935,
+      "stars": 2940,
       "user": "Lakr233"
     },
     {
@@ -1231,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1437,
       "user": "ylytdeng"
     },
     {
@@ -1261,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 738,
       "user": "LeoYeAI"
     },
     {
@@ -1276,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 618,
       "user": "6551Team"
     }
   ],
@@ -1418,6 +1435,21 @@
       "user": "Lisa Cee"
     },
     {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1520,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "Enriquefft"
     }
   ],
@@ -1549,7 +1581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "r3nzsec"
     },
     {
@@ -1564,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1437,
       "user": "ylytdeng"
     }
   ],
@@ -1850,6 +1882,21 @@
       "user": "Ely Lucas"
     },
     {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
       "title": "TriangleMagistrate/lovable-openclaw - lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
       "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
       "published_at": "2026-03-02T18:35:58Z",
@@ -1861,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351581?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 171,
       "user": "TriangleMagistrate"
     },
     {
@@ -1891,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "r3nzsec"
     },
     {
@@ -1936,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
       "source": "GitHub",
-      "stars": 2935,
+      "stars": 2940,
       "user": "Lakr233"
     },
     {
@@ -1951,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1437,
       "user": "ylytdeng"
     },
     {
@@ -1981,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 738,
       "user": "LeoYeAI"
     },
     {
@@ -1996,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 618,
       "user": "6551Team"
     },
     {
@@ -2011,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "chenhg5"
     },
     {
@@ -2026,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "Resinat"
     },
     {
@@ -2071,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "Enriquefft"
     }
   ]
