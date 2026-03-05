@@ -31,19 +31,19 @@
       "user": "Daniel Balcarek"
     },
     {
-      "title": "I Shipped Broken Code and Wrote an Article About It",
-      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
-      "published_at": "2026-03-04T11:13:54Z",
-      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+      "title": "Get started with GitHub Copilot SDK",
+      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
+      "published_at": "2026-03-04T20:48:00Z",
+      "description": "This article explains what GitHub Copilot SDK is and why use it",
       "tags": [
+        "githubcopilot",
+        "python",
         "ai",
-        "opensource",
-        "webdev",
-        "productivity"
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
       "source": "Dev.to",
-      "user": "Daniel Nwaneri"
+      "user": "Chris Noring"
     },
     {
       "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
@@ -58,6 +58,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "SQLite as an MCP context saver: stop cramming raw API data into your LLM",
+      "url": "https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4",
+      "published_at": "2026-03-04T14:40:33Z",
+      "description": "Most MCP servers dump raw API responses into the conversation. I've been using SQLite as a dependency...",
+      "tags": [
+        "ai",
+        "mcp",
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2054xkke008f1jqg3n6.jpg",
+      "source": "Dev.to",
+      "user": "Richard Baxter"
     },
     {
       "title": "SaaS Companies Fear Me: Cloning* Granola for Linux",
@@ -75,6 +89,21 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "I Shipped Broken Code and Wrote an Article About It",
+      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
+      "published_at": "2026-03-04T11:13:54Z",
+      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+      "tags": [
+        "ai",
+        "opensource",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "Oooh very interesting",
       "url": "https://dev.to/ben/oooh-very-interesting-ohk",
       "published_at": "2026-03-03T16:12:24Z",
@@ -87,21 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
-      "url": "https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e",
-      "published_at": "2026-03-04T17:28:14Z",
-      "description": "We're excited to announce our newest challenge in partnership with Major League Hacking (MLH) and...",
-      "tags": [
-        "notionchallenge",
-        "devchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qa4kduo001bwy9lwn4w.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "How I Use Multi-Agent AI to Debug Production Errors in My Laravel App",
@@ -117,6 +131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fquh4p724hndhc2208iwf.png",
       "source": "Dev.to",
       "user": "Ojie Oriarewo"
+    },
+    {
+      "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
+      "url": "https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e",
+      "published_at": "2026-03-04T17:28:14Z",
+      "description": "We're excited to announce our newest challenge in partnership with Major League Hacking (MLH) and...",
+      "tags": [
+        "notionchallenge",
+        "devchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qa4kduo001bwy9lwn4w.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
@@ -431,21 +460,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "Meme Monday",
-      "url": "https://dev.to/raddevus/meme-monday-5d21",
-      "published_at": "2026-03-02T18:31:16Z",
-      "description": "Meme Monday   I can't wait all day for this site to start the Meme Monday post, so here it...",
-      "tags": [
-        "community",
-        "discuss",
-        "programming",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
-      "source": "Dev.to",
-      "user": "raddevus"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -578,21 +592,6 @@
       "user": "veesahni"
     },
     {
-      "title": "lovisdotio/falsprite -   Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
-      "url": "https://github.com/lovisdotio/falsprite",
-      "published_at": "2026-02-26T22:17:11Z",
-      "description": "  Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158358668?v=4",
-      "source": "GitHub",
-      "stars": 142,
-      "user": "lovisdotio"
-    },
-    {
       "title": "wahdalo/chatgpt-account-creator - GitHub Repository",
       "url": "https://github.com/wahdalo/chatgpt-account-creator",
       "published_at": "2026-03-01T14:48:32Z",
@@ -619,23 +618,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 970,
       "user": "LeoYeAI"
-    },
-    {
-      "title": "6551Team/opennews-mcp - Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "url": "https://github.com/6551Team/opennews-mcp",
-      "published_at": "2026-02-26T06:04:49Z",
-      "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
-      "source": "GitHub",
-      "stars": 622,
-      "user": "6551Team"
     },
     {
       "title": "chenhg5/cc-connect - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
@@ -649,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 353,
       "user": "chenhg5"
     },
     {
@@ -664,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "geekjourneyx"
     }
   ],
@@ -968,21 +952,6 @@
       "user": "velmu"
     },
     {
-      "title": "lovisdotio/falsprite -   Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
-      "url": "https://github.com/lovisdotio/falsprite",
-      "published_at": "2026-02-26T22:17:11Z",
-      "description": "  Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158358668?v=4",
-      "source": "GitHub",
-      "stars": 142,
-      "user": "lovisdotio"
-    },
-    {
       "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
       "url": "https://github.com/r3nzsec/irflow-timeline",
       "published_at": "2026-03-01T19:31:35Z",
@@ -994,7 +963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "r3nzsec"
     },
     {
@@ -1028,22 +997,52 @@
       "user": "wahdalo"
     },
     {
-      "title": "Kanezal/better-antigravity - The repository was created to support Antigravity from the community.",
-      "url": "https://github.com/Kanezal/better-antigravity",
-      "published_at": "2026-02-26T22:09:27Z",
-      "description": "The repository was created to support Antigravity from the community.",
+      "title": "pasky/pi-side-agents - Parallel subagents / long-running sideagents for the Pi coding agent",
+      "url": "https://github.com/pasky/pi-side-agents",
+      "published_at": "2026-03-01T00:31:46Z",
+      "description": "Parallel subagents / long-running sideagents for the Pi coding agent",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58330966?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 85,
-      "user": "Kanezal"
+      "stars": 82,
+      "user": "pasky"
+    },
+    {
+      "title": "fraternity-z/codexapp-windows-rebuild - GitHub Repository",
+      "url": "https://github.com/fraternity-z/codexapp-windows-rebuild",
+      "published_at": "2026-02-27T05:56:24Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122680327?v=4",
+      "source": "GitHub",
+      "stars": 70,
+      "user": "fraternity-z"
     }
   ],
   "Python": [
+    {
+      "title": "Get started with GitHub Copilot SDK",
+      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
+      "published_at": "2026-03-04T20:48:00Z",
+      "description": "This article explains what GitHub Copilot SDK is and why use it",
+      "tags": [
+        "githubcopilot",
+        "python",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
+      "source": "Dev.to",
+      "user": "Chris Noring"
+    },
     {
       "title": "Using tox to Test a Django App Across Multiple Django Versions",
       "url": "https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9",
@@ -1195,21 +1194,6 @@
       "user": "gilad"
     },
     {
-      "title": "Lakr233/vphone-cli - GitHub Repository",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "published_at": "2026-02-26T11:29:08Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
-      "source": "GitHub",
-      "stars": 3023,
-      "user": "Lakr233"
-    },
-    {
       "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "published_at": "2026-02-28T04:03:44Z",
@@ -1221,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1455,
+      "stars": 1456,
       "user": "ylytdeng"
     },
     {
@@ -1236,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1237,
+      "stars": 1239,
       "user": "World-Open-Graph"
     },
     {
@@ -1251,23 +1235,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 970,
       "user": "LeoYeAI"
     },
     {
-      "title": "6551Team/opennews-mcp - Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "url": "https://github.com/6551Team/opennews-mcp",
-      "published_at": "2026-02-26T06:04:49Z",
-      "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
+      "title": "kossisoroyce/timber - Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
+      "url": "https://github.com/kossisoroyce/timber",
+      "published_at": "2026-02-27T23:27:36Z",
+      "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/65903011?v=4",
       "source": "GitHub",
-      "stars": 622,
-      "user": "6551Team"
+      "stars": 544,
+      "user": "kossisoroyce"
+    },
+    {
+      "title": "coleam00/excalidraw-diagram-skill - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.",
+      "url": "https://github.com/coleam00/excalidraw-diagram-skill",
+      "published_at": "2026-03-01T12:36:44Z",
+      "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
+      "source": "GitHub",
+      "stars": 473,
+      "user": "coleam00"
     }
   ],
   "DevOps": [
@@ -1446,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "geekjourneyx"
     }
   ],
@@ -1469,21 +1468,6 @@
   ],
   "Cloud": [
     {
-      "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
-      "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
-      "published_at": "2026-03-03T17:21:42Z",
-      "description": "Every week I ship a new piece of warrantyAI — an AI-powered warranty management system I'm building...",
-      "tags": [
-        "aws",
-        "serverless",
-        "ai",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
-      "source": "Dev.to",
-      "user": "Harish Aravindan"
-    },
-    {
       "title": "Securing CI/CD Access to AWS",
       "url": "https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7",
       "published_at": "2026-03-03T00:00:00Z",
@@ -1497,6 +1481,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszy1mhwalprqc3o3jt15.png",
       "source": "Dev.to",
       "user": "Warren Parad"
+    },
+    {
+      "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
+      "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
+      "published_at": "2026-03-03T17:21:42Z",
+      "description": "Every week I ship a new piece of warrantyAI — an AI-powered warranty management system I'm building...",
+      "tags": [
+        "aws",
+        "serverless",
+        "ai",
+        "bedrock"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
+      "source": "Dev.to",
+      "user": "Harish Aravindan"
     },
     {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
@@ -1515,6 +1514,20 @@
     }
   ],
   "Database": [
+    {
+      "title": "SQLite as an MCP context saver: stop cramming raw API data into your LLM",
+      "url": "https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4",
+      "published_at": "2026-03-04T14:40:33Z",
+      "description": "Most MCP servers dump raw API responses into the conversation. I've been using SQLite as a dependency...",
+      "tags": [
+        "ai",
+        "mcp",
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2054xkke008f1jqg3n6.jpg",
+      "source": "Dev.to",
+      "user": "Richard Baxter"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1539,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "r3nzsec"
     },
     {
@@ -1554,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1455,
+      "stars": 1456,
       "user": "ylytdeng"
     }
   ],
@@ -1618,6 +1631,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Get started with GitHub Copilot SDK",
+      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
+      "published_at": "2026-03-04T20:48:00Z",
+      "description": "This article explains what GitHub Copilot SDK is and why use it",
+      "tags": [
+        "githubcopilot",
+        "python",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
+      "source": "Dev.to",
+      "user": "Chris Noring"
+    },
     {
       "title": "I Shipped Broken Code and Wrote an Article About It",
       "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
@@ -1872,21 +1900,6 @@
       "user": "Anthony Lagrede"
     },
     {
-      "title": "lovisdotio/falsprite -   Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
-      "url": "https://github.com/lovisdotio/falsprite",
-      "published_at": "2026-02-26T22:17:11Z",
-      "description": "  Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158358668?v=4",
-      "source": "GitHub",
-      "stars": 142,
-      "user": "lovisdotio"
-    },
-    {
       "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
       "url": "https://github.com/r3nzsec/irflow-timeline",
       "published_at": "2026-03-01T19:31:35Z",
@@ -1898,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "r3nzsec"
     },
     {
@@ -1932,34 +1945,34 @@
       "user": "wahdalo"
     },
     {
-      "title": "Kanezal/better-antigravity - The repository was created to support Antigravity from the community.",
-      "url": "https://github.com/Kanezal/better-antigravity",
-      "published_at": "2026-02-26T22:09:27Z",
-      "description": "The repository was created to support Antigravity from the community.",
+      "title": "pasky/pi-side-agents - Parallel subagents / long-running sideagents for the Pi coding agent",
+      "url": "https://github.com/pasky/pi-side-agents",
+      "published_at": "2026-03-01T00:31:46Z",
+      "description": "Parallel subagents / long-running sideagents for the Pi coding agent",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58330966?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 85,
-      "user": "Kanezal"
+      "stars": 82,
+      "user": "pasky"
     },
     {
-      "title": "Lakr233/vphone-cli - GitHub Repository",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "published_at": "2026-02-26T11:29:08Z",
+      "title": "fraternity-z/codexapp-windows-rebuild - GitHub Repository",
+      "url": "https://github.com/fraternity-z/codexapp-windows-rebuild",
+      "published_at": "2026-02-27T05:56:24Z",
       "description": "Trending GitHub Repository",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25259084?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/122680327?v=4",
       "source": "GitHub",
-      "stars": 3023,
-      "user": "Lakr233"
+      "stars": 70,
+      "user": "fraternity-z"
     },
     {
       "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
@@ -1973,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1455,
+      "stars": 1456,
       "user": "ylytdeng"
     },
     {
@@ -1988,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1237,
+      "stars": 1239,
       "user": "World-Open-Graph"
     },
     {
@@ -2003,23 +2016,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 970,
       "user": "LeoYeAI"
     },
     {
-      "title": "6551Team/opennews-mcp - Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "url": "https://github.com/6551Team/opennews-mcp",
-      "published_at": "2026-02-26T06:04:49Z",
-      "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
+      "title": "kossisoroyce/timber - Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
+      "url": "https://github.com/kossisoroyce/timber",
+      "published_at": "2026-02-27T23:27:36Z",
+      "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/65903011?v=4",
       "source": "GitHub",
-      "stars": 622,
-      "user": "6551Team"
+      "stars": 544,
+      "user": "kossisoroyce"
+    },
+    {
+      "title": "coleam00/excalidraw-diagram-skill - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.",
+      "url": "https://github.com/coleam00/excalidraw-diagram-skill",
+      "published_at": "2026-03-01T12:36:44Z",
+      "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
+      "source": "GitHub",
+      "stars": 473,
+      "user": "coleam00"
     },
     {
       "title": "chenhg5/cc-connect - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
@@ -2033,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 353,
       "user": "chenhg5"
     },
     {
@@ -2048,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 294,
       "user": "Resinat"
     },
     {
@@ -2063,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "geekjourneyx"
     },
     {
@@ -2093,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 146,
       "user": "LeoChen-CoreMind"
     }
   ]
