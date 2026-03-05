@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-05 16:00 CAT)
+## 📅 Latest Updates (2026-03-05 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -197,11 +197,11 @@ npm run test
 - [I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened.](https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi) _[Dev.to]_
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 - [SQLite as an MCP context saver: stop cramming raw API data into your LLM](https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4) _[Dev.to]_
-- [I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0) _[Dev.to]_
 - [Welcome Thread - v367](https://dev.to/devteam/welcome-thread-v367-33cn) _[Dev.to]_
 - [Get started with GitHub Copilot SDK](https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm) _[Dev.to]_
+- [I Shipped Broken Code and Wrote an Article About It](https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p) _[Dev.to]_
 - [Join the Notion MCP Challenge: $1,500 in Prizes!](https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e) _[Dev.to]_
 - [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
 - [Securing CI/CD Access to AWS](https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7) _[Dev.to]_
@@ -210,9 +210,9 @@ npm run test
 - [Coding Agents Are Actually Good at This One Thing](https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej) _[Dev.to]_
 - [Mastering JavaScript Arrays: A Beginner's Guide to Organize Data Like a Pro](https://dev.to/ritam369/mastering-javascript-arrays-a-beginners-guide-to-organize-data-like-a-pro-2dk0) _[Dev.to]_
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
-- [I Shipped Broken Code and Wrote an Article About It](https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p) _[Dev.to]_
+- [I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12) _[Dev.to]_
 
-_Last automated update: Thu, 05 Mar 2026 16:28:44 CAT_
+_Last automated update: Thu, 05 Mar 2026 17:27:06 CAT_
 
 
 
@@ -220,29 +220,7 @@ _Last automated update: Thu, 05 Mar 2026 16:28:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
-
-**Difficulty**: Medium | **Topics**: hooks, async
-
-<details>
-<summary>💡 Hint</summary>
-
-useState, useEffect, loading states, error handling
-
-</details>
-
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
-
-**Difficulty**: Easy | **Topics**: variables, scope
-
-<details>
-<summary>💡 Hint</summary>
-
-Scope, hoisting, and reassignment capabilities
-
-</details>
-
-### 3. SystemDesign: How would you design a rate limiter?
+### 1. SystemDesign: How would you design a rate limiter?
 
 **Difficulty**: Medium | **Topics**: system design, algorithms
 
@@ -250,6 +228,28 @@ Scope, hoisting, and reassignment capabilities
 <summary>💡 Hint</summary>
 
 Token bucket, sliding window, distributed systems
+
+</details>
+
+### 2. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
+
+</details>
+
+### 3. React: How would you optimize a React app's performance?
+
+**Difficulty**: Hard | **Topics**: optimization, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 05 Mar 2026 14:28:44 GMT</b><br/>
+  <b>Last automated update: Thu, 05 Mar 2026 15:27:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
