@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-05-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (45.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (31.4%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (31.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**WebDev**: 🟦🟦🟦 8 (7.6%)
+**WebDev**: 🟦🟦🟦 8 (7.7%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,18 +60,18 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.0 (31.0%)
-Java            ███████████████████████ 24.1 (24.1%)
-Go              █████████████████████ 21.8 (21.8%)
-Python          ████████████████████ 20.7 (20.7%)
-PHP             ██ 2.3 (2.3%)
+JavaScript      ██████████████████████████████ 30.6 (30.6%)
+Java            ███████████████████████ 23.5 (23.5%)
+Go              ██████████████████████ 22.4 (22.4%)
+Python          █████████████████████ 21.2 (21.2%)
+PHP             ██ 2.4 (2.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 27
-    "Java" : 21
+    "JavaScript" : 26
+    "Java" : 20
     "Go" : 19
     "Python" : 18
     "PHP" : 2
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![geminireflections](https://img.shields.io/badge/geminireflections-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![geminireflections](https://img.shields.io/badge/geminireflections-5-blue) 
 
 
 
@@ -207,12 +207,12 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0) _[Dev.to]_
 - [Welcome Thread - v367](https://dev.to/devteam/welcome-thread-v367-33cn) _[Dev.to]_
 - [Join the Notion MCP Challenge: $1,500 in Prizes!](https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e) _[Dev.to]_
-- [Mastering JavaScript Array Methods: A Beginner's Guide](https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89) _[Dev.to]_
 - [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
 - [Securing CI/CD Access to AWS](https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
+- [I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini](https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424) _[Dev.to]_
 
-_Last automated update: Thu, 05 Mar 2026 09:10:03 CAT_
+_Last automated update: Thu, 05 Mar 2026 09:54:26 CAT_
 
 
 
@@ -220,7 +220,29 @@ _Last automated update: Thu, 05 Mar 2026 09:10:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. JavaScript: Explain event delegation and why it's useful
+
+**Difficulty**: Medium | **Topics**: events, DOM
+
+<details>
+<summary>💡 Hint</summary>
+
+Event bubbling, single listener for multiple elements
+
+</details>
+
+### 2. React: What are hooks and why were they introduced?
+
+**Difficulty**: Medium | **Topics**: hooks, functional components
+
+<details>
+<summary>💡 Hint</summary>
+
+State in functional components, reusable logic, cleaner code
+
+</details>
+
+### 3. Python: What are generators and when would you use them?
 
 **Difficulty**: Medium | **Topics**: iterators, memory
 
@@ -228,28 +250,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 yield keyword, lazy evaluation, memory efficiency
-
-</details>
-
-### 2. Database: What is database normalization and denormalization?
-
-**Difficulty**: Medium | **Topics**: design, optimization
-
-<details>
-<summary>💡 Hint</summary>
-
-Normal forms, redundancy, performance trade-offs
-
-</details>
-
-### 3. NodeJS: Implement rate limiting for an API
-
-**Difficulty**: Hard | **Topics**: security, middleware
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, Redis
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 05 Mar 2026 07:10:03 GMT</b><br/>
+  <b>Last automated update: Thu, 05 Mar 2026 07:54:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
