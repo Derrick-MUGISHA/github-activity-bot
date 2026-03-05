@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-05 21:00 CAT)
+## 📅 Latest Updates (2026-03-05 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 - [SQLite as an MCP context saver: stop cramming raw API data into your LLM](https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4) _[Dev.to]_
 
-_Last automated update: Thu, 05 Mar 2026 21:41:10 CAT_
+_Last automated update: Thu, 05 Mar 2026 22:21:40 CAT_
 
 
 
@@ -231,25 +231,25 @@ try/catch, .catch(), error middleware
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 05 Mar 2026 19:41:10 GMT</b><br/>
+  <b>Last automated update: Thu, 05 Mar 2026 20:21:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
