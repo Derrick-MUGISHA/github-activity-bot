@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-05-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (44.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (31.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (31.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦 8 (7.8%)
+**WebDev**: 🟦🟦🟦 8 (7.6%)
 
-**DevOps**: 🟦🟦 4 (3.9%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
-**Database**: 🟦🟦 4 (3.9%)
+**Database**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (3.9%)
+**Security**: 🟦🟦 4 (3.8%)
 
 **Cloud**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,18 +60,18 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.6 (30.6%)
-Java            ███████████████████████ 23.5 (23.5%)
-Go              ██████████████████████ 22.4 (22.4%)
-Python          █████████████████████ 21.2 (21.2%)
-PHP             ██ 2.4 (2.4%)
+JavaScript      ██████████████████████████████ 31.0 (31.0%)
+Java            ███████████████████████ 24.1 (24.1%)
+Go              █████████████████████ 21.8 (21.8%)
+Python          ████████████████████ 20.7 (20.7%)
+PHP             ██ 2.3 (2.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 26
-    "Java" : 20
+    "JavaScript" : 27
+    "Java" : 21
     "Go" : 19
     "Python" : 18
     "PHP" : 2
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![geminireflections](https://img.shields.io/badge/geminireflections-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![geminireflections](https://img.shields.io/badge/geminireflections-5-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-05 14:00 CAT)
+## 📅 Latest Updates (2026-03-05 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -130,7 +130,7 @@ npm run test
 <tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fip4stvvkffywe6r9lknf.png" width="200" alt="Share, Embed, and Curate Agent Sessions on DEV [Beta]" />
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png" width="200" alt="Share, Embed, and Curate Agent Sessions on DEV [Beta]" />
       <br/>
       <b>Share, Embed, and Curate Agent Sessions on DEV [Be...</b>
     </a>
@@ -212,7 +212,7 @@ npm run test
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
 - [I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini](https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424) _[Dev.to]_
 
-_Last automated update: Thu, 05 Mar 2026 14:02:05 CAT_
+_Last automated update: Thu, 05 Mar 2026 15:36:20 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Thu, 05 Mar 2026 14:02:05 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 05 Mar 2026 12:02:05 GMT</b><br/>
+  <b>Last automated update: Thu, 05 Mar 2026 13:36:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
