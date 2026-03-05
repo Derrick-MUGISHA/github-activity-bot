@@ -89,21 +89,6 @@
       "user": "Chris Noring"
     },
     {
-      "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
-      "url": "https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e",
-      "published_at": "2026-03-04T17:28:14Z",
-      "description": "We're excited to announce our newest challenge in partnership with Major League Hacking (MLH) and...",
-      "tags": [
-        "notionchallenge",
-        "devchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qa4kduo001bwy9lwn4w.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Building a Local PR Review Interface for Claude Code Plans",
       "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
       "published_at": "2026-03-04T00:27:49Z",
@@ -133,32 +118,19 @@
       "user": "Ojie Oriarewo"
     },
     {
-      "title": "Gemini 3.1 Flash-Lite: Developer guide and use cases",
-      "url": "https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh",
-      "published_at": "2026-03-03T18:55:00Z",
-      "description": "Gemini 3.1 Flash-Lite is the high-volume, affordable powerhouse of the Gemini family. It’s...",
+      "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
+      "url": "https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e",
+      "published_at": "2026-03-04T17:28:14Z",
+      "description": "We're excited to announce our newest challenge in partnership with Major League Hacking (MLH) and...",
       "tags": [
-        "gemini",
-        "ai",
-        "coding"
+        "notionchallenge",
+        "devchallenge",
+        "mcp",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5s5sepylgzwml9we0agc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qa4kduo001bwy9lwn4w.png",
       "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
-      "published_at": "2026-03-03T18:54:28Z",
-      "description": "Today, we're introducing Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series...",
-      "tags": [
-        "gemini",
-        "ai",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
-      "source": "Dev.to",
-      "user": "Alisa Fortin"
+      "user": "Jess Lee"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -281,6 +253,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Oooh very interesting",
+      "url": "https://dev.to/ben/oooh-very-interesting-ohk",
+      "published_at": "2026-03-03T16:12:24Z",
+      "description": "Gemini 3.1 Flash-Lite: Developer guide...",
+      "tags": [
+        "gemini",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -294,6 +280,64 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "I ship software with 13 AI agents. Here's what that actually looks like",
+      "url": "https://dev.to/nmelo/i-ship-software-with-13-ai-agents-heres-what-that-actually-looks-like-420c",
+      "published_at": "2026-03-03T15:30:49Z",
+      "description": "This is my terminal right now.    13 Claude Code agents, each in its own tmux pane, working on the...",
+      "tags": [
+        "ai",
+        "agents",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5ctnywtfrv6tfeesmgc.png",
+      "source": "Dev.to",
+      "user": "nmelo"
+    },
+    {
+      "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
+      "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
+      "published_at": "2026-03-03T17:21:42Z",
+      "description": "Every week I ship a new piece of warrantyAI — an AI-powered warranty management system I'm building...",
+      "tags": [
+        "aws",
+        "serverless",
+        "ai",
+        "bedrock"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
+      "source": "Dev.to",
+      "user": "Harish Aravindan"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite: Developer guide and use cases",
+      "url": "https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh",
+      "published_at": "2026-03-03T18:55:00Z",
+      "description": "Gemini 3.1 Flash-Lite is the high-volume, affordable powerhouse of the Gemini family. It’s...",
+      "tags": [
+        "gemini",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5s5sepylgzwml9we0agc.png",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
+      "published_at": "2026-03-03T18:54:28Z",
+      "description": "Today, we're introducing Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series...",
+      "tags": [
+        "gemini",
+        "ai",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
+      "source": "Dev.to",
+      "user": "Alisa Fortin"
     },
     {
       "title": "How to Switch from ChatGPT to Claude Without Losing Context",
@@ -559,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "wahdalo"
     },
     {
@@ -574,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1021,
       "user": "LeoYeAI"
     },
     {
@@ -589,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 548,
       "user": "elder-plinius"
     },
     {
@@ -604,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 364,
       "user": "chenhg5"
     },
     {
@@ -624,21 +668,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "i built a social platform where everything vanishes after 24 hours",
-      "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
-      "published_at": "2026-03-03T04:44:50Z",
-      "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
-      "tags": [
-        "socialmedia",
-        "showdev",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
-      "source": "Dev.to",
-      "user": "Ovi ren"
-    },
     {
       "title": "React: Singletons aren't as evil as you think",
       "url": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
@@ -669,19 +698,19 @@
       "user": "Vatsal Trivedi"
     },
     {
-      "title": "The Server-Side Mocking Gap Nobody Talks About",
-      "url": "https://dev.to/rrafatpanah/the-server-side-mocking-gap-nobody-talks-about-36jb",
-      "published_at": "2026-03-04T01:44:04Z",
-      "description": "Per-test server-side mocking using MSW, Playwright, and any fullstack framework.",
+      "title": "i built a social platform where everything vanishes after 24 hours",
+      "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
+      "published_at": "2026-03-03T04:44:50Z",
+      "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
       "tags": [
+        "socialmedia",
+        "showdev",
         "webdev",
-        "playwright",
-        "tanstack",
-        "react"
+        "typescript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o0qqt887p61qum8o6mn.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
-      "user": "Raphael Rafatpanah"
+      "user": "Ovi ren"
     },
     {
       "title": "Mastering JavaScript Array Methods: A Beginner's Guide",
@@ -727,6 +756,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4j58fo29ivmj9o4xwn5.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
+    },
+    {
+      "title": "The Server-Side Mocking Gap Nobody Talks About",
+      "url": "https://dev.to/rrafatpanah/the-server-side-mocking-gap-nobody-talks-about-36jb",
+      "published_at": "2026-03-04T01:44:04Z",
+      "description": "Per-test server-side mocking using MSW, Playwright, and any fullstack framework.",
+      "tags": [
+        "webdev",
+        "playwright",
+        "tanstack",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o0qqt887p61qum8o6mn.png",
+      "source": "Dev.to",
+      "user": "Raphael Rafatpanah"
     },
     {
       "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
@@ -964,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "wahdalo"
     },
     {
@@ -1176,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1462,
       "user": "ylytdeng"
     },
     {
@@ -1191,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1257,
       "user": "World-Open-Graph"
     },
     {
@@ -1206,8 +1250,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1021,
       "user": "LeoYeAI"
+    },
+    {
+      "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "published_at": "2026-03-03T19:37:51Z",
+      "description": "obliterate the chains that bind you",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
+      "source": "GitHub",
+      "stars": 548,
+      "user": "elder-plinius"
     },
     {
       "title": "kossisoroyce/timber - Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
@@ -1223,21 +1282,6 @@
       "source": "GitHub",
       "stars": 546,
       "user": "kossisoroyce"
-    },
-    {
-      "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "published_at": "2026-03-03T19:37:51Z",
-      "description": "obliterate the chains that bind you",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
-      "source": "GitHub",
-      "stars": 516,
-      "user": "elder-plinius"
     }
   ],
   "DevOps": [
@@ -1454,6 +1498,21 @@
       "user": "Warren Parad"
     },
     {
+      "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
+      "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
+      "published_at": "2026-03-03T17:21:42Z",
+      "description": "Every week I ship a new piece of warrantyAI — an AI-powered warranty management system I'm building...",
+      "tags": [
+        "aws",
+        "serverless",
+        "ai",
+        "bedrock"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
+      "source": "Dev.to",
+      "user": "Harish Aravindan"
+    },
+    {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
       "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
       "published_at": "2026-03-01T13:53:25Z",
@@ -1523,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1462,
       "user": "ylytdeng"
     }
   ],
@@ -1722,35 +1781,6 @@
       "user": "Matty Stratton"
     },
     {
-      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
-      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
-      "published_at": "2026-03-03T11:32:27Z",
-      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
-      "tags": [
-        "webdevwebdev",
-        "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
-      "source": "Dev.to",
-      "user": "Eastkap"
-    },
-    {
-      "title": "Getting Unix Tools to Work in PowerShell: A Debugging War Story",
-      "url": "https://dev.to/ankitg12/getting-unix-tools-to-work-in-powershell-a-debugging-war-story-1ipl",
-      "published_at": "2026-03-03T05:33:32Z",
-      "description": "Generated by Claude (Anthropic) based on a real debugging session with @ankitg12. This post exists...",
-      "tags": [
-        "powershell",
-        "windows",
-        "tutorial",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwv30hqb9u1tfkqg913u7.png",
-      "source": "Dev.to",
-      "user": "Ankit Gaur"
-    },
-    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -1794,6 +1824,65 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "I ship software with 13 AI agents. Here's what that actually looks like",
+      "url": "https://dev.to/nmelo/i-ship-software-with-13-ai-agents-heres-what-that-actually-looks-like-420c",
+      "published_at": "2026-03-03T15:30:49Z",
+      "description": "This is my terminal right now.    13 Claude Code agents, each in its own tmux pane, working on the...",
+      "tags": [
+        "ai",
+        "agents",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5ctnywtfrv6tfeesmgc.png",
+      "source": "Dev.to",
+      "user": "nmelo"
+    },
+    {
+      "title": "I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots",
+      "url": "https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob",
+      "published_at": "2026-03-03T13:38:00Z",
+      "description": "Every team has those files. The ones everyone knows are dangerous. The ones where a \"simple\" change...",
+      "tags": [
+        "codequality",
+        "developertools",
+        "techdebt",
+        "staticanalysis"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcreo4nb0mbkbkedb3j45.png",
+      "source": "Dev.to",
+      "user": "Stephen Collins"
+    },
+    {
+      "title": "Getting Unix Tools to Work in PowerShell: A Debugging War Story",
+      "url": "https://dev.to/ankitg12/getting-unix-tools-to-work-in-powershell-a-debugging-war-story-1ipl",
+      "published_at": "2026-03-03T05:33:32Z",
+      "description": "Generated by Claude (Anthropic) based on a real debugging session with @ankitg12. This post exists...",
+      "tags": [
+        "powershell",
+        "windows",
+        "tutorial",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwv30hqb9u1tfkqg913u7.png",
+      "source": "Dev.to",
+      "user": "Ankit Gaur"
+    },
+    {
+      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
+      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
+      "published_at": "2026-03-03T11:32:27Z",
+      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
+      "tags": [
+        "webdevwebdev",
+        "javascript",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
+      "source": "Dev.to",
+      "user": "Eastkap"
     },
     {
       "title": "I Built a Claude Code Slash Command for OWASP Top 10:2025, NIST CSF 2.0 and 850+ Security Checks",
@@ -1867,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "wahdalo"
     },
     {
@@ -1912,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1462,
       "user": "ylytdeng"
     },
     {
@@ -1927,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1257,
       "user": "World-Open-Graph"
     },
     {
@@ -1942,8 +2031,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1021,
       "user": "LeoYeAI"
+    },
+    {
+      "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "published_at": "2026-03-03T19:37:51Z",
+      "description": "obliterate the chains that bind you",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
+      "source": "GitHub",
+      "stars": 548,
+      "user": "elder-plinius"
     },
     {
       "title": "kossisoroyce/timber - Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
@@ -1961,21 +2065,6 @@
       "user": "kossisoroyce"
     },
     {
-      "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "published_at": "2026-03-03T19:37:51Z",
-      "description": "obliterate the chains that bind you",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
-      "source": "GitHub",
-      "stars": 516,
-      "user": "elder-plinius"
-    },
-    {
       "title": "chenhg5/cc-connect - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
       "url": "https://github.com/chenhg5/cc-connect",
       "published_at": "2026-02-28T02:39:39Z",
@@ -1987,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 364,
       "user": "chenhg5"
     },
     {
@@ -2032,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 160,
       "user": "LeoChen-CoreMind"
     },
     {
