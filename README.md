@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (31.4%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 34 (32.4%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **WebDev**: 🟦🟦🟦 8 (7.6%)
 
@@ -60,20 +60,20 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.0 (31.0%)
-Java            ███████████████████████ 24.1 (24.1%)
-Go              █████████████████████ 21.8 (21.8%)
-Python          ████████████████████ 20.7 (20.7%)
-PHP             ██ 2.3 (2.3%)
+JavaScript      ██████████████████████████████ 30.3 (30.3%)
+Java            ████████████████████████ 24.7 (24.7%)
+Python          █████████████████████ 21.3 (21.3%)
+Go              █████████████████████ 21.3 (21.3%)
+PHP             ██ 2.2 (2.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 27
-    "Java" : 21
+    "Java" : 22
+    "Python" : 19
     "Go" : 19
-    "Python" : 18
     "PHP" : 2
 ```
 
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![geminireflections](https://img.shields.io/badge/geminireflections-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![productivity](https://img.shields.io/badge/productivity-11-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![geminireflections](https://img.shields.io/badge/geminireflections-5-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-05 17:00 CAT)
+## 📅 Latest Updates (2026-03-05 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -147,6 +147,26 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg" width="200" alt="The Old Seniority Definition Is Collapsing" />
+      <br/>
+      <b>The Old Seniority Definition Is Collapsing</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png" width="200" alt="How Claude Skills Replaced Our Documentation" />
+      <br/>
+      <b>How Claude Skills Replaced Our Documentation</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozcggfsouuv2shb8vpiz.png" width="200" alt="React: Singletons aren't as evil as you think" />
       <br/>
@@ -155,31 +175,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbpwdww315c2rc7mm5rf6.png" width="200" alt="I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened." />
       <br/>
       <b>I Plugged Gemini Into My 10,000-Line Rental Platfo...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpj4ubriv25dlile9352m.png" width="200" alt="Retention Over Clicks: A Surprising Lesson from Browser Game Analytics" />
-      <br/>
-      <b>Retention Over Clicks: A Surprising Lesson from Br...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2054xkke008f1jqg3n6.jpg" width="200" alt="SQLite as an MCP context saver: stop cramming raw API data into your LLM" />
-      <br/>
-      <b>SQLite as an MCP context saver: stop cramming raw ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -193,15 +193,17 @@ npm run test
 
 - [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6) _[Dev.to]_
 - [What’s the Worst Advice AI Has Given You? Here’s Mine.](https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4) _[Dev.to]_
+- [The Old Seniority Definition Is Collapsing](https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj) _[Dev.to]_
+- [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
 - [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8) _[Dev.to]_
 - [I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened.](https://dev.to/wilhelm_tell/i-plugged-gemini-into-my-10000-line-rental-platform-heres-what-happened-2epi) _[Dev.to]_
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 - [SQLite as an MCP context saver: stop cramming raw API data into your LLM](https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0) _[Dev.to]_
+- [I Shipped Broken Code and Wrote an Article About It](https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p) _[Dev.to]_
 - [Welcome Thread - v367](https://dev.to/devteam/welcome-thread-v367-33cn) _[Dev.to]_
 - [Get started with GitHub Copilot SDK](https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm) _[Dev.to]_
-- [I Shipped Broken Code and Wrote an Article About It](https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p) _[Dev.to]_
 - [Join the Notion MCP Challenge: $1,500 in Prizes!](https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e) _[Dev.to]_
 - [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
 - [Securing CI/CD Access to AWS](https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7) _[Dev.to]_
@@ -209,10 +211,8 @@ npm run test
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
 - [Coding Agents Are Actually Good at This One Thing](https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej) _[Dev.to]_
 - [Mastering JavaScript Arrays: A Beginner's Guide to Organize Data Like a Pro](https://dev.to/ritam369/mastering-javascript-arrays-a-beginners-guide-to-organize-data-like-a-pro-2dk0) _[Dev.to]_
-- [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
-- [I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12) _[Dev.to]_
 
-_Last automated update: Thu, 05 Mar 2026 17:27:06 CAT_
+_Last automated update: Thu, 05 Mar 2026 18:10:03 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Thu, 05 Mar 2026 17:27:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. React: How would you optimize a React app's performance?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 05 Mar 2026 15:27:06 GMT</b><br/>
+  <b>Last automated update: Thu, 05 Mar 2026 16:10:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
