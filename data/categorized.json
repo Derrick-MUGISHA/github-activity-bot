@@ -31,6 +31,36 @@
       "user": "Daniel Balcarek"
     },
     {
+      "title": "The Old Seniority Definition Is Collapsing",
+      "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
+      "published_at": "2026-03-05T08:40:59Z",
+      "description": "For a long time, “senior developer” was a fairly consistent signal. You expected someone who could...",
+      "tags": [
+        "ai",
+        "programming",
+        "python",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
+      "title": "How Claude Skills Replaced Our Documentation",
+      "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
+      "published_at": "2026-03-05T07:49:58Z",
+      "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
+      "tags": [
+        "webdev",
+        "ai",
+        "documentation",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
+      "source": "Dev.to",
+      "user": "Magnus Rødseth"
+    },
+    {
       "title": "SQLite as an MCP context saver: stop cramming raw API data into your LLM",
       "url": "https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4",
       "published_at": "2026-03-04T14:40:33Z",
@@ -43,21 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2054xkke008f1jqg3n6.jpg",
       "source": "Dev.to",
       "user": "Richard Baxter"
-    },
-    {
-      "title": "Get started with GitHub Copilot SDK",
-      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
-      "published_at": "2026-03-04T20:48:00Z",
-      "description": "This article explains what GitHub Copilot SDK is and why use it",
-      "tags": [
-        "githubcopilot",
-        "python",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
-      "source": "Dev.to",
-      "user": "Chris Noring"
     },
     {
       "title": "I Shipped Broken Code and Wrote an Article About It",
@@ -73,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Get started with GitHub Copilot SDK",
+      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
+      "published_at": "2026-03-04T20:48:00Z",
+      "description": "This article explains what GitHub Copilot SDK is and why use it",
+      "tags": [
+        "githubcopilot",
+        "python",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
+      "source": "Dev.to",
+      "user": "Chris Noring"
     },
     {
       "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
@@ -221,20 +251,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
       "source": "Dev.to",
       "user": "aileen vl"
-    },
-    {
-      "title": "Oooh very interesting",
-      "url": "https://dev.to/ben/oooh-very-interesting-ohk",
-      "published_at": "2026-03-03T16:12:24Z",
-      "description": "Gemini 3.1 Flash-Lite: Developer guide...",
-      "tags": [
-        "gemini",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
@@ -618,7 +634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 74,
       "user": "ygwyg"
     },
     {
@@ -633,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1098,
+      "stars": 1100,
       "user": "LeoYeAI"
     },
     {
@@ -648,7 +664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1075,
       "user": "elder-plinius"
     },
     {
@@ -663,7 +679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "chenhg5"
     },
     {
@@ -683,6 +699,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "The Old Seniority Definition Is Collapsing",
+      "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
+      "published_at": "2026-03-05T08:40:59Z",
+      "description": "For a long time, “senior developer” was a fairly consistent signal. You expected someone who could...",
+      "tags": [
+        "ai",
+        "programming",
+        "python",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
     {
       "title": "React: Singletons aren't as evil as you think",
       "url": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
@@ -741,21 +772,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4j58fo29ivmj9o4xwn5.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
-    },
-    {
-      "title": "The Server-Side Mocking Gap Nobody Talks About",
-      "url": "https://dev.to/rrafatpanah/the-server-side-mocking-gap-nobody-talks-about-36jb",
-      "published_at": "2026-03-04T01:44:04Z",
-      "description": "Per-test server-side mocking using MSW, Playwright, and any fullstack framework.",
-      "tags": [
-        "webdev",
-        "playwright",
-        "tanstack",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o0qqt887p61qum8o6mn.png",
-      "source": "Dev.to",
-      "user": "Raphael Rafatpanah"
     },
     {
       "title": "Mastering JavaScript Array Methods: A Beginner's Guide",
@@ -993,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "r3nzsec"
     },
     {
@@ -1053,11 +1069,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 74,
       "user": "ygwyg"
     }
   ],
   "Python": [
+    {
+      "title": "The Old Seniority Definition Is Collapsing",
+      "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
+      "published_at": "2026-03-05T08:40:59Z",
+      "description": "For a long time, “senior developer” was a fairly consistent signal. You expected someone who could...",
+      "tags": [
+        "ai",
+        "programming",
+        "python",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
     {
       "title": "Get started with GitHub Copilot SDK",
       "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
@@ -1235,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1481,
+      "stars": 1485,
       "user": "ylytdeng"
     },
     {
@@ -1250,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1280,
       "user": "World-Open-Graph"
     },
     {
@@ -1265,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1098,
+      "stars": 1100,
       "user": "LeoYeAI"
     },
     {
@@ -1280,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1075,
       "user": "elder-plinius"
     },
     {
@@ -1295,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 859,
       "user": "phuryn"
     }
   ],
@@ -1582,7 +1613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "r3nzsec"
     },
     {
@@ -1597,7 +1628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1481,
+      "stars": 1485,
       "user": "ylytdeng"
     }
   ],
@@ -1662,19 +1693,19 @@
   ],
   "Tools": [
     {
-      "title": "Get started with GitHub Copilot SDK",
-      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
-      "published_at": "2026-03-04T20:48:00Z",
-      "description": "This article explains what GitHub Copilot SDK is and why use it",
+      "title": "How Claude Skills Replaced Our Documentation",
+      "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
+      "published_at": "2026-03-05T07:49:58Z",
+      "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
       "tags": [
-        "githubcopilot",
-        "python",
+        "webdev",
         "ai",
-        "programming"
+        "documentation",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
       "source": "Dev.to",
-      "user": "Chris Noring"
+      "user": "Magnus Rødseth"
     },
     {
       "title": "I Shipped Broken Code and Wrote an Article About It",
@@ -1690,6 +1721,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Get started with GitHub Copilot SDK",
+      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
+      "published_at": "2026-03-04T20:48:00Z",
+      "description": "This article explains what GitHub Copilot SDK is and why use it",
+      "tags": [
+        "githubcopilot",
+        "python",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
+      "source": "Dev.to",
+      "user": "Chris Noring"
     },
     {
       "title": "Securing CI/CD Access to AWS",
@@ -1941,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "r3nzsec"
     },
     {
@@ -2001,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 74,
       "user": "ygwyg"
     },
     {
@@ -2016,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1481,
+      "stars": 1485,
       "user": "ylytdeng"
     },
     {
@@ -2031,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1280,
       "user": "World-Open-Graph"
     },
     {
@@ -2046,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1098,
+      "stars": 1100,
       "user": "LeoYeAI"
     },
     {
@@ -2061,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1075,
       "user": "elder-plinius"
     },
     {
@@ -2076,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 859,
       "user": "phuryn"
     },
     {
@@ -2091,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "chenhg5"
     },
     {
@@ -2106,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 299,
       "user": "Resinat"
     },
     {
@@ -2136,7 +2182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 183,
       "user": "LeoChen-CoreMind"
     },
     {
