@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
 
@@ -36,11 +36,11 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**WebDev**: 🟦🟦🟦 8 (7.6%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
+
+**DevOps**: 🟦🟦 4 (3.8%)
 
 **Database**: 🟦🟦 4 (3.8%)
-
-**DevOps**: 🟦 3 (2.9%)
 
 **Cloud**: 🟦 3 (2.9%)
 
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-05 23:00 CAT)
+## 📅 Latest Updates (2026-03-06 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -138,10 +138,30 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozcggfsouuv2shb8vpiz.png" width="200" alt="React: Singletons aren't as evil as you think" />
+      <br/>
+      <b>React: Singletons aren't as evil as you think</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png" width="200" alt="How Claude Skills Replaced Our Documentation" />
       <br/>
       <b>How Claude Skills Replaced Our Documentation</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpj4ubriv25dlile9352m.png" width="200" alt="Retention Over Clicks: A Surprising Lesson from Browser Game Analytics" />
+      <br/>
+      <b>Retention Over Clicks: A Surprising Lesson from Br...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -155,31 +175,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozcggfsouuv2shb8vpiz.png" width="200" alt="React: Singletons aren't as evil as you think" />
+    <a href="https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png" width="200" alt="The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics" />
       <br/>
-      <b>React: Singletons aren't as evil as you think</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpj4ubriv25dlile9352m.png" width="200" alt="Retention Over Clicks: A Surprising Lesson from Browser Game Analytics" />
-      <br/>
-      <b>Retention Over Clicks: A Surprising Lesson from Br...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png" width="200" alt="I built a tiny Linux tool that shouts “FAHH” when I type the wrong command" />
-      <br/>
-      <b>I built a tiny Linux tool that shouts “FAHH” when ...</b>
+      <b>The Silent Behavioral Shift: Why GPT-5.4 Exposes t...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -192,10 +192,11 @@ npm run test
 ### 📰 Top Headlines
 
 - [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6) _[Dev.to]_
-- [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
-- [The Old Seniority Definition Is Collapsing](https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj) _[Dev.to]_
 - [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8) _[Dev.to]_
+- [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
+- [The Old Seniority Definition Is Collapsing](https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj) _[Dev.to]_
+- [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [I built a tiny Linux tool that shouts “FAHH” when I type the wrong command](https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 - [What’s the Worst Advice AI Has Given You? Here’s Mine.](https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4) _[Dev.to]_
@@ -210,9 +211,8 @@ npm run test
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 - [SQLite as an MCP context saver: stop cramming raw API data into your LLM](https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4) _[Dev.to]_
 - [How I Use Multi-Agent AI to Debug Production Errors in My Laravel App](https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90) _[Dev.to]_
-- [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
 
-_Last automated update: Thu, 05 Mar 2026 23:49:53 CAT_
+_Last automated update: Fri, 06 Mar 2026 00:27:34 CAT_
 
 
 
@@ -220,7 +220,29 @@ _Last automated update: Thu, 05 Mar 2026 23:49:53 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. SystemDesign: Design Twitter's timeline feature
+
+**Difficulty**: Hard | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Fan-out, caching, ranking, real-time updates
+
+</details>
+
+### 2. SystemDesign: How would you design a rate limiter?
+
+**Difficulty**: Medium | **Topics**: system design, algorithms
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, distributed systems
+
+</details>
+
+### 3. NodeJS: Explain middleware in Express.js
 
 **Difficulty**: Easy | **Topics**: express, architecture
 
@@ -228,28 +250,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Request/response cycle, next(), chain of functions
-
-</details>
-
-### 2. Python: Explain GIL and its implications for multithreading
-
-**Difficulty**: Hard | **Topics**: concurrency, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-Global Interpreter Lock, multiprocessing alternatives
-
-</details>
-
-### 3. DataStructures: Implement a function to reverse a linked list
-
-**Difficulty**: Medium | **Topics**: linked lists, pointers
-
-<details>
-<summary>💡 Hint</summary>
-
-Iterative or recursive, three pointers
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 05 Mar 2026 21:49:53 GMT</b><br/>
+  <b>Last automated update: Thu, 05 Mar 2026 22:27:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -46,6 +46,21 @@
       "user": "marcosomma"
     },
     {
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
+      "tags": [
+        "observability",
+        "webdev",
+        "monitoring",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
+      "source": "Dev.to",
+      "user": "Sovereign Revenue Guard"
+    },
+    {
       "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
       "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
       "published_at": "2026-03-04T15:02:08Z",
@@ -646,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1304,
       "user": "elder-plinius"
     },
     {
@@ -697,6 +712,20 @@
   ],
   "JavaScript": [
     {
+      "title": "React: Singletons aren't as evil as you think",
+      "url": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
+      "published_at": "2026-03-04T18:43:16Z",
+      "description": "In the world of React, the humble singleton gets a bit of a bad rap. It is often dismissed as a messy...",
+      "tags": [
+        "react",
+        "webdev",
+        "singleton"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozcggfsouuv2shb8vpiz.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
+    },
+    {
       "title": "The Old Seniority Definition Is Collapsing",
       "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
       "published_at": "2026-03-05T08:40:59Z",
@@ -710,20 +739,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "React: Singletons aren't as evil as you think",
-      "url": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
-      "published_at": "2026-03-04T18:43:16Z",
-      "description": "In the world of React, the humble singleton gets a bit of a bad rap. It is often dismissed as a messy...",
-      "tags": [
-        "react",
-        "webdev",
-        "singleton"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozcggfsouuv2shb8vpiz.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
     },
     {
       "title": "i built a social platform where everything vanishes after 24 hours",
@@ -1267,21 +1282,6 @@
       "user": "ylytdeng"
     },
     {
-      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
-      "url": "https://github.com/World-Open-Graph/br-acc",
-      "published_at": "2026-03-01T15:24:07Z",
-      "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
-      "source": "GitHub",
-      "stars": 1297,
-      "user": "World-Open-Graph"
-    },
-    {
       "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "published_at": "2026-03-03T19:37:51Z",
@@ -1293,8 +1293,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1304,
       "user": "elder-plinius"
+    },
+    {
+      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
+      "url": "https://github.com/World-Open-Graph/br-acc",
+      "published_at": "2026-03-01T15:24:07Z",
+      "description": "World Transparency Graph public codebase (🚧 website in progress)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
+      "source": "GitHub",
+      "stars": 1300,
+      "user": "World-Open-Graph"
     },
     {
       "title": "phuryn/pm-skills - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
@@ -1308,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1236,
+      "stars": 1280,
       "user": "phuryn"
     },
     {
@@ -1328,6 +1343,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
+      "tags": [
+        "observability",
+        "webdev",
+        "monitoring",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
+      "source": "Dev.to",
+      "user": "Sovereign Revenue Guard"
+    },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
@@ -1375,6 +1405,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
+      "tags": [
+        "observability",
+        "webdev",
+        "monitoring",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
+      "source": "Dev.to",
+      "user": "Sovereign Revenue Guard"
+    },
     {
       "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
       "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
@@ -2003,21 +2048,6 @@
       "user": "ylytdeng"
     },
     {
-      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
-      "url": "https://github.com/World-Open-Graph/br-acc",
-      "published_at": "2026-03-01T15:24:07Z",
-      "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
-      "source": "GitHub",
-      "stars": 1297,
-      "user": "World-Open-Graph"
-    },
-    {
       "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "published_at": "2026-03-03T19:37:51Z",
@@ -2029,8 +2059,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1304,
       "user": "elder-plinius"
+    },
+    {
+      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
+      "url": "https://github.com/World-Open-Graph/br-acc",
+      "published_at": "2026-03-01T15:24:07Z",
+      "description": "World Transparency Graph public codebase (🚧 website in progress)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
+      "source": "GitHub",
+      "stars": 1300,
+      "user": "World-Open-Graph"
     },
     {
       "title": "phuryn/pm-skills - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
@@ -2044,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1236,
+      "stars": 1280,
       "user": "phuryn"
     },
     {
