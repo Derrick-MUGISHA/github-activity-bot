@@ -31,20 +31,6 @@
       "user": "Daniel Balcarek"
     },
     {
-      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
-      "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
-      "published_at": "2026-03-04T00:02:48Z",
-      "description": "I stopped reviewing code and let Google Gemini build my UI. Then I audited the results to see what autonomy in AI development actually produces.",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
-    },
-    {
       "title": "I Shipped Broken Code and Wrote an Article About It",
       "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
       "published_at": "2026-03-04T11:13:54Z",
@@ -146,6 +132,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
+      "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
+      "published_at": "2026-03-04T00:02:48Z",
+      "description": "I stopped reviewing code and let Google Gemini build my UI. Then I audited the results to see what autonomy in AI development actually produces.",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
     },
     {
       "title": "I Run a Solo Company with AI Agent Departments",
@@ -603,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 98,
       "user": "wahdalo"
     },
     {
@@ -618,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1021,
+      "stars": 1028,
       "user": "LeoYeAI"
     },
     {
@@ -633,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 615,
       "user": "elder-plinius"
     },
     {
@@ -648,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "chenhg5"
     },
     {
@@ -1008,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 98,
       "user": "wahdalo"
     },
     {
@@ -1038,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122680327?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 69,
       "user": "fraternity-z"
     }
   ],
@@ -1220,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1462,
+      "stars": 1463,
       "user": "ylytdeng"
     },
     {
@@ -1250,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1021,
+      "stars": 1028,
       "user": "LeoYeAI"
     },
     {
@@ -1265,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 615,
       "user": "elder-plinius"
     },
     {
@@ -1582,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1462,
+      "stars": 1463,
       "user": "ylytdeng"
     }
   ],
@@ -1956,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 98,
       "user": "wahdalo"
     },
     {
@@ -1986,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122680327?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 69,
       "user": "fraternity-z"
     },
     {
@@ -2001,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1462,
+      "stars": 1463,
       "user": "ylytdeng"
     },
     {
@@ -2031,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1021,
+      "stars": 1028,
       "user": "LeoYeAI"
     },
     {
@@ -2046,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 615,
       "user": "elder-plinius"
     },
     {
@@ -2076,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "chenhg5"
     },
     {
@@ -2121,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 164,
       "user": "LeoChen-CoreMind"
     },
     {
