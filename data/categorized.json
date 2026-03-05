@@ -16,21 +16,6 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
-      "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
-      "published_at": "2026-03-04T15:02:08Z",
-      "description": "I recently saw a meme about terrible legacy code on platform X and it gave me an idea for a...",
-      "tags": [
-        "discuss",
-        "ai",
-        "chatgpt",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
-      "source": "Dev.to",
-      "user": "Daniel Balcarek"
-    },
-    {
       "title": "How Claude Skills Replaced Our Documentation",
       "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
       "published_at": "2026-03-05T07:49:58Z",
@@ -61,6 +46,21 @@
       "user": "marcosomma"
     },
     {
+      "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
+      "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
+      "published_at": "2026-03-04T15:02:08Z",
+      "description": "I recently saw a meme about terrible legacy code on platform X and it gave me an idea for a...",
+      "tags": [
+        "discuss",
+        "ai",
+        "chatgpt",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
+      "source": "Dev.to",
+      "user": "Daniel Balcarek"
+    },
+    {
       "title": "I Shipped Broken Code and Wrote an Article About It",
       "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
       "published_at": "2026-03-04T11:13:54Z",
@@ -74,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
+      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
+      "published_at": "2026-03-04T21:01:29Z",
+      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
+      "tags": [
+        "ai",
+        "opensource",
+        "programming",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0b25t9rnk2hseb0o8qx.png",
+      "source": "Dev.to",
+      "user": "Kevin Alemán"
     },
     {
       "title": "Get started with GitHub Copilot SDK",
@@ -133,21 +148,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
-    },
-    {
-      "title": "Coding Agents Are Actually Good at This One Thing",
-      "url": "https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej",
-      "published_at": "2026-03-01T20:31:28Z",
-      "description": "Coding agents aren't magic. But for internal tooling? They've brought back the \"just build the thing\" era I've been missing since Microsoft Access.",
-      "tags": [
-        "webdev",
-        "productivity",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
     },
     {
       "title": "SaaS Companies Fear Me: Cloning* Granola for Linux",
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "ygwyg"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1221,
       "user": "elder-plinius"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1115,
       "user": "LeoYeAI"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "chenhg5"
     },
     {
@@ -1006,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 145,
       "user": "r3nzsec"
     },
     {
@@ -1066,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "ygwyg"
     }
   ],
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1489,
+      "stars": 1490,
       "user": "ylytdeng"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1291,
+      "stars": 1293,
       "user": "World-Open-Graph"
     },
     {
@@ -1293,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1221,
       "user": "elder-plinius"
     },
     {
@@ -1308,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1115,
       "user": "LeoYeAI"
     },
     {
@@ -1323,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1106,
       "user": "phuryn"
     }
   ],
@@ -1595,7 +1595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 145,
       "user": "r3nzsec"
     },
     {
@@ -1610,7 +1610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1489,
+      "stars": 1490,
       "user": "ylytdeng"
     }
   ],
@@ -1675,6 +1675,21 @@
       "user": "Magnus Rødseth"
     },
     {
+      "title": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command",
+      "url": "https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio",
+      "published_at": "2026-03-05T13:53:48Z",
+      "description": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command   A few weeks ago...",
+      "tags": [
+        "cli",
+        "linux",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png",
+      "source": "Dev.to",
+      "user": "Hamza"
+    },
+    {
       "title": "I Shipped Broken Code and Wrote an Article About It",
       "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
       "published_at": "2026-03-04T11:13:54Z",
@@ -1718,21 +1733,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
-    },
-    {
-      "title": "Coding Agents Are Actually Good at This One Thing",
-      "url": "https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej",
-      "published_at": "2026-03-01T20:31:28Z",
-      "description": "Coding agents aren't magic. But for internal tooling? They've brought back the \"just build the thing\" era I've been missing since Microsoft Access.",
-      "tags": [
-        "webdev",
-        "productivity",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxoya791llxf4y6v2c81.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
     },
     {
       "title": "How I Use Multi-Agent AI to Debug Production Errors in My Laravel App",
@@ -1924,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 145,
       "user": "r3nzsec"
     },
     {
@@ -1984,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "ygwyg"
     },
     {
@@ -1999,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1489,
+      "stars": 1490,
       "user": "ylytdeng"
     },
     {
@@ -2014,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1291,
+      "stars": 1293,
       "user": "World-Open-Graph"
     },
     {
@@ -2029,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1221,
       "user": "elder-plinius"
     },
     {
@@ -2044,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1115,
       "user": "LeoYeAI"
     },
     {
@@ -2059,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1106,
       "user": "phuryn"
     },
     {
@@ -2074,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "chenhg5"
     },
     {
@@ -2089,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 314,
       "user": "Resinat"
     },
     {
