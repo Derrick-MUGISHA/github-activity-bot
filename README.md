@@ -212,7 +212,7 @@ npm run test
 - [How I Use Multi-Agent AI to Debug Production Errors in My Laravel App](https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90) _[Dev.to]_
 - [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9) _[Dev.to]_
 
-_Last automated update: Thu, 05 Mar 2026 23:00:28 CAT_
+_Last automated update: Thu, 05 Mar 2026 23:49:53 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Thu, 05 Mar 2026 23:00:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. React: What is the Virtual DOM and how does React use it?
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Iterative or recursive, three pointers
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 05 Mar 2026 21:00:28 GMT</b><br/>
+  <b>Last automated update: Thu, 05 Mar 2026 21:49:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
