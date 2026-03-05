@@ -106,21 +106,6 @@
       "user": "Chris Noring"
     },
     {
-      "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
-      "url": "https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e",
-      "published_at": "2026-03-04T17:28:14Z",
-      "description": "We're excited to announce our newest challenge in partnership with Major League Hacking (MLH) and...",
-      "tags": [
-        "notionchallenge",
-        "devchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qa4kduo001bwy9lwn4w.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
       "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
       "published_at": "2026-03-04T00:02:48Z",
@@ -310,21 +295,6 @@
       "user": "Kathryn Grayson Nanz"
     },
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
       "title": "I Run a Solo Company with AI Agent Departments",
       "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
       "published_at": "2026-03-03T10:41:20Z",
@@ -340,6 +310,21 @@
       "user": "João Pedro Silva Setas"
     },
     {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
+    },
+    {
       "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
       "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
       "published_at": "2026-03-03T17:21:42Z",
@@ -353,6 +338,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
       "source": "Dev.to",
       "user": "Harish Aravindan"
+    },
+    {
+      "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
+      "url": "https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e",
+      "published_at": "2026-03-04T17:28:14Z",
+      "description": "We're excited to announce our newest challenge in partnership with Major League Hacking (MLH) and...",
+      "tags": [
+        "notionchallenge",
+        "devchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qa4kduo001bwy9lwn4w.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "ygwyg"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1255,
       "user": "elder-plinius"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1119,
       "user": "LeoYeAI"
     },
     {
@@ -1066,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "ygwyg"
     }
   ],
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1293,
+      "stars": 1296,
       "user": "World-Open-Graph"
     },
     {
@@ -1293,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1255,
       "user": "elder-plinius"
     },
     {
@@ -1308,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1139,
+      "stars": 1188,
       "user": "phuryn"
     },
     {
@@ -1323,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1119,
       "user": "LeoYeAI"
     }
   ],
@@ -1839,21 +1839,6 @@
       "user": "Stephen Collins"
     },
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
       "title": "I Run a Solo Company with AI Agent Departments",
       "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
       "published_at": "2026-03-03T10:41:20Z",
@@ -1867,6 +1852,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
       "source": "Dev.to",
       "user": "João Pedro Silva Setas"
+    },
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
     },
     {
       "title": "Getting Unix Tools to Work in PowerShell: A Debugging War Story",
@@ -1984,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "ygwyg"
     },
     {
@@ -2014,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1293,
+      "stars": 1296,
       "user": "World-Open-Graph"
     },
     {
@@ -2029,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1255,
       "user": "elder-plinius"
     },
     {
@@ -2044,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1139,
+      "stars": 1188,
       "user": "phuryn"
     },
     {
@@ -2059,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1119,
       "user": "LeoYeAI"
     },
     {
