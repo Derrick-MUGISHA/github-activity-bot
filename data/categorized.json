@@ -11,7 +11,7 @@
         "devto",
         "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fip4stvvkffywe6r9lknf.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
       "source": "Dev.to",
       "user": "Jon Gottfried"
     },
@@ -252,6 +252,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "published_at": "2026-03-03T10:41:20Z",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
+      "source": "Dev.to",
+      "user": "João Pedro Silva Setas"
+    },
+    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -297,20 +312,6 @@
       "user": "Harish Aravindan"
     },
     {
-      "title": "Gemini 3.1 Flash-Lite: Developer guide and use cases",
-      "url": "https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh",
-      "published_at": "2026-03-03T18:55:00Z",
-      "description": "Gemini 3.1 Flash-Lite is the high-volume, affordable powerhouse of the Gemini family. It’s...",
-      "tags": [
-        "gemini",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5s5sepylgzwml9we0agc.png",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
       "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
       "published_at": "2026-03-03T18:54:28Z",
@@ -323,6 +324,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
       "source": "Dev.to",
       "user": "Alisa Fortin"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite: Developer guide and use cases",
+      "url": "https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh",
+      "published_at": "2026-03-03T18:55:00Z",
+      "description": "Gemini 3.1 Flash-Lite is the high-volume, affordable powerhouse of the Gemini family. It’s...",
+      "tags": [
+        "gemini",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5s5sepylgzwml9we0agc.png",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
     },
     {
       "title": "How to Switch from ChatGPT to Claude Without Losing Context",
@@ -385,6 +400,21 @@
       "user": "Lisa Cee"
     },
     {
+      "title": "Meme Monday",
+      "url": "https://dev.to/raddevus/meme-monday-5d21",
+      "published_at": "2026-03-02T18:31:16Z",
+      "description": "Meme Monday   I can't wait all day for this site to start the Meme Monday post, so here it...",
+      "tags": [
+        "community",
+        "discuss",
+        "programming",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
+      "source": "Dev.to",
+      "user": "raddevus"
+    },
+    {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
       "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
       "published_at": "2026-03-01T13:53:25Z",
@@ -428,21 +458,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
-    },
-    {
-      "title": "The Token Economy",
-      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
-      "published_at": "2026-02-26T13:36:47Z",
-      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
     },
     {
       "title": "Airfoil",
@@ -603,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1081,
       "user": "LeoYeAI"
     },
     {
@@ -618,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 954,
       "user": "elder-plinius"
     },
     {
@@ -633,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "chenhg5"
     },
     {
@@ -741,6 +756,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o0qqt887p61qum8o6mn.png",
       "source": "Dev.to",
       "user": "Raphael Rafatpanah"
+    },
+    {
+      "title": "Mastering JavaScript Array Methods: A Beginner's Guide",
+      "url": "https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89",
+      "published_at": "2026-03-03T19:33:15Z",
+      "description": "Introduction   Hello, my fellow readers! If you're just starting out with JavaScript array...",
+      "tags": [
+        "javascript",
+        "beginners",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkg8u2horqo0ehw6o20h0.png",
+      "source": "Dev.to",
+      "user": "Ritam Saha"
     },
     {
       "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
@@ -948,7 +978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "r3nzsec"
     },
     {
@@ -1190,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1474,
       "user": "ylytdeng"
     },
     {
@@ -1205,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1271,
       "user": "World-Open-Graph"
     },
     {
@@ -1220,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1081,
       "user": "LeoYeAI"
     },
     {
@@ -1235,23 +1265,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 954,
       "user": "elder-plinius"
     },
     {
-      "title": "kossisoroyce/timber - Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
-      "url": "https://github.com/kossisoroyce/timber",
-      "published_at": "2026-02-27T23:27:36Z",
-      "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
+      "title": "phuryn/pm-skills - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "url": "https://github.com/phuryn/pm-skills",
+      "published_at": "2026-03-01T23:33:44Z",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65903011?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 551,
-      "user": "kossisoroyce"
+      "stars": 651,
+      "user": "phuryn"
     }
   ],
   "DevOps": [
@@ -1537,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "r3nzsec"
     },
     {
@@ -1552,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1474,
       "user": "ylytdeng"
     }
   ],
@@ -1766,6 +1796,36 @@
       "user": "Amara Graham"
     },
     {
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "published_at": "2026-03-03T10:41:20Z",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
+      "source": "Dev.to",
+      "user": "João Pedro Silva Setas"
+    },
+    {
+      "title": "I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots",
+      "url": "https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob",
+      "published_at": "2026-03-03T13:38:00Z",
+      "description": "Every team has those files. The ones everyone knows are dangerous. The ones where a \"simple\" change...",
+      "tags": [
+        "codequality",
+        "developertools",
+        "techdebt",
+        "staticanalysis"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcreo4nb0mbkbkedb3j45.png",
+      "source": "Dev.to",
+      "user": "Stephen Collins"
+    },
+    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -1794,21 +1854,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5ctnywtfrv6tfeesmgc.png",
       "source": "Dev.to",
       "user": "nmelo"
-    },
-    {
-      "title": "I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots",
-      "url": "https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob",
-      "published_at": "2026-03-03T13:38:00Z",
-      "description": "Every team has those files. The ones everyone knows are dangerous. The ones where a \"simple\" change...",
-      "tags": [
-        "codequality",
-        "developertools",
-        "techdebt",
-        "staticanalysis"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcreo4nb0mbkbkedb3j45.png",
-      "source": "Dev.to",
-      "user": "Stephen Collins"
     },
     {
       "title": "Getting Unix Tools to Work in PowerShell: A Debugging War Story",
@@ -1881,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "r3nzsec"
     },
     {
@@ -1956,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1474,
       "user": "ylytdeng"
     },
     {
@@ -1971,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1271,
       "user": "World-Open-Graph"
     },
     {
@@ -1986,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1081,
       "user": "LeoYeAI"
     },
     {
@@ -2001,23 +2046,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 954,
       "user": "elder-plinius"
     },
     {
-      "title": "kossisoroyce/timber - Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
-      "url": "https://github.com/kossisoroyce/timber",
-      "published_at": "2026-02-27T23:27:36Z",
-      "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
+      "title": "phuryn/pm-skills - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "url": "https://github.com/phuryn/pm-skills",
+      "published_at": "2026-03-01T23:33:44Z",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65903011?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 551,
-      "user": "kossisoroyce"
+      "stars": 651,
+      "user": "phuryn"
     },
     {
       "title": "chenhg5/cc-connect - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
@@ -2031,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "chenhg5"
     },
     {
@@ -2076,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "LeoChen-CoreMind"
     },
     {
