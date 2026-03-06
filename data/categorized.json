@@ -106,20 +106,6 @@
       "user": "Kevin Alemán"
     },
     {
-      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
-      "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
-      "published_at": "2026-03-04T00:02:48Z",
-      "description": "I stopped reviewing code and let Google Gemini build my UI. Then I audited the results to see what autonomy in AI development actually produces.",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -382,6 +368,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb62b790le120w4w5r89q.jpg",
       "source": "Dev.to",
       "user": "Ali Farhat"
+    },
+    {
+      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
+      "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
+      "published_at": "2026-03-04T00:02:48Z",
+      "description": "I stopped reviewing code and let Google Gemini build my UI. Then I audited the results to see what autonomy in AI development actually produces.",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
     },
     {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 92,
       "user": "ygwyg"
     },
     {
@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1369,
+      "stars": 1429,
       "user": "elder-plinius"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1152,
       "user": "LeoYeAI"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 394,
       "user": "chenhg5"
     },
     {
@@ -707,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "geekjourneyx"
     },
     {
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "Enriquefft"
     }
   ],
@@ -1082,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 92,
       "user": "ygwyg"
     },
     {
@@ -1268,21 +1268,6 @@
       "user": "gilad"
     },
     {
-      "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "url": "https://github.com/ylytdeng/wechat-decrypt",
-      "published_at": "2026-02-28T04:03:44Z",
-      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
-      "source": "GitHub",
-      "stars": 1493,
-      "user": "ylytdeng"
-    },
-    {
       "title": "phuryn/pm-skills - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "url": "https://github.com/phuryn/pm-skills",
       "published_at": "2026-03-01T23:33:44Z",
@@ -1294,8 +1279,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1418,
+      "stars": 1654,
       "user": "phuryn"
+    },
+    {
+      "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "url": "https://github.com/ylytdeng/wechat-decrypt",
+      "published_at": "2026-02-28T04:03:44Z",
+      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
+      "source": "GitHub",
+      "stars": 1508,
+      "user": "ylytdeng"
     },
     {
       "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1369,
+      "stars": 1429,
       "user": "elder-plinius"
     },
     {
@@ -1324,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1311,
       "user": "World-Open-Graph"
     },
     {
@@ -1339,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1152,
       "user": "LeoYeAI"
     }
   ],
@@ -1437,20 +1437,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
-      "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
-      "published_at": "2026-03-04T00:02:48Z",
-      "description": "I stopped reviewing code and let Google Gemini build my UI. Then I audited the results to see what autonomy in AI development actually produces.",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
-    },
-    {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
       "published_at": "2026-02-22T15:16:30Z",
@@ -1464,6 +1450,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch7vqjii90e7m04icowr.png",
       "source": "Dev.to",
       "user": "Anja Beisel"
+    },
+    {
+      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
+      "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
+      "published_at": "2026-03-04T00:02:48Z",
+      "description": "I stopped reviewing code and let Google Gemini build my UI. Then I audited the results to see what autonomy in AI development actually produces.",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
     },
     {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
@@ -1549,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "geekjourneyx"
     }
   ],
@@ -1628,7 +1628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "Enriquefft"
     }
   ],
@@ -1686,7 +1686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1493,
+      "stars": 1508,
       "user": "ylytdeng"
     }
   ],
@@ -2045,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 92,
       "user": "ygwyg"
     },
     {
@@ -2064,21 +2064,6 @@
       "user": "pasky"
     },
     {
-      "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "url": "https://github.com/ylytdeng/wechat-decrypt",
-      "published_at": "2026-02-28T04:03:44Z",
-      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
-      "source": "GitHub",
-      "stars": 1493,
-      "user": "ylytdeng"
-    },
-    {
       "title": "phuryn/pm-skills - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "url": "https://github.com/phuryn/pm-skills",
       "published_at": "2026-03-01T23:33:44Z",
@@ -2090,8 +2075,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1418,
+      "stars": 1654,
       "user": "phuryn"
+    },
+    {
+      "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "url": "https://github.com/ylytdeng/wechat-decrypt",
+      "published_at": "2026-02-28T04:03:44Z",
+      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
+      "source": "GitHub",
+      "stars": 1508,
+      "user": "ylytdeng"
     },
     {
       "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
@@ -2105,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1369,
+      "stars": 1429,
       "user": "elder-plinius"
     },
     {
@@ -2120,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1311,
       "user": "World-Open-Graph"
     },
     {
@@ -2135,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1152,
       "user": "LeoYeAI"
     },
     {
@@ -2150,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 394,
       "user": "chenhg5"
     },
     {
@@ -2165,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 326,
       "user": "Resinat"
     },
     {
@@ -2180,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "geekjourneyx"
     },
     {
@@ -2195,7 +2195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 190,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2210,7 +2210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "Enriquefft"
     }
   ]
