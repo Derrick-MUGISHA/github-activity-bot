@@ -31,6 +31,21 @@
       "user": "devjiro"
     },
     {
+      "title": "Getting the most out of Nano-Banana 2",
+      "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
+      "published_at": "2026-03-05T22:28:22Z",
+      "description": "Following our previous Developer Guide and Prompting Guide, this post dives into the brand new...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nanobanana",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
+      "source": "Dev.to",
+      "user": "Guillaume Vernade"
+    },
+    {
       "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
       "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
       "published_at": "2026-03-04T15:02:08Z",
@@ -209,6 +224,19 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "AI Crash Course: AI, ML, LLM and More",
+      "url": "https://dev.to/kathryngrayson/ai-crash-course-ai-ml-llm-and-more-4ggk",
+      "published_at": "2026-03-04T15:42:26Z",
+      "description": "It’s common — especially outside of tech spaces — to see a handful of AI-related terms used almost interchangeably. Let’s take a moment to define each of these, so we can use them intentionally moving forward.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1kcc21p27ains59jnfs.png",
+      "source": "Dev.to",
+      "user": "Kathryn Grayson Nanz"
+    },
+    {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
       "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
       "published_at": "2026-02-25T17:41:43Z",
@@ -222,19 +250,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "AI Crash Course: AI, ML, LLM and More",
-      "url": "https://dev.to/kathryngrayson/ai-crash-course-ai-ml-llm-and-more-4ggk",
-      "published_at": "2026-03-04T15:42:26Z",
-      "description": "It’s common — especially outside of tech spaces — to see a handful of AI-related terms used almost interchangeably. Let’s take a moment to define each of these, so we can use them intentionally moving forward.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1kcc21p27ains59jnfs.png",
-      "source": "Dev.to",
-      "user": "Kathryn Grayson Nanz"
     },
     {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
@@ -475,21 +490,6 @@
       "user": "kuroko"
     },
     {
-      "title": "The Token Economy",
-      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
-      "published_at": "2026-02-26T13:36:47Z",
-      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -663,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1592,
+      "stars": 1601,
       "user": "elder-plinius"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1286,
       "user": "LeoYeAI"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 147,
       "user": "heri1845"
     }
   ],
@@ -1038,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 291,
       "user": "FinPyromancerLog"
     },
     {
@@ -1280,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 2781,
+      "stars": 2837,
       "user": "phuryn"
     },
     {
@@ -1295,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1592,
+      "stars": 1601,
       "user": "elder-plinius"
     },
     {
@@ -1325,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1339,
       "user": "World-Open-Graph"
     },
     {
@@ -1340,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1286,
       "user": "LeoYeAI"
     }
   ],
@@ -1374,21 +1374,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
-    },
-    {
-      "title": "Securing CI/CD Access to AWS",
-      "url": "https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7",
-      "published_at": "2026-03-03T00:00:00Z",
-      "description": "I've seen a lot of complex tooling in my experience, but by far the worst case is designing just one...",
-      "tags": [
-        "aws",
-        "gitlab",
-        "github",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszy1mhwalprqc3o3jt15.png",
-      "source": "Dev.to",
-      "user": "Warren Parad"
     },
     {
       "title": "Introducing the Zen of DevOps",
@@ -1586,21 +1571,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
       "source": "Dev.to",
       "user": "Harish Aravindan"
-    },
-    {
-      "title": "Securing CI/CD Access to AWS",
-      "url": "https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7",
-      "published_at": "2026-03-03T00:00:00Z",
-      "description": "I've seen a lot of complex tooling in my experience, but by far the worst case is designing just one...",
-      "tags": [
-        "aws",
-        "gitlab",
-        "github",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszy1mhwalprqc3o3jt15.png",
-      "source": "Dev.to",
-      "user": "Warren Parad"
     },
     {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
@@ -1932,21 +1902,6 @@
       "user": "Ankit Gaur"
     },
     {
-      "title": "Securing CI/CD Access to AWS",
-      "url": "https://dev.to/aws-builders/securing-cicd-access-to-aws-1ib7",
-      "published_at": "2026-03-03T00:00:00Z",
-      "description": "I've seen a lot of complex tooling in my experience, but by far the worst case is designing just one...",
-      "tags": [
-        "aws",
-        "gitlab",
-        "github",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszy1mhwalprqc3o3jt15.png",
-      "source": "Dev.to",
-      "user": "Warren Parad"
-    },
-    {
       "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
       "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
       "published_at": "2026-03-03T11:32:27Z",
@@ -1972,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 291,
       "user": "FinPyromancerLog"
     },
     {
@@ -2047,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 2781,
+      "stars": 2837,
       "user": "phuryn"
     },
     {
@@ -2062,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1592,
+      "stars": 1601,
       "user": "elder-plinius"
     },
     {
@@ -2092,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1339,
       "user": "World-Open-Graph"
     },
     {
@@ -2107,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1286,
       "user": "LeoYeAI"
     },
     {
@@ -2137,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "Resinat"
     },
     {
@@ -2182,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 147,
       "user": "heri1845"
     }
   ]
