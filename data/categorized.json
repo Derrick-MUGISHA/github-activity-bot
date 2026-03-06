@@ -165,6 +165,21 @@
       "user": "Richard Baxter"
     },
     {
+      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
+      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
+      "published_at": "2026-03-04T21:01:29Z",
+      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
+      "tags": [
+        "ai",
+        "opensource",
+        "programming",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0b25t9rnk2hseb0o8qx.png",
+      "source": "Dev.to",
+      "user": "Kevin Alemán"
+    },
+    {
       "title": "How I Use Multi-Agent AI to Debug Production Errors in My Laravel App",
       "url": "https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90",
       "published_at": "2026-03-04T08:33:38Z",
@@ -193,21 +208,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png",
       "source": "Dev.to",
       "user": "Deeptej"
-    },
-    {
-      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
-      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
-      "published_at": "2026-03-04T21:01:29Z",
-      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
-      "tags": [
-        "ai",
-        "opensource",
-        "programming",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0b25t9rnk2hseb0o8qx.png",
-      "source": "Dev.to",
-      "user": "Kevin Alemán"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1710,
       "user": "elder-plinius"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1313,
       "user": "LeoYeAI"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "chenhg5"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "heri1845"
     }
   ],
@@ -1053,7 +1053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "FinPyromancerLog"
     },
     {
@@ -1295,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3045,
+      "stars": 3070,
       "user": "phuryn"
     },
     {
@@ -1310,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1710,
       "user": "elder-plinius"
     },
     {
@@ -1340,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1345,
+      "stars": 1348,
       "user": "World-Open-Graph"
     },
     {
@@ -1355,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1313,
       "user": "LeoYeAI"
     }
   ],
@@ -1957,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "FinPyromancerLog"
     },
     {
@@ -2032,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3045,
+      "stars": 3070,
       "user": "phuryn"
     },
     {
@@ -2047,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1710,
       "user": "elder-plinius"
     },
     {
@@ -2077,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1345,
+      "stars": 1348,
       "user": "World-Open-Graph"
     },
     {
@@ -2092,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1313,
       "user": "LeoYeAI"
     },
     {
@@ -2107,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "chenhg5"
     },
     {
@@ -2167,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "heri1845"
     }
   ]
