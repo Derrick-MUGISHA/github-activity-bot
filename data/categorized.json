@@ -210,20 +210,6 @@
       "user": "aileen vl"
     },
     {
-      "title": "Oooh very interesting",
-      "url": "https://dev.to/ben/oooh-very-interesting-ohk",
-      "published_at": "2026-03-03T16:12:24Z",
-      "description": "Gemini 3.1 Flash-Lite: Developer guide...",
-      "tags": [
-        "gemini",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "I Run a Solo Company with AI Agent Departments",
       "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
       "published_at": "2026-03-03T10:41:20Z",
@@ -237,6 +223,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
       "source": "Dev.to",
       "user": "João Pedro Silva Setas"
+    },
+    {
+      "title": "Oooh very interesting",
+      "url": "https://dev.to/ben/oooh-very-interesting-ohk",
+      "published_at": "2026-03-03T16:12:24Z",
+      "description": "Gemini 3.1 Flash-Lite: Developer guide...",
+      "tags": [
+        "gemini",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "AI Crash Course: AI, ML, LLM and More",
@@ -663,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1673,
       "user": "elder-plinius"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1304,
       "user": "LeoYeAI"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "heri1845"
     }
   ],
@@ -1038,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 312,
       "user": "FinPyromancerLog"
     },
     {
@@ -1280,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 2983,
+      "stars": 3015,
       "user": "phuryn"
     },
     {
@@ -1295,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1673,
       "user": "elder-plinius"
     },
     {
@@ -1310,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1548,
       "user": "ylytdeng"
     },
     {
@@ -1340,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1304,
       "user": "LeoYeAI"
     }
   ],
@@ -1657,7 +1657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1548,
       "user": "ylytdeng"
     }
   ],
@@ -1942,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 312,
       "user": "FinPyromancerLog"
     },
     {
@@ -2017,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 2983,
+      "stars": 3015,
       "user": "phuryn"
     },
     {
@@ -2032,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1673,
       "user": "elder-plinius"
     },
     {
@@ -2047,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1548,
       "user": "ylytdeng"
     },
     {
@@ -2077,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1304,
       "user": "LeoYeAI"
     },
     {
@@ -2152,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "heri1845"
     }
   ]
