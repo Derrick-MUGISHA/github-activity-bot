@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 87,
       "user": "ygwyg"
     },
     {
@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1369,
       "user": "elder-plinius"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1133,
       "user": "LeoYeAI"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "chenhg5"
     },
     {
@@ -709,6 +709,21 @@
       "source": "GitHub",
       "stars": 212,
       "user": "geekjourneyx"
+    },
+    {
+      "title": "Enriquefft/openclaw-kapso-whatsapp - Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
+      "published_at": "2026-02-28T01:28:38Z",
+      "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
+      "source": "GitHub",
+      "stars": 130,
+      "user": "Enriquefft"
     }
   ],
   "JavaScript": [
@@ -1067,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 87,
       "user": "ygwyg"
     },
     {
@@ -1082,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "pasky"
     }
   ],
@@ -1264,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1492,
+      "stars": 1493,
       "user": "ylytdeng"
     },
     {
@@ -1279,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1418,
       "user": "phuryn"
     },
     {
@@ -1294,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1369,
       "user": "elder-plinius"
     },
     {
@@ -1309,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1305,
       "user": "World-Open-Graph"
     },
     {
@@ -1324,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1133,
       "user": "LeoYeAI"
     }
   ],
@@ -1600,6 +1615,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
       "source": "Dev.to",
       "user": "Ahnaf Tahmid"
+    },
+    {
+      "title": "Enriquefft/openclaw-kapso-whatsapp - Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
+      "published_at": "2026-02-28T01:28:38Z",
+      "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
+      "source": "GitHub",
+      "stars": 130,
+      "user": "Enriquefft"
     }
   ],
   "Database": [
@@ -1656,7 +1686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1492,
+      "stars": 1493,
       "user": "ylytdeng"
     }
   ],
@@ -1855,21 +1885,6 @@
       "user": "Vatsal Trivedi"
     },
     {
-      "title": "I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots",
-      "url": "https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob",
-      "published_at": "2026-03-03T13:38:00Z",
-      "description": "Every team has those files. The ones everyone knows are dangerous. The ones where a \"simple\" change...",
-      "tags": [
-        "codequality",
-        "developertools",
-        "techdebt",
-        "staticanalysis"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcreo4nb0mbkbkedb3j45.png",
-      "source": "Dev.to",
-      "user": "Stephen Collins"
-    },
-    {
       "title": "I Run a Solo Company with AI Agent Departments",
       "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
       "published_at": "2026-03-03T10:41:20Z",
@@ -1883,6 +1898,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
       "source": "Dev.to",
       "user": "João Pedro Silva Setas"
+    },
+    {
+      "title": "I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots",
+      "url": "https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob",
+      "published_at": "2026-03-03T13:38:00Z",
+      "description": "Every team has those files. The ones everyone knows are dangerous. The ones where a \"simple\" change...",
+      "tags": [
+        "codequality",
+        "developertools",
+        "techdebt",
+        "staticanalysis"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcreo4nb0mbkbkedb3j45.png",
+      "source": "Dev.to",
+      "user": "Stephen Collins"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -2015,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 87,
       "user": "ygwyg"
     },
     {
@@ -2030,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "pasky"
     },
     {
@@ -2045,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1492,
+      "stars": 1493,
       "user": "ylytdeng"
     },
     {
@@ -2060,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1418,
       "user": "phuryn"
     },
     {
@@ -2075,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1369,
       "user": "elder-plinius"
     },
     {
@@ -2090,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1305,
       "user": "World-Open-Graph"
     },
     {
@@ -2105,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1133,
       "user": "LeoYeAI"
     },
     {
@@ -2120,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "chenhg5"
     },
     {
@@ -2135,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "Resinat"
     },
     {
@@ -2169,19 +2199,19 @@
       "user": "LeoChen-CoreMind"
     },
     {
-      "title": "junevm/splathash - compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.",
-      "url": "https://github.com/junevm/splathash",
-      "published_at": "2026-02-27T05:36:30Z",
-      "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.",
+      "title": "Enriquefft/openclaw-kapso-whatsapp - Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+      "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
+      "published_at": "2026-02-28T01:28:38Z",
+      "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62926341?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 153,
-      "user": "junevm"
+      "stars": 130,
+      "user": "Enriquefft"
     }
   ]
 }
