@@ -40,9 +40,9 @@
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
-**Cloud**: 🟦🟦 4 (3.8%)
-
 **Database**: 🟦🟦 4 (3.8%)
+
+**Cloud**: 🟦 3 (2.9%)
 
 **Security**: 🟦 3 (2.9%)
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-06 14:00 CAT)
+## 📅 Latest Updates (2026-03-06 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 - [Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!](https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm) _[Dev.to]_
 
-_Last automated update: Fri, 06 Mar 2026 14:47:28 CAT_
+_Last automated update: Fri, 06 Mar 2026 15:52:38 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Fri, 06 Mar 2026 14:47:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 06 Mar 2026 12:47:28 GMT</b><br/>
+  <b>Last automated update: Fri, 06 Mar 2026 13:52:38 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
