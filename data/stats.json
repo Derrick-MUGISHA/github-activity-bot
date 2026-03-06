@@ -19,10 +19,10 @@
   },
   "by_language": {
     "JavaScript": 27,
-    "Go": 16,
     "PHP": 2,
     "Python": 18,
-    "Java": 21
+    "Java": 21,
+    "Go": 16
   },
   "by_date": {
     "2026-03-06": 2,
@@ -93,9 +93,9 @@
   "trending_topics": [],
   "language_percentages": {
     "JavaScript": "32.1",
-    "Go": "19.0",
     "PHP": "2.4",
     "Python": "21.4",
-    "Java": "25.0"
+    "Java": "25.0",
+    "Go": "19.0"
   }
 }
