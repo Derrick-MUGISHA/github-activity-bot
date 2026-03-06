@@ -60,6 +60,21 @@
       "user": "devjiro"
     },
     {
+      "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
+      "url": "https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d",
+      "published_at": "2026-03-06T19:12:30Z",
+      "description": "I asked Claude to recreate the classic 1986 game Thrust for me in the browser. It created slop but...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "llm",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6fgz1vvzr6do4kjf3h4h.png",
+      "source": "Dev.to",
+      "user": "James Randall"
+    },
+    {
       "title": "Getting the most out of Nano-Banana 2",
       "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
       "published_at": "2026-03-05T22:28:22Z",
@@ -237,36 +252,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png",
       "source": "Dev.to",
       "user": "Deeptej"
-    },
-    {
-      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
-      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
-      "published_at": "2026-02-25T01:28:04Z",
-      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
-      "source": "Dev.to",
-      "user": "aileen vl"
-    },
-    {
-      "title": "I Run a Solo Company with AI Agent Departments",
-      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
-      "published_at": "2026-03-03T10:41:20Z",
-      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
-      "tags": [
-        "agents",
-        "ai",
-        "automation",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
-      "source": "Dev.to",
-      "user": "João Pedro Silva Setas"
     },
     {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
@@ -665,7 +650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1779,
+      "stars": 1806,
       "user": "elder-plinius"
     },
     {
@@ -680,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1324,
+      "stars": 1327,
       "user": "LeoYeAI"
     },
     {
@@ -761,6 +746,21 @@
       "user": "Ovi ren"
     },
     {
+      "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
+      "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
+      "published_at": "2026-03-06T17:12:22Z",
+      "description": "I kept pasting sensitive API payloads into online JSON formatters — and feeling uneasy about it.  As...",
+      "tags": [
+        "productivity",
+        "opensource",
+        "tooling",
+        "formatter"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femmmsmvmml8j2j5vkfo6.png",
+      "source": "Dev.to",
+      "user": "Chung Ho"
+    },
+    {
       "title": "Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)",
       "url": "https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67",
       "published_at": "2026-02-27T15:57:33Z",
@@ -804,21 +804,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4j58fo29ivmj9o4xwn5.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
-    },
-    {
-      "title": "The Server-Side Mocking Gap Nobody Talks About",
-      "url": "https://dev.to/rrafatpanah/the-server-side-mocking-gap-nobody-talks-about-36jb",
-      "published_at": "2026-03-04T01:44:04Z",
-      "description": "Per-test server-side mocking using MSW, Playwright, and any fullstack framework.",
-      "tags": [
-        "webdev",
-        "playwright",
-        "tanstack",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o0qqt887p61qum8o6mn.png",
-      "source": "Dev.to",
-      "user": "Raphael Rafatpanah"
     },
     {
       "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
@@ -1026,7 +1011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "FinPyromancerLog"
     },
     {
@@ -1268,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3153,
+      "stars": 3187,
       "user": "phuryn"
     },
     {
@@ -1283,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1779,
+      "stars": 1806,
       "user": "elder-plinius"
     },
     {
@@ -1298,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1550,
       "user": "ylytdeng"
     },
     {
@@ -1313,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1353,
+      "stars": 1356,
       "user": "World-Open-Graph"
     },
     {
@@ -1328,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1324,
+      "stars": 1327,
       "user": "LeoYeAI"
     }
   ],
@@ -1660,7 +1645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1550,
       "user": "ylytdeng"
     }
   ],
@@ -1709,6 +1694,36 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
+      "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
+      "published_at": "2026-03-06T17:12:22Z",
+      "description": "I kept pasting sensitive API payloads into online JSON formatters — and feeling uneasy about it.  As...",
+      "tags": [
+        "productivity",
+        "opensource",
+        "tooling",
+        "formatter"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femmmsmvmml8j2j5vkfo6.png",
+      "source": "Dev.to",
+      "user": "Chung Ho"
+    },
+    {
+      "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
+      "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
+      "published_at": "2026-03-06T16:03:22Z",
+      "description": "TL;DR    Enable the Kitty keyboard protocol in your terminal (WezTerm: add...",
+      "tags": [
+        "claudecode",
+        "terminal",
+        "wezterm",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvor2ooqmwkv6vkstlqex.png",
+      "source": "Dev.to",
+      "user": "Richard Oliver Bray"
+    },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
@@ -1768,36 +1783,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png",
       "source": "Dev.to",
       "user": "Hamza"
-    },
-    {
-      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
-      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
-      "published_at": "2026-02-25T01:28:04Z",
-      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
-      "source": "Dev.to",
-      "user": "aileen vl"
-    },
-    {
-      "title": "I Run a Solo Company with AI Agent Departments",
-      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
-      "published_at": "2026-03-03T10:41:20Z",
-      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
-      "tags": [
-        "agents",
-        "ai",
-        "automation",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
-      "source": "Dev.to",
-      "user": "João Pedro Silva Setas"
     },
     {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
@@ -1930,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "FinPyromancerLog"
     },
     {
@@ -2005,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3153,
+      "stars": 3187,
       "user": "phuryn"
     },
     {
@@ -2020,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1779,
+      "stars": 1806,
       "user": "elder-plinius"
     },
     {
@@ -2035,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1550,
       "user": "ylytdeng"
     },
     {
@@ -2050,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1353,
+      "stars": 1356,
       "user": "World-Open-Graph"
     },
     {
@@ -2065,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1324,
+      "stars": 1327,
       "user": "LeoYeAI"
     },
     {
