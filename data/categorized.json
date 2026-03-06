@@ -16,6 +16,21 @@
       "user": "Jon Gottfried"
     },
     {
+      "title": "Supercharging Open Source Projects With Free AI Code Reviews",
+      "url": "https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m",
+      "published_at": "2026-03-06T19:19:05Z",
+      "description": "Scaling High Quality Code in the AI Era   Open source software has always depended on human...",
+      "tags": [
+        "qodo",
+        "ai",
+        "googlecloud",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8d4nm8mtxmyu7tnz9jn.png",
+      "source": "Dev.to",
+      "user": "Dana Fine"
+    },
+    {
       "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
       "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
       "published_at": "2026-03-05T19:02:16Z",
@@ -312,21 +327,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
-      "url": "https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e",
-      "published_at": "2026-03-04T17:28:14Z",
-      "description": "We're excited to announce our newest challenge in partnership with Major League Hacking (MLH) and...",
-      "tags": [
-        "notionchallenge",
-        "devchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qa4kduo001bwy9lwn4w.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
       "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
       "published_at": "2026-03-03T17:21:42Z",
@@ -488,6 +488,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
       "source": "Dev.to",
       "user": "kuroko"
+    },
+    {
+      "title": "The Token Economy",
+      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
+      "published_at": "2026-02-26T13:36:47Z",
+      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
+      "tags": [
+        "ai",
+        "webdev",
+        "career",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "Airfoil",
@@ -663,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 1692,
       "user": "elder-plinius"
     },
     {
@@ -678,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1306,
       "user": "LeoYeAI"
     },
     {
@@ -693,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 428,
       "user": "chenhg5"
     },
     {
@@ -1038,7 +1053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "FinPyromancerLog"
     },
     {
@@ -1053,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 147,
       "user": "r3nzsec"
     },
     {
@@ -1280,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3015,
+      "stars": 3045,
       "user": "phuryn"
     },
     {
@@ -1295,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 1692,
       "user": "elder-plinius"
     },
     {
@@ -1310,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1549,
       "user": "ylytdeng"
     },
     {
@@ -1340,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1306,
       "user": "LeoYeAI"
     }
   ],
@@ -1573,6 +1588,21 @@
   ],
   "Cloud": [
     {
+      "title": "Supercharging Open Source Projects With Free AI Code Reviews",
+      "url": "https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m",
+      "published_at": "2026-03-06T19:19:05Z",
+      "description": "Scaling High Quality Code in the AI Era   Open source software has always depended on human...",
+      "tags": [
+        "qodo",
+        "ai",
+        "googlecloud",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8d4nm8mtxmyu7tnz9jn.png",
+      "source": "Dev.to",
+      "user": "Dana Fine"
+    },
+    {
       "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
       "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
       "published_at": "2026-03-03T17:21:42Z",
@@ -1642,7 +1672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 147,
       "user": "r3nzsec"
     },
     {
@@ -1657,7 +1687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1549,
       "user": "ylytdeng"
     }
   ],
@@ -1737,21 +1767,6 @@
       "user": "Magnus Rødseth"
     },
     {
-      "title": "What should I do and learn in 2026?",
-      "url": "https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc",
-      "published_at": "2026-03-02T19:31:11Z",
-      "description": "Maybe it's not about skills, but tactics.",
-      "tags": [
-        "career",
-        "learning",
-        "motivation",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png",
-      "source": "Dev.to",
-      "user": "Amara Graham"
-    },
-    {
       "title": "How I Use Multi-Agent AI to Debug Production Errors in My Laravel App",
       "url": "https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90",
       "published_at": "2026-03-04T08:33:38Z",
@@ -1827,6 +1842,21 @@
       "user": "nmelo"
     },
     {
+      "title": "I Shipped Broken Code and Wrote an Article About It",
+      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
+      "published_at": "2026-03-04T11:13:54Z",
+      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+      "tags": [
+        "ai",
+        "opensource",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
       "url": "https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp",
       "published_at": "2026-03-04T11:17:15Z",
@@ -1855,21 +1885,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcreo4nb0mbkbkedb3j45.png",
       "source": "Dev.to",
       "user": "Stephen Collins"
-    },
-    {
-      "title": "I Shipped Broken Code and Wrote an Article About It",
-      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
-      "published_at": "2026-03-04T11:13:54Z",
-      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
-      "tags": [
-        "ai",
-        "opensource",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -1942,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "FinPyromancerLog"
     },
     {
@@ -1957,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 147,
       "user": "r3nzsec"
     },
     {
@@ -2017,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3015,
+      "stars": 3045,
       "user": "phuryn"
     },
     {
@@ -2032,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 1692,
       "user": "elder-plinius"
     },
     {
@@ -2047,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1549,
       "user": "ylytdeng"
     },
     {
@@ -2077,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1306,
       "user": "LeoYeAI"
     },
     {
@@ -2092,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 428,
       "user": "chenhg5"
     },
     {
