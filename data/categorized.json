@@ -238,6 +238,21 @@
       "user": "nmelo"
     },
     {
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "published_at": "2026-03-03T10:41:20Z",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
+      "source": "Dev.to",
+      "user": "João Pedro Silva Setas"
+    },
+    {
       "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
       "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
       "published_at": "2026-03-04T21:01:29Z",
@@ -264,21 +279,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1kcc21p27ains59jnfs.png",
       "source": "Dev.to",
       "user": "Kathryn Grayson Nanz"
-    },
-    {
-      "title": "I Run a Solo Company with AI Agent Departments",
-      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
-      "published_at": "2026-03-03T10:41:20Z",
-      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
-      "tags": [
-        "agents",
-        "ai",
-        "automation",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
-      "source": "Dev.to",
-      "user": "João Pedro Silva Setas"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1490,
       "user": "elder-plinius"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1174,
       "user": "LeoYeAI"
     },
     {
@@ -1026,6 +1026,21 @@
       "user": "velmu"
     },
     {
+      "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
+      "url": "https://github.com/FinPyromancerLog/xcode-claw",
+      "published_at": "2026-03-05T18:47:10Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
+      "source": "GitHub",
+      "stars": 160,
+      "user": "FinPyromancerLog"
+    },
+    {
       "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
       "url": "https://github.com/r3nzsec/irflow-timeline",
       "published_at": "2026-03-01T19:31:35Z",
@@ -1039,21 +1054,6 @@
       "source": "GitHub",
       "stars": 146,
       "user": "r3nzsec"
-    },
-    {
-      "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
-      "url": "https://github.com/FinPyromancerLog/xcode-claw",
-      "published_at": "2026-03-05T18:47:10Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
-      "source": "GitHub",
-      "stars": 138,
-      "user": "FinPyromancerLog"
     },
     {
       "title": "cporter202/openclaw-api-list - This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
@@ -1279,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 2045,
+      "stars": 2142,
       "user": "phuryn"
     },
     {
@@ -1294,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1523,
+      "stars": 1527,
       "user": "ylytdeng"
     },
     {
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1490,
       "user": "elder-plinius"
     },
     {
@@ -1339,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1174,
       "user": "LeoYeAI"
     }
   ],
@@ -1686,7 +1686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1523,
+      "stars": 1527,
       "user": "ylytdeng"
     }
   ],
@@ -1989,6 +1989,21 @@
       "user": "Eastkap"
     },
     {
+      "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
+      "url": "https://github.com/FinPyromancerLog/xcode-claw",
+      "published_at": "2026-03-05T18:47:10Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
+      "source": "GitHub",
+      "stars": 160,
+      "user": "FinPyromancerLog"
+    },
+    {
       "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
       "url": "https://github.com/r3nzsec/irflow-timeline",
       "published_at": "2026-03-01T19:31:35Z",
@@ -2002,21 +2017,6 @@
       "source": "GitHub",
       "stars": 146,
       "user": "r3nzsec"
-    },
-    {
-      "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
-      "url": "https://github.com/FinPyromancerLog/xcode-claw",
-      "published_at": "2026-03-05T18:47:10Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
-      "source": "GitHub",
-      "stars": 138,
-      "user": "FinPyromancerLog"
     },
     {
       "title": "cporter202/openclaw-api-list - This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
@@ -2075,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 2045,
+      "stars": 2142,
       "user": "phuryn"
     },
     {
@@ -2090,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1523,
+      "stars": 1527,
       "user": "ylytdeng"
     },
     {
@@ -2105,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1490,
       "user": "elder-plinius"
     },
     {
@@ -2135,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1174,
       "user": "LeoYeAI"
     },
     {
@@ -2165,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "Resinat"
     },
     {
@@ -2195,7 +2195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "LeoChen-CoreMind"
     },
     {
