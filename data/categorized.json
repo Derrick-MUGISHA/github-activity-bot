@@ -91,21 +91,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
-      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
-      "published_at": "2026-03-04T21:01:29Z",
-      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
-      "tags": [
-        "ai",
-        "opensource",
-        "programming",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0b25t9rnk2hseb0o8qx.png",
-      "source": "Dev.to",
-      "user": "Kevin Alemán"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -251,6 +236,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5ctnywtfrv6tfeesmgc.png",
       "source": "Dev.to",
       "user": "nmelo"
+    },
+    {
+      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
+      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
+      "published_at": "2026-03-04T21:01:29Z",
+      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
+      "tags": [
+        "ai",
+        "opensource",
+        "programming",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0b25t9rnk2hseb0o8qx.png",
+      "source": "Dev.to",
+      "user": "Kevin Alemán"
     },
     {
       "title": "AI Crash Course: AI, ML, LLM and More",
@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 95,
       "user": "ygwyg"
     },
     {
@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1429,
+      "stars": 1447,
       "user": "elder-plinius"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1163,
       "user": "LeoYeAI"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 395,
       "user": "chenhg5"
     },
     {
@@ -707,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "geekjourneyx"
     },
     {
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "Enriquefft"
     }
   ],
@@ -1071,6 +1071,21 @@
       "user": "wahdalo"
     },
     {
+      "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
+      "url": "https://github.com/FinPyromancerLog/xcode-claw",
+      "published_at": "2026-03-05T18:47:10Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
+      "source": "GitHub",
+      "stars": 95,
+      "user": "FinPyromancerLog"
+    },
+    {
       "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
       "url": "https://github.com/ygwyg/agent-experience",
       "published_at": "2026-03-04T17:04:29Z",
@@ -1082,23 +1097,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 95,
       "user": "ygwyg"
-    },
-    {
-      "title": "pasky/pi-side-agents - Parallel subagents / long-running sideagents for the Pi coding agent",
-      "url": "https://github.com/pasky/pi-side-agents",
-      "published_at": "2026-03-01T00:31:46Z",
-      "description": "Parallel subagents / long-running sideagents for the Pi coding agent",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
-      "source": "GitHub",
-      "stars": 85,
-      "user": "pasky"
     }
   ],
   "Python": [
@@ -1279,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1836,
       "user": "phuryn"
     },
     {
@@ -1294,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1514,
       "user": "ylytdeng"
     },
     {
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1429,
+      "stars": 1447,
       "user": "elder-plinius"
     },
     {
@@ -1324,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1315,
       "user": "World-Open-Graph"
     },
     {
@@ -1339,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1163,
       "user": "LeoYeAI"
     }
   ],
@@ -1549,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "geekjourneyx"
     }
   ],
@@ -1628,7 +1628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "Enriquefft"
     }
   ],
@@ -1686,7 +1686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1514,
       "user": "ylytdeng"
     }
   ],
@@ -2034,6 +2034,21 @@
       "user": "wahdalo"
     },
     {
+      "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
+      "url": "https://github.com/FinPyromancerLog/xcode-claw",
+      "published_at": "2026-03-05T18:47:10Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
+      "source": "GitHub",
+      "stars": 95,
+      "user": "FinPyromancerLog"
+    },
+    {
       "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
       "url": "https://github.com/ygwyg/agent-experience",
       "published_at": "2026-03-04T17:04:29Z",
@@ -2045,23 +2060,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 95,
       "user": "ygwyg"
-    },
-    {
-      "title": "pasky/pi-side-agents - Parallel subagents / long-running sideagents for the Pi coding agent",
-      "url": "https://github.com/pasky/pi-side-agents",
-      "published_at": "2026-03-01T00:31:46Z",
-      "description": "Parallel subagents / long-running sideagents for the Pi coding agent",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
-      "source": "GitHub",
-      "stars": 85,
-      "user": "pasky"
     },
     {
       "title": "phuryn/pm-skills - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
@@ -2075,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1836,
       "user": "phuryn"
     },
     {
@@ -2090,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1514,
       "user": "ylytdeng"
     },
     {
@@ -2105,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1429,
+      "stars": 1447,
       "user": "elder-plinius"
     },
     {
@@ -2120,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1315,
       "user": "World-Open-Graph"
     },
     {
@@ -2135,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1163,
       "user": "LeoYeAI"
     },
     {
@@ -2150,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 395,
       "user": "chenhg5"
     },
     {
@@ -2165,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 329,
       "user": "Resinat"
     },
     {
@@ -2180,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "geekjourneyx"
     },
     {
@@ -2195,7 +2195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2210,7 +2210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60308719?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "Enriquefft"
     }
   ]
