@@ -16,21 +16,6 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
-    },
-    {
       "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
       "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
       "published_at": "2026-03-05T19:02:16Z",
@@ -61,19 +46,19 @@
       "user": "Daniel Balcarek"
     },
     {
-      "title": "I Shipped Broken Code and Wrote an Article About It",
-      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
-      "published_at": "2026-03-04T11:13:54Z",
-      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
       "tags": [
-        "ai",
-        "opensource",
+        "observability",
         "webdev",
-        "productivity"
+        "monitoring",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
-      "user": "Daniel Nwaneri"
+      "user": "Sovereign Revenue Guard"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -91,21 +76,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "The Old Seniority Definition Is Collapsing",
-      "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
-      "published_at": "2026-03-05T08:40:59Z",
-      "description": "For a long time, “senior developer” was a fairly consistent signal. You expected someone who could...",
-      "tags": [
-        "ai",
-        "programming",
-        "python",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "How Claude Skills Replaced Our Documentation",
       "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
       "published_at": "2026-03-05T07:49:58Z",
@@ -119,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
       "source": "Dev.to",
       "user": "Magnus Rødseth"
+    },
+    {
+      "title": "The Old Seniority Definition Is Collapsing",
+      "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
+      "published_at": "2026-03-05T08:40:59Z",
+      "description": "For a long time, “senior developer” was a fairly consistent signal. You expected someone who could...",
+      "tags": [
+        "ai",
+        "programming",
+        "python",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "SaaS Companies Fear Me: Cloning* Granola for Linux",
@@ -180,6 +165,21 @@
       "user": "Deeptej"
     },
     {
+      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
+      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
+      "published_at": "2026-03-04T21:01:29Z",
+      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
+      "tags": [
+        "ai",
+        "opensource",
+        "programming",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0b25t9rnk2hseb0o8qx.png",
+      "source": "Dev.to",
+      "user": "Kevin Alemán"
+    },
+    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -224,6 +224,19 @@
       "user": "Jess Lee"
     },
     {
+      "title": "AI Crash Course: AI, ML, LLM and More",
+      "url": "https://dev.to/kathryngrayson/ai-crash-course-ai-ml-llm-and-more-4ggk",
+      "published_at": "2026-03-04T15:42:26Z",
+      "description": "It’s common — especially outside of tech spaces — to see a handful of AI-related terms used almost interchangeably. Let’s take a moment to define each of these, so we can use them intentionally moving forward.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1kcc21p27ains59jnfs.png",
+      "source": "Dev.to",
+      "user": "Kathryn Grayson Nanz"
+    },
+    {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
       "url": "https://dev.to/nmelo/i-ship-software-with-13-ai-agents-heres-what-that-actually-looks-like-420c",
       "published_at": "2026-03-03T15:30:49Z",
@@ -254,32 +267,19 @@
       "user": "João Pedro Silva Setas"
     },
     {
-      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
-      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
-      "published_at": "2026-03-04T21:01:29Z",
-      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
+      "title": "I Shipped Broken Code and Wrote an Article About It",
+      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
+      "published_at": "2026-03-04T11:13:54Z",
+      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
       "tags": [
         "ai",
         "opensource",
-        "programming",
-        "software"
+        "webdev",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0b25t9rnk2hseb0o8qx.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
       "source": "Dev.to",
-      "user": "Kevin Alemán"
-    },
-    {
-      "title": "AI Crash Course: AI, ML, LLM and More",
-      "url": "https://dev.to/kathryngrayson/ai-crash-course-ai-ml-llm-and-more-4ggk",
-      "published_at": "2026-03-04T15:42:26Z",
-      "description": "It’s common — especially outside of tech spaces — to see a handful of AI-related terms used almost interchangeably. Let’s take a moment to define each of these, so we can use them intentionally moving forward.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1kcc21p27ains59jnfs.png",
-      "source": "Dev.to",
-      "user": "Kathryn Grayson Nanz"
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -354,21 +354,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
       "source": "Dev.to",
       "user": "Alisa Fortin"
-    },
-    {
-      "title": "How to Switch from ChatGPT to Claude Without Losing Context",
-      "url": "https://dev.to/alifar/how-to-switch-from-chatgpt-to-claude-without-losing-context-374d",
-      "published_at": "2026-03-03T08:15:51Z",
-      "description": "Switching from ChatGPT to Claude is no longer a risky reset. What used to feel like abandoning months...",
-      "tags": [
-        "chatgpt",
-        "claude",
-        "openai",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb62b790le120w4w5r89q.jpg",
-      "source": "Dev.to",
-      "user": "Ali Farhat"
     },
     {
       "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
@@ -473,6 +458,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
+    },
+    {
+      "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
+      "url": "https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a",
+      "published_at": "2026-02-26T07:58:44Z",
+      "description": "Token cost in browser automation MCPs has become a real topic — articles like \"Playwright MCP Burns...",
+      "tags": [
+        "mcp",
+        "ai",
+        "webdev",
+        "playwright"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
+      "source": "Dev.to",
+      "user": "kuroko"
     },
     {
       "title": "The Token Economy",
@@ -663,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1592,
       "user": "elder-plinius"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1260,
+      "stars": 1278,
       "user": "LeoYeAI"
     },
     {
@@ -723,26 +723,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 144,
       "user": "heri1845"
     }
   ],
   "JavaScript": [
-    {
-      "title": "i built a social platform where everything vanishes after 24 hours",
-      "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
-      "published_at": "2026-03-03T04:44:50Z",
-      "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
-      "tags": [
-        "socialmedia",
-        "showdev",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
-      "source": "Dev.to",
-      "user": "Ovi ren"
-    },
     {
       "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
       "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
@@ -757,6 +742,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
       "source": "Dev.to",
       "user": "devjiro"
+    },
+    {
+      "title": "i built a social platform where everything vanishes after 24 hours",
+      "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
+      "published_at": "2026-03-03T04:44:50Z",
+      "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
+      "tags": [
+        "socialmedia",
+        "showdev",
+        "webdev",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
+      "source": "Dev.to",
+      "user": "Ovi ren"
     },
     {
       "title": "React: Singletons aren't as evil as you think",
@@ -831,21 +831,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o0qqt887p61qum8o6mn.png",
       "source": "Dev.to",
       "user": "Raphael Rafatpanah"
-    },
-    {
-      "title": "Mastering JavaScript Array Methods: A Beginner's Guide",
-      "url": "https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89",
-      "published_at": "2026-03-03T19:33:15Z",
-      "description": "Introduction   Hello, my fellow readers! If you're just starting out with JavaScript array...",
-      "tags": [
-        "javascript",
-        "beginners",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkg8u2horqo0ehw6o20h0.png",
-      "source": "Dev.to",
-      "user": "Ritam Saha"
     },
     {
       "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
@@ -1053,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 285,
       "user": "FinPyromancerLog"
     },
     {
@@ -1295,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 2723,
+      "stars": 2781,
       "user": "phuryn"
     },
     {
@@ -1310,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1592,
       "user": "elder-plinius"
     },
     {
@@ -1325,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1542,
+      "stars": 1543,
       "user": "ylytdeng"
     },
     {
@@ -1340,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1338,
       "user": "World-Open-Graph"
     },
     {
@@ -1355,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1260,
+      "stars": 1278,
       "user": "LeoYeAI"
     }
   ],
@@ -1687,7 +1672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1542,
+      "stars": 1543,
       "user": "ylytdeng"
     }
   ],
@@ -1750,21 +1735,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png",
       "source": "Dev.to",
       "user": "Hamza"
-    },
-    {
-      "title": "I Shipped Broken Code and Wrote an Article About It",
-      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
-      "published_at": "2026-03-04T11:13:54Z",
-      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
-      "tags": [
-        "ai",
-        "opensource",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -1902,6 +1872,21 @@
       "user": "Stephen Collins"
     },
     {
+      "title": "I Shipped Broken Code and Wrote an Article About It",
+      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
+      "published_at": "2026-03-04T11:13:54Z",
+      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+      "tags": [
+        "ai",
+        "opensource",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -1987,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 285,
       "user": "FinPyromancerLog"
     },
     {
@@ -2062,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 2723,
+      "stars": 2781,
       "user": "phuryn"
     },
     {
@@ -2077,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1592,
       "user": "elder-plinius"
     },
     {
@@ -2092,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1542,
+      "stars": 1543,
       "user": "ylytdeng"
     },
     {
@@ -2107,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1338,
       "user": "World-Open-Graph"
     },
     {
@@ -2122,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1260,
+      "stars": 1278,
       "user": "LeoYeAI"
     },
     {
@@ -2152,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "Resinat"
     },
     {
@@ -2182,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2197,7 +2182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 144,
       "user": "heri1845"
     }
   ]
