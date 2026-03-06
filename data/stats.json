@@ -6,38 +6,38 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 51,
+    "AI": 52,
     "JavaScript": 27,
     "Python": 18,
     "DevOps": 4,
     "WebDev": 10,
     "Mobile": 1,
-    "Cloud": 2,
+    "Cloud": 3,
     "Database": 4,
     "Security": 3,
-    "Tools": 30
+    "Tools": 29
   },
   "by_language": {
+    "Go": 17,
     "JavaScript": 27,
     "PHP": 2,
     "Python": 18,
-    "Java": 21,
-    "Go": 16
+    "Java": 21
   },
   "by_date": {
-    "2026-03-06": 2,
-    "2026-03-04": 15,
+    "2026-03-06": 3,
+    "2026-03-04": 14,
     "2026-03-05": 8,
     "2026-03-03": 16,
     "2026-02-27": 3,
-    "2026-03-02": 9,
+    "2026-03-02": 8,
     "2026-02-25": 2,
     "2026-02-19": 2,
     "2026-02-22": 1,
     "2026-02-28": 5,
     "2026-03-01": 9,
     "2026-02-18": 1,
-    "2026-02-26": 2,
+    "2026-02-26": 3,
     "2024-02-27": 1,
     "2024-07-23": 1,
     "2025-06-02": 1,
@@ -69,33 +69,33 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 26,
+    "ai": 27,
+    "webdev": 15,
     "github": 15,
     "open-source": 15,
-    "webdev": 14,
     "javascript": 11,
     "gemini": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "productivity": 9,
+    "discuss": 9,
     "programming": 9,
-    "devchallenge": 8,
-    "discuss": 8,
+    "productivity": 8,
     "python": 8,
+    "devchallenge": 7,
     "frontend": 5,
     "showdev": 5,
     "agents": 5,
     "go": 5,
-    "geminireflections": 4,
-    "tutorial": 4
+    "opensource": 4,
+    "geminireflections": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "32.1",
+    "Go": "20.0",
+    "JavaScript": "31.8",
     "PHP": "2.4",
-    "Python": "21.4",
-    "Java": "25.0",
-    "Go": "19.0"
+    "Python": "21.2",
+    "Java": "24.7"
   }
 }

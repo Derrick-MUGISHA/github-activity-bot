@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -42,9 +42,9 @@
 
 **Database**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦 3 (2.9%)
+**Cloud**: 🟦 3 (2.9%)
 
-**Cloud**: 🟦 2 (1.9%)
+**Security**: 🟦 3 (2.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 32.1 (32.1%)
-Java            ███████████████████████ 25.0 (25.0%)
-Python          ████████████████████ 21.4 (21.4%)
-Go              ██████████████████ 19.0 (19.0%)
+JavaScript      ██████████████████████████████ 31.8 (31.8%)
+Java            ███████████████████████ 24.7 (24.7%)
+Python          ████████████████████ 21.2 (21.2%)
+Go              ███████████████████ 20.0 (20.0%)
 PHP             ██ 2.4 (2.4%)
 
 ```
@@ -73,7 +73,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 27
     "Java" : 21
     "Python" : 18
-    "Go" : 16
+    "Go" : 17
     "PHP" : 2
 ```
 
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![frontend](https://img.shields.io/badge/frontend-5-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![frontend](https://img.shields.io/badge/frontend-5-blue) 
 
 
 
@@ -158,6 +158,15 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8d4nm8mtxmyu7tnz9jn.png" width="200" alt="Supercharging Open Source Projects With Free AI Code Reviews" />
+      <br/>
+      <b>Supercharging Open Source Projects With Free AI Co...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png" width="200" alt="I Built a Pixel Art Village Where AI Characters Have Real Emotions" />
       <br/>
@@ -175,15 +184,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png" width="200" alt="Getting the most out of Nano-Banana 2" />
-      <br/>
-      <b>Getting the most out of Nano-Banana 2</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -194,6 +194,7 @@ npm run test
 - [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m96) _[Dev.to]_
 - [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6) _[Dev.to]_
+- [Supercharging Open Source Projects With Free AI Code Reviews](https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m) _[Dev.to]_
 - [I Built a Pixel Art Village Where AI Characters Have Real Emotions](https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 - [Getting the most out of Nano-Banana 2](https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k) _[Dev.to]_
@@ -209,10 +210,9 @@ npm run test
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 - [SQLite as an MCP context saver: stop cramming raw API data into your LLM](https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4) _[Dev.to]_
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
-- [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 - [How I Use Multi-Agent AI to Debug Production Errors in My Laravel App](https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90) _[Dev.to]_
 
-_Last automated update: Fri, 06 Mar 2026 21:02:50 CAT_
+_Last automated update: Fri, 06 Mar 2026 21:47:26 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Fri, 06 Mar 2026 21:02:50 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain GIL and its implications for multithreading
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Execution timing, event loop phases
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 06 Mar 2026 19:02:50 GMT</b><br/>
+  <b>Last automated update: Fri, 06 Mar 2026 19:47:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
