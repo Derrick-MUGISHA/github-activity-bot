@@ -165,20 +165,6 @@
       "user": "Deeptej"
     },
     {
-      "title": "Building a Local PR Review Interface for Claude Code Plans",
-      "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
-      "published_at": "2026-03-04T00:27:49Z",
-      "description": "GitHub PR Review UI for Claude Code Plans",
-      "tags": [
-        "claudecode",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
-      "source": "Dev.to",
-      "user": "Eduard Maghakyan"
-    },
-    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -662,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1512,
       "user": "elder-plinius"
     },
     {
@@ -677,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1184,
       "user": "LeoYeAI"
     },
     {
@@ -692,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 402,
       "user": "chenhg5"
     },
     {
@@ -728,20 +714,6 @@
   ],
   "JavaScript": [
     {
-      "title": "React: Singletons aren't as evil as you think",
-      "url": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
-      "published_at": "2026-03-04T18:43:16Z",
-      "description": "In the world of React, the humble singleton gets a bit of a bad rap. It is often dismissed as a messy...",
-      "tags": [
-        "react",
-        "webdev",
-        "singleton"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozcggfsouuv2shb8vpiz.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
-    {
       "title": "The Old Seniority Definition Is Collapsing",
       "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
       "published_at": "2026-03-05T08:40:59Z",
@@ -770,6 +742,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
       "user": "Ovi ren"
+    },
+    {
+      "title": "React: Singletons aren't as evil as you think",
+      "url": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
+      "published_at": "2026-03-04T18:43:16Z",
+      "description": "In the world of React, the humble singleton gets a bit of a bad rap. It is often dismissed as a messy...",
+      "tags": [
+        "react",
+        "webdev",
+        "singleton"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozcggfsouuv2shb8vpiz.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
     },
     {
       "title": "Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)",
@@ -1037,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 199,
       "user": "FinPyromancerLog"
     },
     {
@@ -1279,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 2206,
+      "stars": 2307,
       "user": "phuryn"
     },
     {
@@ -1294,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1528,
+      "stars": 1532,
       "user": "ylytdeng"
     },
     {
@@ -1309,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1512,
       "user": "elder-plinius"
     },
     {
@@ -1339,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1184,
       "user": "LeoYeAI"
     }
   ],
@@ -1686,7 +1672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1528,
+      "stars": 1532,
       "user": "ylytdeng"
     }
   ],
@@ -1824,20 +1810,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png",
       "source": "Dev.to",
       "user": "Amara Graham"
-    },
-    {
-      "title": "Building a Local PR Review Interface for Claude Code Plans",
-      "url": "https://dev.to/eduardmaghakyan/building-a-local-pr-review-interface-for-claude-code-plans-57o2",
-      "published_at": "2026-03-04T00:27:49Z",
-      "description": "GitHub PR Review UI for Claude Code Plans",
-      "tags": [
-        "claudecode",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibpw5y0d1ptgv2i28hyv.png",
-      "source": "Dev.to",
-      "user": "Eduard Maghakyan"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -2000,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 199,
       "user": "FinPyromancerLog"
     },
     {
@@ -2075,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 2206,
+      "stars": 2307,
       "user": "phuryn"
     },
     {
@@ -2090,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
       "source": "GitHub",
-      "stars": 1528,
+      "stars": 1532,
       "user": "ylytdeng"
     },
     {
@@ -2105,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1512,
       "user": "elder-plinius"
     },
     {
@@ -2135,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1184,
       "user": "LeoYeAI"
     },
     {
@@ -2150,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 402,
       "user": "chenhg5"
     },
     {
@@ -2195,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "LeoChen-CoreMind"
     },
     {
