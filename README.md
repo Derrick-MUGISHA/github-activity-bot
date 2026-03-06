@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-06 20:00 CAT)
+## 📅 Latest Updates (2026-03-06 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc) _[Dev.to]_
 - [How I Use Multi-Agent AI to Debug Production Errors in My Laravel App](https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90) _[Dev.to]_
 
-_Last automated update: Fri, 06 Mar 2026 20:04:46 CAT_
+_Last automated update: Fri, 06 Mar 2026 21:02:50 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Fri, 06 Mar 2026 20:04:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Heap, stack, garbage collection
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 06 Mar 2026 18:04:46 GMT</b><br/>
+  <b>Last automated update: Fri, 06 Mar 2026 19:02:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
