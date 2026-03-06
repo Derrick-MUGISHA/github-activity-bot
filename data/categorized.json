@@ -31,6 +31,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
+      "url": "https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9",
+      "published_at": "2026-03-06T11:08:30Z",
+      "description": "Claude Code is one of the most capable terminal-based coding agents available today. It can read your...",
+      "tags": [
+        "ai",
+        "llm",
+        "backend",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbefsjw9skw9mh1j3j64.png",
+      "source": "Dev.to",
+      "user": "Hadil Ben Abdallah"
+    },
+    {
       "title": "Ship Less, Measure More",
       "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
       "published_at": "2026-03-06T22:07:43Z",
@@ -650,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1806,
+      "stars": 1814,
       "user": "elder-plinius"
     },
     {
@@ -665,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1329,
       "user": "LeoYeAI"
     },
     {
@@ -1253,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3187,
+      "stars": 3210,
       "user": "phuryn"
     },
     {
@@ -1268,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1806,
+      "stars": 1814,
       "user": "elder-plinius"
     },
     {
@@ -1313,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1329,
       "user": "LeoYeAI"
     }
   ],
@@ -1394,6 +1409,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
+      "url": "https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9",
+      "published_at": "2026-03-06T11:08:30Z",
+      "description": "Claude Code is one of the most capable terminal-based coding agents available today. It can read your...",
+      "tags": [
+        "ai",
+        "llm",
+        "backend",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbefsjw9skw9mh1j3j64.png",
+      "source": "Dev.to",
+      "user": "Hadil Ben Abdallah"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1695,6 +1725,21 @@
   ],
   "Tools": [
     {
+      "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
+      "url": "https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9",
+      "published_at": "2026-03-06T11:08:30Z",
+      "description": "Claude Code is one of the most capable terminal-based coding agents available today. It can read your...",
+      "tags": [
+        "ai",
+        "llm",
+        "backend",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbefsjw9skw9mh1j3j64.png",
+      "source": "Dev.to",
+      "user": "Hadil Ben Abdallah"
+    },
+    {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
       "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
       "published_at": "2026-03-06T17:12:22Z",
@@ -1768,21 +1813,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fquh4p724hndhc2208iwf.png",
       "source": "Dev.to",
       "user": "Ojie Oriarewo"
-    },
-    {
-      "title": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command",
-      "url": "https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio",
-      "published_at": "2026-03-05T13:53:48Z",
-      "description": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command   A few weeks ago...",
-      "tags": [
-        "cli",
-        "linux",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png",
-      "source": "Dev.to",
-      "user": "Hamza"
     },
     {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
@@ -1990,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3187,
+      "stars": 3210,
       "user": "phuryn"
     },
     {
@@ -2005,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1806,
+      "stars": 1814,
       "user": "elder-plinius"
     },
     {
@@ -2050,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1329,
       "user": "LeoYeAI"
     },
     {
