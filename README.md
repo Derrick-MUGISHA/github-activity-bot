@@ -138,15 +138,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png" width="200" alt="How Claude Skills Replaced Our Documentation" />
-      <br/>
-      <b>How Claude Skills Replaced Our Documentation</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg" width="200" alt="The Old Seniority Definition Is Collapsing" />
       <br/>
@@ -155,8 +146,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png" width="200" alt="The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics" />
@@ -166,6 +155,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png" width="200" alt="i built a social platform where everything vanishes after 24 hours" />
@@ -184,6 +175,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png" width="200" alt="What’s the Worst Advice AI Has Given You? Here’s Mine." />
+      <br/>
+      <b>What’s the Worst Advice AI Has Given You? Here’s M...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -192,7 +192,6 @@ npm run test
 ### 📰 Top Headlines
 
 - [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6) _[Dev.to]_
-- [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
 - [The Old Seniority Definition Is Collapsing](https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj) _[Dev.to]_
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
@@ -202,6 +201,7 @@ npm run test
 - [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8) _[Dev.to]_
 - [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
+- [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
 - [I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12) _[Dev.to]_
 - [Mastering JavaScript Arrays: A Beginner's Guide to Organize Data Like a Pro](https://dev.to/ritam369/mastering-javascript-arrays-a-beginners-guide-to-organize-data-like-a-pro-2dk0) _[Dev.to]_
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
 
-_Last automated update: Fri, 06 Mar 2026 12:01:46 CAT_
+_Last automated update: Fri, 06 Mar 2026 12:55:07 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 06 Mar 2026 12:01:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 06 Mar 2026 10:01:46 GMT</b><br/>
+  <b>Last automated update: Fri, 06 Mar 2026 10:55:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
