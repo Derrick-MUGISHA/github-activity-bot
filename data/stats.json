@@ -1,7 +1,7 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -31,7 +31,7 @@
     "2026-02-27": 3,
     "2026-03-02": 9,
     "2026-02-25": 2,
-    "2026-02-19": 1,
+    "2026-02-19": 2,
     "2026-02-22": 1,
     "2026-02-28": 6,
     "2026-03-01": 9,
@@ -70,15 +70,15 @@
   "top_tags": {
     "ai": 25,
     "github": 16,
+    "webdev": 15,
     "open-source": 15,
-    "webdev": 14,
     "javascript": 12,
+    "programming": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "gemini": 9,
     "productivity": 9,
-    "programming": 9,
     "python": 8,
     "discuss": 8,
     "devchallenge": 7,
@@ -86,8 +86,8 @@
     "go": 5,
     "showdev": 4,
     "geminireflections": 4,
-    "frontend": 4,
-    "devops": 3
+    "tutorial": 4,
+    "frontend": 4
   },
   "trending_topics": [],
   "language_percentages": {
