@@ -16,6 +16,21 @@
       "user": "Jon Gottfried"
     },
     {
+      "title": "Questions about building multimodal agents? The Google team might just have an answer for you!",
+      "url": "https://dev.to/devteam/questions-about-building-multimodal-agents-the-google-team-might-just-have-an-answer-for-you-e1j",
+      "published_at": "2026-03-06T21:44:16Z",
+      "description": "Each week, we collect community questions for the team at Google to answer on their weekly...",
+      "tags": [
+        "discuss",
+        "agents",
+        "ai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbiu8d1r7nss9ma7gopwr.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
       "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
       "published_at": "2026-03-05T19:02:16Z",
@@ -252,34 +267,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "AI Crash Course: AI, ML, LLM and More",
-      "url": "https://dev.to/kathryngrayson/ai-crash-course-ai-ml-llm-and-more-4ggk",
-      "published_at": "2026-03-04T15:42:26Z",
-      "description": "It’s common — especially outside of tech spaces — to see a handful of AI-related terms used almost interchangeably. Let’s take a moment to define each of these, so we can use them intentionally moving forward.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1kcc21p27ains59jnfs.png",
-      "source": "Dev.to",
-      "user": "Kathryn Grayson Nanz"
-    },
-    {
-      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
-      "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
-      "published_at": "2026-02-25T17:41:43Z",
-      "description": "Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
@@ -663,7 +650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "wahdalo"
     },
     {
@@ -678,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1738,
+      "stars": 1750,
       "user": "elder-plinius"
     },
     {
@@ -693,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1320,
       "user": "LeoYeAI"
     },
     {
@@ -738,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "heri1845"
     }
   ],
@@ -1053,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "FinPyromancerLog"
     },
     {
@@ -1113,7 +1100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "wahdalo"
     }
   ],
@@ -1295,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3109,
+      "stars": 3127,
       "user": "phuryn"
     },
     {
@@ -1310,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1738,
+      "stars": 1750,
       "user": "elder-plinius"
     },
     {
@@ -1340,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1351,
       "user": "World-Open-Graph"
     },
     {
@@ -1355,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1320,
       "user": "LeoYeAI"
     }
   ],
@@ -1957,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "FinPyromancerLog"
     },
     {
@@ -2017,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "wahdalo"
     },
     {
@@ -2032,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3109,
+      "stars": 3127,
       "user": "phuryn"
     },
     {
@@ -2047,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1738,
+      "stars": 1750,
       "user": "elder-plinius"
     },
     {
@@ -2077,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1351,
       "user": "World-Open-Graph"
     },
     {
@@ -2092,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1320,
       "user": "LeoYeAI"
     },
     {
@@ -2167,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "heri1845"
     }
   ]
