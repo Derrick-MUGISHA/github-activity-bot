@@ -36,7 +36,7 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦🟦 10 (9.5%)
+**WebDev**: 🟦🟦🟦🟦 11 (10.5%)
 
 **Cloud**: 🟦🟦 4 (3.8%)
 
@@ -44,9 +44,9 @@
 
 **DevOps**: 🟦 3 (2.9%)
 
-**Mobile**: 🟦 2 (1.9%)
+**Database**: 🟦 3 (2.9%)
 
-**Database**: 🟦 2 (1.9%)
+**Mobile**: 🟦 2 (1.9%)
 
 
 
@@ -216,7 +216,7 @@ npm run test
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 - [Getting the most out of Nano-Banana 2](https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k) _[Dev.to]_
 
-_Last automated update: Sat, 07 Mar 2026 23:17:49 CAT_
+_Last automated update: Sat, 07 Mar 2026 23:42:39 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 07 Mar 2026 23:17:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 21:17:49 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 21:42:39 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
