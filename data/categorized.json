@@ -285,6 +285,35 @@
       "user": "Deeptej"
     },
     {
+      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
+      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
+      "published_at": "2026-02-25T01:28:04Z",
+      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "productivity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
+      "source": "Dev.to",
+      "user": "aileen vl"
+    },
+    {
+      "title": "Oooh very interesting",
+      "url": "https://dev.to/ben/oooh-very-interesting-ohk",
+      "published_at": "2026-03-03T16:12:24Z",
+      "description": "Gemini 3.1 Flash-Lite: Developer guide...",
+      "tags": [
+        "gemini",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
       "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
       "published_at": "2026-02-25T17:41:43Z",
@@ -390,20 +419,6 @@
       "user": "Chris Noring"
     },
     {
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
-      "published_at": "2026-03-03T18:54:28Z",
-      "description": "Today, we're introducing Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series...",
-      "tags": [
-        "gemini",
-        "ai",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
-      "source": "Dev.to",
-      "user": "Alisa Fortin"
-    },
-    {
       "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
       "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
       "published_at": "2026-03-04T00:02:48Z",
@@ -416,6 +431,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
+      "published_at": "2026-03-03T18:54:28Z",
+      "description": "Today, we're introducing Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series...",
+      "tags": [
+        "gemini",
+        "ai",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
+      "source": "Dev.to",
+      "user": "Alisa Fortin"
     },
     {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
@@ -491,21 +520,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
       "source": "Dev.to",
       "user": "raddevus"
-    },
-    {
-      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
-      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
-      "published_at": "2026-03-01T13:53:25Z",
-      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
-      "tags": [
-        "agents",
-        "ai",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
-      "source": "Dev.to",
-      "user": "Ahnaf Tahmid"
     },
     {
       "title": "Airfoil",
@@ -640,21 +654,6 @@
       "user": "veesahni"
     },
     {
-      "title": "wahdalo/chatgpt-account-creator - GitHub Repository",
-      "url": "https://github.com/wahdalo/chatgpt-account-creator",
-      "published_at": "2026-03-01T14:48:32Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "wahdalo"
-    },
-    {
       "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "published_at": "2026-03-03T19:37:51Z",
@@ -666,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2190,
+      "stars": 2192,
       "user": "elder-plinius"
     },
     {
@@ -681,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1826,
+      "stars": 1872,
       "user": "karpathy"
     },
     {
@@ -726,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "SleuthCo"
     }
   ],
@@ -775,6 +774,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
       "user": "Ovi ren"
+    },
+    {
+      "title": "The Server-Side Mocking Gap Nobody Talks About",
+      "url": "https://dev.to/rrafatpanah/the-server-side-mocking-gap-nobody-talks-about-36jb",
+      "published_at": "2026-03-04T01:44:04Z",
+      "description": "Per-test server-side mocking using MSW, Playwright, and any fullstack framework.",
+      "tags": [
+        "webdev",
+        "playwright",
+        "tanstack",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o0qqt887p61qum8o6mn.png",
+      "source": "Dev.to",
+      "user": "Raphael Rafatpanah"
     },
     {
       "title": "React: Singletons aren't as evil as you think",
@@ -1060,19 +1074,19 @@
       "user": "vicnaum"
     },
     {
-      "title": "wahdalo/chatgpt-account-creator - GitHub Repository",
-      "url": "https://github.com/wahdalo/chatgpt-account-creator",
-      "published_at": "2026-03-01T14:48:32Z",
-      "description": "Trending GitHub Repository",
+      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
+      "url": "https://github.com/gradenGnostic/LegacyLauncher",
+      "published_at": "2026-03-04T17:44:07Z",
+      "description": "A custom launcher for Minecraft LCE.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 103,
-      "user": "wahdalo"
+      "stars": 104,
+      "user": "gradenGnostic"
     }
   ],
   "Python": [
@@ -1120,21 +1134,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "Introducing the Zen of DevOps",
-      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
-      "published_at": "2026-03-01T08:31:00Z",
-      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
-      "tags": [
-        "devops",
-        "sre",
-        "platformengineering",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
-      "source": "Dev.to",
-      "user": "Tibo Beijen"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1268,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2190,
+      "stars": 2192,
       "user": "elder-plinius"
     },
     {
@@ -1283,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1826,
+      "stars": 1872,
       "user": "karpathy"
     },
     {
@@ -1313,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1385,
+      "stars": 1386,
       "user": "World-Open-Graph"
     },
     {
@@ -1328,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 762,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1362,21 +1361,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
-    },
-    {
-      "title": "Introducing the Zen of DevOps",
-      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
-      "published_at": "2026-03-01T08:31:00Z",
-      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
-      "tags": [
-        "devops",
-        "sre",
-        "platformengineering",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
-      "source": "Dev.to",
-      "user": "Tibo Beijen"
     }
   ],
   "WebDev": [
@@ -1426,6 +1410,20 @@
       "user": "Hadil Ben Abdallah"
     },
     {
+      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
+      "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
+      "published_at": "2026-03-04T00:02:48Z",
+      "description": "I stopped reviewing code and let Google Gemini build my UI. Then I audited the results to see what autonomy in AI development actually produces.",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
+    },
+    {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
       "published_at": "2026-02-22T15:16:30Z",
@@ -1439,20 +1437,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch7vqjii90e7m04icowr.png",
       "source": "Dev.to",
       "user": "Anja Beisel"
-    },
-    {
-      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
-      "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
-      "published_at": "2026-03-04T00:02:48Z",
-      "description": "I stopped reviewing code and let Google Gemini build my UI. Then I audited the results to see what autonomy in AI development actually produces.",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
     },
     {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
@@ -1538,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 137,
       "user": "steipete"
     }
   ],
@@ -1570,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 762,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1606,21 +1590,6 @@
       "user": "Harish Aravindan"
     },
     {
-      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
-      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
-      "published_at": "2026-03-01T13:53:25Z",
-      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
-      "tags": [
-        "agents",
-        "ai",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
-      "source": "Dev.to",
-      "user": "Ahnaf Tahmid"
-    },
-    {
       "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
       "url": "https://github.com/SleuthCo/clawshield-public",
       "published_at": "2026-03-01T03:12:37Z",
@@ -1632,7 +1601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "SleuthCo"
     }
   ],
@@ -1706,7 +1675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 137,
       "user": "steipete"
     }
   ],
@@ -1765,7 +1734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "SleuthCo"
     }
   ],
@@ -1844,6 +1813,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png",
       "source": "Dev.to",
       "user": "Hamza"
+    },
+    {
+      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
+      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
+      "published_at": "2026-02-25T01:28:04Z",
+      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "productivity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
+      "source": "Dev.to",
+      "user": "aileen vl"
     },
     {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
@@ -2055,19 +2039,19 @@
       "user": "vicnaum"
     },
     {
-      "title": "wahdalo/chatgpt-account-creator - GitHub Repository",
-      "url": "https://github.com/wahdalo/chatgpt-account-creator",
-      "published_at": "2026-03-01T14:48:32Z",
-      "description": "Trending GitHub Repository",
+      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
+      "url": "https://github.com/gradenGnostic/LegacyLauncher",
+      "published_at": "2026-03-04T17:44:07Z",
+      "description": "A custom launcher for Minecraft LCE.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50321468?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 103,
-      "user": "wahdalo"
+      "stars": 104,
+      "user": "gradenGnostic"
     },
     {
       "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
@@ -2081,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2190,
+      "stars": 2192,
       "user": "elder-plinius"
     },
     {
@@ -2096,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1826,
+      "stars": 1872,
       "user": "karpathy"
     },
     {
@@ -2126,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1385,
+      "stars": 1386,
       "user": "World-Open-Graph"
     },
     {
@@ -2141,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 762,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2186,7 +2170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 137,
       "user": "steipete"
     },
     {
@@ -2216,7 +2200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "SleuthCo"
     }
   ]
