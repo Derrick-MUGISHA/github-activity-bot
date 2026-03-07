@@ -284,19 +284,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "AI Crash Course: AI, ML, LLM and More",
-      "url": "https://dev.to/kathryngrayson/ai-crash-course-ai-ml-llm-and-more-4ggk",
-      "published_at": "2026-03-04T15:42:26Z",
-      "description": "It’s common — especially outside of tech spaces — to see a handful of AI-related terms used almost interchangeably. Let’s take a moment to define each of these, so we can use them intentionally moving forward.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1kcc21p27ains59jnfs.png",
-      "source": "Dev.to",
-      "user": "Kathryn Grayson Nanz"
-    },
-    {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
       "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
       "published_at": "2026-02-25T17:41:43Z",
@@ -490,6 +477,21 @@
       "user": "Ahnaf Tahmid"
     },
     {
+      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
+      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
+      "published_at": "2026-02-26T08:08:54Z",
+      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
+      "tags": [
+        "claudecode",
+        "tailscale",
+        "ntfy",
+        "docker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
+      "source": "Dev.to",
+      "user": "Felipe Philipp"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -663,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2011,
+      "stars": 2016,
       "user": "elder-plinius"
     },
     {
@@ -1280,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3736,
+      "stars": 3741,
       "user": "phuryn"
     },
     {
@@ -1295,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2011,
+      "stars": 2016,
       "user": "elder-plinius"
     },
     {
@@ -1340,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1389,6 +1391,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
       "source": "Dev.to",
       "user": "Tibo Beijen"
+    },
+    {
+      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
+      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
+      "published_at": "2026-02-26T08:08:54Z",
+      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
+      "tags": [
+        "claudecode",
+        "tailscale",
+        "ntfy",
+        "docker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
+      "source": "Dev.to",
+      "user": "Felipe Philipp"
     }
   ],
   "WebDev": [
@@ -1567,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -2063,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3736,
+      "stars": 3741,
       "user": "phuryn"
     },
     {
@@ -2078,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2011,
+      "stars": 2016,
       "user": "elder-plinius"
     },
     {
@@ -2123,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2138,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 212,
       "user": "LeoChen-CoreMind"
     },
     {
