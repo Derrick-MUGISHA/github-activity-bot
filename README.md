@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-07 18:00 CAT)
+## 📅 Latest Updates (2026-03-07 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 
-_Last automated update: Sat, 07 Mar 2026 18:57:14 CAT_
+_Last automated update: Sat, 07 Mar 2026 19:23:18 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 07 Mar 2026 18:57:14 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Mutability, performance, use cases
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 16:57:14 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 17:23:18 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
