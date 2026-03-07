@@ -46,6 +46,21 @@
       "user": "Ken W Alger"
     },
     {
+      "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
+      "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
+      "published_at": "2026-03-07T17:10:00Z",
+      "description": "So you've been writing Go for a bit. Your main.go is growing. You've got a database call next to an...",
+      "tags": [
+        "go",
+        "ore",
+        "di",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png",
+      "source": "Dev.to",
+      "user": "Firas M. Darwish"
+    },
+    {
       "title": "Ship Less, Measure More",
       "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
       "published_at": "2026-03-06T22:07:43Z",
@@ -73,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
       "source": "Dev.to",
       "user": "Jon Gottfried"
+    },
+    {
+      "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
+      "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
+      "published_at": "2026-03-07T09:30:17Z",
+      "description": "I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.",
+      "tags": [
+        "postgres",
+        "ai",
+        "machinelearning",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
+      "source": "Dev.to",
+      "user": "Ahmet Zeybek"
     },
     {
       "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
@@ -253,35 +283,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png",
       "source": "Dev.to",
       "user": "Deeptej"
-    },
-    {
-      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
-      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
-      "published_at": "2026-02-25T01:28:04Z",
-      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
-      "source": "Dev.to",
-      "user": "aileen vl"
-    },
-    {
-      "title": "Oooh very interesting",
-      "url": "https://dev.to/ben/oooh-very-interesting-ohk",
-      "published_at": "2026-03-03T16:12:24Z",
-      "description": "Gemini 3.1 Flash-Lite: Developer guide...",
-      "tags": [
-        "gemini",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
@@ -665,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2180,
+      "stars": 2188,
       "user": "elder-plinius"
     },
     {
@@ -680,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1592,
+      "stars": 1730,
       "user": "karpathy"
     },
     {
@@ -695,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1441,
       "user": "LeoYeAI"
     },
     {
@@ -774,21 +775,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
       "user": "Ovi ren"
-    },
-    {
-      "title": "The Server-Side Mocking Gap Nobody Talks About",
-      "url": "https://dev.to/rrafatpanah/the-server-side-mocking-gap-nobody-talks-about-36jb",
-      "published_at": "2026-03-04T01:44:04Z",
-      "description": "Per-test server-side mocking using MSW, Playwright, and any fullstack framework.",
-      "tags": [
-        "webdev",
-        "playwright",
-        "tanstack",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o0qqt887p61qum8o6mn.png",
-      "source": "Dev.to",
-      "user": "Raphael Rafatpanah"
     },
     {
       "title": "React: Singletons aren't as evil as you think",
@@ -1091,6 +1077,21 @@
   ],
   "Python": [
     {
+      "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
+      "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
+      "published_at": "2026-03-07T09:30:17Z",
+      "description": "I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.",
+      "tags": [
+        "postgres",
+        "ai",
+        "machinelearning",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
+      "source": "Dev.to",
+      "user": "Ahmet Zeybek"
+    },
+    {
       "title": "Get started with GitHub Copilot SDK",
       "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
       "published_at": "2026-03-04T20:48:00Z",
@@ -1267,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2180,
+      "stars": 2188,
       "user": "elder-plinius"
     },
     {
@@ -1282,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1592,
+      "stars": 1730,
       "user": "karpathy"
     },
     {
@@ -1297,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1441,
       "user": "LeoYeAI"
     },
     {
@@ -1327,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 758,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1537,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 121,
       "user": "steipete"
     }
   ],
@@ -1569,7 +1570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 758,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1637,6 +1638,36 @@
   ],
   "Database": [
     {
+      "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
+      "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
+      "published_at": "2026-03-07T17:10:00Z",
+      "description": "So you've been writing Go for a bit. Your main.go is growing. You've got a database call next to an...",
+      "tags": [
+        "go",
+        "ore",
+        "di",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png",
+      "source": "Dev.to",
+      "user": "Firas M. Darwish"
+    },
+    {
+      "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
+      "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
+      "published_at": "2026-03-07T09:30:17Z",
+      "description": "I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.",
+      "tags": [
+        "postgres",
+        "ai",
+        "machinelearning",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
+      "source": "Dev.to",
+      "user": "Ahmet Zeybek"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1675,7 +1706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 121,
       "user": "steipete"
     }
   ],
@@ -1813,21 +1844,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png",
       "source": "Dev.to",
       "user": "Hamza"
-    },
-    {
-      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
-      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
-      "published_at": "2026-02-25T01:28:04Z",
-      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
-      "source": "Dev.to",
-      "user": "aileen vl"
     },
     {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
@@ -2065,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2180,
+      "stars": 2188,
       "user": "elder-plinius"
     },
     {
@@ -2080,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1592,
+      "stars": 1730,
       "user": "karpathy"
     },
     {
@@ -2095,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1441,
       "user": "LeoYeAI"
     },
     {
@@ -2125,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 758,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2170,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 121,
       "user": "steipete"
     },
     {

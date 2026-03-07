@@ -30,21 +30,21 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **WebDev**: 🟦🟦🟦🟦 11 (10.5%)
+
+**Database**: 🟦🟦 5 (4.8%)
 
 **Cloud**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦🟦 4 (3.8%)
 
 **DevOps**: 🟦 3 (2.9%)
-
-**Database**: 🟦 3 (2.9%)
 
 **Mobile**: 🟦 2 (1.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.9 (29.9%)
-Java            ███████████████████████ 23.0 (23.0%)
-Go              ██████████████████████ 21.8 (21.8%)
-Python          █████████████████████ 20.7 (20.7%)
+JavaScript      ██████████████████████████████ 28.4 (28.4%)
+Go              ████████████████████████ 22.7 (22.7%)
+Java            ████████████████████████ 22.7 (22.7%)
+Python          ███████████████████████ 21.6 (21.6%)
 PHP             ██ 2.3 (2.3%)
 Rust            █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -72,10 +72,10 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 26
+    "JavaScript" : 25
+    "Go" : 20
     "Java" : 20
-    "Go" : 19
-    "Python" : 18
+    "Python" : 19
     "PHP" : 2
     "Rust" : 1
     "Swift" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![frontend](https://img.shields.io/badge/frontend-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![gemini](https://img.shields.io/badge/gemini-9-blue) ![productivity](https://img.shields.io/badge/productivity-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-08 0:00 CAT)
+## 📅 Latest Updates (2026-03-08 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -201,8 +201,11 @@ npm run test
 - [I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents](https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624) _[Dev.to]_
 - [Advice I’d Send Back in Time: Technology in 2026 and Four Lessons for My High School Self](https://dev.to/theoriginalbpc/advice-id-send-back-in-time-technology-in-2026-and-four-lessons-for-my-high-school-self-2elj) _[Dev.to]_
 - [Archival Intelligence: A Forensic Rare Book Auditor](https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448) _[Dev.to]_
+- [🏗️ Building a Clean Architecture API with Go, Ore, and SQLite](https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf) _[Dev.to]_
+- [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6) _[Dev.to]_
+- [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [Are you more of a CLI person or a GUI person](https://dev.to/ben/are-you-more-of-a-cli-person-or-a-gui-person-37n5) _[Dev.to]_
 - [AI Can't Recreate Thrust (But It Can Help You Understand It)](https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d) _[Dev.to]_
 - [Questions about building multimodal agents? The Google team might just have an answer for you!](https://dev.to/devteam/questions-about-building-multimodal-agents-the-google-team-might-just-have-an-answer-for-you-e1j) _[Dev.to]_
@@ -212,11 +215,8 @@ npm run test
 - [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
 - [I Built a Pixel Art Village Where AI Characters Have Real Emotions](https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg) _[Dev.to]_
-- [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
-- [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
-- [Getting the most out of Nano-Banana 2](https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k) _[Dev.to]_
 
-_Last automated update: Sun, 08 Mar 2026 00:47:31 CAT_
+_Last automated update: Sun, 08 Mar 2026 01:19:07 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 08 Mar 2026 00:47:31 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 22:47:31 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 23:19:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
