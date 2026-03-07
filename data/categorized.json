@@ -16,20 +16,6 @@
       "user": "Hadil Ben Abdallah"
     },
     {
-      "title": "Ship Less, Measure More",
-      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
-      "published_at": "2026-03-06T22:07:43Z",
-      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
-      "tags": [
-        "ai",
-        "programming",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
-      "source": "Dev.to",
-      "user": "Mike Krop"
-    },
-    {
       "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
       "url": "https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d",
       "published_at": "2026-03-06T19:12:30Z",
@@ -58,6 +44,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbiu8d1r7nss9ma7gopwr.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Ship Less, Measure More",
+      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
+      "published_at": "2026-03-06T22:07:43Z",
+      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
+      "tags": [
+        "ai",
+        "programming",
+        "management"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
+      "source": "Dev.to",
+      "user": "Mike Krop"
     },
     {
       "title": "Supercharging Open Source Projects With Free AI Code Reviews",
@@ -663,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 1968,
       "user": "elder-plinius"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1374,
       "user": "LeoYeAI"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "heri1845"
     },
     {
@@ -1295,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3596,
+      "stars": 3613,
       "user": "phuryn"
     },
     {
@@ -1310,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 1968,
       "user": "elder-plinius"
     },
     {
@@ -1325,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1374,
       "user": "LeoYeAI"
     },
     {
@@ -1340,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1369,
+      "stars": 1370,
       "user": "World-Open-Graph"
     },
     {
@@ -1355,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 710,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1582,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 710,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -2078,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3596,
+      "stars": 3613,
       "user": "phuryn"
     },
     {
@@ -2093,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 1968,
       "user": "elder-plinius"
     },
     {
@@ -2108,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1374,
       "user": "LeoYeAI"
     },
     {
@@ -2123,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1369,
+      "stars": 1370,
       "user": "World-Open-Graph"
     },
     {
@@ -2138,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 710,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2153,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2168,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "heri1845"
     },
     {
