@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-07 20:00 CAT)
+## 📅 Latest Updates (2026-03-07 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 
-_Last automated update: Sat, 07 Mar 2026 20:36:58 CAT_
+_Last automated update: Sat, 07 Mar 2026 21:01:32 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 07 Mar 2026 20:36:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 18:36:58 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 19:01:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
