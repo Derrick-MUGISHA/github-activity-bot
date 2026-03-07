@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-07-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (45.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (46.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (30.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.3%)
 
-**WebDev**: 🟦🟦🟦🟦 10 (9.7%)
+**WebDev**: 🟦🟦🟦🟦 10 (9.6%)
 
-**DevOps**: 🟦🟦 4 (3.9%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
-**Cloud**: 🟦🟦 4 (3.9%)
+**Cloud**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (3.9%)
+**Security**: 🟦🟦 4 (3.8%)
 
 **Mobile**: 🟦 2 (1.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![frontend](https://img.shields.io/badge/frontend-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![frontend](https://img.shields.io/badge/frontend-5-blue) 
 
 
 
@@ -162,6 +162,15 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhnr9x1wdwamf48vw2t2.png" width="200" alt="Archival Intelligence: A Forensic Rare Book Auditor" />
+      <br/>
+      <b>Archival Intelligence: A Forensic Rare Book Audito...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/snowman647/ship-less-measure-more-58m4">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png" width="200" alt="Ship Less, Measure More" />
       <br/>
@@ -179,15 +188,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ben/are-you-more-of-a-cli-person-or-a-gui-person-37n5">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fherizfit8lxvsj5vswgo.png" width="200" alt="Are you more of a CLI person or a GUI person" />
-      <br/>
-      <b>Are you more of a CLI person or a GUI person</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -198,6 +198,7 @@ npm run test
 - [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m96) _[Dev.to]_
 - [Advice I’d Send Back in Time: Technology in 2026 and Four Lessons for My High School Self](https://dev.to/theoriginalbpc/advice-id-send-back-in-time-technology-in-2026-and-four-lessons-for-my-high-school-self-2elj) _[Dev.to]_
+- [Archival Intelligence: A Forensic Rare Book Auditor](https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6) _[Dev.to]_
 - [Are you more of a CLI person or a GUI person](https://dev.to/ben/are-you-more-of-a-cli-person-or-a-gui-person-37n5) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 - [Getting the most out of Nano-Banana 2](https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k) _[Dev.to]_
-- [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 
-_Last automated update: Sat, 07 Mar 2026 17:19:51 CAT_
+_Last automated update: Sat, 07 Mar 2026 17:44:57 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 07 Mar 2026 17:19:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. JavaScript: Implement a debounce function from scratch
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 15:19:51 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 15:44:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
