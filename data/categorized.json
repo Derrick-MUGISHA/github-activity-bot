@@ -620,7 +620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2081,
+      "stars": 2087,
       "user": "elder-plinius"
     },
     {
@@ -635,7 +635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1418,
+      "stars": 1421,
       "user": "LeoYeAI"
     },
     {
@@ -665,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "SleuthCo"
     }
   ],
@@ -1010,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5636644?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "vicnaum"
     },
     {
@@ -1192,7 +1192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 4104,
+      "stars": 4144,
       "user": "phuryn"
     },
     {
@@ -1207,7 +1207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2081,
+      "stars": 2087,
       "user": "elder-plinius"
     },
     {
@@ -1222,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1418,
+      "stars": 1421,
       "user": "LeoYeAI"
     },
     {
@@ -1237,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1376,
+      "stars": 1377,
       "user": "World-Open-Graph"
     },
     {
@@ -1556,7 +1556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "SleuthCo"
     }
   ],
@@ -1644,7 +1644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "SleuthCo"
     }
   ],
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5636644?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "vicnaum"
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 4104,
+      "stars": 4144,
       "user": "phuryn"
     },
     {
@@ -1990,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2081,
+      "stars": 2087,
       "user": "elder-plinius"
     },
     {
@@ -2005,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1418,
+      "stars": 1421,
       "user": "LeoYeAI"
     },
     {
@@ -2020,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1376,
+      "stars": 1377,
       "user": "World-Open-Graph"
     },
     {
@@ -2069,6 +2069,21 @@
       "user": "heri1845"
     },
     {
+      "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "url": "https://github.com/SleuthCo/clawshield-public",
+      "published_at": "2026-03-01T03:12:37Z",
+      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
+      "source": "GitHub",
+      "stars": 94,
+      "user": "SleuthCo"
+    },
+    {
       "title": "nolenroyalty/yt-browse - it's like search, but for youtube",
       "url": "https://github.com/nolenroyalty/yt-browse",
       "published_at": "2026-03-02T19:12:33Z",
@@ -2084,21 +2099,6 @@
       "user": "nolenroyalty"
     },
     {
-      "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
-      "url": "https://github.com/SleuthCo/clawshield-public",
-      "published_at": "2026-03-01T03:12:37Z",
-      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
-      "source": "GitHub",
-      "stars": 93,
-      "user": "SleuthCo"
-    },
-    {
       "title": "hoangtuvungcao/mango-waf - 🥭 Mango Shield Apex: High-performance L7 DDoS Protection & WAF with Real-time DStat Dashboard",
       "url": "https://github.com/hoangtuvungcao/mango-waf",
       "published_at": "2026-03-07T05:48:21Z",
@@ -2110,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206301327?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "hoangtuvungcao"
     }
   ]
