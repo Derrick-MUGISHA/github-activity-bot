@@ -225,21 +225,6 @@
       "user": "Deeptej"
     },
     {
-      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
-      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
-      "published_at": "2026-02-25T01:28:04Z",
-      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
-      "source": "Dev.to",
-      "user": "aileen vl"
-    },
-    {
       "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
       "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
       "published_at": "2026-03-04T15:02:08Z",
@@ -253,6 +238,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
       "source": "Dev.to",
       "user": "Daniel Balcarek"
+    },
+    {
+      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
+      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
+      "published_at": "2026-02-25T01:28:04Z",
+      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "productivity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
+      "source": "Dev.to",
+      "user": "aileen vl"
     },
     {
       "title": "I Run a Solo Company with AI Agent Departments",
@@ -663,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1936,
+      "stars": 1941,
       "user": "elder-plinius"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1365,
       "user": "LeoYeAI"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 169,
       "user": "heri1845"
     },
     {
@@ -713,21 +713,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "i built a social platform where everything vanishes after 24 hours",
-      "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
-      "published_at": "2026-03-03T04:44:50Z",
-      "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
-      "tags": [
-        "socialmedia",
-        "showdev",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
-      "source": "Dev.to",
-      "user": "Ovi ren"
-    },
     {
       "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
       "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
@@ -802,6 +787,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4j58fo29ivmj9o4xwn5.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
+    },
+    {
+      "title": "i built a social platform where everything vanishes after 24 hours",
+      "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
+      "published_at": "2026-03-03T04:44:50Z",
+      "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
+      "tags": [
+        "socialmedia",
+        "showdev",
+        "webdev",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
+      "source": "Dev.to",
+      "user": "Ovi ren"
     },
     {
       "title": "The Server-Side Mocking Gap Nobody Talks About",
@@ -1295,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3530,
+      "stars": 3552,
       "user": "phuryn"
     },
     {
@@ -1310,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1936,
+      "stars": 1941,
       "user": "elder-plinius"
     },
     {
@@ -1340,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1365,
       "user": "LeoYeAI"
     },
     {
@@ -1355,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 703,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1582,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 703,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -2078,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3530,
+      "stars": 3552,
       "user": "phuryn"
     },
     {
@@ -2093,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1936,
+      "stars": 1941,
       "user": "elder-plinius"
     },
     {
@@ -2123,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1365,
       "user": "LeoYeAI"
     },
     {
@@ -2138,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 703,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2168,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 169,
       "user": "heri1845"
     },
     {
