@@ -32,7 +32,7 @@
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.8 (31.8%)
-Java            █████████████████████ 22.7 (22.7%)
-Go              ███████████████████ 20.5 (20.5%)
-Python          ███████████████████ 20.5 (20.5%)
+JavaScript      ██████████████████████████████ 31.0 (31.0%)
+Java            ██████████████████████ 23.0 (23.0%)
+Go              ████████████████████ 20.7 (20.7%)
+Python          ████████████████████ 20.7 (20.7%)
 PHP             ██ 2.3 (2.3%)
 Rust            █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -72,7 +72,7 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 28
+    "JavaScript" : 27
     "Java" : 20
     "Go" : 18
     "Python" : 18
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-07 13:00 CAT)
+## 📅 Latest Updates (2026-03-07 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 - [Getting the most out of Nano-Banana 2](https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k) _[Dev.to]_
 
-_Last automated update: Sat, 07 Mar 2026 13:53:51 CAT_
+_Last automated update: Sat, 07 Mar 2026 14:39:15 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 07 Mar 2026 13:53:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 11:53:51 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 12:39:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
