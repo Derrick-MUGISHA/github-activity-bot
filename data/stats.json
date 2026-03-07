@@ -18,9 +18,9 @@
     "Tools": 32
   },
   "by_language": {
-    "JavaScript": 29,
     "Rust": 1,
     "Go": 18,
+    "JavaScript": 29,
     "PHP": 2,
     "Python": 18,
     "Java": 21,
@@ -28,8 +28,8 @@
   },
   "by_date": {
     "2026-03-06": 11,
-    "2026-03-05": 8,
     "2026-03-04": 12,
+    "2026-03-05": 8,
     "2026-02-27": 2,
     "2026-03-02": 11,
     "2026-03-03": 16,
@@ -92,9 +92,9 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "32.2",
     "Rust": "1.1",
     "Go": "20.0",
+    "JavaScript": "32.2",
     "PHP": "2.2",
     "Python": "20.0",
     "Java": "23.3",
