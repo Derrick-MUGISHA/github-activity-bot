@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-07 19:00 CAT)
+## 📅 Latest Updates (2026-03-07 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 
-_Last automated update: Sat, 07 Mar 2026 19:57:17 CAT_
+_Last automated update: Sat, 07 Mar 2026 20:36:58 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 07 Mar 2026 19:57:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain GIL and its implications for multithreading
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Iterative or recursive, three pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 17:57:17 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 18:36:58 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
