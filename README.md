@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-07 14:00 CAT)
+## 📅 Latest Updates (2026-03-07 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 - [Getting the most out of Nano-Banana 2](https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k) _[Dev.to]_
 
-_Last automated update: Sat, 07 Mar 2026 14:39:15 CAT_
+_Last automated update: Sat, 07 Mar 2026 15:26:41 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 07 Mar 2026 14:39:15 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Heap, stack, garbage collection
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 12:39:15 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 13:26:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
