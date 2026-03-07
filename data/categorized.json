@@ -1,6 +1,35 @@
 {
   "AI": [
     {
+      "title": "Ship Less, Measure More",
+      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
+      "published_at": "2026-03-06T22:07:43Z",
+      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
+      "tags": [
+        "ai",
+        "programming",
+        "management"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
+      "source": "Dev.to",
+      "user": "Mike Krop"
+    },
+    {
+      "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
+      "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
+      "published_at": "2026-03-04T20:19:27Z",
+      "description": "Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...",
+      "tags": [
+        "ai",
+        "forem",
+        "devto",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
+      "source": "Dev.to",
+      "user": "Jon Gottfried"
+    },
+    {
       "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
       "url": "https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d",
       "published_at": "2026-03-06T19:12:30Z",
@@ -31,20 +60,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Ship Less, Measure More",
-      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
-      "published_at": "2026-03-06T22:07:43Z",
-      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
-      "tags": [
-        "ai",
-        "programming",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
-      "source": "Dev.to",
-      "user": "Mike Krop"
-    },
-    {
       "title": "Supercharging Open Source Projects With Free AI Code Reviews",
       "url": "https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m",
       "published_at": "2026-03-06T19:19:05Z",
@@ -58,21 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8d4nm8mtxmyu7tnz9jn.png",
       "source": "Dev.to",
       "user": "Dana Fine"
-    },
-    {
-      "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
-      "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
-      "published_at": "2026-03-04T20:19:27Z",
-      "description": "Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...",
-      "tags": [
-        "ai",
-        "forem",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
-      "source": "Dev.to",
-      "user": "Jon Gottfried"
     },
     {
       "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
@@ -665,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2016,
+      "stars": 2023,
       "user": "elder-plinius"
     },
     {
@@ -680,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1390,
+      "stars": 1394,
       "user": "LeoYeAI"
     },
     {
@@ -1100,7 +1100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28833634?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 47,
       "user": "MrXujiang"
     }
   ],
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3741,
+      "stars": 3761,
       "user": "phuryn"
     },
     {
@@ -1297,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2016,
+      "stars": 2023,
       "user": "elder-plinius"
     },
     {
@@ -1312,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1390,
+      "stars": 1394,
       "user": "LeoYeAI"
     },
     {
@@ -1342,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1584,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1740,6 +1740,21 @@
   ],
   "Tools": [
     {
+      "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
+      "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
+      "published_at": "2026-03-06T17:12:22Z",
+      "description": "I kept pasting sensitive API payloads into online JSON formatters — and feeling uneasy about it.  As...",
+      "tags": [
+        "productivity",
+        "opensource",
+        "tooling",
+        "formatter"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femmmsmvmml8j2j5vkfo6.png",
+      "source": "Dev.to",
+      "user": "Chung Ho"
+    },
+    {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
       "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
       "published_at": "2026-03-06T16:03:22Z",
@@ -1768,21 +1783,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbefsjw9skw9mh1j3j64.png",
       "source": "Dev.to",
       "user": "Hadil Ben Abdallah"
-    },
-    {
-      "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
-      "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
-      "published_at": "2026-03-06T17:12:22Z",
-      "description": "I kept pasting sensitive API payloads into online JSON formatters — and feeling uneasy about it.  As...",
-      "tags": [
-        "productivity",
-        "opensource",
-        "tooling",
-        "formatter"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femmmsmvmml8j2j5vkfo6.png",
-      "source": "Dev.to",
-      "user": "Chung Ho"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -2080,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3741,
+      "stars": 3761,
       "user": "phuryn"
     },
     {
@@ -2095,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2016,
+      "stars": 2023,
       "user": "elder-plinius"
     },
     {
@@ -2110,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1390,
+      "stars": 1394,
       "user": "LeoYeAI"
     },
     {
@@ -2140,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2155,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 214,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2215,7 +2215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28833634?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 47,
       "user": "MrXujiang"
     }
   ]
