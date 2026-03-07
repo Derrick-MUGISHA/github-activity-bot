@@ -30,21 +30,6 @@
       "user": "Mike Krop"
     },
     {
-      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
-      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
-      "published_at": "2026-03-05T19:02:16Z",
-      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
-      "source": "Dev.to",
-      "user": "devjiro"
-    },
-    {
       "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
       "url": "https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d",
       "published_at": "2026-03-06T19:12:30Z",
@@ -163,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
       "source": "Dev.to",
       "user": "Magnus Rødseth"
+    },
+    {
+      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
+      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
+      "published_at": "2026-03-05T19:02:16Z",
+      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "sideprojects"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
+      "source": "Dev.to",
+      "user": "devjiro"
     },
     {
       "title": "SaaS Companies Fear Me: Cloning* Granola for Linux",
@@ -663,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1941,
+      "stars": 1959,
       "user": "elder-plinius"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1371,
       "user": "LeoYeAI"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "heri1845"
     },
     {
@@ -713,21 +713,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
-      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
-      "published_at": "2026-03-05T19:02:16Z",
-      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
-      "source": "Dev.to",
-      "user": "devjiro"
-    },
     {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
       "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
@@ -772,6 +757,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
+      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
+      "published_at": "2026-03-05T19:02:16Z",
+      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "sideprojects"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
+      "source": "Dev.to",
+      "user": "devjiro"
     },
     {
       "title": "Mastering JavaScript Arrays: A Beginner's Guide to Organize Data Like a Pro",
@@ -1295,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3552,
+      "stars": 3596,
       "user": "phuryn"
     },
     {
@@ -1310,23 +1310,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1941,
+      "stars": 1959,
       "user": "elder-plinius"
-    },
-    {
-      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
-      "url": "https://github.com/World-Open-Graph/br-acc",
-      "published_at": "2026-03-01T15:24:07Z",
-      "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
-      "source": "GitHub",
-      "stars": 1367,
-      "user": "World-Open-Graph"
     },
     {
       "title": "LeoYeAI/openclaw-master-skills - 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
@@ -1340,8 +1325,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1371,
       "user": "LeoYeAI"
+    },
+    {
+      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
+      "url": "https://github.com/World-Open-Graph/br-acc",
+      "published_at": "2026-03-01T15:24:07Z",
+      "description": "World Transparency Graph public codebase (🚧 website in progress)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
+      "source": "GitHub",
+      "stars": 1369,
+      "user": "World-Open-Graph"
     },
     {
       "title": "PKU-YuanGroup/Helios - Helios: Real Real-Time Long Video Generation Model",
@@ -1355,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 704,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1582,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 704,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -2078,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3552,
+      "stars": 3596,
       "user": "phuryn"
     },
     {
@@ -2093,23 +2093,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1941,
+      "stars": 1959,
       "user": "elder-plinius"
-    },
-    {
-      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
-      "url": "https://github.com/World-Open-Graph/br-acc",
-      "published_at": "2026-03-01T15:24:07Z",
-      "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
-      "source": "GitHub",
-      "stars": 1367,
-      "user": "World-Open-Graph"
     },
     {
       "title": "LeoYeAI/openclaw-master-skills - 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
@@ -2123,8 +2108,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1371,
       "user": "LeoYeAI"
+    },
+    {
+      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
+      "url": "https://github.com/World-Open-Graph/br-acc",
+      "published_at": "2026-03-01T15:24:07Z",
+      "description": "World Transparency Graph public codebase (🚧 website in progress)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
+      "source": "GitHub",
+      "stars": 1369,
+      "user": "World-Open-Graph"
     },
     {
       "title": "PKU-YuanGroup/Helios - Helios: Real Real-Time Long Video Generation Model",
@@ -2138,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 704,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2153,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2168,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "heri1845"
     },
     {
