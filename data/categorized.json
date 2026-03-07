@@ -665,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1814,
+      "stars": 1867,
       "user": "elder-plinius"
     },
     {
@@ -680,38 +680,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1329,
+      "stars": 1338,
       "user": "LeoYeAI"
-    },
-    {
-      "title": "chenhg5/cc-connect - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
-      "url": "https://github.com/chenhg5/cc-connect",
-      "published_at": "2026-02-28T02:39:39Z",
-      "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
-      "source": "GitHub",
-      "stars": 429,
-      "user": "chenhg5"
-    },
-    {
-      "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "url": "https://github.com/geekjourneyx/jina-cli",
-      "published_at": "2026-02-28T08:39:26Z",
-      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "geekjourneyx"
     },
     {
       "title": "heri1845/ai-meme-trading-bot - Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
@@ -725,8 +695,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 163,
       "user": "heri1845"
+    },
+    {
+      "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "url": "https://github.com/SleuthCo/clawshield-public",
+      "published_at": "2026-03-01T03:12:37Z",
+      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "SleuthCo"
     }
   ],
   "JavaScript": [
@@ -1026,7 +1011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "FinPyromancerLog"
     },
     {
@@ -1088,6 +1073,21 @@
       "source": "GitHub",
       "stars": 102,
       "user": "wahdalo"
+    },
+    {
+      "title": "MrXujiang/pxcharts-vue - Multi-dimensional table solution developed based on Vue 3 ｜ vue3实现的多维表格解决方案",
+      "url": "https://github.com/MrXujiang/pxcharts-vue",
+      "published_at": "2026-03-02T09:40:56Z",
+      "description": "Multi-dimensional table solution developed based on Vue 3 ｜ vue3实现的多维表格解决方案",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28833634?v=4",
+      "source": "GitHub",
+      "stars": 44,
+      "user": "MrXujiang"
     }
   ],
   "Python": [
@@ -1268,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3210,
+      "stars": 3302,
       "user": "phuryn"
     },
     {
@@ -1283,23 +1283,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1814,
+      "stars": 1867,
       "user": "elder-plinius"
-    },
-    {
-      "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "url": "https://github.com/ylytdeng/wechat-decrypt",
-      "published_at": "2026-02-28T04:03:44Z",
-      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
-      "source": "GitHub",
-      "stars": 1550,
-      "user": "ylytdeng"
     },
     {
       "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
@@ -1313,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1358,
       "user": "World-Open-Graph"
     },
     {
@@ -1328,8 +1313,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1329,
+      "stars": 1338,
       "user": "LeoYeAI"
+    },
+    {
+      "title": "PKU-YuanGroup/Helios - Helios: Real Real-Time Long Video Generation Model",
+      "url": "https://github.com/PKU-YuanGroup/Helios",
+      "published_at": "2026-03-02T13:37:00Z",
+      "description": "Helios: Real Real-Time Long Video Generation Model",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
+      "source": "GitHub",
+      "stars": 675,
+      "user": "PKU-YuanGroup"
     }
   ],
   "DevOps": [
@@ -1540,21 +1540,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "url": "https://github.com/geekjourneyx/jina-cli",
-      "published_at": "2026-02-28T08:39:26Z",
-      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "geekjourneyx"
     }
   ],
   "Mobile": [
@@ -1572,6 +1557,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwf8r18ozmm88bfnrl4eo.png",
       "source": "Dev.to",
       "user": "Samuel Komfi"
+    },
+    {
+      "title": "PKU-YuanGroup/Helios - Helios: Real Real-Time Long Video Generation Model",
+      "url": "https://github.com/PKU-YuanGroup/Helios",
+      "published_at": "2026-03-02T13:37:00Z",
+      "description": "Helios: Real Real-Time Long Video Generation Model",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
+      "source": "GitHub",
+      "stars": 675,
+      "user": "PKU-YuanGroup"
     }
   ],
   "Cloud": [
@@ -1619,6 +1619,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
       "source": "Dev.to",
       "user": "Ahnaf Tahmid"
+    },
+    {
+      "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "url": "https://github.com/SleuthCo/clawshield-public",
+      "published_at": "2026-03-01T03:12:37Z",
+      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "SleuthCo"
     }
   ],
   "Database": [
@@ -1662,21 +1677,6 @@
       "source": "GitHub",
       "stars": 148,
       "user": "r3nzsec"
-    },
-    {
-      "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "url": "https://github.com/ylytdeng/wechat-decrypt",
-      "published_at": "2026-02-28T04:03:44Z",
-      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
-      "source": "GitHub",
-      "stars": 1550,
-      "user": "ylytdeng"
     }
   ],
   "Security": [
@@ -1721,6 +1721,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "url": "https://github.com/SleuthCo/clawshield-public",
+      "published_at": "2026-03-01T03:12:37Z",
+      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "SleuthCo"
     }
   ],
   "Tools": [
@@ -1813,6 +1828,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fquh4p724hndhc2208iwf.png",
       "source": "Dev.to",
       "user": "Ojie Oriarewo"
+    },
+    {
+      "title": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command",
+      "url": "https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio",
+      "published_at": "2026-03-05T13:53:48Z",
+      "description": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command   A few weeks ago...",
+      "tags": [
+        "cli",
+        "linux",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png",
+      "source": "Dev.to",
+      "user": "Hamza"
     },
     {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
@@ -1945,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "FinPyromancerLog"
     },
     {
@@ -2020,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3210,
+      "stars": 3302,
       "user": "phuryn"
     },
     {
@@ -2035,23 +2065,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1814,
+      "stars": 1867,
       "user": "elder-plinius"
-    },
-    {
-      "title": "ylytdeng/wechat-decrypt - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "url": "https://github.com/ylytdeng/wechat-decrypt",
-      "published_at": "2026-02-28T04:03:44Z",
-      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/848478?v=4",
-      "source": "GitHub",
-      "stars": 1550,
-      "user": "ylytdeng"
     },
     {
       "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
@@ -2065,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1358,
       "user": "World-Open-Graph"
     },
     {
@@ -2080,53 +2095,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1329,
+      "stars": 1338,
       "user": "LeoYeAI"
     },
     {
-      "title": "chenhg5/cc-connect - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
-      "url": "https://github.com/chenhg5/cc-connect",
-      "published_at": "2026-02-28T02:39:39Z",
-      "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+      "title": "PKU-YuanGroup/Helios - Helios: Real Real-Time Long Video Generation Model",
+      "url": "https://github.com/PKU-YuanGroup/Helios",
+      "published_at": "2026-03-02T13:37:00Z",
+      "description": "Helios: Real Real-Time Long Video Generation Model",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4344486?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 429,
-      "user": "chenhg5"
-    },
-    {
-      "title": "Resinat/Resin - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.",
-      "url": "https://github.com/Resinat/Resin",
-      "published_at": "2026-02-28T07:18:53Z",
-      "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264578909?v=4",
-      "source": "GitHub",
-      "stars": 346,
-      "user": "Resinat"
-    },
-    {
-      "title": "geekjourneyx/jina-cli - A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "url": "https://github.com/geekjourneyx/jina-cli",
-      "published_at": "2026-02-28T08:39:26Z",
-      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24422856?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "geekjourneyx"
+      "stars": 675,
+      "user": "PKU-YuanGroup"
     },
     {
       "title": "LeoChen-CoreMind/VMPacker - ARM64 ELF Virtual Machine Protection System",
@@ -2140,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 202,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2155,8 +2140,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 163,
       "user": "heri1845"
+    },
+    {
+      "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "url": "https://github.com/SleuthCo/clawshield-public",
+      "published_at": "2026-03-01T03:12:37Z",
+      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "SleuthCo"
+    },
+    {
+      "title": "nolenroyalty/yt-browse - it's like search, but for youtube",
+      "url": "https://github.com/nolenroyalty/yt-browse",
+      "published_at": "2026-03-02T19:12:33Z",
+      "description": "it's like search, but for youtube",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1676311?v=4",
+      "source": "GitHub",
+      "stars": 87,
+      "user": "nolenroyalty"
+    },
+    {
+      "title": "MrXujiang/pxcharts-vue - Multi-dimensional table solution developed based on Vue 3 ｜ vue3实现的多维表格解决方案",
+      "url": "https://github.com/MrXujiang/pxcharts-vue",
+      "published_at": "2026-03-02T09:40:56Z",
+      "description": "Multi-dimensional table solution developed based on Vue 3 ｜ vue3实现的多维表格解决方案",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28833634?v=4",
+      "source": "GitHub",
+      "stars": 44,
+      "user": "MrXujiang"
     }
   ]
 }
