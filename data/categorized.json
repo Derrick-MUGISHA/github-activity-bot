@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "tags": [
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "source": "Dev.to",
+      "user": "GrahamTheDev"
+    },
+    {
+      "title": "I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents",
+      "url": "https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624",
+      "published_at": "2026-03-07T05:43:11Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   OpenClaw just got an...",
+      "tags": [
+        "notionchallenge",
+        "openclaw",
+        "mcp",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ycrqfx70zjm32i4vak4.png",
+      "source": "Dev.to",
+      "user": "Vivek V."
+    },
+    {
       "title": "Archival Intelligence: A Forensic Rare Book Auditor",
       "url": "https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448",
       "published_at": "2026-03-06T20:11:04Z",
@@ -620,7 +650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2095,
+      "stars": 2102,
       "user": "elder-plinius"
     },
     {
@@ -1010,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5636644?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "vicnaum"
     },
     {
@@ -1192,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 4205,
+      "stars": 4257,
       "user": "phuryn"
     },
     {
@@ -1207,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2095,
+      "stars": 2102,
       "user": "elder-plinius"
     },
     {
@@ -1237,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1377,
+      "stars": 1379,
       "user": "World-Open-Graph"
     },
     {
@@ -1915,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5636644?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "vicnaum"
     },
     {
@@ -1945,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 4205,
+      "stars": 4257,
       "user": "phuryn"
     },
     {
@@ -1960,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2095,
+      "stars": 2102,
       "user": "elder-plinius"
     },
     {
@@ -1990,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1377,
+      "stars": 1379,
       "user": "World-Open-Graph"
     },
     {
@@ -2020,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2039,6 +2069,21 @@
       "user": "heri1845"
     },
     {
+      "title": "nolenroyalty/yt-browse - it's like search, but for youtube",
+      "url": "https://github.com/nolenroyalty/yt-browse",
+      "published_at": "2026-03-02T19:12:33Z",
+      "description": "it's like search, but for youtube",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1676311?v=4",
+      "source": "GitHub",
+      "stars": 95,
+      "user": "nolenroyalty"
+    },
+    {
       "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
       "url": "https://github.com/SleuthCo/clawshield-public",
       "published_at": "2026-03-01T03:12:37Z",
@@ -2054,21 +2099,6 @@
       "user": "SleuthCo"
     },
     {
-      "title": "nolenroyalty/yt-browse - it's like search, but for youtube",
-      "url": "https://github.com/nolenroyalty/yt-browse",
-      "published_at": "2026-03-02T19:12:33Z",
-      "description": "it's like search, but for youtube",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1676311?v=4",
-      "source": "GitHub",
-      "stars": 94,
-      "user": "nolenroyalty"
-    },
-    {
       "title": "hoangtuvungcao/mango-waf - 🥭 Mango Shield Apex: High-performance L7 DDoS Protection & WAF with Real-time DStat Dashboard",
       "url": "https://github.com/hoangtuvungcao/mango-waf",
       "published_at": "2026-03-07T05:48:21Z",
@@ -2080,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206301327?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "hoangtuvungcao"
     }
   ]
