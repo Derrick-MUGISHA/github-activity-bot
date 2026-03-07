@@ -1,36 +1,6 @@
 {
   "AI": [
     {
-      "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
-      "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
-      "published_at": "2026-03-04T20:19:27Z",
-      "description": "Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...",
-      "tags": [
-        "ai",
-        "forem",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
-      "source": "Dev.to",
-      "user": "Jon Gottfried"
-    },
-    {
-      "title": "Questions about building multimodal agents? The Google team might just have an answer for you!",
-      "url": "https://dev.to/devteam/questions-about-building-multimodal-agents-the-google-team-might-just-have-an-answer-for-you-e1j",
-      "published_at": "2026-03-06T21:44:16Z",
-      "description": "Each week, we collect community questions for the team at Google to answer on their weekly...",
-      "tags": [
-        "discuss",
-        "agents",
-        "ai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbiu8d1r7nss9ma7gopwr.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
       "url": "https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9",
       "published_at": "2026-03-06T11:08:30Z",
@@ -90,19 +60,19 @@
       "user": "James Randall"
     },
     {
-      "title": "Getting the most out of Nano-Banana 2",
-      "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
-      "published_at": "2026-03-05T22:28:22Z",
-      "description": "Following our previous Developer Guide and Prompting Guide, this post dives into the brand new...",
+      "title": "Questions about building multimodal agents? The Google team might just have an answer for you!",
+      "url": "https://dev.to/devteam/questions-about-building-multimodal-agents-the-google-team-might-just-have-an-answer-for-you-e1j",
+      "published_at": "2026-03-06T21:44:16Z",
+      "description": "Each week, we collect community questions for the team at Google to answer on their weekly...",
       "tags": [
+        "discuss",
+        "agents",
         "ai",
-        "gemini",
-        "nanobanana",
-        "promptengineering"
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbiu8d1r7nss9ma7gopwr.png",
       "source": "Dev.to",
-      "user": "Guillaume Vernade"
+      "user": "Jess Lee"
     },
     {
       "title": "Supercharging Open Source Projects With Free AI Code Reviews",
@@ -120,19 +90,19 @@
       "user": "Dana Fine"
     },
     {
-      "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
-      "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
-      "published_at": "2026-03-04T15:02:08Z",
-      "description": "I recently saw a meme about terrible legacy code on platform X and it gave me an idea for a...",
+      "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
+      "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
+      "published_at": "2026-03-04T20:19:27Z",
+      "description": "Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...",
       "tags": [
-        "discuss",
         "ai",
-        "chatgpt",
-        "security"
+        "forem",
+        "devto",
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
       "source": "Dev.to",
-      "user": "Daniel Balcarek"
+      "user": "Jon Gottfried"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -210,33 +180,19 @@
       "user": "Ryan Swift"
     },
     {
-      "title": "SQLite as an MCP context saver: stop cramming raw API data into your LLM",
-      "url": "https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4",
-      "published_at": "2026-03-04T14:40:33Z",
-      "description": "Most MCP servers dump raw API responses into the conversation. I've been using SQLite as a dependency...",
+      "title": "Getting the most out of Nano-Banana 2",
+      "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
+      "published_at": "2026-03-05T22:28:22Z",
+      "description": "Following our previous Developer Guide and Prompting Guide, this post dives into the brand new...",
       "tags": [
         "ai",
-        "mcp",
-        "sql"
+        "gemini",
+        "nanobanana",
+        "promptengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2054xkke008f1jqg3n6.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
       "source": "Dev.to",
-      "user": "Richard Baxter"
-    },
-    {
-      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
-      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
-      "published_at": "2026-03-04T21:01:29Z",
-      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
-      "tags": [
-        "ai",
-        "opensource",
-        "programming",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0b25t9rnk2hseb0o8qx.png",
-      "source": "Dev.to",
-      "user": "Kevin Alemán"
+      "user": "Guillaume Vernade"
     },
     {
       "title": "How I Use Multi-Agent AI to Debug Production Errors in My Laravel App",
@@ -267,6 +223,93 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png",
       "source": "Dev.to",
       "user": "Deeptej"
+    },
+    {
+      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
+      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
+      "published_at": "2026-02-25T01:28:04Z",
+      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "productivity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
+      "source": "Dev.to",
+      "user": "aileen vl"
+    },
+    {
+      "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
+      "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
+      "published_at": "2026-03-04T15:02:08Z",
+      "description": "I recently saw a meme about terrible legacy code on platform X and it gave me an idea for a...",
+      "tags": [
+        "discuss",
+        "ai",
+        "chatgpt",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
+      "source": "Dev.to",
+      "user": "Daniel Balcarek"
+    },
+    {
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "published_at": "2026-03-03T10:41:20Z",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
+      "source": "Dev.to",
+      "user": "João Pedro Silva Setas"
+    },
+    {
+      "title": "Oooh very interesting",
+      "url": "https://dev.to/ben/oooh-very-interesting-ohk",
+      "published_at": "2026-03-03T16:12:24Z",
+      "description": "Gemini 3.1 Flash-Lite: Developer guide...",
+      "tags": [
+        "gemini",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "AI Crash Course: AI, ML, LLM and More",
+      "url": "https://dev.to/kathryngrayson/ai-crash-course-ai-ml-llm-and-more-4ggk",
+      "published_at": "2026-03-04T15:42:26Z",
+      "description": "It’s common — especially outside of tech spaces — to see a handful of AI-related terms used almost interchangeably. Let’s take a moment to define each of these, so we can use them intentionally moving forward.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1kcc21p27ains59jnfs.png",
+      "source": "Dev.to",
+      "user": "Kathryn Grayson Nanz"
+    },
+    {
+      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
+      "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
+      "published_at": "2026-02-25T17:41:43Z",
+      "description": "Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
@@ -447,51 +490,6 @@
       "user": "Ahnaf Tahmid"
     },
     {
-      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
-      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
-      "published_at": "2026-02-26T08:08:54Z",
-      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
-      "tags": [
-        "claudecode",
-        "tailscale",
-        "ntfy",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
-      "source": "Dev.to",
-      "user": "Felipe Philipp"
-    },
-    {
-      "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
-      "url": "https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a",
-      "published_at": "2026-02-26T07:58:44Z",
-      "description": "Token cost in browser automation MCPs has become a real topic — articles like \"Playwright MCP Burns...",
-      "tags": [
-        "mcp",
-        "ai",
-        "webdev",
-        "playwright"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
-      "source": "Dev.to",
-      "user": "kuroko"
-    },
-    {
-      "title": "The Token Economy",
-      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
-      "published_at": "2026-02-26T13:36:47Z",
-      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -665,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1867,
+      "stars": 1900,
       "user": "elder-plinius"
     },
     {
@@ -680,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1353,
       "user": "LeoYeAI"
     },
     {
@@ -716,21 +714,6 @@
   ],
   "JavaScript": [
     {
-      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
-      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
-      "published_at": "2026-03-05T19:02:16Z",
-      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
-      "source": "Dev.to",
-      "user": "devjiro"
-    },
-    {
       "title": "i built a social platform where everything vanishes after 24 hours",
       "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
       "published_at": "2026-03-03T04:44:50Z",
@@ -744,6 +727,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
       "user": "Ovi ren"
+    },
+    {
+      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
+      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
+      "published_at": "2026-03-05T19:02:16Z",
+      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "sideprojects"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
+      "source": "Dev.to",
+      "user": "devjiro"
     },
     {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
@@ -804,6 +802,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4j58fo29ivmj9o4xwn5.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
+    },
+    {
+      "title": "The Server-Side Mocking Gap Nobody Talks About",
+      "url": "https://dev.to/rrafatpanah/the-server-side-mocking-gap-nobody-talks-about-36jb",
+      "published_at": "2026-03-04T01:44:04Z",
+      "description": "Per-test server-side mocking using MSW, Playwright, and any fullstack framework.",
+      "tags": [
+        "webdev",
+        "playwright",
+        "tanstack",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o0qqt887p61qum8o6mn.png",
+      "source": "Dev.to",
+      "user": "Raphael Rafatpanah"
+    },
+    {
+      "title": "React: Singletons aren't as evil as you think",
+      "url": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
+      "published_at": "2026-03-04T18:43:16Z",
+      "description": "In the world of React, the humble singleton gets a bit of a bad rap. It is often dismissed as a messy...",
+      "tags": [
+        "react",
+        "webdev",
+        "singleton"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozcggfsouuv2shb8vpiz.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
     },
     {
       "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
@@ -1011,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "FinPyromancerLog"
     },
     {
@@ -1086,7 +1113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28833634?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "MrXujiang"
     }
   ],
@@ -1268,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3302,
+      "stars": 3436,
       "user": "phuryn"
     },
     {
@@ -1283,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1867,
+      "stars": 1900,
       "user": "elder-plinius"
     },
     {
@@ -1298,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1358,
+      "stars": 1362,
       "user": "World-Open-Graph"
     },
     {
@@ -1313,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1353,
       "user": "LeoYeAI"
     },
     {
@@ -1328,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 683,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1377,21 +1404,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
       "source": "Dev.to",
       "user": "Tibo Beijen"
-    },
-    {
-      "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
-      "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
-      "published_at": "2026-02-26T08:08:54Z",
-      "description": "If you’re like me and have been hooked into running Claude Code on your phone, running several...",
-      "tags": [
-        "claudecode",
-        "tailscale",
-        "ntfy",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
-      "source": "Dev.to",
-      "user": "Felipe Philipp"
     }
   ],
   "WebDev": [
@@ -1570,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 683,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1637,20 +1649,6 @@
     }
   ],
   "Database": [
-    {
-      "title": "SQLite as an MCP context saver: stop cramming raw API data into your LLM",
-      "url": "https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4",
-      "published_at": "2026-03-04T14:40:33Z",
-      "description": "Most MCP servers dump raw API responses into the conversation. I've been using SQLite as a dependency...",
-      "tags": [
-        "ai",
-        "mcp",
-        "sql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2054xkke008f1jqg3n6.jpg",
-      "source": "Dev.to",
-      "user": "Richard Baxter"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1845,6 +1843,36 @@
       "user": "Hamza"
     },
     {
+      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
+      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
+      "published_at": "2026-02-25T01:28:04Z",
+      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "productivity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
+      "source": "Dev.to",
+      "user": "aileen vl"
+    },
+    {
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+      "published_at": "2026-03-03T10:41:20Z",
+      "description": "I built 8 AI agent departments using GitHub Copilot custom agents — CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's how it works.",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8od84ir900h0c1amnx.png",
+      "source": "Dev.to",
+      "user": "João Pedro Silva Setas"
+    },
+    {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
       "url": "https://dev.to/nmelo/i-ship-software-with-13-ai-agents-heres-what-that-actually-looks-like-420c",
       "published_at": "2026-03-03T15:30:49Z",
@@ -1975,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "FinPyromancerLog"
     },
     {
@@ -2050,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 3302,
+      "stars": 3436,
       "user": "phuryn"
     },
     {
@@ -2065,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1867,
+      "stars": 1900,
       "user": "elder-plinius"
     },
     {
@@ -2080,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
       "source": "GitHub",
-      "stars": 1358,
+      "stars": 1362,
       "user": "World-Open-Graph"
     },
     {
@@ -2095,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1353,
       "user": "LeoYeAI"
     },
     {
@@ -2110,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 683,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2125,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2170,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1676311?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "nolenroyalty"
     },
     {
@@ -2185,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28833634?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "MrXujiang"
     }
   ]
