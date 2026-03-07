@@ -216,7 +216,7 @@ npm run test
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 - [Getting the most out of Nano-Banana 2](https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k) _[Dev.to]_
 
-_Last automated update: Sun, 08 Mar 2026 00:19:27 CAT_
+_Last automated update: Sun, 08 Mar 2026 00:47:31 CAT_
 
 
 
@@ -224,7 +224,18 @@ _Last automated update: Sun, 08 Mar 2026 00:19:27 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. JavaScript: What is the event loop and how does it work?
+
+**Difficulty**: Hard | **Topics**: async, runtime
+
+<details>
+<summary>💡 Hint</summary>
+
+Call stack, callback queue, microtask queue
+
+</details>
+
+### 2. React: Explain the difference between state and props
 
 **Difficulty**: Easy | **Topics**: data flow, components
 
@@ -235,25 +246,14 @@ Ownership, mutability, data flow direction
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Easy | **Topics**: express, architecture
-
-<details>
-<summary>💡 Hint</summary>
-
-Request/response cycle, next(), chain of functions
-
-</details>
-
-### 3. SystemDesign: How would you design a rate limiter?
-
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 22:19:27 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 22:47:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

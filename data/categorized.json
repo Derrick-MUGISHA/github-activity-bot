@@ -665,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2170,
+      "stars": 2180,
       "user": "elder-plinius"
     },
     {
@@ -680,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1474,
+      "stars": 1592,
       "user": "karpathy"
     },
     {
@@ -1267,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2170,
+      "stars": 2180,
       "user": "elder-plinius"
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1474,
+      "stars": 1592,
       "user": "karpathy"
     },
     {
@@ -1537,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 110,
       "user": "steipete"
     }
   ],
@@ -1675,7 +1675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 110,
       "user": "steipete"
     }
   ],
@@ -2065,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2170,
+      "stars": 2180,
       "user": "elder-plinius"
     },
     {
@@ -2080,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1474,
+      "stars": 1592,
       "user": "karpathy"
     },
     {
@@ -2159,6 +2159,21 @@
       "user": "heri1845"
     },
     {
+      "title": "steipete/discrawl - cli for discord with sqlite backend",
+      "url": "https://github.com/steipete/discrawl",
+      "published_at": "2026-03-07T12:13:48Z",
+      "description": "cli for discord with sqlite backend",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "steipete"
+    },
+    {
       "title": "nolenroyalty/yt-browse - it's like search, but for youtube",
       "url": "https://github.com/nolenroyalty/yt-browse",
       "published_at": "2026-03-02T19:12:33Z",
@@ -2172,21 +2187,6 @@
       "source": "GitHub",
       "stars": 103,
       "user": "nolenroyalty"
-    },
-    {
-      "title": "steipete/discrawl - cli for discord with sqlite backend",
-      "url": "https://github.com/steipete/discrawl",
-      "published_at": "2026-03-07T12:13:48Z",
-      "description": "cli for discord with sqlite backend",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
-      "source": "GitHub",
-      "stars": 96,
-      "user": "steipete"
     },
     {
       "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
