@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 50,
+    "AI": 49,
     "JavaScript": 28,
     "Python": 18,
     "DevOps": 4,
@@ -15,7 +15,7 @@
     "Cloud": 4,
     "Database": 2,
     "Security": 4,
-    "Tools": 32
+    "Tools": 31
   },
   "by_language": {
     "Rust": 1,
@@ -31,7 +31,7 @@
     "2026-03-04": 11,
     "2026-03-05": 8,
     "2026-02-27": 2,
-    "2026-03-03": 16,
+    "2026-03-03": 15,
     "2026-02-25": 2,
     "2026-02-19": 1,
     "2026-02-22": 1,
@@ -71,7 +71,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 26,
+    "ai": 25,
     "github": 15,
     "open-source": 15,
     "gemini": 11,
@@ -85,9 +85,9 @@
     "programming": 8,
     "python": 8,
     "devchallenge": 7,
-    "agents": 6,
     "frontend": 5,
     "opensource": 5,
+    "agents": 5,
     "showdev": 5,
     "go": 5,
     "geminireflections": 4
