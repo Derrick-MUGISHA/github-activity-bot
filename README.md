@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-07-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (46.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (45.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (29.1%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.5%)
 
-**WebDev**: 🟦🟦🟦🟦 10 (9.6%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.7%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.9%)
 
-**Cloud**: 🟦🟦 4 (3.8%)
+**Cloud**: 🟦🟦 4 (3.9%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 4 (3.9%)
 
 **Mobile**: 🟦 2 (1.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![frontend](https://img.shields.io/badge/frontend-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![frontend](https://img.shields.io/badge/frontend-5-blue) 
 
 
 
@@ -207,7 +207,6 @@ npm run test
 - [Questions about building multimodal agents? The Google team might just have an answer for you!](https://dev.to/devteam/questions-about-building-multimodal-agents-the-google-team-might-just-have-an-answer-for-you-e1j) _[Dev.to]_
 - [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 - [Supercharging Open Source Projects With Free AI Code Reviews](https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m) _[Dev.to]_
-- [How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)](https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9) _[Dev.to]_
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)](https://dev.to/hamizulfaiz/why-i-stopped-overthinking-the-livewire-vs-inertia-debate-and-how-to-pick-one-5h67) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi) _[Dev.to]_
 - [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0) _[Dev.to]_
 - [Getting the most out of Nano-Banana 2](https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k) _[Dev.to]_
+- [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 
-_Last automated update: Sat, 07 Mar 2026 17:44:57 CAT_
+_Last automated update: Sat, 07 Mar 2026 17:58:10 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 07 Mar 2026 17:44:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 15:44:57 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 15:58:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
