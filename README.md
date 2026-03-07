@@ -216,7 +216,7 @@ npm run test
 - [Getting the most out of Nano-Banana 2](https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k) _[Dev.to]_
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 
-_Last automated update: Sat, 07 Mar 2026 16:20:35 CAT_
+_Last automated update: Sat, 07 Mar 2026 16:48:18 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 07 Mar 2026 16:20:35 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 07 Mar 2026 14:20:35 GMT</b><br/>
+  <b>Last automated update: Sat, 07 Mar 2026 14:48:18 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
