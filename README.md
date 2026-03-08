@@ -216,7 +216,7 @@ npm run test
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 
-_Last automated update: Sun, 08 Mar 2026 17:45:15 CAT_
+_Last automated update: Sun, 08 Mar 2026 17:58:49 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 08 Mar 2026 17:45:15 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 08 Mar 2026 15:45:15 GMT</b><br/>
+  <b>Last automated update: Sun, 08 Mar 2026 15:58:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
