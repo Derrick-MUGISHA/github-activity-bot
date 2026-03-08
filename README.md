@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-08 18:00 CAT)
+## 📅 Latest Updates (2026-03-08 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 
-_Last automated update: Sun, 08 Mar 2026 18:58:57 CAT_
+_Last automated update: Sun, 08 Mar 2026 19:29:29 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 08 Mar 2026 18:58:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 08 Mar 2026 16:58:57 GMT</b><br/>
+  <b>Last automated update: Sun, 08 Mar 2026 17:29:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
