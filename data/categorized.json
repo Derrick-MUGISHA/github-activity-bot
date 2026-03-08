@@ -508,6 +508,21 @@
       "user": "Ahnaf Tahmid"
     },
     {
+      "title": "Getting the most out of Nano-Banana 2",
+      "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
+      "published_at": "2026-03-05T22:28:22Z",
+      "description": "Following our previous Developer Guide and Prompting Guide, this post dives into the brand new...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nanobanana",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
+      "source": "Dev.to",
+      "user": "Guillaume Vernade"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -666,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 2344,
+      "stars": 2981,
       "user": "karpathy"
     },
     {
@@ -681,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2220,
+      "stars": 2234,
       "user": "elder-plinius"
     },
     {
@@ -1015,6 +1030,21 @@
       "user": "FinPyromancerLog"
     },
     {
+      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
+      "url": "https://github.com/gradenGnostic/LegacyLauncher",
+      "published_at": "2026-03-04T17:44:07Z",
+      "description": "A custom launcher for Minecraft LCE.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "gradenGnostic"
+    },
+    {
       "title": "vicnaum/bun-demincer - Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries",
       "url": "https://github.com/vicnaum/bun-demincer",
       "published_at": "2026-03-03T11:36:55Z",
@@ -1028,21 +1058,6 @@
       "source": "GitHub",
       "stars": 111,
       "user": "vicnaum"
-    },
-    {
-      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
-      "url": "https://github.com/gradenGnostic/LegacyLauncher",
-      "published_at": "2026-03-04T17:44:07Z",
-      "description": "A custom launcher for Minecraft LCE.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
-      "source": "GitHub",
-      "stars": 106,
-      "user": "gradenGnostic"
     },
     {
       "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
@@ -1120,21 +1135,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "Introducing the Zen of DevOps",
-      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
-      "published_at": "2026-03-01T08:31:00Z",
-      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
-      "tags": [
-        "devops",
-        "sre",
-        "platformengineering",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
-      "source": "Dev.to",
-      "user": "Tibo Beijen"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1268,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 2344,
+      "stars": 2981,
       "user": "karpathy"
     },
     {
@@ -1283,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2220,
+      "stars": 2234,
       "user": "elder-plinius"
     },
     {
@@ -1313,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 792,
       "user": "PKU-YuanGroup"
     },
     {
@@ -1328,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 692,
       "user": "tanishqkumar"
     }
   ],
@@ -1362,21 +1362,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
-    },
-    {
-      "title": "Introducing the Zen of DevOps",
-      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
-      "published_at": "2026-03-01T08:31:00Z",
-      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
-      "tags": [
-        "devops",
-        "sre",
-        "platformengineering",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
-      "source": "Dev.to",
-      "user": "Tibo Beijen"
     }
   ],
   "WebDev": [
@@ -1524,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 207,
       "user": "steipete"
     }
   ],
@@ -1556,7 +1541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 792,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1662,7 +1647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 207,
       "user": "steipete"
     }
   ],
@@ -1981,6 +1966,21 @@
       "user": "FinPyromancerLog"
     },
     {
+      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
+      "url": "https://github.com/gradenGnostic/LegacyLauncher",
+      "published_at": "2026-03-04T17:44:07Z",
+      "description": "A custom launcher for Minecraft LCE.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "gradenGnostic"
+    },
+    {
       "title": "vicnaum/bun-demincer - Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries",
       "url": "https://github.com/vicnaum/bun-demincer",
       "published_at": "2026-03-03T11:36:55Z",
@@ -1994,21 +1994,6 @@
       "source": "GitHub",
       "stars": 111,
       "user": "vicnaum"
-    },
-    {
-      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
-      "url": "https://github.com/gradenGnostic/LegacyLauncher",
-      "published_at": "2026-03-04T17:44:07Z",
-      "description": "A custom launcher for Minecraft LCE.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
-      "source": "GitHub",
-      "stars": 106,
-      "user": "gradenGnostic"
     },
     {
       "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
@@ -2052,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 2344,
+      "stars": 2981,
       "user": "karpathy"
     },
     {
@@ -2067,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2220,
+      "stars": 2234,
       "user": "elder-plinius"
     },
     {
@@ -2097,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 792,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2112,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 692,
       "user": "tanishqkumar"
     },
     {
@@ -2127,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2142,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 207,
       "user": "steipete"
     },
     {
@@ -2187,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206301327?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 76,
       "user": "hoangtuvungcao"
     }
   ]
