@@ -654,19 +654,19 @@
       "user": "veesahni"
     },
     {
-      "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
-      "url": "https://github.com/ygwyg/agent-experience",
-      "published_at": "2026-03-04T17:04:29Z",
-      "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
+      "title": "es617/claude-replay - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
+      "url": "https://github.com/es617/claude-replay",
+      "published_at": "2026-03-02T05:40:03Z",
+      "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
       "source": "GitHub",
-      "stars": 104,
-      "user": "ygwyg"
+      "stars": 360,
+      "user": "es617"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -680,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 7609,
+      "stars": 7755,
       "user": "karpathy"
     },
     {
@@ -695,7 +695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2352,
+      "stars": 2364,
       "user": "elder-plinius"
     },
     {
@@ -969,6 +969,21 @@
       "user": "velmu"
     },
     {
+      "title": "es617/claude-replay - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
+      "url": "https://github.com/es617/claude-replay",
+      "published_at": "2026-03-02T05:40:03Z",
+      "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
+      "source": "GitHub",
+      "stars": 360,
+      "user": "es617"
+    },
+    {
       "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
       "url": "https://github.com/FinPyromancerLog/xcode-claw",
       "published_at": "2026-03-05T18:47:10Z",
@@ -995,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 163,
       "user": "gradenGnostic"
     },
     {
@@ -1027,21 +1042,6 @@
       "source": "GitHub",
       "stars": 108,
       "user": "J2TEAM"
-    },
-    {
-      "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
-      "url": "https://github.com/ygwyg/agent-experience",
-      "published_at": "2026-03-04T17:04:29Z",
-      "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "ygwyg"
     }
   ],
   "Python": [
@@ -1222,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 7609,
+      "stars": 7755,
       "user": "karpathy"
     },
     {
@@ -1237,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2352,
+      "stars": 2364,
       "user": "elder-plinius"
     },
     {
@@ -1267,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 852,
       "user": "PKU-YuanGroup"
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "tanishqkumar"
     }
   ],
@@ -1452,6 +1452,21 @@
       "user": "velmu"
     },
     {
+      "title": "es617/claude-replay - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
+      "url": "https://github.com/es617/claude-replay",
+      "published_at": "2026-03-02T05:40:03Z",
+      "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
+      "source": "GitHub",
+      "stars": 360,
+      "user": "es617"
+    },
+    {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
       "url": "https://github.com/steipete/discrawl",
       "published_at": "2026-03-07T12:13:48Z",
@@ -1463,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 338,
       "user": "steipete"
     }
   ],
@@ -1495,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 852,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1601,7 +1616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 338,
       "user": "steipete"
     }
   ],
@@ -1860,6 +1875,21 @@
       "user": "Magnus Rødseth"
     },
     {
+      "title": "es617/claude-replay - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
+      "url": "https://github.com/es617/claude-replay",
+      "published_at": "2026-03-02T05:40:03Z",
+      "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
+      "source": "GitHub",
+      "stars": 360,
+      "user": "es617"
+    },
+    {
       "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
       "url": "https://github.com/FinPyromancerLog/xcode-claw",
       "published_at": "2026-03-05T18:47:10Z",
@@ -1886,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 163,
       "user": "gradenGnostic"
     },
     {
@@ -1920,21 +1950,6 @@
       "user": "J2TEAM"
     },
     {
-      "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
-      "url": "https://github.com/ygwyg/agent-experience",
-      "published_at": "2026-03-04T17:04:29Z",
-      "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "ygwyg"
-    },
-    {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published_at": "2026-03-06T22:00:43Z",
@@ -1946,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 7609,
+      "stars": 7755,
       "user": "karpathy"
     },
     {
@@ -1961,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2352,
+      "stars": 2364,
       "user": "elder-plinius"
     },
     {
@@ -1991,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 852,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2006,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "tanishqkumar"
     },
     {
@@ -2021,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 338,
       "user": "steipete"
     },
     {
