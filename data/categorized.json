@@ -105,21 +105,6 @@
       "user": "James Randall"
     },
     {
-      "title": "Questions about building multimodal agents? The Google team might just have an answer for you!",
-      "url": "https://dev.to/devteam/questions-about-building-multimodal-agents-the-google-team-might-just-have-an-answer-for-you-e1j",
-      "published_at": "2026-03-06T21:44:16Z",
-      "description": "Each week, we collect community questions for the team at Google to answer on their weekly...",
-      "tags": [
-        "discuss",
-        "agents",
-        "ai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbiu8d1r7nss9ma7gopwr.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Supercharging Open Source Projects With Free AI Code Reviews",
       "url": "https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m",
       "published_at": "2026-03-06T19:19:05Z",
@@ -267,6 +252,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Questions about building multimodal agents? The Google team might just have an answer for you!",
+      "url": "https://dev.to/devteam/questions-about-building-multimodal-agents-the-google-team-might-just-have-an-answer-for-you-e1j",
+      "published_at": "2026-03-06T21:44:16Z",
+      "description": "Each week, we collect community questions for the team at Google to answer on their weekly...",
+      "tags": [
+        "discuss",
+        "agents",
+        "ai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbiu8d1r7nss9ma7gopwr.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
@@ -710,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 6630,
+      "stars": 6891,
       "user": "karpathy"
     },
     {
@@ -725,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2328,
+      "stars": 2336,
       "user": "elder-plinius"
     },
     {
@@ -1040,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "gradenGnostic"
     },
     {
@@ -1267,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 6630,
+      "stars": 6891,
       "user": "karpathy"
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2328,
+      "stars": 2336,
       "user": "elder-plinius"
     },
     {
@@ -1327,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 706,
       "user": "tanishqkumar"
     }
   ],
@@ -1508,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 312,
       "user": "steipete"
     }
   ],
@@ -1587,7 +1587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1646,7 +1646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 312,
       "user": "steipete"
     }
   ],
@@ -1769,6 +1769,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
       "source": "Dev.to",
       "user": "aileen vl"
+    },
+    {
+      "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
+      "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
+      "published_at": "2026-03-06T17:12:22Z",
+      "description": "In fintech, a single leaked payload isn't just a bug—it's a compliance incident. That anxiety of...",
+      "tags": [
+        "productivity",
+        "opensource",
+        "tooling",
+        "formatter"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frcivfom7pf632bihyi5j.png",
+      "source": "Dev.to",
+      "user": "Chung Ho"
     },
     {
       "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
@@ -1931,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "gradenGnostic"
     },
     {
@@ -1991,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 6630,
+      "stars": 6891,
       "user": "karpathy"
     },
     {
@@ -2006,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2328,
+      "stars": 2336,
       "user": "elder-plinius"
     },
     {
@@ -2051,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 706,
       "user": "tanishqkumar"
     },
     {
@@ -2066,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 312,
       "user": "steipete"
     },
     {
@@ -2081,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2111,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "MuhammadHananAsghar"
     },
     {
