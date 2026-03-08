@@ -31,21 +31,6 @@
       "user": "Vivek V."
     },
     {
-      "title": "Archival Intelligence: A Forensic Rare Book Auditor",
-      "url": "https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448",
-      "published_at": "2026-03-06T20:11:04Z",
-      "description": "🔍 Archival Intelligence: A Forensic Rare Book Auditor   This is a submission for the Notion...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhnr9x1wdwamf48vw2t2.png",
-      "source": "Dev.to",
-      "user": "Ken W Alger"
-    },
-    {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
       "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
       "published_at": "2026-03-07T17:10:00Z",
@@ -61,20 +46,6 @@
       "user": "Firas M. Darwish"
     },
     {
-      "title": "Ship Less, Measure More",
-      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
-      "published_at": "2026-03-06T22:07:43Z",
-      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
-      "tags": [
-        "ai",
-        "programming",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
-      "source": "Dev.to",
-      "user": "Mike Krop"
-    },
-    {
       "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
       "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
       "published_at": "2026-03-04T20:19:27Z",
@@ -88,6 +59,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
       "source": "Dev.to",
       "user": "Jon Gottfried"
+    },
+    {
+      "title": "Ship Less, Measure More",
+      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
+      "published_at": "2026-03-06T22:07:43Z",
+      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
+      "tags": [
+        "ai",
+        "programming",
+        "management"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
+      "source": "Dev.to",
+      "user": "Mike Krop"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -180,34 +165,19 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
-      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
-      "published_at": "2026-03-05T19:02:16Z",
-      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
+      "title": "Archival Intelligence: A Forensic Rare Book Auditor",
+      "url": "https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448",
+      "published_at": "2026-03-06T20:11:04Z",
+      "description": "🔍 Archival Intelligence: A Forensic Rare Book Auditor   This is a submission for the Notion...",
       "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "sideprojects"
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhnr9x1wdwamf48vw2t2.png",
       "source": "Dev.to",
-      "user": "devjiro"
-    },
-    {
-      "title": "How Claude Skills Replaced Our Documentation",
-      "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
-      "published_at": "2026-03-05T07:49:58Z",
-      "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
-      "tags": [
-        "webdev",
-        "ai",
-        "documentation",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
-      "source": "Dev.to",
-      "user": "Magnus Rødseth"
+      "user": "Ken W Alger"
     },
     {
       "title": "SaaS Companies Fear Me: Cloning* Granola for Linux",
@@ -223,21 +193,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flefih9vapmoxwpsmk8wc.png",
       "source": "Dev.to",
       "user": "Ryan Swift"
-    },
-    {
-      "title": "Getting the most out of Nano-Banana 2",
-      "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
-      "published_at": "2026-03-05T22:28:22Z",
-      "description": "Following our previous Developer Guide and Prompting Guide, this post dives into the brand new...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nanobanana",
-        "promptengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
-      "source": "Dev.to",
-      "user": "Guillaume Vernade"
     },
     {
       "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
@@ -419,20 +374,6 @@
       "user": "Chris Noring"
     },
     {
-      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
-      "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
-      "published_at": "2026-03-04T00:02:48Z",
-      "description": "I stopped reviewing code and let Google Gemini build my UI. Then I audited the results to see what autonomy in AI development actually produces.",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
-    },
-    {
       "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
       "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
       "published_at": "2026-03-03T18:54:28Z",
@@ -462,6 +403,21 @@
       "user": "wintercounter"
     },
     {
+      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
+      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
+      "published_at": "2026-03-05T19:02:16Z",
+      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "sideprojects"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
+      "source": "Dev.to",
+      "user": "devjiro"
+    },
+    {
       "title": "The Old Seniority Definition Is Collapsing",
       "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
       "published_at": "2026-03-05T08:40:59Z",
@@ -475,6 +431,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "How Claude Skills Replaced Our Documentation",
+      "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
+      "published_at": "2026-03-05T07:49:58Z",
+      "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
+      "tags": [
+        "webdev",
+        "ai",
+        "documentation",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
+      "source": "Dev.to",
+      "user": "Magnus Rødseth"
     },
     {
       "title": "A Look Back at Outsourcing in the Age of AI",
@@ -520,6 +491,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
       "source": "Dev.to",
       "user": "raddevus"
+    },
+    {
+      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
+      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
+      "published_at": "2026-03-01T13:53:25Z",
+      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
+      "tags": [
+        "agents",
+        "ai",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
+      "source": "Dev.to",
+      "user": "Ahnaf Tahmid"
     },
     {
       "title": "Airfoil",
@@ -654,19 +640,19 @@
       "user": "veesahni"
     },
     {
-      "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "published_at": "2026-03-03T19:37:51Z",
-      "description": "obliterate the chains that bind you",
+      "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
+      "url": "https://github.com/ygwyg/agent-experience",
+      "published_at": "2026-03-04T17:04:29Z",
+      "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 2192,
-      "user": "elder-plinius"
+      "stars": 102,
+      "user": "ygwyg"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -680,8 +666,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1872,
+      "stars": 2344,
       "user": "karpathy"
+    },
+    {
+      "title": "elder-plinius/OBLITERATUS - OBLITERATE THE CHAINS THAT BIND YOU",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "published_at": "2026-03-03T19:37:51Z",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
+      "source": "GitHub",
+      "stars": 2220,
+      "user": "elder-plinius"
     },
     {
       "title": "LeoYeAI/openclaw-master-skills - 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
@@ -695,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1442,
+      "stars": 1451,
       "user": "LeoYeAI"
     },
     {
@@ -712,21 +713,6 @@
       "source": "GitHub",
       "stars": 173,
       "user": "heri1845"
-    },
-    {
-      "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
-      "url": "https://github.com/SleuthCo/clawshield-public",
-      "published_at": "2026-03-01T03:12:37Z",
-      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "SleuthCo"
     }
   ],
   "JavaScript": [
@@ -744,21 +730,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1jkk7lkh7isg71dhiqdt.webp",
       "source": "Dev.to",
       "user": "hamizulfaiz"
-    },
-    {
-      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
-      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
-      "published_at": "2026-03-05T19:02:16Z",
-      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
-      "source": "Dev.to",
-      "user": "devjiro"
     },
     {
       "title": "i built a social platform where everything vanishes after 24 hours",
@@ -847,6 +818,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
+    },
+    {
+      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
+      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
+      "published_at": "2026-03-05T19:02:16Z",
+      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "sideprojects"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
+      "source": "Dev.to",
+      "user": "devjiro"
     },
     {
       "title": "The Old Seniority Definition Is Collapsing",
@@ -1029,36 +1015,6 @@
       "user": "FinPyromancerLog"
     },
     {
-      "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
-      "url": "https://github.com/r3nzsec/irflow-timeline",
-      "published_at": "2026-03-01T19:31:35Z",
-      "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
-      "source": "GitHub",
-      "stars": 152,
-      "user": "r3nzsec"
-    },
-    {
-      "title": "cporter202/openclaw-api-list - This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
-      "url": "https://github.com/cporter202/openclaw-api-list",
-      "published_at": "2026-03-01T04:39:17Z",
-      "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
-      "source": "GitHub",
-      "stars": 115,
-      "user": "cporter202"
-    },
-    {
       "title": "vicnaum/bun-demincer - Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries",
       "url": "https://github.com/vicnaum/bun-demincer",
       "published_at": "2026-03-03T11:36:55Z",
@@ -1070,7 +1026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5636644?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "vicnaum"
     },
     {
@@ -1085,8 +1041,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 106,
       "user": "gradenGnostic"
+    },
+    {
+      "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
+      "url": "https://github.com/ygwyg/agent-experience",
+      "published_at": "2026-03-04T17:04:29Z",
+      "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
+      "source": "GitHub",
+      "stars": 102,
+      "user": "ygwyg"
+    },
+    {
+      "title": "marchev/claudit - MCP server for searching Solodit smart contract security findings",
+      "url": "https://github.com/marchev/claudit",
+      "published_at": "2026-03-04T21:53:52Z",
+      "description": "MCP server for searching Solodit smart contract security findings",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2691408?v=4",
+      "source": "GitHub",
+      "stars": 96,
+      "user": "marchev"
     }
   ],
   "Python": [
@@ -1134,6 +1120,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Introducing the Zen of DevOps",
+      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
+      "published_at": "2026-03-01T08:31:00Z",
+      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
+      "tags": [
+        "devops",
+        "sre",
+        "platformengineering",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
+      "source": "Dev.to",
+      "user": "Tibo Beijen"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1256,21 +1257,6 @@
       "user": "gilad"
     },
     {
-      "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "published_at": "2026-03-03T19:37:51Z",
-      "description": "obliterate the chains that bind you",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
-      "source": "GitHub",
-      "stars": 2192,
-      "user": "elder-plinius"
-    },
-    {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published_at": "2026-03-06T22:00:43Z",
@@ -1282,8 +1268,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1872,
+      "stars": 2344,
       "user": "karpathy"
+    },
+    {
+      "title": "elder-plinius/OBLITERATUS - OBLITERATE THE CHAINS THAT BIND YOU",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "published_at": "2026-03-03T19:37:51Z",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
+      "source": "GitHub",
+      "stars": 2220,
+      "user": "elder-plinius"
     },
     {
       "title": "LeoYeAI/openclaw-master-skills - 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
@@ -1297,23 +1298,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1442,
+      "stars": 1451,
       "user": "LeoYeAI"
-    },
-    {
-      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
-      "url": "https://github.com/World-Open-Graph/br-acc",
-      "published_at": "2026-03-01T15:24:07Z",
-      "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
-      "source": "GitHub",
-      "stars": 1386,
-      "user": "World-Open-Graph"
     },
     {
       "title": "PKU-YuanGroup/Helios - Helios: Real Real-Time Long Video Generation Model",
@@ -1327,8 +1313,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 772,
       "user": "PKU-YuanGroup"
+    },
+    {
+      "title": "tanishqkumar/ssd - A lightweight inference engine supporting speculative speculative decoding (SSD). ",
+      "url": "https://github.com/tanishqkumar/ssd",
+      "published_at": "2026-03-04T13:14:03Z",
+      "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
+      "source": "GitHub",
+      "stars": 690,
+      "user": "tanishqkumar"
     }
   ],
   "DevOps": [
@@ -1361,6 +1362,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "Introducing the Zen of DevOps",
+      "url": "https://dev.to/tbeijen/introducing-the-zen-of-devops-3khm",
+      "published_at": "2026-03-01T08:31:00Z",
+      "description": "Introducing the Zen of DevOps, an adaptation of the Zen of Python, providing guidance to the fields of DevOps, SRE and Platform Engineering",
+      "tags": [
+        "devops",
+        "sre",
+        "platformengineering",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.zenofdevops.org%2Fimages%2Fheader-wide-1200x630_hu_cd53c894301ebce3.jpg",
+      "source": "Dev.to",
+      "user": "Tibo Beijen"
     }
   ],
   "WebDev": [
@@ -1408,20 +1424,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbefsjw9skw9mh1j3j64.png",
       "source": "Dev.to",
       "user": "Hadil Ben Abdallah"
-    },
-    {
-      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
-      "url": "https://dev.to/anchildress1/i-stopped-reviewing-code-a-backend-devs-experiment-with-google-gemini-5424",
-      "published_at": "2026-03-04T00:02:48Z",
-      "description": "I stopped reviewing code and let Google Gemini build my UI. Then I audited the results to see what autonomy in AI development actually produces.",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F489ex4jl35lliprm37eh.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
     },
     {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
@@ -1522,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 185,
       "user": "steipete"
     }
   ],
@@ -1554,7 +1556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 772,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1590,19 +1592,19 @@
       "user": "Harish Aravindan"
     },
     {
-      "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
-      "url": "https://github.com/SleuthCo/clawshield-public",
-      "published_at": "2026-03-01T03:12:37Z",
-      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
+      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
+      "published_at": "2026-03-01T13:53:25Z",
+      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
       "tags": [
-        "go",
-        "github",
-        "open-source"
+        "agents",
+        "ai",
+        "aws",
+        "tutorial"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "SleuthCo"
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
+      "source": "Dev.to",
+      "user": "Ahnaf Tahmid"
     }
   ],
   "Database": [
@@ -1649,21 +1651,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
-      "url": "https://github.com/r3nzsec/irflow-timeline",
-      "published_at": "2026-03-01T19:31:35Z",
-      "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
-      "source": "GitHub",
-      "stars": 152,
-      "user": "r3nzsec"
-    },
-    {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
       "url": "https://github.com/steipete/discrawl",
       "published_at": "2026-03-07T12:13:48Z",
@@ -1675,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 185,
       "user": "steipete"
     }
   ],
@@ -1723,19 +1710,19 @@
       "user": "iancarroll"
     },
     {
-      "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
-      "url": "https://github.com/SleuthCo/clawshield-public",
-      "published_at": "2026-03-01T03:12:37Z",
-      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "title": "marchev/claudit - MCP server for searching Solodit smart contract security findings",
+      "url": "https://github.com/marchev/claudit",
+      "published_at": "2026-03-04T21:53:52Z",
+      "description": "MCP server for searching Solodit smart contract security findings",
       "tags": [
-        "go",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2691408?v=4",
       "source": "GitHub",
-      "stars": 95,
-      "user": "SleuthCo"
+      "stars": 96,
+      "user": "marchev"
     }
   ],
   "Tools": [
@@ -1768,21 +1755,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
-    },
-    {
-      "title": "How Claude Skills Replaced Our Documentation",
-      "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
-      "published_at": "2026-03-05T07:49:58Z",
-      "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
-      "tags": [
-        "webdev",
-        "ai",
-        "documentation",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
-      "source": "Dev.to",
-      "user": "Magnus Rødseth"
     },
     {
       "title": "How I Use Multi-Agent AI to Debug Production Errors in My Laravel App",
@@ -1979,6 +1951,21 @@
       "user": "Eastkap"
     },
     {
+      "title": "How Claude Skills Replaced Our Documentation",
+      "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
+      "published_at": "2026-03-05T07:49:58Z",
+      "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
+      "tags": [
+        "webdev",
+        "ai",
+        "documentation",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
+      "source": "Dev.to",
+      "user": "Magnus Rødseth"
+    },
+    {
       "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
       "url": "https://github.com/FinPyromancerLog/xcode-claw",
       "published_at": "2026-03-05T18:47:10Z",
@@ -1994,36 +1981,6 @@
       "user": "FinPyromancerLog"
     },
     {
-      "title": "r3nzsec/irflow-timeline - DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
-      "url": "https://github.com/r3nzsec/irflow-timeline",
-      "published_at": "2026-03-01T19:31:35Z",
-      "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22617241?v=4",
-      "source": "GitHub",
-      "stars": 152,
-      "user": "r3nzsec"
-    },
-    {
-      "title": "cporter202/openclaw-api-list - This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
-      "url": "https://github.com/cporter202/openclaw-api-list",
-      "published_at": "2026-03-01T04:39:17Z",
-      "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
-      "source": "GitHub",
-      "stars": 115,
-      "user": "cporter202"
-    },
-    {
       "title": "vicnaum/bun-demincer - Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries",
       "url": "https://github.com/vicnaum/bun-demincer",
       "published_at": "2026-03-03T11:36:55Z",
@@ -2035,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5636644?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "vicnaum"
     },
     {
@@ -2050,23 +2007,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 106,
       "user": "gradenGnostic"
     },
     {
-      "title": "elder-plinius/OBLITERATUS - obliterate the chains that bind you",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "published_at": "2026-03-03T19:37:51Z",
-      "description": "obliterate the chains that bind you",
+      "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
+      "url": "https://github.com/ygwyg/agent-experience",
+      "published_at": "2026-03-04T17:04:29Z",
+      "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167489839?v=4",
       "source": "GitHub",
-      "stars": 2192,
-      "user": "elder-plinius"
+      "stars": 102,
+      "user": "ygwyg"
+    },
+    {
+      "title": "marchev/claudit - MCP server for searching Solodit smart contract security findings",
+      "url": "https://github.com/marchev/claudit",
+      "published_at": "2026-03-04T21:53:52Z",
+      "description": "MCP server for searching Solodit smart contract security findings",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2691408?v=4",
+      "source": "GitHub",
+      "stars": 96,
+      "user": "marchev"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -2080,8 +2052,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1872,
+      "stars": 2344,
       "user": "karpathy"
+    },
+    {
+      "title": "elder-plinius/OBLITERATUS - OBLITERATE THE CHAINS THAT BIND YOU",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "published_at": "2026-03-03T19:37:51Z",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
+      "source": "GitHub",
+      "stars": 2220,
+      "user": "elder-plinius"
     },
     {
       "title": "LeoYeAI/openclaw-master-skills - 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
@@ -2095,23 +2082,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1442,
+      "stars": 1451,
       "user": "LeoYeAI"
-    },
-    {
-      "title": "World-Open-Graph/br-acc - World Transparency Graph public codebase (🚧 website in progress)",
-      "url": "https://github.com/World-Open-Graph/br-acc",
-      "published_at": "2026-03-01T15:24:07Z",
-      "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264825054?v=4",
-      "source": "GitHub",
-      "stars": 1386,
-      "user": "World-Open-Graph"
     },
     {
       "title": "PKU-YuanGroup/Helios - Helios: Real Real-Time Long Video Generation Model",
@@ -2125,8 +2097,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 772,
       "user": "PKU-YuanGroup"
+    },
+    {
+      "title": "tanishqkumar/ssd - A lightweight inference engine supporting speculative speculative decoding (SSD). ",
+      "url": "https://github.com/tanishqkumar/ssd",
+      "published_at": "2026-03-04T13:14:03Z",
+      "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
+      "source": "GitHub",
+      "stars": 690,
+      "user": "tanishqkumar"
     },
     {
       "title": "LeoChen-CoreMind/VMPacker - ARM64 ELF Virtual Machine Protection System",
@@ -2144,6 +2131,21 @@
       "user": "LeoChen-CoreMind"
     },
     {
+      "title": "steipete/discrawl - cli for discord with sqlite backend",
+      "url": "https://github.com/steipete/discrawl",
+      "published_at": "2026-03-07T12:13:48Z",
+      "description": "cli for discord with sqlite backend",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
+      "source": "GitHub",
+      "stars": 185,
+      "user": "steipete"
+    },
+    {
       "title": "heri1845/ai-meme-trading-bot - Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
       "url": "https://github.com/heri1845/ai-meme-trading-bot",
       "published_at": "2026-03-05T15:44:53Z",
@@ -2157,21 +2159,6 @@
       "source": "GitHub",
       "stars": 173,
       "user": "heri1845"
-    },
-    {
-      "title": "steipete/discrawl - cli for discord with sqlite backend",
-      "url": "https://github.com/steipete/discrawl",
-      "published_at": "2026-03-07T12:13:48Z",
-      "description": "cli for discord with sqlite backend",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
-      "source": "GitHub",
-      "stars": 137,
-      "user": "steipete"
     },
     {
       "title": "nolenroyalty/yt-browse - it's like search, but for youtube",
@@ -2189,19 +2176,19 @@
       "user": "nolenroyalty"
     },
     {
-      "title": "SleuthCo/clawshield-public - Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
-      "url": "https://github.com/SleuthCo/clawshield-public",
-      "published_at": "2026-03-01T03:12:37Z",
-      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "title": "hoangtuvungcao/mango-waf - 🥭 Mango Shield Apex: High-performance L7 DDoS Protection & WAF with Real-time DStat Dashboard",
+      "url": "https://github.com/hoangtuvungcao/mango-waf",
+      "published_at": "2026-03-07T05:48:21Z",
+      "description": "🥭 Mango Shield Apex: High-performance L7 DDoS Protection & WAF with Real-time DStat Dashboard",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259695222?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/206301327?v=4",
       "source": "GitHub",
-      "stars": 95,
-      "user": "SleuthCo"
+      "stars": 74,
+      "user": "hoangtuvungcao"
     }
   ]
 }
