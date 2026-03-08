@@ -216,7 +216,7 @@ npm run test
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 
-_Last automated update: Sun, 08 Mar 2026 16:26:18 CAT_
+_Last automated update: Sun, 08 Mar 2026 16:50:01 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 08 Mar 2026 16:26:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 08 Mar 2026 14:26:18 GMT</b><br/>
+  <b>Last automated update: Sun, 08 Mar 2026 14:50:01 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
