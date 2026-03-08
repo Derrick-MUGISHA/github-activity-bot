@@ -36,7 +36,7 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.6%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.8%)
+**WebDev**: 🟦🟦🟦🟦 10 (9.8%)
 
 **Database**: 🟦🟦 4 (3.9%)
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-08 22:00 CAT)
+## 📅 Latest Updates (2026-03-08 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
 
-_Last automated update: Sun, 08 Mar 2026 22:48:24 CAT_
+_Last automated update: Sun, 08 Mar 2026 23:19:46 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 08 Mar 2026 22:48:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 08 Mar 2026 20:48:24 GMT</b><br/>
+  <b>Last automated update: Sun, 08 Mar 2026 21:19:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
