@@ -31,21 +31,6 @@
       "user": "Vivek V."
     },
     {
-      "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
-      "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
-      "published_at": "2026-03-07T17:10:00Z",
-      "description": "So you've been writing Go for a bit. Your main.go is growing. You've got a database call next to an...",
-      "tags": [
-        "go",
-        "ore",
-        "di",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png",
-      "source": "Dev.to",
-      "user": "Firas M. Darwish"
-    },
-    {
       "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
       "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
       "published_at": "2026-03-04T20:19:27Z",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
       "source": "Dev.to",
       "user": "Mike Krop"
+    },
+    {
+      "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
+      "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
+      "published_at": "2026-03-07T17:10:00Z",
+      "description": "So you've been writing Go for a bit. Your main.go is growing. You've got a database call next to an...",
+      "tags": [
+        "go",
+        "ore",
+        "di",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png",
+      "source": "Dev.to",
+      "user": "Firas M. Darwish"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -493,21 +493,6 @@
       "user": "raddevus"
     },
     {
-      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
-      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
-      "published_at": "2026-03-01T13:53:25Z",
-      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
-      "tags": [
-        "agents",
-        "ai",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
-      "source": "Dev.to",
-      "user": "Ahnaf Tahmid"
-    },
-    {
       "title": "Getting the most out of Nano-Banana 2",
       "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
       "published_at": "2026-03-05T22:28:22Z",
@@ -523,6 +508,21 @@
       "user": "Guillaume Vernade"
     },
     {
+      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
+      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
+      "published_at": "2026-03-01T13:53:25Z",
+      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
+      "tags": [
+        "agents",
+        "ai",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
+      "source": "Dev.to",
+      "user": "Ahnaf Tahmid"
+    },
+    {
       "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
       "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
       "published_at": "2026-02-26T08:08:54Z",
@@ -536,6 +536,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
+    },
+    {
+      "title": "SQLite as an MCP context saver: stop cramming raw API data into your LLM",
+      "url": "https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4",
+      "published_at": "2026-03-04T14:40:33Z",
+      "description": "Most MCP servers dump raw API responses into the conversation. I've been using SQLite as a dependency...",
+      "tags": [
+        "ai",
+        "mcp",
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2054xkke008f1jqg3n6.jpg",
+      "source": "Dev.to",
+      "user": "Richard Baxter"
     },
     {
       "title": "Airfoil",
@@ -696,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 3541,
+      "stars": 3820,
       "user": "karpathy"
     },
     {
@@ -711,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2248,
+      "stars": 2249,
       "user": "elder-plinius"
     },
     {
@@ -726,7 +740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1455,
+      "stars": 1458,
       "user": "LeoYeAI"
     },
     {
@@ -863,21 +877,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
-      "url": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
-      "published_at": "2026-03-02T20:32:12Z",
-      "description": "BlokJS - Zero-Build, Zero-Dependency, Standalone, Reactive, Lightweight UI Framework   New...",
-      "tags": [
-        "javascript",
-        "frontend",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fczmztjfyv1kye2o0vou3.png",
-      "source": "Dev.to",
-      "user": "Aleksandar Maletic"
     },
     {
       "title": "Stop Running Prettier Through ESLint — Here's Why Standalone Is Better",
@@ -1026,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "FinPyromancerLog"
     },
     {
@@ -1041,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "gradenGnostic"
     },
     {
@@ -1268,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 3541,
+      "stars": 3820,
       "user": "karpathy"
     },
     {
@@ -1283,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2248,
+      "stars": 2249,
       "user": "elder-plinius"
     },
     {
@@ -1298,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1455,
+      "stars": 1458,
       "user": "LeoYeAI"
     },
     {
@@ -1313,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 805,
       "user": "PKU-YuanGroup"
     },
     {
@@ -1456,21 +1455,6 @@
       "user": "wintercounter"
     },
     {
-      "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
-      "url": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
-      "published_at": "2026-03-02T20:32:12Z",
-      "description": "BlokJS - Zero-Build, Zero-Dependency, Standalone, Reactive, Lightweight UI Framework   New...",
-      "tags": [
-        "javascript",
-        "frontend",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fczmztjfyv1kye2o0vou3.png",
-      "source": "Dev.to",
-      "user": "Aleksandar Maletic"
-    },
-    {
       "title": "Stop Running Prettier Through ESLint — Here's Why Standalone Is Better",
       "url": "https://dev.to/vadim/stop-running-prettier-through-eslint-heres-why-standalone-is-better-78a",
       "published_at": "2026-03-02T11:48:12Z",
@@ -1524,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 237,
       "user": "steipete"
     }
   ],
@@ -1556,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 805,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1639,6 +1623,20 @@
       "user": "Ahmet Zeybek"
     },
     {
+      "title": "SQLite as an MCP context saver: stop cramming raw API data into your LLM",
+      "url": "https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4",
+      "published_at": "2026-03-04T14:40:33Z",
+      "description": "Most MCP servers dump raw API responses into the conversation. I've been using SQLite as a dependency...",
+      "tags": [
+        "ai",
+        "mcp",
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2054xkke008f1jqg3n6.jpg",
+      "source": "Dev.to",
+      "user": "Richard Baxter"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1662,7 +1660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 237,
       "user": "steipete"
     }
   ],
@@ -1977,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "FinPyromancerLog"
     },
     {
@@ -1992,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "gradenGnostic"
     },
     {
@@ -2052,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 3541,
+      "stars": 3820,
       "user": "karpathy"
     },
     {
@@ -2067,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2248,
+      "stars": 2249,
       "user": "elder-plinius"
     },
     {
@@ -2082,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1455,
+      "stars": 1458,
       "user": "LeoYeAI"
     },
     {
@@ -2097,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 805,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2127,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 237,
       "user": "steipete"
     },
     {
