@@ -165,21 +165,6 @@
       "user": "Ken W Alger"
     },
     {
-      "title": "SaaS Companies Fear Me: Cloning* Granola for Linux",
-      "url": "https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0",
-      "published_at": "2026-03-03T21:23:35Z",
-      "description": "This is a submission for the Built with Google Gemini: Writing Challenge  I've been spending a lot of...",
-      "tags": [
-        "devchallenge",
-        "mlhreflections",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flefih9vapmoxwpsmk8wc.png",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
       "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
       "published_at": "2026-03-04T15:02:08Z",
@@ -193,21 +178,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
       "source": "Dev.to",
       "user": "Daniel Balcarek"
-    },
-    {
-      "title": "How I Use Multi-Agent AI to Debug Production Errors in My Laravel App",
-      "url": "https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90",
-      "published_at": "2026-03-04T08:33:38Z",
-      "description": "Production bugs have a predictable, exhausting rhythm.  Sentry fires. You open the issue, read the...",
-      "tags": [
-        "laravel",
-        "ai",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fquh4p724hndhc2208iwf.png",
-      "source": "Dev.to",
-      "user": "Ojie Oriarewo"
     },
     {
       "title": "Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!",
@@ -710,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 7332,
+      "stars": 7494,
       "user": "karpathy"
     },
     {
@@ -725,7 +695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2343,
+      "stars": 2344,
       "user": "elder-plinius"
     },
     {
@@ -740,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1492,
+      "stars": 1494,
       "user": "LeoYeAI"
     },
     {
@@ -774,21 +744,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
       "user": "Ovi ren"
-    },
-    {
-      "title": "The Server-Side Mocking Gap Nobody Talks About",
-      "url": "https://dev.to/rrafatpanah/the-server-side-mocking-gap-nobody-talks-about-36jb",
-      "published_at": "2026-03-04T01:44:04Z",
-      "description": "Per-test server-side mocking using MSW, Playwright, and any fullstack framework.",
-      "tags": [
-        "webdev",
-        "playwright",
-        "tanstack",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o0qqt887p61qum8o6mn.png",
-      "source": "Dev.to",
-      "user": "Raphael Rafatpanah"
     },
     {
       "title": "React: Singletons aren't as evil as you think",
@@ -1025,7 +980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "FinPyromancerLog"
     },
     {
@@ -1040,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 157,
       "user": "gradenGnostic"
     },
     {
@@ -1070,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "J2TEAM"
     },
     {
@@ -1267,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 7332,
+      "stars": 7494,
       "user": "karpathy"
     },
     {
@@ -1282,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2343,
+      "stars": 2344,
       "user": "elder-plinius"
     },
     {
@@ -1297,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1492,
+      "stars": 1494,
       "user": "LeoYeAI"
     },
     {
@@ -1312,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 851,
       "user": "PKU-YuanGroup"
     },
     {
@@ -1508,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 330,
       "user": "steipete"
     }
   ],
@@ -1540,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 851,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1587,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1646,7 +1601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 330,
       "user": "steipete"
     }
   ],
@@ -1724,21 +1679,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
-    },
-    {
-      "title": "How I Use Multi-Agent AI to Debug Production Errors in My Laravel App",
-      "url": "https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90",
-      "published_at": "2026-03-04T08:33:38Z",
-      "description": "Production bugs have a predictable, exhausting rhythm.  Sentry fires. You open the issue, read the...",
-      "tags": [
-        "laravel",
-        "ai",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fquh4p724hndhc2208iwf.png",
-      "source": "Dev.to",
-      "user": "Ojie Oriarewo"
     },
     {
       "title": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command",
@@ -1931,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "FinPyromancerLog"
     },
     {
@@ -1946,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 157,
       "user": "gradenGnostic"
     },
     {
@@ -1976,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "J2TEAM"
     },
     {
@@ -2006,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 7332,
+      "stars": 7494,
       "user": "karpathy"
     },
     {
@@ -2021,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2343,
+      "stars": 2344,
       "user": "elder-plinius"
     },
     {
@@ -2036,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1492,
+      "stars": 1494,
       "user": "LeoYeAI"
     },
     {
@@ -2051,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 851,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2081,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 330,
       "user": "steipete"
     },
     {
@@ -2096,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2126,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2141,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1676311?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "nolenroyalty"
     }
   ]
