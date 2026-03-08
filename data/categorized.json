@@ -314,21 +314,6 @@
       "user": "nmelo"
     },
     {
-      "title": "I Shipped Broken Code and Wrote an Article About It",
-      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
-      "published_at": "2026-03-04T11:13:54Z",
-      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
-      "tags": [
-        "ai",
-        "opensource",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -710,7 +695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 5958,
+      "stars": 6083,
       "user": "karpathy"
     },
     {
@@ -725,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2306,
+      "stars": 2309,
       "user": "elder-plinius"
     },
     {
@@ -1040,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "gradenGnostic"
     },
     {
@@ -1055,8 +1040,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5636644?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "vicnaum"
+    },
+    {
+      "title": "J2TEAM/vibe.j2team.org - Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "url": "https://github.com/J2TEAM/vibe.j2team.org",
+      "published_at": "2026-03-05T16:23:14Z",
+      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "J2TEAM"
     },
     {
       "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
@@ -1072,21 +1072,6 @@
       "source": "GitHub",
       "stars": 104,
       "user": "ygwyg"
-    },
-    {
-      "title": "marchev/claudit - MCP server for searching Solodit smart contract security findings",
-      "url": "https://github.com/marchev/claudit",
-      "published_at": "2026-03-04T21:53:52Z",
-      "description": "MCP server for searching Solodit smart contract security findings",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2691408?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "marchev"
     }
   ],
   "Python": [
@@ -1267,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 5958,
+      "stars": 6083,
       "user": "karpathy"
     },
     {
@@ -1282,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2306,
+      "stars": 2309,
       "user": "elder-plinius"
     },
     {
@@ -1312,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 846,
       "user": "PKU-YuanGroup"
     },
     {
@@ -1327,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 702,
       "user": "tanishqkumar"
     }
   ],
@@ -1508,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 287,
       "user": "steipete"
     }
   ],
@@ -1540,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 846,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1587,7 +1572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1646,7 +1631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 287,
       "user": "steipete"
     }
   ],
@@ -1692,21 +1677,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "marchev/claudit - MCP server for searching Solodit smart contract security findings",
-      "url": "https://github.com/marchev/claudit",
-      "published_at": "2026-03-04T21:53:52Z",
-      "description": "MCP server for searching Solodit smart contract security findings",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2691408?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "marchev"
     }
   ],
   "Tools": [
@@ -1829,21 +1799,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5ctnywtfrv6tfeesmgc.png",
       "source": "Dev.to",
       "user": "nmelo"
-    },
-    {
-      "title": "I Shipped Broken Code and Wrote an Article About It",
-      "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
-      "published_at": "2026-03-04T11:13:54Z",
-      "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
-      "tags": [
-        "ai",
-        "opensource",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fionccs8a4zudz2zy7zg0.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
     },
     {
       "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
@@ -1976,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "gradenGnostic"
     },
     {
@@ -1991,8 +1946,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5636644?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "vicnaum"
+    },
+    {
+      "title": "J2TEAM/vibe.j2team.org - Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "url": "https://github.com/J2TEAM/vibe.j2team.org",
+      "published_at": "2026-03-05T16:23:14Z",
+      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "J2TEAM"
     },
     {
       "title": "ygwyg/agent-experience - A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
@@ -2010,21 +1980,6 @@
       "user": "ygwyg"
     },
     {
-      "title": "marchev/claudit - MCP server for searching Solodit smart contract security findings",
-      "url": "https://github.com/marchev/claudit",
-      "published_at": "2026-03-04T21:53:52Z",
-      "description": "MCP server for searching Solodit smart contract security findings",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2691408?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "marchev"
-    },
-    {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published_at": "2026-03-06T22:00:43Z",
@@ -2036,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 5958,
+      "stars": 6083,
       "user": "karpathy"
     },
     {
@@ -2051,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2306,
+      "stars": 2309,
       "user": "elder-plinius"
     },
     {
@@ -2081,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 846,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2096,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 702,
       "user": "tanishqkumar"
     },
     {
@@ -2111,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 287,
       "user": "steipete"
     },
     {
@@ -2126,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 232,
       "user": "LeoChen-CoreMind"
     },
     {
@@ -2171,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "MuhammadHananAsghar"
     }
   ]
