@@ -31,21 +31,6 @@
       "user": "Vivek V."
     },
     {
-      "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
-      "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
-      "published_at": "2026-03-04T20:19:27Z",
-      "description": "Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...",
-      "tags": [
-        "ai",
-        "forem",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
-      "source": "Dev.to",
-      "user": "Jon Gottfried"
-    },
-    {
       "title": "Ship Less, Measure More",
       "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
       "published_at": "2026-03-06T22:07:43Z",
@@ -150,21 +135,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "Archival Intelligence: A Forensic Rare Book Auditor",
-      "url": "https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448",
-      "published_at": "2026-03-06T20:11:04Z",
-      "description": "🔍 Archival Intelligence: A Forensic Rare Book Auditor   This is a submission for the Notion...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhnr9x1wdwamf48vw2t2.png",
-      "source": "Dev.to",
-      "user": "Ken W Alger"
-    },
-    {
       "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
       "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
       "published_at": "2026-03-04T15:02:08Z",
@@ -239,21 +209,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
-      "url": "https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9",
-      "published_at": "2026-03-06T11:08:30Z",
-      "description": "Claude Code is one of the most capable terminal-based coding agents available today. It can read your...",
-      "tags": [
-        "ai",
-        "llm",
-        "backend",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbefsjw9skw9mh1j3j64.png",
-      "source": "Dev.to",
-      "user": "Hadil Ben Abdallah"
-    },
-    {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
       "url": "https://dev.to/nmelo/i-ship-software-with-13-ai-agents-heres-what-that-actually-looks-like-420c",
       "published_at": "2026-03-03T15:30:49Z",
@@ -267,6 +222,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5ctnywtfrv6tfeesmgc.png",
       "source": "Dev.to",
       "user": "nmelo"
+    },
+    {
+      "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
+      "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
+      "published_at": "2026-03-04T20:19:27Z",
+      "description": "Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...",
+      "tags": [
+        "ai",
+        "forem",
+        "devto",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
+      "source": "Dev.to",
+      "user": "Jon Gottfried"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -328,6 +298,21 @@
       "user": "Alisa Fortin"
     },
     {
+      "title": "Archival Intelligence: A Forensic Rare Book Auditor",
+      "url": "https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448",
+      "published_at": "2026-03-06T20:11:04Z",
+      "description": "🔍 Archival Intelligence: A Forensic Rare Book Auditor   This is a submission for the Notion...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhnr9x1wdwamf48vw2t2.png",
+      "source": "Dev.to",
+      "user": "Ken W Alger"
+    },
+    {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
       "url": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
       "published_at": "2026-03-02T18:53:22Z",
@@ -341,21 +326,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
-    },
-    {
-      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
-      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
-      "published_at": "2026-03-05T19:02:16Z",
-      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
-      "source": "Dev.to",
-      "user": "devjiro"
     },
     {
       "title": "The Old Seniority Definition Is Collapsing",
@@ -522,6 +492,36 @@
       "user": "kuroko"
     },
     {
+      "title": "The Token Economy",
+      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
+      "published_at": "2026-02-26T13:36:47Z",
+      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
+      "tags": [
+        "ai",
+        "webdev",
+        "career",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -665,8 +665,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "es617"
+    },
+    {
+      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "url": "https://github.com/holysheep123/holysheep-cli",
+      "published_at": "2026-03-07T21:32:55Z",
+      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "holysheep123"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -680,7 +695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 8003,
+      "stars": 8109,
       "user": "karpathy"
     },
     {
@@ -695,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2378,
+      "stars": 2382,
       "user": "elder-plinius"
     },
     {
@@ -710,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1496,
       "user": "LeoYeAI"
     },
     {
@@ -804,21 +819,6 @@
       "user": "wintercounter"
     },
     {
-      "title": "I Built a Pixel Art Village Where AI Characters Have Real Emotions",
-      "url": "https://dev.to/miss_terry/i-built-a-pixel-art-village-where-ai-characters-have-real-emotions-ccg",
-      "published_at": "2026-03-05T19:02:16Z",
-      "description": "Last weekend I fell into a rabbit hole: what if game characters didn't just have scripted reactions,...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkszm1mgztllzlq6cmw1.png",
-      "source": "Dev.to",
-      "user": "devjiro"
-    },
-    {
       "title": "The Old Seniority Definition Is Collapsing",
       "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
       "published_at": "2026-03-05T08:40:59Z",
@@ -834,19 +834,48 @@
       "user": "marcosomma"
     },
     {
-      "title": "Stop Running Prettier Through ESLint — Here's Why Standalone Is Better",
-      "url": "https://dev.to/vadim/stop-running-prettier-through-eslint-heres-why-standalone-is-better-78a",
-      "published_at": "2026-03-02T11:48:12Z",
-      "description": "If you've set up a JavaScript project in the last few years, there's a good chance you're running...",
+      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
+      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
+      "published_at": "2026-02-15T10:27:55Z",
+      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
       "tags": [
-        "frontend",
-        "vite",
+        "cloudflare",
+        "webdev",
         "javascript",
-        "typescript"
+        "satori"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz9ja8919m7o6h282tbgd.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
-      "user": "Vadim Vinogradov"
+      "user": "DeVoresyah ArEst"
+    },
+    {
+      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
+      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
+      "published_at": "2026-02-18T17:46:05Z",
+      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "tags": [
+        "typescript",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "source": "Dev.to",
+      "user": "Ely Lucas"
+    },
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -980,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "es617"
     },
     {
@@ -1010,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "gradenGnostic"
     },
     {
@@ -1029,19 +1058,19 @@
       "user": "vicnaum"
     },
     {
-      "title": "J2TEAM/vibe.j2team.org - Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
-      "url": "https://github.com/J2TEAM/vibe.j2team.org",
-      "published_at": "2026-03-05T16:23:14Z",
-      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "url": "https://github.com/holysheep123/holysheep-cli",
+      "published_at": "2026-03-07T21:32:55Z",
+      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 108,
-      "user": "J2TEAM"
+      "stars": 109,
+      "user": "holysheep123"
     }
   ],
   "Python": [
@@ -1222,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 8003,
+      "stars": 8109,
       "user": "karpathy"
     },
     {
@@ -1237,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2378,
+      "stars": 2382,
       "user": "elder-plinius"
     },
     {
@@ -1252,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1496,
       "user": "LeoYeAI"
     },
     {
@@ -1365,21 +1394,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
-      "url": "https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9",
-      "published_at": "2026-03-06T11:08:30Z",
-      "description": "Claude Code is one of the most capable terminal-based coding agents available today. It can read your...",
-      "tags": [
-        "ai",
-        "llm",
-        "backend",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbefsjw9skw9mh1j3j64.png",
-      "source": "Dev.to",
-      "user": "Hadil Ben Abdallah"
-    },
-    {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
       "published_at": "2026-02-22T15:16:30Z",
@@ -1410,21 +1424,6 @@
       "user": "wintercounter"
     },
     {
-      "title": "Stop Running Prettier Through ESLint — Here's Why Standalone Is Better",
-      "url": "https://dev.to/vadim/stop-running-prettier-through-eslint-heres-why-standalone-is-better-78a",
-      "published_at": "2026-03-02T11:48:12Z",
-      "description": "If you've set up a JavaScript project in the last few years, there's a good chance you're running...",
-      "tags": [
-        "frontend",
-        "vite",
-        "javascript",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz9ja8919m7o6h282tbgd.png",
-      "source": "Dev.to",
-      "user": "Vadim Vinogradov"
-    },
-    {
       "title": "Flexible Border Element",
       "url": "https://dev.to/lisacee/flexible-border-element-m6e",
       "published_at": "2026-03-01T21:12:43Z",
@@ -1438,6 +1437,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
       "source": "Dev.to",
       "user": "Lisa Cee"
+    },
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1463,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "es617"
     },
     {
@@ -1478,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 347,
       "user": "steipete"
     }
   ],
@@ -1544,6 +1558,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
       "source": "Dev.to",
       "user": "Ahnaf Tahmid"
+    },
+    {
+      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
+      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
+      "published_at": "2026-02-15T10:27:55Z",
+      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
+      "tags": [
+        "cloudflare",
+        "webdev",
+        "javascript",
+        "satori"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
+      "source": "Dev.to",
+      "user": "DeVoresyah ArEst"
     },
     {
       "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
@@ -1616,7 +1645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 347,
       "user": "steipete"
     }
   ],
@@ -1741,21 +1770,6 @@
       "user": "Chung Ho"
     },
     {
-      "title": "How to Scale Claude Code with an MCP Gateway (Run Any LLM, Centralize Tools, Control Costs)",
-      "url": "https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9",
-      "published_at": "2026-03-06T11:08:30Z",
-      "description": "Claude Code is one of the most capable terminal-based coding agents available today. It can read your...",
-      "tags": [
-        "ai",
-        "llm",
-        "backend",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbefsjw9skw9mh1j3j64.png",
-      "source": "Dev.to",
-      "user": "Hadil Ben Abdallah"
-    },
-    {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
       "url": "https://dev.to/nmelo/i-ship-software-with-13-ai-agents-heres-what-that-actually-looks-like-420c",
       "published_at": "2026-03-03T15:30:49Z",
@@ -1875,6 +1889,50 @@
       "user": "Magnus Rødseth"
     },
     {
+      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
+      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
+      "published_at": "2026-02-18T17:46:05Z",
+      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "tags": [
+        "typescript",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "source": "Dev.to",
+      "user": "Ely Lucas"
+    },
+    {
+      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+      "published_at": "2026-02-15T12:26:26Z",
+      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
+      "tags": [
+        "react",
+        "typescript",
+        "frontend",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
+      "source": "Dev.to",
+      "user": "Sem Gebresilassie"
+    },
+    {
+      "title": "What should I do and learn in 2026?",
+      "url": "https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc",
+      "published_at": "2026-03-02T19:31:11Z",
+      "description": "Maybe it's not about skills, but tactics.",
+      "tags": [
+        "career",
+        "learning",
+        "motivation",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png",
+      "source": "Dev.to",
+      "user": "Amara Graham"
+    },
+    {
       "title": "es617/claude-replay - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
       "url": "https://github.com/es617/claude-replay",
       "published_at": "2026-03-02T05:40:03Z",
@@ -1886,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "es617"
     },
     {
@@ -1916,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "gradenGnostic"
     },
     {
@@ -1935,19 +1993,19 @@
       "user": "vicnaum"
     },
     {
-      "title": "J2TEAM/vibe.j2team.org - Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
-      "url": "https://github.com/J2TEAM/vibe.j2team.org",
-      "published_at": "2026-03-05T16:23:14Z",
-      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "url": "https://github.com/holysheep123/holysheep-cli",
+      "published_at": "2026-03-07T21:32:55Z",
+      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 108,
-      "user": "J2TEAM"
+      "stars": 109,
+      "user": "holysheep123"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -1961,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 8003,
+      "stars": 8109,
       "user": "karpathy"
     },
     {
@@ -1976,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2378,
+      "stars": 2382,
       "user": "elder-plinius"
     },
     {
@@ -1991,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1496,
       "user": "LeoYeAI"
     },
     {
@@ -2036,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 347,
       "user": "steipete"
     },
     {

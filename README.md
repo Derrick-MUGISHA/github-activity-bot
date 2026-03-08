@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-08-orange)
 
@@ -28,31 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (50.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (28.4%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.5%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.6%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦🟦 10 (9.8%)
+**WebDev**: 🟦🟦🟦 9 (8.6%)
 
-**Database**: 🟦🟦 4 (3.9%)
+**Cloud**: 🟦🟦 4 (3.8%)
+
+**Database**: 🟦🟦 4 (3.8%)
 
 **DevOps**: 🟦 3 (2.9%)
 
-**Cloud**: 🟦 3 (2.9%)
-
 **Security**: 🟦 3 (2.9%)
 
-**Mobile**: 🟦 2 (2.0%)
+**Mobile**: 🟦 2 (1.9%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 57 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.1 (29.1%)
-Java            █████████████████████████ 24.1 (24.1%)
-Python          ████████████████████████ 22.8 (22.8%)
-Go              ██████████████████████ 21.5 (21.5%)
+JavaScript      ██████████████████████████████ 30.4 (30.4%)
+Java            ████████████████████████ 24.1 (24.1%)
+Python          ███████████████████████ 22.8 (22.8%)
+Go              ████████████████████ 20.3 (20.3%)
 Rust            █ 1.3 (1.3%)
 Swift           █ 1.3 (1.3%)
 
@@ -71,10 +71,10 @@ Swift           █ 1.3 (1.3%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
+    "JavaScript" : 24
     "Java" : 19
     "Python" : 18
-    "Go" : 17
+    "Go" : 16
     "Rust" : 1
     "Swift" : 1
 ```
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![productivity](https://img.shields.io/badge/productivity-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -149,6 +149,17 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/konark_13/the-women-who-helped-me-grow-as-a-developer-40f6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6pkg8aj3dufcshl3t845.png" width="200" alt="The Women Who Helped Me Grow as a Developer" />
+      <br/>
+      <b>The Women Who Helped Me Grow as a Developer</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ycrqfx70zjm32i4vak4.png" width="200" alt="I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents" />
       <br/>
@@ -157,22 +168,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-1m96">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnthw5l0jx1kcgia8zbfg.jpg" width="200" alt="What was your win this week?" />
       <br/>
       <b>What was your win this week?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png" width="200" alt="Share, Embed, and Curate Agent Sessions on DEV [Beta]" />
-      <br/>
-      <b>Share, Embed, and Curate Agent Sessions on DEV [Be...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,9 +195,9 @@ npm run test
 
 - [3 words worth a billion dollars: Drift to Determinism (DriDe)](https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej) _[Dev.to]_
 - [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
+- [The Women Who Helped Me Grow as a Developer](https://dev.to/konark_13/the-women-who-helped-me-grow-as-a-developer-40f6) _[Dev.to]_
 - [I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents](https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m96) _[Dev.to]_
-- [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [Advice I’d Send Back in Time: Technology in 2026 and Four Lessons for My High School Self](https://dev.to/theoriginalbpc/advice-id-send-back-in-time-technology-in-2026-and-four-lessons-for-my-high-school-self-2elj) _[Dev.to]_
 - [🏗️ Building a Clean Architecture API with Go, Ore, and SQLite](https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf) _[Dev.to]_
@@ -208,15 +208,15 @@ npm run test
 - [Supercharging Open Source Projects With Free AI Code Reviews](https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m) _[Dev.to]_
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
-- [Archival Intelligence: A Forensic Rare Book Auditor](https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 - [What’s the Worst Advice AI Has Given You? Here’s Mine.](https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4) _[Dev.to]_
 - [Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!](https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm) _[Dev.to]_
 - [We had a big team offsite and I forgot meme monday yesterday 😭
 
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
+- [I built a tiny Linux tool that shouts “FAHH” when I type the wrong command](https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio) _[Dev.to]_
 
-_Last automated update: Mon, 09 Mar 2026 00:27:03 CAT_
+_Last automated update: Mon, 09 Mar 2026 00:50:00 CAT_
 
 
 
@@ -224,14 +224,14 @@ _Last automated update: Mon, 09 Mar 2026 00:27:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -246,14 +246,14 @@ Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 08 Mar 2026 22:27:03 GMT</b><br/>
+  <b>Last automated update: Sun, 08 Mar 2026 22:50:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
