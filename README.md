@@ -151,10 +151,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ycrqfx70zjm32i4vak4.png" width="200" alt="I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents" />
+    <a href="https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yzgh4ym8omi0nod5hxd.png" width="200" alt="Decisions, Decisions -- Thoughts on making architectural decisions" />
       <br/>
-      <b>I Turned Notion Into a Control Plane for my 18 Ope...</b>
+      <b>Decisions, Decisions -- Thoughts on making archite...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -162,10 +162,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yzgh4ym8omi0nod5hxd.png" width="200" alt="Decisions, Decisions -- Thoughts on making architectural decisions" />
+    <a href="https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ycrqfx70zjm32i4vak4.png" width="200" alt="I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents" />
       <br/>
-      <b>Decisions, Decisions -- Thoughts on making archite...</b>
+      <b>I Turned Notion Into a Control Plane for my 18 Ope...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,8 +197,8 @@ npm run test
 
 - [3 words worth a billion dollars: Drift to Determinism (DriDe)](https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej) _[Dev.to]_
 - [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
-- [I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents](https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624) _[Dev.to]_
 - [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol) _[Dev.to]_
+- [I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents](https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m96) _[Dev.to]_
 - [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 
-_Last automated update: Sun, 08 Mar 2026 11:00:51 CAT_
+_Last automated update: Sun, 08 Mar 2026 11:43:45 CAT_
 
 
 
@@ -224,25 +224,25 @@ _Last automated update: Sun, 08 Mar 2026 11:00:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 08 Mar 2026 09:00:51 GMT</b><br/>
+  <b>Last automated update: Sun, 08 Mar 2026 09:43:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
