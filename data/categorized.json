@@ -239,21 +239,6 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
       "title": "Get started with GitHub Copilot SDK",
       "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
       "published_at": "2026-03-04T20:48:00Z",
@@ -284,20 +269,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
-      "published_at": "2026-03-03T18:54:28Z",
-      "description": "Today, we're introducing Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series...",
-      "tags": [
-        "gemini",
-        "ai",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
-      "source": "Dev.to",
-      "user": "Alisa Fortin"
-    },
-    {
       "title": "Archival Intelligence: A Forensic Rare Book Auditor",
       "url": "https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448",
       "published_at": "2026-03-06T20:11:04Z",
@@ -311,6 +282,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhnr9x1wdwamf48vw2t2.png",
       "source": "Dev.to",
       "user": "Ken W Alger"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
+      "published_at": "2026-03-03T18:54:28Z",
+      "description": "Today, we're introducing Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series...",
+      "tags": [
+        "gemini",
+        "ai",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
+      "source": "Dev.to",
+      "user": "Alisa Fortin"
     },
     {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
@@ -388,21 +373,6 @@
       "user": "Lisa Cee"
     },
     {
-      "title": "Meme Monday",
-      "url": "https://dev.to/raddevus/meme-monday-5d21",
-      "published_at": "2026-03-02T18:31:16Z",
-      "description": "Meme Monday   I can't wait all day for this site to start the Meme Monday post, so here it...",
-      "tags": [
-        "community",
-        "discuss",
-        "programming",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
-      "source": "Dev.to",
-      "user": "raddevus"
-    },
-    {
       "title": "Getting the most out of Nano-Banana 2",
       "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
       "published_at": "2026-03-05T22:28:22Z",
@@ -416,6 +386,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
       "source": "Dev.to",
       "user": "Guillaume Vernade"
+    },
+    {
+      "title": "Meme Monday",
+      "url": "https://dev.to/raddevus/meme-monday-5d21",
+      "published_at": "2026-03-02T18:31:16Z",
+      "description": "Meme Monday   I can't wait all day for this site to start the Meme Monday post, so here it...",
+      "tags": [
+        "community",
+        "discuss",
+        "programming",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
+      "source": "Dev.to",
+      "user": "raddevus"
     },
     {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
@@ -665,7 +650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "es617"
     },
     {
@@ -680,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "holysheep123"
     },
     {
@@ -695,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 8247,
+      "stars": 8372,
       "user": "karpathy"
     },
     {
@@ -710,7 +695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2388,
+      "stars": 2390,
       "user": "elder-plinius"
     },
     {
@@ -725,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1498,
       "user": "LeoYeAI"
     },
     {
@@ -1009,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "es617"
     },
     {
@@ -1039,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 178,
       "user": "gradenGnostic"
     },
     {
@@ -1069,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "holysheep123"
     }
   ],
@@ -1251,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 8247,
+      "stars": 8372,
       "user": "karpathy"
     },
     {
@@ -1266,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2388,
+      "stars": 2390,
       "user": "elder-plinius"
     },
     {
@@ -1281,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1498,
       "user": "LeoYeAI"
     },
     {
@@ -1332,21 +1317,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
       "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
       "url": "https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1",
       "published_at": "2026-02-26T08:08:54Z",
@@ -1360,6 +1330,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
+    },
+    {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
     }
   ],
   "WebDev": [
@@ -1477,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "es617"
     },
     {
@@ -1492,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 352,
       "user": "steipete"
     }
   ],
@@ -1575,6 +1560,21 @@
       "user": "DeVoresyah ArEst"
     },
     {
+      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
+      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
+      "published_at": "2026-02-17T23:56:55Z",
+      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
+      "tags": [
+        "kubernetes",
+        "go",
+        "devops",
+        "cloudnative"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
+      "source": "Dev.to",
+      "user": "suin"
+    },
+    {
       "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
       "url": "https://github.com/MuhammadHananAsghar/wormhole",
       "published_at": "2026-03-07T14:00:31Z",
@@ -1645,7 +1645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 352,
       "user": "steipete"
     }
   ],
@@ -1664,21 +1664,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
       "source": "Dev.to",
       "user": "Daniel Balcarek"
-    },
-    {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1815,21 +1800,6 @@
       "user": "Stephen Collins"
     },
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
       "title": "Get started with GitHub Copilot SDK",
       "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
       "published_at": "2026-03-04T20:48:00Z",
@@ -1944,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "es617"
     },
     {
@@ -1974,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 178,
       "user": "gradenGnostic"
     },
     {
@@ -2004,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "holysheep123"
     },
     {
@@ -2019,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 8247,
+      "stars": 8372,
       "user": "karpathy"
     },
     {
@@ -2034,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2388,
+      "stars": 2390,
       "user": "elder-plinius"
     },
     {
@@ -2049,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1498,
       "user": "LeoYeAI"
     },
     {
@@ -2094,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 352,
       "user": "steipete"
     },
     {
@@ -2109,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "LeoChen-CoreMind"
     },
     {
