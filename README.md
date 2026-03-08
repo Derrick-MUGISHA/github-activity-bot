@@ -216,7 +216,7 @@ npm run test
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 
-_Last automated update: Sun, 08 Mar 2026 15:28:19 CAT_
+_Last automated update: Sun, 08 Mar 2026 15:56:52 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 08 Mar 2026 15:28:19 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 08 Mar 2026 13:28:19 GMT</b><br/>
+  <b>Last automated update: Sun, 08 Mar 2026 13:56:52 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
