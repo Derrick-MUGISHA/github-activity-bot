@@ -216,7 +216,7 @@ npm run test
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
 - [I built a tiny Linux tool that shouts “FAHH” when I type the wrong command](https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio) _[Dev.to]_
 
-_Last automated update: Mon, 09 Mar 2026 01:45:07 CAT_
+_Last automated update: Mon, 09 Mar 2026 01:58:53 CAT_
 
 
 
@@ -235,25 +235,25 @@ Sliding window, hash map, two pointers
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Execution timing, event loop phases
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 08 Mar 2026 23:45:07 GMT</b><br/>
+  <b>Last automated update: Sun, 08 Mar 2026 23:58:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
