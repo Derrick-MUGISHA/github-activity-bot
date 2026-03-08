@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-08 12:00 CAT)
+## 📅 Latest Updates (2026-03-08 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 
-_Last automated update: Sun, 08 Mar 2026 12:57:03 CAT_
+_Last automated update: Sun, 08 Mar 2026 13:22:56 CAT_
 
 
 
@@ -224,29 +224,18 @@ _Last automated update: Sun, 08 Mar 2026 12:57:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Easy | **Topics**: OOP, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Multiple inheritance, method implementation, use cases
-
-</details>
-
-### 2. SystemDesign: Design a distributed cache system
-
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 2. DataStructures: Implement LRU Cache
 
 **Difficulty**: Hard | **Topics**: design, hash map, linked list
 
@@ -254,6 +243,17 @@ Consistency, partitioning, replication, eviction policies
 <summary>💡 Hint</summary>
 
 Doubly linked list + hash map, O(1) operations
+
+</details>
+
+### 3. SystemDesign: How would you design a rate limiter?
+
+**Difficulty**: Medium | **Topics**: system design, algorithms
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 08 Mar 2026 10:57:03 GMT</b><br/>
+  <b>Last automated update: Sun, 08 Mar 2026 11:22:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
