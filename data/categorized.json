@@ -344,21 +344,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
-      "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
-      "published_at": "2026-03-03T17:21:42Z",
-      "description": "Every week I ship a new piece of warrantyAI — an AI-powered warranty management system I'm building...",
-      "tags": [
-        "aws",
-        "serverless",
-        "ai",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
-      "source": "Dev.to",
-      "user": "Harish Aravindan"
-    },
-    {
       "title": "Get started with GitHub Copilot SDK",
       "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
       "published_at": "2026-03-04T20:48:00Z",
@@ -538,18 +523,33 @@
       "user": "Felipe Philipp"
     },
     {
-      "title": "SQLite as an MCP context saver: stop cramming raw API data into your LLM",
-      "url": "https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4",
-      "published_at": "2026-03-04T14:40:33Z",
-      "description": "Most MCP servers dump raw API responses into the conversation. I've been using SQLite as a dependency...",
+      "title": "In the AI Era, Code Is Cheap. Reputation Isn’t.",
+      "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
+      "published_at": "2026-03-04T21:01:29Z",
+      "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
       "tags": [
         "ai",
-        "mcp",
-        "sql"
+        "opensource",
+        "programming",
+        "software"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2054xkke008f1jqg3n6.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0b25t9rnk2hseb0o8qx.png",
       "source": "Dev.to",
-      "user": "Richard Baxter"
+      "user": "Kevin Alemán"
+    },
+    {
+      "title": "I feel lost on AI",
+      "url": "https://dev.to/eduardoferron/i-feel-lost-on-ai-367c",
+      "published_at": "2026-02-22T01:56:58Z",
+      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
+      "tags": [
+        "discuss",
+        "community",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
+      "source": "Dev.to",
+      "user": "Ed"
     },
     {
       "title": "Airfoil",
@@ -710,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 5821,
+      "stars": 5958,
       "user": "karpathy"
     },
     {
@@ -725,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2301,
+      "stars": 2306,
       "user": "elder-plinius"
     },
     {
@@ -1025,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "FinPyromancerLog"
     },
     {
@@ -1040,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "gradenGnostic"
     },
     {
@@ -1267,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 5821,
+      "stars": 5958,
       "user": "karpathy"
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2301,
+      "stars": 2306,
       "user": "elder-plinius"
     },
     {
@@ -1312,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 844,
       "user": "PKU-YuanGroup"
     },
     {
@@ -1508,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 286,
       "user": "steipete"
     }
   ],
@@ -1540,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 844,
       "user": "PKU-YuanGroup"
     }
   ],
@@ -1559,21 +1559,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8d4nm8mtxmyu7tnz9jn.png",
       "source": "Dev.to",
       "user": "Dana Fine"
-    },
-    {
-      "title": "Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI",
-      "url": "https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk",
-      "published_at": "2026-03-03T17:21:42Z",
-      "description": "Every week I ship a new piece of warrantyAI — an AI-powered warranty management system I'm building...",
-      "tags": [
-        "aws",
-        "serverless",
-        "ai",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiet5bc1au0wjr38frjp0.png",
-      "source": "Dev.to",
-      "user": "Harish Aravindan"
     },
     {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
@@ -1602,7 +1587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 100,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1638,20 +1623,6 @@
       "user": "Ahmet Zeybek"
     },
     {
-      "title": "SQLite as an MCP context saver: stop cramming raw API data into your LLM",
-      "url": "https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4",
-      "published_at": "2026-03-04T14:40:33Z",
-      "description": "Most MCP servers dump raw API responses into the conversation. I've been using SQLite as a dependency...",
-      "tags": [
-        "ai",
-        "mcp",
-        "sql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2054xkke008f1jqg3n6.jpg",
-      "source": "Dev.to",
-      "user": "Richard Baxter"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1675,7 +1646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 286,
       "user": "steipete"
     }
   ],
@@ -1990,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "FinPyromancerLog"
     },
     {
@@ -2005,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "gradenGnostic"
     },
     {
@@ -2065,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 5821,
+      "stars": 5958,
       "user": "karpathy"
     },
     {
@@ -2080,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2301,
+      "stars": 2306,
       "user": "elder-plinius"
     },
     {
@@ -2110,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 844,
       "user": "PKU-YuanGroup"
     },
     {
@@ -2140,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 286,
       "user": "steipete"
     },
     {
@@ -2200,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 100,
       "user": "MuhammadHananAsghar"
     }
   ]
