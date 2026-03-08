@@ -216,7 +216,7 @@ npm run test
 - [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86) _[Dev.to]_
 - [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk) _[Dev.to]_
 
-_Last automated update: Sun, 08 Mar 2026 11:43:45 CAT_
+_Last automated update: Sun, 08 Mar 2026 11:58:28 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Sun, 08 Mar 2026 11:43:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Multiple inheritance, method implementation, use cases
-
-</details>
-
-### 2. Python: Explain GIL and its implications for multithreading
+### 1. Python: Explain GIL and its implications for multithreading
 
 **Difficulty**: Hard | **Topics**: concurrency, performance
 
@@ -246,14 +235,25 @@ Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+setTimeout, clearTimeout, wrapper function
+
+</details>
+
+### 3. React: What is the Virtual DOM and how does React use it?
+
+**Difficulty**: Easy | **Topics**: rendering, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 08 Mar 2026 09:43:45 GMT</b><br/>
+  <b>Last automated update: Sun, 08 Mar 2026 09:58:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
