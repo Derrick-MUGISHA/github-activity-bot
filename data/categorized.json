@@ -314,21 +314,6 @@
       "user": "wintercounter"
     },
     {
-      "title": "The Old Seniority Definition Is Collapsing",
-      "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
-      "published_at": "2026-03-05T08:40:59Z",
-      "description": "For a long time, “senior developer” was a fairly consistent signal. You expected someone who could...",
-      "tags": [
-        "ai",
-        "programming",
-        "python",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "How Claude Skills Replaced Our Documentation",
       "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
       "published_at": "2026-03-05T07:49:58Z",
@@ -344,19 +329,19 @@
       "user": "Magnus Rødseth"
     },
     {
-      "title": "Getting the most out of Nano-Banana 2",
-      "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
-      "published_at": "2026-03-05T22:28:22Z",
-      "description": "Following our previous Developer Guide and Prompting Guide, this post dives into the brand new...",
+      "title": "The Old Seniority Definition Is Collapsing",
+      "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
+      "published_at": "2026-03-05T08:40:59Z",
+      "description": "For a long time, “senior developer” was a fairly consistent signal. You expected someone who could...",
       "tags": [
         "ai",
-        "gemini",
-        "nanobanana",
-        "promptengineering"
+        "programming",
+        "python",
+        "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
       "source": "Dev.to",
-      "user": "Guillaume Vernade"
+      "user": "marcosomma"
     },
     {
       "title": "Flexible Border Element",
@@ -372,6 +357,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
       "source": "Dev.to",
       "user": "Lisa Cee"
+    },
+    {
+      "title": "Getting the most out of Nano-Banana 2",
+      "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
+      "published_at": "2026-03-05T22:28:22Z",
+      "description": "Following our previous Developer Guide and Prompting Guide, this post dives into the brand new...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nanobanana",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
+      "source": "Dev.to",
+      "user": "Guillaume Vernade"
     },
     {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
@@ -606,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 205,
       "user": "comeonzhj"
     },
     {
@@ -621,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 187,
       "user": "holysheep123"
     },
     {
@@ -636,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 172,
       "user": "f"
     },
     {
@@ -651,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 13018,
+      "stars": 13455,
       "user": "karpathy"
     },
     {
@@ -666,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2502,
+      "stars": 2511,
       "user": "elder-plinius"
     },
     {
@@ -681,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 108,
       "user": "heri1845"
     }
   ],
@@ -938,21 +938,6 @@
       "user": "velmu"
     },
     {
-      "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
-      "url": "https://github.com/FinPyromancerLog/xcode-claw",
-      "published_at": "2026-03-05T18:47:10Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
-      "source": "GitHub",
-      "stars": 285,
-      "user": "FinPyromancerLog"
-    },
-    {
       "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
       "url": "https://github.com/gradenGnostic/LegacyLauncher",
       "published_at": "2026-03-04T17:44:07Z",
@@ -964,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 218,
       "user": "gradenGnostic"
     },
     {
@@ -979,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 205,
       "user": "comeonzhj"
     },
     {
@@ -994,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 187,
       "user": "holysheep123"
     },
     {
@@ -1009,8 +994,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 172,
       "user": "f"
+    },
+    {
+      "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
+      "url": "https://github.com/datawhalechina/hello-claw",
+      "published_at": "2026-03-04T03:04:38Z",
+      "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
+      "source": "GitHub",
+      "stars": 133,
+      "user": "datawhalechina"
     }
   ],
   "Python": [
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 13018,
+      "stars": 13455,
       "user": "karpathy"
     },
     {
@@ -1206,8 +1206,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2502,
+      "stars": 2511,
       "user": "elder-plinius"
+    },
+    {
+      "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "published_at": "2026-03-08T13:52:57Z",
+      "description": "CLI-Anything: Making ALL Software Agent-Native",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "source": "GitHub",
+      "stars": 737,
+      "user": "HKUDS"
     },
     {
       "title": "tanishqkumar/ssd - A lightweight inference engine supporting speculative speculative decoding (SSD). ",
@@ -1236,23 +1251,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 694,
       "user": "Flowseal"
-    },
-    {
-      "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "published_at": "2026-03-08T13:52:57Z",
-      "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 657,
-      "user": "HKUDS"
     }
   ],
   "DevOps": [
@@ -1447,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 435,
       "user": "steipete"
     }
   ],
@@ -1511,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 150,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1582,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 435,
       "user": "steipete"
     }
   ],
@@ -1871,21 +1871,6 @@
       "user": "Magnus Rødseth"
     },
     {
-      "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
-      "url": "https://github.com/FinPyromancerLog/xcode-claw",
-      "published_at": "2026-03-05T18:47:10Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
-      "source": "GitHub",
-      "stars": 285,
-      "user": "FinPyromancerLog"
-    },
-    {
       "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
       "url": "https://github.com/gradenGnostic/LegacyLauncher",
       "published_at": "2026-03-04T17:44:07Z",
@@ -1897,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 218,
       "user": "gradenGnostic"
     },
     {
@@ -1912,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 205,
       "user": "comeonzhj"
     },
     {
@@ -1927,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 187,
       "user": "holysheep123"
     },
     {
@@ -1942,8 +1927,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 172,
       "user": "f"
+    },
+    {
+      "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
+      "url": "https://github.com/datawhalechina/hello-claw",
+      "published_at": "2026-03-04T03:04:38Z",
+      "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
+      "source": "GitHub",
+      "stars": 133,
+      "user": "datawhalechina"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -1957,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 13018,
+      "stars": 13455,
       "user": "karpathy"
     },
     {
@@ -1972,8 +1972,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2502,
+      "stars": 2511,
       "user": "elder-plinius"
+    },
+    {
+      "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "published_at": "2026-03-08T13:52:57Z",
+      "description": "CLI-Anything: Making ALL Software Agent-Native",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "source": "GitHub",
+      "stars": 737,
+      "user": "HKUDS"
     },
     {
       "title": "tanishqkumar/ssd - A lightweight inference engine supporting speculative speculative decoding (SSD). ",
@@ -2002,23 +2017,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 694,
       "user": "Flowseal"
-    },
-    {
-      "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "published_at": "2026-03-08T13:52:57Z",
-      "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 657,
-      "user": "HKUDS"
     },
     {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
@@ -2032,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 435,
       "user": "steipete"
     },
     {
@@ -2047,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 150,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2062,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 108,
       "user": "heri1845"
     },
     {
