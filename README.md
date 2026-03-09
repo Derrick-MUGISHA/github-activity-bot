@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
 
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![productivity](https://img.shields.io/badge/productivity-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![go](https://img.shields.io/badge/go-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![productivity](https://img.shields.io/badge/productivity-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-09 8:00 CAT)
+## 📅 Latest Updates (2026-03-09 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -197,7 +197,6 @@ npm run test
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m96) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [Advice I’d Send Back in Time: Technology in 2026 and Four Lessons for My High School Self](https://dev.to/theoriginalbpc/advice-id-send-back-in-time-technology-in-2026-and-four-lessons-for-my-high-school-self-2elj) _[Dev.to]_
-- [🏗️ Building a Clean Architecture API with Go, Ore, and SQLite](https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf) _[Dev.to]_
 - [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [AI Can't Recreate Thrust (But It Can Help You Understand It)](https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d) _[Dev.to]_
@@ -212,9 +211,10 @@ npm run test
 
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3) _[Dev.to]_
 - [I built a tiny Linux tool that shouts “FAHH” when I type the wrong command](https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio) _[Dev.to]_
+- [🏗️ Building a Clean Architecture API with Go, Ore, and SQLite](https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf) _[Dev.to]_
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 
-_Last automated update: Mon, 09 Mar 2026 08:42:31 CAT_
+_Last automated update: Mon, 09 Mar 2026 09:39:23 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Mon, 09 Mar 2026 08:42:31 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 09 Mar 2026 06:42:31 GMT</b><br/>
+  <b>Last automated update: Mon, 09 Mar 2026 07:39:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
