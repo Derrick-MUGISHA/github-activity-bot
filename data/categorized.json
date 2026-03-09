@@ -60,21 +60,6 @@
       "user": "James Randall"
     },
     {
-      "title": "Supercharging Open Source Projects With Free AI Code Reviews",
-      "url": "https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m",
-      "published_at": "2026-03-06T19:19:05Z",
-      "description": "Scaling High Quality Code in the AI Era   Open source software has always depended on human...",
-      "tags": [
-        "qodo",
-        "ai",
-        "googlecloud",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8d4nm8mtxmyu7tnz9jn.png",
-      "source": "Dev.to",
-      "user": "Dana Fine"
-    },
-    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -313,21 +298,6 @@
       "user": "wintercounter"
     },
     {
-      "title": "The Old Seniority Definition Is Collapsing",
-      "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
-      "published_at": "2026-03-05T08:40:59Z",
-      "description": "For a long time, “senior developer” was a fairly consistent signal. You expected someone who could...",
-      "tags": [
-        "ai",
-        "programming",
-        "python",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "How Claude Skills Replaced Our Documentation",
       "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
       "published_at": "2026-03-05T07:49:58Z",
@@ -341,6 +311,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
       "source": "Dev.to",
       "user": "Magnus Rødseth"
+    },
+    {
+      "title": "The Old Seniority Definition Is Collapsing",
+      "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
+      "published_at": "2026-03-05T08:40:59Z",
+      "description": "For a long time, “senior developer” was a fairly consistent signal. You expected someone who could...",
+      "tags": [
+        "ai",
+        "programming",
+        "python",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "A Look Back at Outsourcing in the Age of AI",
@@ -521,6 +506,21 @@
       "user": "Ozan"
     },
     {
+      "title": "Wiring Claude Into Real Systems With Tool Use",
+      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
+      "published_at": "2026-02-27T05:46:09Z",
+      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
+      "source": "Dev.to",
+      "user": "Prabhat Kumar"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -664,7 +664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 163,
       "user": "holysheep123"
     },
     {
@@ -679,7 +679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 139,
       "user": "f"
     },
     {
@@ -694,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 11360,
+      "stars": 11665,
       "user": "karpathy"
     },
     {
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2453,
+      "stars": 2464,
       "user": "elder-plinius"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 120,
       "user": "heri1845"
     }
   ],
@@ -979,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 286,
       "user": "FinPyromancerLog"
     },
     {
@@ -994,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 203,
       "user": "gradenGnostic"
     },
     {
@@ -1009,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 163,
       "user": "holysheep123"
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 139,
       "user": "f"
     },
     {
@@ -1088,6 +1088,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Wiring Claude Into Real Systems With Tool Use",
+      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
+      "published_at": "2026-02-27T05:46:09Z",
+      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
+      "source": "Dev.to",
+      "user": "Prabhat Kumar"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1221,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 11360,
+      "stars": 11665,
       "user": "karpathy"
     },
     {
@@ -1236,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2453,
+      "stars": 2464,
       "user": "elder-plinius"
     },
     {
@@ -1251,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 726,
       "user": "tanishqkumar"
     },
     {
@@ -1266,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 667,
       "user": "Flowseal"
     },
     {
@@ -1281,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "inspatio"
     }
   ],
@@ -1462,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 409,
       "user": "steipete"
     }
   ],
@@ -1484,21 +1499,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "Supercharging Open Source Projects With Free AI Code Reviews",
-      "url": "https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m",
-      "published_at": "2026-03-06T19:19:05Z",
-      "description": "Scaling High Quality Code in the AI Era   Open source software has always depended on human...",
-      "tags": [
-        "qodo",
-        "ai",
-        "googlecloud",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8d4nm8mtxmyu7tnz9jn.png",
-      "source": "Dev.to",
-      "user": "Dana Fine"
-    },
     {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
       "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
@@ -1570,7 +1570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 141,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1629,7 +1629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 409,
       "user": "steipete"
     }
   ],
@@ -1916,6 +1916,21 @@
       "user": "Ozan"
     },
     {
+      "title": "Wiring Claude Into Real Systems With Tool Use",
+      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
+      "published_at": "2026-02-27T05:46:09Z",
+      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
+      "source": "Dev.to",
+      "user": "Prabhat Kumar"
+    },
+    {
       "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
       "url": "https://github.com/FinPyromancerLog/xcode-claw",
       "published_at": "2026-03-05T18:47:10Z",
@@ -1927,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 286,
       "user": "FinPyromancerLog"
     },
     {
@@ -1942,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 203,
       "user": "gradenGnostic"
     },
     {
@@ -1957,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 163,
       "user": "holysheep123"
     },
     {
@@ -1972,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 139,
       "user": "f"
     },
     {
@@ -2002,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 11360,
+      "stars": 11665,
       "user": "karpathy"
     },
     {
@@ -2017,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2453,
+      "stars": 2464,
       "user": "elder-plinius"
     },
     {
@@ -2032,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 726,
       "user": "tanishqkumar"
     },
     {
@@ -2047,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 667,
       "user": "Flowseal"
     },
     {
@@ -2062,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "inspatio"
     },
     {
@@ -2077,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 409,
       "user": "steipete"
     },
     {
@@ -2092,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 141,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2107,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 120,
       "user": "heri1845"
     },
     {
@@ -2122,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 91,
       "user": "AlmogBaku"
     },
     {
