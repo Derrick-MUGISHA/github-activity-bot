@@ -158,6 +158,15 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/earlgreyhot1701d/i-planned-an-exit-strategy-i-stayed-the-whole-time-4ejh">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff4byap34ldn5ufeg2wby.jpg" width="200" alt="I Planned an Exit Strategy. I Stayed the Whole Time." />
+      <br/>
+      <b>I Planned an Exit Strategy. I Stayed the Whole Tim...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png" width="200" alt="3 words worth a billion dollars: Drift to Determinism (DriDe)" />
       <br/>
@@ -175,15 +184,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/timoschinkel/native-typescript-with-node-4d93">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png" width="200" alt="Native TypeScript with Node" />
-      <br/>
-      <b>Native TypeScript with Node</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -194,10 +194,10 @@ npm run test
 - [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
 - [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) _[Dev.to]_
 - [Let Dependabot Merge Its Own PRs](https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc) _[Dev.to]_
+- [I Planned an Exit Strategy. I Stayed the Whole Time.](https://dev.to/earlgreyhot1701d/i-planned-an-exit-strategy-i-stayed-the-whole-time-4ejh) _[Dev.to]_
 - [3 words worth a billion dollars: Drift to Determinism (DriDe)](https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-2676) _[Dev.to]_
 - [Native TypeScript with Node](https://dev.to/timoschinkel/native-typescript-with-node-4d93) _[Dev.to]_
-- [I Planned an Exit Strategy. I Stayed the Whole Time.](https://dev.to/earlgreyhot1701d/i-planned-an-exit-strategy-i-stayed-the-whole-time-4ejh) _[Dev.to]_
 - [AI Regression Tests Written in Markdown, Not Code](https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m96) _[Dev.to]_
 - [Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?](https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62) _[Dev.to]_
@@ -212,7 +212,7 @@ npm run test
 - [The Women Who Helped Me Grow as a Developer](https://dev.to/konark_13/the-women-who-helped-me-grow-as-a-developer-40f6) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
 
-_Last automated update: Mon, 09 Mar 2026 21:04:05 CAT_
+_Last automated update: Mon, 09 Mar 2026 21:51:03 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Mon, 09 Mar 2026 21:04:05 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 09 Mar 2026 19:04:05 GMT</b><br/>
+  <b>Last automated update: Mon, 09 Mar 2026 19:51:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
