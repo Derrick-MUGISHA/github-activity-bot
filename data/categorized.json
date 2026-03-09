@@ -299,6 +299,21 @@
       "user": "Ken W Alger"
     },
     {
+      "title": "Getting the most out of Nano-Banana 2",
+      "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
+      "published_at": "2026-03-05T22:28:22Z",
+      "description": "Following our previous Developer Guide and Prompting Guide, this post dives into the brand new...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nanobanana",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
+      "source": "Dev.to",
+      "user": "Guillaume Vernade"
+    },
+    {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
       "url": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
       "published_at": "2026-03-02T18:53:22Z",
@@ -312,21 +327,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
-    },
-    {
-      "title": "How Claude Skills Replaced Our Documentation",
-      "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
-      "published_at": "2026-03-05T07:49:58Z",
-      "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
-      "tags": [
-        "webdev",
-        "ai",
-        "documentation",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
-      "source": "Dev.to",
-      "user": "Magnus Rødseth"
     },
     {
       "title": "The Old Seniority Definition Is Collapsing",
@@ -344,6 +344,21 @@
       "user": "marcosomma"
     },
     {
+      "title": "How Claude Skills Replaced Our Documentation",
+      "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
+      "published_at": "2026-03-05T07:49:58Z",
+      "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
+      "tags": [
+        "webdev",
+        "ai",
+        "documentation",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
+      "source": "Dev.to",
+      "user": "Magnus Rødseth"
+    },
+    {
       "title": "Flexible Border Element",
       "url": "https://dev.to/lisacee/flexible-border-element-m6e",
       "published_at": "2026-03-01T21:12:43Z",
@@ -357,21 +372,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
       "source": "Dev.to",
       "user": "Lisa Cee"
-    },
-    {
-      "title": "Getting the most out of Nano-Banana 2",
-      "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
-      "published_at": "2026-03-05T22:28:22Z",
-      "description": "Following our previous Developer Guide and Prompting Guide, this post dives into the brand new...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nanobanana",
-        "promptengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
-      "source": "Dev.to",
-      "user": "Guillaume Vernade"
     },
     {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
@@ -606,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "comeonzhj"
     },
     {
@@ -621,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 192,
       "user": "holysheep123"
     },
     {
@@ -636,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 188,
       "user": "f"
     },
     {
@@ -651,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 13455,
+      "stars": 13869,
       "user": "karpathy"
     },
     {
@@ -666,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2511,
+      "stars": 2520,
       "user": "elder-plinius"
     },
     {
@@ -949,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 222,
       "user": "gradenGnostic"
     },
     {
@@ -964,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "comeonzhj"
     },
     {
@@ -979,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 192,
       "user": "holysheep123"
     },
     {
@@ -994,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 188,
       "user": "f"
     },
     {
@@ -1009,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "datawhalechina"
     }
   ],
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 13455,
+      "stars": 13869,
       "user": "karpathy"
     },
     {
@@ -1206,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2511,
+      "stars": 2520,
       "user": "elder-plinius"
     },
     {
@@ -1221,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 826,
       "user": "HKUDS"
     },
     {
@@ -1240,19 +1240,19 @@
       "user": "tanishqkumar"
     },
     {
-      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "url": "https://github.com/Flowseal/tg-ws-proxy",
-      "published_at": "2026-03-04T14:10:26Z",
-      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "title": "jackwener/twitter-cli - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
+      "url": "https://github.com/jackwener/twitter-cli",
+      "published_at": "2026-03-05T08:18:37Z",
+      "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 694,
-      "user": "Flowseal"
+      "stars": 718,
+      "user": "jackwener"
     }
   ],
   "DevOps": [
@@ -1447,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 440,
       "user": "steipete"
     }
   ],
@@ -1511,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1582,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 440,
       "user": "steipete"
     }
   ],
@@ -1882,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 222,
       "user": "gradenGnostic"
     },
     {
@@ -1897,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "comeonzhj"
     },
     {
@@ -1912,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 192,
       "user": "holysheep123"
     },
     {
@@ -1927,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 188,
       "user": "f"
     },
     {
@@ -1942,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "datawhalechina"
     },
     {
@@ -1957,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 13455,
+      "stars": 13869,
       "user": "karpathy"
     },
     {
@@ -1972,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2511,
+      "stars": 2520,
       "user": "elder-plinius"
     },
     {
@@ -1987,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 826,
       "user": "HKUDS"
     },
     {
@@ -2006,19 +2006,19 @@
       "user": "tanishqkumar"
     },
     {
-      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "url": "https://github.com/Flowseal/tg-ws-proxy",
-      "published_at": "2026-03-04T14:10:26Z",
-      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "title": "jackwener/twitter-cli - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
+      "url": "https://github.com/jackwener/twitter-cli",
+      "published_at": "2026-03-05T08:18:37Z",
+      "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 694,
-      "user": "Flowseal"
+      "stars": 718,
+      "user": "jackwener"
     },
     {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
@@ -2032,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 440,
       "user": "steipete"
     },
     {
@@ -2047,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "MuhammadHananAsghar"
     },
     {

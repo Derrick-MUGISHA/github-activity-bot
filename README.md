@@ -121,22 +121,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-09 17:00 CAT)
+## 📅 Latest Updates (2026-03-09 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-2676">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmul8x91ngo5zld65hxr8.webp" width="200" alt="Meme Monday" />
-      <br/>
-      <b>Meme Monday</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png" width="200" alt="Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!" />
@@ -155,8 +146,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/revamped-rss-feed-imports-3j1e">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fal9knrh2t01tu1lm3lfk.png" width="200" alt="Revamped RSS Feed Imports" />
@@ -166,11 +155,13 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/earlgreyhot1701d/i-planned-an-exit-strategy-i-stayed-the-whole-time-4ejh">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff4byap34ldn5ufeg2wby.jpg" width="200" alt="I Planned an Exit Strategy. I Stayed the Whole Time." />
+    <a href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png" width="200" alt="3 words worth a billion dollars: Drift to Determinism (DriDe)" />
       <br/>
-      <b>I Planned an Exit Strategy. I Stayed the Whole Tim...</b>
+      <b>3 words worth a billion dollars: Drift to Determin...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -184,6 +175,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ben/meme-monday-2676">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmul8x91ngo5zld65hxr8.webp" width="200" alt="Meme Monday" />
+      <br/>
+      <b>Meme Monday</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -191,14 +191,14 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Meme Monday](https://dev.to/ben/meme-monday-2676) _[Dev.to]_
 - [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
 - [Let Dependabot Merge Its Own PRs](https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc) _[Dev.to]_
 - [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) _[Dev.to]_
-- [I Planned an Exit Strategy. I Stayed the Whole Time.](https://dev.to/earlgreyhot1701d/i-planned-an-exit-strategy-i-stayed-the-whole-time-4ejh) _[Dev.to]_
-- [The Women Who Helped Me Grow as a Developer](https://dev.to/konark_13/the-women-who-helped-me-grow-as-a-developer-40f6) _[Dev.to]_
 - [3 words worth a billion dollars: Drift to Determinism (DriDe)](https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej) _[Dev.to]_
+- [The Women Who Helped Me Grow as a Developer](https://dev.to/konark_13/the-women-who-helped-me-grow-as-a-developer-40f6) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-2676) _[Dev.to]_
 - [Native TypeScript with Node](https://dev.to/timoschinkel/native-typescript-with-node-4d93) _[Dev.to]_
+- [I Planned an Exit Strategy. I Stayed the Whole Time.](https://dev.to/earlgreyhot1701d/i-planned-an-exit-strategy-i-stayed-the-whole-time-4ejh) _[Dev.to]_
 - [AI Regression Tests Written in Markdown, Not Code](https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m96) _[Dev.to]_
 - [Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?](https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62) _[Dev.to]_
@@ -206,13 +206,13 @@ npm run test
 - [Breaking Free from the Render Cycle: Event-Driven Frontend Architecture](https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e) _[Dev.to]_
 - [From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life](https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj) _[Dev.to]_
 - [Recently Played: bringing back my Last.fm component](https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank) _[Dev.to]_
-- [Advice I’d Send Back in Time: Technology in 2026 and Four Lessons for My High School Self](https://dev.to/theoriginalbpc/advice-id-send-back-in-time-technology-in-2026-and-four-lessons-for-my-high-school-self-2elj) _[Dev.to]_
 - [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
+- [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
 
-_Last automated update: Mon, 09 Mar 2026 17:09:42 CAT_
+_Last automated update: Mon, 09 Mar 2026 18:12:39 CAT_
 
 
 
@@ -231,25 +231,25 @@ Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 09 Mar 2026 15:09:42 GMT</b><br/>
+  <b>Last automated update: Mon, 09 Mar 2026 16:12:39 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
