@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-09 7:00 CAT)
+## 📅 Latest Updates (2026-03-09 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-for
 - [I built a tiny Linux tool that shouts “FAHH” when I type the wrong command](https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio) _[Dev.to]_
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 
-_Last automated update: Mon, 09 Mar 2026 07:44:46 CAT_
+_Last automated update: Mon, 09 Mar 2026 08:42:31 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Mon, 09 Mar 2026 07:44:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 09 Mar 2026 05:44:46 GMT</b><br/>
+  <b>Last automated update: Mon, 09 Mar 2026 06:42:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
