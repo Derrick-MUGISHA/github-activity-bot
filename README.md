@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-09 10:00 CAT)
+## 📅 Latest Updates (2026-03-09 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-for
 - [🏗️ Building a Clean Architecture API with Go, Ore, and SQLite](https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf) _[Dev.to]_
 - [Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing](https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn) _[Dev.to]_
 
-_Last automated update: Mon, 09 Mar 2026 10:25:52 CAT_
+_Last automated update: Mon, 09 Mar 2026 11:07:09 CAT_
 
 
 
@@ -222,7 +222,18 @@ _Last automated update: Mon, 09 Mar 2026 10:25:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Python: Implement a context manager using __enter__ and __exit__
+
+**Difficulty**: Hard | **Topics**: context managers, resource management
+
+<details>
+<summary>💡 Hint</summary>
+
+with statement, setup/teardown, exception handling
+
+</details>
+
+### 2. SystemDesign: How would you design a rate limiter?
 
 **Difficulty**: Medium | **Topics**: system design, algorithms
 
@@ -233,25 +244,14 @@ Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: async, runtime
-
-<details>
-<summary>💡 Hint</summary>
-
-Call stack, callback queue, microtask queue
-
-</details>
-
-### 3. Java: What are Java Streams and how do they work?
-
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 09 Mar 2026 08:25:53 GMT</b><br/>
+  <b>Last automated update: Mon, 09 Mar 2026 09:07:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
