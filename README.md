@@ -212,7 +212,7 @@ npm run test
 - [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 
-_Last automated update: Tue, 10 Mar 2026 01:24:39 CAT_
+_Last automated update: Tue, 10 Mar 2026 01:50:11 CAT_
 
 
 
@@ -220,29 +220,18 @@ _Last automated update: Tue, 10 Mar 2026 01:24:39 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
-
-<details>
-<summary>💡 Hint</summary>
-
-with statement, setup/teardown, exception handling
-
-</details>
-
-### 2. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 2. Python: Explain GIL and its implications for multithreading
 
 **Difficulty**: Hard | **Topics**: concurrency, performance
 
@@ -250,6 +239,17 @@ Heap, stack, garbage collection
 <summary>💡 Hint</summary>
 
 Global Interpreter Lock, multiprocessing alternatives
+
+</details>
+
+### 3. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 09 Mar 2026 23:24:39 GMT</b><br/>
+  <b>Last automated update: Mon, 09 Mar 2026 23:50:11 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
