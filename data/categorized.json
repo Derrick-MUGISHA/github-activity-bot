@@ -135,21 +135,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
-      "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
-      "published_at": "2026-03-04T15:02:08Z",
-      "description": "I recently saw a meme about terrible legacy code on platform X and it gave me an idea for a...",
-      "tags": [
-        "discuss",
-        "ai",
-        "chatgpt",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
-      "source": "Dev.to",
-      "user": "Daniel Balcarek"
-    },
-    {
       "title": "Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!",
       "url": "https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm",
       "published_at": "2026-03-03T11:25:11Z",
@@ -237,6 +222,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
       "source": "Dev.to",
       "user": "Jon Gottfried"
+    },
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
     },
     {
       "title": "Get started with GitHub Copilot SDK",
@@ -507,6 +507,20 @@
       "user": "Sem Gebresilassie"
     },
     {
+      "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
+      "url": "https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag",
+      "published_at": "2026-02-26T23:21:17Z",
+      "description": "When I briefly worked with Peec AI, one of the first things I noticed that could greatly improve the...",
+      "tags": [
+        "firebase",
+        "serverless",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
+      "source": "Dev.to",
+      "user": "Ozan"
+    },
+    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -639,21 +653,6 @@
       "user": "veesahni"
     },
     {
-      "title": "es617/claude-replay - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
-      "url": "https://github.com/es617/claude-replay",
-      "published_at": "2026-03-02T05:40:03Z",
-      "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
-      "source": "GitHub",
-      "stars": 364,
-      "user": "es617"
-    },
-    {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "url": "https://github.com/holysheep123/holysheep-cli",
       "published_at": "2026-03-07T21:32:55Z",
@@ -665,7 +664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 128,
       "user": "holysheep123"
     },
     {
@@ -680,7 +679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 8434,
+      "stars": 9322,
       "user": "karpathy"
     },
     {
@@ -695,23 +694,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2395,
+      "stars": 2408,
       "user": "elder-plinius"
-    },
-    {
-      "title": "LeoYeAI/openclaw-master-skills - 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "url": "https://github.com/LeoYeAI/openclaw-master-skills",
-      "published_at": "2026-03-02T02:02:25Z",
-      "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
-      "source": "GitHub",
-      "stars": 1498,
-      "user": "LeoYeAI"
     },
     {
       "title": "heri1845/ai-meme-trading-bot - Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
@@ -744,20 +728,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
       "user": "Ovi ren"
-    },
-    {
-      "title": "React: Singletons aren't as evil as you think",
-      "url": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
-      "published_at": "2026-03-04T18:43:16Z",
-      "description": "In the world of React, the humble singleton gets a bit of a bad rap. It is often dismissed as a messy...",
-      "tags": [
-        "react",
-        "webdev",
-        "singleton"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozcggfsouuv2shb8vpiz.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
     },
     {
       "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
@@ -983,21 +953,6 @@
       "user": "velmu"
     },
     {
-      "title": "es617/claude-replay - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
-      "url": "https://github.com/es617/claude-replay",
-      "published_at": "2026-03-02T05:40:03Z",
-      "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
-      "source": "GitHub",
-      "stars": 364,
-      "user": "es617"
-    },
-    {
       "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
       "url": "https://github.com/FinPyromancerLog/xcode-claw",
       "published_at": "2026-03-05T18:47:10Z",
@@ -1024,8 +979,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 186,
       "user": "gradenGnostic"
+    },
+    {
+      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "url": "https://github.com/holysheep123/holysheep-cli",
+      "published_at": "2026-03-07T21:32:55Z",
+      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
+      "source": "GitHub",
+      "stars": 128,
+      "user": "holysheep123"
     },
     {
       "title": "vicnaum/bun-demincer - Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries",
@@ -1043,19 +1013,19 @@
       "user": "vicnaum"
     },
     {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "title": "J2TEAM/vibe.j2team.org - Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "url": "https://github.com/J2TEAM/vibe.j2team.org",
+      "published_at": "2026-03-05T16:23:14Z",
+      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
       "source": "GitHub",
-      "stars": 115,
-      "user": "holysheep123"
+      "stars": 112,
+      "user": "J2TEAM"
     }
   ],
   "Python": [
@@ -1236,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 8434,
+      "stars": 9322,
       "user": "karpathy"
     },
     {
@@ -1251,38 +1221,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2395,
+      "stars": 2408,
       "user": "elder-plinius"
-    },
-    {
-      "title": "LeoYeAI/openclaw-master-skills - 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "url": "https://github.com/LeoYeAI/openclaw-master-skills",
-      "published_at": "2026-03-02T02:02:25Z",
-      "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
-      "source": "GitHub",
-      "stars": 1498,
-      "user": "LeoYeAI"
-    },
-    {
-      "title": "PKU-YuanGroup/Helios - Helios: Real Real-Time Long Video Generation Model",
-      "url": "https://github.com/PKU-YuanGroup/Helios",
-      "published_at": "2026-03-02T13:37:00Z",
-      "description": "Helios: Real Real-Time Long Video Generation Model",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
-      "source": "GitHub",
-      "stars": 852,
-      "user": "PKU-YuanGroup"
     },
     {
       "title": "tanishqkumar/ssd - A lightweight inference engine supporting speculative speculative decoding (SSD). ",
@@ -1296,8 +1236,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 713,
       "user": "tanishqkumar"
+    },
+    {
+      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "url": "https://github.com/Flowseal/tg-ws-proxy",
+      "published_at": "2026-03-04T14:10:26Z",
+      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
+      "source": "GitHub",
+      "stars": 648,
+      "user": "Flowseal"
+    },
+    {
+      "title": "inspatio/worldfm - GitHub Repository",
+      "url": "https://github.com/inspatio/worldfm",
+      "published_at": "2026-03-03T03:15:15Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
+      "source": "GitHub",
+      "stars": 490,
+      "user": "inspatio"
     }
   ],
   "DevOps": [
@@ -1315,6 +1285,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
+    },
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
     },
     {
       "title": "Perfect Claude Code Notifications Setup with Tailscale and ntfy",
@@ -1451,21 +1436,6 @@
       "user": "velmu"
     },
     {
-      "title": "es617/claude-replay - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
-      "url": "https://github.com/es617/claude-replay",
-      "published_at": "2026-03-02T05:40:03Z",
-      "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
-      "source": "GitHub",
-      "stars": 364,
-      "user": "es617"
-    },
-    {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
       "url": "https://github.com/steipete/discrawl",
       "published_at": "2026-03-07T12:13:48Z",
@@ -1477,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 376,
       "user": "steipete"
     }
   ],
@@ -1496,21 +1466,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwf8r18ozmm88bfnrl4eo.png",
       "source": "Dev.to",
       "user": "Samuel Komfi"
-    },
-    {
-      "title": "PKU-YuanGroup/Helios - Helios: Real Real-Time Long Video Generation Model",
-      "url": "https://github.com/PKU-YuanGroup/Helios",
-      "published_at": "2026-03-02T13:37:00Z",
-      "description": "Helios: Real Real-Time Long Video Generation Model",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
-      "source": "GitHub",
-      "stars": 852,
-      "user": "PKU-YuanGroup"
     }
   ],
   "Cloud": [
@@ -1575,6 +1530,20 @@
       "user": "suin"
     },
     {
+      "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
+      "url": "https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag",
+      "published_at": "2026-02-26T23:21:17Z",
+      "description": "When I briefly worked with Peec AI, one of the first things I noticed that could greatly improve the...",
+      "tags": [
+        "firebase",
+        "serverless",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
+      "source": "Dev.to",
+      "user": "Ozan"
+    },
+    {
       "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
       "url": "https://github.com/MuhammadHananAsghar/wormhole",
       "published_at": "2026-03-07T14:00:31Z",
@@ -1586,7 +1555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 126,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1645,25 +1614,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 376,
       "user": "steipete"
     }
   ],
   "Security": [
     {
-      "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
-      "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
-      "published_at": "2026-03-04T15:02:08Z",
-      "description": "I recently saw a meme about terrible legacy code on platform X and it gave me an idea for a...",
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
       "tags": [
-        "discuss",
+        "security",
+        "git",
         "ai",
-        "chatgpt",
-        "security"
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9pofbzdg7l34irzv6pf.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
-      "user": "Daniel Balcarek"
+      "user": "Yohei Seki"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1800,6 +1769,21 @@
       "user": "Stephen Collins"
     },
     {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
+    },
+    {
       "title": "Get started with GitHub Copilot SDK",
       "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
       "published_at": "2026-03-04T20:48:00Z",
@@ -1903,19 +1887,18 @@
       "user": "Amara Graham"
     },
     {
-      "title": "es617/claude-replay - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
-      "url": "https://github.com/es617/claude-replay",
-      "published_at": "2026-03-02T05:40:03Z",
-      "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
+      "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
+      "url": "https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag",
+      "published_at": "2026-02-26T23:21:17Z",
+      "description": "When I briefly worked with Peec AI, one of the first things I noticed that could greatly improve the...",
       "tags": [
-        "javascript",
-        "github",
-        "open-source"
+        "firebase",
+        "serverless",
+        "webdev"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64611135?v=4",
-      "source": "GitHub",
-      "stars": 364,
-      "user": "es617"
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
+      "source": "Dev.to",
+      "user": "Ozan"
     },
     {
       "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
@@ -1944,8 +1927,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 186,
       "user": "gradenGnostic"
+    },
+    {
+      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "url": "https://github.com/holysheep123/holysheep-cli",
+      "published_at": "2026-03-07T21:32:55Z",
+      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
+      "source": "GitHub",
+      "stars": 128,
+      "user": "holysheep123"
     },
     {
       "title": "vicnaum/bun-demincer - Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries",
@@ -1963,19 +1961,19 @@
       "user": "vicnaum"
     },
     {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "title": "J2TEAM/vibe.j2team.org - Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "url": "https://github.com/J2TEAM/vibe.j2team.org",
+      "published_at": "2026-03-05T16:23:14Z",
+      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
       "source": "GitHub",
-      "stars": 115,
-      "user": "holysheep123"
+      "stars": 112,
+      "user": "J2TEAM"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -1989,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 8434,
+      "stars": 9322,
       "user": "karpathy"
     },
     {
@@ -2004,38 +2002,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2395,
+      "stars": 2408,
       "user": "elder-plinius"
-    },
-    {
-      "title": "LeoYeAI/openclaw-master-skills - 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "url": "https://github.com/LeoYeAI/openclaw-master-skills",
-      "published_at": "2026-03-02T02:02:25Z",
-      "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121472001?v=4",
-      "source": "GitHub",
-      "stars": 1498,
-      "user": "LeoYeAI"
-    },
-    {
-      "title": "PKU-YuanGroup/Helios - Helios: Real Real-Time Long Video Generation Model",
-      "url": "https://github.com/PKU-YuanGroup/Helios",
-      "published_at": "2026-03-02T13:37:00Z",
-      "description": "Helios: Real Real-Time Long Video Generation Model",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135824553?v=4",
-      "source": "GitHub",
-      "stars": 852,
-      "user": "PKU-YuanGroup"
     },
     {
       "title": "tanishqkumar/ssd - A lightweight inference engine supporting speculative speculative decoding (SSD). ",
@@ -2049,8 +2017,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 713,
       "user": "tanishqkumar"
+    },
+    {
+      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "url": "https://github.com/Flowseal/tg-ws-proxy",
+      "published_at": "2026-03-04T14:10:26Z",
+      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
+      "source": "GitHub",
+      "stars": 648,
+      "user": "Flowseal"
+    },
+    {
+      "title": "inspatio/worldfm - GitHub Repository",
+      "url": "https://github.com/inspatio/worldfm",
+      "published_at": "2026-03-03T03:15:15Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
+      "source": "GitHub",
+      "stars": 490,
+      "user": "inspatio"
     },
     {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
@@ -2064,23 +2062,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 376,
       "user": "steipete"
-    },
-    {
-      "title": "LeoChen-CoreMind/VMPacker - ARM64 ELF Virtual Machine Protection System",
-      "url": "https://github.com/LeoChen-CoreMind/VMPacker",
-      "published_at": "2026-03-02T07:21:42Z",
-      "description": "ARM64 ELF Virtual Machine Protection System",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/109653251?v=4",
-      "source": "GitHub",
-      "stars": 238,
-      "user": "LeoChen-CoreMind"
     },
     {
       "title": "heri1845/ai-meme-trading-bot - Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
@@ -2109,23 +2092,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 126,
       "user": "MuhammadHananAsghar"
     },
     {
-      "title": "nolenroyalty/yt-browse - it's like search, but for youtube",
-      "url": "https://github.com/nolenroyalty/yt-browse",
-      "published_at": "2026-03-02T19:12:33Z",
-      "description": "it's like search, but for youtube",
+      "title": "hoangtuvungcao/mango-waf - 🥭 Mango Shield Apex: High-performance L7 DDoS Protection & WAF with Real-time DStat Dashboard",
+      "url": "https://github.com/hoangtuvungcao/mango-waf",
+      "published_at": "2026-03-07T05:48:21Z",
+      "description": "🥭 Mango Shield Apex: High-performance L7 DDoS Protection & WAF with Real-time DStat Dashboard",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1676311?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/206301327?v=4",
       "source": "GitHub",
-      "stars": 110,
-      "user": "nolenroyalty"
+      "stars": 80,
+      "user": "hoangtuvungcao"
+    },
+    {
+      "title": "AlmogBaku/debug-skill - GitHub Repository",
+      "url": "https://github.com/AlmogBaku/debug-skill",
+      "published_at": "2026-03-06T14:34:45Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "AlmogBaku"
     }
   ]
 }
