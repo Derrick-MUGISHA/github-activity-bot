@@ -16,21 +16,6 @@
       "user": "GrahamTheDev"
     },
     {
-      "title": "AI Regression Tests Written in Markdown, Not Code",
-      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
-      "published_at": "2026-03-08T14:30:23Z",
-      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
-      "tags": [
-        "ai",
-        "testing",
-        "playwright",
-        "regression"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
-      "source": "Dev.to",
-      "user": "HybridTechie"
-    },
-    {
       "title": "Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?",
       "url": "https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62",
       "published_at": "2026-03-08T20:33:41Z",
@@ -58,21 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
       "source": "Dev.to",
       "user": "Mike Krop"
-    },
-    {
-      "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
-      "url": "https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj",
-      "published_at": "2026-03-08T15:50:06Z",
-      "description": "13 years building .NET products. Team lead. This is what the last 8 months taught me.             ...",
-      "tags": [
-        "webdev",
-        "career",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8teznz95kc0r4d70ln2t.png",
-      "source": "Dev.to",
-      "user": "yashaswi"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -120,6 +90,21 @@
       "user": "Denis Bakhoum"
     },
     {
+      "title": "AI Regression Tests Written in Markdown, Not Code",
+      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
+      "published_at": "2026-03-08T14:30:23Z",
+      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
+      "tags": [
+        "ai",
+        "testing",
+        "playwright",
+        "regression"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
+      "source": "Dev.to",
+      "user": "HybridTechie"
+    },
+    {
       "title": "I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents",
       "url": "https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624",
       "published_at": "2026-03-07T05:43:11Z",
@@ -133,6 +118,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ycrqfx70zjm32i4vak4.png",
       "source": "Dev.to",
       "user": "Vivek V."
+    },
+    {
+      "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
+      "url": "https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj",
+      "published_at": "2026-03-08T15:50:06Z",
+      "description": "13 years building .NET products. Team lead. This is what the last 8 months taught me.             ...",
+      "tags": [
+        "webdev",
+        "career",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8teznz95kc0r4d70ln2t.png",
+      "source": "Dev.to",
+      "user": "yashaswi"
     },
     {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
@@ -403,51 +403,6 @@
       "user": "Ed"
     },
     {
-      "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
-      "url": "https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a",
-      "published_at": "2026-02-26T07:58:44Z",
-      "description": "Token cost in browser automation MCPs has become a real topic — articles like \"Playwright MCP Burns...",
-      "tags": [
-        "mcp",
-        "ai",
-        "webdev",
-        "playwright"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
-      "source": "Dev.to",
-      "user": "kuroko"
-    },
-    {
-      "title": "The Token Economy",
-      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
-      "published_at": "2026-02-26T13:36:47Z",
-      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -591,7 +546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 217,
       "user": "holysheep123"
     },
     {
@@ -621,7 +576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 207,
       "user": "f"
     },
     {
@@ -636,7 +591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 15324,
+      "stars": 15505,
       "user": "karpathy"
     },
     {
@@ -651,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2552,
+      "stars": 2562,
       "user": "elder-plinius"
     },
     {
@@ -666,25 +621,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 101,
       "user": "heri1845"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Native TypeScript with Node",
-      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
-      "published_at": "2026-03-09T07:40:18Z",
-      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
-      "tags": [
-        "typescript",
-        "node",
-        "esm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png",
-      "source": "Dev.to",
-      "user": "Timo Schinkel"
-    },
     {
       "title": "Breaking Free from the Render Cycle: Event-Driven Frontend Architecture",
       "url": "https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e",
@@ -699,6 +640,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
       "source": "Dev.to",
       "user": "Ishan Bagchi"
+    },
+    {
+      "title": "Native TypeScript with Node",
+      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
+      "published_at": "2026-03-09T07:40:18Z",
+      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
+      "tags": [
+        "typescript",
+        "node",
+        "esm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png",
+      "source": "Dev.to",
+      "user": "Timo Schinkel"
     },
     {
       "title": "i built a social platform where everything vanishes after 24 hours",
@@ -771,50 +726,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
-    },
-    {
-      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
-      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
-      "published_at": "2026-02-15T10:27:55Z",
-      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
-      "tags": [
-        "cloudflare",
-        "webdev",
-        "javascript",
-        "satori"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
-      "source": "Dev.to",
-      "user": "DeVoresyah ArEst"
-    },
-    {
-      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
-      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
-      "published_at": "2026-02-18T17:46:05Z",
-      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
-      "tags": [
-        "typescript",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
-      "source": "Dev.to",
-      "user": "Ely Lucas"
-    },
-    {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -948,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 251,
       "user": "gradenGnostic"
     },
     {
@@ -963,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 217,
       "user": "holysheep123"
     },
     {
@@ -993,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 207,
       "user": "f"
     },
     {
@@ -1175,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 15324,
+      "stars": 15505,
       "user": "karpathy"
     },
     {
@@ -1190,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2552,
+      "stars": 2562,
       "user": "elder-plinius"
     },
     {
@@ -1205,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 1017,
       "user": "HKUDS"
     },
     {
@@ -1220,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 934,
       "user": "jackwener"
     },
     {
@@ -1408,21 +1319,6 @@
       "user": "Lisa Cee"
     },
     {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1446,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "steipete"
     }
   ],
@@ -1484,21 +1380,6 @@
       "user": "Ahnaf Tahmid"
     },
     {
-      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
-      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
-      "published_at": "2026-02-15T10:27:55Z",
-      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
-      "tags": [
-        "cloudflare",
-        "webdev",
-        "javascript",
-        "satori"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
-      "source": "Dev.to",
-      "user": "DeVoresyah ArEst"
-    },
-    {
       "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
       "url": "https://github.com/MuhammadHananAsghar/wormhole",
       "published_at": "2026-03-07T14:00:31Z",
@@ -1531,6 +1412,18 @@
       "user": "Ahmet Zeybek"
     },
     {
+      "title": "Understanding `GROUP BY` in SQL",
+      "url": "https://dev.to/andrewlegacci/understanding-group-by-in-sql-1e3c",
+      "published_at": "2026-03-08T10:26:00Z",
+      "description": "GROUP BY is one of those SQL clauses that starts out feeling simple and then becomes confusing as...",
+      "tags": [
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl269d9yruomerd3208y.png",
+      "source": "Dev.to",
+      "user": "andrewlegacci"
+    },
+    {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
       "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
       "published_at": "2026-03-07T17:10:00Z",
@@ -1544,18 +1437,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png",
       "source": "Dev.to",
       "user": "Firas M. Darwish"
-    },
-    {
-      "title": "Understanding `GROUP BY` in SQL",
-      "url": "https://dev.to/andrewlegacci/understanding-group-by-in-sql-1e3c",
-      "published_at": "2026-03-08T10:26:00Z",
-      "description": "GROUP BY is one of those SQL clauses that starts out feeling simple and then becomes confusing as...",
-      "tags": [
-        "sql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl269d9yruomerd3208y.png",
-      "source": "Dev.to",
-      "user": "andrewlegacci"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1581,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "steipete"
     }
   ],
@@ -1631,36 +1512,6 @@
       "user": "Nick Taylor"
     },
     {
-      "title": "AI Regression Tests Written in Markdown, Not Code",
-      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
-      "published_at": "2026-03-08T14:30:23Z",
-      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
-      "tags": [
-        "ai",
-        "testing",
-        "playwright",
-        "regression"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
-      "source": "Dev.to",
-      "user": "HybridTechie"
-    },
-    {
-      "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
-      "url": "https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj",
-      "published_at": "2026-03-08T15:50:06Z",
-      "description": "13 years building .NET products. Team lead. This is what the last 8 months taught me.             ...",
-      "tags": [
-        "webdev",
-        "career",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8teznz95kc0r4d70ln2t.png",
-      "source": "Dev.to",
-      "user": "yashaswi"
-    },
-    {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
       "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
       "published_at": "2026-03-06T16:03:22Z",
@@ -1691,19 +1542,34 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command",
-      "url": "https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio",
-      "published_at": "2026-03-05T13:53:48Z",
-      "description": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command   A few weeks ago...",
+      "title": "AI Regression Tests Written in Markdown, Not Code",
+      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
+      "published_at": "2026-03-08T14:30:23Z",
+      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
       "tags": [
-        "cli",
-        "linux",
-        "showdev",
-        "tooling"
+        "ai",
+        "testing",
+        "playwright",
+        "regression"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
       "source": "Dev.to",
-      "user": "Hamza"
+      "user": "HybridTechie"
+    },
+    {
+      "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
+      "url": "https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj",
+      "published_at": "2026-03-08T15:50:06Z",
+      "description": "13 years building .NET products. Team lead. This is what the last 8 months taught me.             ...",
+      "tags": [
+        "webdev",
+        "career",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8teznz95kc0r4d70ln2t.png",
+      "source": "Dev.to",
+      "user": "yashaswi"
     },
     {
       "title": "The End of Vibe Coding",
@@ -1719,6 +1585,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivr4rwmoqmscst69qhll.png",
       "source": "Dev.to",
       "user": "Dmitry Amelchenko"
+    },
+    {
+      "title": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command",
+      "url": "https://dev.to/hamzatopo/i-built-a-tiny-linux-tool-that-shouts-fahh-when-i-type-the-wrong-command-3fio",
+      "published_at": "2026-03-05T13:53:48Z",
+      "description": "I built a tiny Linux tool that shouts “FAHH” when I type the wrong command   A few weeks ago...",
+      "tags": [
+        "cli",
+        "linux",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png",
+      "source": "Dev.to",
+      "user": "Hamza"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1855,35 +1736,6 @@
       "user": "Eastkap"
     },
     {
-      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
-      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
-      "published_at": "2026-02-18T17:46:05Z",
-      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
-      "tags": [
-        "typescript",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
-      "source": "Dev.to",
-      "user": "Ely Lucas"
-    },
-    {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
-    },
-    {
       "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
       "url": "https://github.com/gradenGnostic/LegacyLauncher",
       "published_at": "2026-03-04T17:44:07Z",
@@ -1895,7 +1747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 251,
       "user": "gradenGnostic"
     },
     {
@@ -1910,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 217,
       "user": "holysheep123"
     },
     {
@@ -1940,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 207,
       "user": "f"
     },
     {
@@ -1970,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 15324,
+      "stars": 15505,
       "user": "karpathy"
     },
     {
@@ -1985,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2552,
+      "stars": 2562,
       "user": "elder-plinius"
     },
     {
@@ -2000,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 1017,
       "user": "HKUDS"
     },
     {
@@ -2015,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 934,
       "user": "jackwener"
     },
     {
@@ -2045,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "steipete"
     },
     {
@@ -2064,21 +1916,6 @@
       "user": "MuhammadHananAsghar"
     },
     {
-      "title": "heri1845/ai-meme-trading-bot - Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
-      "url": "https://github.com/heri1845/ai-meme-trading-bot",
-      "published_at": "2026-03-05T15:44:53Z",
-      "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
-      "source": "GitHub",
-      "stars": 108,
-      "user": "heri1845"
-    },
-    {
       "title": "karpathy/agenthub - GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
       "url": "https://github.com/karpathy/agenthub",
       "published_at": "2026-03-09T19:21:58Z",
@@ -2090,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 143,
       "user": "karpathy"
     },
     {
@@ -2105,8 +1942,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "AlmogBaku"
+    },
+    {
+      "title": "heri1845/ai-meme-trading-bot - Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
+      "url": "https://github.com/heri1845/ai-meme-trading-bot",
+      "published_at": "2026-03-05T15:44:53Z",
+      "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "heri1845"
     }
   ]
 }
