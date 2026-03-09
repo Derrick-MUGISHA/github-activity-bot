@@ -16,6 +16,36 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "AI Regression Tests Written in Markdown, Not Code",
+      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
+      "published_at": "2026-03-08T14:30:23Z",
+      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
+      "tags": [
+        "ai",
+        "testing",
+        "playwright",
+        "regression"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
+      "source": "Dev.to",
+      "user": "HybridTechie"
+    },
+    {
+      "title": "Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?",
+      "url": "https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62",
+      "published_at": "2026-03-08T20:33:41Z",
+      "description": "Table of Contents    Introduction  From Prompt to Binary Code   Is It Even Feasible? Is It...",
+      "tags": [
+        "discuss",
+        "ai",
+        "compilers",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flev4m2p4pf4ve1fn3c7e.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
+    },
+    {
       "title": "Ship Less, Measure More",
       "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
       "published_at": "2026-03-06T22:07:43Z",
@@ -28,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
       "source": "Dev.to",
       "user": "Mike Krop"
+    },
+    {
+      "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
+      "url": "https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj",
+      "published_at": "2026-03-08T15:50:06Z",
+      "description": "13 years building .NET products. Team lead. This is what the last 8 months taught me.             ...",
+      "tags": [
+        "webdev",
+        "career",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8teznz95kc0r4d70ln2t.png",
+      "source": "Dev.to",
+      "user": "yashaswi"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -43,21 +88,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
       "source": "Dev.to",
       "user": "Ahmet Zeybek"
-    },
-    {
-      "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
-      "url": "https://dev.to/jamesrandall/ai-cant-recreate-thrust-but-it-can-help-you-understand-it-279d",
-      "published_at": "2026-03-06T19:12:30Z",
-      "description": "I asked Claude to recreate the classic 1986 game Thrust for me in the browser. It created slop but...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "llm",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6fgz1vvzr6do4kjf3h4h.png",
-      "source": "Dev.to",
-      "user": "James Randall"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -105,6 +135,21 @@
       "user": "Vivek V."
     },
     {
+      "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
+      "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
+      "published_at": "2026-03-07T17:10:00Z",
+      "description": "So you've been writing Go for a bit. Your main.go is growing. You've got a database call next to an...",
+      "tags": [
+        "go",
+        "ore",
+        "di",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png",
+      "source": "Dev.to",
+      "user": "Firas M. Darwish"
+    },
+    {
       "title": "Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!",
       "url": "https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm",
       "published_at": "2026-03-03T11:25:11Z",
@@ -120,19 +165,19 @@
       "user": "Deeptej"
     },
     {
-      "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
-      "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
-      "published_at": "2026-03-07T17:10:00Z",
-      "description": "So you've been writing Go for a bit. Your main.go is growing. You've got a database call next to an...",
+      "title": "The End of Vibe Coding",
+      "url": "https://dev.to/dmitryame/the-end-of-vibe-coding-2e78",
+      "published_at": "2026-03-08T03:49:49Z",
+      "description": "Why Spec-Driven Development is the New Standard for AI Engineering",
       "tags": [
-        "go",
-        "ore",
-        "di",
-        "architecture"
+        "ai",
+        "engineering",
+        "testing",
+        "workflow"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivr4rwmoqmscst69qhll.png",
       "source": "Dev.to",
-      "user": "Firas M. Darwish"
+      "user": "Dmitry Amelchenko"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -224,6 +269,21 @@
       "user": "Chris Noring"
     },
     {
+      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
+      "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
+      "published_at": "2026-02-25T17:41:43Z",
+      "description": "Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Archival Intelligence: A Forensic Rare Book Auditor",
       "url": "https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448",
       "published_at": "2026-03-06T20:11:04Z",
@@ -237,20 +297,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhnr9x1wdwamf48vw2t2.png",
       "source": "Dev.to",
       "user": "Ken W Alger"
-    },
-    {
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "url": "https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e",
-      "published_at": "2026-03-03T18:54:28Z",
-      "description": "Today, we're introducing Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series...",
-      "tags": [
-        "gemini",
-        "ai",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo1cuh694rdafi15mbl3d.webp",
-      "source": "Dev.to",
-      "user": "Alisa Fortin"
     },
     {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
@@ -268,21 +314,6 @@
       "user": "wintercounter"
     },
     {
-      "title": "How Claude Skills Replaced Our Documentation",
-      "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
-      "published_at": "2026-03-05T07:49:58Z",
-      "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
-      "tags": [
-        "webdev",
-        "ai",
-        "documentation",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
-      "source": "Dev.to",
-      "user": "Magnus Rødseth"
-    },
-    {
       "title": "The Old Seniority Definition Is Collapsing",
       "url": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
       "published_at": "2026-03-05T08:40:59Z",
@@ -298,34 +329,19 @@
       "user": "marcosomma"
     },
     {
-      "title": "A Look Back at Outsourcing in the Age of AI",
-      "url": "https://dev.to/spyke/a-look-back-at-outsourcing-in-the-age-of-ai-3n2l",
-      "published_at": "2026-03-02T22:05:36Z",
-      "description": "A critical look at outsourcing in the age of AI agents, and what companies forget about third-party teams.",
+      "title": "How Claude Skills Replaced Our Documentation",
+      "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
+      "published_at": "2026-03-05T07:49:58Z",
+      "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
       "tags": [
+        "webdev",
         "ai",
-        "agents",
-        "career",
-        "softwaredevelopment"
+        "documentation",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfdsswifmqpd4n0zhxmm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfdg78ln91lqrjw1b60.png",
       "source": "Dev.to",
-      "user": "spyke"
-    },
-    {
-      "title": "Flexible Border Element",
-      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
-      "published_at": "2026-03-01T21:12:43Z",
-      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
-      "tags": [
-        "css",
-        "frontend",
-        "tailwindcss",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
-      "source": "Dev.to",
-      "user": "Lisa Cee"
+      "user": "Magnus Rødseth"
     },
     {
       "title": "Getting the most out of Nano-Banana 2",
@@ -343,19 +359,19 @@
       "user": "Guillaume Vernade"
     },
     {
-      "title": "Meme Monday",
-      "url": "https://dev.to/raddevus/meme-monday-5d21",
-      "published_at": "2026-03-02T18:31:16Z",
-      "description": "Meme Monday   I can't wait all day for this site to start the Meme Monday post, so here it...",
+      "title": "Flexible Border Element",
+      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
+      "published_at": "2026-03-01T21:12:43Z",
+      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
       "tags": [
-        "community",
-        "discuss",
-        "programming",
-        "watercooler"
+        "css",
+        "frontend",
+        "tailwindcss",
+        "learning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uri90jqh31glofwpu2l.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
       "source": "Dev.to",
-      "user": "raddevus"
+      "user": "Lisa Cee"
     },
     {
       "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
@@ -445,50 +461,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
-    },
-    {
-      "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
-      "url": "https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag",
-      "published_at": "2026-02-26T23:21:17Z",
-      "description": "When I briefly worked with Peec AI, one of the first things I noticed that could greatly improve the...",
-      "tags": [
-        "firebase",
-        "serverless",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
-      "source": "Dev.to",
-      "user": "Ozan"
-    },
-    {
-      "title": "Wiring Claude Into Real Systems With Tool Use",
-      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
-      "published_at": "2026-02-27T05:46:09Z",
-      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
-      "source": "Dev.to",
-      "user": "Prabhat Kumar"
     },
     {
       "title": "Airfoil",
@@ -623,6 +595,21 @@
       "user": "veesahni"
     },
     {
+      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "url": "https://github.com/comeonzhj/AutoContents",
+      "published_at": "2026-03-04T11:20:58Z",
+      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
+      "source": "GitHub",
+      "stars": 192,
+      "user": "comeonzhj"
+    },
+    {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "url": "https://github.com/holysheep123/holysheep-cli",
       "published_at": "2026-03-07T21:32:55Z",
@@ -634,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 182,
       "user": "holysheep123"
     },
     {
@@ -649,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 166,
       "user": "f"
     },
     {
@@ -664,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 12561,
+      "stars": 13018,
       "user": "karpathy"
     },
     {
@@ -679,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2498,
+      "stars": 2502,
       "user": "elder-plinius"
     },
     {
@@ -700,6 +687,35 @@
   ],
   "JavaScript": [
     {
+      "title": "Native TypeScript with Node",
+      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
+      "published_at": "2026-03-09T07:40:18Z",
+      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
+      "tags": [
+        "typescript",
+        "node",
+        "esm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png",
+      "source": "Dev.to",
+      "user": "Timo Schinkel"
+    },
+    {
+      "title": "Breaking Free from the Render Cycle: Event-Driven Frontend Architecture",
+      "url": "https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e",
+      "published_at": "2026-03-08T20:05:58Z",
+      "description": "React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...",
+      "tags": [
+        "architecture",
+        "performance",
+        "typescript",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
+      "source": "Dev.to",
+      "user": "Ishan Bagchi"
+    },
+    {
       "title": "i built a social platform where everything vanishes after 24 hours",
       "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
       "published_at": "2026-03-03T04:44:50Z",
@@ -713,6 +729,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
       "user": "Ovi ren"
+    },
+    {
+      "title": "How to use fp-ts-routing to parse url and format it back",
+      "url": "https://dev.to/rinn7e/how-to-use-fp-ts-routing-to-parse-url-and-format-it-back-3lbm",
+      "published_at": "2026-03-08T09:32:17Z",
+      "description": "fp-ts-routing kinda lacks comprehensive documentation, so I am writing this blog post to address that...",
+      "tags": [
+        "typescript",
+        "routing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ieveccgbaotk35g1xkj.png",
+      "source": "Dev.to",
+      "user": "Moremi Vannak"
     },
     {
       "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
@@ -787,35 +816,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
       "user": "DeVoresyah ArEst"
-    },
-    {
-      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
-      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
-      "published_at": "2026-02-18T17:46:05Z",
-      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
-      "tags": [
-        "typescript",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
-      "source": "Dev.to",
-      "user": "Ely Lucas"
-    },
-    {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -949,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 285,
       "user": "FinPyromancerLog"
     },
     {
@@ -968,6 +968,21 @@
       "user": "gradenGnostic"
     },
     {
+      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "url": "https://github.com/comeonzhj/AutoContents",
+      "published_at": "2026-03-04T11:20:58Z",
+      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
+      "source": "GitHub",
+      "stars": 192,
+      "user": "comeonzhj"
+    },
+    {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "url": "https://github.com/holysheep123/holysheep-cli",
       "published_at": "2026-03-07T21:32:55Z",
@@ -979,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 182,
       "user": "holysheep123"
     },
     {
@@ -994,23 +1009,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 166,
       "user": "f"
-    },
-    {
-      "title": "J2TEAM/vibe.j2team.org - Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
-      "url": "https://github.com/J2TEAM/vibe.j2team.org",
-      "published_at": "2026-03-05T16:23:14Z",
-      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
-      "source": "GitHub",
-      "stars": 129,
-      "user": "J2TEAM"
     }
   ],
   "Python": [
@@ -1058,21 +1058,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgaiwhwnii2usay72auy.jpeg",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "Wiring Claude Into Real Systems With Tool Use",
-      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
-      "published_at": "2026-02-27T05:46:09Z",
-      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
-      "source": "Dev.to",
-      "user": "Prabhat Kumar"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1206,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 12561,
+      "stars": 13018,
       "user": "karpathy"
     },
     {
@@ -1221,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2498,
+      "stars": 2502,
       "user": "elder-plinius"
     },
     {
@@ -1236,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 728,
       "user": "tanishqkumar"
     },
     {
@@ -1251,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 688,
       "user": "Flowseal"
     },
     {
@@ -1266,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 657,
       "user": "HKUDS"
     }
   ],
@@ -1330,21 +1315,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
-    },
-    {
-      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
-      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
-      "published_at": "2026-02-17T23:56:55Z",
-      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
-      "tags": [
-        "kubernetes",
-        "go",
-        "devops",
-        "cloudnative"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
-      "source": "Dev.to",
-      "user": "suin"
     }
   ],
   "WebDev": [
@@ -1362,6 +1332,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Breaking Free from the Render Cycle: Event-Driven Frontend Architecture",
+      "url": "https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e",
+      "published_at": "2026-03-08T20:05:58Z",
+      "description": "React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...",
+      "tags": [
+        "architecture",
+        "performance",
+        "typescript",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
+      "source": "Dev.to",
+      "user": "Ishan Bagchi"
+    },
+    {
+      "title": "Recently Played: bringing back my Last.fm component",
+      "url": "https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank",
+      "published_at": "2026-03-08T23:21:01Z",
+      "description": "How I rebuilt my old Last.fm widget as an Eleventy WebC component with server-rendered HTML, client-side polling, and localStorage caching.",
+      "tags": [
+        "devjournal",
+        "showdev",
+        "sideprojects",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
+      "source": "Dev.to",
+      "user": "Martin Hicks"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1424,21 +1424,6 @@
       "user": "Lisa Cee"
     },
     {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1462,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 431,
       "user": "steipete"
     }
   ],
@@ -1515,35 +1500,6 @@
       "user": "DeVoresyah ArEst"
     },
     {
-      "title": "Kubernetes: Should You Name Your Controller \"foo-bar\" or \"foobar\"? A Survey of 13 Open-Source Projects",
-      "url": "https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c",
-      "published_at": "2026-02-17T23:56:55Z",
-      "description": "I surveyed 13 major OSS projects to find out how they name controllers for multi-word CRD types. The verdict? Concatenated lowercase wins by a landslide.",
-      "tags": [
-        "kubernetes",
-        "go",
-        "devops",
-        "cloudnative"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6wocvzur7emoozvchyg.png",
-      "source": "Dev.to",
-      "user": "suin"
-    },
-    {
-      "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
-      "url": "https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag",
-      "published_at": "2026-02-26T23:21:17Z",
-      "description": "When I briefly worked with Peec AI, one of the first things I noticed that could greatly improve the...",
-      "tags": [
-        "firebase",
-        "serverless",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
-      "source": "Dev.to",
-      "user": "Ozan"
-    },
-    {
       "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
       "url": "https://github.com/MuhammadHananAsghar/wormhole",
       "published_at": "2026-03-07T14:00:31Z",
@@ -1555,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 146,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1591,6 +1547,18 @@
       "user": "Firas M. Darwish"
     },
     {
+      "title": "Understanding `GROUP BY` in SQL",
+      "url": "https://dev.to/andrewlegacci/understanding-group-by-in-sql-1e3c",
+      "published_at": "2026-03-08T10:26:00Z",
+      "description": "GROUP BY is one of those SQL clauses that starts out feeling simple and then becomes confusing as...",
+      "tags": [
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl269d9yruomerd3208y.png",
+      "source": "Dev.to",
+      "user": "andrewlegacci"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1614,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 431,
       "user": "steipete"
     }
   ],
@@ -1664,6 +1632,36 @@
       "user": "Nick Taylor"
     },
     {
+      "title": "AI Regression Tests Written in Markdown, Not Code",
+      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
+      "published_at": "2026-03-08T14:30:23Z",
+      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
+      "tags": [
+        "ai",
+        "testing",
+        "playwright",
+        "regression"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
+      "source": "Dev.to",
+      "user": "HybridTechie"
+    },
+    {
+      "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
+      "url": "https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj",
+      "published_at": "2026-03-08T15:50:06Z",
+      "description": "13 years building .NET products. Team lead. This is what the last 8 months taught me.             ...",
+      "tags": [
+        "webdev",
+        "career",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8teznz95kc0r4d70ln2t.png",
+      "source": "Dev.to",
+      "user": "yashaswi"
+    },
+    {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
       "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
       "published_at": "2026-03-06T16:03:22Z",
@@ -1707,6 +1705,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlzqc4tv1eheeyos761e.png",
       "source": "Dev.to",
       "user": "Hamza"
+    },
+    {
+      "title": "The End of Vibe Coding",
+      "url": "https://dev.to/dmitryame/the-end-of-vibe-coding-2e78",
+      "published_at": "2026-03-08T03:49:49Z",
+      "description": "Why Spec-Driven Development is the New Standard for AI Engineering",
+      "tags": [
+        "ai",
+        "engineering",
+        "testing",
+        "workflow"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivr4rwmoqmscst69qhll.png",
+      "source": "Dev.to",
+      "user": "Dmitry Amelchenko"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1858,79 +1871,6 @@
       "user": "Magnus Rødseth"
     },
     {
-      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
-      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
-      "published_at": "2026-02-18T17:46:05Z",
-      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
-      "tags": [
-        "typescript",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
-      "source": "Dev.to",
-      "user": "Ely Lucas"
-    },
-    {
-      "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
-      "url": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
-      "published_at": "2026-02-15T12:26:26Z",
-      "description": "A practical sprint playbook for building maintainable React + TypeScript UIs: data contracts, component boundaries, folder structure, and pragmatic testing.",
-      "tags": [
-        "react",
-        "typescript",
-        "frontend",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffypio10gizt9odigikfw.png",
-      "source": "Dev.to",
-      "user": "Sem Gebresilassie"
-    },
-    {
-      "title": "What should I do and learn in 2026?",
-      "url": "https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc",
-      "published_at": "2026-03-02T19:31:11Z",
-      "description": "Maybe it's not about skills, but tactics.",
-      "tags": [
-        "career",
-        "learning",
-        "motivation",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8oimn515xrev440m9b8q.png",
-      "source": "Dev.to",
-      "user": "Amara Graham"
-    },
-    {
-      "title": "Preview Deployments with Firebase Hosting & GitHub Actions",
-      "url": "https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag",
-      "published_at": "2026-02-26T23:21:17Z",
-      "description": "When I briefly worked with Peec AI, one of the first things I noticed that could greatly improve the...",
-      "tags": [
-        "firebase",
-        "serverless",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fopw9qhbyraji4j6thwzc.png",
-      "source": "Dev.to",
-      "user": "Ozan"
-    },
-    {
-      "title": "Wiring Claude Into Real Systems With Tool Use",
-      "url": "https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86",
-      "published_at": "2026-02-27T05:46:09Z",
-      "description": "Claude isn't just a chat interface. With Tool Use (function calling), you can wire it up to real...",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtheu2ulno9lrsbqrmzg.png",
-      "source": "Dev.to",
-      "user": "Prabhat Kumar"
-    },
-    {
       "title": "FinPyromancerLog/xcode-claw - GitHub Repository",
       "url": "https://github.com/FinPyromancerLog/xcode-claw",
       "published_at": "2026-03-05T18:47:10Z",
@@ -1942,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258351643?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 285,
       "user": "FinPyromancerLog"
     },
     {
@@ -1961,6 +1901,21 @@
       "user": "gradenGnostic"
     },
     {
+      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "url": "https://github.com/comeonzhj/AutoContents",
+      "published_at": "2026-03-04T11:20:58Z",
+      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
+      "source": "GitHub",
+      "stars": 192,
+      "user": "comeonzhj"
+    },
+    {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "url": "https://github.com/holysheep123/holysheep-cli",
       "published_at": "2026-03-07T21:32:55Z",
@@ -1972,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 182,
       "user": "holysheep123"
     },
     {
@@ -1987,23 +1942,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 166,
       "user": "f"
-    },
-    {
-      "title": "J2TEAM/vibe.j2team.org - Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
-      "url": "https://github.com/J2TEAM/vibe.j2team.org",
-      "published_at": "2026-03-05T16:23:14Z",
-      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
-      "source": "GitHub",
-      "stars": 129,
-      "user": "J2TEAM"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -2017,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 12561,
+      "stars": 13018,
       "user": "karpathy"
     },
     {
@@ -2032,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2498,
+      "stars": 2502,
       "user": "elder-plinius"
     },
     {
@@ -2047,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 728,
       "user": "tanishqkumar"
     },
     {
@@ -2062,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 688,
       "user": "Flowseal"
     },
     {
@@ -2077,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 657,
       "user": "HKUDS"
     },
     {
@@ -2092,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 431,
       "user": "steipete"
     },
     {
@@ -2107,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 146,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2137,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "AlmogBaku"
     },
     {
