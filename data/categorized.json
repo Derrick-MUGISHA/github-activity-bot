@@ -164,21 +164,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Questions about building multimodal agents? The Google team might just have an answer for you!",
-      "url": "https://dev.to/devteam/questions-about-building-multimodal-agents-the-google-team-might-just-have-an-answer-for-you-e1j",
-      "published_at": "2026-03-06T21:44:16Z",
-      "description": "Each week, we collect community questions for the team at Google to answer on their weekly...",
-      "tags": [
-        "discuss",
-        "agents",
-        "ai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbiu8d1r7nss9ma7gopwr.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "I ship software with 13 AI agents. Here's what that actually looks like",
       "url": "https://dev.to/nmelo/i-ship-software-with-13-ai-agents-heres-what-that-actually-looks-like-420c",
       "published_at": "2026-03-03T15:30:49Z",
@@ -664,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 171,
       "user": "holysheep123"
     },
     {
@@ -679,7 +664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "f"
     },
     {
@@ -694,7 +679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 11905,
+      "stars": 12153,
       "user": "karpathy"
     },
     {
@@ -709,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2477,
+      "stars": 2487,
       "user": "elder-plinius"
     },
     {
@@ -994,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "gradenGnostic"
     },
     {
@@ -1009,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 171,
       "user": "holysheep123"
     },
     {
@@ -1024,23 +1009,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "f"
     },
     {
-      "title": "J2TEAM/vibe.j2team.org - Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
-      "url": "https://github.com/J2TEAM/vibe.j2team.org",
-      "published_at": "2026-03-05T16:23:14Z",
-      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "title": "datawhalechina/hello-claw - 首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 零基础领养、构建你的第一只龙虾",
+      "url": "https://github.com/datawhalechina/hello-claw",
+      "published_at": "2026-03-04T03:04:38Z",
+      "description": "首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 零基础领养、构建你的第一只龙虾",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 126,
-      "user": "J2TEAM"
+      "stars": 128,
+      "user": "datawhalechina"
     }
   ],
   "Python": [
@@ -1236,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 11905,
+      "stars": 12153,
       "user": "karpathy"
     },
     {
@@ -1251,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2477,
+      "stars": 2487,
       "user": "elder-plinius"
     },
     {
@@ -1266,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 727,
       "user": "tanishqkumar"
     },
     {
@@ -1281,26 +1266,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 678,
       "user": "Flowseal"
     },
     {
-      "title": "inspatio/worldfm - GitHub Repository",
-      "url": "https://github.com/inspatio/worldfm",
-      "published_at": "2026-03-03T03:15:15Z",
-      "description": "Trending GitHub Repository",
+      "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "published_at": "2026-03-08T13:52:57Z",
+      "description": "CLI-Anything: Making ALL Software Agent-Native",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 514,
-      "user": "inspatio"
+      "stars": 543,
+      "user": "HKUDS"
     }
   ],
   "DevOps": [
+    {
+      "title": "Let Dependabot Merge Its Own PRs",
+      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
+      "published_at": "2026-03-08T18:16:29Z",
+      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
+      "tags": [
+        "github",
+        "cicd",
+        "githubactions",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
+    },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
@@ -1477,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 415,
       "user": "steipete"
     }
   ],
@@ -1629,7 +1629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 415,
       "user": "steipete"
     }
   ],
@@ -1663,6 +1663,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Let Dependabot Merge Its Own PRs",
+      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
+      "published_at": "2026-03-08T18:16:29Z",
+      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
+      "tags": [
+        "github",
+        "cicd",
+        "githubactions",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
+    },
     {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
       "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
@@ -1957,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "gradenGnostic"
     },
     {
@@ -1972,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 171,
       "user": "holysheep123"
     },
     {
@@ -1987,23 +2002,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "f"
     },
     {
-      "title": "J2TEAM/vibe.j2team.org - Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
-      "url": "https://github.com/J2TEAM/vibe.j2team.org",
-      "published_at": "2026-03-05T16:23:14Z",
-      "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?",
+      "title": "datawhalechina/hello-claw - 首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 零基础领养、构建你的第一只龙虾",
+      "url": "https://github.com/datawhalechina/hello-claw",
+      "published_at": "2026-03-04T03:04:38Z",
+      "description": "首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 零基础领养、构建你的第一只龙虾",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5250117?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 126,
-      "user": "J2TEAM"
+      "stars": 128,
+      "user": "datawhalechina"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -2017,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 11905,
+      "stars": 12153,
       "user": "karpathy"
     },
     {
@@ -2032,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2477,
+      "stars": 2487,
       "user": "elder-plinius"
     },
     {
@@ -2047,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 727,
       "user": "tanishqkumar"
     },
     {
@@ -2062,23 +2077,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 678,
       "user": "Flowseal"
     },
     {
-      "title": "inspatio/worldfm - GitHub Repository",
-      "url": "https://github.com/inspatio/worldfm",
-      "published_at": "2026-03-03T03:15:15Z",
-      "description": "Trending GitHub Repository",
+      "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "published_at": "2026-03-08T13:52:57Z",
+      "description": "CLI-Anything: Making ALL Software Agent-Native",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 514,
-      "user": "inspatio"
+      "stars": 543,
+      "user": "HKUDS"
     },
     {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
@@ -2092,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 415,
       "user": "steipete"
     },
     {
@@ -2137,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "AlmogBaku"
     },
     {
