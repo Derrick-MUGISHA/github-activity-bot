@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-10 11:00 CAT)
+## 📅 Latest Updates (2026-03-10 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -200,7 +200,6 @@ npm run test
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [Breaking Free from the Render Cycle: Event-Driven Frontend Architecture](https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-2676) _[Dev.to]_
-- [Native TypeScript with Node](https://dev.to/timoschinkel/native-typescript-with-node-4d93) _[Dev.to]_
 - [Recently Played: bringing back my Last.fm component](https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank) _[Dev.to]_
 - [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol) _[Dev.to]_
 - [I Planned an Exit Strategy. I Stayed the Whole Time.](https://dev.to/earlgreyhot1701d/i-planned-an-exit-strategy-i-stayed-the-whole-time-4ejh) _[Dev.to]_
@@ -211,8 +210,9 @@ npm run test
 - [Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?](https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
 - [From NEET Aspirant to Writing Code: A Journey I Never Planned](https://dev.to/preeti_yadav/from-neet-aspirant-to-writing-code-a-journey-i-never-planned-l59) _[Dev.to]_
+- [AI Regression Tests Written in Markdown, Not Code](https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09) _[Dev.to]_
 
-_Last automated update: Tue, 10 Mar 2026 11:27:12 CAT_
+_Last automated update: Tue, 10 Mar 2026 12:06:29 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Tue, 10 Mar 2026 11:27:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 10 Mar 2026 09:27:12 GMT</b><br/>
+  <b>Last automated update: Tue, 10 Mar 2026 10:06:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
