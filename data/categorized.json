@@ -299,21 +299,6 @@
       "user": "Ken W Alger"
     },
     {
-      "title": "Getting the most out of Nano-Banana 2",
-      "url": "https://dev.to/googleai/getting-the-most-out-of-nano-banana-2-502k",
-      "published_at": "2026-03-05T22:28:22Z",
-      "description": "Following our previous Developer Guide and Prompting Guide, this post dives into the brand new...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nanobanana",
-        "promptengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs87atvbl3olt5ql5l5c7.png",
-      "source": "Dev.to",
-      "user": "Guillaume Vernade"
-    },
-    {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
       "url": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
       "published_at": "2026-03-02T18:53:22Z",
@@ -576,7 +561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "holysheep123"
     },
     {
@@ -591,7 +576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 224,
       "user": "comeonzhj"
     },
     {
@@ -606,7 +591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "f"
     },
     {
@@ -621,23 +606,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 17722,
+      "stars": 17963,
       "user": "karpathy"
     },
     {
-      "title": "heri1845/ai-meme-trading-bot - Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
-      "url": "https://github.com/heri1845/ai-meme-trading-bot",
-      "published_at": "2026-03-05T15:44:53Z",
-      "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
+      "title": "mem9-ai/mem9 - GitHub Repository",
+      "url": "https://github.com/mem9-ai/mem9",
+      "published_at": "2026-03-08T05:52:21Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 91,
-      "user": "heri1845"
+      "stars": 94,
+      "user": "mem9-ai"
     }
   ],
   "JavaScript": [
@@ -741,6 +726,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
+    },
+    {
+      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
+      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
+      "published_at": "2026-02-15T10:27:55Z",
+      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
+      "tags": [
+        "cloudflare",
+        "webdev",
+        "javascript",
+        "satori"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
+      "source": "Dev.to",
+      "user": "DeVoresyah ArEst"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -889,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "holysheep123"
     },
     {
@@ -904,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 224,
       "user": "comeonzhj"
     },
     {
@@ -919,7 +919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "f"
     },
     {
@@ -934,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "datawhalechina"
     }
   ],
@@ -1101,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 17722,
+      "stars": 17963,
       "user": "karpathy"
     },
     {
@@ -1116,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1323,
+      "stars": 1343,
       "user": "HKUDS"
     },
     {
@@ -1131,8 +1131,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1185,
       "user": "jackwener"
+    },
+    {
+      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "url": "https://github.com/Flowseal/tg-ws-proxy",
+      "published_at": "2026-03-04T14:10:26Z",
+      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
+      "source": "GitHub",
+      "stars": 741,
+      "user": "Flowseal"
     },
     {
       "title": "tanishqkumar/ssd - A lightweight inference engine supporting speculative speculative decoding (SSD). ",
@@ -1148,21 +1163,6 @@
       "source": "GitHub",
       "stars": 737,
       "user": "tanishqkumar"
-    },
-    {
-      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "url": "https://github.com/Flowseal/tg-ws-proxy",
-      "published_at": "2026-03-04T14:10:26Z",
-      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
-      "source": "GitHub",
-      "stars": 736,
-      "user": "Flowseal"
     }
   ],
   "DevOps": [
@@ -1357,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 473,
       "user": "steipete"
     }
   ],
@@ -1395,6 +1395,21 @@
       "user": "Ahnaf Tahmid"
     },
     {
+      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
+      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
+      "published_at": "2026-02-15T10:27:55Z",
+      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
+      "tags": [
+        "cloudflare",
+        "webdev",
+        "javascript",
+        "satori"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
+      "source": "Dev.to",
+      "user": "DeVoresyah ArEst"
+    },
+    {
       "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
       "url": "https://github.com/MuhammadHananAsghar/wormhole",
       "published_at": "2026-03-07T14:00:31Z",
@@ -1406,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 169,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1477,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 473,
       "user": "steipete"
     }
   ],
@@ -1747,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "holysheep123"
     },
     {
@@ -1762,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 224,
       "user": "comeonzhj"
     },
     {
@@ -1777,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "f"
     },
     {
@@ -1792,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "datawhalechina"
     },
     {
@@ -1807,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 17722,
+      "stars": 17963,
       "user": "karpathy"
     },
     {
@@ -1822,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1323,
+      "stars": 1343,
       "user": "HKUDS"
     },
     {
@@ -1837,8 +1852,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1185,
       "user": "jackwener"
+    },
+    {
+      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "url": "https://github.com/Flowseal/tg-ws-proxy",
+      "published_at": "2026-03-04T14:10:26Z",
+      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
+      "source": "GitHub",
+      "stars": 741,
+      "user": "Flowseal"
     },
     {
       "title": "tanishqkumar/ssd - A lightweight inference engine supporting speculative speculative decoding (SSD). ",
@@ -1856,21 +1886,6 @@
       "user": "tanishqkumar"
     },
     {
-      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "url": "https://github.com/Flowseal/tg-ws-proxy",
-      "published_at": "2026-03-04T14:10:26Z",
-      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
-      "source": "GitHub",
-      "stars": 736,
-      "user": "Flowseal"
-    },
-    {
       "title": "karpathy/agenthub - GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
       "url": "https://github.com/karpathy/agenthub",
       "published_at": "2026-03-09T19:21:58Z",
@@ -1882,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 548,
       "user": "karpathy"
     },
     {
@@ -1897,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 473,
       "user": "steipete"
     },
     {
@@ -1912,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 169,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -1931,19 +1946,19 @@
       "user": "AlmogBaku"
     },
     {
-      "title": "heri1845/ai-meme-trading-bot - Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
-      "url": "https://github.com/heri1845/ai-meme-trading-bot",
-      "published_at": "2026-03-05T15:44:53Z",
-      "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
+      "title": "mem9-ai/mem9 - GitHub Repository",
+      "url": "https://github.com/mem9-ai/mem9",
+      "published_at": "2026-03-08T05:52:21Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 91,
-      "user": "heri1845"
+      "stars": 94,
+      "user": "mem9-ai"
     }
   ]
 }
