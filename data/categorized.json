@@ -531,7 +531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 306,
       "user": "holysheep123"
     },
     {
@@ -561,7 +561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 244,
       "user": "f"
     },
     {
@@ -576,7 +576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21345,
+      "stars": 21566,
       "user": "karpathy"
     },
     {
@@ -591,7 +591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 895,
       "user": "FreedomIntelligence"
     },
     {
@@ -606,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "mem9-ai"
     }
   ],
@@ -640,19 +640,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
       "user": "Ovi ren"
-    },
-    {
-      "title": "How to use fp-ts-routing to parse url and format it back",
-      "url": "https://dev.to/rinn7e/how-to-use-fp-ts-routing-to-parse-url-and-format-it-back-3lbm",
-      "published_at": "2026-03-08T09:32:17Z",
-      "description": "fp-ts-routing kinda lacks comprehensive documentation, so I am writing this blog post to address that...",
-      "tags": [
-        "typescript",
-        "routing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ieveccgbaotk35g1xkj.png",
-      "source": "Dev.to",
-      "user": "Moremi Vannak"
     },
     {
       "title": "Native TypeScript with Node",
@@ -713,6 +700,19 @@
       "user": "wintercounter"
     },
     {
+      "title": "How to use fp-ts-routing to parse url and format it back",
+      "url": "https://dev.to/rinn7e/how-to-use-fp-ts-routing-to-parse-url-and-format-it-back-3lbm",
+      "published_at": "2026-03-08T09:32:17Z",
+      "description": "fp-ts-routing kinda lacks comprehensive documentation, so I am writing this blog post to address that...",
+      "tags": [
+        "typescript",
+        "routing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ieveccgbaotk35g1xkj.png",
+      "source": "Dev.to",
+      "user": "Moremi Vannak"
+    },
+    {
       "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
       "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
       "published_at": "2026-02-15T10:27:55Z",
@@ -726,6 +726,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
       "user": "DeVoresyah ArEst"
+    },
+    {
+      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
+      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
+      "published_at": "2026-02-18T17:46:05Z",
+      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "tags": [
+        "typescript",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "source": "Dev.to",
+      "user": "Ely Lucas"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -859,7 +873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 306,
       "user": "holysheep123"
     },
     {
@@ -874,7 +888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "gradenGnostic"
     },
     {
@@ -893,21 +907,6 @@
       "user": "comeonzhj"
     },
     {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 242,
-      "user": "f"
-    },
-    {
       "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
       "url": "https://github.com/datawhalechina/hello-claw",
       "published_at": "2026-03-04T03:04:38Z",
@@ -919,8 +918,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 248,
       "user": "datawhalechina"
+    },
+    {
+      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
+      "url": "https://github.com/f/agentlytics",
+      "published_at": "2026-03-07T01:39:41Z",
+      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "f"
     }
   ],
   "Python": [
@@ -1086,7 +1100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21345,
+      "stars": 21566,
       "user": "karpathy"
     },
     {
@@ -1101,7 +1115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2197,
+      "stars": 2250,
       "user": "HKUDS"
     },
     {
@@ -1116,7 +1130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1383,
       "user": "jackwener"
     },
     {
@@ -1131,7 +1145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 895,
       "user": "FreedomIntelligence"
     },
     {
@@ -1146,7 +1160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 773,
       "user": "Flowseal"
     }
   ],
@@ -1244,21 +1258,6 @@
       "user": "Ishan Bagchi"
     },
     {
-      "title": "Recently Played: bringing back my Last.fm component",
-      "url": "https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank",
-      "published_at": "2026-03-08T23:21:01Z",
-      "description": "How I rebuilt my old Last.fm widget as an Eleventy WebC component with server-rendered HTML, client-side polling, and localStorage caching.",
-      "tags": [
-        "devjournal",
-        "showdev",
-        "sideprojects",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
-      "source": "Dev.to",
-      "user": "Martin Hicks"
-    },
-    {
       "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!",
       "url": "https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828",
       "published_at": "2026-03-06T16:10:33Z",
@@ -1287,6 +1286,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
+    },
+    {
+      "title": "Recently Played: bringing back my Last.fm component",
+      "url": "https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank",
+      "published_at": "2026-03-08T23:21:01Z",
+      "description": "How I rebuilt my old Last.fm widget as an Eleventy WebC component with server-rendered HTML, client-side polling, and localStorage caching.",
+      "tags": [
+        "devjournal",
+        "showdev",
+        "sideprojects",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
+      "source": "Dev.to",
+      "user": "Martin Hicks"
     },
     {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
@@ -1357,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "steipete"
     }
   ],
@@ -1442,18 +1456,6 @@
       "user": "Ahmet Zeybek"
     },
     {
-      "title": "Understanding `GROUP BY` in SQL",
-      "url": "https://dev.to/andrewlegacci/understanding-group-by-in-sql-1e3c",
-      "published_at": "2026-03-08T10:26:00Z",
-      "description": "GROUP BY is one of those SQL clauses that starts out feeling simple and then becomes confusing as...",
-      "tags": [
-        "sql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl269d9yruomerd3208y.png",
-      "source": "Dev.to",
-      "user": "andrewlegacci"
-    },
-    {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
       "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
       "published_at": "2026-03-07T17:10:00Z",
@@ -1492,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "steipete"
     }
   ],
@@ -1736,6 +1738,20 @@
       "user": "Eastkap"
     },
     {
+      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
+      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
+      "published_at": "2026-02-18T17:46:05Z",
+      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "tags": [
+        "typescript",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "source": "Dev.to",
+      "user": "Ely Lucas"
+    },
+    {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "url": "https://github.com/holysheep123/holysheep-cli",
       "published_at": "2026-03-07T21:32:55Z",
@@ -1747,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 306,
       "user": "holysheep123"
     },
     {
@@ -1762,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "gradenGnostic"
     },
     {
@@ -1781,21 +1797,6 @@
       "user": "comeonzhj"
     },
     {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 242,
-      "user": "f"
-    },
-    {
       "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
       "url": "https://github.com/datawhalechina/hello-claw",
       "published_at": "2026-03-04T03:04:38Z",
@@ -1807,8 +1808,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 248,
       "user": "datawhalechina"
+    },
+    {
+      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
+      "url": "https://github.com/f/agentlytics",
+      "published_at": "2026-03-07T01:39:41Z",
+      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "f"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -1822,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21345,
+      "stars": 21566,
       "user": "karpathy"
     },
     {
@@ -1837,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2197,
+      "stars": 2250,
       "user": "HKUDS"
     },
     {
@@ -1852,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1383,
       "user": "jackwener"
     },
     {
@@ -1867,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 895,
       "user": "FreedomIntelligence"
     },
     {
@@ -1882,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 773,
       "user": "Flowseal"
     },
     {
@@ -1897,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1624,
+      "stars": 1741,
       "user": "karpathy"
     },
     {
@@ -1912,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "steipete"
     },
     {
@@ -1942,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "mem9-ai"
     },
     {
