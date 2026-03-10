@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-10 14:00 CAT)
+## 📅 Latest Updates (2026-03-10 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [From NEET Aspirant to Writing Code: A Journey I Never Planned](https://dev.to/preeti_yadav/from-neet-aspirant-to-writing-code-a-journey-i-never-planned-l59) _[Dev.to]_
 - [AI Regression Tests Written in Markdown, Not Code](https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09) _[Dev.to]_
 
-_Last automated update: Tue, 10 Mar 2026 14:00:44 CAT_
+_Last automated update: Tue, 10 Mar 2026 15:37:25 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Tue, 10 Mar 2026 14:00:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 10 Mar 2026 12:00:44 GMT</b><br/>
+  <b>Last automated update: Tue, 10 Mar 2026 13:37:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
