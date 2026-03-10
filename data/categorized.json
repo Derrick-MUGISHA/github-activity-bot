@@ -46,6 +46,21 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
+      "url": "https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn",
+      "published_at": "2026-03-10T21:01:28Z",
+      "description": "Today we're releasing Gemini Embedding 2, our first fully multimodal embedding model built on the...",
+      "tags": [
+        "ai",
+        "embedding",
+        "google",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnr8zdnz0yotyydk110vm.webp",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
+    },
+    {
       "title": "Your Agent Is a Small, Low-Stakes HAL",
       "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
       "published_at": "2026-03-10T05:08:29Z",
@@ -591,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 249,
       "user": "f"
     },
     {
@@ -606,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22087,
+      "stars": 22210,
       "user": "karpathy"
     },
     {
@@ -621,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 903,
       "user": "FreedomIntelligence"
     },
     {
@@ -642,20 +657,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Native TypeScript with Node",
-      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
-      "published_at": "2026-03-09T07:40:18Z",
-      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
-      "tags": [
-        "typescript",
-        "node",
-        "esm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png",
-      "source": "Dev.to",
-      "user": "Timo Schinkel"
-    },
-    {
       "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
       "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
       "published_at": "2026-03-09T15:02:27Z",
@@ -669,6 +670,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
       "source": "Dev.to",
       "user": "Kevin 心学"
+    },
+    {
+      "title": "Native TypeScript with Node",
+      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
+      "published_at": "2026-03-09T07:40:18Z",
+      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
+      "tags": [
+        "typescript",
+        "node",
+        "esm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png",
+      "source": "Dev.to",
+      "user": "Timo Schinkel"
     },
     {
       "title": "i built a social platform where everything vanishes after 24 hours",
@@ -891,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "gradenGnostic"
     },
     {
@@ -906,7 +921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "datawhalechina"
     },
     {
@@ -936,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 249,
       "user": "f"
     }
   ],
@@ -1103,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22087,
+      "stars": 22210,
       "user": "karpathy"
     },
     {
@@ -1118,7 +1133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2342,
       "user": "HKUDS"
     },
     {
@@ -1133,7 +1148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1399,
+      "stars": 1401,
       "user": "jackwener"
     },
     {
@@ -1148,7 +1163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 903,
       "user": "FreedomIntelligence"
     },
     {
@@ -1163,7 +1178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 782,
       "user": "Flowseal"
     }
   ],
@@ -1438,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1796,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "gradenGnostic"
     },
     {
@@ -1811,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "datawhalechina"
     },
     {
@@ -1841,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 249,
       "user": "f"
     },
     {
@@ -1856,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22087,
+      "stars": 22210,
       "user": "karpathy"
     },
     {
@@ -1871,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2342,
       "user": "HKUDS"
     },
     {
@@ -1886,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1399,
+      "stars": 1401,
       "user": "jackwener"
     },
     {
@@ -1901,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 903,
       "user": "FreedomIntelligence"
     },
     {
@@ -1916,23 +1931,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 782,
       "user": "Flowseal"
-    },
-    {
-      "title": "karpathy/agenthub - GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
-      "url": "https://github.com/karpathy/agenthub",
-      "published_at": "2026-03-09T19:21:58Z",
-      "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
-      "source": "GitHub",
-      "stars": 2141,
-      "user": "karpathy"
     },
     {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
@@ -1961,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -1993,6 +1993,21 @@
       "source": "GitHub",
       "stars": 118,
       "user": "AlmogBaku"
+    },
+    {
+      "title": "hoangtuvungcao/mango-waf - 🥭 Mango Shield Apex: High-performance L7 DDoS Protection & WAF with Real-time DStat Dashboard",
+      "url": "https://github.com/hoangtuvungcao/mango-waf",
+      "published_at": "2026-03-07T05:48:21Z",
+      "description": "🥭 Mango Shield Apex: High-performance L7 DDoS Protection & WAF with Real-time DStat Dashboard",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/206301327?v=4",
+      "source": "GitHub",
+      "stars": 87,
+      "user": "hoangtuvungcao"
     }
   ]
 }
