@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-10 12:00 CAT)
+## 📅 Latest Updates (2026-03-10 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [From NEET Aspirant to Writing Code: A Journey I Never Planned](https://dev.to/preeti_yadav/from-neet-aspirant-to-writing-code-a-journey-i-never-planned-l59) _[Dev.to]_
 - [AI Regression Tests Written in Markdown, Not Code](https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09) _[Dev.to]_
 
-_Last automated update: Tue, 10 Mar 2026 12:06:29 CAT_
+_Last automated update: Tue, 10 Mar 2026 13:00:05 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Tue, 10 Mar 2026 12:06:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 10 Mar 2026 10:06:29 GMT</b><br/>
+  <b>Last automated update: Tue, 10 Mar 2026 11:00:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
