@@ -165,21 +165,6 @@
       "user": "Deeptej"
     },
     {
-      "title": "The End of Vibe Coding",
-      "url": "https://dev.to/dmitryame/the-end-of-vibe-coding-2e78",
-      "published_at": "2026-03-08T03:49:49Z",
-      "description": "Why Spec-Driven Development is the New Standard for AI Engineering",
-      "tags": [
-        "ai",
-        "engineering",
-        "testing",
-        "workflow"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivr4rwmoqmscst69qhll.png",
-      "source": "Dev.to",
-      "user": "Dmitry Amelchenko"
-    },
-    {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
       "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
       "published_at": "2026-02-25T01:28:04Z",
@@ -561,7 +546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 289,
       "user": "holysheep123"
     },
     {
@@ -576,7 +561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 245,
       "user": "comeonzhj"
     },
     {
@@ -591,7 +576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 236,
       "user": "f"
     },
     {
@@ -606,7 +591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 20212,
+      "stars": 20453,
       "user": "karpathy"
     },
     {
@@ -621,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 841,
       "user": "FreedomIntelligence"
     },
     {
@@ -636,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 148,
       "user": "mem9-ai"
     }
   ],
@@ -756,6 +741,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
       "source": "Dev.to",
       "user": "DeVoresyah ArEst"
+    },
+    {
+      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
+      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
+      "published_at": "2026-02-18T17:46:05Z",
+      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "tags": [
+        "typescript",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "source": "Dev.to",
+      "user": "Ely Lucas"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -904,7 +903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 289,
       "user": "holysheep123"
     },
     {
@@ -919,7 +918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 245,
       "user": "comeonzhj"
     },
     {
@@ -934,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 236,
       "user": "f"
     },
     {
@@ -949,7 +948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 211,
       "user": "datawhalechina"
     }
   ],
@@ -1116,7 +1115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 20212,
+      "stars": 20453,
       "user": "karpathy"
     },
     {
@@ -1131,7 +1130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1843,
+      "stars": 1907,
       "user": "HKUDS"
     },
     {
@@ -1146,7 +1145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1331,
       "user": "jackwener"
     },
     {
@@ -1161,7 +1160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 841,
       "user": "FreedomIntelligence"
     },
     {
@@ -1176,7 +1175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 762,
       "user": "Flowseal"
     }
   ],
@@ -1372,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 480,
       "user": "steipete"
     }
   ],
@@ -1436,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1507,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 480,
       "user": "steipete"
     }
   ],
@@ -1615,21 +1614,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8teznz95kc0r4d70ln2t.png",
       "source": "Dev.to",
       "user": "yashaswi"
-    },
-    {
-      "title": "The End of Vibe Coding",
-      "url": "https://dev.to/dmitryame/the-end-of-vibe-coding-2e78",
-      "published_at": "2026-03-08T03:49:49Z",
-      "description": "Why Spec-Driven Development is the New Standard for AI Engineering",
-      "tags": [
-        "ai",
-        "engineering",
-        "testing",
-        "workflow"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivr4rwmoqmscst69qhll.png",
-      "source": "Dev.to",
-      "user": "Dmitry Amelchenko"
     },
     {
       "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
@@ -1751,6 +1735,20 @@
       "user": "Eastkap"
     },
     {
+      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
+      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
+      "published_at": "2026-02-18T17:46:05Z",
+      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "tags": [
+        "typescript",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "source": "Dev.to",
+      "user": "Ely Lucas"
+    },
+    {
       "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
       "url": "https://github.com/gradenGnostic/LegacyLauncher",
       "published_at": "2026-03-04T17:44:07Z",
@@ -1777,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 289,
       "user": "holysheep123"
     },
     {
@@ -1792,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 245,
       "user": "comeonzhj"
     },
     {
@@ -1807,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 236,
       "user": "f"
     },
     {
@@ -1822,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 211,
       "user": "datawhalechina"
     },
     {
@@ -1837,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 20212,
+      "stars": 20453,
       "user": "karpathy"
     },
     {
@@ -1852,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1843,
+      "stars": 1907,
       "user": "HKUDS"
     },
     {
@@ -1867,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1331,
       "user": "jackwener"
     },
     {
@@ -1882,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 841,
       "user": "FreedomIntelligence"
     },
     {
@@ -1897,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 762,
       "user": "Flowseal"
     },
     {
@@ -1912,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1298,
       "user": "karpathy"
     },
     {
@@ -1927,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 480,
       "user": "steipete"
     },
     {
@@ -1942,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -1957,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 148,
       "user": "mem9-ai"
     },
     {
@@ -1972,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 112,
       "user": "AlmogBaku"
     }
   ]
