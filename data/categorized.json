@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
+      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
+      "published_at": "2026-03-10T15:52:17Z",
+      "description": "Claude Code is the fastest coder I've ever worked with. It can scaffold a feature, write tests, and...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "tdd",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
+      "source": "Dev.to",
+      "user": "v.j.k. "
+    },
+    {
       "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
       "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
       "published_at": "2026-03-10T13:09:37Z",
@@ -16,19 +31,19 @@
       "user": "Jason Agostoni"
     },
     {
-      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
-      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
-      "published_at": "2026-03-10T15:52:17Z",
-      "description": "Claude Code is the fastest coder I've ever worked with. It can scaffold a feature, write tests, and...",
+      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
+      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
+      "published_at": "2026-03-10T13:00:34Z",
+      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
       "tags": [
-        "claudecode",
-        "ai",
-        "tdd",
-        "productivity"
+        "webdev",
+        "javascript",
+        "showdev",
+        "nextjs"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
       "source": "Dev.to",
-      "user": "v.j.k. "
+      "user": "Dumebi Okolo"
     },
     {
       "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
@@ -46,21 +61,6 @@
       "user": "GrahamTheDev"
     },
     {
-      "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
-      "url": "https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn",
-      "published_at": "2026-03-10T21:01:28Z",
-      "description": "Today we're releasing Gemini Embedding 2, our first fully multimodal embedding model built on the...",
-      "tags": [
-        "ai",
-        "embedding",
-        "google",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnr8zdnz0yotyydk110vm.webp",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "Your Agent Is a Small, Low-Stakes HAL",
       "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
       "published_at": "2026-03-10T05:08:29Z",
@@ -74,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc0o2r3x4hkwm7tt7b9l8.png",
       "source": "Dev.to",
       "user": "Roman Dubinin "
+    },
+    {
+      "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
+      "url": "https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn",
+      "published_at": "2026-03-10T21:01:28Z",
+      "description": "Today we're releasing Gemini Embedding 2, our first fully multimodal embedding model built on the...",
+      "tags": [
+        "ai",
+        "embedding",
+        "google",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnr8zdnz0yotyydk110vm.webp",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
     },
     {
       "title": "Ship Less, Measure More",
@@ -180,6 +195,21 @@
       "user": "Egor Fedorov"
     },
     {
+      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
+      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
+      "published_at": "2026-03-09T15:02:27Z",
+      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
+      "tags": [
+        "programming",
+        "haskell",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
+      "source": "Dev.to",
+      "user": "Kevin 心学"
+    },
+    {
       "title": "AI Regression Tests Written in Markdown, Not Code",
       "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
       "published_at": "2026-03-08T14:30:23Z",
@@ -208,21 +238,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ycrqfx70zjm32i4vak4.png",
       "source": "Dev.to",
       "user": "Vivek V."
-    },
-    {
-      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
-      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
-      "published_at": "2026-03-09T15:02:27Z",
-      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
-      "tags": [
-        "programming",
-        "haskell",
-        "ai",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
-      "source": "Dev.to",
-      "user": "Kevin 心学"
     },
     {
       "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
@@ -577,7 +592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "f"
     },
     {
@@ -607,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22520,
+      "stars": 22577,
       "user": "karpathy"
     },
     {
@@ -622,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 912,
       "user": "FreedomIntelligence"
     },
     {
@@ -637,11 +652,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "mem9-ai"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
+      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
+      "published_at": "2026-03-10T13:00:34Z",
+      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "showdev",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
+      "source": "Dev.to",
+      "user": "Dumebi Okolo"
+    },
     {
       "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
       "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
@@ -866,6 +896,21 @@
       "user": "velmu"
     },
     {
+      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
+      "url": "https://github.com/gradenGnostic/LegacyLauncher",
+      "published_at": "2026-03-04T17:44:07Z",
+      "description": "A custom launcher for Minecraft LCE.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
+      "source": "GitHub",
+      "stars": 309,
+      "user": "gradenGnostic"
+    },
+    {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "url": "https://github.com/holysheep123/holysheep-cli",
       "published_at": "2026-03-07T21:32:55Z",
@@ -881,21 +926,6 @@
       "user": "holysheep123"
     },
     {
-      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
-      "url": "https://github.com/gradenGnostic/LegacyLauncher",
-      "published_at": "2026-03-04T17:44:07Z",
-      "description": "A custom launcher for Minecraft LCE.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
-      "source": "GitHub",
-      "stars": 306,
-      "user": "gradenGnostic"
-    },
-    {
       "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
       "url": "https://github.com/datawhalechina/hello-claw",
       "published_at": "2026-03-04T03:04:38Z",
@@ -907,7 +937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 266,
       "user": "datawhalechina"
     },
     {
@@ -922,7 +952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "f"
     },
     {
@@ -1104,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22520,
+      "stars": 22577,
       "user": "karpathy"
     },
     {
@@ -1119,7 +1149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2415,
+      "stars": 2436,
       "user": "HKUDS"
     },
     {
@@ -1134,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1417,
       "user": "jackwener"
     },
     {
@@ -1149,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 912,
       "user": "FreedomIntelligence"
     },
     {
@@ -1439,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1771,6 +1801,21 @@
       "user": "Osman"
     },
     {
+      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
+      "url": "https://github.com/gradenGnostic/LegacyLauncher",
+      "published_at": "2026-03-04T17:44:07Z",
+      "description": "A custom launcher for Minecraft LCE.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
+      "source": "GitHub",
+      "stars": 309,
+      "user": "gradenGnostic"
+    },
+    {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "url": "https://github.com/holysheep123/holysheep-cli",
       "published_at": "2026-03-07T21:32:55Z",
@@ -1786,21 +1831,6 @@
       "user": "holysheep123"
     },
     {
-      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
-      "url": "https://github.com/gradenGnostic/LegacyLauncher",
-      "published_at": "2026-03-04T17:44:07Z",
-      "description": "A custom launcher for Minecraft LCE.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
-      "source": "GitHub",
-      "stars": 306,
-      "user": "gradenGnostic"
-    },
-    {
       "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
       "url": "https://github.com/datawhalechina/hello-claw",
       "published_at": "2026-03-04T03:04:38Z",
@@ -1812,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 266,
       "user": "datawhalechina"
     },
     {
@@ -1827,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "f"
     },
     {
@@ -1857,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22520,
+      "stars": 22577,
       "user": "karpathy"
     },
     {
@@ -1872,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2415,
+      "stars": 2436,
       "user": "HKUDS"
     },
     {
@@ -1887,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1417,
       "user": "jackwener"
     },
     {
@@ -1902,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 912,
       "user": "FreedomIntelligence"
     },
     {
@@ -1947,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -1962,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "mem9-ai"
     },
     {
@@ -1981,19 +2011,19 @@
       "user": "AlmogBaku"
     },
     {
-      "title": "hoangtuvungcao/mango-waf - 🥭 Mango Shield Apex: High-performance L7 DDoS Protection & WAF with Real-time DStat Dashboard",
-      "url": "https://github.com/hoangtuvungcao/mango-waf",
-      "published_at": "2026-03-07T05:48:21Z",
-      "description": "🥭 Mango Shield Apex: High-performance L7 DDoS Protection & WAF with Real-time DStat Dashboard",
+      "title": "Ooooze/batctl - ⚡ Battery charge threshold manager for Linux laptops",
+      "url": "https://github.com/Ooooze/batctl",
+      "published_at": "2026-03-07T09:00:12Z",
+      "description": "⚡ Battery charge threshold manager for Linux laptops",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/206301327?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/50599367?v=4",
       "source": "GitHub",
       "stars": 87,
-      "user": "hoangtuvungcao"
+      "user": "Ooooze"
     }
   ]
 }
