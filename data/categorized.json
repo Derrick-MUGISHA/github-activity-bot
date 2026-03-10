@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
-      "published_at": "2026-03-07T10:44:43Z",
-      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
+      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
+      "published_at": "2026-03-10T13:09:37Z",
+      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
       "tags": [
-        "webdev",
         "ai",
-        "automation",
-        "architecture"
+        "agents",
+        "webdev",
+        "go"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
       "source": "Dev.to",
-      "user": "GrahamTheDev"
+      "user": "Jason Agostoni"
     },
     {
       "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
@@ -29,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
       "source": "Dev.to",
       "user": "v.j.k. "
+    },
+    {
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "tags": [
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "source": "Dev.to",
+      "user": "GrahamTheDev"
     },
     {
       "title": "Your Agent Is a Small, Low-Stakes HAL",
@@ -105,21 +120,6 @@
       "user": "Giorgi Kobaidze"
     },
     {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
-    },
-    {
       "title": "Building a Text-to-Speech Engine in Pure C",
       "url": "https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4",
       "published_at": "2026-03-09T14:49:04Z",
@@ -135,19 +135,19 @@
       "user": "Gabriele Mastrapasqua"
     },
     {
-      "title": "AI Regression Tests Written in Markdown, Not Code",
-      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
-      "published_at": "2026-03-08T14:30:23Z",
-      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
       "tags": [
         "ai",
-        "testing",
-        "playwright",
-        "regression"
+        "engineering",
+        "productivity",
+        "dx"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
-      "user": "HybridTechie"
+      "user": "Denis Bakhoum"
     },
     {
       "title": "I tracked where my Claude Code tokens actually go. 37% were wasted.",
@@ -163,6 +163,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanjkeuocmqgo7j3hk56b.png",
       "source": "Dev.to",
       "user": "Egor Fedorov"
+    },
+    {
+      "title": "AI Regression Tests Written in Markdown, Not Code",
+      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
+      "published_at": "2026-03-08T14:30:23Z",
+      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
+      "tags": [
+        "ai",
+        "testing",
+        "playwright",
+        "regression"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
+      "source": "Dev.to",
+      "user": "HybridTechie"
     },
     {
       "title": "I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents",
@@ -238,21 +253,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vo0jf616x9zknzoob65.png",
       "source": "Dev.to",
       "user": "Deeptej"
-    },
-    {
-      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
-      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
-      "published_at": "2026-02-25T01:28:04Z",
-      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
-      "source": "Dev.to",
-      "user": "aileen vl"
     },
     {
       "title": "Oooh very interesting",
@@ -606,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21866,
+      "stars": 21982,
       "user": "karpathy"
     },
     {
@@ -621,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 900,
       "user": "FreedomIntelligence"
     },
     {
@@ -642,19 +642,18 @@
   ],
   "JavaScript": [
     {
-      "title": "Breaking Free from the Render Cycle: Event-Driven Frontend Architecture",
-      "url": "https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e",
-      "published_at": "2026-03-08T20:05:58Z",
-      "description": "React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...",
+      "title": "Native TypeScript with Node",
+      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
+      "published_at": "2026-03-09T07:40:18Z",
+      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
       "tags": [
-        "architecture",
-        "performance",
         "typescript",
-        "react"
+        "node",
+        "esm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png",
       "source": "Dev.to",
-      "user": "Ishan Bagchi"
+      "user": "Timo Schinkel"
     },
     {
       "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
@@ -672,18 +671,19 @@
       "user": "Kevin 心学"
     },
     {
-      "title": "Native TypeScript with Node",
-      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
-      "published_at": "2026-03-09T07:40:18Z",
-      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
+      "title": "i built a social platform where everything vanishes after 24 hours",
+      "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
+      "published_at": "2026-03-03T04:44:50Z",
+      "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
       "tags": [
-        "typescript",
-        "node",
-        "esm"
+        "socialmedia",
+        "showdev",
+        "webdev",
+        "typescript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
-      "user": "Timo Schinkel"
+      "user": "Ovi ren"
     },
     {
       "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
@@ -730,17 +730,19 @@
       "user": "wintercounter"
     },
     {
-      "title": "How to use fp-ts-routing to parse url and format it back",
-      "url": "https://dev.to/rinn7e/how-to-use-fp-ts-routing-to-parse-url-and-format-it-back-3lbm",
-      "published_at": "2026-03-08T09:32:17Z",
-      "description": "fp-ts-routing kinda lacks comprehensive documentation, so I am writing this blog post to address that...",
+      "title": "Breaking Free from the Render Cycle: Event-Driven Frontend Architecture",
+      "url": "https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e",
+      "published_at": "2026-03-08T20:05:58Z",
+      "description": "React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...",
       "tags": [
+        "architecture",
+        "performance",
         "typescript",
-        "routing"
+        "react"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ieveccgbaotk35g1xkj.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
       "source": "Dev.to",
-      "user": "Moremi Vannak"
+      "user": "Ishan Bagchi"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -904,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "datawhalechina"
     },
     {
@@ -1101,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21866,
+      "stars": 21982,
       "user": "karpathy"
     },
     {
@@ -1116,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2291,
+      "stars": 2313,
       "user": "HKUDS"
     },
     {
@@ -1131,7 +1133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1394,
       "user": "jackwener"
     },
     {
@@ -1146,7 +1148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 900,
       "user": "FreedomIntelligence"
     },
     {
@@ -1161,7 +1163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 778,
       "user": "Flowseal"
     }
   ],
@@ -1244,21 +1246,6 @@
   ],
   "WebDev": [
     {
-      "title": "Breaking Free from the Render Cycle: Event-Driven Frontend Architecture",
-      "url": "https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e",
-      "published_at": "2026-03-08T20:05:58Z",
-      "description": "React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...",
-      "tags": [
-        "architecture",
-        "performance",
-        "typescript",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
-      "source": "Dev.to",
-      "user": "Ishan Bagchi"
-    },
-    {
       "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!",
       "url": "https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828",
       "published_at": "2026-03-06T16:10:33Z",
@@ -1289,6 +1276,21 @@
       "user": "Sovereign Revenue Guard"
     },
     {
+      "title": "Recently Played: bringing back my Last.fm component",
+      "url": "https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank",
+      "published_at": "2026-03-08T23:21:01Z",
+      "description": "How I rebuilt my old Last.fm widget as an Eleventy WebC component with server-rendered HTML, client-side polling, and localStorage caching.",
+      "tags": [
+        "devjournal",
+        "showdev",
+        "sideprojects",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
+      "source": "Dev.to",
+      "user": "Martin Hicks"
+    },
+    {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
       "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
       "published_at": "2026-02-22T15:16:30Z",
@@ -1317,6 +1319,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
+    },
+    {
+      "title": "Breaking Free from the Render Cycle: Event-Driven Frontend Architecture",
+      "url": "https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e",
+      "published_at": "2026-03-08T20:05:58Z",
+      "description": "React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...",
+      "tags": [
+        "architecture",
+        "performance",
+        "typescript",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
+      "source": "Dev.to",
+      "user": "Ishan Bagchi"
     },
     {
       "title": "Flexible Border Element",
@@ -1604,21 +1621,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "AI Regression Tests Written in Markdown, Not Code",
-      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
-      "published_at": "2026-03-08T14:30:23Z",
-      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
-      "tags": [
-        "ai",
-        "testing",
-        "playwright",
-        "regression"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
-      "source": "Dev.to",
-      "user": "HybridTechie"
-    },
-    {
       "title": "I tracked where my Claude Code tokens actually go. 37% were wasted.",
       "url": "https://dev.to/egorfedorov/i-tracked-where-my-claude-code-tokens-actually-go-37-were-wasted-2gll",
       "published_at": "2026-03-09T06:34:30Z",
@@ -1634,6 +1636,21 @@
       "user": "Egor Fedorov"
     },
     {
+      "title": "AI Regression Tests Written in Markdown, Not Code",
+      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
+      "published_at": "2026-03-08T14:30:23Z",
+      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
+      "tags": [
+        "ai",
+        "testing",
+        "playwright",
+        "regression"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
+      "source": "Dev.to",
+      "user": "HybridTechie"
+    },
+    {
       "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
       "url": "https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj",
       "published_at": "2026-03-08T15:50:06Z",
@@ -1647,21 +1664,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8teznz95kc0r4d70ln2t.png",
       "source": "Dev.to",
       "user": "yashaswi"
-    },
-    {
-      "title": "Stop Burning Tokens on Redundant Context: Why your AGENTS.md is failing",
-      "url": "https://dev.to/aileenvl/stop-burning-tokens-on-redundant-context-why-your-agentsmd-is-failing-3cpn",
-      "published_at": "2026-02-25T01:28:04Z",
-      "description": "Auto-generated context files can reduce agent success by 3% and hike costs by 20%. Learn how to use \"Invisible Logic\" instead of redundant /init commands.",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj77roo4apl8yzi1e3pj.png",
-      "source": "Dev.to",
-      "user": "aileen vl"
     },
     {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
@@ -1809,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "datawhalechina"
     },
     {
@@ -1854,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21866,
+      "stars": 21982,
       "user": "karpathy"
     },
     {
@@ -1869,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2291,
+      "stars": 2313,
       "user": "HKUDS"
     },
     {
@@ -1884,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1394,
       "user": "jackwener"
     },
     {
@@ -1899,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 900,
       "user": "FreedomIntelligence"
     },
     {
@@ -1914,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 778,
       "user": "Flowseal"
     },
     {
@@ -1929,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1945,
+      "stars": 2058,
       "user": "karpathy"
     },
     {
