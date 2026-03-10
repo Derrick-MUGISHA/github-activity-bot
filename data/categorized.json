@@ -60,21 +60,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
-    },
-    {
       "title": "Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?",
       "url": "https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62",
       "published_at": "2026-03-08T20:33:41Z",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flev4m2p4pf4ve1fn3c7e.jpg",
       "source": "Dev.to",
       "user": "Giorgi Kobaidze"
+    },
+    {
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
+      "tags": [
+        "ai",
+        "engineering",
+        "productivity",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
+      "source": "Dev.to",
+      "user": "Denis Bakhoum"
     },
     {
       "title": "AI Regression Tests Written in Markdown, Not Code",
@@ -561,7 +561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 261,
       "user": "holysheep123"
     },
     {
@@ -576,7 +576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "comeonzhj"
     },
     {
@@ -591,7 +591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 221,
       "user": "f"
     },
     {
@@ -606,8 +606,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 18315,
+      "stars": 18565,
       "user": "karpathy"
+    },
+    {
+      "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
+      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+      "published_at": "2026-03-08T09:43:52Z",
+      "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
+      "source": "GitHub",
+      "stars": 748,
+      "user": "FreedomIntelligence"
     },
     {
       "title": "mem9-ai/mem9 - GitHub Repository",
@@ -621,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 107,
       "user": "mem9-ai"
     }
   ],
@@ -889,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 261,
       "user": "holysheep123"
     },
     {
@@ -904,7 +919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "comeonzhj"
     },
     {
@@ -919,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 221,
       "user": "f"
     },
     {
@@ -934,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "datawhalechina"
     }
   ],
@@ -1101,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 18315,
+      "stars": 18565,
       "user": "karpathy"
     },
     {
@@ -1116,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1425,
+      "stars": 1492,
       "user": "HKUDS"
     },
     {
@@ -1131,8 +1146,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1211,
+      "stars": 1227,
       "user": "jackwener"
+    },
+    {
+      "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
+      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+      "published_at": "2026-03-08T09:43:52Z",
+      "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
+      "source": "GitHub",
+      "stars": 748,
+      "user": "FreedomIntelligence"
     },
     {
       "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
@@ -1146,23 +1176,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 744,
       "user": "Flowseal"
-    },
-    {
-      "title": "tanishqkumar/ssd - A lightweight inference engine supporting speculative speculative decoding (SSD). ",
-      "url": "https://github.com/tanishqkumar/ssd",
-      "published_at": "2026-03-04T13:14:03Z",
-      "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
-      "source": "GitHub",
-      "stars": 737,
-      "user": "tanishqkumar"
     }
   ],
   "DevOps": [
@@ -1762,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 261,
       "user": "holysheep123"
     },
     {
@@ -1777,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "comeonzhj"
     },
     {
@@ -1792,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 221,
       "user": "f"
     },
     {
@@ -1807,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "datawhalechina"
     },
     {
@@ -1822,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 18315,
+      "stars": 18565,
       "user": "karpathy"
     },
     {
@@ -1837,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1425,
+      "stars": 1492,
       "user": "HKUDS"
     },
     {
@@ -1852,8 +1867,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1211,
+      "stars": 1227,
       "user": "jackwener"
+    },
+    {
+      "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
+      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+      "published_at": "2026-03-08T09:43:52Z",
+      "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
+      "source": "GitHub",
+      "stars": 748,
+      "user": "FreedomIntelligence"
     },
     {
       "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
@@ -1867,23 +1897,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 744,
       "user": "Flowseal"
-    },
-    {
-      "title": "tanishqkumar/ssd - A lightweight inference engine supporting speculative speculative decoding (SSD). ",
-      "url": "https://github.com/tanishqkumar/ssd",
-      "published_at": "2026-03-04T13:14:03Z",
-      "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52631353?v=4",
-      "source": "GitHub",
-      "stars": 737,
-      "user": "tanishqkumar"
     },
     {
       "title": "karpathy/agenthub - GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
@@ -1897,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 672,
       "user": "karpathy"
     },
     {
@@ -1942,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "AlmogBaku"
     },
     {
@@ -1957,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 107,
       "user": "mem9-ai"
     }
   ]
