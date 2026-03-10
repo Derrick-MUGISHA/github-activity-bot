@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
+**WebDev**: 🟦🟦🟦🟦 8 (7.6%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.9 (29.9%)
-Java            ███████████████████████ 23.4 (23.4%)
-Python          ██████████████████████ 22.1 (22.1%)
-Go              █████████████████████ 20.8 (20.8%)
+JavaScript      ██████████████████████████████ 28.9 (28.9%)
+Java            █████████████████████████ 23.7 (23.7%)
+Python          ███████████████████████ 22.4 (22.4%)
+Go              ██████████████████████ 21.1 (21.1%)
 Rust            █ 1.3 (1.3%)
 CSharp          █ 1.3 (1.3%)
 Swift           █ 1.3 (1.3%)
@@ -72,7 +72,7 @@ Swift           █ 1.3 (1.3%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
+    "JavaScript" : 22
     "Java" : 18
     "Python" : 17
     "Go" : 16
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![wecoded](https://img.shields.io/badge/wecoded-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![dei](https://img.shields.io/badge/dei-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![career](https://img.shields.io/badge/career-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![wecoded](https://img.shields.io/badge/wecoded-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![dei](https://img.shields.io/badge/dei-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) 
 
 
 
@@ -133,15 +133,6 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft3t0utthjfecqmipan8d.png" width="200" alt="Can you Truly Know that you are in the Right Path?" />
-      <br/>
-      <b>Can you Truly Know that you are in the Right Path?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq3k2ep72j7d9zho9rkj1.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
@@ -151,6 +142,26 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft3t0utthjfecqmipan8d.png" width="200" alt="Can you Truly Know that you are in the Right Path?" />
+      <br/>
+      <b>Can you Truly Know that you are in the Right Path?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ujja/the-enablers-who-helped-me-code-forward-cai">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2em2kwcp7nwwk6z2qst.png" width="200" alt="The Enablers Who Helped Me Code Forward" />
+      <br/>
+      <b>The Enablers Who Helped Me Code Forward</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsai7vinej4my7mk15te5.png" width="200" alt="TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It." />
       <br/>
@@ -159,8 +170,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png" width="200" alt="3 words worth a billion dollars: Drift to Determinism (DriDe)" />
@@ -171,19 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc0o2r3x4hkwm7tt7b9l8.png" width="200" alt="Your Agent Is a Small, Low-Stakes HAL" />
+    <a href="https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png" width="200" alt="I Made Claude Code Think Before It Codes. Here's the Prompt." />
       <br/>
-      <b>Your Agent Is a Small, Low-Stakes HAL</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/revamped-rss-feed-imports-3j1e">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fal9knrh2t01tu1lm3lfk.png" width="200" alt="Revamped RSS Feed Imports" />
-      <br/>
-      <b>Revamped RSS Feed Imports</b>
+      <b>I Made Claude Code Think Before It Codes. Here's t...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,13 +195,15 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889) _[Dev.to]_
+- [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
+- [The Enablers Who Helped Me Code Forward](https://dev.to/ujja/the-enablers-who-helped-me-code-forward-cai) _[Dev.to]_
 - [TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6) _[Dev.to]_
 - [3 words worth a billion dollars: Drift to Determinism (DriDe)](https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej) _[Dev.to]_
-- [Your Agent Is a Small, Low-Stakes HAL](https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8) _[Dev.to]_
+- [I Made Claude Code Think Before It Codes. Here's the Prompt.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf) _[Dev.to]_
 - [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) _[Dev.to]_
 - [Let Dependabot Merge Its Own PRs](https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc) _[Dev.to]_
+- [Your Agent Is a Small, Low-Stakes HAL](https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8) _[Dev.to]_
 - [Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [Breaking Free from the Render Cycle: Event-Driven Frontend Architecture](https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e) _[Dev.to]_
@@ -213,10 +215,8 @@ npm run test
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?](https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62) _[Dev.to]_
 - [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02) _[Dev.to]_
-- [Building a Text-to-Speech Engine in Pure C](https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4) _[Dev.to]_
-- [From NEET Aspirant to Writing Code: A Journey I Never Planned](https://dev.to/preeti_yadav/from-neet-aspirant-to-writing-code-a-journey-i-never-planned-l59) _[Dev.to]_
 
-_Last automated update: Tue, 10 Mar 2026 21:22:17 CAT_
+_Last automated update: Tue, 10 Mar 2026 21:56:49 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 10 Mar 2026 21:22:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 10 Mar 2026 19:22:17 GMT</b><br/>
+  <b>Last automated update: Tue, 10 Mar 2026 19:56:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

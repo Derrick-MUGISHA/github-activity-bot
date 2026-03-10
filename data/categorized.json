@@ -16,6 +16,21 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
+      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
+      "published_at": "2026-03-10T15:52:17Z",
+      "description": "Claude Code is the fastest coder I've ever worked with. It can scaffold a feature, write tests, and...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "tdd",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
+      "source": "Dev.to",
+      "user": "v.j.k. "
+    },
+    {
       "title": "Your Agent Is a Small, Low-Stakes HAL",
       "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
       "published_at": "2026-03-10T05:08:29Z",
@@ -591,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21740,
+      "stars": 21866,
       "user": "karpathy"
     },
     {
@@ -606,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 899,
       "user": "FreedomIntelligence"
     },
     {
@@ -640,21 +655,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
       "source": "Dev.to",
       "user": "Ishan Bagchi"
-    },
-    {
-      "title": "i built a social platform where everything vanishes after 24 hours",
-      "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
-      "published_at": "2026-03-03T04:44:50Z",
-      "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
-      "tags": [
-        "socialmedia",
-        "showdev",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
-      "source": "Dev.to",
-      "user": "Ovi ren"
     },
     {
       "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
@@ -889,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 300,
       "user": "gradenGnostic"
     },
     {
@@ -1101,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21740,
+      "stars": 21866,
       "user": "karpathy"
     },
     {
@@ -1116,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2282,
+      "stars": 2291,
       "user": "HKUDS"
     },
     {
@@ -1131,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1389,
+      "stars": 1391,
       "user": "jackwener"
     },
     {
@@ -1146,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 899,
       "user": "FreedomIntelligence"
     },
     {
@@ -1161,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "Flowseal"
     }
   ],
@@ -1287,21 +1287,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
-    },
-    {
-      "title": "Recently Played: bringing back my Last.fm component",
-      "url": "https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank",
-      "published_at": "2026-03-08T23:21:01Z",
-      "description": "How I rebuilt my old Last.fm widget as an Eleventy WebC component with server-rendered HTML, client-side polling, and localStorage caching.",
-      "tags": [
-        "devjournal",
-        "showdev",
-        "sideprojects",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
-      "source": "Dev.to",
-      "user": "Martin Hicks"
     },
     {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
@@ -1559,6 +1544,21 @@
   ],
   "Tools": [
     {
+      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
+      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
+      "published_at": "2026-03-10T15:52:17Z",
+      "description": "Claude Code is the fastest coder I've ever worked with. It can scaffold a feature, write tests, and...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "tdd",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
+      "source": "Dev.to",
+      "user": "v.j.k. "
+    },
+    {
       "title": "Let Dependabot Merge Its Own PRs",
       "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
       "published_at": "2026-03-08T18:16:29Z",
@@ -1794,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 300,
       "user": "gradenGnostic"
     },
     {
@@ -1854,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21740,
+      "stars": 21866,
       "user": "karpathy"
     },
     {
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2282,
+      "stars": 2291,
       "user": "HKUDS"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1389,
+      "stars": 1391,
       "user": "jackwener"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 899,
       "user": "FreedomIntelligence"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "Flowseal"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1858,
+      "stars": 1945,
       "user": "karpathy"
     },
     {
