@@ -16,6 +16,21 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "Your Agent Is a Small, Low-Stakes HAL",
+      "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
+      "published_at": "2026-03-10T05:08:29Z",
+      "description": "I work with multi-agent systems that review code, plan architecture, find faults, and critique...",
+      "tags": [
+        "ai",
+        "programming",
+        "llm",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc0o2r3x4hkwm7tt7b9l8.png",
+      "source": "Dev.to",
+      "user": "Roman Dubinin "
+    },
+    {
       "title": "Ship Less, Measure More",
       "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
       "published_at": "2026-03-06T22:07:43Z",
@@ -90,6 +105,21 @@
       "user": "Denis Bakhoum"
     },
     {
+      "title": "Building a Text-to-Speech Engine in Pure C",
+      "url": "https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4",
+      "published_at": "2026-03-09T14:49:04Z",
+      "description": "Building a minimal Text-to-Speech engine in pure C using Qwen3-TTS without ML frameworks.",
+      "tags": [
+        "c",
+        "ai",
+        "tts",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8vpv35ge7n4xjcsglc7.png",
+      "source": "Dev.to",
+      "user": "Gabriele Mastrapasqua"
+    },
+    {
       "title": "AI Regression Tests Written in Markdown, Not Code",
       "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
       "published_at": "2026-03-08T14:30:23Z",
@@ -133,6 +163,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ycrqfx70zjm32i4vak4.png",
       "source": "Dev.to",
       "user": "Vivek V."
+    },
+    {
+      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
+      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
+      "published_at": "2026-03-09T15:02:27Z",
+      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
+      "tags": [
+        "programming",
+        "haskell",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
+      "source": "Dev.to",
+      "user": "Kevin 心学"
     },
     {
       "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
@@ -358,36 +403,6 @@
       "user": "Ed"
     },
     {
-      "title": "How Accessibility Tree Formatting Affects Token Cost in Browser MCPs",
-      "url": "https://dev.to/kuroko1t/how-accessibility-tree-formatting-affects-token-cost-in-browser-mcps-n2a",
-      "published_at": "2026-02-26T07:58:44Z",
-      "description": "Token cost in browser automation MCPs has become a real topic — articles like \"Playwright MCP Burns...",
-      "tags": [
-        "mcp",
-        "ai",
-        "webdev",
-        "playwright"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2327y5d49r82nx5ovo9z.png",
-      "source": "Dev.to",
-      "user": "kuroko"
-    },
-    {
-      "title": "The Token Economy",
-      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
-      "published_at": "2026-02-26T13:36:47Z",
-      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl5ypbts6b20224zxqta.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "Airfoil",
       "url": "https://ciechanow.ski/airfoil/",
       "published_at": "2024-02-27T16:32:49Z",
@@ -561,7 +576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "f"
     },
     {
@@ -576,7 +591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21566,
+      "stars": 21740,
       "user": "karpathy"
     },
     {
@@ -591,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 898,
       "user": "FreedomIntelligence"
     },
     {
@@ -640,6 +655,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
       "source": "Dev.to",
       "user": "Ovi ren"
+    },
+    {
+      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
+      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
+      "published_at": "2026-03-09T15:02:27Z",
+      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
+      "tags": [
+        "programming",
+        "haskell",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
+      "source": "Dev.to",
+      "user": "Kevin 心学"
     },
     {
       "title": "Native TypeScript with Node",
@@ -711,35 +741,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ieveccgbaotk35g1xkj.png",
       "source": "Dev.to",
       "user": "Moremi Vannak"
-    },
-    {
-      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
-      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
-      "published_at": "2026-02-15T10:27:55Z",
-      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
-      "tags": [
-        "cloudflare",
-        "webdev",
-        "javascript",
-        "satori"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
-      "source": "Dev.to",
-      "user": "DeVoresyah ArEst"
-    },
-    {
-      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
-      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
-      "published_at": "2026-02-18T17:46:05Z",
-      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
-      "tags": [
-        "typescript",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
-      "source": "Dev.to",
-      "user": "Ely Lucas"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -892,6 +893,21 @@
       "user": "gradenGnostic"
     },
     {
+      "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
+      "url": "https://github.com/datawhalechina/hello-claw",
+      "published_at": "2026-03-04T03:04:38Z",
+      "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
+      "source": "GitHub",
+      "stars": 254,
+      "user": "datawhalechina"
+    },
+    {
       "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
       "url": "https://github.com/comeonzhj/AutoContents",
       "published_at": "2026-03-04T11:20:58Z",
@@ -907,21 +923,6 @@
       "user": "comeonzhj"
     },
     {
-      "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
-      "url": "https://github.com/datawhalechina/hello-claw",
-      "published_at": "2026-03-04T03:04:38Z",
-      "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
-      "source": "GitHub",
-      "stars": 248,
-      "user": "datawhalechina"
-    },
-    {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
       "url": "https://github.com/f/agentlytics",
       "published_at": "2026-03-07T01:39:41Z",
@@ -933,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "f"
     }
   ],
@@ -1100,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21566,
+      "stars": 21740,
       "user": "karpathy"
     },
     {
@@ -1115,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2250,
+      "stars": 2282,
       "user": "HKUDS"
     },
     {
@@ -1130,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1383,
+      "stars": 1389,
       "user": "jackwener"
     },
     {
@@ -1145,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 898,
       "user": "FreedomIntelligence"
     },
     {
@@ -1160,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 775,
       "user": "Flowseal"
     }
   ],
@@ -1371,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 484,
       "user": "steipete"
     }
   ],
@@ -1390,6 +1391,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwf8r18ozmm88bfnrl4eo.png",
       "source": "Dev.to",
       "user": "Samuel Komfi"
+    },
+    {
+      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
+      "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
+      "published_at": "2026-03-08T03:08:41Z",
+      "description": "Scrolling through GitHub to find interesting repositories can feel exhausting.  You search for...",
+      "tags": [
+        "opensource",
+        "swift",
+        "ios",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjd9ryf2pkhvgfcz0ivc6.png",
+      "source": "Dev.to",
+      "user": "Osman"
     }
   ],
   "Cloud": [
@@ -1409,21 +1425,6 @@
       "user": "Ahnaf Tahmid"
     },
     {
-      "title": "6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers (Satori + resvg-wasm)",
-      "url": "https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle",
-      "published_at": "2026-02-15T10:27:55Z",
-      "description": "A deep-dive into the real issues we hit generating dynamic Open Graph images on Cloudflare Workers with Satori and resvg-wasm — and how we solved each one.",
-      "tags": [
-        "cloudflare",
-        "webdev",
-        "javascript",
-        "satori"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3w0pxt5mx38kkjgyulh.png",
-      "source": "Dev.to",
-      "user": "DeVoresyah ArEst"
-    },
-    {
       "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
       "url": "https://github.com/MuhammadHananAsghar/wormhole",
       "published_at": "2026-03-07T14:00:31Z",
@@ -1435,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1494,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 484,
       "user": "steipete"
     }
   ],
@@ -1513,6 +1514,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsai7vinej4my7mk15te5.png",
       "source": "Dev.to",
       "user": "Luke"
+    },
+    {
+      "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
+      "url": "https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk",
+      "published_at": "2026-03-09T23:47:06Z",
+      "description": "Sometimes you want to run commands that you don’t fully trust or that intentionally bypass...",
+      "tags": [
+        "abotwrotethis",
+        "sandbox",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhle8kx2octm0lb4bpmit.png",
+      "source": "Dev.to",
+      "user": "JLarky"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -1738,18 +1753,19 @@
       "user": "Eastkap"
     },
     {
-      "title": "Introducing ts-dash: A Quick and Simple TypeScript Project Creator",
-      "url": "https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0",
-      "published_at": "2026-02-18T17:46:05Z",
-      "description": "The Itch   Lately I've been creating a lot of throwaway TypeScript projects. You know that...",
+      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
+      "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
+      "published_at": "2026-03-08T03:08:41Z",
+      "description": "Scrolling through GitHub to find interesting repositories can feel exhausting.  You search for...",
       "tags": [
-        "typescript",
-        "cli",
-        "productivity"
+        "opensource",
+        "swift",
+        "ios",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdkd81qcxar7vr2b6qw6r.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjd9ryf2pkhvgfcz0ivc6.png",
       "source": "Dev.to",
-      "user": "Ely Lucas"
+      "user": "Osman"
     },
     {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
@@ -1782,6 +1798,21 @@
       "user": "gradenGnostic"
     },
     {
+      "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
+      "url": "https://github.com/datawhalechina/hello-claw",
+      "published_at": "2026-03-04T03:04:38Z",
+      "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
+      "source": "GitHub",
+      "stars": 254,
+      "user": "datawhalechina"
+    },
+    {
       "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
       "url": "https://github.com/comeonzhj/AutoContents",
       "published_at": "2026-03-04T11:20:58Z",
@@ -1797,21 +1828,6 @@
       "user": "comeonzhj"
     },
     {
-      "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
-      "url": "https://github.com/datawhalechina/hello-claw",
-      "published_at": "2026-03-04T03:04:38Z",
-      "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
-      "source": "GitHub",
-      "stars": 248,
-      "user": "datawhalechina"
-    },
-    {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
       "url": "https://github.com/f/agentlytics",
       "published_at": "2026-03-07T01:39:41Z",
@@ -1823,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "f"
     },
     {
@@ -1838,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 21566,
+      "stars": 21740,
       "user": "karpathy"
     },
     {
@@ -1853,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2250,
+      "stars": 2282,
       "user": "HKUDS"
     },
     {
@@ -1868,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1383,
+      "stars": 1389,
       "user": "jackwener"
     },
     {
@@ -1883,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 898,
       "user": "FreedomIntelligence"
     },
     {
@@ -1898,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 775,
       "user": "Flowseal"
     },
     {
@@ -1913,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 1741,
+      "stars": 1858,
       "user": "karpathy"
     },
     {
@@ -1928,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 484,
       "user": "steipete"
     },
     {
@@ -1943,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -1973,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 118,
       "user": "AlmogBaku"
     }
   ]
