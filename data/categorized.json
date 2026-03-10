@@ -120,21 +120,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?",
-      "url": "https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62",
-      "published_at": "2026-03-08T20:33:41Z",
-      "description": "Table of Contents    Introduction  From Prompt to Binary Code   Is It Even Feasible? Is It...",
-      "tags": [
-        "discuss",
-        "ai",
-        "compilers",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flev4m2p4pf4ve1fn3c7e.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "Building a Text-to-Speech Engine in Pure C",
       "url": "https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4",
       "published_at": "2026-03-09T14:49:04Z",
@@ -148,6 +133,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8vpv35ge7n4xjcsglc7.png",
       "source": "Dev.to",
       "user": "Gabriele Mastrapasqua"
+    },
+    {
+      "title": "Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?",
+      "url": "https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62",
+      "published_at": "2026-03-08T20:33:41Z",
+      "description": "Table of Contents    Introduction  From Prompt to Binary Code   Is It Even Feasible? Is It...",
+      "tags": [
+        "discuss",
+        "ai",
+        "compilers",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flev4m2p4pf4ve1fn3c7e.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -607,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22445,
+      "stars": 22520,
       "user": "karpathy"
     },
     {
@@ -622,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 911,
       "user": "FreedomIntelligence"
     },
     {
@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 170,
       "user": "mem9-ai"
     }
   ],
@@ -907,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 263,
       "user": "datawhalechina"
     },
     {
@@ -1104,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22445,
+      "stars": 22520,
       "user": "karpathy"
     },
     {
@@ -1119,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2386,
+      "stars": 2415,
       "user": "HKUDS"
     },
     {
@@ -1134,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1407,
+      "stars": 1410,
       "user": "jackwener"
     },
     {
@@ -1149,7 +1149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 911,
       "user": "FreedomIntelligence"
     },
     {
@@ -1164,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 785,
       "user": "Flowseal"
     }
   ],
@@ -1439,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1812,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 263,
       "user": "datawhalechina"
     },
     {
@@ -1857,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22445,
+      "stars": 22520,
       "user": "karpathy"
     },
     {
@@ -1872,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2386,
+      "stars": 2415,
       "user": "HKUDS"
     },
     {
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1407,
+      "stars": 1410,
       "user": "jackwener"
     },
     {
@@ -1902,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 911,
       "user": "FreedomIntelligence"
     },
     {
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 785,
       "user": "Flowseal"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 170,
       "user": "mem9-ai"
     },
     {
