@@ -16,21 +16,6 @@
       "user": "GrahamTheDev"
     },
     {
-      "title": "Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?",
-      "url": "https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62",
-      "published_at": "2026-03-08T20:33:41Z",
-      "description": "Table of Contents    Introduction  From Prompt to Binary Code   Is It Even Feasible? Is It...",
-      "tags": [
-        "discuss",
-        "ai",
-        "compilers",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flev4m2p4pf4ve1fn3c7e.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "Ship Less, Measure More",
       "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
       "published_at": "2026-03-06T22:07:43Z",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?",
+      "url": "https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62",
+      "published_at": "2026-03-08T20:33:41Z",
+      "description": "Table of Contents    Introduction  From Prompt to Binary Code   Is It Even Feasible? Is It...",
+      "tags": [
+        "discuss",
+        "ai",
+        "compilers",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flev4m2p4pf4ve1fn3c7e.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
     },
     {
       "title": "AI Regression Tests Written in Markdown, Not Code",
@@ -576,8 +576,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 234,
       "user": "holysheep123"
+    },
+    {
+      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "url": "https://github.com/comeonzhj/AutoContents",
+      "published_at": "2026-03-04T11:20:58Z",
+      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
+      "source": "GitHub",
+      "stars": 214,
+      "user": "comeonzhj"
     },
     {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
@@ -595,21 +610,6 @@
       "user": "f"
     },
     {
-      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
-      "url": "https://github.com/comeonzhj/AutoContents",
-      "published_at": "2026-03-04T11:20:58Z",
-      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
-      "source": "GitHub",
-      "stars": 210,
-      "user": "comeonzhj"
-    },
-    {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published_at": "2026-03-06T22:00:43Z",
@@ -621,23 +621,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 16022,
+      "stars": 16573,
       "user": "karpathy"
-    },
-    {
-      "title": "elder-plinius/OBLITERATUS - OBLITERATE THE CHAINS THAT BIND YOU",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "published_at": "2026-03-03T19:37:51Z",
-      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
-      "source": "GitHub",
-      "stars": 2580,
-      "user": "elder-plinius"
     },
     {
       "title": "heri1845/ai-meme-trading-bot - Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
@@ -651,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 96,
       "user": "heri1845"
     }
   ],
@@ -889,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 269,
       "user": "gradenGnostic"
     },
     {
@@ -904,8 +889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 234,
       "user": "holysheep123"
+    },
+    {
+      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "url": "https://github.com/comeonzhj/AutoContents",
+      "published_at": "2026-03-04T11:20:58Z",
+      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
+      "source": "GitHub",
+      "stars": 214,
+      "user": "comeonzhj"
     },
     {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
@@ -923,21 +923,6 @@
       "user": "f"
     },
     {
-      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
-      "url": "https://github.com/comeonzhj/AutoContents",
-      "published_at": "2026-03-04T11:20:58Z",
-      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
-      "source": "GitHub",
-      "stars": 210,
-      "user": "comeonzhj"
-    },
-    {
       "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
       "url": "https://github.com/datawhalechina/hello-claw",
       "published_at": "2026-03-04T03:04:38Z",
@@ -949,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 144,
       "user": "datawhalechina"
     }
   ],
@@ -1116,23 +1101,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 16022,
+      "stars": 16573,
       "user": "karpathy"
-    },
-    {
-      "title": "elder-plinius/OBLITERATUS - OBLITERATE THE CHAINS THAT BIND YOU",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "published_at": "2026-03-03T19:37:51Z",
-      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
-      "source": "GitHub",
-      "stars": 2580,
-      "user": "elder-plinius"
     },
     {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
@@ -1146,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1174,
       "user": "HKUDS"
     },
     {
@@ -1161,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1059,
       "user": "jackwener"
     },
     {
@@ -1178,6 +1148,21 @@
       "source": "GitHub",
       "stars": 734,
       "user": "tanishqkumar"
+    },
+    {
+      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "url": "https://github.com/Flowseal/tg-ws-proxy",
+      "published_at": "2026-03-04T14:10:26Z",
+      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
+      "source": "GitHub",
+      "stars": 733,
+      "user": "Flowseal"
     }
   ],
   "DevOps": [
@@ -1372,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "steipete"
     }
   ],
@@ -1421,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 166,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1492,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "steipete"
     }
   ],
@@ -1747,7 +1732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 269,
       "user": "gradenGnostic"
     },
     {
@@ -1762,8 +1747,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 234,
       "user": "holysheep123"
+    },
+    {
+      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "url": "https://github.com/comeonzhj/AutoContents",
+      "published_at": "2026-03-04T11:20:58Z",
+      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
+      "source": "GitHub",
+      "stars": 214,
+      "user": "comeonzhj"
     },
     {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
@@ -1781,21 +1781,6 @@
       "user": "f"
     },
     {
-      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
-      "url": "https://github.com/comeonzhj/AutoContents",
-      "published_at": "2026-03-04T11:20:58Z",
-      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
-      "source": "GitHub",
-      "stars": 210,
-      "user": "comeonzhj"
-    },
-    {
       "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
       "url": "https://github.com/datawhalechina/hello-claw",
       "published_at": "2026-03-04T03:04:38Z",
@@ -1807,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 144,
       "user": "datawhalechina"
     },
     {
@@ -1822,23 +1807,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 16022,
+      "stars": 16573,
       "user": "karpathy"
-    },
-    {
-      "title": "elder-plinius/OBLITERATUS - OBLITERATE THE CHAINS THAT BIND YOU",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "published_at": "2026-03-03T19:37:51Z",
-      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
-      "source": "GitHub",
-      "stars": 2580,
-      "user": "elder-plinius"
     },
     {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
@@ -1852,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1174,
       "user": "HKUDS"
     },
     {
@@ -1867,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1059,
       "user": "jackwener"
     },
     {
@@ -1886,6 +1856,21 @@
       "user": "tanishqkumar"
     },
     {
+      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "url": "https://github.com/Flowseal/tg-ws-proxy",
+      "published_at": "2026-03-04T14:10:26Z",
+      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
+      "source": "GitHub",
+      "stars": 733,
+      "user": "Flowseal"
+    },
+    {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
       "url": "https://github.com/steipete/discrawl",
       "published_at": "2026-03-07T12:13:48Z",
@@ -1897,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "steipete"
     },
     {
@@ -1912,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 263,
       "user": "karpathy"
     },
     {
@@ -1927,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 166,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -1957,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/359926?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 96,
       "user": "heri1845"
     }
   ]
