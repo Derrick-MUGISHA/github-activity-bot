@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
 **WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
@@ -216,7 +216,7 @@ npm run test
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?](https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62) _[Dev.to]_
 
-_Last automated update: Wed, 11 Mar 2026 00:29:56 CAT_
+_Last automated update: Wed, 11 Mar 2026 00:55:52 CAT_
 
 
 
@@ -224,14 +224,14 @@ _Last automated update: Wed, 11 Mar 2026 00:29:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -246,14 +246,14 @@ Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 10 Mar 2026 22:29:56 GMT</b><br/>
+  <b>Last automated update: Tue, 10 Mar 2026 22:55:52 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
