@@ -76,21 +76,6 @@
       "user": "Spencer Marx"
     },
     {
-      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
-      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
-      "published_at": "2026-03-11T10:43:47Z",
-      "description": "As a React developer transitioning into Go, I was struggling to truly learn the concepts. But worse,...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "programming",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0w1ju5h0cenugfzf08wj.png",
-      "source": "Dev.to",
-      "user": "supriya"
-    },
-    {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
       "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
       "published_at": "2026-03-10T13:00:34Z",
@@ -255,19 +240,34 @@
       "user": "Gabriele Mastrapasqua"
     },
     {
-      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
-      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
-      "published_at": "2026-03-09T15:02:27Z",
-      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
       "tags": [
-        "programming",
-        "haskell",
         "ai",
-        "javascript"
+        "engineering",
+        "productivity",
+        "dx"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
-      "user": "Kevin 心学"
+      "user": "Denis Bakhoum"
+    },
+    {
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "tags": [
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "source": "Dev.to",
+      "user": "GrahamTheDev"
     },
     {
       "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
@@ -419,6 +419,21 @@
       "user": "Egor Fedorov"
     },
     {
+      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
+      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
+      "published_at": "2026-03-09T15:02:27Z",
+      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
+      "tags": [
+        "programming",
+        "haskell",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
+      "source": "Dev.to",
+      "user": "Kevin 心学"
+    },
+    {
       "title": "AI Regression Tests Written in Markdown, Not Code",
       "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
       "published_at": "2026-03-08T14:30:23Z",
@@ -432,36 +447,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
       "source": "Dev.to",
       "user": "HybridTechie"
-    },
-    {
-      "title": "Flexible Border Element",
-      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
-      "published_at": "2026-03-01T21:12:43Z",
-      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
-      "tags": [
-        "css",
-        "frontend",
-        "tailwindcss",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
-      "source": "Dev.to",
-      "user": "Lisa Cee"
-    },
-    {
-      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
-      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
-      "published_at": "2026-03-01T13:53:25Z",
-      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
-      "tags": [
-        "agents",
-        "ai",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
-      "source": "Dev.to",
-      "user": "Ahnaf Tahmid"
     },
     {
       "title": "Airfoil",
@@ -572,16 +557,16 @@
       "user": "ivank"
     },
     {
-      "title": "Paper Airplane Designs",
-      "url": "https://www.foldnfly.com/",
-      "published_at": "2018-10-18T16:34:52Z",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "published_at": "2026-03-11T19:29:29Z",
       "description": "HackerNews Discussion",
       "tags": [
         "AI"
       ],
       "cover_image": null,
       "source": "HackerNews",
-      "user": "wilsonfiifi"
+      "user": "usefulposter"
     },
     {
       "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
@@ -652,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "fjb040911"
     },
     {
@@ -667,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25927,
+      "stars": 25978,
       "user": "karpathy"
     },
     {
@@ -682,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 997,
       "user": "FreedomIntelligence"
     },
     {
@@ -733,21 +718,6 @@
   ],
   "JavaScript": [
     {
-      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
-      "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
-      "published_at": "2026-03-11T17:30:00Z",
-      "description": "This is the third part in a tenuously linked series defending JavaScript singletons in a modern...",
-      "tags": [
-        "microfrontend",
-        "webdev",
-        "react",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
-    {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
       "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
       "published_at": "2026-03-11T14:44:40Z",
@@ -763,19 +733,19 @@
       "user": "Slee Woo"
     },
     {
-      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
-      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
-      "published_at": "2026-03-11T10:43:47Z",
-      "description": "As a React developer transitioning into Go, I was struggling to truly learn the concepts. But worse,...",
+      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
+      "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
+      "published_at": "2026-03-11T17:30:00Z",
+      "description": "This is the third part in a tenuously linked series defending JavaScript singletons in a modern...",
       "tags": [
-        "ai",
-        "vibecoding",
-        "programming",
-        "beginners"
+        "microfrontend",
+        "webdev",
+        "react",
+        "vue"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0w1ju5h0cenugfzf08wj.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
       "source": "Dev.to",
-      "user": "supriya"
+      "user": "Andrew Bone"
     },
     {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
@@ -806,21 +776,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
       "source": "Dev.to",
       "user": "yabbal"
-    },
-    {
-      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
-      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
-      "published_at": "2026-03-09T15:02:27Z",
-      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
-      "tags": [
-        "programming",
-        "haskell",
-        "ai",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
-      "source": "Dev.to",
-      "user": "Kevin 心学"
     },
     {
       "title": "Native TypeScript with Node",
@@ -879,6 +834,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
+    },
+    {
+      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
+      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
+      "published_at": "2026-03-09T15:02:27Z",
+      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
+      "tags": [
+        "programming",
+        "haskell",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
+      "source": "Dev.to",
+      "user": "Kevin 心学"
     },
     {
       "title": "Breaking Free from the Render Cycle: Event-Driven Frontend Architecture",
@@ -1072,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "fjb040911"
     },
     {
@@ -1269,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25927,
+      "stars": 25978,
       "user": "karpathy"
     },
     {
@@ -1284,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5098,
+      "stars": 5115,
       "user": "HKUDS"
     },
     {
@@ -1299,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1634,
       "user": "jackwener"
     },
     {
@@ -1314,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 997,
       "user": "FreedomIntelligence"
     },
     {
@@ -1378,6 +1348,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
+    },
+    {
+      "title": "Let Dependabot Merge Its Own PRs",
+      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
+      "published_at": "2026-03-08T18:16:29Z",
+      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
+      "tags": [
+        "github",
+        "cicd",
+        "githubactions",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -1517,21 +1502,6 @@
       "user": "Ishan Bagchi"
     },
     {
-      "title": "Flexible Border Element",
-      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
-      "published_at": "2026-03-01T21:12:43Z",
-      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
-      "tags": [
-        "css",
-        "frontend",
-        "tailwindcss",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
-      "source": "Dev.to",
-      "user": "Lisa Cee"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1621,21 +1591,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
       "source": "Dev.to",
       "user": "Greg Baugues"
-    },
-    {
-      "title": "🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)",
-      "url": "https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d",
-      "published_at": "2026-03-01T13:53:25Z",
-      "description": "You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...",
-      "tags": [
-        "agents",
-        "ai",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xbh0owdxj5v5t89jqme.webp",
-      "source": "Dev.to",
-      "user": "Ahnaf Tahmid"
     },
     {
       "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
@@ -1832,6 +1787,36 @@
       "user": "Richard Oliver Bray"
     },
     {
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
+      "tags": [
+        "ai",
+        "engineering",
+        "productivity",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
+      "source": "Dev.to",
+      "user": "Denis Bakhoum"
+    },
+    {
+      "title": "Let Dependabot Merge Its Own PRs",
+      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
+      "published_at": "2026-03-08T18:16:29Z",
+      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
+      "tags": [
+        "github",
+        "cicd",
+        "githubactions",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
+    },
+    {
       "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
       "url": "https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj",
       "published_at": "2026-03-08T15:50:06Z",
@@ -2022,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "fjb040911"
     },
     {
@@ -2052,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25927,
+      "stars": 25978,
       "user": "karpathy"
     },
     {
@@ -2067,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5098,
+      "stars": 5115,
       "user": "HKUDS"
     },
     {
@@ -2082,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1634,
       "user": "jackwener"
     },
     {
@@ -2097,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 997,
       "user": "FreedomIntelligence"
     },
     {
