@@ -174,19 +174,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png" width="200" alt="The Diplomatic Core: Shared Logic in a Multi-Framework World" />
+    <a href="https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfwmml7t3mm0ff6vu2e5.png" width="200" alt="What Quitting My Job Taught Me About Tech" />
       <br/>
-      <b>The Diplomatic Core: Shared Logic in a Multi-Frame...</b>
+      <b>What Quitting My Job Taught Me About Tech</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfwmml7t3mm0ff6vu2e5.png" width="200" alt="What Quitting My Job Taught Me About Tech" />
+    <a href="https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png" width="200" alt="The Diplomatic Core: Shared Logic in a Multi-Framework World" />
       <br/>
-      <b>What Quitting My Job Taught Me About Tech</b>
+      <b>The Diplomatic Core: Shared Logic in a Multi-Frame...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,24 +202,24 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889) _[Dev.to]_
 - [I Built a Secure Planning Agent with MCP and Keycard](https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a) _[Dev.to]_
 - [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
-- [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
+- [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle](https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo) _[Dev.to]_
-- [Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk) _[Dev.to]_
 - [The Enablers Who Helped Me Code Forward](https://dev.to/ujja/the-enablers-who-helped-me-code-forward-cai) _[Dev.to]_
+- [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
+- [Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk) _[Dev.to]_
 - [Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations](https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418) _[Dev.to]_
 - [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
-- [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) _[Dev.to]_
 - [I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code](https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9) _[Dev.to]_
-- [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
+- [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) _[Dev.to]_
 - [DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness](https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd) _[Dev.to]_
 - [Gemini Embedding 2: Our first natively multimodal embedding model](https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 
-_Last automated update: Wed, 11 Mar 2026 23:03:07 CAT_
+_Last automated update: Wed, 11 Mar 2026 23:47:30 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Wed, 11 Mar 2026 23:03:07 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Heap, stack, garbage collection
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 21:03:07 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 21:47:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
