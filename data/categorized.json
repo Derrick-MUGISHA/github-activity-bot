@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
-      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
-      "published_at": "2026-03-10T13:09:37Z",
-      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
-      "tags": [
-        "ai",
-        "agents",
-        "webdev",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
-      "source": "Dev.to",
-      "user": "Jason Agostoni"
-    },
-    {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
       "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
       "published_at": "2026-03-10T13:00:34Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
       "source": "Dev.to",
       "user": "Dumebi Okolo"
+    },
+    {
+      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
+      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
+      "published_at": "2026-03-10T13:09:37Z",
+      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
+      "tags": [
+        "ai",
+        "agents",
+        "webdev",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
+      "source": "Dev.to",
+      "user": "Jason Agostoni"
     },
     {
       "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
@@ -591,7 +591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 282,
       "user": "Rohit24567"
     },
     {
@@ -606,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 273,
       "user": "f"
     },
     {
@@ -621,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "fjb040911"
     },
     {
@@ -636,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 24349,
+      "stars": 24523,
       "user": "karpathy"
     },
     {
@@ -651,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 967,
       "user": "FreedomIntelligence"
     },
     {
@@ -681,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "mem9-ai"
     },
     {
@@ -696,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "TrNgTien"
     }
   ],
@@ -966,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 282,
       "user": "Rohit24567"
     },
     {
@@ -981,7 +981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 273,
       "user": "f"
     },
     {
@@ -996,7 +996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "fjb040911"
     },
     {
@@ -1011,7 +1011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167266851?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "gorkem-bwl"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "TrNgTien"
     }
   ],
@@ -1193,7 +1193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 24349,
+      "stars": 24523,
       "user": "karpathy"
     },
     {
@@ -1208,7 +1208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3649,
+      "stars": 3770,
       "user": "HKUDS"
     },
     {
@@ -1223,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1566,
       "user": "jackwener"
     },
     {
@@ -1238,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 967,
       "user": "FreedomIntelligence"
     },
     {
@@ -1268,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "TrNgTien"
     }
   ],
@@ -1541,7 +1541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "TrNgTien"
     }
   ],
@@ -1931,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 282,
       "user": "Rohit24567"
     },
     {
@@ -1946,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 273,
       "user": "f"
     },
     {
@@ -1961,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "fjb040911"
     },
     {
@@ -1976,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167266851?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "gorkem-bwl"
     },
     {
@@ -1991,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 24349,
+      "stars": 24523,
       "user": "karpathy"
     },
     {
@@ -2006,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3649,
+      "stars": 3770,
       "user": "HKUDS"
     },
     {
@@ -2021,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1566,
       "user": "jackwener"
     },
     {
@@ -2036,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 967,
       "user": "FreedomIntelligence"
     },
     {
@@ -2081,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "mem9-ai"
     },
     {
@@ -2111,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "AlmogBaku"
     },
     {
@@ -2126,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "TrNgTien"
     }
   ]
