@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-11-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.7%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
-**DevOps**: 🟦🟦 6 (5.8%)
+**DevOps**: 🟦🟦 6 (5.7%)
 
 **Database**: 🟦🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,13 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.3 (27.3%)
-Java            █████████████████████████ 22.7 (22.7%)
-Go              ████████████████████████ 21.6 (21.6%)
-Python          ███████████████████████ 20.5 (20.5%)
-Rust            ███ 2.3 (2.3%)
-CSharp          ███ 2.3 (2.3%)
-Swift           ███ 2.3 (2.3%)
+JavaScript      ██████████████████████████████ 27.0 (27.0%)
+Java            █████████████████████████ 22.5 (22.5%)
+Go              █████████████████████████ 22.5 (22.5%)
+Python          ██████████████████████ 20.2 (20.2%)
+Rust            ██ 2.2 (2.2%)
+CSharp          ██ 2.2 (2.2%)
+Swift           ██ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
@@ -75,7 +75,7 @@ Kotlin          █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 24
     "Java" : 20
-    "Go" : 19
+    "Go" : 20
     "Python" : 18
     "Rust" : 2
     "CSharp" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![career](https://img.shields.io/badge/career-9-blue) ![go](https://img.shields.io/badge/go-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![go](https://img.shields.io/badge/go-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-11 11:00 CAT)
+## 📅 Latest Updates (2026-03-11 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [Building a Text-to-Speech Engine in Pure C](https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4) _[Dev.to]_
 
-_Last automated update: Wed, 11 Mar 2026 11:26:39 CAT_
+_Last automated update: Wed, 11 Mar 2026 12:07:15 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 11 Mar 2026 11:26:39 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 09:26:39 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 10:07:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
