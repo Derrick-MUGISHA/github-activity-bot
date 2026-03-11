@@ -16,21 +16,6 @@
       "user": "Dumebi Okolo"
     },
     {
-      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
-      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
-      "published_at": "2026-03-10T13:09:37Z",
-      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
-      "tags": [
-        "ai",
-        "agents",
-        "webdev",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
-      "source": "Dev.to",
-      "user": "Jason Agostoni"
-    },
-    {
       "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
       "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
       "published_at": "2026-03-10T15:52:17Z",
@@ -46,19 +31,19 @@
       "user": "v.j.k. "
     },
     {
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
-      "published_at": "2026-03-07T10:44:43Z",
-      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
+      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
+      "published_at": "2026-03-10T13:09:37Z",
+      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
       "tags": [
-        "webdev",
         "ai",
-        "automation",
-        "architecture"
+        "agents",
+        "webdev",
+        "go"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
       "source": "Dev.to",
-      "user": "GrahamTheDev"
+      "user": "Jason Agostoni"
     },
     {
       "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
@@ -163,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "tags": [
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "source": "Dev.to",
+      "user": "GrahamTheDev"
     },
     {
       "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
@@ -576,7 +576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25319,
+      "stars": 25449,
       "user": "karpathy"
     },
     {
@@ -591,7 +591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 989,
       "user": "FreedomIntelligence"
     },
     {
@@ -621,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 212,
       "user": "mem9-ai"
     },
     {
@@ -636,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "TrNgTien"
     }
   ],
@@ -701,21 +701,6 @@
       "user": "Ovi ren"
     },
     {
-      "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
-      "url": "https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp",
-      "published_at": "2026-03-04T11:17:15Z",
-      "description": "If you're using NVM for Windows and see the following error:    nvm enabled activation...",
-      "tags": [
-        "javascript",
-        "node",
-        "tooling",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fatyeksv5khnv2lnbx6wx.png",
-      "source": "Dev.to",
-      "user": "Vatsal Trivedi"
-    },
-    {
       "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
       "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
       "published_at": "2026-03-03T11:32:27Z",
@@ -758,6 +743,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
       "source": "Dev.to",
       "user": "Ishan Bagchi"
+    },
+    {
+      "title": "How to use fp-ts-routing to parse url and format it back",
+      "url": "https://dev.to/rinn7e/how-to-use-fp-ts-routing-to-parse-url-and-format-it-back-3lbm",
+      "published_at": "2026-03-08T09:32:17Z",
+      "description": "fp-ts-routing kinda lacks comprehensive documentation, so I am writing this blog post to address that...",
+      "tags": [
+        "typescript",
+        "routing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ieveccgbaotk35g1xkj.png",
+      "source": "Dev.to",
+      "user": "Moremi Vannak"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -891,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "TrNgTien"
     }
   ],
@@ -1058,7 +1056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25319,
+      "stars": 25449,
       "user": "karpathy"
     },
     {
@@ -1073,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4550,
+      "stars": 4750,
       "user": "HKUDS"
     },
     {
@@ -1088,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1605,
+      "stars": 1615,
       "user": "jackwener"
     },
     {
@@ -1103,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 989,
       "user": "FreedomIntelligence"
     },
     {
@@ -1133,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "TrNgTien"
     }
   ],
@@ -1406,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "TrNgTien"
     }
   ],
@@ -1438,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1651,21 +1649,6 @@
       "user": "Chung Ho"
     },
     {
-      "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
-      "url": "https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp",
-      "published_at": "2026-03-04T11:17:15Z",
-      "description": "If you're using NVM for Windows and see the following error:    nvm enabled activation...",
-      "tags": [
-        "javascript",
-        "node",
-        "tooling",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fatyeksv5khnv2lnbx6wx.png",
-      "source": "Dev.to",
-      "user": "Vatsal Trivedi"
-    },
-    {
       "title": "I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots",
       "url": "https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob",
       "published_at": "2026-03-03T13:38:00Z",
@@ -1781,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25319,
+      "stars": 25449,
       "user": "karpathy"
     },
     {
@@ -1796,7 +1779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4550,
+      "stars": 4750,
       "user": "HKUDS"
     },
     {
@@ -1811,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1605,
+      "stars": 1615,
       "user": "jackwener"
     },
     {
@@ -1826,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 989,
       "user": "FreedomIntelligence"
     },
     {
@@ -1871,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 212,
       "user": "mem9-ai"
     },
     {
@@ -1886,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -1901,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 130,
       "user": "AlmogBaku"
     },
     {
@@ -1916,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "TrNgTien"
     }
   ]
