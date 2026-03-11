@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Getting Started with Gemini CLI",
-      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
-      "published_at": "2026-03-11T17:45:44Z",
-      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "When AI Writes the Code… Who Takes Responsibility?",
       "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
       "published_at": "2026-03-10T22:39:46Z",
@@ -31,19 +16,34 @@
       "user": "Subhrangsu Bera"
     },
     {
-      "title": "Your AI code reviewer has no one to disagree with",
-      "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
-      "published_at": "2026-03-11T14:48:03Z",
-      "description": "Why single-pass AI code review is fundamentally broken and what happens when you make AI reviewers argue with each other first.",
+      "title": "I Built a Secure Planning Agent with MCP and Keycard",
+      "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
+      "published_at": "2026-03-11T19:19:14Z",
+      "description": "My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...",
       "tags": [
-        "opensource",
-        "ai",
-        "codereview",
-        "claudecode"
+        "agents",
+        "mcp",
+        "productivity",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
       "source": "Dev.to",
-      "user": "Spencer Marx"
+      "user": "Kim Maida"
+    },
+    {
+      "title": "Getting Started with Gemini CLI",
+      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
+      "published_at": "2026-03-11T17:45:44Z",
+      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
+      "tags": [
+        "gemini",
+        "cli",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
     },
     {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
@@ -59,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
+    },
+    {
+      "title": "Your AI code reviewer has no one to disagree with",
+      "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
+      "published_at": "2026-03-11T14:48:03Z",
+      "description": "Why single-pass AI code review is fundamentally broken and what happens when you make AI reviewers argue with each other first.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codereview",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png",
+      "source": "Dev.to",
+      "user": "Spencer Marx"
     },
     {
       "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
@@ -238,21 +253,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8vpv35ge7n4xjcsglc7.png",
       "source": "Dev.to",
       "user": "Gabriele Mastrapasqua"
-    },
-    {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
     },
     {
       "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
@@ -611,66 +611,6 @@
       "user": "veesahni"
     },
     {
-      "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-      "published_at": "2026-03-09T23:42:30Z",
-      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
-      "source": "GitHub",
-      "stars": 315,
-      "user": "Rohit24567"
-    },
-    {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "holysheep123"
-    },
-    {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "f"
-    },
-    {
-      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "url": "https://github.com/fjb040911/ai-rules",
-      "published_at": "2026-03-06T08:07:15Z",
-      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "fjb040911"
-    },
-    {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published_at": "2026-03-06T22:00:43Z",
@@ -682,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25767,
+      "stars": 25817,
       "user": "karpathy"
     },
     {
@@ -747,6 +687,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
+      "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
+      "published_at": "2026-03-11T17:30:00Z",
+      "description": "This is the third part in a tenuously linked series defending JavaScript singletons in a modern...",
+      "tags": [
+        "microfrontend",
+        "webdev",
+        "react",
+        "vue"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
+    },
     {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
       "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
@@ -1016,81 +971,6 @@
       "user": "velmu"
     },
     {
-      "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-      "published_at": "2026-03-09T23:42:30Z",
-      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
-      "source": "GitHub",
-      "stars": 315,
-      "user": "Rohit24567"
-    },
-    {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "holysheep123"
-    },
-    {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "f"
-    },
-    {
-      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "url": "https://github.com/fjb040911/ai-rules",
-      "published_at": "2026-03-06T08:07:15Z",
-      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "fjb040911"
-    },
-    {
-      "title": "LukeRenton/explore-claude-code - Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
-      "url": "https://github.com/LukeRenton/explore-claude-code",
-      "published_at": "2026-03-05T14:37:50Z",
-      "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99989709?v=4",
-      "source": "GitHub",
-      "stars": 153,
-      "user": "LukeRenton"
-    },
-    {
       "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
       "url": "https://github.com/TrNgTien/vfs",
       "published_at": "2026-03-05T04:17:19Z",
@@ -1269,7 +1149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25767,
+      "stars": 25817,
       "user": "karpathy"
     },
     {
@@ -1284,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5058,
+      "stars": 5069,
       "user": "HKUDS"
     },
     {
@@ -1299,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1628,
+      "stars": 1630,
       "user": "jackwener"
     },
     {
@@ -1349,21 +1229,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "Let Dependabot Merge Its Own PRs",
-      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
-      "published_at": "2026-03-08T18:16:29Z",
-      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
-      "tags": [
-        "github",
-        "cicd",
-        "githubactions",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
-      "source": "Dev.to",
-      "user": "Nick Taylor"
-    },
     {
       "title": "TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.",
       "url": "https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6",
@@ -1426,6 +1291,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
+      "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
+      "published_at": "2026-03-11T17:30:00Z",
+      "description": "This is the third part in a tenuously linked series defending JavaScript singletons in a modern...",
+      "tags": [
+        "microfrontend",
+        "webdev",
+        "react",
+        "vue"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
+    },
     {
       "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!",
       "url": "https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828",
@@ -1772,6 +1652,21 @@
   ],
   "Tools": [
     {
+      "title": "I Built a Secure Planning Agent with MCP and Keycard",
+      "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
+      "published_at": "2026-03-11T19:19:14Z",
+      "description": "My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...",
+      "tags": [
+        "agents",
+        "mcp",
+        "productivity",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
+      "source": "Dev.to",
+      "user": "Kim Maida"
+    },
+    {
       "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
       "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
       "published_at": "2026-03-10T19:56:15Z",
@@ -1785,21 +1680,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
       "source": "Dev.to",
       "user": "yabbal"
-    },
-    {
-      "title": "Let Dependabot Merge Its Own PRs",
-      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
-      "published_at": "2026-03-08T18:16:29Z",
-      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
-      "tags": [
-        "github",
-        "cicd",
-        "githubactions",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
-      "source": "Dev.to",
-      "user": "Nick Taylor"
     },
     {
       "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
@@ -1830,21 +1710,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvor2ooqmwkv6vkstlqex.png",
       "source": "Dev.to",
       "user": "Richard Oliver Bray"
-    },
-    {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
     },
     {
       "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
@@ -1981,81 +1846,6 @@
       "user": "Osman"
     },
     {
-      "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-      "published_at": "2026-03-09T23:42:30Z",
-      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
-      "source": "GitHub",
-      "stars": 315,
-      "user": "Rohit24567"
-    },
-    {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "holysheep123"
-    },
-    {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "f"
-    },
-    {
-      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "url": "https://github.com/fjb040911/ai-rules",
-      "published_at": "2026-03-06T08:07:15Z",
-      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "fjb040911"
-    },
-    {
-      "title": "LukeRenton/explore-claude-code - Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
-      "url": "https://github.com/LukeRenton/explore-claude-code",
-      "published_at": "2026-03-05T14:37:50Z",
-      "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99989709?v=4",
-      "source": "GitHub",
-      "stars": 153,
-      "user": "LukeRenton"
-    },
-    {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published_at": "2026-03-06T22:00:43Z",
@@ -2067,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25767,
+      "stars": 25817,
       "user": "karpathy"
     },
     {
@@ -2082,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5058,
+      "stars": 5069,
       "user": "HKUDS"
     },
     {
@@ -2097,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1628,
+      "stars": 1630,
       "user": "jackwener"
     },
     {
