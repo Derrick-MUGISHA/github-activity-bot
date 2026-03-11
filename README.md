@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-100-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-11-orange)
 
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (45.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (23.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (19.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (18.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (9.0%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
-**DevOps**: 🟦🟦🟦 6 (6.0%)
+**DevOps**: 🟦🟦 6 (5.7%)
 
-**Database**: 🟦🟦 4 (4.0%)
+**Database**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (4.0%)
+**Security**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 3 (3.0%)
+**Mobile**: 🟦 3 (2.9%)
 
-**Cloud**: 🟦 2 (2.0%)
+**Cloud**: 🟦 2 (1.9%)
 
 
 
@@ -54,29 +54,29 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 10 articles
+- **GitHub**: 15 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.0 (25.0%)
-Go              ████████████████████████████ 23.7 (23.7%)
-Python          ████████████████████████████ 23.7 (23.7%)
-Java            ██████████████████████ 18.4 (18.4%)
-Rust            ███ 2.6 (2.6%)
-CSharp          ███ 2.6 (2.6%)
-Swift           ███ 2.6 (2.6%)
-Kotlin          ██ 1.3 (1.3%)
+JavaScript      ██████████████████████████████ 27.6 (27.6%)
+Java            ████████████████████████ 21.8 (21.8%)
+Go              ████████████████████████ 21.8 (21.8%)
+Python          ██████████████████████ 20.7 (20.7%)
+Rust            ███ 2.3 (2.3%)
+CSharp          ███ 2.3 (2.3%)
+Swift           ███ 2.3 (2.3%)
+Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 19
-    "Go" : 18
+    "JavaScript" : 24
+    "Java" : 19
+    "Go" : 19
     "Python" : 18
-    "Java" : 14
     "Rust" : 2
     "CSharp" : 2
     "Swift" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![github](https://img.shields.io/badge/github-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![dei](https://img.shields.io/badge/dei-6-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-11 18:00 CAT)
+## 📅 Latest Updates (2026-03-11 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Building a Text-to-Speech Engine in Pure C](https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4) _[Dev.to]_
 - [From NEET Aspirant to Writing Code: A Journey I Never Planned](https://dev.to/preeti_yadav/from-neet-aspirant-to-writing-code-a-journey-i-never-planned-l59) _[Dev.to]_
 
-_Last automated update: Wed, 11 Mar 2026 18:01:55 CAT_
+_Last automated update: Wed, 11 Mar 2026 19:09:58 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 11 Mar 2026 18:01:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Execution timing, event loop phases
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 16:01:55 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 17:09:58 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
