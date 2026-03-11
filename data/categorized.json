@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
-      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
-      "published_at": "2026-03-10T15:52:17Z",
-      "description": "Claude Code is the fastest coder I've ever worked with. It can scaffold a feature, write tests, and...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "tdd",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
-      "source": "Dev.to",
-      "user": "v.j.k. "
-    },
-    {
       "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
       "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
       "published_at": "2026-03-10T13:09:37Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
       "source": "Dev.to",
       "user": "Dumebi Okolo"
+    },
+    {
+      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
+      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
+      "published_at": "2026-03-10T15:52:17Z",
+      "description": "Claude Code is the fastest coder I've ever worked with. It can scaffold a feature, write tests, and...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "tdd",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
+      "source": "Dev.to",
+      "user": "v.j.k. "
     },
     {
       "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
@@ -195,21 +195,6 @@
       "user": "Egor Fedorov"
     },
     {
-      "title": "I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents",
-      "url": "https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624",
-      "published_at": "2026-03-07T05:43:11Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   OpenClaw just got an...",
-      "tags": [
-        "notionchallenge",
-        "openclaw",
-        "mcp",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ycrqfx70zjm32i4vak4.png",
-      "source": "Dev.to",
-      "user": "Vivek V."
-    },
-    {
       "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
       "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
       "published_at": "2026-03-09T15:02:27Z",
@@ -344,21 +329,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Archival Intelligence: A Forensic Rare Book Auditor",
-      "url": "https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448",
-      "published_at": "2026-03-06T20:11:04Z",
-      "description": "🔍 Archival Intelligence: A Forensic Rare Book Auditor   This is a submission for the Notion...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhnr9x1wdwamf48vw2t2.png",
-      "source": "Dev.to",
-      "user": "Ken W Alger"
-    },
-    {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
       "url": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
       "published_at": "2026-03-02T18:53:22Z",
@@ -432,6 +402,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzuwtta3j05e1ng7wigz.png",
       "source": "Dev.to",
       "user": "Felipe Philipp"
+    },
+    {
+      "title": "I feel lost on AI",
+      "url": "https://dev.to/eduardoferron/i-feel-lost-on-ai-367c",
+      "published_at": "2026-02-22T01:56:58Z",
+      "description": "I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...",
+      "tags": [
+        "discuss",
+        "community",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61tvagawtbnrv7dckf6g.png",
+      "source": "Dev.to",
+      "user": "Ed"
+    },
+    {
+      "title": "I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents",
+      "url": "https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624",
+      "published_at": "2026-03-07T05:43:11Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   OpenClaw just got an...",
+      "tags": [
+        "notionchallenge",
+        "openclaw",
+        "mcp",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ycrqfx70zjm32i4vak4.png",
+      "source": "Dev.to",
+      "user": "Vivek V."
     },
     {
       "title": "Airfoil",
@@ -577,7 +576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 305,
       "user": "holysheep123"
     },
     {
@@ -592,7 +591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "Rohit24567"
     },
     {
@@ -607,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 267,
       "user": "f"
     },
     {
@@ -622,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "fjb040911"
     },
     {
@@ -637,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 23804,
+      "stars": 24014,
       "user": "karpathy"
     },
     {
@@ -652,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 953,
       "user": "FreedomIntelligence"
     },
     {
@@ -667,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3094557?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 794,
       "user": "livehl"
     },
     {
@@ -682,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "mem9-ai"
     },
     {
@@ -697,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "TrNgTien"
     }
   ],
@@ -952,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 305,
       "user": "holysheep123"
     },
     {
@@ -967,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "Rohit24567"
     },
     {
@@ -982,7 +981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 267,
       "user": "f"
     },
     {
@@ -997,7 +996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "fjb040911"
     },
     {
@@ -1012,7 +1011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167266851?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "gorkem-bwl"
     },
     {
@@ -1027,7 +1026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "TrNgTien"
     }
   ],
@@ -1194,7 +1193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 23804,
+      "stars": 24014,
       "user": "karpathy"
     },
     {
@@ -1209,7 +1208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3289,
+      "stars": 3447,
       "user": "HKUDS"
     },
     {
@@ -1224,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1525,
+      "stars": 1540,
       "user": "jackwener"
     },
     {
@@ -1239,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 953,
       "user": "FreedomIntelligence"
     },
     {
@@ -1254,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3094557?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 794,
       "user": "livehl"
     },
     {
@@ -1269,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "TrNgTien"
     }
   ],
@@ -1361,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3094557?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 794,
       "user": "livehl"
     }
   ],
@@ -1542,7 +1541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "TrNgTien"
     }
   ],
@@ -1917,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 305,
       "user": "holysheep123"
     },
     {
@@ -1932,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "Rohit24567"
     },
     {
@@ -1947,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 267,
       "user": "f"
     },
     {
@@ -1962,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "fjb040911"
     },
     {
@@ -1977,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167266851?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "gorkem-bwl"
     },
     {
@@ -1992,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 23804,
+      "stars": 24014,
       "user": "karpathy"
     },
     {
@@ -2007,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3289,
+      "stars": 3447,
       "user": "HKUDS"
     },
     {
@@ -2022,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1525,
+      "stars": 1540,
       "user": "jackwener"
     },
     {
@@ -2037,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 953,
       "user": "FreedomIntelligence"
     },
     {
@@ -2052,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3094557?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 794,
       "user": "livehl"
     },
     {
@@ -2082,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "mem9-ai"
     },
     {
@@ -2112,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "AlmogBaku"
     },
     {
@@ -2127,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "TrNgTien"
     }
   ]
