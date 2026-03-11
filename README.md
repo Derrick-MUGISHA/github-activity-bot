@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-100-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-11-orange)
 
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (44.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (24.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (19.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (18.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (9.0%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
-**DevOps**: 🟦🟦 5 (5.0%)
+**DevOps**: 🟦🟦 6 (5.7%)
 
-**Database**: 🟦🟦 4 (4.0%)
+**Database**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (4.0%)
+**Security**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 3 (3.0%)
+**Mobile**: 🟦 3 (2.9%)
 
-**Cloud**: 🟦 2 (2.0%)
+**Cloud**: 🟦 2 (1.9%)
 
 
 
@@ -54,29 +54,29 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 10 articles
+- **GitHub**: 15 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.0 (25.0%)
-Python          ████████████████████████████ 23.7 (23.7%)
-Go              ███████████████████████████ 22.4 (22.4%)
-Java            ████████████████████████ 19.7 (19.7%)
-Rust            ███ 2.6 (2.6%)
-CSharp          ███ 2.6 (2.6%)
-Swift           ███ 2.6 (2.6%)
-Kotlin          ██ 1.3 (1.3%)
+JavaScript      ██████████████████████████████ 27.3 (27.3%)
+Java            █████████████████████████ 22.7 (22.7%)
+Go              ████████████████████████ 21.6 (21.6%)
+Python          ███████████████████████ 20.5 (20.5%)
+Rust            ███ 2.3 (2.3%)
+CSharp          ███ 2.3 (2.3%)
+Swift           ███ 2.3 (2.3%)
+Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 19
+    "JavaScript" : 24
+    "Java" : 20
+    "Go" : 19
     "Python" : 18
-    "Go" : 17
-    "Java" : 15
     "Rust" : 2
     "CSharp" : 2
     "Swift" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![github](https://img.shields.io/badge/github-11-blue) ![career](https://img.shields.io/badge/career-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![dei](https://img.shields.io/badge/dei-6-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![career](https://img.shields.io/badge/career-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-11 7:00 CAT)
+## 📅 Latest Updates (2026-03-11 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 
-_Last automated update: Wed, 11 Mar 2026 07:16:56 CAT_
+_Last automated update: Wed, 11 Mar 2026 08:07:38 CAT_
 
 
 
@@ -226,7 +226,29 @@ _Last automated update: Wed, 11 Mar 2026 07:16:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 2. React: Explain the difference between state and props
+
+**Difficulty**: Easy | **Topics**: data flow, components
+
+<details>
+<summary>💡 Hint</summary>
+
+Ownership, mutability, data flow direction
+
+</details>
+
+### 3. Java: Explain the Java memory model
 
 **Difficulty**: Hard | **Topics**: memory, JVM
 
@@ -234,28 +256,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Heap, stack, garbage collection
-
-</details>
-
-### 2. SystemDesign: Design Twitter's timeline feature
-
-**Difficulty**: Hard | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Fan-out, caching, ranking, real-time updates
-
-</details>
-
-### 3. NodeJS: How do you handle errors in async/await?
-
-**Difficulty**: Medium | **Topics**: error handling, async
-
-<details>
-<summary>💡 Hint</summary>
-
-try/catch, .catch(), error middleware
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 05:16:56 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 06:07:38 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
