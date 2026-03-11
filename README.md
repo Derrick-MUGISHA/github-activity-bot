@@ -219,7 +219,7 @@ npm run test
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [I Made Claude Code Think Before It Codes. Here's the Prompt.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf) _[Dev.to]_
 
-_Last automated update: Thu, 12 Mar 2026 00:23:41 CAT_
+_Last automated update: Thu, 12 Mar 2026 00:48:48 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Thu, 12 Mar 2026 00:23:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Execution timing, event loop phases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 22:23:41 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 22:48:48 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
