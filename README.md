@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-100-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-11-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (49.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (24.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (18.0%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
+**WebDev**: 🟦🟦🟦 8 (8.0%)
 
-**DevOps**: 🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦 6 (6.0%)
 
-**Database**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 4 (4.0%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Mobile**: 🟦 3 (3.0%)
 
-**Mobile**: 🟦 3 (2.9%)
+**Cloud**: 🟦 3 (3.0%)
 
-**Cloud**: 🟦 2 (1.9%)
+**Database**: 🟦 3 (3.0%)
 
 
 
@@ -54,40 +54,41 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 15 articles
+- **GitHub**: 10 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.6 (27.6%)
-Java            ████████████████████████ 21.8 (21.8%)
-Go              ████████████████████████ 21.8 (21.8%)
-Python          ██████████████████████ 20.7 (20.7%)
-Rust            ███ 2.3 (2.3%)
-CSharp          ███ 2.3 (2.3%)
-Swift           ███ 2.3 (2.3%)
-Kotlin          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 26.3 (26.3%)
+Go              ██████████████████████████ 22.5 (22.5%)
+Python          ██████████████████████████ 22.5 (22.5%)
+Java            █████████████████████ 18.8 (18.8%)
+Rust            ████ 3.8 (3.8%)
+Swift           ███ 2.5 (2.5%)
+PHP             █ 1.3 (1.3%)
+CSharp          █ 1.3 (1.3%)
+Kotlin          █ 1.3 (1.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Java" : 19
-    "Go" : 19
+    "JavaScript" : 21
+    "Go" : 18
     "Python" : 18
-    "Rust" : 2
-    "CSharp" : 2
+    "Java" : 15
+    "Rust" : 3
     "Swift" : 2
-    "Kotlin" : 1
+    "PHP" : 1
+    "CSharp" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-11-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![career](https://img.shields.io/badge/career-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
 
 
 
@@ -127,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-11 19:00 CAT)
+## 📅 Latest Updates (2026-03-11 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,10 +154,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png" width="200" alt="I Made Claude Code Think Before It Codes. Here's the Prompt." />
+    <a href="https://dev.to/googleai/getting-started-with-gemini-cli-17nm">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg" width="200" alt="Getting Started with Gemini CLI" />
       <br/>
-      <b>I Made Claude Code Think Before It Codes. Here's t...</b>
+      <b>Getting Started with Gemini CLI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -164,28 +165,28 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsai7vinej4my7mk15te5.png" width="200" alt="TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It." />
+    <a href="https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png" width="200" alt="Your AI code reviewer has no one to disagree with" />
       <br/>
-      <b>TLS Certificates Are About to Expire Way More Ofte...</b>
+      <b>Your AI code reviewer has no one to disagree with</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhle8kx2octm0lb4bpmit.png" width="200" alt="Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User" />
+    <a href="https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png" width="200" alt="In the AI Agents Era, Why Waste Time Building a Framework?" />
       <br/>
-      <b>Running a Local Sandboxed macOS Desktop Using VNC ...</b>
+      <b>In the AI Agents Era, Why Waste Time Building a Fr...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft3t0utthjfecqmipan8d.png" width="200" alt="Can you Truly Know that you are in the Right Path?" />
+    <a href="https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0w1ju5h0cenugfzf08wj.png" width="200" alt="Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle" />
       <br/>
-      <b>Can you Truly Know that you are in the Right Path?</b>
+      <b>Building Go Mastery: Socratic Learning, Claude Art...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,26 +200,26 @@ npm run test
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889) _[Dev.to]_
 - [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
-- [I Made Claude Code Think Before It Codes. Here's the Prompt.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf) _[Dev.to]_
-- [TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6) _[Dev.to]_
+- [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
+- [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
+- [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni) _[Dev.to]_
+- [Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle](https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo) _[Dev.to]_
+- [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk) _[Dev.to]_
 - [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
 - [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) _[Dev.to]_
 - [The Enablers Who Helped Me Code Forward](https://dev.to/ujja/the-enablers-who-helped-me-code-forward-cai) _[Dev.to]_
+- [Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations](https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418) _[Dev.to]_
+- [I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code](https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9) _[Dev.to]_
 - [DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness](https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd) _[Dev.to]_
 - [Gemini Embedding 2: Our first natively multimodal embedding model](https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn) _[Dev.to]_
 - [Let Dependabot Merge Its Own PRs](https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
+- [I Made Claude Code Think Before It Codes. Here's the Prompt.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf) _[Dev.to]_
 - [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
-- [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
-- [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
-- [Your Agent Is a Small, Low-Stakes HAL](https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8) _[Dev.to]_
-- [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
-- [Building a Text-to-Speech Engine in Pure C](https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4) _[Dev.to]_
-- [From NEET Aspirant to Writing Code: A Journey I Never Planned](https://dev.to/preeti_yadav/from-neet-aspirant-to-writing-code-a-journey-i-never-planned-l59) _[Dev.to]_
 
-_Last automated update: Wed, 11 Mar 2026 19:09:58 CAT_
+_Last automated update: Wed, 11 Mar 2026 20:02:36 CAT_
 
 
 
@@ -226,36 +227,36 @@ _Last automated update: Wed, 11 Mar 2026 19:09:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 17:09:58 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 18:02:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
