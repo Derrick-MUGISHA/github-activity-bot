@@ -61,21 +61,6 @@
       "user": "GrahamTheDev"
     },
     {
-      "title": "Your Agent Is a Small, Low-Stakes HAL",
-      "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
-      "published_at": "2026-03-10T05:08:29Z",
-      "description": "I work with multi-agent systems that review code, plan architecture, find faults, and critique...",
-      "tags": [
-        "ai",
-        "programming",
-        "llm",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc0o2r3x4hkwm7tt7b9l8.png",
-      "source": "Dev.to",
-      "user": "Roman Dubinin "
-    },
-    {
       "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
       "url": "https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn",
       "published_at": "2026-03-10T21:01:28Z",
@@ -118,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
       "source": "Dev.to",
       "user": "Ahmet Zeybek"
+    },
+    {
+      "title": "Your Agent Is a Small, Low-Stakes HAL",
+      "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
+      "published_at": "2026-03-10T05:08:29Z",
+      "description": "I work with multi-agent systems that review code, plan architecture, find faults, and critique...",
+      "tags": [
+        "ai",
+        "programming",
+        "llm",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc0o2r3x4hkwm7tt7b9l8.png",
+      "source": "Dev.to",
+      "user": "Roman Dubinin "
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -591,7 +591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "Rohit24567"
     },
     {
@@ -621,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 172,
       "user": "fjb040911"
     },
     {
@@ -636,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25047,
+      "stars": 25207,
       "user": "karpathy"
     },
     {
@@ -651,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 986,
       "user": "FreedomIntelligence"
     },
     {
@@ -696,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "TrNgTien"
     }
   ],
@@ -966,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "Rohit24567"
     },
     {
@@ -996,7 +996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 172,
       "user": "fjb040911"
     },
     {
@@ -1011,7 +1011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99989709?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "LukeRenton"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "TrNgTien"
     }
   ],
@@ -1193,7 +1193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25047,
+      "stars": 25207,
       "user": "karpathy"
     },
     {
@@ -1208,7 +1208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4184,
+      "stars": 4337,
       "user": "HKUDS"
     },
     {
@@ -1223,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1587,
+      "stars": 1597,
       "user": "jackwener"
     },
     {
@@ -1238,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 986,
       "user": "FreedomIntelligence"
     },
     {
@@ -1268,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "TrNgTien"
     }
   ],
@@ -1494,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 494,
       "user": "steipete"
     }
   ],
@@ -1541,7 +1541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "TrNgTien"
     }
   ],
@@ -1573,7 +1573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1632,7 +1632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 494,
       "user": "steipete"
     }
   ],
@@ -1931,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "Rohit24567"
     },
     {
@@ -1961,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 172,
       "user": "fjb040911"
     },
     {
@@ -1976,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99989709?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "LukeRenton"
     },
     {
@@ -1991,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 25047,
+      "stars": 25207,
       "user": "karpathy"
     },
     {
@@ -2006,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4184,
+      "stars": 4337,
       "user": "HKUDS"
     },
     {
@@ -2021,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1587,
+      "stars": 1597,
       "user": "jackwener"
     },
     {
@@ -2036,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 986,
       "user": "FreedomIntelligence"
     },
     {
@@ -2066,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 494,
       "user": "steipete"
     },
     {
@@ -2096,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2111,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "AlmogBaku"
     },
     {
@@ -2126,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "TrNgTien"
     }
   ]
