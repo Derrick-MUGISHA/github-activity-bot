@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-100-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-11-orange)
 
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (45.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (24.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (18.0%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
+**WebDev**: 🟦🟦🟦🟦 9 (9.0%)
 
-**DevOps**: 🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦🟦 6 (6.0%)
 
-**Database**: 🟦🟦 4 (3.8%)
+**Database**: 🟦🟦 4 (4.0%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 4 (4.0%)
 
-**Mobile**: 🟦 3 (2.9%)
+**Mobile**: 🟦 3 (3.0%)
 
-**Cloud**: 🟦 2 (1.9%)
+**Cloud**: 🟦 2 (2.0%)
 
 
 
@@ -54,29 +54,29 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 15 articles
+- **GitHub**: 10 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.3 (27.3%)
-Java            █████████████████████████ 22.7 (22.7%)
-Go              ████████████████████████ 21.6 (21.6%)
-Python          ███████████████████████ 20.5 (20.5%)
-Rust            ███ 2.3 (2.3%)
-CSharp          ███ 2.3 (2.3%)
-Swift           ███ 2.3 (2.3%)
-Kotlin          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 24.7 (24.7%)
+Go              ████████████████████████████ 23.4 (23.4%)
+Python          ████████████████████████████ 23.4 (23.4%)
+Java            ████████████████████████ 19.5 (19.5%)
+Rust            ███ 2.6 (2.6%)
+CSharp          ███ 2.6 (2.6%)
+Swift           ███ 2.6 (2.6%)
+Kotlin          ██ 1.3 (1.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Java" : 20
-    "Go" : 19
+    "JavaScript" : 19
+    "Go" : 18
     "Python" : 18
+    "Java" : 15
     "Rust" : 2
     "CSharp" : 2
     "Swift" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![go](https://img.shields.io/badge/go-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![github](https://img.shields.io/badge/github-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![go](https://img.shields.io/badge/go-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![dei](https://img.shields.io/badge/dei-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-11 16:00 CAT)
+## 📅 Latest Updates (2026-03-11 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,8 +205,8 @@ npm run test
 - [TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6) _[Dev.to]_
 - [Gemini Embedding 2: Our first natively multimodal embedding model](https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn) _[Dev.to]_
 - [Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk) _[Dev.to]_
-- [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) _[Dev.to]_
 - [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
+- [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) _[Dev.to]_
 - [The Enablers Who Helped Me Code Forward](https://dev.to/ujja/the-enablers-who-helped-me-code-forward-cai) _[Dev.to]_
 - [Let Dependabot Merge Its Own PRs](https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [Building a Text-to-Speech Engine in Pure C](https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4) _[Dev.to]_
 
-_Last automated update: Wed, 11 Mar 2026 16:04:00 CAT_
+_Last automated update: Wed, 11 Mar 2026 17:03:42 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 11 Mar 2026 16:04:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 14:04:00 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 15:03:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
