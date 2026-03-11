@@ -16,21 +16,6 @@
       "user": "v.j.k. "
     },
     {
-      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
-      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
-      "published_at": "2026-03-10T13:09:37Z",
-      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
-      "tags": [
-        "ai",
-        "agents",
-        "webdev",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
-      "source": "Dev.to",
-      "user": "Jason Agostoni"
-    },
-    {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
       "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
       "published_at": "2026-03-10T13:00:34Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
       "source": "Dev.to",
       "user": "Dumebi Okolo"
+    },
+    {
+      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
+      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
+      "published_at": "2026-03-10T13:09:37Z",
+      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
+      "tags": [
+        "ai",
+        "agents",
+        "webdev",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
+      "source": "Dev.to",
+      "user": "Jason Agostoni"
     },
     {
       "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
@@ -592,23 +592,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "f"
     },
     {
-      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
-      "url": "https://github.com/comeonzhj/AutoContents",
-      "published_at": "2026-03-04T11:20:58Z",
-      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
+      "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
+      "published_at": "2026-03-09T23:42:30Z",
+      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 250,
-      "user": "comeonzhj"
+      "stars": 248,
+      "user": "Rohit24567"
+    },
+    {
+      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+      "url": "https://github.com/fjb040911/ai-rules",
+      "published_at": "2026-03-06T08:07:15Z",
+      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "fjb040911"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -622,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22577,
+      "stars": 22924,
       "user": "karpathy"
     },
     {
@@ -637,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 927,
       "user": "FreedomIntelligence"
     },
     {
@@ -652,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 179,
       "user": "mem9-ai"
     }
   ],
@@ -896,21 +911,6 @@
       "user": "velmu"
     },
     {
-      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
-      "url": "https://github.com/gradenGnostic/LegacyLauncher",
-      "published_at": "2026-03-04T17:44:07Z",
-      "description": "A custom launcher for Minecraft LCE.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
-      "source": "GitHub",
-      "stars": 309,
-      "user": "gradenGnostic"
-    },
-    {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "url": "https://github.com/holysheep123/holysheep-cli",
       "published_at": "2026-03-07T21:32:55Z",
@@ -926,21 +926,6 @@
       "user": "holysheep123"
     },
     {
-      "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
-      "url": "https://github.com/datawhalechina/hello-claw",
-      "published_at": "2026-03-04T03:04:38Z",
-      "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
-      "source": "GitHub",
-      "stars": 266,
-      "user": "datawhalechina"
-    },
-    {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
       "url": "https://github.com/f/agentlytics",
       "published_at": "2026-03-07T01:39:41Z",
@@ -952,23 +937,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "f"
     },
     {
-      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
-      "url": "https://github.com/comeonzhj/AutoContents",
-      "published_at": "2026-03-04T11:20:58Z",
-      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
+      "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
+      "published_at": "2026-03-09T23:42:30Z",
+      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 250,
-      "user": "comeonzhj"
+      "stars": 248,
+      "user": "Rohit24567"
+    },
+    {
+      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+      "url": "https://github.com/fjb040911/ai-rules",
+      "published_at": "2026-03-06T08:07:15Z",
+      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "fjb040911"
+    },
+    {
+      "title": "LukeRenton/explore-claude-code - Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
+      "url": "https://github.com/LukeRenton/explore-claude-code",
+      "published_at": "2026-03-05T14:37:50Z",
+      "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99989709?v=4",
+      "source": "GitHub",
+      "stars": 145,
+      "user": "LukeRenton"
     }
   ],
   "Python": [
@@ -1134,7 +1149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22577,
+      "stars": 22924,
       "user": "karpathy"
     },
     {
@@ -1149,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2436,
+      "stars": 2668,
       "user": "HKUDS"
     },
     {
@@ -1164,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1455,
       "user": "jackwener"
     },
     {
@@ -1179,23 +1194,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 927,
       "user": "FreedomIntelligence"
     },
     {
-      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "url": "https://github.com/Flowseal/tg-ws-proxy",
-      "published_at": "2026-03-04T14:10:26Z",
-      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "title": "imbue-bit/OpenClaw-PwnKit - Get shell to almost any OpenClaw host machine.",
+      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
+      "published_at": "2026-03-08T01:03:02Z",
+      "description": "Get shell to almost any OpenClaw host machine.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "source": "GitHub",
-      "stars": 785,
-      "user": "Flowseal"
+      "stars": 678,
+      "user": "imbue-bit"
     }
   ],
   "DevOps": [
@@ -1405,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 486,
       "user": "steipete"
     }
   ],
@@ -1469,7 +1484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1528,7 +1543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 486,
       "user": "steipete"
     }
   ],
@@ -1801,21 +1816,6 @@
       "user": "Osman"
     },
     {
-      "title": "gradenGnostic/LegacyLauncher - A custom launcher for Minecraft LCE.",
-      "url": "https://github.com/gradenGnostic/LegacyLauncher",
-      "published_at": "2026-03-04T17:44:07Z",
-      "description": "A custom launcher for Minecraft LCE.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/254755644?v=4",
-      "source": "GitHub",
-      "stars": 309,
-      "user": "gradenGnostic"
-    },
-    {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
       "url": "https://github.com/holysheep123/holysheep-cli",
       "published_at": "2026-03-07T21:32:55Z",
@@ -1831,21 +1831,6 @@
       "user": "holysheep123"
     },
     {
-      "title": "datawhalechina/hello-claw - 哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
-      "url": "https://github.com/datawhalechina/hello-claw",
-      "published_at": "2026-03-04T03:04:38Z",
-      "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46047812?v=4",
-      "source": "GitHub",
-      "stars": 266,
-      "user": "datawhalechina"
-    },
-    {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
       "url": "https://github.com/f/agentlytics",
       "published_at": "2026-03-07T01:39:41Z",
@@ -1857,23 +1842,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "f"
     },
     {
-      "title": "comeonzhj/AutoContents - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
-      "url": "https://github.com/comeonzhj/AutoContents",
-      "published_at": "2026-03-04T11:20:58Z",
-      "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具",
+      "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
+      "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
+      "published_at": "2026-03-09T23:42:30Z",
+      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23088731?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 250,
-      "user": "comeonzhj"
+      "stars": 248,
+      "user": "Rohit24567"
+    },
+    {
+      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+      "url": "https://github.com/fjb040911/ai-rules",
+      "published_at": "2026-03-06T08:07:15Z",
+      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "fjb040911"
+    },
+    {
+      "title": "LukeRenton/explore-claude-code - Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
+      "url": "https://github.com/LukeRenton/explore-claude-code",
+      "published_at": "2026-03-05T14:37:50Z",
+      "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99989709?v=4",
+      "source": "GitHub",
+      "stars": 145,
+      "user": "LukeRenton"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -1887,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 22577,
+      "stars": 22924,
       "user": "karpathy"
     },
     {
@@ -1902,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2436,
+      "stars": 2668,
       "user": "HKUDS"
     },
     {
@@ -1917,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1455,
       "user": "jackwener"
     },
     {
@@ -1932,23 +1947,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 927,
       "user": "FreedomIntelligence"
     },
     {
-      "title": "Flowseal/tg-ws-proxy - Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "url": "https://github.com/Flowseal/tg-ws-proxy",
-      "published_at": "2026-03-04T14:10:26Z",
-      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "title": "imbue-bit/OpenClaw-PwnKit - Get shell to almost any OpenClaw host machine.",
+      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
+      "published_at": "2026-03-08T01:03:02Z",
+      "description": "Get shell to almost any OpenClaw host machine.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50780822?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "source": "GitHub",
-      "stars": 785,
-      "user": "Flowseal"
+      "stars": 678,
+      "user": "imbue-bit"
     },
     {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
@@ -1962,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 486,
       "user": "steipete"
     },
     {
@@ -1977,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -1992,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 179,
       "user": "mem9-ai"
     },
     {
@@ -2022,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50599367?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "Ooooze"
     }
   ]
