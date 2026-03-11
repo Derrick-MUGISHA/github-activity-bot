@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-11-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-12 0:00 CAT)
+## 📅 Latest Updates (2026-03-12 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -206,20 +206,20 @@ npm run test
 - [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
-- [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [The Enablers Who Helped Me Code Forward](https://dev.to/ujja/the-enablers-who-helped-me-code-forward-cai) _[Dev.to]_
 - [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
-- [Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk) _[Dev.to]_
 - [Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations](https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418) _[Dev.to]_
 - [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
 - [I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code](https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9) _[Dev.to]_
 - [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) _[Dev.to]_
+- [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness](https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd) _[Dev.to]_
 - [Gemini Embedding 2: Our first natively multimodal embedding model](https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [I Made Claude Code Think Before It Codes. Here's the Prompt.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf) _[Dev.to]_
+- [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol) _[Dev.to]_
 
-_Last automated update: Thu, 12 Mar 2026 00:48:48 CAT_
+_Last automated update: Thu, 12 Mar 2026 01:22:07 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Thu, 12 Mar 2026 00:48:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Heap, stack, garbage collection
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 22:48:48 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 23:22:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

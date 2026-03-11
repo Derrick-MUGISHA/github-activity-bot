@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 50,
+    "AI": 49,
     "JavaScript": 26,
     "Python": 18,
     "DevOps": 5,
@@ -21,8 +21,8 @@
     "Go": 18,
     "JavaScript": 26,
     "Java": 21,
-    "PHP": 1,
     "Rust": 3,
+    "PHP": 1,
     "Python": 18,
     "CSharp": 2,
     "Swift": 2,
@@ -31,7 +31,7 @@
   "by_date": {
     "2026-03-10": 11,
     "2026-03-11": 8,
-    "2026-03-09": 11,
+    "2026-03-09": 10,
     "2026-03-06": 8,
     "2026-03-07": 8,
     "2026-03-05": 5,
@@ -74,7 +74,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 23,
+    "ai": 22,
     "github": 16,
     "open-source": 15,
     "webdev": 14,
@@ -91,17 +91,17 @@
     "discuss": 6,
     "showdev": 6,
     "dei": 6,
-    "opensource": 6,
     "python": 6,
-    "typescript": 5
+    "typescript": 5,
+    "opensource": 5
   },
   "trending_topics": [],
   "language_percentages": {
     "Go": "19.6",
     "JavaScript": "28.3",
     "Java": "22.8",
-    "PHP": "1.1",
     "Rust": "3.3",
+    "PHP": "1.1",
     "Python": "19.6",
     "CSharp": "2.2",
     "Swift": "2.2",

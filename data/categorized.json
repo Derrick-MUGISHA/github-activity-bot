@@ -225,21 +225,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "Building a Text-to-Speech Engine in Pure C",
-      "url": "https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4",
-      "published_at": "2026-03-09T14:49:04Z",
-      "description": "Building a minimal Text-to-Speech engine in pure C using Qwen3-TTS without ML frameworks.",
-      "tags": [
-        "c",
-        "ai",
-        "tts",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8vpv35ge7n4xjcsglc7.png",
-      "source": "Dev.to",
-      "user": "Gabriele Mastrapasqua"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -497,6 +482,18 @@
       "user": "scottshambaugh"
     },
     {
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "published_at": "2026-03-11T19:29:29Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "usefulposter"
+    },
+    {
       "title": "Gemini AI",
       "url": "https://deepmind.google/technologies/gemini/",
       "published_at": "2023-12-06T15:03:47Z",
@@ -519,18 +516,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "Qem"
-    },
-    {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "published_at": "2026-03-11T19:29:29Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "usefulposter"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -592,7 +577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 315,
       "user": "Rohit24567"
     },
     {
@@ -622,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 296,
       "user": "f"
     },
     {
@@ -637,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "fjb040911"
     },
     {
@@ -652,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26009,
+      "stars": 26064,
       "user": "karpathy"
     },
     {
@@ -712,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "TrNgTien"
     }
   ],
@@ -997,7 +982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 315,
       "user": "Rohit24567"
     },
     {
@@ -1027,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 296,
       "user": "f"
     },
     {
@@ -1042,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "fjb040911"
     },
     {
@@ -1057,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99989709?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "LukeRenton"
     },
     {
@@ -1072,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "TrNgTien"
     }
   ],
@@ -1239,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26009,
+      "stars": 26064,
       "user": "karpathy"
     },
     {
@@ -1254,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5137,
+      "stars": 5159,
       "user": "HKUDS"
     },
     {
@@ -1314,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "TrNgTien"
     }
   ],
@@ -1572,7 +1557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "TrNgTien"
     }
   ],
@@ -1669,20 +1654,6 @@
   ],
   "Security": [
     {
-      "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
-      "url": "https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk",
-      "published_at": "2026-03-09T23:47:06Z",
-      "description": "Sometimes you want to run commands that you don’t fully trust or that intentionally bypass...",
-      "tags": [
-        "abotwrotethis",
-        "sandbox",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhle8kx2octm0lb4bpmit.png",
-      "source": "Dev.to",
-      "user": "JLarky"
-    },
-    {
       "title": "TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.",
       "url": "https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6",
       "published_at": "2026-03-10T14:58:49Z",
@@ -1696,6 +1667,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsai7vinej4my7mk15te5.png",
       "source": "Dev.to",
       "user": "Luke"
+    },
+    {
+      "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
+      "url": "https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk",
+      "published_at": "2026-03-09T23:47:06Z",
+      "description": "Sometimes you want to run commands that you don’t fully trust or that intentionally bypass...",
+      "tags": [
+        "abotwrotethis",
+        "sandbox",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhle8kx2octm0lb4bpmit.png",
+      "source": "Dev.to",
+      "user": "JLarky"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -1962,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 315,
       "user": "Rohit24567"
     },
     {
@@ -1992,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 296,
       "user": "f"
     },
     {
@@ -2007,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "fjb040911"
     },
     {
@@ -2022,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99989709?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "LukeRenton"
     },
     {
@@ -2037,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26009,
+      "stars": 26064,
       "user": "karpathy"
     },
     {
@@ -2052,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5137,
+      "stars": 5159,
       "user": "HKUDS"
     },
     {
@@ -2172,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "TrNgTien"
     }
   ]
