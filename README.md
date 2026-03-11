@@ -60,13 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.0 (27.0%)
-Java            █████████████████████████ 22.5 (22.5%)
-Go              █████████████████████████ 22.5 (22.5%)
-Python          ██████████████████████ 20.2 (20.2%)
-Rust            ██ 2.2 (2.2%)
-CSharp          ██ 2.2 (2.2%)
-Swift           ██ 2.2 (2.2%)
+JavaScript      ██████████████████████████████ 27.3 (27.3%)
+Java            █████████████████████████ 22.7 (22.7%)
+Go              ████████████████████████ 21.6 (21.6%)
+Python          ███████████████████████ 20.5 (20.5%)
+Rust            ███ 2.3 (2.3%)
+CSharp          ███ 2.3 (2.3%)
+Swift           ███ 2.3 (2.3%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
@@ -75,7 +75,7 @@ Kotlin          █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 24
     "Java" : 20
-    "Go" : 20
+    "Go" : 19
     "Python" : 18
     "Rust" : 2
     "CSharp" : 2
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-11 12:00 CAT)
+## 📅 Latest Updates (2026-03-11 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [Building a Text-to-Speech Engine in Pure C](https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4) _[Dev.to]_
 
-_Last automated update: Wed, 11 Mar 2026 12:07:15 CAT_
+_Last automated update: Wed, 11 Mar 2026 13:00:21 CAT_
 
 
 
@@ -226,18 +226,7 @@ _Last automated update: Wed, 11 Mar 2026 12:07:15 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
-
-**Difficulty**: Medium | **Topics**: hooks, async
-
-<details>
-<summary>💡 Hint</summary>
-
-useState, useEffect, loading states, error handling
-
-</details>
-
-### 2. SystemDesign: How would you design a rate limiter?
+### 1. SystemDesign: How would you design a rate limiter?
 
 **Difficulty**: Medium | **Topics**: system design, algorithms
 
@@ -248,14 +237,25 @@ Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Sliding window, hash map, two pointers
+
+</details>
+
+### 3. DataStructures: Implement a function to reverse a linked list
+
+**Difficulty**: Medium | **Topics**: linked lists, pointers
+
+<details>
+<summary>💡 Hint</summary>
+
+Iterative or recursive, three pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 10:07:15 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 11:00:21 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
