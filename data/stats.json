@@ -18,9 +18,9 @@
     "Tools": 29
   },
   "by_language": {
+    "Go": 18,
     "JavaScript": 26,
     "Java": 20,
-    "Go": 18,
     "PHP": 1,
     "Rust": 3,
     "Python": 18,
@@ -92,15 +92,15 @@
     "opensource": 6,
     "wecoded": 6,
     "python": 6,
-    "showdev": 5,
     "typescript": 5,
-    "dei": 5
+    "dei": 5,
+    "showdev": 5
   },
   "trending_topics": [],
   "language_percentages": {
+    "Go": "19.8",
     "JavaScript": "28.6",
     "Java": "22.0",
-    "Go": "19.8",
     "PHP": "1.1",
     "Rust": "3.3",
     "Python": "19.8",
