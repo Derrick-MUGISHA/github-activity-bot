@@ -218,7 +218,7 @@ npm run test
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [Building a Text-to-Speech Engine in Pure C](https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4) _[Dev.to]_
 
-_Last automated update: Wed, 11 Mar 2026 13:00:21 CAT_
+_Last automated update: Wed, 11 Mar 2026 13:47:17 CAT_
 
 
 
@@ -226,25 +226,25 @@ _Last automated update: Wed, 11 Mar 2026 13:00:21 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 11:00:21 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 11:47:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
