@@ -566,66 +566,6 @@
       "user": "veesahni"
     },
     {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
-      "source": "GitHub",
-      "stars": 306,
-      "user": "holysheep123"
-    },
-    {
-      "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-      "published_at": "2026-03-09T23:42:30Z",
-      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
-      "source": "GitHub",
-      "stars": 258,
-      "user": "Rohit24567"
-    },
-    {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 257,
-      "user": "f"
-    },
-    {
-      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "url": "https://github.com/fjb040911/ai-rules",
-      "published_at": "2026-03-06T08:07:15Z",
-      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
-      "source": "GitHub",
-      "stars": 153,
-      "user": "fjb040911"
-    },
-    {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published_at": "2026-03-06T22:00:43Z",
@@ -637,7 +577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 23410,
+      "stars": 23624,
       "user": "karpathy"
     },
     {
@@ -652,7 +592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 944,
       "user": "FreedomIntelligence"
     },
     {
@@ -667,8 +607,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 191,
       "user": "mem9-ai"
+    },
+    {
+      "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
+      "url": "https://github.com/TrNgTien/vfs",
+      "published_at": "2026-03-05T04:17:19Z",
+      "description": "Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
+      "source": "GitHub",
+      "stars": 90,
+      "user": "TrNgTien"
     }
   ],
   "JavaScript": [
@@ -911,79 +866,19 @@
       "user": "velmu"
     },
     {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+      "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
+      "url": "https://github.com/TrNgTien/vfs",
+      "published_at": "2026-03-05T04:17:19Z",
+      "description": "Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
       "tags": [
-        "javascript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 306,
-      "user": "holysheep123"
-    },
-    {
-      "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-      "published_at": "2026-03-09T23:42:30Z",
-      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
-      "source": "GitHub",
-      "stars": 258,
-      "user": "Rohit24567"
-    },
-    {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 257,
-      "user": "f"
-    },
-    {
-      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "url": "https://github.com/fjb040911/ai-rules",
-      "published_at": "2026-03-06T08:07:15Z",
-      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
-      "source": "GitHub",
-      "stars": 153,
-      "user": "fjb040911"
-    },
-    {
-      "title": "gorkem-bwl/animated-icons - GitHub Repository",
-      "url": "https://github.com/gorkem-bwl/animated-icons",
-      "published_at": "2026-03-08T19:47:27Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167266851?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "gorkem-bwl"
+      "stars": 90,
+      "user": "TrNgTien"
     }
   ],
   "Python": [
@@ -1149,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 23410,
+      "stars": 23624,
       "user": "karpathy"
     },
     {
@@ -1164,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3044,
+      "stars": 3179,
       "user": "HKUDS"
     },
     {
@@ -1179,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1518,
       "user": "jackwener"
     },
     {
@@ -1194,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 944,
       "user": "FreedomIntelligence"
     },
     {
@@ -1209,8 +1104,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 685,
       "user": "imbue-bit"
+    },
+    {
+      "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
+      "url": "https://github.com/TrNgTien/vfs",
+      "published_at": "2026-03-05T04:17:19Z",
+      "description": "Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
+      "source": "GitHub",
+      "stars": 90,
+      "user": "TrNgTien"
     }
   ],
   "DevOps": [
@@ -1454,6 +1364,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjd9ryf2pkhvgfcz0ivc6.png",
       "source": "Dev.to",
       "user": "Osman"
+    },
+    {
+      "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
+      "url": "https://github.com/TrNgTien/vfs",
+      "published_at": "2026-03-05T04:17:19Z",
+      "description": "Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
+      "source": "GitHub",
+      "stars": 90,
+      "user": "TrNgTien"
     }
   ],
   "Cloud": [
@@ -1816,81 +1741,6 @@
       "user": "Osman"
     },
     {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
-      "source": "GitHub",
-      "stars": 306,
-      "user": "holysheep123"
-    },
-    {
-      "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-      "published_at": "2026-03-09T23:42:30Z",
-      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
-      "source": "GitHub",
-      "stars": 258,
-      "user": "Rohit24567"
-    },
-    {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 257,
-      "user": "f"
-    },
-    {
-      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "url": "https://github.com/fjb040911/ai-rules",
-      "published_at": "2026-03-06T08:07:15Z",
-      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
-      "source": "GitHub",
-      "stars": 153,
-      "user": "fjb040911"
-    },
-    {
-      "title": "gorkem-bwl/animated-icons - GitHub Repository",
-      "url": "https://github.com/gorkem-bwl/animated-icons",
-      "published_at": "2026-03-08T19:47:27Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167266851?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "gorkem-bwl"
-    },
-    {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published_at": "2026-03-06T22:00:43Z",
@@ -1902,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 23410,
+      "stars": 23624,
       "user": "karpathy"
     },
     {
@@ -1917,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3044,
+      "stars": 3179,
       "user": "HKUDS"
     },
     {
@@ -1932,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1518,
       "user": "jackwener"
     },
     {
@@ -1947,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 944,
       "user": "FreedomIntelligence"
     },
     {
@@ -1962,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 685,
       "user": "imbue-bit"
     },
     {
@@ -1992,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 191,
       "user": "mem9-ai"
     },
     {
@@ -2026,19 +1876,19 @@
       "user": "AlmogBaku"
     },
     {
-      "title": "Ooooze/batctl - ⚡ Battery charge threshold manager for Linux laptops",
-      "url": "https://github.com/Ooooze/batctl",
-      "published_at": "2026-03-07T09:00:12Z",
-      "description": "⚡ Battery charge threshold manager for Linux laptops",
+      "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
+      "url": "https://github.com/TrNgTien/vfs",
+      "published_at": "2026-03-05T04:17:19Z",
+      "description": "Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50599367?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
       "source": "GitHub",
-      "stars": 88,
-      "user": "Ooooze"
+      "stars": 90,
+      "user": "TrNgTien"
     }
   ]
 }

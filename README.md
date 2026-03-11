@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-100-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-11-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (44.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (24.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (18.0%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
+**WebDev**: 🟦🟦🟦🟦 9 (9.0%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦 5 (5.0%)
 
-**Database**: 🟦🟦 4 (3.8%)
+**Database**: 🟦🟦 4 (4.0%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 4 (4.0%)
 
-**Mobile**: 🟦 2 (1.9%)
+**Mobile**: 🟦 3 (3.0%)
 
-**Cloud**: 🟦 2 (1.9%)
+**Cloud**: 🟦 2 (2.0%)
 
 
 
@@ -54,38 +54,40 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 15 articles
+- **GitHub**: 10 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.4 (28.4%)
-Go              █████████████████████████ 23.5 (23.5%)
-Java            █████████████████████████ 23.5 (23.5%)
-Python          ██████████████████████ 21.0 (21.0%)
-Rust            █ 1.2 (1.2%)
-CSharp          █ 1.2 (1.2%)
-Swift           █ 1.2 (1.2%)
+JavaScript      ██████████████████████████████ 25.0 (25.0%)
+Python          ████████████████████████████ 23.7 (23.7%)
+Go              ███████████████████████████ 22.4 (22.4%)
+Java            ████████████████████████ 19.7 (19.7%)
+Rust            ███ 2.6 (2.6%)
+CSharp          ███ 2.6 (2.6%)
+Swift           ███ 2.6 (2.6%)
+Kotlin          ██ 1.3 (1.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
-    "Go" : 19
-    "Java" : 19
-    "Python" : 17
-    "Rust" : 1
-    "CSharp" : 1
-    "Swift" : 1
+    "JavaScript" : 19
+    "Python" : 18
+    "Go" : 17
+    "Java" : 15
+    "Rust" : 2
+    "CSharp" : 2
+    "Swift" : 2
+    "Kotlin" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![career](https://img.shields.io/badge/career-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![github](https://img.shields.io/badge/github-11-blue) ![career](https://img.shields.io/badge/career-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![dei](https://img.shields.io/badge/dei-6-blue) 
 
 
 
@@ -125,22 +127,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-11 6:00 CAT)
+## 📅 Latest Updates (2026-03-11 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq3k2ep72j7d9zho9rkj1.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png" width="200" alt="I Made Claude Code Think Before It Codes. Here's the Prompt." />
@@ -159,17 +152,17 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsai7vinej4my7mk15te5.png" width="200" alt="TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It." />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq3k2ep72j7d9zho9rkj1.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>TLS Certificates Are About to Expire Way More Ofte...</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp" width="200" alt="DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness" />
@@ -188,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png" width="200" alt="3 words worth a billion dollars: Drift to Determinism (DriDe)" />
+      <br/>
+      <b>3 words worth a billion dollars: Drift to Determin...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -195,13 +197,13 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889) _[Dev.to]_
 - [I Made Claude Code Think Before It Codes. Here's the Prompt.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf) _[Dev.to]_
 - [The Enablers Who Helped Me Code Forward](https://dev.to/ujja/the-enablers-who-helped-me-code-forward-cai) _[Dev.to]_
-- [TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889) _[Dev.to]_
 - [DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness](https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd) _[Dev.to]_
 - [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
 - [3 words worth a billion dollars: Drift to Determinism (DriDe)](https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej) _[Dev.to]_
+- [TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6) _[Dev.to]_
 - [Your Agent Is a Small, Low-Stakes HAL](https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8) _[Dev.to]_
 - [Gemini Embedding 2: Our first natively multimodal embedding model](https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn) _[Dev.to]_
 - [Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk) _[Dev.to]_
@@ -216,7 +218,7 @@ npm run test
 - [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 
-_Last automated update: Wed, 11 Mar 2026 06:07:04 CAT_
+_Last automated update: Wed, 11 Mar 2026 07:16:56 CAT_
 
 
 
@@ -224,36 +226,36 @@ _Last automated update: Wed, 11 Mar 2026 06:07:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Heap, stack, garbage collection
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -287,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 04:07:04 GMT</b><br/>
+  <b>Last automated update: Wed, 11 Mar 2026 05:16:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
