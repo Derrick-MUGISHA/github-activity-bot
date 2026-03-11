@@ -446,6 +446,18 @@
       "user": "todsacerdoti"
     },
     {
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "published_at": "2026-03-11T19:29:29Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "usefulposter"
+    },
+    {
       "title": "Open source AI is the path forward",
       "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
       "published_at": "2024-07-23T15:08:41Z",
@@ -480,18 +492,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "scottshambaugh"
-    },
-    {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "published_at": "2026-03-11T19:29:29Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "usefulposter"
     },
     {
       "title": "Gemini AI",
@@ -577,7 +577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 318,
       "user": "Rohit24567"
     },
     {
@@ -622,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "fjb040911"
     },
     {
@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26064,
+      "stars": 26105,
       "user": "karpathy"
     },
     {
@@ -682,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "mem9-ai"
     },
     {
@@ -982,7 +982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 318,
       "user": "Rohit24567"
     },
     {
@@ -1027,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "fjb040911"
     },
     {
@@ -1224,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26064,
+      "stars": 26105,
       "user": "karpathy"
     },
     {
@@ -1239,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5159,
+      "stars": 5186,
       "user": "HKUDS"
     },
     {
@@ -1510,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 495,
       "user": "steipete"
     }
   ],
@@ -1648,7 +1648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 495,
       "user": "steipete"
     }
   ],
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 318,
       "user": "Rohit24567"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "fjb040911"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26064,
+      "stars": 26105,
       "user": "karpathy"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5159,
+      "stars": 5186,
       "user": "HKUDS"
     },
     {
@@ -2097,8 +2097,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 495,
       "user": "steipete"
+    },
+    {
+      "title": "mem9-ai/mem9 - GitHub Repository",
+      "url": "https://github.com/mem9-ai/mem9",
+      "published_at": "2026-03-08T05:52:21Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
+      "source": "GitHub",
+      "stars": 213,
+      "user": "mem9-ai"
     },
     {
       "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
@@ -2114,21 +2129,6 @@
       "source": "GitHub",
       "stars": 212,
       "user": "MuhammadHananAsghar"
-    },
-    {
-      "title": "mem9-ai/mem9 - GitHub Repository",
-      "url": "https://github.com/mem9-ai/mem9",
-      "published_at": "2026-03-08T05:52:21Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
-      "source": "GitHub",
-      "stars": 212,
-      "user": "mem9-ai"
     },
     {
       "title": "AlmogBaku/debug-skill - GitHub Repository",
