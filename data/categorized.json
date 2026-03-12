@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
+      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
+      "published_at": "2026-03-12T10:51:33Z",
+      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "typescript",
+        "webgpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "I Built a Secure Planning Agent with MCP and Keycard",
       "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
       "published_at": "2026-03-11T19:19:14Z",
@@ -73,21 +88,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
       "source": "Dev.to",
       "user": "Greg Baugues"
-    },
-    {
-      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
-      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
-      "published_at": "2026-03-11T14:44:40Z",
-      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
-      "tags": [
-        "typescript",
-        "javascript",
-        "node",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
-      "source": "Dev.to",
-      "user": "Slee Woo"
     },
     {
       "title": "Clojure Inheritance… Sort Of",
@@ -192,6 +192,21 @@
       "user": "Jason Agostoni"
     },
     {
+      "title": "Why Asking an LLM for JSON Isn’t Enough",
+      "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
+      "published_at": "2026-03-11T05:30:00Z",
+      "description": "When I first learned prompting, I assumed something simple.  If I needed structured data from an LLM,...",
+      "tags": [
+        "webdev",
+        "ai",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvd5n9si4cexnmcaw1hqw.png",
+      "source": "Dev.to",
+      "user": "Vaishali"
+    },
+    {
       "title": "Ship Less, Measure More",
       "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
       "published_at": "2026-03-06T22:07:43Z",
@@ -234,6 +249,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
       "source": "Dev.to",
       "user": "Ahmet Zeybek"
+    },
+    {
+      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
+      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
+      "published_at": "2026-03-11T14:44:40Z",
+      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
+      "tags": [
+        "typescript",
+        "javascript",
+        "node",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
+      "source": "Dev.to",
+      "user": "Slee Woo"
     },
     {
       "title": "Your Agent Is a Small, Low-Stakes HAL",
@@ -418,7 +448,7 @@
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
       "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
       "published_at": "2026-02-25T17:41:43Z",
-      "description": "Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...",
+      "description": "Update: Winner announcement delayed to March 19. More info here.     Last week, we announced that DEV...",
       "tags": [
         "devchallenge",
         "geminireflections",
@@ -473,21 +503,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanjkeuocmqgo7j3hk56b.png",
       "source": "Dev.to",
       "user": "Egor Fedorov"
-    },
-    {
-      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
-      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
-      "published_at": "2026-03-09T15:02:27Z",
-      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
-      "tags": [
-        "programming",
-        "haskell",
-        "ai",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
-      "source": "Dev.to",
-      "user": "Kevin 心学"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -633,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "Rohit24567"
     },
     {
@@ -678,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "fjb040911"
     },
     {
@@ -693,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28030,
+      "stars": 28098,
       "user": "karpathy"
     },
     {
@@ -729,6 +744,21 @@
   ],
   "JavaScript": [
     {
+      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
+      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
+      "published_at": "2026-03-12T10:51:33Z",
+      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "typescript",
+        "webgpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
       "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
       "published_at": "2026-03-11T17:30:00Z",
@@ -756,21 +786,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
       "source": "Dev.to",
       "user": "Theodor Diaconu"
-    },
-    {
-      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
-      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
-      "published_at": "2026-03-11T14:44:40Z",
-      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
-      "tags": [
-        "typescript",
-        "javascript",
-        "node",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
-      "source": "Dev.to",
-      "user": "Slee Woo"
     },
     {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
@@ -801,6 +816,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
       "source": "Dev.to",
       "user": "yabbal"
+    },
+    {
+      "title": "Why Asking an LLM for JSON Isn’t Enough",
+      "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
+      "published_at": "2026-03-11T05:30:00Z",
+      "description": "When I first learned prompting, I assumed something simple.  If I needed structured data from an LLM,...",
+      "tags": [
+        "webdev",
+        "ai",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvd5n9si4cexnmcaw1hqw.png",
+      "source": "Dev.to",
+      "user": "Vaishali"
+    },
+    {
+      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
+      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
+      "published_at": "2026-03-11T14:44:40Z",
+      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
+      "tags": [
+        "typescript",
+        "javascript",
+        "node",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
+      "source": "Dev.to",
+      "user": "Slee Woo"
     },
     {
       "title": "i built a social platform where everything vanishes after 24 hours",
@@ -845,21 +890,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
-    },
-    {
-      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
-      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
-      "published_at": "2026-03-09T15:02:27Z",
-      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
-      "tags": [
-        "programming",
-        "haskell",
-        "ai",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
-      "source": "Dev.to",
-      "user": "Kevin 心学"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -993,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "Rohit24567"
     },
     {
@@ -1038,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "fjb040911"
     },
     {
@@ -1053,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 208,
       "user": "khanhduytran0"
     }
   ],
@@ -1234,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28030,
+      "stars": 28098,
       "user": "karpathy"
     },
     {
@@ -1249,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8163,
+      "stars": 8267,
       "user": "HKUDS"
     },
     {
@@ -1279,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 778,
       "user": "jackwener"
     },
     {
@@ -1294,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 676,
       "user": "knowsuchagency"
     }
   ],
@@ -1492,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 208,
       "user": "khanhduytran0"
     }
   ],
@@ -1524,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1867,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "Rohit24567"
     },
     {
@@ -1912,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "fjb040911"
     },
     {
@@ -1927,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 208,
       "user": "khanhduytran0"
     },
     {
@@ -1942,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28030,
+      "stars": 28098,
       "user": "karpathy"
     },
     {
@@ -1957,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8163,
+      "stars": 8267,
       "user": "HKUDS"
     },
     {
@@ -1987,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 778,
       "user": "jackwener"
     },
     {
@@ -2002,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 676,
       "user": "knowsuchagency"
     },
     {
@@ -2047,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "MuhammadHananAsghar"
     },
     {
