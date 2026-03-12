@@ -281,6 +281,21 @@
       "user": "Roman Dubinin "
     },
     {
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
+      "tags": [
+        "observability",
+        "webdev",
+        "monitoring",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
+      "source": "Dev.to",
+      "user": "Sovereign Revenue Guard"
+    },
+    {
       "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
       "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
       "published_at": "2026-03-10T23:13:04Z",
@@ -311,21 +326,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
-      "url": "https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn",
-      "published_at": "2026-03-10T21:01:28Z",
-      "description": "Today we're releasing Gemini Embedding 2, our first fully multimodal embedding model built on the...",
-      "tags": [
-        "ai",
-        "embedding",
-        "google",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnr8zdnz0yotyydk110vm.webp",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
       "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
       "published_at": "2026-03-07T10:44:43Z",
@@ -339,6 +339,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
       "source": "Dev.to",
       "user": "GrahamTheDev"
+    },
+    {
+      "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
+      "url": "https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn",
+      "published_at": "2026-03-10T21:01:28Z",
+      "description": "Today we're releasing Gemini Embedding 2, our first fully multimodal embedding model built on the...",
+      "tags": [
+        "ai",
+        "embedding",
+        "google",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnr8zdnz0yotyydk110vm.webp",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
     },
     {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
@@ -398,21 +413,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8vpv35ge7n4xjcsglc7.png",
       "source": "Dev.to",
       "user": "Gabriele Mastrapasqua"
-    },
-    {
-      "title": "Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?",
-      "url": "https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62",
-      "published_at": "2026-03-08T20:33:41Z",
-      "description": "Table of Contents    Introduction  From Prompt to Binary Code   Is It Even Feasible? Is It...",
-      "tags": [
-        "discuss",
-        "ai",
-        "compilers",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flev4m2p4pf4ve1fn3c7e.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -488,6 +488,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanjkeuocmqgo7j3hk56b.png",
       "source": "Dev.to",
       "user": "Egor Fedorov"
+    },
+    {
+      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
+      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
+      "published_at": "2026-03-09T15:02:27Z",
+      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
+      "tags": [
+        "programming",
+        "haskell",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
+      "source": "Dev.to",
+      "user": "Kevin 心学"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -633,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "Rohit24567"
     },
     {
@@ -678,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "fjb040911"
     },
     {
@@ -693,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28621,
+      "stars": 28658,
       "user": "karpathy"
     },
     {
@@ -738,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "epiral"
     }
   ],
@@ -892,6 +907,21 @@
       "user": "wintercounter"
     },
     {
+      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
+      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
+      "published_at": "2026-03-09T15:02:27Z",
+      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
+      "tags": [
+        "programming",
+        "haskell",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
+      "source": "Dev.to",
+      "user": "Kevin 心学"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1023,7 +1053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "Rohit24567"
     },
     {
@@ -1068,7 +1098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "fjb040911"
     },
     {
@@ -1264,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28621,
+      "stars": 28658,
       "user": "karpathy"
     },
     {
@@ -1279,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8668,
+      "stars": 8699,
       "user": "HKUDS"
     },
     {
@@ -1324,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "knowsuchagency"
     }
   ],
@@ -1345,19 +1375,19 @@
       "user": "Luke"
     },
     {
-      "title": "Let Dependabot Merge Its Own PRs",
-      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
-      "published_at": "2026-03-08T18:16:29Z",
-      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
       "tags": [
-        "github",
-        "cicd",
-        "githubactions",
+        "observability",
+        "webdev",
+        "monitoring",
         "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
-      "user": "Nick Taylor"
+      "user": "Sovereign Revenue Guard"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -1405,6 +1435,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
+      "tags": [
+        "observability",
+        "webdev",
+        "monitoring",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
+      "source": "Dev.to",
+      "user": "Sovereign Revenue Guard"
     },
     {
       "title": "Recently Played: bringing back my Last.fm component",
@@ -1737,21 +1782,6 @@
       "user": "Richard Oliver Bray"
     },
     {
-      "title": "Let Dependabot Merge Its Own PRs",
-      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
-      "published_at": "2026-03-08T18:16:29Z",
-      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
-      "tags": [
-        "github",
-        "cicd",
-        "githubactions",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
-      "source": "Dev.to",
-      "user": "Nick Taylor"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -1867,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "Rohit24567"
     },
     {
@@ -1912,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "fjb040911"
     },
     {
@@ -1942,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28621,
+      "stars": 28658,
       "user": "karpathy"
     },
     {
@@ -1957,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8668,
+      "stars": 8699,
       "user": "HKUDS"
     },
     {
@@ -2002,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "knowsuchagency"
     },
     {
@@ -2062,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "AlmogBaku"
     },
     {
@@ -2077,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "epiral"
     }
   ]
