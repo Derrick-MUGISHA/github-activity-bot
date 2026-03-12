@@ -31,21 +31,6 @@
       "user": "Greg Baugues"
     },
     {
-      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
-      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
-      "published_at": "2026-03-11T14:44:40Z",
-      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
-      "tags": [
-        "typescript",
-        "javascript",
-        "node",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
-      "source": "Dev.to",
-      "user": "Slee Woo"
-    },
-    {
       "title": "When AI Writes the Code… Who Takes Responsibility?",
       "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
       "published_at": "2026-03-10T22:39:46Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
       "source": "Dev.to",
       "user": "Subhrangsu Bera"
+    },
+    {
+      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
+      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
+      "published_at": "2026-03-11T14:44:40Z",
+      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
+      "tags": [
+        "typescript",
+        "javascript",
+        "node",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
+      "source": "Dev.to",
+      "user": "Slee Woo"
     },
     {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
@@ -607,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 345,
       "user": "Rohit24567"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 212,
       "user": "fjb040911"
     },
     {
@@ -667,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 27247,
+      "stars": 27325,
       "user": "karpathy"
     },
     {
@@ -682,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1047,
       "user": "FreedomIntelligence"
     },
     {
@@ -982,7 +982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 345,
       "user": "Rohit24567"
     },
     {
@@ -1027,23 +1027,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 212,
       "user": "fjb040911"
     },
     {
-      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
-      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
-      "published_at": "2026-03-10T19:05:31Z",
-      "description": "Trending GitHub Repository",
+      "title": "khanhduytran0/coruna - The leaked exploit toolkit for various iOS versions",
+      "url": "https://github.com/khanhduytran0/coruna",
+      "published_at": "2026-03-07T06:06:02Z",
+      "description": "The leaked exploit toolkit for various iOS versions",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 170,
-      "user": "michelleoincx"
+      "stars": 176,
+      "user": "khanhduytran0"
     }
   ],
   "Python": [
@@ -1198,21 +1198,6 @@
       "user": "gilad"
     },
     {
-      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
-      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
-      "published_at": "2026-03-10T19:05:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
-      "source": "GitHub",
-      "stars": 170,
-      "user": "michelleoincx"
-    },
-    {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published_at": "2026-03-06T22:00:43Z",
@@ -1224,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 27247,
+      "stars": 27325,
       "user": "karpathy"
     },
     {
@@ -1239,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6831,
+      "stars": 6910,
       "user": "HKUDS"
     },
     {
@@ -1254,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1047,
       "user": "FreedomIntelligence"
     },
     {
@@ -1269,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 732,
       "user": "jackwener"
     },
     {
@@ -1529,6 +1514,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjd9ryf2pkhvgfcz0ivc6.png",
       "source": "Dev.to",
       "user": "Osman"
+    },
+    {
+      "title": "khanhduytran0/coruna - The leaked exploit toolkit for various iOS versions",
+      "url": "https://github.com/khanhduytran0/coruna",
+      "published_at": "2026-03-07T06:06:02Z",
+      "description": "The leaked exploit toolkit for various iOS versions",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
+      "source": "GitHub",
+      "stars": 176,
+      "user": "khanhduytran0"
     }
   ],
   "Cloud": [
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 345,
       "user": "Rohit24567"
     },
     {
@@ -1962,23 +1962,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 212,
       "user": "fjb040911"
     },
     {
-      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
-      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
-      "published_at": "2026-03-10T19:05:31Z",
-      "description": "Trending GitHub Repository",
+      "title": "khanhduytran0/coruna - The leaked exploit toolkit for various iOS versions",
+      "url": "https://github.com/khanhduytran0/coruna",
+      "published_at": "2026-03-07T06:06:02Z",
+      "description": "The leaked exploit toolkit for various iOS versions",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 170,
-      "user": "michelleoincx"
+      "stars": 176,
+      "user": "khanhduytran0"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 27247,
+      "stars": 27325,
       "user": "karpathy"
     },
     {
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6831,
+      "stars": 6910,
       "user": "HKUDS"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1047,
       "user": "FreedomIntelligence"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 732,
       "user": "jackwener"
     },
     {
@@ -2127,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55754275?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "Sadoaz"
     }
   ]
