@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "When AI Writes the Code… Who Takes Responsibility?",
-      "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
-      "published_at": "2026-03-10T22:39:46Z",
-      "description": "Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...",
-      "tags": [
-        "ai",
-        "programming",
-        "agents",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
-      "source": "Dev.to",
-      "user": "Subhrangsu Bera"
-    },
-    {
       "title": "I Built a Secure Planning Agent with MCP and Keycard",
       "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
       "published_at": "2026-03-11T19:19:14Z",
@@ -46,6 +31,21 @@
       "user": "Greg Baugues"
     },
     {
+      "title": "Your AI code reviewer has no one to disagree with",
+      "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
+      "published_at": "2026-03-11T14:48:03Z",
+      "description": "Why single-pass AI code review is fundamentally broken and what happens when you make AI reviewers argue with each other first.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codereview",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png",
+      "source": "Dev.to",
+      "user": "Spencer Marx"
+    },
+    {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
       "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
       "published_at": "2026-03-11T14:44:40Z",
@@ -61,19 +61,19 @@
       "user": "Slee Woo"
     },
     {
-      "title": "Your AI code reviewer has no one to disagree with",
-      "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
-      "published_at": "2026-03-11T14:48:03Z",
-      "description": "Why single-pass AI code review is fundamentally broken and what happens when you make AI reviewers argue with each other first.",
+      "title": "When AI Writes the Code… Who Takes Responsibility?",
+      "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
+      "published_at": "2026-03-10T22:39:46Z",
+      "description": "Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...",
       "tags": [
-        "opensource",
         "ai",
-        "codereview",
-        "claudecode"
+        "programming",
+        "agents",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
       "source": "Dev.to",
-      "user": "Spencer Marx"
+      "user": "Subhrangsu Bera"
     },
     {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
@@ -299,6 +299,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Building a Text-to-Speech Engine in Pure C",
+      "url": "https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4",
+      "published_at": "2026-03-09T14:49:04Z",
+      "description": "Building a minimal Text-to-Speech engine in pure C using Qwen3-TTS without ML frameworks.",
+      "tags": [
+        "c",
+        "ai",
+        "tts",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8vpv35ge7n4xjcsglc7.png",
+      "source": "Dev.to",
+      "user": "Gabriele Mastrapasqua"
+    },
+    {
       "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
       "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
       "published_at": "2026-03-04T20:19:27Z",
@@ -314,21 +329,6 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
       "title": "Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?",
       "url": "https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62",
       "published_at": "2026-03-08T20:33:41Z",
@@ -342,6 +342,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flev4m2p4pf4ve1fn3c7e.jpg",
       "source": "Dev.to",
       "user": "Giorgi Kobaidze"
+    },
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
     },
     {
       "title": "Get started with GitHub Copilot SDK",
@@ -434,7 +449,7 @@
       "user": "HybridTechie"
     },
     {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
       "description": "HackerNews Discussion",
@@ -577,7 +592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 326,
       "user": "Rohit24567"
     },
     {
@@ -607,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "f"
     },
     {
@@ -622,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 205,
       "user": "fjb040911"
     },
     {
@@ -637,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26306,
+      "stars": 26578,
       "user": "karpathy"
     },
     {
@@ -652,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1013,
       "user": "FreedomIntelligence"
     },
     {
@@ -667,26 +682,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 218,
       "user": "mem9-ai"
     }
   ],
   "JavaScript": [
-    {
-      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
-      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
-      "published_at": "2026-03-11T14:44:40Z",
-      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
-      "tags": [
-        "typescript",
-        "javascript",
-        "node",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
-      "source": "Dev.to",
-      "user": "Slee Woo"
-    },
     {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
       "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
@@ -701,6 +701,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
+    },
+    {
+      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
+      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
+      "published_at": "2026-03-11T14:44:40Z",
+      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
+      "tags": [
+        "typescript",
+        "javascript",
+        "node",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
+      "source": "Dev.to",
+      "user": "Slee Woo"
     },
     {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
@@ -731,20 +746,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
       "source": "Dev.to",
       "user": "yabbal"
-    },
-    {
-      "title": "Native TypeScript with Node",
-      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
-      "published_at": "2026-03-09T07:40:18Z",
-      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
-      "tags": [
-        "typescript",
-        "node",
-        "esm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png",
-      "source": "Dev.to",
-      "user": "Timo Schinkel"
     },
     {
       "title": "i built a social platform where everything vanishes after 24 hours",
@@ -819,6 +820,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
       "source": "Dev.to",
       "user": "Ishan Bagchi"
+    },
+    {
+      "title": "Native TypeScript with Node",
+      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
+      "published_at": "2026-03-09T07:40:18Z",
+      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
+      "tags": [
+        "typescript",
+        "node",
+        "esm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png",
+      "source": "Dev.to",
+      "user": "Timo Schinkel"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -952,7 +967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 326,
       "user": "Rohit24567"
     },
     {
@@ -982,7 +997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "f"
     },
     {
@@ -997,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 205,
       "user": "fjb040911"
     },
     {
@@ -1179,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26306,
+      "stars": 26578,
       "user": "karpathy"
     },
     {
@@ -1194,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5483,
+      "stars": 5959,
       "user": "HKUDS"
     },
     {
@@ -1209,23 +1224,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1013,
       "user": "FreedomIntelligence"
-    },
-    {
-      "title": "imbue-bit/OpenClaw-PwnKit - Get shell to almost any OpenClaw host machine.",
-      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
-      "published_at": "2026-03-08T01:03:02Z",
-      "description": "Get shell to almost any OpenClaw host machine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
-      "source": "GitHub",
-      "stars": 695,
-      "user": "imbue-bit"
     },
     {
       "title": "jackwener/xiaohongshu-cli - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
@@ -1239,8 +1239,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 696,
       "user": "jackwener"
+    },
+    {
+      "title": "imbue-bit/OpenClaw-PwnKit - Get shell to almost any OpenClaw host machine.",
+      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
+      "published_at": "2026-03-08T01:03:02Z",
+      "description": "Get shell to almost any OpenClaw host machine.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
+      "source": "GitHub",
+      "stars": 664,
+      "user": "imbue-bit"
     }
   ],
   "DevOps": [
@@ -1499,7 +1514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1857,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 326,
       "user": "Rohit24567"
     },
     {
@@ -1887,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "f"
     },
     {
@@ -1902,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 205,
       "user": "fjb040911"
     },
     {
@@ -1932,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26306,
+      "stars": 26578,
       "user": "karpathy"
     },
     {
@@ -1947,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5483,
+      "stars": 5959,
       "user": "HKUDS"
     },
     {
@@ -1962,23 +1977,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1013,
       "user": "FreedomIntelligence"
-    },
-    {
-      "title": "imbue-bit/OpenClaw-PwnKit - Get shell to almost any OpenClaw host machine.",
-      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
-      "published_at": "2026-03-08T01:03:02Z",
-      "description": "Get shell to almost any OpenClaw host machine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
-      "source": "GitHub",
-      "stars": 695,
-      "user": "imbue-bit"
     },
     {
       "title": "jackwener/xiaohongshu-cli - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
@@ -1992,8 +1992,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 696,
       "user": "jackwener"
+    },
+    {
+      "title": "imbue-bit/OpenClaw-PwnKit - Get shell to almost any OpenClaw host machine.",
+      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
+      "published_at": "2026-03-08T01:03:02Z",
+      "description": "Get shell to almost any OpenClaw host machine.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
+      "source": "GitHub",
+      "stars": 664,
+      "user": "imbue-bit"
     },
     {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
@@ -2022,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 218,
       "user": "mem9-ai"
     },
     {
@@ -2037,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2052,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 141,
       "user": "AlmogBaku"
     },
     {
@@ -2067,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55754275?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "Sadoaz"
     }
   ]
