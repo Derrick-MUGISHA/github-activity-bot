@@ -16,21 +16,6 @@
       "user": "Kim Maida"
     },
     {
-      "title": "Getting Started with Gemini CLI",
-      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
-      "published_at": "2026-03-11T17:45:44Z",
-      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "When AI Writes the Code… Who Takes Responsibility?",
       "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
       "published_at": "2026-03-10T22:39:46Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
       "source": "Dev.to",
       "user": "Subhrangsu Bera"
+    },
+    {
+      "title": "Getting Started with Gemini CLI",
+      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
+      "published_at": "2026-03-11T17:45:44Z",
+      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
+      "tags": [
+        "gemini",
+        "cli",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
     },
     {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
@@ -61,21 +61,6 @@
       "user": "Slee Woo"
     },
     {
-      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
-      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
-      "published_at": "2026-03-10T13:00:34Z",
-      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "showdev",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
-      "source": "Dev.to",
-      "user": "Dumebi Okolo"
-    },
-    {
       "title": "Your AI code reviewer has no one to disagree with",
       "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
       "published_at": "2026-03-11T14:48:03Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png",
       "source": "Dev.to",
       "user": "Spencer Marx"
+    },
+    {
+      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
+      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
+      "published_at": "2026-03-10T13:00:34Z",
+      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "showdev",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
+      "source": "Dev.to",
+      "user": "Dumebi Okolo"
     },
     {
       "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
@@ -607,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 354,
       "user": "Rohit24567"
     },
     {
@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "f"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 215,
       "user": "fjb040911"
     },
     {
@@ -667,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 27325,
+      "stars": 27415,
       "user": "karpathy"
     },
     {
@@ -682,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1050,
       "user": "FreedomIntelligence"
     },
     {
@@ -697,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "mem9-ai"
     }
   ],
@@ -982,7 +982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 354,
       "user": "Rohit24567"
     },
     {
@@ -1012,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "f"
     },
     {
@@ -1027,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 215,
       "user": "fjb040911"
     },
     {
@@ -1042,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 180,
       "user": "khanhduytran0"
     }
   ],
@@ -1209,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 27325,
+      "stars": 27415,
       "user": "karpathy"
     },
     {
@@ -1224,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6910,
+      "stars": 7013,
       "user": "HKUDS"
     },
     {
@@ -1239,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1050,
       "user": "FreedomIntelligence"
     },
     {
@@ -1254,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 735,
       "user": "jackwener"
     },
     {
@@ -1269,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 668,
       "user": "imbue-bit"
     }
   ],
@@ -1480,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 497,
       "user": "steipete"
     }
   ],
@@ -1527,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 180,
       "user": "khanhduytran0"
     }
   ],
@@ -1618,7 +1618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 497,
       "user": "steipete"
     }
   ],
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 354,
       "user": "Rohit24567"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "f"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 215,
       "user": "fjb040911"
     },
     {
@@ -1977,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 180,
       "user": "khanhduytran0"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 27325,
+      "stars": 27415,
       "user": "karpathy"
     },
     {
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6910,
+      "stars": 7013,
       "user": "HKUDS"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1050,
       "user": "FreedomIntelligence"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 735,
       "user": "jackwener"
     },
     {
@@ -2052,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 668,
       "user": "imbue-bit"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 497,
       "user": "steipete"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "mem9-ai"
     },
     {
