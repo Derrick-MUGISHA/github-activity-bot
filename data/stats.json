@@ -1,12 +1,12 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 47,
+    "AI": 48,
     "JavaScript": 25,
     "Python": 17,
     "DevOps": 4,
@@ -30,7 +30,7 @@
   "by_date": {
     "2026-03-10": 11,
     "2026-03-11": 8,
-    "2026-03-09": 10,
+    "2026-03-09": 11,
     "2026-03-06": 9,
     "2026-03-07": 8,
     "2026-03-05": 1,
@@ -73,7 +73,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 22,
+    "ai": 23,
     "github": 16,
     "open-source": 15,
     "webdev": 14,
@@ -81,18 +81,18 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "javascript": 9,
     "devchallenge": 9,
-    "programming": 8,
+    "javascript": 9,
     "productivity": 8,
+    "programming": 8,
     "wecoded": 7,
     "go": 7,
     "discuss": 6,
     "showdev": 6,
     "dei": 6,
+    "opensource": 6,
     "python": 6,
-    "typescript": 5,
-    "opensource": 5
+    "typescript": 5
   },
   "trending_topics": [],
   "language_percentages": {
