@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-12 22:00 CAT)
+## 📅 Latest Updates (2026-03-12 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness](https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd) _[Dev.to]_
 - [Why Asking an LLM for JSON Isn’t Enough](https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a) _[Dev.to]_
 
-_Last automated update: Thu, 12 Mar 2026 22:30:44 CAT_
+_Last automated update: Thu, 12 Mar 2026 23:04:51 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 12 Mar 2026 22:30:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Mutability, performance, use cases
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Mar 2026 20:30:44 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Mar 2026 21:04:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
