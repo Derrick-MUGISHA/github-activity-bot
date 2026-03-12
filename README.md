@@ -2,8 +2,8 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-9-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-11-orange)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-12-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (45.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.3%)
 
 **WebDev**: 🟦🟦🟦🟦 9 (8.7%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
 **Database**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 3 (2.9%)
+**Mobile**: 🟦 2 (1.9%)
 
 **Cloud**: 🟦 2 (1.9%)
 
@@ -60,35 +60,34 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.3 (28.3%)
-Java            ████████████████████████ 22.8 (22.8%)
-Go              █████████████████████ 19.6 (19.6%)
-Python          █████████████████████ 19.6 (19.6%)
-Rust            ███ 3.3 (3.3%)
-CSharp          ██ 2.2 (2.2%)
-Swift           ██ 2.2 (2.2%)
-PHP             █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 29.1 (29.1%)
+Java            ████████████████████████ 23.3 (23.3%)
+Go              ███████████████████████ 22.1 (22.1%)
+Python          ████████████████████ 19.8 (19.8%)
+Rust            ██ 2.3 (2.3%)
+PHP             █ 1.2 (1.2%)
+CSharp          █ 1.2 (1.2%)
+Swift           █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 26
-    "Java" : 21
-    "Go" : 18
-    "Python" : 18
-    "Rust" : 3
-    "CSharp" : 2
-    "Swift" : 2
+    "JavaScript" : 25
+    "Java" : 20
+    "Go" : 19
+    "Python" : 17
+    "Rust" : 2
     "PHP" : 1
+    "CSharp" : 1
+    "Swift" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![career](https://img.shields.io/badge/career-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) 
 
 
 
@@ -128,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-12 1:00 CAT)
+## 📅 Latest Updates (2026-03-12 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -174,19 +173,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfwmml7t3mm0ff6vu2e5.png" width="200" alt="What Quitting My Job Taught Me About Tech" />
+    <a href="https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png" width="200" alt="In the AI Agents Era, Why Waste Time Building a Framework?" />
       <br/>
-      <b>What Quitting My Job Taught Me About Tech</b>
+      <b>In the AI Agents Era, Why Waste Time Building a Fr...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png" width="200" alt="In the AI Agents Era, Why Waste Time Building a Framework?" />
+    <a href="https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png" width="200" alt="The Diplomatic Core: Shared Logic in a Multi-Framework World" />
       <br/>
-      <b>In the AI Agents Era, Why Waste Time Building a Fr...</b>
+      <b>The Diplomatic Core: Shared Logic in a Multi-Frame...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,13 +201,12 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889) _[Dev.to]_
 - [I Built a Secure Planning Agent with MCP and Keycard](https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a) _[Dev.to]_
 - [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
-- [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
 - [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
+- [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
 - [The Enablers Who Helped Me Code Forward](https://dev.to/ujja/the-enablers-who-helped-me-code-forward-cai) _[Dev.to]_
 - [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
-- [Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations](https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418) _[Dev.to]_
 - [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
 - [I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code](https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9) _[Dev.to]_
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
@@ -218,8 +216,9 @@ npm run test
 - [I Made Claude Code Think Before It Codes. Here's the Prompt.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf) _[Dev.to]_
 - [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
+- [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
 
-_Last automated update: Thu, 12 Mar 2026 01:48:29 CAT_
+_Last automated update: Thu, 12 Mar 2026 03:47:51 CAT_
 
 
 
@@ -227,36 +226,36 @@ _Last automated update: Thu, 12 Mar 2026 01:48:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -290,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 11 Mar 2026 23:48:29 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Mar 2026 01:47:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
