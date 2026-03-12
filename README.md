@@ -216,7 +216,7 @@ npm run test
 - [DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness](https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd) _[Dev.to]_
 - [Why Asking an LLM for JSON Isn’t Enough](https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a) _[Dev.to]_
 
-_Last automated update: Thu, 12 Mar 2026 23:04:51 CAT_
+_Last automated update: Thu, 12 Mar 2026 23:47:40 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 12 Mar 2026 23:04:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Mar 2026 21:04:51 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Mar 2026 21:47:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
