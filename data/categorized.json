@@ -281,21 +281,6 @@
       "user": "Roman Dubinin "
     },
     {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
-    },
-    {
       "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
       "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
       "published_at": "2026-03-10T23:13:04Z",
@@ -648,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "Rohit24567"
     },
     {
@@ -663,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "f"
     },
     {
@@ -693,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "fjb040911"
     },
     {
@@ -708,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28257,
+      "stars": 28315,
       "user": "karpathy"
     },
     {
@@ -753,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "epiral"
     }
   ],
@@ -1038,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "Rohit24567"
     },
     {
@@ -1053,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "f"
     },
     {
@@ -1083,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "fjb040911"
     },
     {
@@ -1098,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 216,
       "user": "khanhduytran0"
     }
   ],
@@ -1279,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28257,
+      "stars": 28315,
       "user": "karpathy"
     },
     {
@@ -1294,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8427,
+      "stars": 8465,
       "user": "HKUDS"
     },
     {
@@ -1360,21 +1345,6 @@
       "user": "Luke"
     },
     {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
-    },
-    {
       "title": "Let Dependabot Merge Its Own PRs",
       "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
       "published_at": "2026-03-08T18:16:29Z",
@@ -1435,21 +1405,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
     },
     {
       "title": "Recently Played: bringing back my Last.fm component",
@@ -1537,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 216,
       "user": "khanhduytran0"
     }
   ],
@@ -1912,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "Rohit24567"
     },
     {
@@ -1927,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "f"
     },
     {
@@ -1957,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "fjb040911"
     },
     {
@@ -1972,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 216,
       "user": "khanhduytran0"
     },
     {
@@ -1987,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28257,
+      "stars": 28315,
       "user": "karpathy"
     },
     {
@@ -2002,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8427,
+      "stars": 8465,
       "user": "HKUDS"
     },
     {
@@ -2122,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "epiral"
     }
   ]
