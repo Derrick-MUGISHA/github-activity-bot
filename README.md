@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-12 10:00 CAT)
+## 📅 Latest Updates (2026-03-12 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 - [Your Agent Is a Small, Low-Stakes HAL](https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8) _[Dev.to]_
 
-_Last automated update: Thu, 12 Mar 2026 10:41:26 CAT_
+_Last automated update: Thu, 12 Mar 2026 11:27:58 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 12 Mar 2026 10:41:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Mar 2026 08:41:26 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Mar 2026 09:27:58 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
