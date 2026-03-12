@@ -44,7 +44,7 @@
 
 **Security**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 2 (1.9%)
+**Mobile**: 🟦 3 (2.9%)
 
 **Cloud**: 🟦 2 (1.9%)
 
@@ -62,12 +62,12 @@
 ```
 JavaScript      ██████████████████████████████ 29.1 (29.1%)
 Java            ████████████████████████ 23.3 (23.3%)
-Go              ███████████████████████ 22.1 (22.1%)
+Go              ██████████████████████ 20.9 (20.9%)
 Python          ████████████████████ 19.8 (19.8%)
 Rust            ██ 2.3 (2.3%)
+Swift           ██ 2.3 (2.3%)
 PHP             █ 1.2 (1.2%)
 CSharp          █ 1.2 (1.2%)
-Swift           █ 1.2 (1.2%)
 
 ```
 
@@ -75,12 +75,12 @@ Swift           █ 1.2 (1.2%)
 pie title Programming Languages Distribution
     "JavaScript" : 25
     "Java" : 20
-    "Go" : 19
+    "Go" : 18
     "Python" : 17
     "Rust" : 2
+    "Swift" : 2
     "PHP" : 1
     "CSharp" : 1
-    "Swift" : 1
 ```
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-12 6:00 CAT)
+## 📅 Latest Updates (2026-03-12 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -204,10 +204,8 @@ npm run test
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
 - [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni) _[Dev.to]_
-- [The Enablers Who Helped Me Code Forward](https://dev.to/ujja/the-enablers-who-helped-me-code-forward-cai) _[Dev.to]_
 - [When AI Writes the Code… Who Takes Responsibility?](https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc) _[Dev.to]_
 - [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
-- [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
 - [I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code](https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9) _[Dev.to]_
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness](https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd) _[Dev.to]_
@@ -217,8 +215,10 @@ npm run test
 - [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
+- [TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6) _[Dev.to]_
+- [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 
-_Last automated update: Thu, 12 Mar 2026 06:11:19 CAT_
+_Last automated update: Thu, 12 Mar 2026 07:20:50 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 12 Mar 2026 06:11:19 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Execution timing, event loop phases
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Mar 2026 04:11:19 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Mar 2026 05:20:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
