@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-13 0:00 CAT)
+## 📅 Latest Updates (2026-03-13 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Why Asking an LLM for JSON Isn’t Enough](https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 00:51:59 CAT_
+_Last automated update: Fri, 13 Mar 2026 01:24:36 CAT_
 
 
 
@@ -224,18 +224,29 @@ _Last automated update: Fri, 13 Mar 2026 00:51:59 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. DataStructures: Implement LRU Cache
+
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
+
+<details>
+<summary>💡 Hint</summary>
+
+Doubly linked list + hash map, O(1) operations
+
+</details>
+
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
 **Difficulty**: Medium | **Topics**: system design, scalability
 
@@ -243,17 +254,6 @@ Request/response cycle, next(), chain of functions
 <summary>💡 Hint</summary>
 
 Hash function, database design, caching, analytics
-
-</details>
-
-### 3. SystemDesign: How would you design a rate limiter?
-
-**Difficulty**: Medium | **Topics**: system design, algorithms
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 12 Mar 2026 22:51:59 GMT</b><br/>
+  <b>Last automated update: Thu, 12 Mar 2026 23:24:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
