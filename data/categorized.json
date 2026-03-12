@@ -31,21 +31,6 @@
       "user": "Greg Baugues"
     },
     {
-      "title": "Your AI code reviewer has no one to disagree with",
-      "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
-      "published_at": "2026-03-11T14:48:03Z",
-      "description": "Why single-pass AI code review is fundamentally broken and what happens when you make AI reviewers argue with each other first.",
-      "tags": [
-        "opensource",
-        "ai",
-        "codereview",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png",
-      "source": "Dev.to",
-      "user": "Spencer Marx"
-    },
-    {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
       "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
       "published_at": "2026-03-11T14:44:40Z",
@@ -91,6 +76,21 @@
       "user": "Dumebi Okolo"
     },
     {
+      "title": "Your AI code reviewer has no one to disagree with",
+      "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
+      "published_at": "2026-03-11T14:48:03Z",
+      "description": "Why single-pass AI code review is fundamentally broken and what happens when you make AI reviewers argue with each other first.",
+      "tags": [
+        "opensource",
+        "ai",
+        "codereview",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png",
+      "source": "Dev.to",
+      "user": "Spencer Marx"
+    },
+    {
       "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
       "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
       "published_at": "2026-03-10T19:56:15Z",
@@ -119,21 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
       "source": "Dev.to",
       "user": "Jason Agostoni"
-    },
-    {
-      "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
-      "url": "https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn",
-      "published_at": "2026-03-10T21:01:28Z",
-      "description": "Today we're releasing Gemini Embedding 2, our first fully multimodal embedding model built on the...",
-      "tags": [
-        "ai",
-        "embedding",
-        "google",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnr8zdnz0yotyydk110vm.webp",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
     },
     {
       "title": "Ship Less, Measure More",
@@ -238,6 +223,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
+      "url": "https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn",
+      "published_at": "2026-03-10T21:01:28Z",
+      "description": "Today we're releasing Gemini Embedding 2, our first fully multimodal embedding model built on the...",
+      "tags": [
+        "ai",
+        "embedding",
+        "google",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnr8zdnz0yotyydk110vm.webp",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
     },
     {
       "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
@@ -592,7 +592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 329,
       "user": "Rohit24567"
     },
     {
@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "fjb040911"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26710,
+      "stars": 26831,
       "user": "karpathy"
     },
     {
@@ -667,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1019,
       "user": "FreedomIntelligence"
     },
     {
@@ -967,7 +967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 329,
       "user": "Rohit24567"
     },
     {
@@ -1012,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "fjb040911"
     },
     {
@@ -1027,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "khanhduytran0"
     }
   ],
@@ -1194,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26710,
+      "stars": 26831,
       "user": "karpathy"
     },
     {
@@ -1209,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6138,
+      "stars": 6291,
       "user": "HKUDS"
     },
     {
@@ -1224,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1019,
       "user": "FreedomIntelligence"
     },
     {
@@ -1239,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 706,
       "user": "jackwener"
     },
     {
@@ -1497,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "khanhduytran0"
     }
   ],
@@ -1529,7 +1529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 215,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 329,
       "user": "Rohit24567"
     },
     {
@@ -1932,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "fjb040911"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "khanhduytran0"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26710,
+      "stars": 26831,
       "user": "karpathy"
     },
     {
@@ -1977,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6138,
+      "stars": 6291,
       "user": "HKUDS"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1019,
       "user": "FreedomIntelligence"
     },
     {
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 706,
       "user": "jackwener"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 215,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "AlmogBaku"
     },
     {
