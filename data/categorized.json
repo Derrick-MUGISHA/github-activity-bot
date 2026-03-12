@@ -31,6 +31,35 @@
       "user": "Subhrangsu Bera"
     },
     {
+      "title": "experience report: coding a framework with AI",
+      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
+      "published_at": "2026-03-12T08:48:19Z",
+      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
+      "tags": [
+        "ai",
+        "webdev",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
+      "source": "Dev.to",
+      "user": "Theodor Diaconu"
+    },
+    {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
+    },
+    {
       "title": "Getting Started with Gemini CLI",
       "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
       "published_at": "2026-03-11T17:45:44Z",
@@ -59,6 +88,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
+    },
+    {
+      "title": "Clojure Inheritance… Sort Of",
+      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
+      "published_at": "2026-03-12T05:49:43Z",
+      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
+      "tags": [
+        "clojure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
+      "source": "Dev.to",
+      "user": "Paula Gearon"
     },
     {
       "title": "Your AI code reviewer has no one to disagree with",
@@ -104,6 +145,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
       "source": "Dev.to",
       "user": "yabbal"
+    },
+    {
+      "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
+      "url": "https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l",
+      "published_at": "2026-03-12T02:44:01Z",
+      "description": "As engineers, when we talk about the \"cost\" of using AI, we tend to focus on billing costs — the cost...",
+      "tags": [
+        "ai",
+        "uxdesign",
+        "uidesign",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgwfrjufgjkynfqhxm2tj.png",
+      "source": "Dev.to",
+      "user": "Yao-Hui Chua"
+    },
+    {
+      "title": "One command to add structured markup to your AI agent",
+      "url": "https://dev.to/zag/one-command-to-add-structured-markup-to-your-ai-agent-3pp9",
+      "published_at": "2026-03-11T21:41:26Z",
+      "description": "I've been keeping a personal knowledge base for years. Notes, specs, decisions, journal entries — all...",
+      "tags": [
+        "ai",
+        "productivity",
+        "writing",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuysg76jk35k0a3isknjb.png",
+      "source": "Dev.to",
+      "user": "Alexandr Zahatski"
     },
     {
       "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
@@ -255,21 +326,6 @@
       "user": "GrahamTheDev"
     },
     {
-      "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
-      "url": "https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj",
-      "published_at": "2026-03-08T15:50:06Z",
-      "description": "13 years building .NET products. Team lead. This is what the last 8 months taught me.             ...",
-      "tags": [
-        "webdev",
-        "career",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8teznz95kc0r4d70ln2t.png",
-      "source": "Dev.to",
-      "user": "yashaswi"
-    },
-    {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
       "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
       "published_at": "2026-03-07T17:10:00Z",
@@ -299,21 +355,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Building a Text-to-Speech Engine in Pure C",
-      "url": "https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4",
-      "published_at": "2026-03-09T14:49:04Z",
-      "description": "Building a minimal Text-to-Speech engine in pure C using Qwen3-TTS without ML frameworks.",
-      "tags": [
-        "c",
-        "ai",
-        "tts",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8vpv35ge7n4xjcsglc7.png",
-      "source": "Dev.to",
-      "user": "Gabriele Mastrapasqua"
-    },
-    {
       "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
       "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
       "published_at": "2026-03-04T20:19:27Z",
@@ -327,6 +368,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6kbgjbme42vp7aotnx.png",
       "source": "Dev.to",
       "user": "Jon Gottfried"
+    },
+    {
+      "title": "Building a Text-to-Speech Engine in Pure C",
+      "url": "https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4",
+      "published_at": "2026-03-09T14:49:04Z",
+      "description": "Building a minimal Text-to-Speech engine in pure C using Qwen3-TTS without ML frameworks.",
+      "tags": [
+        "c",
+        "ai",
+        "tts",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8vpv35ge7n4xjcsglc7.png",
+      "source": "Dev.to",
+      "user": "Gabriele Mastrapasqua"
     },
     {
       "title": "Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?",
@@ -359,21 +415,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "Get started with GitHub Copilot SDK",
-      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
-      "published_at": "2026-03-04T20:48:00Z",
-      "description": "This article explains what GitHub Copilot SDK is and why use it",
-      "tags": [
-        "githubcopilot",
-        "python",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
-      "source": "Dev.to",
-      "user": "Chris Noring"
-    },
-    {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
       "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
       "published_at": "2026-02-25T17:41:43Z",
@@ -387,6 +428,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Get started with GitHub Copilot SDK",
+      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
+      "published_at": "2026-03-04T20:48:00Z",
+      "description": "This article explains what GitHub Copilot SDK is and why use it",
+      "tags": [
+        "githubcopilot",
+        "python",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
+      "source": "Dev.to",
+      "user": "Chris Noring"
     },
     {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
@@ -432,36 +488,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
       "source": "Dev.to",
       "user": "Kevin 心学"
-    },
-    {
-      "title": "AI Regression Tests Written in Markdown, Not Code",
-      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
-      "published_at": "2026-03-08T14:30:23Z",
-      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
-      "tags": [
-        "ai",
-        "testing",
-        "playwright",
-        "regression"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
-      "source": "Dev.to",
-      "user": "HybridTechie"
-    },
-    {
-      "title": "Flexible Border Element",
-      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
-      "published_at": "2026-03-01T21:12:43Z",
-      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
-      "tags": [
-        "css",
-        "frontend",
-        "tailwindcss",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
-      "source": "Dev.to",
-      "user": "Lisa Cee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -607,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 368,
       "user": "Rohit24567"
     },
     {
@@ -622,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "f"
     },
     {
@@ -652,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 228,
       "user": "fjb040911"
     },
     {
@@ -667,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 27838,
+      "stars": 27951,
       "user": "karpathy"
     },
     {
@@ -682,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1068,
       "user": "FreedomIntelligence"
     },
     {
@@ -716,6 +742,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
+    },
+    {
+      "title": "experience report: coding a framework with AI",
+      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
+      "published_at": "2026-03-12T08:48:19Z",
+      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
+      "tags": [
+        "ai",
+        "webdev",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
+      "source": "Dev.to",
+      "user": "Theodor Diaconu"
     },
     {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
@@ -820,35 +860,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
       "source": "Dev.to",
       "user": "Kevin 心学"
-    },
-    {
-      "title": "Breaking Free from the Render Cycle: Event-Driven Frontend Architecture",
-      "url": "https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e",
-      "published_at": "2026-03-08T20:05:58Z",
-      "description": "React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...",
-      "tags": [
-        "architecture",
-        "performance",
-        "typescript",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
-      "source": "Dev.to",
-      "user": "Ishan Bagchi"
-    },
-    {
-      "title": "Native TypeScript with Node",
-      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
-      "published_at": "2026-03-09T07:40:18Z",
-      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
-      "tags": [
-        "typescript",
-        "node",
-        "esm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpjjvx4mxe31s2pw4zof.png",
-      "source": "Dev.to",
-      "user": "Timo Schinkel"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -982,7 +993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 368,
       "user": "Rohit24567"
     },
     {
@@ -997,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "f"
     },
     {
@@ -1027,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 228,
       "user": "fjb040911"
     },
     {
@@ -1042,11 +1053,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "khanhduytran0"
     }
   ],
   "Python": [
+    {
+      "title": "Djangonaut Diaries: Week 1 — Setting up the space (and the machine)",
+      "url": "https://dev.to/rodbv/djangonaut-diaries-week-1-setting-the-stage-and-the-machine-592h",
+      "published_at": "2026-03-11T23:01:22Z",
+      "description": "I am officially a Djangonaut! Joining the latest cohort (Session 6) of the Djangonaut Space program...",
+      "tags": [
+        "djangonaut",
+        "django",
+        "howto"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptvp905rxq3pgwny5dmb.jpeg",
+      "source": "Dev.to",
+      "user": "rodbv"
+    },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
@@ -1209,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 27838,
+      "stars": 27951,
       "user": "karpathy"
     },
     {
@@ -1224,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 7799,
+      "stars": 8005,
       "user": "HKUDS"
     },
     {
@@ -1239,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1068,
       "user": "FreedomIntelligence"
     },
     {
@@ -1254,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 772,
       "user": "jackwener"
     },
     {
@@ -1269,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 667,
       "user": "knowsuchagency"
     }
   ],
@@ -1427,36 +1452,6 @@
       "user": "wintercounter"
     },
     {
-      "title": "Breaking Free from the Render Cycle: Event-Driven Frontend Architecture",
-      "url": "https://dev.to/ishanbagchi/breaking-free-from-the-render-cycle-event-driven-frontend-architecture-2a8e",
-      "published_at": "2026-03-08T20:05:58Z",
-      "description": "React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...",
-      "tags": [
-        "architecture",
-        "performance",
-        "typescript",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxagx7t84f4wq5bg8jm5.png",
-      "source": "Dev.to",
-      "user": "Ishan Bagchi"
-    },
-    {
-      "title": "Flexible Border Element",
-      "url": "https://dev.to/lisacee/flexible-border-element-m6e",
-      "published_at": "2026-03-01T21:12:43Z",
-      "description": "I recently transitioned from full stack to front end engineer. Front end is what inspired me to...",
-      "tags": [
-        "css",
-        "frontend",
-        "tailwindcss",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5fpc345uqlcxwdp5068.png",
-      "source": "Dev.to",
-      "user": "Lisa Cee"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1480,41 +1475,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 499,
       "user": "steipete"
     }
   ],
   "Mobile": [
-    {
-      "title": "Amanzi - Know Your Water",
-      "url": "https://dev.to/skomfi/amanzi-know-your-water-47p3",
-      "published_at": "2026-03-01T22:18:12Z",
-      "description": "This is a submission for the DEV Weekend Challenge: Community           The Community   South Africa...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "showdev",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwf8r18ozmm88bfnrl4eo.png",
-      "source": "Dev.to",
-      "user": "Samuel Komfi"
-    },
-    {
-      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
-      "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
-      "published_at": "2026-03-08T03:08:41Z",
-      "description": "Scrolling through GitHub to find interesting repositories can feel exhausting.  You search for...",
-      "tags": [
-        "opensource",
-        "swift",
-        "ios",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjd9ryf2pkhvgfcz0ivc6.png",
-      "source": "Dev.to",
-      "user": "Osman"
-    },
     {
       "title": "khanhduytran0/coruna - The leaked exploit toolkit for various iOS versions",
       "url": "https://github.com/khanhduytran0/coruna",
@@ -1527,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "khanhduytran0"
     }
   ],
@@ -1618,11 +1583,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 499,
       "user": "steipete"
     }
   ],
   "Security": [
+    {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
+    },
     {
       "title": "TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.",
       "url": "https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6",
@@ -1712,6 +1692,21 @@
       "user": "yabbal"
     },
     {
+      "title": "One command to add structured markup to your AI agent",
+      "url": "https://dev.to/zag/one-command-to-add-structured-markup-to-your-ai-agent-3pp9",
+      "published_at": "2026-03-11T21:41:26Z",
+      "description": "I've been keeping a personal knowledge base for years. Notes, specs, decisions, journal entries — all...",
+      "tags": [
+        "ai",
+        "productivity",
+        "writing",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuysg76jk35k0a3isknjb.png",
+      "source": "Dev.to",
+      "user": "Alexandr Zahatski"
+    },
+    {
       "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
       "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
       "published_at": "2026-03-10T15:52:17Z",
@@ -1770,21 +1765,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
-    },
-    {
-      "title": "From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life",
-      "url": "https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj",
-      "published_at": "2026-03-08T15:50:06Z",
-      "description": "13 years building .NET products. Team lead. This is what the last 8 months taught me.             ...",
-      "tags": [
-        "webdev",
-        "career",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8teznz95kc0r4d70ln2t.png",
-      "source": "Dev.to",
-      "user": "yashaswi"
     },
     {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
@@ -1876,36 +1856,6 @@
       "user": "Egor Fedorov"
     },
     {
-      "title": "AI Regression Tests Written in Markdown, Not Code",
-      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
-      "published_at": "2026-03-08T14:30:23Z",
-      "description": "As AI agents write more of our production code, I started asking a simple question: who's testing the...",
-      "tags": [
-        "ai",
-        "testing",
-        "playwright",
-        "regression"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwk6tqbummv4fr3jvazbz.png",
-      "source": "Dev.to",
-      "user": "HybridTechie"
-    },
-    {
-      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
-      "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
-      "published_at": "2026-03-08T03:08:41Z",
-      "description": "Scrolling through GitHub to find interesting repositories can feel exhausting.  You search for...",
-      "tags": [
-        "opensource",
-        "swift",
-        "ios",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjd9ryf2pkhvgfcz0ivc6.png",
-      "source": "Dev.to",
-      "user": "Osman"
-    },
-    {
       "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
       "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
       "published_at": "2026-03-09T23:42:30Z",
@@ -1917,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 368,
       "user": "Rohit24567"
     },
     {
@@ -1932,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "f"
     },
     {
@@ -1962,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 228,
       "user": "fjb040911"
     },
     {
@@ -1977,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "khanhduytran0"
     },
     {
@@ -1992,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 27838,
+      "stars": 27951,
       "user": "karpathy"
     },
     {
@@ -2007,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 7799,
+      "stars": 8005,
       "user": "HKUDS"
     },
     {
@@ -2022,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1068,
       "user": "FreedomIntelligence"
     },
     {
@@ -2037,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 772,
       "user": "jackwener"
     },
     {
@@ -2052,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 667,
       "user": "knowsuchagency"
     },
     {
@@ -2067,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 499,
       "user": "steipete"
     },
     {
@@ -2127,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55754275?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "Sadoaz"
     }
   ]
