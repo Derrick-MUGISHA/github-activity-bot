@@ -90,18 +90,6 @@
       "user": "Greg Baugues"
     },
     {
-      "title": "Clojure Inheritance… Sort Of",
-      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
-      "published_at": "2026-03-12T05:49:43Z",
-      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
-      "tags": [
-        "clojure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
-      "source": "Dev.to",
-      "user": "Paula Gearon"
-    },
-    {
       "title": "Your AI code reviewer has no one to disagree with",
       "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
       "published_at": "2026-03-11T14:48:03Z",
@@ -130,6 +118,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
       "source": "Dev.to",
       "user": "Dumebi Okolo"
+    },
+    {
+      "title": "Clojure Inheritance… Sort Of",
+      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
+      "published_at": "2026-03-12T05:49:43Z",
+      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
+      "tags": [
+        "clojure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
+      "source": "Dev.to",
+      "user": "Paula Gearon"
     },
     {
       "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "fjb040911"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28098,
+      "stars": 28194,
       "user": "karpathy"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1073,
       "user": "FreedomIntelligence"
     },
     {
@@ -740,6 +740,21 @@
       "source": "GitHub",
       "stars": 228,
       "user": "mem9-ai"
+    },
+    {
+      "title": "epiral/agent-clip - AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
+      "url": "https://github.com/epiral/agent-clip",
+      "published_at": "2026-03-09T07:25:56Z",
+      "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
+      "source": "GitHub",
+      "stars": 102,
+      "user": "epiral"
     }
   ],
   "JavaScript": [
@@ -1068,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "fjb040911"
     },
     {
@@ -1083,7 +1098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 210,
       "user": "khanhduytran0"
     }
   ],
@@ -1264,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28098,
+      "stars": 28194,
       "user": "karpathy"
     },
     {
@@ -1279,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8267,
+      "stars": 8375,
       "user": "HKUDS"
     },
     {
@@ -1294,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1073,
       "user": "FreedomIntelligence"
     },
     {
@@ -1324,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 680,
       "user": "knowsuchagency"
     }
   ],
@@ -1522,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 210,
       "user": "khanhduytran0"
     }
   ],
@@ -1942,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "fjb040911"
     },
     {
@@ -1957,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 210,
       "user": "khanhduytran0"
     },
     {
@@ -1972,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 28098,
+      "stars": 28194,
       "user": "karpathy"
     },
     {
@@ -1987,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8267,
+      "stars": 8375,
       "user": "HKUDS"
     },
     {
@@ -2002,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1073,
       "user": "FreedomIntelligence"
     },
     {
@@ -2032,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 680,
       "user": "knowsuchagency"
     },
     {
@@ -2096,19 +2111,19 @@
       "user": "AlmogBaku"
     },
     {
-      "title": "Sadoaz/vimalender - A calendar with vim keybindings",
-      "url": "https://github.com/Sadoaz/vimalender",
-      "published_at": "2026-03-06T20:15:52Z",
-      "description": "A calendar with vim keybindings",
+      "title": "epiral/agent-clip - AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
+      "url": "https://github.com/epiral/agent-clip",
+      "published_at": "2026-03-09T07:25:56Z",
+      "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55754275?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 100,
-      "user": "Sadoaz"
+      "stars": 102,
+      "user": "epiral"
     }
   ]
 }
