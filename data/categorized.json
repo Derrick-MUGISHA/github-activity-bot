@@ -91,21 +91,6 @@
       "user": "Dumebi Okolo"
     },
     {
-      "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
-      "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
-      "published_at": "2026-03-10T23:13:04Z",
-      "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
-      "tags": [
-        "machinelearning",
-        "computervision",
-        "deeplearning",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ze6xe8i9z5n81ux8i60.png",
-      "source": "Dev.to",
-      "user": "Vladimir Iglovikov"
-    },
-    {
       "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
       "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
       "published_at": "2026-03-10T19:56:15Z",
@@ -223,6 +208,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
+    },
+    {
+      "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
+      "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
+      "published_at": "2026-03-10T23:13:04Z",
+      "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
+      "tags": [
+        "machinelearning",
+        "computervision",
+        "deeplearning",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ze6xe8i9z5n81ux8i60.png",
+      "source": "Dev.to",
+      "user": "Vladimir Iglovikov"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -434,18 +434,6 @@
       "user": "HybridTechie"
     },
     {
-      "title": "Airfoil",
-      "url": "https://ciechanow.ski/airfoil/",
-      "published_at": "2024-02-27T16:32:49Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "todsacerdoti"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -456,6 +444,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "usefulposter"
+    },
+    {
+      "title": "Airfoil",
+      "url": "https://ciechanow.ski/airfoil/",
+      "published_at": "2024-02-27T16:32:49Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "todsacerdoti"
     },
     {
       "title": "Open source AI is the path forward",
@@ -577,7 +577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 321,
       "user": "Rohit24567"
     },
     {
@@ -607,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "f"
     },
     {
@@ -622,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 198,
       "user": "fjb040911"
     },
     {
@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26105,
+      "stars": 26306,
       "user": "karpathy"
     },
     {
@@ -652,23 +652,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1004,
       "user": "FreedomIntelligence"
-    },
-    {
-      "title": "livehl/aimirror - 🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-      "url": "https://github.com/livehl/aimirror",
-      "published_at": "2026-03-05T14:26:49Z",
-      "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3094557?v=4",
-      "source": "GitHub",
-      "stars": 795,
-      "user": "livehl"
     },
     {
       "title": "mem9-ai/mem9 - GitHub Repository",
@@ -682,23 +667,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "mem9-ai"
-    },
-    {
-      "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
-      "url": "https://github.com/TrNgTien/vfs",
-      "published_at": "2026-03-05T04:17:19Z",
-      "description": "Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
-      "source": "GitHub",
-      "stars": 109,
-      "user": "TrNgTien"
     }
   ],
   "JavaScript": [
@@ -982,7 +952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 321,
       "user": "Rohit24567"
     },
     {
@@ -1012,7 +982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "f"
     },
     {
@@ -1027,38 +997,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 198,
       "user": "fjb040911"
     },
     {
-      "title": "LukeRenton/explore-claude-code - Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
-      "url": "https://github.com/LukeRenton/explore-claude-code",
-      "published_at": "2026-03-05T14:37:50Z",
-      "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
+      "title": "gorkem-bwl/animated-icons - GitHub Repository",
+      "url": "https://github.com/gorkem-bwl/animated-icons",
+      "published_at": "2026-03-08T19:47:27Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99989709?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167266851?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "LukeRenton"
-    },
-    {
-      "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
-      "url": "https://github.com/TrNgTien/vfs",
-      "published_at": "2026-03-05T04:17:19Z",
-      "description": "Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
-      "source": "GitHub",
-      "stars": 109,
-      "user": "TrNgTien"
+      "stars": 150,
+      "user": "gorkem-bwl"
     }
   ],
   "Python": [
@@ -1224,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26105,
+      "stars": 26306,
       "user": "karpathy"
     },
     {
@@ -1239,23 +1194,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5186,
+      "stars": 5483,
       "user": "HKUDS"
-    },
-    {
-      "title": "jackwener/twitter-cli - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
-      "url": "https://github.com/jackwener/twitter-cli",
-      "published_at": "2026-03-05T08:18:37Z",
-      "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
-      "source": "GitHub",
-      "stars": 1635,
-      "user": "jackwener"
     },
     {
       "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
@@ -1269,38 +1209,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1004,
       "user": "FreedomIntelligence"
     },
     {
-      "title": "livehl/aimirror - 🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-      "url": "https://github.com/livehl/aimirror",
-      "published_at": "2026-03-05T14:26:49Z",
-      "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
+      "title": "imbue-bit/OpenClaw-PwnKit - Get shell to almost any OpenClaw host machine.",
+      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
+      "published_at": "2026-03-08T01:03:02Z",
+      "description": "Get shell to almost any OpenClaw host machine.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3094557?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "source": "GitHub",
-      "stars": 795,
-      "user": "livehl"
+      "stars": 695,
+      "user": "imbue-bit"
     },
     {
-      "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
-      "url": "https://github.com/TrNgTien/vfs",
-      "published_at": "2026-03-05T04:17:19Z",
-      "description": "Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
+      "title": "jackwener/xiaohongshu-cli - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
+      "url": "https://github.com/jackwener/xiaohongshu-cli",
+      "published_at": "2026-03-08T05:34:05Z",
+      "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 109,
-      "user": "TrNgTien"
+      "stars": 666,
+      "user": "jackwener"
     }
   ],
   "DevOps": [
@@ -1363,21 +1303,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
-    },
-    {
-      "title": "livehl/aimirror - 🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-      "url": "https://github.com/livehl/aimirror",
-      "published_at": "2026-03-05T14:26:49Z",
-      "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3094557?v=4",
-      "source": "GitHub",
-      "stars": 795,
-      "user": "livehl"
     }
   ],
   "WebDev": [
@@ -1510,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 497,
       "user": "steipete"
     }
   ],
@@ -1544,21 +1469,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjd9ryf2pkhvgfcz0ivc6.png",
       "source": "Dev.to",
       "user": "Osman"
-    },
-    {
-      "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
-      "url": "https://github.com/TrNgTien/vfs",
-      "published_at": "2026-03-05T04:17:19Z",
-      "description": "Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
-      "source": "GitHub",
-      "stars": 109,
-      "user": "TrNgTien"
     }
   ],
   "Cloud": [
@@ -1648,7 +1558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 497,
       "user": "steipete"
     }
   ],
@@ -1947,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 321,
       "user": "Rohit24567"
     },
     {
@@ -1977,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "f"
     },
     {
@@ -1992,23 +1902,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 198,
       "user": "fjb040911"
     },
     {
-      "title": "LukeRenton/explore-claude-code - Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
-      "url": "https://github.com/LukeRenton/explore-claude-code",
-      "published_at": "2026-03-05T14:37:50Z",
-      "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.",
+      "title": "gorkem-bwl/animated-icons - GitHub Repository",
+      "url": "https://github.com/gorkem-bwl/animated-icons",
+      "published_at": "2026-03-08T19:47:27Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99989709?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167266851?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "LukeRenton"
+      "stars": 150,
+      "user": "gorkem-bwl"
     },
     {
       "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
@@ -2022,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 26105,
+      "stars": 26306,
       "user": "karpathy"
     },
     {
@@ -2037,23 +1947,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5186,
+      "stars": 5483,
       "user": "HKUDS"
-    },
-    {
-      "title": "jackwener/twitter-cli - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
-      "url": "https://github.com/jackwener/twitter-cli",
-      "published_at": "2026-03-05T08:18:37Z",
-      "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
-      "source": "GitHub",
-      "stars": 1635,
-      "user": "jackwener"
     },
     {
       "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
@@ -2067,23 +1962,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1004,
       "user": "FreedomIntelligence"
     },
     {
-      "title": "livehl/aimirror - 🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-      "url": "https://github.com/livehl/aimirror",
-      "published_at": "2026-03-05T14:26:49Z",
-      "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
+      "title": "imbue-bit/OpenClaw-PwnKit - Get shell to almost any OpenClaw host machine.",
+      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
+      "published_at": "2026-03-08T01:03:02Z",
+      "description": "Get shell to almost any OpenClaw host machine.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3094557?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "source": "GitHub",
-      "stars": 795,
-      "user": "livehl"
+      "stars": 695,
+      "user": "imbue-bit"
+    },
+    {
+      "title": "jackwener/xiaohongshu-cli - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
+      "url": "https://github.com/jackwener/xiaohongshu-cli",
+      "published_at": "2026-03-08T05:34:05Z",
+      "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
+      "source": "GitHub",
+      "stars": 666,
+      "user": "jackwener"
     },
     {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
@@ -2097,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 497,
       "user": "steipete"
     },
     {
@@ -2112,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "mem9-ai"
     },
     {
@@ -2142,23 +2052,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "AlmogBaku"
     },
     {
-      "title": "TrNgTien/vfs - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
-      "url": "https://github.com/TrNgTien/vfs",
-      "published_at": "2026-03-05T04:17:19Z",
-      "description": "Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor & Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more.",
+      "title": "Sadoaz/vimalender - A calendar with vim keybindings",
+      "url": "https://github.com/Sadoaz/vimalender",
+      "published_at": "2026-03-06T20:15:52Z",
+      "description": "A calendar with vim keybindings",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66483590?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/55754275?v=4",
       "source": "GitHub",
-      "stars": 109,
-      "user": "TrNgTien"
+      "stars": 94,
+      "user": "Sadoaz"
     }
   ]
 }
