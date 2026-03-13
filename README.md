@@ -218,7 +218,7 @@ npm run test
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 01:24:41 CAT_
+_Last automated update: Sat, 14 Mar 2026 01:50:30 CAT_
 
 
 
@@ -237,25 +237,25 @@ Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 23:24:41 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 23:50:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
