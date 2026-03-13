@@ -40,11 +40,11 @@
 
 **Security**: 🟦🟦 6 (5.7%)
 
+**Cloud**: 🟦🟦 4 (3.8%)
+
 **Database**: 🟦🟦 4 (3.8%)
 
 **DevOps**: 🟦 3 (2.9%)
-
-**Cloud**: 🟦 3 (2.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.2 (28.2%)
-Java            █████████████████████████ 23.5 (23.5%)
-Go              ████████████████████████ 22.4 (22.4%)
-Python          ███████████████████████ 21.2 (21.2%)
+JavaScript      ██████████████████████████████ 27.9 (27.9%)
+Java            █████████████████████████ 23.3 (23.3%)
+Go              █████████████████████████ 23.3 (23.3%)
+Python          ██████████████████████ 20.9 (20.9%)
 CSharp          █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 Rust            █ 1.2 (1.2%)
@@ -75,7 +75,7 @@ Swift           █ 1.2 (1.2%)
 pie title Programming Languages Distribution
     "JavaScript" : 24
     "Java" : 20
-    "Go" : 19
+    "Go" : 20
     "Python" : 18
     "CSharp" : 1
     "PHP" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![career](https://img.shields.io/badge/career-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![go](https://img.shields.io/badge/go-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) 
 
 
 
@@ -153,6 +153,17 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/googleai/deployments-made-easy-cloud-run-101-11ma">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqitllupmbsfi2mml2opl.png" width="200" alt="Deployments made easy: Cloud Run 101" />
+      <br/>
+      <b>Deployments made easy: Cloud Run 101</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foehkov7zdtrxnee742ve.png" width="200" alt="An Update on How We Judge DEV Challenges" />
       <br/>
@@ -161,22 +172,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmy6ptkxm%2Fproduction%2F9d13dc1efcb777fb49b96bee3037d01ad6284260-1376x768.png" width="200" alt="Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)" />
       <br/>
       <b>Por qué pusimos un CDN frente a nuestro balanceado...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg" width="200" alt="We built a video recording API at $0.01/min. Here's the tech that made it possible." />
-      <br/>
-      <b>We built a video recording API at $0.01/min. Here'...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,13 +199,14 @@ npm run test
 
 - [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i) _[Dev.to]_
 - [The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?](https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1) _[Dev.to]_
+- [Deployments made easy: Cloud Run 101](https://dev.to/googleai/deployments-made-easy-cloud-run-101-11ma) _[Dev.to]_
 - [An Update on How We Judge DEV Challenges](https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg) _[Dev.to]_
 - [Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)](https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh) _[Dev.to]_
-- [We built a video recording API at $0.01/min. Here's the tech that made it possible.](https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872) _[Dev.to]_
 - [Embedding Accessibility into AI based software development](https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
 - [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
 - [MCP Server with .Net](https://dev.to/antdimot/mcp-server-with-net-5cih) _[Dev.to]_
+- [We built a video recording API at $0.01/min. Here's the tech that made it possible.](https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872) _[Dev.to]_
 - [Clojure Inheritance… Sort Of](https://dev.to/quoll/clojure-inheritance-sort-of-2i6i) _[Dev.to]_
 - [experience report: coding a framework with AI](https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj) _[Dev.to]_
 - [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44) _[Dev.to]_
@@ -214,11 +215,10 @@ npm run test
 - [Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit](https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e) _[Dev.to]_
 - [The Cognitive Costs of AI Chatbots and a Framework for Better Design](https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l) _[Dev.to]_
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
-- [When AI Writes the Code… Who Takes Responsibility?](https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc) _[Dev.to]_
 - [I Built a Secure Planning Agent with MCP and Keycard](https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a) _[Dev.to]_
-- [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
+- [When AI Writes the Code… Who Takes Responsibility?](https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 19:22:24 CAT_
+_Last automated update: Fri, 13 Mar 2026 19:58:38 CAT_
 
 
 
@@ -237,25 +237,25 @@ Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 17:22:24 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 17:58:38 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -171,21 +171,6 @@
       "user": "Yao-Hui Chua"
     },
     {
-      "title": "When AI Writes the Code… Who Takes Responsibility?",
-      "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
-      "published_at": "2026-03-10T22:39:46Z",
-      "description": "Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...",
-      "tags": [
-        "ai",
-        "programming",
-        "agents",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
-      "source": "Dev.to",
-      "user": "Subhrangsu Bera"
-    },
-    {
       "title": "I Built a Secure Planning Agent with MCP and Keycard",
       "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
       "published_at": "2026-03-11T19:19:14Z",
@@ -199,6 +184,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
       "source": "Dev.to",
       "user": "Kim Maida"
+    },
+    {
+      "title": "When AI Writes the Code… Who Takes Responsibility?",
+      "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
+      "published_at": "2026-03-10T22:39:46Z",
+      "description": "Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...",
+      "tags": [
+        "ai",
+        "programming",
+        "agents",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
+      "source": "Dev.to",
+      "user": "Subhrangsu Bera"
     },
     {
       "title": "Ship Less, Measure More",
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 328,
       "user": "vasilytrofimchuk"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 233,
       "user": "KeyID-AI"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1119,
       "user": "FreedomIntelligence"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 904,
+      "stars": 913,
       "user": "aiming-lab"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "epiral"
     },
     {
@@ -768,21 +768,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
-      "url": "https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872",
-      "published_at": "2026-03-13T04:17:57Z",
-      "description": "Most video recording APIs charge $0.02-0.03 per minute. We built one for $0.01/min — 62% cheaper —...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "saas",
-        "video"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
-      "source": "Dev.to",
-      "user": "Christian Segovia"
-    },
-    {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
       "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
       "published_at": "2026-03-10T13:00:34Z",
@@ -796,6 +781,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
       "source": "Dev.to",
       "user": "Dumebi Okolo"
+    },
+    {
+      "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
+      "url": "https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872",
+      "published_at": "2026-03-13T04:17:57Z",
+      "description": "Most video recording APIs charge $0.02-0.03 per minute. We built one for $0.01/min — 62% cheaper —...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "saas",
+        "video"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
+      "source": "Dev.to",
+      "user": "Christian Segovia"
     },
     {
       "title": "experience report: coding a framework with AI",
@@ -1018,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 328,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1063,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "khanhduytran0"
     },
     {
@@ -1078,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 233,
       "user": "KeyID-AI"
     }
   ],
@@ -1259,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11163,
+      "stars": 11205,
       "user": "HKUDS"
     },
     {
@@ -1274,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1119,
       "user": "FreedomIntelligence"
     },
     {
@@ -1289,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 904,
+      "stars": 913,
       "user": "aiming-lab"
     },
     {
@@ -1319,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 775,
       "user": "knowsuchagency"
     }
   ],
@@ -1502,11 +1502,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "khanhduytran0"
     }
   ],
   "Cloud": [
+    {
+      "title": "Deployments made easy: Cloud Run 101",
+      "url": "https://dev.to/googleai/deployments-made-easy-cloud-run-101-11ma",
+      "published_at": "2026-03-13T17:53:42Z",
+      "description": "The distance between \"it works on my machine\" and \"it's live for the world\" can often feel like a...",
+      "tags": [
+        "googlecloud",
+        "serverless",
+        "beginners",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqitllupmbsfi2mml2opl.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
+    },
     {
       "title": "Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)",
       "url": "https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh",
@@ -1856,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 328,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1901,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "khanhduytran0"
     },
     {
@@ -1916,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 233,
       "user": "KeyID-AI"
     },
     {
@@ -1931,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11163,
+      "stars": 11205,
       "user": "HKUDS"
     },
     {
@@ -1946,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1119,
       "user": "FreedomIntelligence"
     },
     {
@@ -1961,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 904,
+      "stars": 913,
       "user": "aiming-lab"
     },
     {
@@ -1991,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 775,
       "user": "knowsuchagency"
     },
     {
@@ -2051,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "epiral"
     },
     {
