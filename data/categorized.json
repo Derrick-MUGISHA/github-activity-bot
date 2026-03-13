@@ -117,21 +117,6 @@
       "user": "Kim Maida"
     },
     {
-      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
-      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
-      "published_at": "2026-03-10T13:09:37Z",
-      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
-      "tags": [
-        "ai",
-        "agents",
-        "webdev",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
-      "source": "Dev.to",
-      "user": "Jason Agostoni"
-    },
-    {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
       "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
       "published_at": "2026-03-11T05:30:00Z",
@@ -145,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvd5n9si4cexnmcaw1hqw.png",
       "source": "Dev.to",
       "user": "Vaishali"
+    },
+    {
+      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
+      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
+      "published_at": "2026-03-10T13:09:37Z",
+      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
+      "tags": [
+        "ai",
+        "agents",
+        "webdev",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
+      "source": "Dev.to",
+      "user": "Jason Agostoni"
     },
     {
       "title": "Ship Less, Measure More",
@@ -236,21 +236,6 @@
       "user": "Slee Woo"
     },
     {
-      "title": "Your Agent Is a Small, Low-Stakes HAL",
-      "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
-      "published_at": "2026-03-10T05:08:29Z",
-      "description": "I work with multi-agent systems that review code, plan architecture, find faults, and critique...",
-      "tags": [
-        "ai",
-        "programming",
-        "llm",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc0o2r3x4hkwm7tt7b9l8.png",
-      "source": "Dev.to",
-      "user": "Roman Dubinin "
-    },
-    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -338,6 +323,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Your Agent Is a Small, Low-Stakes HAL",
+      "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
+      "published_at": "2026-03-10T05:08:29Z",
+      "description": "I work with multi-agent systems that review code, plan architecture, find faults, and critique...",
+      "tags": [
+        "ai",
+        "programming",
+        "llm",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc0o2r3x4hkwm7tt7b9l8.png",
+      "source": "Dev.to",
+      "user": "Roman Dubinin "
     },
     {
       "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
@@ -633,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 386,
       "user": "Rohit24567"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "vasilytrofimchuk"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1087,
       "user": "FreedomIntelligence"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 746,
       "user": "aiming-lab"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 172,
       "user": "epiral"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "verssache"
     }
   ],
@@ -1068,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 386,
       "user": "Rohit24567"
     },
     {
@@ -1113,7 +1113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1128,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "khanhduytran0"
     }
   ],
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 9373,
+      "stars": 9541,
       "user": "HKUDS"
     },
     {
@@ -1324,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1087,
       "user": "FreedomIntelligence"
     },
     {
@@ -1339,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 798,
       "user": "jackwener"
     },
     {
@@ -1354,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 746,
       "user": "aiming-lab"
     },
     {
@@ -1369,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 705,
       "user": "knowsuchagency"
     }
   ],
@@ -1550,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 501,
       "user": "steipete"
     }
   ],
@@ -1567,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "khanhduytran0"
     }
   ],
@@ -1599,7 +1599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1658,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 501,
       "user": "steipete"
     }
   ],
@@ -1927,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 386,
       "user": "Rohit24567"
     },
     {
@@ -1972,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1987,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "khanhduytran0"
     },
     {
@@ -2002,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 9373,
+      "stars": 9541,
       "user": "HKUDS"
     },
     {
@@ -2017,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1087,
       "user": "FreedomIntelligence"
     },
     {
@@ -2032,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 798,
       "user": "jackwener"
     },
     {
@@ -2047,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 746,
       "user": "aiming-lab"
     },
     {
@@ -2062,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 705,
       "user": "knowsuchagency"
     },
     {
@@ -2077,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 501,
       "user": "steipete"
     },
     {
@@ -2107,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2122,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 172,
       "user": "epiral"
     },
     {
@@ -2137,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "verssache"
     }
   ]
