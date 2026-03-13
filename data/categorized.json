@@ -46,6 +46,21 @@
       "user": "Dumebi Okolo"
     },
     {
+      "title": "Embedding Accessibility into AI based software development",
+      "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
+      "published_at": "2026-03-12T16:07:21Z",
+      "description": "At CSUN-AT 2026, I spoke with my colleague Mallika Meiyappan on Embedding Accessibility into AI based...",
+      "tags": [
+        "a11y",
+        "llm",
+        "ai",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzz47rv1f9gw3o8gjs9ns.png",
+      "source": "Dev.to",
+      "user": "Michael Fairchild"
+    },
+    {
       "title": "Clojure Inheritance… Sort Of",
       "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
       "published_at": "2026-03-12T05:49:43Z",
@@ -70,6 +85,45 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
       "source": "Dev.to",
       "user": "Theodor Diaconu"
+    },
+    {
+      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
+      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
+      "published_at": "2026-03-12T22:10:51Z",
+      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
+      "tags": [
+        "ai",
+        "mcp",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
+    },
+    {
+      "title": "MCP Server with .Net",
+      "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
+      "published_at": "2026-03-12T22:52:52Z",
+      "description": "Building a MCP Server with C#",
+      "tags": [
+        "dotnet",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
+      "source": "Dev.to",
+      "user": "Antonio Di Motta"
+    },
+    {
+      "title": "AI did a good job... and almost deleted everything",
+      "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
+      "published_at": "2026-03-12T22:01:29Z",
+      "description": "I would like to share an experience I had today.  TLDR:   AI finds minor security problem: danger of...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png",
+      "source": "Dev.to",
+      "user": "EECOLOR"
     },
     {
       "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
@@ -189,36 +243,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
       "source": "Dev.to",
       "user": "Greg Baugues"
-    },
-    {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
-    },
-    {
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
-      "published_at": "2026-03-07T10:44:43Z",
-      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
-      "tags": [
-        "webdev",
-        "ai",
-        "automation",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
-      "source": "Dev.to",
-      "user": "GrahamTheDev"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -618,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 314,
       "user": "vasilytrofimchuk"
     },
     {
@@ -648,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 206,
       "user": "KeyID-AI"
     },
     {
@@ -663,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1114,
+      "stars": 1116,
       "user": "FreedomIntelligence"
     },
     {
@@ -678,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 883,
       "user": "aiming-lab"
     },
     {
@@ -693,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "mem9-ai"
     },
     {
@@ -708,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "epiral"
     },
     {
@@ -723,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "verssache"
     }
   ],
@@ -742,6 +766,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
+      "url": "https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872",
+      "published_at": "2026-03-13T04:17:57Z",
+      "description": "Most video recording APIs charge $0.02-0.03 per minute. We built one for $0.01/min — 62% cheaper —...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "saas",
+        "video"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
+      "source": "Dev.to",
+      "user": "Christian Segovia"
     },
     {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
@@ -801,21 +840,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
-    },
-    {
-      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
-      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
-      "published_at": "2026-03-11T10:43:47Z",
-      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "go",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
-      "source": "Dev.to",
-      "user": "Supriya"
     },
     {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
@@ -1053,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 314,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1098,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 206,
       "user": "KeyID-AI"
     }
   ],
@@ -1265,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 10891,
+      "stars": 11012,
       "user": "HKUDS"
     },
     {
@@ -1280,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1114,
+      "stars": 1116,
       "user": "FreedomIntelligence"
     },
     {
@@ -1295,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 894,
       "user": "jackwener"
     },
     {
@@ -1310,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 883,
       "user": "aiming-lab"
     },
     {
@@ -1325,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 758,
       "user": "knowsuchagency"
     }
   ],
@@ -1344,21 +1368,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsai7vinej4my7mk15te5.png",
       "source": "Dev.to",
       "user": "Luke"
-    },
-    {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -1421,36 +1430,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
-    },
-    {
-      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
-      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
-      "published_at": "2026-03-11T10:43:47Z",
-      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "go",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
-      "source": "Dev.to",
-      "user": "Supriya"
     },
     {
       "title": "Recently Played: bringing back my Last.fm component",
@@ -1559,6 +1538,19 @@
   ],
   "Cloud": [
     {
+      "title": "Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)",
+      "url": "https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh",
+      "published_at": "2026-03-13T05:50:07Z",
+      "description": "Agregar un CDN parece algo obvio. Hasta que es lo único que se interpone entre tú y un deployment...",
+      "tags": [
+        "arquitecturacloud",
+        "decisionesdearquitec"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmy6ptkxm%2Fproduction%2F9d13dc1efcb777fb49b96bee3037d01ad6284260-1376x768.png",
+      "source": "Dev.to",
+      "user": "David De Los Santos Cuy Sánchez"
+    },
+    {
       "title": "Getting Started with Gemini CLI",
       "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
       "published_at": "2026-03-11T17:45:44Z",
@@ -1585,7 +1577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1649,6 +1641,16 @@
     }
   ],
   "Security": [
+    {
+      "title": "AI did a good job... and almost deleted everything",
+      "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
+      "published_at": "2026-03-12T22:01:29Z",
+      "description": "I would like to share an experience I had today.  TLDR:   AI finds minor security problem: danger of...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png",
+      "source": "Dev.to",
+      "user": "EECOLOR"
+    },
     {
       "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
       "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
@@ -1722,6 +1724,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
+      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
+      "published_at": "2026-03-12T22:10:51Z",
+      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
+      "tags": [
+        "ai",
+        "mcp",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
+    },
     {
       "title": "I Built a Secure Planning Agent with MCP and Keycard",
       "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
@@ -1928,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 314,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1973,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 206,
       "user": "KeyID-AI"
     },
     {
@@ -1988,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 10891,
+      "stars": 11012,
       "user": "HKUDS"
     },
     {
@@ -2003,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1114,
+      "stars": 1116,
       "user": "FreedomIntelligence"
     },
     {
@@ -2018,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 894,
       "user": "jackwener"
     },
     {
@@ -2033,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 883,
       "user": "aiming-lab"
     },
     {
@@ -2048,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 758,
       "user": "knowsuchagency"
     },
     {
@@ -2078,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "mem9-ai"
     },
     {
@@ -2093,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2108,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "epiral"
     },
     {
@@ -2123,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "verssache"
     }
   ]
