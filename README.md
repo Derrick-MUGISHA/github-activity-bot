@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-13-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.7%)
 
 **Security**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.3 (30.3%)
-Java            ███████████████████████ 23.6 (23.6%)
-Python          █████████████████████ 21.3 (21.3%)
-Go              ████████████████████ 20.2 (20.2%)
-Rust            ██ 2.2 (2.2%)
+JavaScript      ██████████████████████████████ 31.0 (31.0%)
+Java            ███████████████████████ 24.1 (24.1%)
+Python          ████████████████████ 20.7 (20.7%)
+Go              ███████████████████ 19.5 (19.5%)
+Rust            ██ 2.3 (2.3%)
 PHP             █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
 
@@ -74,8 +74,8 @@ Swift           █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 27
     "Java" : 21
-    "Python" : 19
-    "Go" : 18
+    "Python" : 18
+    "Go" : 17
     "Rust" : 2
     "PHP" : 1
     "Swift" : 1
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-13 12:00 CAT)
+## 📅 Latest Updates (2026-03-13 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,7 +205,6 @@ npm run test
 - [The one question that made me turn down a job offer](https://dev.to/etienneburdet/the-one-question-that-made-me-turn-down-a-job-offer-5g1c) _[Dev.to]_
 - [Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit](https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e) _[Dev.to]_
 - [The Cognitive Costs of AI Chatbots and a Framework for Better Design](https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l) _[Dev.to]_
-- [Djangonaut Diaries: Week 1 — Setting up the space (and the machine)](https://dev.to/rodbv/djangonaut-diaries-week-1-setting-the-stage-and-the-machine-592h) _[Dev.to]_
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [I Built a Secure Planning Agent with MCP and Keycard](https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a) _[Dev.to]_
 - [DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness](https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni) _[Dev.to]_
+- [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 12:56:36 CAT_
+_Last automated update: Fri, 13 Mar 2026 13:31:43 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Fri, 13 Mar 2026 12:56:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
-
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-### 2. Database: What is database normalization and denormalization?
+### 1. Database: What is database normalization and denormalization?
 
 **Difficulty**: Medium | **Topics**: design, optimization
 
@@ -246,14 +235,25 @@ Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Users, posts, relationships, indexes, partitioning
+
+</details>
+
+### 3. SystemDesign: Design Twitter's timeline feature
+
+**Difficulty**: Hard | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 10:56:36 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 11:31:43 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
