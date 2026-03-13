@@ -30,9 +30,9 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
-
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![go](https://img.shields.io/badge/go-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![career](https://img.shields.io/badge/career-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
 
 
 
@@ -164,6 +164,15 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png" width="200" alt="I Built EchoHR: The HR System That Doesn’t Ghost You" />
+      <br/>
+      <b>I Built EchoHR: The HR System That Doesn’t Ghost Y...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foehkov7zdtrxnee742ve.png" width="200" alt="An Update on How We Judge DEV Challenges" />
       <br/>
@@ -181,15 +190,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png" width="200" alt="AI did a good job... and almost deleted everything" />
-      <br/>
-      <b>AI did a good job... and almost deleted everything</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -200,6 +200,7 @@ npm run test
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ilf) _[Dev.to]_
 - [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i) _[Dev.to]_
 - [The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?](https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1) _[Dev.to]_
+- [I Built EchoHR: The HR System That Doesn’t Ghost You](https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i) _[Dev.to]_
 - [An Update on How We Judge DEV Challenges](https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg) _[Dev.to]_
 - [Deployments made easy: Cloud Run 101](https://dev.to/googleai/deployments-made-easy-cloud-run-101-11ma) _[Dev.to]_
 - [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
@@ -210,15 +211,14 @@ npm run test
 - [MCP Server with .Net](https://dev.to/antdimot/mcp-server-with-net-5cih) _[Dev.to]_
 - [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
 - [I Built and Authorized a Planning Agent with MCP and Keycard](https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a) _[Dev.to]_
-- [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [When AI Writes the Code… Who Takes Responsibility?](https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc) _[Dev.to]_
+- [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
-- [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 00:24:52 CAT_
+_Last automated update: Sat, 14 Mar 2026 00:51:29 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 14 Mar 2026 00:24:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 22:24:52 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 22:51:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
