@@ -16,36 +16,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
-    },
-    {
-      "title": "Getting Started with Gemini CLI",
-      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
-      "published_at": "2026-03-11T17:45:44Z",
-      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "experience report: coding a framework with AI",
       "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
       "published_at": "2026-03-12T08:48:19Z",
@@ -102,19 +72,19 @@
       "user": "Paula Gearon"
     },
     {
-      "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
-      "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
-      "published_at": "2026-03-10T19:56:15Z",
-      "description": "A freelancer's frustration, an undocumented API, and an AI pair-programmer. Here's how it went.      ...",
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
       "tags": [
         "ai",
-        "cli",
-        "typescript",
-        "tooling"
+        "security",
+        "authentication",
+        "oauth"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
       "source": "Dev.to",
-      "user": "yabbal"
+      "user": "Saif "
     },
     {
       "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
@@ -130,21 +100,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgwfrjufgjkynfqhxm2tj.png",
       "source": "Dev.to",
       "user": "Yao-Hui Chua"
-    },
-    {
-      "title": "One command to add structured markup to your AI agent",
-      "url": "https://dev.to/zag/one-command-to-add-structured-markup-to-your-ai-agent-3pp9",
-      "published_at": "2026-03-11T21:41:26Z",
-      "description": "I've been keeping a personal knowledge base for years. Notes, specs, decisions, journal entries — all...",
-      "tags": [
-        "ai",
-        "productivity",
-        "writing",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuysg76jk35k0a3isknjb.png",
-      "source": "Dev.to",
-      "user": "Alexandr Zahatski"
     },
     {
       "title": "I Built a Secure Planning Agent with MCP and Keycard",
@@ -251,6 +206,21 @@
       "user": "Ahmet Zeybek"
     },
     {
+      "title": "Getting Started with Gemini CLI",
+      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
+      "published_at": "2026-03-11T17:45:44Z",
+      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
+      "tags": [
+        "gemini",
+        "cli",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
+    },
+    {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
       "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
       "published_at": "2026-03-11T14:44:40Z",
@@ -296,19 +266,19 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
-      "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
-      "published_at": "2026-03-10T23:13:04Z",
-      "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
       "tags": [
-        "machinelearning",
-        "computervision",
-        "deeplearning",
-        "opensource"
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ze6xe8i9z5n81ux8i60.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
       "source": "Dev.to",
-      "user": "Vladimir Iglovikov"
+      "user": "GrahamTheDev"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -326,34 +296,19 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
-      "published_at": "2026-03-07T10:44:43Z",
-      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
-      "tags": [
-        "webdev",
-        "ai",
-        "automation",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
-      "source": "Dev.to",
-      "user": "GrahamTheDev"
-    },
-    {
-      "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
-      "url": "https://dev.to/googleai/gemini-embedding-2-our-first-natively-multimodal-embedding-model-4apn",
-      "published_at": "2026-03-10T21:01:28Z",
-      "description": "Today we're releasing Gemini Embedding 2, our first fully multimodal embedding model built on the...",
+      "title": "One command to add structured markup to your AI agent",
+      "url": "https://dev.to/zag/one-command-to-add-structured-markup-to-your-ai-agent-3pp9",
+      "published_at": "2026-03-11T21:41:26Z",
+      "description": "I've been keeping a personal knowledge base for years. Notes, specs, decisions, journal entries — all...",
       "tags": [
         "ai",
-        "embedding",
-        "google",
-        "news"
+        "productivity",
+        "writing",
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnr8zdnz0yotyydk110vm.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuysg76jk35k0a3isknjb.png",
       "source": "Dev.to",
-      "user": "Patrick Loeber"
+      "user": "Alexandr Zahatski"
     },
     {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
@@ -460,6 +415,21 @@
       "user": "Chris Noring"
     },
     {
+      "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
+      "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
+      "published_at": "2026-03-10T23:13:04Z",
+      "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
+      "tags": [
+        "machinelearning",
+        "computervision",
+        "deeplearning",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ze6xe8i9z5n81ux8i60.png",
+      "source": "Dev.to",
+      "user": "Vladimir Iglovikov"
+    },
+    {
       "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
       "url": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
       "published_at": "2026-03-02T18:53:22Z",
@@ -488,6 +458,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanjkeuocmqgo7j3hk56b.png",
       "source": "Dev.to",
       "user": "Egor Fedorov"
+    },
+    {
+      "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
+      "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
+      "published_at": "2026-03-10T19:56:15Z",
+      "description": "A freelancer's frustration, an undocumented API, and an AI pair-programmer. Here's how it went.      ...",
+      "tags": [
+        "ai",
+        "cli",
+        "typescript",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
+      "source": "Dev.to",
+      "user": "yabbal"
     },
     {
       "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
@@ -663,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "f"
     },
     {
@@ -682,34 +667,19 @@
       "user": "holysheep123"
     },
     {
-      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "url": "https://github.com/fjb040911/ai-rules",
-      "published_at": "2026-03-06T08:07:15Z",
-      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+      "published_at": "2026-03-11T19:22:52Z",
+      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 243,
-      "user": "fjb040911"
-    },
-    {
-      "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
-      "url": "https://github.com/karpathy/autoresearch",
-      "published_at": "2026-03-06T22:00:43Z",
-      "description": "AI agents running research on single-GPU nanochat training automatically",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
-      "source": "GitHub",
-      "stars": 28658,
-      "user": "karpathy"
+      "stars": 237,
+      "user": "vasilytrofimchuk"
     },
     {
       "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
@@ -723,8 +693,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1078,
       "user": "FreedomIntelligence"
+    },
+    {
+      "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
+      "url": "https://github.com/aiming-lab/MetaClaw",
+      "published_at": "2026-03-09T13:47:13Z",
+      "description": "Just talk to your agent — it learns and EVOLVES.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
+      "source": "GitHub",
+      "stars": 675,
+      "user": "aiming-lab"
     },
     {
       "title": "mem9-ai/mem9 - GitHub Repository",
@@ -738,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "mem9-ai"
     },
     {
@@ -753,8 +738,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 148,
       "user": "epiral"
+    },
+    {
+      "title": "verssache/chatgpt-creator - A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
+      "url": "https://github.com/verssache/chatgpt-creator",
+      "published_at": "2026-03-10T16:21:59Z",
+      "description": "A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "verssache"
     }
   ],
   "JavaScript": [
@@ -816,21 +816,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
       "source": "Dev.to",
       "user": "Dumebi Okolo"
-    },
-    {
-      "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
-      "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
-      "published_at": "2026-03-10T19:56:15Z",
-      "description": "A freelancer's frustration, an undocumented API, and an AI pair-programmer. Here's how it went.      ...",
-      "tags": [
-        "ai",
-        "cli",
-        "typescript",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
-      "source": "Dev.to",
-      "user": "yabbal"
     },
     {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
@@ -905,6 +890,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
+    },
+    {
+      "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
+      "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
+      "published_at": "2026-03-10T19:56:15Z",
+      "description": "A freelancer's frustration, an undocumented API, and an AI pair-programmer. Here's how it went.      ...",
+      "tags": [
+        "ai",
+        "cli",
+        "typescript",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
+      "source": "Dev.to",
+      "user": "yabbal"
     },
     {
       "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
@@ -1068,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "f"
     },
     {
@@ -1087,19 +1087,19 @@
       "user": "holysheep123"
     },
     {
-      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "url": "https://github.com/fjb040911/ai-rules",
-      "published_at": "2026-03-06T08:07:15Z",
-      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+      "published_at": "2026-03-11T19:22:52Z",
+      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 243,
-      "user": "fjb040911"
+      "stars": 237,
+      "user": "vasilytrofimchuk"
     },
     {
       "title": "khanhduytran0/coruna - The leaked exploit toolkit for various iOS versions",
@@ -1113,7 +1113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 235,
       "user": "khanhduytran0"
     }
   ],
@@ -1283,21 +1283,6 @@
       "user": "gilad"
     },
     {
-      "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
-      "url": "https://github.com/karpathy/autoresearch",
-      "published_at": "2026-03-06T22:00:43Z",
-      "description": "AI agents running research on single-GPU nanochat training automatically",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
-      "source": "GitHub",
-      "stars": 28658,
-      "user": "karpathy"
-    },
-    {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "published_at": "2026-03-08T13:52:57Z",
@@ -1309,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8699,
+      "stars": 8989,
       "user": "HKUDS"
     },
     {
@@ -1324,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1078,
       "user": "FreedomIntelligence"
     },
     {
@@ -1339,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 787,
       "user": "jackwener"
     },
     {
@@ -1354,8 +1339,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 695,
       "user": "knowsuchagency"
+    },
+    {
+      "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
+      "url": "https://github.com/aiming-lab/MetaClaw",
+      "published_at": "2026-03-09T13:47:13Z",
+      "description": "Just talk to your agent — it learns and EVOLVES.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
+      "source": "GitHub",
+      "stars": 675,
+      "user": "aiming-lab"
     }
   ],
   "DevOps": [
@@ -1403,6 +1403,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "Let Dependabot Merge Its Own PRs",
+      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
+      "published_at": "2026-03-08T18:16:29Z",
+      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
+      "tags": [
+        "github",
+        "cicd",
+        "githubactions",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
     }
   ],
   "WebDev": [
@@ -1520,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 502,
       "user": "steipete"
     }
   ],
@@ -1537,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 235,
       "user": "khanhduytran0"
     }
   ],
@@ -1628,7 +1643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 502,
       "user": "steipete"
     }
   ],
@@ -1707,36 +1722,6 @@
   ],
   "Tools": [
     {
-      "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
-      "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
-      "published_at": "2026-03-10T19:56:15Z",
-      "description": "A freelancer's frustration, an undocumented API, and an AI pair-programmer. Here's how it went.      ...",
-      "tags": [
-        "ai",
-        "cli",
-        "typescript",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
-      "source": "Dev.to",
-      "user": "yabbal"
-    },
-    {
-      "title": "One command to add structured markup to your AI agent",
-      "url": "https://dev.to/zag/one-command-to-add-structured-markup-to-your-ai-agent-3pp9",
-      "published_at": "2026-03-11T21:41:26Z",
-      "description": "I've been keeping a personal knowledge base for years. Notes, specs, decisions, journal entries — all...",
-      "tags": [
-        "ai",
-        "productivity",
-        "writing",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuysg76jk35k0a3isknjb.png",
-      "source": "Dev.to",
-      "user": "Alexandr Zahatski"
-    },
-    {
       "title": "I Built a Secure Planning Agent with MCP and Keycard",
       "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
       "published_at": "2026-03-11T19:19:14Z",
@@ -1795,6 +1780,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "One command to add structured markup to your AI agent",
+      "url": "https://dev.to/zag/one-command-to-add-structured-markup-to-your-ai-agent-3pp9",
+      "published_at": "2026-03-11T21:41:26Z",
+      "description": "I've been keeping a personal knowledge base for years. Notes, specs, decisions, journal entries — all...",
+      "tags": [
+        "ai",
+        "productivity",
+        "writing",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuysg76jk35k0a3isknjb.png",
+      "source": "Dev.to",
+      "user": "Alexandr Zahatski"
     },
     {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
@@ -1886,6 +1886,36 @@
       "user": "Egor Fedorov"
     },
     {
+      "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
+      "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
+      "published_at": "2026-03-10T19:56:15Z",
+      "description": "A freelancer's frustration, an undocumented API, and an AI pair-programmer. Here's how it went.      ...",
+      "tags": [
+        "ai",
+        "cli",
+        "typescript",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
+      "source": "Dev.to",
+      "user": "yabbal"
+    },
+    {
+      "title": "Let Dependabot Merge Its Own PRs",
+      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
+      "published_at": "2026-03-08T18:16:29Z",
+      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
+      "tags": [
+        "github",
+        "cicd",
+        "githubactions",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
+    },
+    {
       "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
       "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
       "published_at": "2026-03-09T23:42:30Z",
@@ -1912,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "f"
     },
     {
@@ -1931,19 +1961,19 @@
       "user": "holysheep123"
     },
     {
-      "title": "fjb040911/ai-rules - ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
-      "url": "https://github.com/fjb040911/ai-rules",
-      "published_at": "2026-03-06T08:07:15Z",
-      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+      "published_at": "2026-03-11T19:22:52Z",
+      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8717555?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 243,
-      "user": "fjb040911"
+      "stars": 237,
+      "user": "vasilytrofimchuk"
     },
     {
       "title": "khanhduytran0/coruna - The leaked exploit toolkit for various iOS versions",
@@ -1957,23 +1987,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 235,
       "user": "khanhduytran0"
-    },
-    {
-      "title": "karpathy/autoresearch - AI agents running research on single-GPU nanochat training automatically",
-      "url": "https://github.com/karpathy/autoresearch",
-      "published_at": "2026-03-06T22:00:43Z",
-      "description": "AI agents running research on single-GPU nanochat training automatically",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
-      "source": "GitHub",
-      "stars": 28658,
-      "user": "karpathy"
     },
     {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
@@ -1987,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8699,
+      "stars": 8989,
       "user": "HKUDS"
     },
     {
@@ -2002,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1078,
       "user": "FreedomIntelligence"
     },
     {
@@ -2017,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 787,
       "user": "jackwener"
     },
     {
@@ -2032,8 +2047,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 695,
       "user": "knowsuchagency"
+    },
+    {
+      "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
+      "url": "https://github.com/aiming-lab/MetaClaw",
+      "published_at": "2026-03-09T13:47:13Z",
+      "description": "Just talk to your agent — it learns and EVOLVES.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
+      "source": "GitHub",
+      "stars": 675,
+      "user": "aiming-lab"
     },
     {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
@@ -2047,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 502,
       "user": "steipete"
     },
     {
@@ -2062,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "mem9-ai"
     },
     {
@@ -2081,21 +2111,6 @@
       "user": "MuhammadHananAsghar"
     },
     {
-      "title": "AlmogBaku/debug-skill - GitHub Repository",
-      "url": "https://github.com/AlmogBaku/debug-skill",
-      "published_at": "2026-03-06T14:34:45Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/98982?v=4",
-      "source": "GitHub",
-      "stars": 151,
-      "user": "AlmogBaku"
-    },
-    {
       "title": "epiral/agent-clip - AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
       "url": "https://github.com/epiral/agent-clip",
       "published_at": "2026-03-09T07:25:56Z",
@@ -2107,8 +2122,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 148,
       "user": "epiral"
+    },
+    {
+      "title": "verssache/chatgpt-creator - A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
+      "url": "https://github.com/verssache/chatgpt-creator",
+      "published_at": "2026-03-10T16:21:59Z",
+      "description": "A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "verssache"
     }
   ]
 }
