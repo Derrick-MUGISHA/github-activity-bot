@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-13 23:00 CAT)
+## 📅 Latest Updates (2026-03-14 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 23:47:37 CAT_
+_Last automated update: Sat, 14 Mar 2026 00:24:52 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 13 Mar 2026 23:47:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 21:47:37 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 22:24:52 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
