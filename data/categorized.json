@@ -176,21 +176,6 @@
       "user": "Ahmet Zeybek"
     },
     {
-      "title": "Getting Started with Gemini CLI",
-      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
-      "published_at": "2026-03-11T17:45:44Z",
-      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
       "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
       "published_at": "2026-03-11T14:44:40Z",
@@ -204,6 +189,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
+    },
+    {
+      "title": "Getting Started with Gemini CLI",
+      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
+      "published_at": "2026-03-11T17:45:44Z",
+      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
+      "tags": [
+        "gemini",
+        "cli",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -648,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 271,
       "user": "vasilytrofimchuk"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 807,
       "user": "aiming-lab"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 236,
       "user": "mem9-ai"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 188,
       "user": "epiral"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "verssache"
     }
   ],
@@ -1068,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 271,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1083,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "khanhduytran0"
     },
     {
@@ -1294,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 9948,
+      "stars": 10063,
       "user": "HKUDS"
     },
     {
@@ -1324,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 842,
       "user": "jackwener"
     },
     {
@@ -1339,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 807,
       "user": "aiming-lab"
     },
     {
@@ -1354,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "knowsuchagency"
     }
   ],
@@ -1567,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "khanhduytran0"
     }
   ],
@@ -1957,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 271,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1972,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "khanhduytran0"
     },
     {
@@ -2002,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 9948,
+      "stars": 10063,
       "user": "HKUDS"
     },
     {
@@ -2032,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 842,
       "user": "jackwener"
     },
     {
@@ -2047,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 807,
       "user": "aiming-lab"
     },
     {
@@ -2062,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "knowsuchagency"
     },
     {
@@ -2092,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 236,
       "user": "mem9-ai"
     },
     {
@@ -2122,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 188,
       "user": "epiral"
     },
     {
@@ -2137,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "verssache"
     }
   ]
