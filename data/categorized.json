@@ -16,6 +16,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
+      "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
+      "published_at": "2026-03-12T22:48:44Z",
+      "description": "Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.",
+      "tags": [
+        "ai",
+        "knowledgesharing",
+        "stackoverflow",
+        "opinion"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
+    },
+    {
       "title": "Your AI code reviewer has no one to disagree with",
       "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
       "published_at": "2026-03-11T14:48:03Z",
@@ -213,21 +228,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
       "source": "Dev.to",
       "user": "Ahmet Zeybek"
-    },
-    {
-      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
-      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
-      "published_at": "2026-03-11T14:44:40Z",
-      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
-      "tags": [
-        "typescript",
-        "javascript",
-        "node",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
-      "source": "Dev.to",
-      "user": "Slee Woo"
     },
     {
       "title": "Getting Started with Gemini CLI",
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "f"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 318,
       "user": "vasilytrofimchuk"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 215,
       "user": "KeyID-AI"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1117,
       "user": "FreedomIntelligence"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 893,
       "user": "aiming-lab"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 223,
       "user": "epiral"
     },
     {
@@ -825,21 +825,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
-    },
-    {
-      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
-      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
-      "published_at": "2026-03-11T14:44:40Z",
-      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
-      "tags": [
-        "typescript",
-        "javascript",
-        "node",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
-      "source": "Dev.to",
-      "user": "Slee Woo"
     },
     {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
@@ -1062,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "f"
     },
     {
@@ -1077,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 318,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1107,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "khanhduytran0"
     },
     {
@@ -1122,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 215,
       "user": "KeyID-AI"
     }
   ],
@@ -1289,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11012,
+      "stars": 11099,
       "user": "HKUDS"
     },
     {
@@ -1304,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1117,
       "user": "FreedomIntelligence"
     },
     {
@@ -1319,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 898,
       "user": "jackwener"
     },
     {
@@ -1334,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 893,
       "user": "aiming-lab"
     },
     {
@@ -1349,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 768,
       "user": "knowsuchagency"
     }
   ],
@@ -1532,7 +1517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "khanhduytran0"
     }
   ],
@@ -1577,7 +1562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1930,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "f"
     },
     {
@@ -1945,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 318,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1975,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "khanhduytran0"
     },
     {
@@ -1990,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 215,
       "user": "KeyID-AI"
     },
     {
@@ -2005,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11012,
+      "stars": 11099,
       "user": "HKUDS"
     },
     {
@@ -2020,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1117,
       "user": "FreedomIntelligence"
     },
     {
@@ -2035,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 898,
       "user": "jackwener"
     },
     {
@@ -2050,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 893,
       "user": "aiming-lab"
     },
     {
@@ -2065,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 768,
       "user": "knowsuchagency"
     },
     {
@@ -2110,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2125,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 223,
       "user": "epiral"
     },
     {
