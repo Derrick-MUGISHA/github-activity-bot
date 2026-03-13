@@ -117,21 +117,6 @@
       "user": "Kim Maida"
     },
     {
-      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
-      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
-      "published_at": "2026-03-10T13:09:37Z",
-      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
-      "tags": [
-        "ai",
-        "agents",
-        "webdev",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
-      "source": "Dev.to",
-      "user": "Jason Agostoni"
-    },
-    {
       "title": "When AI Writes the Code… Who Takes Responsibility?",
       "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
       "published_at": "2026-03-10T22:39:46Z",
@@ -618,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 318,
       "user": "f"
     },
     {
@@ -648,8 +633,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 299,
       "user": "vasilytrofimchuk"
+    },
+    {
+      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+      "url": "https://github.com/KeyID-AI/agent-kit",
+      "published_at": "2026-03-13T01:55:26Z",
+      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
+      "source": "GitHub",
+      "stars": 176,
+      "user": "KeyID-AI"
     },
     {
       "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
@@ -663,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1105,
+      "stars": 1110,
       "user": "FreedomIntelligence"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 857,
       "user": "aiming-lab"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "mem9-ai"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 210,
       "user": "epiral"
     },
     {
@@ -1038,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 318,
       "user": "f"
     },
     {
@@ -1068,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 299,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1083,23 +1083,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 257,
       "user": "khanhduytran0"
     },
     {
-      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
-      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
-      "published_at": "2026-03-10T19:05:31Z",
-      "description": "Trending GitHub Repository",
+      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+      "url": "https://github.com/KeyID-AI/agent-kit",
+      "published_at": "2026-03-13T01:55:26Z",
+      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 169,
-      "user": "michelleoincx"
+      "stars": 176,
+      "user": "KeyID-AI"
     }
   ],
   "Python": [
@@ -1254,21 +1254,6 @@
       "user": "gilad"
     },
     {
-      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
-      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
-      "published_at": "2026-03-10T19:05:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
-      "source": "GitHub",
-      "stars": 169,
-      "user": "michelleoincx"
-    },
-    {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "published_at": "2026-03-08T13:52:57Z",
@@ -1280,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 10511,
+      "stars": 10677,
       "user": "HKUDS"
     },
     {
@@ -1295,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1105,
+      "stars": 1110,
       "user": "FreedomIntelligence"
     },
     {
@@ -1310,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 876,
       "user": "jackwener"
     },
     {
@@ -1325,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 857,
       "user": "aiming-lab"
     },
     {
@@ -1340,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 737,
       "user": "knowsuchagency"
     }
   ],
@@ -1568,7 +1553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 257,
       "user": "khanhduytran0"
     }
   ],
@@ -1928,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 318,
       "user": "f"
     },
     {
@@ -1958,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 299,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1973,23 +1958,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 257,
       "user": "khanhduytran0"
     },
     {
-      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
-      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
-      "published_at": "2026-03-10T19:05:31Z",
-      "description": "Trending GitHub Repository",
+      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+      "url": "https://github.com/KeyID-AI/agent-kit",
+      "published_at": "2026-03-13T01:55:26Z",
+      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 169,
-      "user": "michelleoincx"
+      "stars": 176,
+      "user": "KeyID-AI"
     },
     {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
@@ -2003,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 10511,
+      "stars": 10677,
       "user": "HKUDS"
     },
     {
@@ -2018,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1105,
+      "stars": 1110,
       "user": "FreedomIntelligence"
     },
     {
@@ -2033,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 876,
       "user": "jackwener"
     },
     {
@@ -2048,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 857,
       "user": "aiming-lab"
     },
     {
@@ -2063,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 737,
       "user": "knowsuchagency"
     },
     {
@@ -2093,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "mem9-ai"
     },
     {
@@ -2123,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 210,
       "user": "epiral"
     },
     {

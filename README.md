@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-13-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.5%)
 
 **WebDev**: 🟦🟦🟦🟦 9 (8.7%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦 5 (4.9%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.9%)
 
-**Database**: 🟦🟦 4 (3.8%)
+**Database**: 🟦🟦 4 (3.9%)
 
 **Mobile**: 🟦 2 (1.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,13 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.0 (31.0%)
-Java            ███████████████████████ 24.1 (24.1%)
-Python          ████████████████████ 20.7 (20.7%)
-Go              ███████████████████ 19.5 (19.5%)
-Rust            ██ 2.3 (2.3%)
-PHP             █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 31.8 (31.8%)
+Java            ███████████████████████ 24.7 (24.7%)
+Python          ███████████████████ 20.0 (20.0%)
+Go              ██████████████████ 18.8 (18.8%)
+Rust            ██ 2.4 (2.4%)
+PHP             █ 1.2 (1.2%)
+Swift           █ 1.2 (1.2%)
 
 ```
 
@@ -74,8 +74,8 @@ Swift           █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 27
     "Java" : 21
-    "Python" : 18
-    "Go" : 17
+    "Python" : 17
+    "Go" : 16
     "Rust" : 2
     "PHP" : 1
     "Swift" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![career](https://img.shields.io/badge/career-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![showdev](https://img.shields.io/badge/showdev-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-6-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![career](https://img.shields.io/badge/career-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![showdev](https://img.shields.io/badge/showdev-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-13 13:00 CAT)
+## 📅 Latest Updates (2026-03-13 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -206,17 +206,17 @@ npm run test
 - [The Cognitive Costs of AI Chatbots and a Framework for Better Design](https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l) _[Dev.to]_
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [I Built a Secure Planning Agent with MCP and Keycard](https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a) _[Dev.to]_
-- [DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness](https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd) _[Dev.to]_
 - [When AI Writes the Code… Who Takes Responsibility?](https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni) _[Dev.to]_
-- [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
+- [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
+- [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 13:59:36 CAT_
+_Last automated update: Fri, 13 Mar 2026 15:18:15 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 13 Mar 2026 13:59:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 11:59:36 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 13:18:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
