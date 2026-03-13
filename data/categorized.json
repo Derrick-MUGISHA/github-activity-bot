@@ -31,6 +31,21 @@
       "user": "Sagiv ben giat"
     },
     {
+      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
+      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
+      "published_at": "2026-03-12T02:26:38Z",
+      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
+      "source": "Dev.to",
+      "user": "ujja"
+    },
+    {
       "title": "AI did a good job... and almost deleted everything",
       "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
       "published_at": "2026-03-12T22:01:29Z",
@@ -273,21 +288,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgwfrjufgjkynfqhxm2tj.png",
       "source": "Dev.to",
       "user": "Yao-Hui Chua"
-    },
-    {
-      "title": "One command to add structured markup to your AI agent",
-      "url": "https://dev.to/zag/one-command-to-add-structured-markup-to-your-ai-agent-3pp9",
-      "published_at": "2026-03-11T21:41:26Z",
-      "description": "I've been keeping a personal knowledge base for years. Notes, specs, decisions, journal entries — all...",
-      "tags": [
-        "ai",
-        "productivity",
-        "writing",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuysg76jk35k0a3isknjb.png",
-      "source": "Dev.to",
-      "user": "Alexandr Zahatski"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "f"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "KeyID-AI"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1121,
+      "stars": 1122,
       "user": "FreedomIntelligence"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 958,
       "user": "aiming-lab"
     },
     {
@@ -1033,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "f"
     },
     {
@@ -1063,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "KeyID-AI"
     },
     {
@@ -1259,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11513,
+      "stars": 11541,
       "user": "HKUDS"
     },
     {
@@ -1274,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1121,
+      "stars": 1122,
       "user": "FreedomIntelligence"
     },
     {
@@ -1289,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 958,
       "user": "aiming-lab"
     },
     {
@@ -1319,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 816,
       "user": "knowsuchagency"
     }
   ],
@@ -1470,7 +1470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "steipete"
     }
   ],
@@ -1606,7 +1606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "steipete"
     }
   ],
@@ -1740,21 +1740,6 @@
       "user": "Richard Oliver Bray"
     },
     {
-      "title": "One command to add structured markup to your AI agent",
-      "url": "https://dev.to/zag/one-command-to-add-structured-markup-to-your-ai-agent-3pp9",
-      "published_at": "2026-03-11T21:41:26Z",
-      "description": "I've been keeping a personal knowledge base for years. Notes, specs, decisions, journal entries — all...",
-      "tags": [
-        "ai",
-        "productivity",
-        "writing",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuysg76jk35k0a3isknjb.png",
-      "source": "Dev.to",
-      "user": "Alexandr Zahatski"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -1871,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "f"
     },
     {
@@ -1901,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "KeyID-AI"
     },
     {
@@ -1931,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11513,
+      "stars": 11541,
       "user": "HKUDS"
     },
     {
@@ -1946,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1121,
+      "stars": 1122,
       "user": "FreedomIntelligence"
     },
     {
@@ -1961,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 958,
       "user": "aiming-lab"
     },
     {
@@ -1991,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 816,
       "user": "knowsuchagency"
     },
     {
@@ -2006,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "steipete"
     },
     {
