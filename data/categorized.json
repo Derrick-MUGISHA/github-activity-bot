@@ -633,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Rohit24567"
     },
     {
@@ -648,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 314,
       "user": "f"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 251,
       "user": "vasilytrofimchuk"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1086,
       "user": "FreedomIntelligence"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 727,
       "user": "aiming-lab"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 232,
       "user": "mem9-ai"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 163,
       "user": "epiral"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 109,
       "user": "verssache"
     }
   ],
@@ -846,6 +846,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
+    },
+    {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
     },
     {
       "title": "i built a social platform where everything vanishes after 24 hours",
@@ -1053,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Rohit24567"
     },
     {
@@ -1068,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 314,
       "user": "f"
     },
     {
@@ -1098,7 +1113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 251,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1113,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "khanhduytran0"
     }
   ],
@@ -1294,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8989,
+      "stars": 9373,
       "user": "HKUDS"
     },
     {
@@ -1309,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1086,
       "user": "FreedomIntelligence"
     },
     {
@@ -1324,23 +1339,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 796,
       "user": "jackwener"
-    },
-    {
-      "title": "knowsuchagency/mcp2cli - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "url": "https://github.com/knowsuchagency/mcp2cli",
-      "published_at": "2026-03-09T03:46:37Z",
-      "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
-      "source": "GitHub",
-      "stars": 695,
-      "user": "knowsuchagency"
     },
     {
       "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
@@ -1354,8 +1354,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 727,
       "user": "aiming-lab"
+    },
+    {
+      "title": "knowsuchagency/mcp2cli - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
+      "url": "https://github.com/knowsuchagency/mcp2cli",
+      "published_at": "2026-03-09T03:46:37Z",
+      "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
+      "source": "GitHub",
+      "stars": 701,
+      "user": "knowsuchagency"
     }
   ],
   "DevOps": [
@@ -1403,21 +1418,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
-    },
-    {
-      "title": "Let Dependabot Merge Its Own PRs",
-      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
-      "published_at": "2026-03-08T18:16:29Z",
-      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
-      "tags": [
-        "github",
-        "cicd",
-        "githubactions",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
-      "source": "Dev.to",
-      "user": "Nick Taylor"
     }
   ],
   "WebDev": [
@@ -1465,6 +1465,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
+    },
+    {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
     },
     {
       "title": "Recently Played: bringing back my Last.fm component",
@@ -1552,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "khanhduytran0"
     }
   ],
@@ -1584,7 +1599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1901,21 +1916,6 @@
       "user": "yabbal"
     },
     {
-      "title": "Let Dependabot Merge Its Own PRs",
-      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
-      "published_at": "2026-03-08T18:16:29Z",
-      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
-      "tags": [
-        "github",
-        "cicd",
-        "githubactions",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
-      "source": "Dev.to",
-      "user": "Nick Taylor"
-    },
-    {
       "title": "Rohit24567/HyperLiquid-Claw - Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
       "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
       "published_at": "2026-03-09T23:42:30Z",
@@ -1927,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100662156?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Rohit24567"
     },
     {
@@ -1942,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 314,
       "user": "f"
     },
     {
@@ -1972,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 251,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1987,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "khanhduytran0"
     },
     {
@@ -2002,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 8989,
+      "stars": 9373,
       "user": "HKUDS"
     },
     {
@@ -2017,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1086,
       "user": "FreedomIntelligence"
     },
     {
@@ -2032,23 +2032,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 796,
       "user": "jackwener"
-    },
-    {
-      "title": "knowsuchagency/mcp2cli - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "url": "https://github.com/knowsuchagency/mcp2cli",
-      "published_at": "2026-03-09T03:46:37Z",
-      "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
-      "source": "GitHub",
-      "stars": 695,
-      "user": "knowsuchagency"
     },
     {
       "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
@@ -2062,8 +2047,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 727,
       "user": "aiming-lab"
+    },
+    {
+      "title": "knowsuchagency/mcp2cli - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
+      "url": "https://github.com/knowsuchagency/mcp2cli",
+      "published_at": "2026-03-09T03:46:37Z",
+      "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
+      "source": "GitHub",
+      "stars": 701,
+      "user": "knowsuchagency"
     },
     {
       "title": "steipete/discrawl - cli for discord with sqlite backend",
@@ -2092,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 232,
       "user": "mem9-ai"
     },
     {
@@ -2107,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2122,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 163,
       "user": "epiral"
     },
     {
@@ -2137,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 109,
       "user": "verssache"
     }
   ]
