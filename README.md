@@ -44,9 +44,9 @@
 
 **Database**: 🟦🟦 4 (3.8%)
 
-**Cloud**: 🟦 2 (1.9%)
+**Mobile**: 🟦 2 (1.9%)
 
-**Mobile**:  1 (1.0%)
+**Cloud**: 🟦 2 (1.9%)
 
 
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![career](https://img.shields.io/badge/career-9-blue) ![go](https://img.shields.io/badge/go-8-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![dei](https://img.shields.io/badge/dei-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![career](https://img.shields.io/badge/career-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![wecoded](https://img.shields.io/badge/wecoded-6-blue) ![showdev](https://img.shields.io/badge/showdev-6-blue) 
 
 
 
@@ -162,15 +162,6 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png" width="200" alt="experience report: coding a framework with AI" />
-      <br/>
-      <b>experience report: coding a framework with AI</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png" width="200" alt="Your AI code reviewer has no one to disagree with" />
       <br/>
@@ -188,6 +179,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/quoll/clojure-inheritance-sort-of-2i6i">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png" width="200" alt="Clojure Inheritance… Sort Of" />
+      <br/>
+      <b>Clojure Inheritance… Sort Of</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -198,10 +198,10 @@ npm run test
 - [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i) _[Dev.to]_
 - [An Update on How We Judge DEV Challenges](https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg) _[Dev.to]_
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
-- [experience report: coding a framework with AI](https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
 - [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
 - [Clojure Inheritance… Sort Of](https://dev.to/quoll/clojure-inheritance-sort-of-2i6i) _[Dev.to]_
+- [experience report: coding a framework with AI](https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj) _[Dev.to]_
 - [The one question that made me turn down a job offer](https://dev.to/etienneburdet/the-one-question-that-made-me-turn-down-a-job-offer-5g1c) _[Dev.to]_
 - [Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit](https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e) _[Dev.to]_
 - [The Cognitive Costs of AI Chatbots and a Framework for Better Design](https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l) _[Dev.to]_
@@ -209,14 +209,14 @@ npm run test
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [I Built a Secure Planning Agent with MCP and Keycard](https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a) _[Dev.to]_
 - [DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness](https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd) _[Dev.to]_
-- [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [When AI Writes the Code… Who Takes Responsibility?](https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc) _[Dev.to]_
+- [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 12:01:56 CAT_
+_Last automated update: Fri, 13 Mar 2026 12:56:36 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 13 Mar 2026 12:01:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 10:01:56 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 10:56:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
