@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-13 11:00 CAT)
+## 📅 Latest Updates (2026-03-13 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 11:23:57 CAT_
+_Last automated update: Fri, 13 Mar 2026 12:01:56 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 13 Mar 2026 11:23:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 09:23:57 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 10:01:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
