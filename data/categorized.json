@@ -31,21 +31,6 @@
       "user": "Sagiv ben giat"
     },
     {
-      "title": "Embedding Accessibility into AI based software development",
-      "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
-      "published_at": "2026-03-12T16:07:21Z",
-      "description": "At CSUN-AT 2026, I spoke with my colleague Mallika Meiyappan on Embedding Accessibility into AI based...",
-      "tags": [
-        "a11y",
-        "llm",
-        "ai",
-        "benchmark"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzz47rv1f9gw3o8gjs9ns.png",
-      "source": "Dev.to",
-      "user": "Michael Fairchild"
-    },
-    {
       "title": "Your AI code reviewer has no one to disagree with",
       "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
       "published_at": "2026-03-11T14:48:03Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png",
       "source": "Dev.to",
       "user": "Spencer Marx"
+    },
+    {
+      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
+      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
+      "published_at": "2026-03-12T22:10:51Z",
+      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
+      "tags": [
+        "ai",
+        "mcp",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
     },
     {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
@@ -90,47 +90,6 @@
       "user": "Antonio Di Motta"
     },
     {
-      "title": "Clojure Inheritance… Sort Of",
-      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
-      "published_at": "2026-03-12T05:49:43Z",
-      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
-      "tags": [
-        "clojure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
-      "source": "Dev.to",
-      "user": "Paula Gearon"
-    },
-    {
-      "title": "experience report: coding a framework with AI",
-      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
-      "published_at": "2026-03-12T08:48:19Z",
-      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
-      "tags": [
-        "ai",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
-      "source": "Dev.to",
-      "user": "Theodor Diaconu"
-    },
-    {
-      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
-      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
-      "published_at": "2026-03-12T22:10:51Z",
-      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
-      "tags": [
-        "ai",
-        "mcp",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
-      "source": "Dev.to",
-      "user": "Sagiv ben giat"
-    },
-    {
       "title": "AI did a good job... and almost deleted everything",
       "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
       "published_at": "2026-03-12T22:01:29Z",
@@ -139,36 +98,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png",
       "source": "Dev.to",
       "user": "EECOLOR"
-    },
-    {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
-    },
-    {
-      "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
-      "url": "https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l",
-      "published_at": "2026-03-12T02:44:01Z",
-      "description": "As engineers, when we talk about the \"cost\" of using AI, we tend to focus on billing costs — the cost...",
-      "tags": [
-        "ai",
-        "uxdesign",
-        "uidesign",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgwfrjufgjkynfqhxm2tj.png",
-      "source": "Dev.to",
-      "user": "Yao-Hui Chua"
     },
     {
       "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
@@ -245,6 +174,21 @@
       "user": "Greg Baugues"
     },
     {
+      "title": "Embedding Accessibility into AI based software development",
+      "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
+      "published_at": "2026-03-12T16:07:21Z",
+      "description": "At CSUN-AT 2026, I spoke with my colleague Mallika Meiyappan on Embedding Accessibility into AI based...",
+      "tags": [
+        "a11y",
+        "llm",
+        "ai",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzz47rv1f9gw3o8gjs9ns.png",
+      "source": "Dev.to",
+      "user": "Michael Fairchild"
+    },
+    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -275,6 +219,47 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "Clojure Inheritance… Sort Of",
+      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
+      "published_at": "2026-03-12T05:49:43Z",
+      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
+      "tags": [
+        "clojure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
+      "source": "Dev.to",
+      "user": "Paula Gearon"
+    },
+    {
+      "title": "experience report: coding a framework with AI",
+      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
+      "published_at": "2026-03-12T08:48:19Z",
+      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
+      "tags": [
+        "ai",
+        "webdev",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
+      "source": "Dev.to",
+      "user": "Theodor Diaconu"
+    },
+    {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
+    },
+    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -288,6 +273,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
+      "url": "https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l",
+      "published_at": "2026-03-12T02:44:01Z",
+      "description": "As engineers, when we talk about the \"cost\" of using AI, we tend to focus on billing costs — the cost...",
+      "tags": [
+        "ai",
+        "uxdesign",
+        "uidesign",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgwfrjufgjkynfqhxm2tj.png",
+      "source": "Dev.to",
+      "user": "Yao-Hui Chua"
     },
     {
       "title": "One command to add structured markup to your AI agent",
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 338,
       "user": "vasilytrofimchuk"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 253,
       "user": "KeyID-AI"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 931,
       "user": "aiming-lab"
     },
     {
@@ -768,21 +768,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
-      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
-      "published_at": "2026-03-10T13:00:34Z",
-      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "showdev",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
-      "source": "Dev.to",
-      "user": "Dumebi Okolo"
-    },
-    {
       "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
       "url": "https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872",
       "published_at": "2026-03-13T04:17:57Z",
@@ -798,18 +783,19 @@
       "user": "Christian Segovia"
     },
     {
-      "title": "experience report: coding a framework with AI",
-      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
-      "published_at": "2026-03-12T08:48:19Z",
-      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
+      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
+      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
+      "published_at": "2026-03-10T13:00:34Z",
+      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
       "tags": [
-        "ai",
         "webdev",
-        "typescript"
+        "javascript",
+        "showdev",
+        "nextjs"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
       "source": "Dev.to",
-      "user": "Theodor Diaconu"
+      "user": "Dumebi Okolo"
     },
     {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
@@ -840,6 +826,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
       "source": "Dev.to",
       "user": "Supriya"
+    },
+    {
+      "title": "experience report: coding a framework with AI",
+      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
+      "published_at": "2026-03-12T08:48:19Z",
+      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
+      "tags": [
+        "ai",
+        "webdev",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
+      "source": "Dev.to",
+      "user": "Theodor Diaconu"
     },
     {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
@@ -1018,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 338,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1078,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 253,
       "user": "KeyID-AI"
     }
   ],
@@ -1259,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11270,
+      "stars": 11317,
       "user": "HKUDS"
     },
     {
@@ -1289,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 931,
       "user": "aiming-lab"
     },
     {
@@ -1304,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 904,
       "user": "jackwener"
     },
     {
@@ -1319,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 791,
       "user": "knowsuchagency"
     }
   ],
@@ -1445,21 +1445,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
       "source": "Dev.to",
       "user": "Martin Hicks"
-    },
-    {
-      "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
-      "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
-      "published_at": "2026-02-22T15:16:30Z",
-      "description": "Introduction   For more than a decade, building modals on the web meant re-implementing...",
-      "tags": [
-        "webdev",
-        "frontend",
-        "a11y",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch7vqjii90e7m04icowr.png",
-      "source": "Dev.to",
-      "user": "Anja Beisel"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1637,21 +1622,6 @@
       "user": "EECOLOR"
     },
     {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
-    },
-    {
       "title": "TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.",
       "url": "https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6",
       "published_at": "2026-03-10T14:58:49Z",
@@ -1679,6 +1649,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhle8kx2octm0lb4bpmit.png",
       "source": "Dev.to",
       "user": "JLarky"
+    },
+    {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -1871,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 338,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1931,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 253,
       "user": "KeyID-AI"
     },
     {
@@ -1946,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11270,
+      "stars": 11317,
       "user": "HKUDS"
     },
     {
@@ -1976,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 931,
       "user": "aiming-lab"
     },
     {
@@ -1991,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 904,
       "user": "jackwener"
     },
     {
@@ -2006,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 791,
       "user": "knowsuchagency"
     },
     {
