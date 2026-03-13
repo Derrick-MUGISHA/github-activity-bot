@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-13 16:00 CAT)
+## 📅 Latest Updates (2026-03-13 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
 - [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 16:10:15 CAT_
+_Last automated update: Fri, 13 Mar 2026 17:02:56 CAT_
 
 
 
@@ -224,18 +224,29 @@ _Last automated update: Fri, 13 Mar 2026 16:10:15 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Database: What is the difference between SQL and NoSQL databases?
+
+**Difficulty**: Easy | **Topics**: databases, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Schema, scalability, ACID vs BASE
+
+</details>
+
+### 3. Database: Explain database indexing and when to use it
 
 **Difficulty**: Medium | **Topics**: optimization, performance
 
@@ -243,17 +254,6 @@ Consistency, partitioning, replication, eviction policies
 <summary>💡 Hint</summary>
 
 B-tree, trade-offs, query performance
-
-</details>
-
-### 3. Python: Explain GIL and its implications for multithreading
-
-**Difficulty**: Hard | **Topics**: concurrency, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 14:10:15 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 15:02:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
