@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-14 0:00 CAT)
+## 📅 Latest Updates (2026-03-14 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 00:51:29 CAT_
+_Last automated update: Sat, 14 Mar 2026 01:24:41 CAT_
 
 
 
@@ -226,25 +226,25 @@ _Last automated update: Sat, 14 Mar 2026 00:51:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 22:51:29 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 23:24:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
