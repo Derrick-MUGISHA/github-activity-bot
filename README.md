@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-13 22:00 CAT)
+## 📅 Latest Updates (2026-03-13 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 22:33:26 CAT_
+_Last automated update: Fri, 13 Mar 2026 23:05:10 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 13 Mar 2026 22:33:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 20:33:26 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 21:05:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
