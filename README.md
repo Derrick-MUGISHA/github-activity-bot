@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmy6ptkxm%2Fproduction%2F9d13dc1efcb777fb49b96bee3037d01ad6284260-1376x768.png" width="200" alt="Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)" />
+    <a href="https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png" width="200" alt="Your AI code reviewer has no one to disagree with" />
       <br/>
-      <b>Por qué pusimos un CDN frente a nuestro balanceado...</b>
+      <b>Your AI code reviewer has no one to disagree with</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,13 +202,13 @@ npm run test
 - [The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?](https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1) _[Dev.to]_
 - [An Update on How We Judge DEV Challenges](https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg) _[Dev.to]_
 - [Deployments made easy: Cloud Run 101](https://dev.to/googleai/deployments-made-easy-cloud-run-101-11ma) _[Dev.to]_
-- [Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)](https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
 - [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44) _[Dev.to]_
+- [Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)](https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh) _[Dev.to]_
 - [We built a video recording API at $0.01/min. Here's the tech that made it possible.](https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872) _[Dev.to]_
 - [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib) _[Dev.to]_
-- [MCP Server with .Net](https://dev.to/antdimot/mcp-server-with-net-5cih) _[Dev.to]_
 - [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
+- [MCP Server with .Net](https://dev.to/antdimot/mcp-server-with-net-5cih) _[Dev.to]_
 - [I Built and Authorized a Planning Agent with MCP and Keycard](https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a) _[Dev.to]_
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [When AI Writes the Code… Who Takes Responsibility?](https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 21:28:46 CAT_
+_Last automated update: Fri, 13 Mar 2026 21:56:05 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 13 Mar 2026 21:28:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. Python: What are generators and when would you use them?
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 19:28:46 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 19:56:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
