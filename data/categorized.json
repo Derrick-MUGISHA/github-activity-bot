@@ -31,6 +31,21 @@
       "user": "Sagiv ben giat"
     },
     {
+      "title": "Embedding Accessibility into AI based software development",
+      "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
+      "published_at": "2026-03-12T16:07:21Z",
+      "description": "At CSUN-AT 2026, I spoke with my colleague Mallika Meiyappan on Embedding Accessibility into AI based...",
+      "tags": [
+        "a11y",
+        "llm",
+        "ai",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzz47rv1f9gw3o8gjs9ns.png",
+      "source": "Dev.to",
+      "user": "Michael Fairchild"
+    },
+    {
       "title": "Your AI code reviewer has no one to disagree with",
       "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
       "published_at": "2026-03-11T14:48:03Z",
@@ -61,19 +76,18 @@
       "user": "Dumebi Okolo"
     },
     {
-      "title": "Embedding Accessibility into AI based software development",
-      "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
-      "published_at": "2026-03-12T16:07:21Z",
-      "description": "At CSUN-AT 2026, I spoke with my colleague Mallika Meiyappan on Embedding Accessibility into AI based...",
+      "title": "MCP Server with .Net",
+      "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
+      "published_at": "2026-03-12T22:52:52Z",
+      "description": "Building a MCP Server with C#",
       "tags": [
-        "a11y",
-        "llm",
-        "ai",
-        "benchmark"
+        "dotnet",
+        "mcp",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzz47rv1f9gw3o8gjs9ns.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
       "source": "Dev.to",
-      "user": "Michael Fairchild"
+      "user": "Antonio Di Motta"
     },
     {
       "title": "Clojure Inheritance… Sort Of",
@@ -117,20 +131,6 @@
       "user": "Sagiv ben giat"
     },
     {
-      "title": "MCP Server with .Net",
-      "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
-      "published_at": "2026-03-12T22:52:52Z",
-      "description": "Building a MCP Server with C#",
-      "tags": [
-        "dotnet",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
-      "source": "Dev.to",
-      "user": "Antonio Di Motta"
-    },
-    {
       "title": "AI did a good job... and almost deleted everything",
       "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
       "published_at": "2026-03-12T22:01:29Z",
@@ -171,21 +171,6 @@
       "user": "Yao-Hui Chua"
     },
     {
-      "title": "I Built a Secure Planning Agent with MCP and Keycard",
-      "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
-      "published_at": "2026-03-11T19:19:14Z",
-      "description": "My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...",
-      "tags": [
-        "agents",
-        "mcp",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
-      "source": "Dev.to",
-      "user": "Kim Maida"
-    },
-    {
       "title": "When AI Writes the Code… Who Takes Responsibility?",
       "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
       "published_at": "2026-03-10T22:39:46Z",
@@ -199,6 +184,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
       "source": "Dev.to",
       "user": "Subhrangsu Bera"
+    },
+    {
+      "title": "I Built a Secure Planning Agent with MCP and Keycard",
+      "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
+      "published_at": "2026-03-11T19:19:14Z",
+      "description": "My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...",
+      "tags": [
+        "agents",
+        "mcp",
+        "productivity",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
+      "source": "Dev.to",
+      "user": "Kim Maida"
     },
     {
       "title": "Ship Less, Measure More",
@@ -243,6 +243,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
       "source": "Dev.to",
       "user": "Greg Baugues"
+    },
+    {
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
+      "tags": [
+        "observability",
+        "webdev",
+        "monitoring",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
+      "source": "Dev.to",
+      "user": "Sovereign Revenue Guard"
+    },
+    {
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "tags": [
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "source": "Dev.to",
+      "user": "GrahamTheDev"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -290,6 +320,21 @@
       "user": "Vaishali"
     },
     {
+      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
+      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
+      "published_at": "2026-03-10T13:09:37Z",
+      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
+      "tags": [
+        "ai",
+        "agents",
+        "webdev",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
+      "source": "Dev.to",
+      "user": "Jason Agostoni"
+    },
+    {
       "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
       "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
       "published_at": "2026-03-10T15:52:17Z",
@@ -332,6 +377,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
+      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
+      "published_at": "2026-03-11T14:44:40Z",
+      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
+      "tags": [
+        "typescript",
+        "javascript",
+        "node",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
+      "source": "Dev.to",
+      "user": "Slee Woo"
     },
     {
       "title": "Your Agent Is a Small, Low-Stakes HAL",
@@ -422,66 +482,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
       "source": "Dev.to",
       "user": "Chris Noring"
-    },
-    {
-      "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
-      "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
-      "published_at": "2026-03-10T23:13:04Z",
-      "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
-      "tags": [
-        "machinelearning",
-        "computervision",
-        "deeplearning",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ze6xe8i9z5n81ux8i60.png",
-      "source": "Dev.to",
-      "user": "Vladimir Iglovikov"
-    },
-    {
-      "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
-      "url": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
-      "published_at": "2026-03-02T18:53:22Z",
-      "description": "Boss-CSS is a polymorphic \"CSS-in-JS\" library supporting multiple different ways of applying CSS...",
-      "tags": [
-        "css",
-        "react",
-        "tailwindcss",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
-      "source": "Dev.to",
-      "user": "wintercounter"
-    },
-    {
-      "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
-      "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
-      "published_at": "2026-03-10T19:56:15Z",
-      "description": "A freelancer's frustration, an undocumented API, and an AI pair-programmer. Here's how it went.      ...",
-      "tags": [
-        "ai",
-        "cli",
-        "typescript",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
-      "source": "Dev.to",
-      "user": "yabbal"
-    },
-    {
-      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
-      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
-      "published_at": "2026-03-09T15:02:27Z",
-      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
-      "tags": [
-        "programming",
-        "haskell",
-        "ai",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
-      "source": "Dev.to",
-      "user": "Kevin 心学"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -616,6 +616,21 @@
       "user": "veesahni"
     },
     {
+      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+      "published_at": "2026-03-11T19:22:52Z",
+      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
+      "source": "GitHub",
+      "stars": 324,
+      "user": "vasilytrofimchuk"
+    },
+    {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
       "url": "https://github.com/f/agentlytics",
       "published_at": "2026-03-07T01:39:41Z",
@@ -629,21 +644,6 @@
       "source": "GitHub",
       "stars": 320,
       "user": "f"
-    },
-    {
-      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
-      "published_at": "2026-03-11T19:22:52Z",
-      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
-      "source": "GitHub",
-      "stars": 318,
-      "user": "vasilytrofimchuk"
     },
     {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 224,
       "user": "KeyID-AI"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1118,
       "user": "FreedomIntelligence"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 904,
       "user": "aiming-lab"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "epiral"
     },
     {
@@ -827,6 +827,21 @@
       "user": "Andrew Bone"
     },
     {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
+    },
+    {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
       "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
       "published_at": "2026-03-11T05:30:00Z",
@@ -857,63 +872,19 @@
       "user": "Ovi ren"
     },
     {
-      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
-      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
-      "published_at": "2026-03-03T11:32:27Z",
-      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
+      "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
+      "url": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
+      "published_at": "2026-03-11T14:44:40Z",
+      "description": "Not about the result. About the zen of solving your own annoyances one weekend at a time",
       "tags": [
-        "webdevwebdev",
+        "typescript",
         "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
-      "source": "Dev.to",
-      "user": "Eastkap"
-    },
-    {
-      "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
-      "url": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
-      "published_at": "2026-03-02T18:53:22Z",
-      "description": "Boss-CSS is a polymorphic \"CSS-in-JS\" library supporting multiple different ways of applying CSS...",
-      "tags": [
-        "css",
-        "react",
-        "tailwindcss",
+        "node",
         "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
-      "user": "wintercounter"
-    },
-    {
-      "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
-      "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
-      "published_at": "2026-03-10T19:56:15Z",
-      "description": "A freelancer's frustration, an undocumented API, and an AI pair-programmer. Here's how it went.      ...",
-      "tags": [
-        "ai",
-        "cli",
-        "typescript",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
-      "source": "Dev.to",
-      "user": "yabbal"
-    },
-    {
-      "title": "The End of Developers in 2026? Elon Musk is right... but wrong.",
-      "url": "https://dev.to/0x1/zero-developers-in-2026-musk-is-right-but-wrong-1nm2",
-      "published_at": "2026-03-09T15:02:27Z",
-      "description": "AI can generate code. But code is not just syntax: it’s a language for thinking about systems. It’s...",
-      "tags": [
-        "programming",
-        "haskell",
-        "ai",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj09xnwx3xur2dainbwd.jpg",
-      "source": "Dev.to",
-      "user": "Kevin 心学"
+      "user": "Slee Woo"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1036,6 +1007,21 @@
       "user": "velmu"
     },
     {
+      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+      "published_at": "2026-03-11T19:22:52Z",
+      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
+      "source": "GitHub",
+      "stars": 324,
+      "user": "vasilytrofimchuk"
+    },
+    {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
       "url": "https://github.com/f/agentlytics",
       "published_at": "2026-03-07T01:39:41Z",
@@ -1049,21 +1035,6 @@
       "source": "GitHub",
       "stars": 320,
       "user": "f"
-    },
-    {
-      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
-      "published_at": "2026-03-11T19:22:52Z",
-      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
-      "source": "GitHub",
-      "stars": 318,
-      "user": "vasilytrofimchuk"
     },
     {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
@@ -1092,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "khanhduytran0"
     },
     {
@@ -1107,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 224,
       "user": "KeyID-AI"
     }
   ],
@@ -1126,6 +1097,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
       "source": "Dev.to",
       "user": "Ahmet Zeybek"
+    },
+    {
+      "title": "Djangonaut Diaries: Week 1 - Setting up the stage (and the machine)",
+      "url": "https://dev.to/rodbv/djangonaut-diaries-week-1-setting-the-stage-and-the-machine-592h",
+      "published_at": "2026-03-11T23:01:22Z",
+      "description": "I am officially a Djangonaut! Joining the latest cohort (Session 6) of the Djangonaut Space program...",
+      "tags": [
+        "djangonaut",
+        "django",
+        "howto"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptvp905rxq3pgwny5dmb.jpeg",
+      "source": "Dev.to",
+      "user": "rodbv"
     },
     {
       "title": "Get started with GitHub Copilot SDK",
@@ -1274,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11099,
+      "stars": 11163,
       "user": "HKUDS"
     },
     {
@@ -1289,23 +1274,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1118,
       "user": "FreedomIntelligence"
-    },
-    {
-      "title": "jackwener/xiaohongshu-cli - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "url": "https://github.com/jackwener/xiaohongshu-cli",
-      "published_at": "2026-03-08T05:34:05Z",
-      "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
-      "source": "GitHub",
-      "stars": 898,
-      "user": "jackwener"
     },
     {
       "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
@@ -1319,8 +1289,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 904,
       "user": "aiming-lab"
+    },
+    {
+      "title": "jackwener/xiaohongshu-cli - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
+      "url": "https://github.com/jackwener/xiaohongshu-cli",
+      "published_at": "2026-03-08T05:34:05Z",
+      "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
+      "source": "GitHub",
+      "stars": 902,
+      "user": "jackwener"
     },
     {
       "title": "knowsuchagency/mcp2cli - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
@@ -1334,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 773,
       "user": "knowsuchagency"
     }
   ],
@@ -1355,6 +1340,21 @@
       "user": "Luke"
     },
     {
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
+      "tags": [
+        "observability",
+        "webdev",
+        "monitoring",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
+      "source": "Dev.to",
+      "user": "Sovereign Revenue Guard"
+    },
+    {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
       "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
       "published_at": "2026-02-19T14:49:29Z",
@@ -1368,21 +1368,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
-    },
-    {
-      "title": "Let Dependabot Merge Its Own PRs",
-      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
-      "published_at": "2026-03-08T18:16:29Z",
-      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
-      "tags": [
-        "github",
-        "cicd",
-        "githubactions",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
-      "source": "Dev.to",
-      "user": "Nick Taylor"
     }
   ],
   "WebDev": [
@@ -1400,6 +1385,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
+    },
+    {
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
+      "tags": [
+        "observability",
+        "webdev",
+        "monitoring",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
+      "source": "Dev.to",
+      "user": "Sovereign Revenue Guard"
+    },
+    {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
     },
     {
       "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!",
@@ -1447,21 +1462,6 @@
       "user": "Anja Beisel"
     },
     {
-      "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
-      "url": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
-      "published_at": "2026-03-02T18:53:22Z",
-      "description": "Boss-CSS is a polymorphic \"CSS-in-JS\" library supporting multiple different ways of applying CSS...",
-      "tags": [
-        "css",
-        "react",
-        "tailwindcss",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
-      "source": "Dev.to",
-      "user": "wintercounter"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1491,21 +1491,6 @@
   ],
   "Mobile": [
     {
-      "title": "Amanzi - Know Your Water",
-      "url": "https://dev.to/skomfi/amanzi-know-your-water-47p3",
-      "published_at": "2026-03-01T22:18:12Z",
-      "description": "This is a submission for the DEV Weekend Challenge: Community           The Community   South Africa...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "showdev",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwf8r18ozmm88bfnrl4eo.png",
-      "source": "Dev.to",
-      "user": "Samuel Komfi"
-    },
-    {
       "title": "khanhduytran0/coruna - The leaked exploit toolkit for various iOS versions",
       "url": "https://github.com/khanhduytran0/coruna",
       "published_at": "2026-03-07T06:06:02Z",
@@ -1517,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "khanhduytran0"
     }
   ],
@@ -1562,7 +1547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "MuhammadHananAsghar"
     }
   ],
@@ -1860,48 +1845,19 @@
       "user": "Chris Noring"
     },
     {
-      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
-      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
-      "published_at": "2026-03-03T11:32:27Z",
-      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
+      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+      "published_at": "2026-03-11T19:22:52Z",
+      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
       "tags": [
-        "webdevwebdev",
         "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
-      "source": "Dev.to",
-      "user": "Eastkap"
-    },
-    {
-      "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
-      "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
-      "published_at": "2026-03-10T19:56:15Z",
-      "description": "A freelancer's frustration, an undocumented API, and an AI pair-programmer. Here's how it went.      ...",
-      "tags": [
-        "ai",
-        "cli",
-        "typescript",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
-      "source": "Dev.to",
-      "user": "yabbal"
-    },
-    {
-      "title": "Let Dependabot Merge Its Own PRs",
-      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
-      "published_at": "2026-03-08T18:16:29Z",
-      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
-      "tags": [
         "github",
-        "cicd",
-        "githubactions",
-        "devops"
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
-      "source": "Dev.to",
-      "user": "Nick Taylor"
+      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
+      "source": "GitHub",
+      "stars": 324,
+      "user": "vasilytrofimchuk"
     },
     {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
@@ -1917,21 +1873,6 @@
       "source": "GitHub",
       "stars": 320,
       "user": "f"
-    },
-    {
-      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
-      "published_at": "2026-03-11T19:22:52Z",
-      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
-      "source": "GitHub",
-      "stars": 318,
-      "user": "vasilytrofimchuk"
     },
     {
       "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
@@ -1960,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "khanhduytran0"
     },
     {
@@ -1975,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 224,
       "user": "KeyID-AI"
     },
     {
@@ -1990,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11099,
+      "stars": 11163,
       "user": "HKUDS"
     },
     {
@@ -2005,23 +1946,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1118,
       "user": "FreedomIntelligence"
-    },
-    {
-      "title": "jackwener/xiaohongshu-cli - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "url": "https://github.com/jackwener/xiaohongshu-cli",
-      "published_at": "2026-03-08T05:34:05Z",
-      "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
-      "source": "GitHub",
-      "stars": 898,
-      "user": "jackwener"
     },
     {
       "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
@@ -2035,8 +1961,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 904,
       "user": "aiming-lab"
+    },
+    {
+      "title": "jackwener/xiaohongshu-cli - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
+      "url": "https://github.com/jackwener/xiaohongshu-cli",
+      "published_at": "2026-03-08T05:34:05Z",
+      "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
+      "source": "GitHub",
+      "stars": 902,
+      "user": "jackwener"
     },
     {
       "title": "knowsuchagency/mcp2cli - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
@@ -2050,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 773,
       "user": "knowsuchagency"
     },
     {
@@ -2095,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "MuhammadHananAsghar"
     },
     {
@@ -2110,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "epiral"
     },
     {
