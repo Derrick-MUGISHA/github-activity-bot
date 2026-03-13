@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-13-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.7%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
 **Security**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
-**DevOps**: 🟦 3 (2.9%)
+**Database**: 🟦🟦 4 (3.8%)
 
 **Cloud**: 🟦 2 (1.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.0 (30.0%)
-Java            ███████████████████████ 23.3 (23.3%)
-Go              █████████████████████ 21.1 (21.1%)
-Python          █████████████████████ 21.1 (21.1%)
+JavaScript      ██████████████████████████████ 30.3 (30.3%)
+Java            ███████████████████████ 23.6 (23.6%)
+Python          █████████████████████ 21.3 (21.3%)
+Go              ████████████████████ 20.2 (20.2%)
 Rust            ██ 2.2 (2.2%)
 PHP             █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -74,8 +74,8 @@ Swift           █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 27
     "Java" : 21
-    "Go" : 19
     "Python" : 19
+    "Go" : 18
     "Rust" : 2
     "PHP" : 1
     "Swift" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![career](https://img.shields.io/badge/career-9-blue) ![go](https://img.shields.io/badge/go-8-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![dei](https://img.shields.io/badge/dei-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![career](https://img.shields.io/badge/career-9-blue) ![go](https://img.shields.io/badge/go-8-blue) ![wecoded](https://img.shields.io/badge/wecoded-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![dei](https://img.shields.io/badge/dei-6-blue) 
 
 
 
@@ -216,7 +216,7 @@ npm run test
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
 
-_Last automated update: Fri, 13 Mar 2026 09:12:14 CAT_
+_Last automated update: Fri, 13 Mar 2026 09:56:26 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 13 Mar 2026 09:12:14 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. React: What is the Virtual DOM and how does React use it?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Heap, stack, garbage collection
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 13 Mar 2026 07:12:14 GMT</b><br/>
+  <b>Last automated update: Fri, 13 Mar 2026 07:56:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

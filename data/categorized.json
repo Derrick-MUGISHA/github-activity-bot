@@ -281,6 +281,21 @@
       "user": "Vaishali"
     },
     {
+      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
+      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
+      "published_at": "2026-03-10T15:52:17Z",
+      "description": "Claude Code is the fastest coder I've ever worked with. It can scaffold a feature, write tests, and...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "tdd",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
+      "source": "Dev.to",
+      "user": "v.j.k. "
+    },
+    {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
       "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
       "published_at": "2026-03-07T17:10:00Z",
@@ -428,21 +443,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspjdhlvsaix5oi3vdb8z.png",
       "source": "Dev.to",
       "user": "wintercounter"
-    },
-    {
-      "title": "I tracked where my Claude Code tokens actually go. 37% were wasted.",
-      "url": "https://dev.to/egorfedorov/i-tracked-where-my-claude-code-tokens-actually-go-37-were-wasted-2gll",
-      "published_at": "2026-03-09T06:34:30Z",
-      "description": "Last month I hit $180 on my Claude Code bill. I use Opus daily — refactoring, bug fixes, code...",
-      "tags": [
-        "ai",
-        "productivity",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanjkeuocmqgo7j3hk56b.png",
-      "source": "Dev.to",
-      "user": "Egor Fedorov"
     },
     {
       "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
@@ -648,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 265,
       "user": "vasilytrofimchuk"
     },
     {
@@ -663,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1097,
       "user": "FreedomIntelligence"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 797,
       "user": "aiming-lab"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 185,
       "user": "epiral"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "verssache"
     }
   ],
@@ -1068,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 265,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1083,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 249,
       "user": "khanhduytran0"
     },
     {
@@ -1294,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 9811,
+      "stars": 9948,
       "user": "HKUDS"
     },
     {
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1097,
       "user": "FreedomIntelligence"
     },
     {
@@ -1324,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 831,
       "user": "jackwener"
     },
     {
@@ -1339,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 797,
       "user": "aiming-lab"
     },
     {
@@ -1354,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 716,
       "user": "knowsuchagency"
     }
   ],
@@ -1403,6 +1403,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "Let Dependabot Merge Its Own PRs",
+      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
+      "published_at": "2026-03-08T18:16:29Z",
+      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
+      "tags": [
+        "github",
+        "cicd",
+        "githubactions",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
     }
   ],
   "WebDev": [
@@ -1552,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 249,
       "user": "khanhduytran0"
     }
   ],
@@ -1782,6 +1797,21 @@
       "user": "Alexandr Zahatski"
     },
     {
+      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
+      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
+      "published_at": "2026-03-10T15:52:17Z",
+      "description": "Claude Code is the fastest coder I've ever worked with. It can scaffold a feature, write tests, and...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "tdd",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
+      "source": "Dev.to",
+      "user": "v.j.k. "
+    },
+    {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
       "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
       "published_at": "2026-03-06T17:12:22Z",
@@ -1856,21 +1886,6 @@
       "user": "Eastkap"
     },
     {
-      "title": "I tracked where my Claude Code tokens actually go. 37% were wasted.",
-      "url": "https://dev.to/egorfedorov/i-tracked-where-my-claude-code-tokens-actually-go-37-were-wasted-2gll",
-      "published_at": "2026-03-09T06:34:30Z",
-      "description": "Last month I hit $180 on my Claude Code bill. I use Opus daily — refactoring, bug fixes, code...",
-      "tags": [
-        "ai",
-        "productivity",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanjkeuocmqgo7j3hk56b.png",
-      "source": "Dev.to",
-      "user": "Egor Fedorov"
-    },
-    {
       "title": "I Reverse-Engineered an Undocumented API and Shipped 2 npm Packages in 4 Days — with Claude Code",
       "url": "https://dev.to/yabbal/i-reverse-engineered-an-undocumented-api-and-shipped-2-npm-packages-in-4-days-with-claude-code-5cm9",
       "published_at": "2026-03-10T19:56:15Z",
@@ -1884,6 +1899,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe29onww8h29mxmdhqfo.png",
       "source": "Dev.to",
       "user": "yabbal"
+    },
+    {
+      "title": "Let Dependabot Merge Its Own PRs",
+      "url": "https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc",
+      "published_at": "2026-03-08T18:16:29Z",
+      "description": "Dependabot opens PRs automatically. That part most people have set up. But then those PRs just sit...",
+      "tags": [
+        "github",
+        "cicd",
+        "githubactions",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyfquld83ghx1qmim1um.jpg",
+      "source": "Dev.to",
+      "user": "Nick Taylor"
     },
     {
       "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
@@ -1927,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 265,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1942,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 249,
       "user": "khanhduytran0"
     },
     {
@@ -1972,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 9811,
+      "stars": 9948,
       "user": "HKUDS"
     },
     {
@@ -1987,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1097,
       "user": "FreedomIntelligence"
     },
     {
@@ -2002,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 831,
       "user": "jackwener"
     },
     {
@@ -2017,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 797,
       "user": "aiming-lab"
     },
     {
@@ -2032,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 716,
       "user": "knowsuchagency"
     },
     {
@@ -2092,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 185,
       "user": "epiral"
     },
     {
@@ -2107,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "verssache"
     }
   ]
