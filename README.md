@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg" width="200" alt="We built a video recording API at $0.01/min. Here's the tech that made it possible." />
+    <a href="https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png" width="200" alt="Your AI code reviewer has no one to disagree with" />
       <br/>
-      <b>We built a video recording API at $0.01/min. Here'...</b>
+      <b>Your AI code reviewer has no one to disagree with</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png" width="200" alt="Your AI code reviewer has no one to disagree with" />
+    <a href="https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmy6ptkxm%2Fproduction%2F9d13dc1efcb777fb49b96bee3037d01ad6284260-1376x768.png" width="200" alt="Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)" />
       <br/>
-      <b>Your AI code reviewer has no one to disagree with</b>
+      <b>Por qué pusimos un CDN frente a nuestro balanceado...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,7 +199,6 @@ npm run test
 - [I Built EchoHR: The HR System That Doesn’t Ghost You](https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i) _[Dev.to]_
 - [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i) _[Dev.to]_
 - [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
-- [We built a video recording API at $0.01/min. Here's the tech that made it possible.](https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
 - [Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)](https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh) _[Dev.to]_
 - [I'm frozen and I cannot move](https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
+- [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 18:26:48 CAT_
+_Last automated update: Sat, 14 Mar 2026 18:56:03 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 14 Mar 2026 18:26:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Heap, stack, garbage collection
 
 </details>
 
-### 3. React: What is the Virtual DOM and how does React use it?
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Mar 2026 16:26:48 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Mar 2026 16:56:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
