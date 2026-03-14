@@ -16,21 +16,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
-      "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
-      "published_at": "2026-03-12T22:48:44Z",
-      "description": "Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.",
-      "tags": [
-        "ai",
-        "knowledgesharing",
-        "stackoverflow",
-        "opinion"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
-      "source": "Dev.to",
-      "user": "Sagiv ben giat"
-    },
-    {
       "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
       "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
       "published_at": "2026-03-12T02:26:38Z",
@@ -54,21 +39,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png",
       "source": "Dev.to",
       "user": "EECOLOR"
-    },
-    {
-      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
-      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
-      "published_at": "2026-03-12T22:10:51Z",
-      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
-      "tags": [
-        "ai",
-        "mcp",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
-      "source": "Dev.to",
-      "user": "Sagiv ben giat"
     },
     {
       "title": "Your AI code reviewer has no one to disagree with",
@@ -113,6 +83,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
       "source": "Dev.to",
       "user": "Dumebi Okolo"
+    },
+    {
+      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
+      "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
+      "published_at": "2026-03-12T22:48:44Z",
+      "description": "Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.",
+      "tags": [
+        "ai",
+        "knowledgesharing",
+        "stackoverflow",
+        "opinion"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
     },
     {
       "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
@@ -202,6 +187,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzz47rv1f9gw3o8gjs9ns.png",
       "source": "Dev.to",
       "user": "Michael Fairchild"
+    },
+    {
+      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
+      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
+      "published_at": "2026-03-12T22:10:51Z",
+      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
+      "tags": [
+        "ai",
+        "mcp",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -627,38 +627,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 359,
       "user": "vasilytrofimchuk"
-    },
-    {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "f"
-    },
-    {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "holysheep123"
     },
     {
       "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
@@ -672,8 +642,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 300,
       "user": "KeyID-AI"
+    },
+    {
+      "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "url": "https://github.com/pasky/chrome-cdp-skill",
+      "published_at": "2026-03-13T00:35:39Z",
+      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
+      "source": "GitHub",
+      "stars": 178,
+      "user": "pasky"
     },
     {
       "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
@@ -687,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1122,
+      "stars": 1125,
       "user": "FreedomIntelligence"
     },
     {
@@ -702,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 980,
       "user": "aiming-lab"
     },
     {
@@ -717,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 243,
       "user": "epiral"
     },
     {
@@ -747,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "verssache"
     }
   ],
@@ -1018,38 +1003,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 359,
       "user": "vasilytrofimchuk"
-    },
-    {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "f"
-    },
-    {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "holysheep123"
     },
     {
       "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
@@ -1063,23 +1018,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 300,
       "user": "KeyID-AI"
     },
     {
-      "title": "khanhduytran0/coruna - The leaked exploit toolkit for various iOS versions",
-      "url": "https://github.com/khanhduytran0/coruna",
-      "published_at": "2026-03-07T06:06:02Z",
-      "description": "The leaked exploit toolkit for various iOS versions",
+      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
+      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
+      "published_at": "2026-03-10T19:51:35Z",
+      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 269,
-      "user": "khanhduytran0"
+      "stars": 215,
+      "user": "samanalalokaya"
+    },
+    {
+      "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "url": "https://github.com/pasky/chrome-cdp-skill",
+      "published_at": "2026-03-13T00:35:39Z",
+      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
+      "source": "GitHub",
+      "stars": 178,
+      "user": "pasky"
+    },
+    {
+      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
+      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
+      "published_at": "2026-03-10T19:05:31Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
+      "source": "GitHub",
+      "stars": 169,
+      "user": "michelleoincx"
+    },
+    {
+      "title": "dougdonohoe/ddphotos - A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.",
+      "url": "https://github.com/dougdonohoe/ddphotos",
+      "published_at": "2026-03-08T17:34:23Z",
+      "description": "A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1576240?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "dougdonohoe"
     }
   ],
   "Python": [
@@ -1248,6 +1248,21 @@
       "user": "gilad"
     },
     {
+      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
+      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
+      "published_at": "2026-03-10T19:05:31Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
+      "source": "GitHub",
+      "stars": 169,
+      "user": "michelleoincx"
+    },
+    {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "published_at": "2026-03-08T13:52:57Z",
@@ -1259,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11610,
+      "stars": 11750,
       "user": "HKUDS"
     },
     {
@@ -1274,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1122,
+      "stars": 1125,
       "user": "FreedomIntelligence"
     },
     {
@@ -1289,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 980,
       "user": "aiming-lab"
     },
     {
@@ -1304,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 923,
       "user": "jackwener"
     },
     {
@@ -1319,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 833,
       "user": "knowsuchagency"
     }
   ],
@@ -1457,40 +1472,9 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "steipete/discrawl - cli for discord with sqlite backend",
-      "url": "https://github.com/steipete/discrawl",
-      "published_at": "2026-03-07T12:13:48Z",
-      "description": "cli for discord with sqlite backend",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
-      "source": "GitHub",
-      "stars": 507,
-      "user": "steipete"
     }
   ],
-  "Mobile": [
-    {
-      "title": "khanhduytran0/coruna - The leaked exploit toolkit for various iOS versions",
-      "url": "https://github.com/khanhduytran0/coruna",
-      "published_at": "2026-03-07T06:06:02Z",
-      "description": "The leaked exploit toolkit for various iOS versions",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
-      "source": "GitHub",
-      "stars": 269,
-      "user": "khanhduytran0"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
     {
       "title": "Deployments made easy: Cloud Run 101",
@@ -1534,21 +1518,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
       "source": "Dev.to",
       "user": "Greg Baugues"
-    },
-    {
-      "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
-      "url": "https://github.com/MuhammadHananAsghar/wormhole",
-      "published_at": "2026-03-07T14:00:31Z",
-      "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
-      "source": "GitHub",
-      "stars": 235,
-      "user": "MuhammadHananAsghar"
     }
   ],
   "Database": [
@@ -1593,21 +1562,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "steipete/discrawl - cli for discord with sqlite backend",
-      "url": "https://github.com/steipete/discrawl",
-      "published_at": "2026-03-07T12:13:48Z",
-      "description": "cli for discord with sqlite backend",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
-      "source": "GitHub",
-      "stars": 507,
-      "user": "steipete"
     }
   ],
   "Security": [
@@ -1695,21 +1649,6 @@
   ],
   "Tools": [
     {
-      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
-      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
-      "published_at": "2026-03-12T22:10:51Z",
-      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
-      "tags": [
-        "ai",
-        "mcp",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
-      "source": "Dev.to",
-      "user": "Sagiv ben giat"
-    },
-    {
       "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
       "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
       "published_at": "2026-03-11T19:19:14Z",
@@ -1738,6 +1677,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvor2ooqmwkv6vkstlqex.png",
       "source": "Dev.to",
       "user": "Richard Oliver Bray"
+    },
+    {
+      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
+      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
+      "published_at": "2026-03-12T22:10:51Z",
+      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
+      "tags": [
+        "ai",
+        "mcp",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -1841,38 +1795,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 359,
       "user": "vasilytrofimchuk"
-    },
-    {
-      "title": "f/agentlytics - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "url": "https://github.com/f/agentlytics",
-      "published_at": "2026-03-07T01:39:41Z",
-      "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196477?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "f"
-    },
-    {
-      "title": "holysheep123/holysheep-cli - 🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "url": "https://github.com/holysheep123/holysheep-cli",
-      "published_at": "2026-03-07T21:32:55Z",
-      "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266372356?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "holysheep123"
     },
     {
       "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
@@ -1886,23 +1810,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 300,
       "user": "KeyID-AI"
     },
     {
-      "title": "khanhduytran0/coruna - The leaked exploit toolkit for various iOS versions",
-      "url": "https://github.com/khanhduytran0/coruna",
-      "published_at": "2026-03-07T06:06:02Z",
-      "description": "The leaked exploit toolkit for various iOS versions",
+      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
+      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
+      "published_at": "2026-03-10T19:51:35Z",
+      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40482367?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 269,
-      "user": "khanhduytran0"
+      "stars": 215,
+      "user": "samanalalokaya"
+    },
+    {
+      "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "url": "https://github.com/pasky/chrome-cdp-skill",
+      "published_at": "2026-03-13T00:35:39Z",
+      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
+      "source": "GitHub",
+      "stars": 178,
+      "user": "pasky"
+    },
+    {
+      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
+      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
+      "published_at": "2026-03-10T19:05:31Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
+      "source": "GitHub",
+      "stars": 169,
+      "user": "michelleoincx"
     },
     {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
@@ -1916,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11610,
+      "stars": 11750,
       "user": "HKUDS"
     },
     {
@@ -1931,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1122,
+      "stars": 1125,
       "user": "FreedomIntelligence"
     },
     {
@@ -1946,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 980,
       "user": "aiming-lab"
     },
     {
@@ -1961,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 923,
       "user": "jackwener"
     },
     {
@@ -1976,23 +1930,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 833,
       "user": "knowsuchagency"
-    },
-    {
-      "title": "steipete/discrawl - cli for discord with sqlite backend",
-      "url": "https://github.com/steipete/discrawl",
-      "published_at": "2026-03-07T12:13:48Z",
-      "description": "cli for discord with sqlite backend",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
-      "source": "GitHub",
-      "stars": 507,
-      "user": "steipete"
     },
     {
       "title": "epiral/agent-clip - AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
@@ -2006,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 243,
       "user": "epiral"
     },
     {
@@ -2025,21 +1964,6 @@
       "user": "mem9-ai"
     },
     {
-      "title": "MuhammadHananAsghar/wormhole - Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
-      "url": "https://github.com/MuhammadHananAsghar/wormhole",
-      "published_at": "2026-03-07T14:00:31Z",
-      "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/44013285?v=4",
-      "source": "GitHub",
-      "stars": 235,
-      "user": "MuhammadHananAsghar"
-    },
-    {
       "title": "verssache/chatgpt-creator - A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
       "url": "https://github.com/verssache/chatgpt-creator",
       "published_at": "2026-03-10T16:21:59Z",
@@ -2051,8 +1975,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "verssache"
+    },
+    {
+      "title": "dougdonohoe/ddphotos - A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.",
+      "url": "https://github.com/dougdonohoe/ddphotos",
+      "published_at": "2026-03-08T17:34:23Z",
+      "description": "A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1576240?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "dougdonohoe"
+    },
+    {
+      "title": "ygivenx/agenthub - GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
+      "url": "https://github.com/ygivenx/agenthub",
+      "published_at": "2026-03-09T19:35:44Z",
+      "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "ygivenx"
     }
   ]
 }
