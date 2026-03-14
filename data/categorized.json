@@ -148,6 +148,21 @@
       "user": "Mike Krop"
     },
     {
+      "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
+      "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
+      "published_at": "2026-03-13T08:20:00Z",
+      "description": "Over the past months Lovable AI has spread rapidly across startup communities, AI builders, and...",
+      "tags": [
+        "lovable",
+        "ai",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yjqj6u9zlxgnrcsu409.png",
+      "source": "Dev.to",
+      "user": "Ali Farhat"
+    },
+    {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
       "published_at": "2026-03-07T09:30:17Z",
@@ -256,21 +271,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
       "source": "Dev.to",
       "user": "Paula Gearon"
-    },
-    {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
     },
     {
       "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 792,
       "user": "pasky"
     },
     {
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 380,
       "user": "KeyID-AI"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1159,
       "user": "FreedomIntelligence"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1099,
       "user": "aiming-lab"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "epiral"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 792,
       "user": "pasky"
     },
     {
@@ -1016,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 380,
       "user": "KeyID-AI"
     },
     {
@@ -1046,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253845106?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 183,
       "user": "Kilted-Kraken"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13357,
+      "stars": 13398,
       "user": "HKUDS"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1159,
       "user": "FreedomIntelligence"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1099,
       "user": "aiming-lab"
     },
     {
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1057,
       "user": "jackwener"
     },
     {
@@ -1302,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 921,
       "user": "knowsuchagency"
     }
   ],
@@ -1574,21 +1574,6 @@
       "user": "Luke"
     },
     {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
-    },
-    {
       "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
       "url": "https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk",
       "published_at": "2026-03-09T23:47:06Z",
@@ -1659,6 +1644,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
       "source": "Dev.to",
       "user": "Kim Maida"
+    },
+    {
+      "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
+      "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
+      "published_at": "2026-03-13T08:20:00Z",
+      "description": "Over the past months Lovable AI has spread rapidly across startup communities, AI builders, and...",
+      "tags": [
+        "lovable",
+        "ai",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yjqj6u9zlxgnrcsu409.png",
+      "source": "Dev.to",
+      "user": "Ali Farhat"
     },
     {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
@@ -1792,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 792,
       "user": "pasky"
     },
     {
@@ -1822,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 380,
       "user": "KeyID-AI"
     },
     {
@@ -1852,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253845106?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 183,
       "user": "Kilted-Kraken"
     },
     {
@@ -1867,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13357,
+      "stars": 13398,
       "user": "HKUDS"
     },
     {
@@ -1882,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1159,
       "user": "FreedomIntelligence"
     },
     {
@@ -1897,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1099,
       "user": "aiming-lab"
     },
     {
@@ -1912,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1057,
       "user": "jackwener"
     },
     {
@@ -1927,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 921,
       "user": "knowsuchagency"
     },
     {
@@ -1942,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "epiral"
     },
     {
@@ -1987,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 74,
       "user": "ygivenx"
     },
     {

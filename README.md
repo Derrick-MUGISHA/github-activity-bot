@@ -30,7 +30,7 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
@@ -38,7 +38,7 @@
 
 **WebDev**: 🟦🟦🟦 7 (6.7%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦 3 (2.9%)
 
@@ -58,10 +58,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.9 (27.9%)
-Go              ██████████████████████████ 24.4 (24.4%)
-Java            ████████████████████████ 22.1 (22.1%)
-Python          ██████████████████████ 20.9 (20.9%)
+JavaScript      ██████████████████████████████ 28.2 (28.2%)
+Go              █████████████████████████ 23.5 (23.5%)
+Java            ████████████████████████ 22.4 (22.4%)
+Python          ███████████████████████ 21.2 (21.2%)
 Ruby            █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 CSharp          █ 1.2 (1.2%)
@@ -72,7 +72,7 @@ Rust            █ 1.2 (1.2%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 24
-    "Go" : 21
+    "Go" : 20
     "Java" : 19
     "Python" : 18
     "Ruby" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![career](https://img.shields.io/badge/career-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-14 19:00 CAT)
+## 📅 Latest Updates (2026-03-14 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,11 +212,11 @@ npm run test
 - [An Update on How We Judge DEV Challenges](https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
+- [Lovable AI: Why the AI App Builder Is Suddenly Everywhere](https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
-- [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 19:51:37 CAT_
+_Last automated update: Sat, 14 Mar 2026 20:32:59 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 14 Mar 2026 19:51:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Mar 2026 17:51:37 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Mar 2026 18:32:59 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
