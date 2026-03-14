@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-14-orange)
 
@@ -28,29 +28,29 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.3%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**WebDev**: 🟦🟦🟦 7 (6.8%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**Security**: 🟦🟦 6 (5.8%)
 
 **DevOps**: 🟦 3 (2.9%)
 
-**Cloud**: 🟦 3 (2.9%)
-
 **Database**: 🟦 3 (2.9%)
+
+**Cloud**: 🟦 2 (1.9%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,10 +58,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.9 (27.9%)
-Go              ██████████████████████████ 24.4 (24.4%)
-Java            ████████████████████████ 22.1 (22.1%)
-Python          ██████████████████████ 20.9 (20.9%)
+JavaScript      ██████████████████████████████ 27.4 (27.4%)
+Go              ██████████████████████████ 23.8 (23.8%)
+Java            █████████████████████████ 22.6 (22.6%)
+Python          ███████████████████████ 21.4 (21.4%)
 Ruby            █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 CSharp          █ 1.2 (1.2%)
@@ -71,8 +71,8 @@ Rust            █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Go" : 21
+    "JavaScript" : 23
+    "Go" : 20
     "Java" : 19
     "Python" : 18
     "Ruby" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-4-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-4-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-14 22:00 CAT)
+## 📅 Latest Updates (2026-03-14 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,9 +214,9 @@ npm run test
 - [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0) _[Dev.to]_
 - [Lovable AI: Why the AI App Builder Is Suddenly Everywhere](https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
-- [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
+- [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 22:59:29 CAT_
+_Last automated update: Sat, 14 Mar 2026 23:33:41 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 14 Mar 2026 22:59:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Mar 2026 20:59:29 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Mar 2026 21:33:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
