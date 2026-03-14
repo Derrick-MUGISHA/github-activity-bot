@@ -218,21 +218,6 @@
       "user": "Antonio Di Motta"
     },
     {
-      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
-      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
-      "published_at": "2026-03-10T13:00:34Z",
-      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "showdev",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
-      "source": "Dev.to",
-      "user": "Dumebi Okolo"
-    },
-    {
       "title": "Clojure Inheritance… Sort Of",
       "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
       "published_at": "2026-03-12T05:49:43Z",
@@ -258,21 +243,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
       "source": "Dev.to",
       "user": "Saif "
-    },
-    {
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
-      "published_at": "2026-03-07T10:44:43Z",
-      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
-      "tags": [
-        "webdev",
-        "ai",
-        "automation",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
-      "source": "Dev.to",
-      "user": "GrahamTheDev"
     },
     {
       "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
@@ -303,6 +273,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "tags": [
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "source": "Dev.to",
+      "user": "GrahamTheDev"
     },
     {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
@@ -469,6 +454,21 @@
       "user": "Chris Noring"
     },
     {
+      "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
+      "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
+      "published_at": "2026-03-10T23:13:04Z",
+      "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
+      "tags": [
+        "machinelearning",
+        "computervision",
+        "deeplearning",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ze6xe8i9z5n81ux8i60.png",
+      "source": "Dev.to",
+      "user": "Vladimir Iglovikov"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -612,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 635,
       "user": "pasky"
     },
     {
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 399,
       "user": "vasilytrofimchuk"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 362,
       "user": "KeyID-AI"
     },
     {
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1145,
       "user": "FreedomIntelligence"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1064,
       "user": "aiming-lab"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 262,
       "user": "epiral"
     },
     {
@@ -767,19 +767,19 @@
       "user": "Theodor Diaconu"
     },
     {
-      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
-      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
-      "published_at": "2026-03-10T13:00:34Z",
-      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
       "tags": [
         "webdev",
-        "javascript",
         "showdev",
-        "nextjs"
+        "go",
+        "beginners"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
       "source": "Dev.to",
-      "user": "Dumebi Okolo"
+      "user": "Supriya"
     },
     {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
@@ -825,6 +825,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
+    },
+    {
+      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
+      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
+      "published_at": "2026-03-03T11:32:27Z",
+      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
+      "tags": [
+        "webdevwebdev",
+        "javascript",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
+      "source": "Dev.to",
+      "user": "Eastkap"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -958,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 635,
       "user": "pasky"
     },
     {
@@ -973,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 399,
       "user": "vasilytrofimchuk"
     },
     {
@@ -988,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 362,
       "user": "KeyID-AI"
     },
     {
@@ -1033,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1576240?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "dougdonohoe"
     }
   ],
@@ -1229,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 12898,
+      "stars": 12955,
       "user": "HKUDS"
     },
     {
@@ -1244,7 +1258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1145,
       "user": "FreedomIntelligence"
     },
     {
@@ -1259,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1064,
       "user": "aiming-lab"
     },
     {
@@ -1274,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1020,
       "user": "jackwener"
     },
     {
@@ -1289,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 899,
       "user": "knowsuchagency"
     }
   ],
@@ -1372,6 +1386,21 @@
       "user": "Sovereign Revenue Guard"
     },
     {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
+    },
+    {
       "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!",
       "url": "https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828",
       "published_at": "2026-03-06T16:10:33Z",
@@ -1432,6 +1461,19 @@
   "Mobile": [],
   "Cloud": [
     {
+      "title": "Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)",
+      "url": "https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh",
+      "published_at": "2026-03-13T05:50:07Z",
+      "description": "Agregar un CDN parece algo obvio. Hasta que es lo único que se interpone entre tú y un deployment...",
+      "tags": [
+        "arquitecturacloud",
+        "decisionesdearquitec"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmy6ptkxm%2Fproduction%2F9d13dc1efcb777fb49b96bee3037d01ad6284260-1376x768.png",
+      "source": "Dev.to",
+      "user": "David De Los Santos Cuy Sánchez"
+    },
+    {
       "title": "Deployments made easy: Cloud Run 101",
       "url": "https://dev.to/googleai/deployments-made-easy-cloud-run-101-11ma",
       "published_at": "2026-03-13T17:53:42Z",
@@ -1445,19 +1487,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqitllupmbsfi2mml2opl.png",
       "source": "Dev.to",
       "user": "Martin Omander"
-    },
-    {
-      "title": "Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)",
-      "url": "https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh",
-      "published_at": "2026-03-13T05:50:07Z",
-      "description": "Agregar un CDN parece algo obvio. Hasta que es lo único que se interpone entre tú y un deployment...",
-      "tags": [
-        "arquitecturacloud",
-        "decisionesdearquitec"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmy6ptkxm%2Fproduction%2F9d13dc1efcb777fb49b96bee3037d01ad6284260-1376x768.png",
-      "source": "Dev.to",
-      "user": "David De Los Santos Cuy Sánchez"
     },
     {
       "title": "Getting Started with Gemini CLI",
@@ -1739,6 +1768,20 @@
       "user": "Chris Noring"
     },
     {
+      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
+      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
+      "published_at": "2026-03-03T11:32:27Z",
+      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
+      "tags": [
+        "webdevwebdev",
+        "javascript",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
+      "source": "Dev.to",
+      "user": "Eastkap"
+    },
+    {
       "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "published_at": "2026-03-13T00:35:39Z",
@@ -1750,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 635,
       "user": "pasky"
     },
     {
@@ -1765,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 399,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1780,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 362,
       "user": "KeyID-AI"
     },
     {
@@ -1825,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 12898,
+      "stars": 12955,
       "user": "HKUDS"
     },
     {
@@ -1840,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1145,
       "user": "FreedomIntelligence"
     },
     {
@@ -1855,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1064,
       "user": "aiming-lab"
     },
     {
@@ -1870,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1020,
       "user": "jackwener"
     },
     {
@@ -1885,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 899,
       "user": "knowsuchagency"
     },
     {
@@ -1900,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 262,
       "user": "epiral"
     },
     {
@@ -1930,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1576240?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "dougdonohoe"
     },
     {
