@@ -216,7 +216,7 @@ npm run test
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 21:14:37 CAT_
+_Last automated update: Sat, 14 Mar 2026 21:42:44 CAT_
 
 
 
@@ -224,14 +224,14 @@ _Last automated update: Sat, 14 Mar 2026 21:14:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Heap, stack, garbage collection
 
 </details>
 
@@ -246,14 +246,14 @@ Hash function, database design, caching, analytics
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Mutability, performance, use cases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Mar 2026 19:14:37 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Mar 2026 19:42:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
