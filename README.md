@@ -149,10 +149,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png" width="200" alt="AI did a good job... and almost deleted everything" />
+    <a href="https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png" width="200" alt="Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)" />
       <br/>
-      <b>AI did a good job... and almost deleted everything</b>
+      <b>Why Are We Still Doing GPU Work in JavaScript? (Li...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -160,10 +160,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png" width="200" alt="Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)" />
+    <a href="https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png" width="200" alt="AI did a good job... and almost deleted everything" />
       <br/>
-      <b>Why Are We Still Doing GPU Work in JavaScript? (Li...</b>
+      <b>AI did a good job... and almost deleted everything</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,8 +195,8 @@ npm run test
 
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ilf) _[Dev.to]_
 - [I Built EchoHR: The HR System That Doesn’t Ghost You](https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i) _[Dev.to]_
-- [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
 - [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i) _[Dev.to]_
+- [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
 - [We built a video recording API at $0.01/min. Here's the tech that made it possible.](https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
 - [Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)](https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6) _[Dev.to]_
 - [Embedding Accessibility into AI based software development](https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 16:04:45 CAT_
+_Last automated update: Sat, 14 Mar 2026 16:46:41 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 14 Mar 2026 16:04:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Mar 2026 14:04:45 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Mar 2026 14:46:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

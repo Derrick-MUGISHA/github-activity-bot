@@ -16,16 +16,6 @@
       "user": "ujja"
     },
     {
-      "title": "AI did a good job... and almost deleted everything",
-      "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
-      "published_at": "2026-03-12T22:01:29Z",
-      "description": "I would like to share an experience I had today.  TLDR:   AI finds minor security problem: danger of...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png",
-      "source": "Dev.to",
-      "user": "EECOLOR"
-    },
-    {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
       "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
       "published_at": "2026-03-12T10:51:33Z",
@@ -39,6 +29,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "AI did a good job... and almost deleted everything",
+      "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
+      "published_at": "2026-03-12T22:01:29Z",
+      "description": "I would like to share an experience I had today.  TLDR:   AI finds minor security problem: danger of...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png",
+      "source": "Dev.to",
+      "user": "EECOLOR"
     },
     {
       "title": "Your AI code reviewer has no one to disagree with",
@@ -612,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 668,
       "user": "pasky"
     },
     {
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "vasilytrofimchuk"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 367,
       "user": "KeyID-AI"
     },
     {
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1150,
       "user": "FreedomIntelligence"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1064,
+      "stars": 1068,
       "user": "aiming-lab"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 268,
       "user": "epiral"
     },
     {
@@ -972,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 668,
       "user": "pasky"
     },
     {
@@ -987,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1002,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 367,
       "user": "KeyID-AI"
     },
     {
@@ -1017,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "samanalalokaya"
     },
     {
@@ -1243,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 12955,
+      "stars": 13047,
       "user": "HKUDS"
     },
     {
@@ -1258,7 +1258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1150,
       "user": "FreedomIntelligence"
     },
     {
@@ -1273,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1064,
+      "stars": 1068,
       "user": "aiming-lab"
     },
     {
@@ -1288,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1031,
       "user": "jackwener"
     },
     {
@@ -1303,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 902,
       "user": "knowsuchagency"
     }
   ],
@@ -1793,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 668,
       "user": "pasky"
     },
     {
@@ -1808,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1823,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 367,
       "user": "KeyID-AI"
     },
     {
@@ -1838,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "samanalalokaya"
     },
     {
@@ -1868,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 12955,
+      "stars": 13047,
       "user": "HKUDS"
     },
     {
@@ -1883,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1150,
       "user": "FreedomIntelligence"
     },
     {
@@ -1898,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1064,
+      "stars": 1068,
       "user": "aiming-lab"
     },
     {
@@ -1913,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1031,
       "user": "jackwener"
     },
     {
@@ -1928,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 902,
       "user": "knowsuchagency"
     },
     {
@@ -1943,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 268,
       "user": "epiral"
     },
     {
@@ -1988,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "ygivenx"
     },
     {
