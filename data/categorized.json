@@ -16,21 +16,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
-      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
-      "published_at": "2026-03-12T02:26:38Z",
-      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
-      "source": "Dev.to",
-      "user": "ujja"
-    },
-    {
       "title": "AI did a good job... and almost deleted everything",
       "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
       "published_at": "2026-03-12T22:01:29Z",
@@ -70,19 +55,19 @@
       "user": "Antonio Di Motta"
     },
     {
-      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
-      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
-      "published_at": "2026-03-10T13:00:34Z",
-      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
+      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
+      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
+      "published_at": "2026-03-12T02:26:38Z",
+      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
       "tags": [
-        "webdev",
-        "javascript",
-        "showdev",
-        "nextjs"
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
       "source": "Dev.to",
-      "user": "Dumebi Okolo"
+      "user": "ujja"
     },
     {
       "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
@@ -231,6 +216,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
       "source": "Dev.to",
       "user": "Theodor Diaconu"
+    },
+    {
+      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
+      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
+      "published_at": "2026-03-10T13:00:34Z",
+      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "showdev",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
+      "source": "Dev.to",
+      "user": "Dumebi Okolo"
     },
     {
       "title": "Clojure Inheritance… Sort Of",
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 369,
       "user": "vasilytrofimchuk"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 314,
       "user": "KeyID-AI"
     },
     {
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 235,
       "user": "pasky"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1127,
       "user": "FreedomIntelligence"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 1000,
       "user": "aiming-lab"
     },
     {
@@ -702,23 +702,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "epiral"
-    },
-    {
-      "title": "mem9-ai/mem9 - GitHub Repository",
-      "url": "https://github.com/mem9-ai/mem9",
-      "published_at": "2026-03-08T05:52:21Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
-      "source": "GitHub",
-      "stars": 240,
-      "user": "mem9-ai"
     },
     {
       "title": "verssache/chatgpt-creator - A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
@@ -768,21 +753,6 @@
       "user": "Christian Segovia"
     },
     {
-      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
-      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
-      "published_at": "2026-03-10T13:00:34Z",
-      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "showdev",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
-      "source": "Dev.to",
-      "user": "Dumebi Okolo"
-    },
-    {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
       "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
       "published_at": "2026-03-11T17:30:00Z",
@@ -810,6 +780,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
       "source": "Dev.to",
       "user": "Theodor Diaconu"
+    },
+    {
+      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
+      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
+      "published_at": "2026-03-10T13:00:34Z",
+      "description": "An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "showdev",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p9e395mvjgypzlg7cr3.png",
+      "source": "Dev.to",
+      "user": "Dumebi Okolo"
     },
     {
       "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
@@ -1003,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 369,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1018,23 +1003,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 314,
       "user": "KeyID-AI"
-    },
-    {
-      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
-      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
-      "published_at": "2026-03-10T19:51:35Z",
-      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
-      "source": "GitHub",
-      "stars": 215,
-      "user": "samanalalokaya"
     },
     {
       "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
@@ -1048,8 +1018,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 235,
       "user": "pasky"
+    },
+    {
+      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
+      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
+      "published_at": "2026-03-10T19:51:35Z",
+      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "samanalalokaya"
     },
     {
       "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
@@ -1063,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 168,
       "user": "michelleoincx"
     },
     {
@@ -1259,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 168,
       "user": "michelleoincx"
     },
     {
@@ -1274,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11750,
+      "stars": 12029,
       "user": "HKUDS"
     },
     {
@@ -1289,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1127,
       "user": "FreedomIntelligence"
     },
     {
@@ -1304,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 1000,
       "user": "aiming-lab"
     },
     {
@@ -1319,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 936,
       "user": "jackwener"
     },
     {
@@ -1334,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 841,
       "user": "knowsuchagency"
     }
   ],
@@ -1460,6 +1445,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
       "source": "Dev.to",
       "user": "Martin Hicks"
+    },
+    {
+      "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
+      "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
+      "published_at": "2026-02-22T15:16:30Z",
+      "description": "Introduction   For more than a decade, building modals on the web meant re-implementing...",
+      "tags": [
+        "webdev",
+        "frontend",
+        "a11y",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch7vqjii90e7m04icowr.png",
+      "source": "Dev.to",
+      "user": "Anja Beisel"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1795,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 369,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1810,23 +1810,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 314,
       "user": "KeyID-AI"
-    },
-    {
-      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
-      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
-      "published_at": "2026-03-10T19:51:35Z",
-      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
-      "source": "GitHub",
-      "stars": 215,
-      "user": "samanalalokaya"
     },
     {
       "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
@@ -1840,8 +1825,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 235,
       "user": "pasky"
+    },
+    {
+      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
+      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
+      "published_at": "2026-03-10T19:51:35Z",
+      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "samanalalokaya"
     },
     {
       "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
@@ -1855,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 168,
       "user": "michelleoincx"
     },
     {
@@ -1870,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 11750,
+      "stars": 12029,
       "user": "HKUDS"
     },
     {
@@ -1885,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1127,
       "user": "FreedomIntelligence"
     },
     {
@@ -1900,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 1000,
       "user": "aiming-lab"
     },
     {
@@ -1915,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 936,
       "user": "jackwener"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 841,
       "user": "knowsuchagency"
     },
     {
@@ -1945,23 +1945,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "epiral"
-    },
-    {
-      "title": "mem9-ai/mem9 - GitHub Repository",
-      "url": "https://github.com/mem9-ai/mem9",
-      "published_at": "2026-03-08T05:52:21Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266194263?v=4",
-      "source": "GitHub",
-      "stars": 240,
-      "user": "mem9-ai"
     },
     {
       "title": "verssache/chatgpt-creator - A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
@@ -2007,6 +1992,21 @@
       "source": "GitHub",
       "stars": 69,
       "user": "ygivenx"
+    },
+    {
+      "title": "nekohy/MeowCLI - 一个用于CLI反代的项目，追求更高性能，更优调度",
+      "url": "https://github.com/nekohy/MeowCLI",
+      "published_at": "2026-03-10T19:25:17Z",
+      "description": "一个用于CLI反代的项目，追求更高性能，更优调度",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/152958106?v=4",
+      "source": "GitHub",
+      "stars": 65,
+      "user": "nekohy"
     }
   ]
 }
