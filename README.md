@@ -216,7 +216,7 @@ npm run test
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 23:33:41 CAT_
+_Last automated update: Sat, 14 Mar 2026 23:57:32 CAT_
 
 
 
@@ -224,14 +224,14 @@ _Last automated update: Sat, 14 Mar 2026 23:33:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -246,14 +246,14 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Mar 2026 21:33:41 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Mar 2026 21:57:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
