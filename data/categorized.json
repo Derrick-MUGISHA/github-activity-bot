@@ -56,6 +56,20 @@
       "user": "Spencer Marx"
     },
     {
+      "title": "I'm frozen and I cannot move",
+      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
+      "published_at": "2026-03-13T15:44:02Z",
+      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
+      "source": "Dev.to",
+      "user": "Jan Küster 🔥"
+    },
+    {
       "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
       "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
       "published_at": "2026-03-12T22:48:44Z",
@@ -69,6 +83,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
       "source": "Dev.to",
       "user": "Sagiv ben giat"
+    },
+    {
+      "title": "Параллелизм в ruby 1: создаем потоки",
+      "url": "https://dev.to/kopylov_vlad/parallielizm-v-ruby-1-sozdaiem-potoki-2i83",
+      "published_at": "2026-03-13T19:41:58Z",
+      "description": "я бы хотел бы поставить точки над i в тему тредов и ракторов, как минимум сам для себя; посмотреть какие задачи на параллелизм решаются в других языках, что можно оттуда подчеркнуть и перенести в Ruby",
+      "tags": [
+        "ruby",
+        "rails",
+        "thread"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhna0rvxcn7y5quc1xic.jpeg",
+      "source": "Dev.to",
+      "user": "Vladislav Kopylov"
+    },
+    {
+      "title": "The Local AI Powerhouse",
+      "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
+      "published_at": "2026-03-13T18:25:54Z",
+      "description": "Introduction   Keeping up with everything AI-related in the recent months has got me...",
+      "tags": [
+        "ai",
+        "qwen",
+        "localllm",
+        "gptoss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
+      "source": "Dev.to",
+      "user": "Amjad Abujamous"
     },
     {
       "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
@@ -228,21 +271,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
       "source": "Dev.to",
       "user": "Paula Gearon"
-    },
-    {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
     },
     {
       "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
@@ -612,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 744,
       "user": "pasky"
     },
     {
@@ -642,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "KeyID-AI"
     },
     {
@@ -672,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1085,
+      "stars": 1089,
       "user": "aiming-lab"
     },
     {
@@ -687,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 272,
       "user": "epiral"
     },
     {
@@ -765,21 +793,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
       "source": "Dev.to",
       "user": "Theodor Diaconu"
-    },
-    {
-      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
-      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
-      "published_at": "2026-03-11T10:43:47Z",
-      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "go",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
-      "source": "Dev.to",
-      "user": "Supriya"
     },
     {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
@@ -972,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 744,
       "user": "pasky"
     },
     {
@@ -1002,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "KeyID-AI"
     },
     {
@@ -1243,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13176,
+      "stars": 13230,
       "user": "HKUDS"
     },
     {
@@ -1273,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1085,
+      "stars": 1089,
       "user": "aiming-lab"
     },
     {
@@ -1288,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1048,
       "user": "jackwener"
     },
     {
@@ -1303,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 908,
       "user": "knowsuchagency"
     }
   ],
@@ -1384,21 +1397,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
-    },
-    {
-      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
-      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
-      "published_at": "2026-03-11T10:43:47Z",
-      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "go",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
-      "source": "Dev.to",
-      "user": "Supriya"
     },
     {
       "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!",
@@ -1575,21 +1573,6 @@
       "user": "Luke"
     },
     {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
-    },
-    {
       "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
       "url": "https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk",
       "published_at": "2026-03-09T23:47:06Z",
@@ -1632,6 +1615,20 @@
     }
   ],
   "Tools": [
+    {
+      "title": "I'm frozen and I cannot move",
+      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
+      "published_at": "2026-03-13T15:44:02Z",
+      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
+      "source": "Dev.to",
+      "user": "Jan Küster 🔥"
+    },
     {
       "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
       "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
@@ -1793,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 744,
       "user": "pasky"
     },
     {
@@ -1823,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "KeyID-AI"
     },
     {
@@ -1868,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13176,
+      "stars": 13230,
       "user": "HKUDS"
     },
     {
@@ -1898,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1085,
+      "stars": 1089,
       "user": "aiming-lab"
     },
     {
@@ -1913,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1048,
       "user": "jackwener"
     },
     {
@@ -1928,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 908,
       "user": "knowsuchagency"
     },
     {
@@ -1943,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 272,
       "user": "epiral"
     },
     {
@@ -1988,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 72,
       "user": "ygivenx"
     },
     {
