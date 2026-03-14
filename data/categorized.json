@@ -273,6 +273,21 @@
       "user": "Paula Gearon"
     },
     {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
+    },
+    {
       "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
       "url": "https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l",
       "published_at": "2026-03-12T02:44:01Z",
@@ -640,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 808,
       "user": "pasky"
     },
     {
@@ -655,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "vasilytrofimchuk"
     },
     {
@@ -670,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 384,
       "user": "KeyID-AI"
     },
     {
@@ -700,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1103,
       "user": "aiming-lab"
     },
     {
@@ -795,21 +810,6 @@
       "user": "Theodor Diaconu"
     },
     {
-      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
-      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
-      "published_at": "2026-03-11T10:43:47Z",
-      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "go",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
-      "source": "Dev.to",
-      "user": "Supriya"
-    },
-    {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
       "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
       "published_at": "2026-03-11T05:30:00Z",
@@ -853,6 +853,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
+    },
+    {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -986,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 808,
       "user": "pasky"
     },
     {
@@ -1001,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1016,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 384,
       "user": "KeyID-AI"
     },
     {
@@ -1046,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253845106?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 190,
       "user": "Kilted-Kraken"
     },
     {
@@ -1242,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13398,
+      "stars": 13445,
       "user": "HKUDS"
     },
     {
@@ -1272,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1103,
       "user": "aiming-lab"
     },
     {
@@ -1287,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1060,
       "user": "jackwener"
     },
     {
@@ -1302,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 923,
       "user": "knowsuchagency"
     }
   ],
@@ -1385,21 +1400,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
-      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
-      "published_at": "2026-03-11T10:43:47Z",
-      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "go",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
-      "source": "Dev.to",
-      "user": "Supriya"
-    },
-    {
       "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!",
       "url": "https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828",
       "published_at": "2026-03-06T16:10:33Z",
@@ -1428,6 +1428,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
       "source": "Dev.to",
       "user": "Martin Hicks"
+    },
+    {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
     },
     {
       "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
@@ -1572,6 +1587,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsai7vinej4my7mk15te5.png",
       "source": "Dev.to",
       "user": "Luke"
+    },
+    {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
     },
     {
       "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
@@ -1792,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 808,
       "user": "pasky"
     },
     {
@@ -1807,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1822,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 384,
       "user": "KeyID-AI"
     },
     {
@@ -1852,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253845106?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 190,
       "user": "Kilted-Kraken"
     },
     {
@@ -1867,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13398,
+      "stars": 13445,
       "user": "HKUDS"
     },
     {
@@ -1897,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1103,
       "user": "aiming-lab"
     },
     {
@@ -1912,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1060,
       "user": "jackwener"
     },
     {
@@ -1927,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 923,
       "user": "knowsuchagency"
     },
     {
@@ -1987,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 75,
       "user": "ygivenx"
     },
     {
