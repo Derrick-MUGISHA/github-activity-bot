@@ -319,21 +319,6 @@
       "user": "Vaishali"
     },
     {
-      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
-      "url": "https://dev.to/jagostoni/dumbquestionai-self-awareness-prompt-injection-search-intent-and-darkness-3pd",
-      "published_at": "2026-03-10T13:09:37Z",
-      "description": "Continued from Part 2 (and Part 1) ...  Building DumbQuestion.ai wasn't just about choosing the right...",
-      "tags": [
-        "ai",
-        "agents",
-        "webdev",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3yr9ng1zbttl0z692sdk.webp",
-      "source": "Dev.to",
-      "user": "Jason Agostoni"
-    },
-    {
       "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
       "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
       "published_at": "2026-03-10T15:52:17Z",
@@ -393,6 +378,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Getting Started with Gemini CLI",
+      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
+      "published_at": "2026-03-11T17:45:44Z",
+      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
+      "tags": [
+        "gemini",
+        "cli",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
+    },
+    {
       "title": "Embedding Accessibility into AI based software development",
       "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
       "published_at": "2026-03-12T16:07:21Z",
@@ -436,6 +436,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8vpv35ge7n4xjcsglc7.png",
       "source": "Dev.to",
       "user": "Gabriele Mastrapasqua"
+    },
+    {
+      "title": "experience report: coding a framework with AI",
+      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
+      "published_at": "2026-03-12T08:48:19Z",
+      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
+      "tags": [
+        "ai",
+        "webdev",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
+      "source": "Dev.to",
+      "user": "Theodor Diaconu"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -626,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 889,
       "user": "pasky"
     },
     {
@@ -641,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "vasilytrofimchuk"
     },
     {
@@ -656,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "KeyID-AI"
     },
     {
@@ -671,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1164,
       "user": "FreedomIntelligence"
     },
     {
@@ -686,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1121,
       "user": "aiming-lab"
     },
     {
@@ -701,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 285,
       "user": "epiral"
     },
     {
@@ -810,6 +824,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
+    },
+    {
+      "title": "experience report: coding a framework with AI",
+      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
+      "published_at": "2026-03-12T08:48:19Z",
+      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
+      "tags": [
+        "ai",
+        "webdev",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
+      "source": "Dev.to",
+      "user": "Theodor Diaconu"
     },
     {
       "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
@@ -958,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 889,
       "user": "pasky"
     },
     {
@@ -973,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "vasilytrofimchuk"
     },
     {
@@ -988,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "KeyID-AI"
     },
     {
@@ -1003,23 +1031,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "samanalalokaya"
     },
     {
-      "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
-      "url": "https://github.com/calesthio/Crucix",
-      "published_at": "2026-03-14T07:33:06Z",
-      "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
+      "title": "Kilted-Kraken/-RohanKar-Launcher - GitHub Repository",
+      "url": "https://github.com/Kilted-Kraken/-RohanKar-Launcher",
+      "published_at": "2026-03-08T04:42:09Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/253845106?v=4",
       "source": "GitHub",
-      "stars": 212,
-      "user": "calesthio"
+      "stars": 220,
+      "user": "Kilted-Kraken"
     },
     {
       "title": "dougdonohoe/ddphotos - A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.",
@@ -1214,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13634,
+      "stars": 13664,
       "user": "HKUDS"
     },
     {
@@ -1229,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1164,
       "user": "FreedomIntelligence"
     },
     {
@@ -1244,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1121,
       "user": "aiming-lab"
     },
     {
@@ -1259,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1070,
       "user": "jackwener"
     },
     {
@@ -1274,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 948,
       "user": "knowsuchagency"
     }
   ],
@@ -1458,6 +1486,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqitllupmbsfi2mml2opl.png",
       "source": "Dev.to",
       "user": "Martin Omander"
+    },
+    {
+      "title": "Getting Started with Gemini CLI",
+      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
+      "published_at": "2026-03-11T17:45:44Z",
+      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
+      "tags": [
+        "gemini",
+        "cli",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
     }
   ],
   "Database": [
@@ -1764,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 889,
       "user": "pasky"
     },
     {
@@ -1779,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1794,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "KeyID-AI"
     },
     {
@@ -1809,23 +1852,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "samanalalokaya"
     },
     {
-      "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
-      "url": "https://github.com/calesthio/Crucix",
-      "published_at": "2026-03-14T07:33:06Z",
-      "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
+      "title": "Kilted-Kraken/-RohanKar-Launcher - GitHub Repository",
+      "url": "https://github.com/Kilted-Kraken/-RohanKar-Launcher",
+      "published_at": "2026-03-08T04:42:09Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/253845106?v=4",
       "source": "GitHub",
-      "stars": 212,
-      "user": "calesthio"
+      "stars": 220,
+      "user": "Kilted-Kraken"
     },
     {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
@@ -1839,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13634,
+      "stars": 13664,
       "user": "HKUDS"
     },
     {
@@ -1854,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1164,
       "user": "FreedomIntelligence"
     },
     {
@@ -1869,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1121,
       "user": "aiming-lab"
     },
     {
@@ -1884,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1070,
       "user": "jackwener"
     },
     {
@@ -1899,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 948,
       "user": "knowsuchagency"
     },
     {
@@ -1914,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 285,
       "user": "epiral"
     },
     {
