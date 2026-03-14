@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-14 21:00 CAT)
+## 📅 Latest Updates (2026-03-14 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 21:57:35 CAT_
+_Last automated update: Sat, 14 Mar 2026 22:32:16 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 14 Mar 2026 21:57:35 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Mar 2026 19:57:35 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Mar 2026 20:32:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
