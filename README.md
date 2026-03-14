@@ -216,7 +216,7 @@ npm run test
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
 
-_Last automated update: Sun, 15 Mar 2026 01:24:34 CAT_
+_Last automated update: Sun, 15 Mar 2026 01:49:50 CAT_
 
 
 
@@ -224,29 +224,18 @@ _Last automated update: Sun, 15 Mar 2026 01:24:34 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: functions, scope
-
-<details>
-<summary>💡 Hint</summary>
-
-Function + lexical environment, data privacy, callbacks
-
-</details>
-
-### 2. React: How would you optimize a React app's performance?
-
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 2. Python: What is the difference between list and tuple in Python?
 
 **Difficulty**: Easy | **Topics**: data structures, mutability
 
@@ -254,6 +243,17 @@ React.memo, useMemo, useCallback, code splitting, lazy loading
 <summary>💡 Hint</summary>
 
 Mutability, performance, use cases
+
+</details>
+
+### 3. DataStructures: Implement a function to reverse a linked list
+
+**Difficulty**: Medium | **Topics**: linked lists, pointers
+
+<details>
+<summary>💡 Hint</summary>
+
+Iterative or recursive, three pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Mar 2026 23:24:34 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Mar 2026 23:49:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
