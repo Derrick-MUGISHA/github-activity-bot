@@ -1,16 +1,16 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
     "AI": 50,
-    "JavaScript": 25,
+    "JavaScript": 24,
     "Python": 19,
     "DevOps": 3,
-    "WebDev": 7,
+    "WebDev": 6,
     "Mobile": 0,
     "Cloud": 3,
     "Database": 3,
@@ -18,9 +18,9 @@
     "Tools": 24
   },
   "by_language": {
-    "JavaScript": 25,
+    "JavaScript": 24,
     "Java": 20,
-    "Go": 20,
+    "Go": 19,
     "PHP": 1,
     "Python": 19,
     "CSharp": 1,
@@ -29,7 +29,7 @@
   "by_date": {
     "2026-03-13": 6,
     "2026-03-12": 13,
-    "2026-03-11": 12,
+    "2026-03-11": 11,
     "2026-03-10": 11,
     "2026-03-06": 5,
     "2026-03-07": 3,
@@ -73,7 +73,7 @@
   },
   "top_tags": {
     "ai": 24,
-    "webdev": 17,
+    "webdev": 16,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -82,25 +82,25 @@
     "javascript": 9,
     "devchallenge": 9,
     "career": 8,
-    "go": 8,
+    "go": 7,
     "productivity": 6,
     "wecoded": 6,
     "python": 6,
     "discuss": 5,
-    "showdev": 5,
     "programming": 5,
     "dei": 5,
     "typescript": 4,
-    "mcp": 4
+    "mcp": 4,
+    "showdev": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "28.7",
-    "Java": "23.0",
-    "Go": "23.0",
-    "PHP": "1.1",
-    "Python": "21.8",
-    "CSharp": "1.1",
-    "Rust": "1.1"
+    "JavaScript": "28.2",
+    "Java": "23.5",
+    "Go": "22.4",
+    "PHP": "1.2",
+    "Python": "22.4",
+    "CSharp": "1.2",
+    "Rust": "1.2"
   }
 }
