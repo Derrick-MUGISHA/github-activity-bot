@@ -18,9 +18,9 @@
     "Tools": 24
   },
   "by_language": {
+    "Go": 19,
     "JavaScript": 24,
     "Java": 20,
-    "Go": 19,
     "PHP": 1,
     "Python": 19,
     "CSharp": 1,
@@ -79,8 +79,8 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "javascript": 9,
     "devchallenge": 9,
+    "javascript": 9,
     "career": 8,
     "go": 7,
     "productivity": 6,
@@ -89,15 +89,15 @@
     "discuss": 5,
     "programming": 5,
     "dei": 5,
-    "typescript": 4,
     "mcp": 4,
+    "typescript": 4,
     "showdev": 4
   },
   "trending_topics": [],
   "language_percentages": {
+    "Go": "22.4",
     "JavaScript": "28.2",
     "Java": "23.5",
-    "Go": "22.4",
     "PHP": "1.2",
     "Python": "22.4",
     "CSharp": "1.2",
