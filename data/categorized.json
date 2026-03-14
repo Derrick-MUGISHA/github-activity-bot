@@ -31,16 +31,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "AI did a good job... and almost deleted everything",
-      "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
-      "published_at": "2026-03-12T22:01:29Z",
-      "description": "I would like to share an experience I had today.  TLDR:   AI finds minor security problem: danger of...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png",
-      "source": "Dev.to",
-      "user": "EECOLOR"
-    },
-    {
       "title": "Your AI code reviewer has no one to disagree with",
       "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
       "published_at": "2026-03-11T14:48:03Z",
@@ -188,19 +178,14 @@
       "user": "Greg Baugues"
     },
     {
-      "title": "Embedding Accessibility into AI based software development",
-      "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
-      "published_at": "2026-03-12T16:07:21Z",
-      "description": "At CSUN-AT 2026, I spoke with my colleague Mallika Meiyappan on Embedding Accessibility into AI based...",
-      "tags": [
-        "a11y",
-        "llm",
-        "ai",
-        "benchmark"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzz47rv1f9gw3o8gjs9ns.png",
+      "title": "AI did a good job... and almost deleted everything",
+      "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
+      "published_at": "2026-03-12T22:01:29Z",
+      "description": "I would like to share an experience I had today.  TLDR:   AI finds minor security problem: danger of...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png",
       "source": "Dev.to",
-      "user": "Michael Fairchild"
+      "user": "EECOLOR"
     },
     {
       "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
@@ -233,20 +218,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "experience report: coding a framework with AI",
-      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
-      "published_at": "2026-03-12T08:48:19Z",
-      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
-      "tags": [
-        "ai",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
-      "source": "Dev.to",
-      "user": "Theodor Diaconu"
-    },
-    {
       "title": "MCP Server with .Net",
       "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
       "published_at": "2026-03-12T22:52:52Z",
@@ -261,6 +232,20 @@
       "user": "Antonio Di Motta"
     },
     {
+      "title": "experience report: coding a framework with AI",
+      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
+      "published_at": "2026-03-12T08:48:19Z",
+      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
+      "tags": [
+        "ai",
+        "webdev",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
+      "source": "Dev.to",
+      "user": "Theodor Diaconu"
+    },
+    {
       "title": "Clojure Inheritance… Sort Of",
       "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
       "published_at": "2026-03-12T05:49:43Z",
@@ -271,6 +256,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
       "source": "Dev.to",
       "user": "Paula Gearon"
+    },
+    {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
     },
     {
       "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 772,
       "user": "pasky"
     },
     {
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "KeyID-AI"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1090,
+      "stars": 1092,
       "user": "aiming-lab"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 276,
       "user": "epiral"
     },
     {
@@ -985,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 772,
       "user": "pasky"
     },
     {
@@ -1015,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "KeyID-AI"
     },
     {
@@ -1030,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "samanalalokaya"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13273,
+      "stars": 13321,
       "user": "HKUDS"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1090,
+      "stars": 1092,
       "user": "aiming-lab"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1053,
       "user": "jackwener"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 914,
       "user": "knowsuchagency"
     }
   ],
@@ -1573,6 +1573,21 @@
       "user": "Luke"
     },
     {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
+    },
+    {
       "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
       "url": "https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk",
       "published_at": "2026-03-09T23:47:06Z",
@@ -1790,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 772,
       "user": "pasky"
     },
     {
@@ -1820,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "KeyID-AI"
     },
     {
@@ -1835,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "samanalalokaya"
     },
     {
@@ -1865,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13273,
+      "stars": 13321,
       "user": "HKUDS"
     },
     {
@@ -1895,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1090,
+      "stars": 1092,
       "user": "aiming-lab"
     },
     {
@@ -1910,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1053,
       "user": "jackwener"
     },
     {
@@ -1925,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 914,
       "user": "knowsuchagency"
     },
     {
@@ -1940,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 276,
       "user": "epiral"
     },
     {
