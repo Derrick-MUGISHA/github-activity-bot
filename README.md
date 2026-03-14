@@ -30,13 +30,13 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦🟦 7 (6.7%)
 
 **Security**: 🟦🟦 6 (5.7%)
 
@@ -58,14 +58,14 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.3 (27.3%)
-Go              ██████████████████████████ 23.9 (23.9%)
-Java            █████████████████████████ 22.7 (22.7%)
-Python          ████████████████████████ 21.6 (21.6%)
-Ruby            █ 1.1 (1.1%)
-PHP             █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
-Rust            █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 27.9 (27.9%)
+Go              ██████████████████████████ 24.4 (24.4%)
+Java            ████████████████████████ 22.1 (22.1%)
+Python          ██████████████████████ 20.9 (20.9%)
+Ruby            █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
+CSharp          █ 1.2 (1.2%)
+Rust            █ 1.2 (1.2%)
 
 ```
 
@@ -73,8 +73,8 @@ Rust            █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 24
     "Go" : 21
-    "Java" : 20
-    "Python" : 19
+    "Java" : 19
+    "Python" : 18
     "Ruby" : 1
     "PHP" : 1
     "CSharp" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![career](https://img.shields.io/badge/career-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-5-blue) 
 
 
 
@@ -216,7 +216,7 @@ npm run test
 - [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm) _[Dev.to]_
 - [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 19:25:55 CAT_
+_Last automated update: Sat, 14 Mar 2026 19:51:37 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 14 Mar 2026 19:25:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Mutability, performance, use cases
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Mar 2026 17:25:55 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Mar 2026 17:51:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

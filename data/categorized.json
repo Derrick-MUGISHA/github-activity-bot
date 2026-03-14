@@ -407,6 +407,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Embedding Accessibility into AI based software development",
+      "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
+      "published_at": "2026-03-12T16:07:21Z",
+      "description": "At CSUN-AT 2026, I spoke with my colleague Mallika Meiyappan on Embedding Accessibility into AI based...",
+      "tags": [
+        "a11y",
+        "llm",
+        "ai",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzz47rv1f9gw3o8gjs9ns.png",
+      "source": "Dev.to",
+      "user": "Michael Fairchild"
+    },
+    {
       "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
       "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
       "published_at": "2026-03-04T20:19:27Z",
@@ -480,21 +495,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
       "source": "Dev.to",
       "user": "Chris Noring"
-    },
-    {
-      "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
-      "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
-      "published_at": "2026-03-10T23:13:04Z",
-      "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
-      "tags": [
-        "machinelearning",
-        "computervision",
-        "deeplearning",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ze6xe8i9z5n81ux8i60.png",
-      "source": "Dev.to",
-      "user": "Vladimir Iglovikov"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 779,
       "user": "pasky"
     },
     {
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "KeyID-AI"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1092,
+      "stars": 1096,
       "user": "aiming-lab"
     },
     {
@@ -795,6 +795,21 @@
       "user": "Theodor Diaconu"
     },
     {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
+    },
+    {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
       "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
       "published_at": "2026-03-11T05:30:00Z",
@@ -838,20 +853,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
-    },
-    {
-      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
-      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
-      "published_at": "2026-03-03T11:32:27Z",
-      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
-      "tags": [
-        "webdevwebdev",
-        "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
-      "source": "Dev.to",
-      "user": "Eastkap"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -985,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 779,
       "user": "pasky"
     },
     {
@@ -1015,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "KeyID-AI"
     },
     {
@@ -1034,19 +1035,19 @@
       "user": "samanalalokaya"
     },
     {
-      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
-      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
-      "published_at": "2026-03-10T19:05:31Z",
+      "title": "Kilted-Kraken/-RohanKar-Launcher - GitHub Repository",
+      "url": "https://github.com/Kilted-Kraken/-RohanKar-Launcher",
+      "published_at": "2026-03-08T04:42:09Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/253845106?v=4",
       "source": "GitHub",
-      "stars": 167,
-      "user": "michelleoincx"
+      "stars": 172,
+      "user": "Kilted-Kraken"
     },
     {
       "title": "dougdonohoe/ddphotos - A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.",
@@ -1230,21 +1231,6 @@
       "user": "gilad"
     },
     {
-      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
-      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
-      "published_at": "2026-03-10T19:05:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
-      "source": "GitHub",
-      "stars": 167,
-      "user": "michelleoincx"
-    },
-    {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "published_at": "2026-03-08T13:52:57Z",
@@ -1256,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13321,
+      "stars": 13357,
       "user": "HKUDS"
     },
     {
@@ -1286,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1092,
+      "stars": 1096,
       "user": "aiming-lab"
     },
     {
@@ -1316,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 917,
       "user": "knowsuchagency"
     }
   ],
@@ -1397,6 +1383,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
+    },
+    {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
     },
     {
       "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!",
@@ -1780,20 +1781,6 @@
       "user": "Chris Noring"
     },
     {
-      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
-      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
-      "published_at": "2026-03-03T11:32:27Z",
-      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
-      "tags": [
-        "webdevwebdev",
-        "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
-      "source": "Dev.to",
-      "user": "Eastkap"
-    },
-    {
       "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "published_at": "2026-03-13T00:35:39Z",
@@ -1805,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 779,
       "user": "pasky"
     },
     {
@@ -1835,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "KeyID-AI"
     },
     {
@@ -1854,19 +1841,19 @@
       "user": "samanalalokaya"
     },
     {
-      "title": "michelleoincx/Bunkr-Downloader-Python - GitHub Repository",
-      "url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
-      "published_at": "2026-03-10T19:05:31Z",
+      "title": "Kilted-Kraken/-RohanKar-Launcher - GitHub Repository",
+      "url": "https://github.com/Kilted-Kraken/-RohanKar-Launcher",
+      "published_at": "2026-03-08T04:42:09Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243087238?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/253845106?v=4",
       "source": "GitHub",
-      "stars": 167,
-      "user": "michelleoincx"
+      "stars": 172,
+      "user": "Kilted-Kraken"
     },
     {
       "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
@@ -1880,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13321,
+      "stars": 13357,
       "user": "HKUDS"
     },
     {
@@ -1910,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1092,
+      "stars": 1096,
       "user": "aiming-lab"
     },
     {
@@ -1940,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 917,
       "user": "knowsuchagency"
     },
     {
