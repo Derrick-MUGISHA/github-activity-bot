@@ -41,20 +41,6 @@
       "user": "Spencer Marx"
     },
     {
-      "title": "MCP Server with .Net",
-      "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
-      "published_at": "2026-03-12T22:52:52Z",
-      "description": "Building a MCP Server with C#",
-      "tags": [
-        "dotnet",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
-      "source": "Dev.to",
-      "user": "Antonio Di Motta"
-    },
-    {
       "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
       "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
       "published_at": "2026-03-12T02:26:38Z",
@@ -216,6 +202,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
       "source": "Dev.to",
       "user": "Theodor Diaconu"
+    },
+    {
+      "title": "MCP Server with .Net",
+      "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
+      "published_at": "2026-03-12T22:52:52Z",
+      "description": "Building a MCP Server with C#",
+      "tags": [
+        "dotnet",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
+      "source": "Dev.to",
+      "user": "Antonio Di Motta"
     },
     {
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "vasilytrofimchuk"
     },
     {
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 257,
       "user": "pasky"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1127,
+      "stars": 1128,
       "user": "FreedomIntelligence"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1009,
       "user": "aiming-lab"
     },
     {
@@ -988,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1018,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 257,
       "user": "pasky"
     },
     {
@@ -1033,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "samanalalokaya"
     },
     {
@@ -1259,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 12029,
+      "stars": 12139,
       "user": "HKUDS"
     },
     {
@@ -1274,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1127,
+      "stars": 1128,
       "user": "FreedomIntelligence"
     },
     {
@@ -1289,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1009,
       "user": "aiming-lab"
     },
     {
@@ -1304,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 943,
       "user": "jackwener"
     },
     {
@@ -1319,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 849,
       "user": "knowsuchagency"
     }
   ],
@@ -1795,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1825,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 257,
       "user": "pasky"
     },
     {
@@ -1840,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "samanalalokaya"
     },
     {
@@ -1870,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 12029,
+      "stars": 12139,
       "user": "HKUDS"
     },
     {
@@ -1885,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1127,
+      "stars": 1128,
       "user": "FreedomIntelligence"
     },
     {
@@ -1900,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1009,
       "user": "aiming-lab"
     },
     {
@@ -1915,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 943,
       "user": "jackwener"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 849,
       "user": "knowsuchagency"
     },
     {
@@ -1990,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "ygivenx"
     },
     {
