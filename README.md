@@ -214,7 +214,7 @@ npm run test
 - [TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6) _[Dev.to]_
 - [Embedding Accessibility into AI based software development](https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k) _[Dev.to]_
 
-_Last automated update: Sat, 14 Mar 2026 13:21:31 CAT_
+_Last automated update: Sat, 14 Mar 2026 13:45:25 CAT_
 
 
 
@@ -222,29 +222,18 @@ _Last automated update: Sat, 14 Mar 2026 13:21:31 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-### 2. DataStructures: Find the longest substring without repeating characters
-
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 2. Python: What is the difference between list and tuple in Python?
 
 **Difficulty**: Easy | **Topics**: data structures, mutability
 
@@ -252,6 +241,17 @@ Sliding window, hash map, two pointers
 <summary>💡 Hint</summary>
 
 Mutability, performance, use cases
+
+</details>
+
+### 3. React: Implement a custom hook for fetching data
+
+**Difficulty**: Medium | **Topics**: hooks, async
+
+<details>
+<summary>💡 Hint</summary>
+
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 14 Mar 2026 11:21:31 GMT</b><br/>
+  <b>Last automated update: Sat, 14 Mar 2026 11:45:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
