@@ -178,21 +178,6 @@
       "user": "Ahmet Zeybek"
     },
     {
-      "title": "Getting Started with Gemini CLI",
-      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
-      "published_at": "2026-03-11T17:45:44Z",
-      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "AI did a good job... and almost deleted everything",
       "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
       "published_at": "2026-03-12T22:01:29Z",
@@ -245,20 +230,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
       "source": "Dev.to",
       "user": "Antonio Di Motta"
-    },
-    {
-      "title": "experience report: coding a framework with AI",
-      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
-      "published_at": "2026-03-12T08:48:19Z",
-      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
-      "tags": [
-        "ai",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
-      "source": "Dev.to",
-      "user": "Theodor Diaconu"
     },
     {
       "title": "Clojure Inheritance… Sort Of",
@@ -655,7 +626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 854,
       "user": "pasky"
     },
     {
@@ -685,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "KeyID-AI"
     },
     {
@@ -700,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1162,
       "user": "FreedomIntelligence"
     },
     {
@@ -715,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1112,
       "user": "aiming-lab"
     },
     {
@@ -730,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "epiral"
     },
     {
@@ -794,20 +765,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
       "source": "Dev.to",
       "user": "Christian Segovia"
-    },
-    {
-      "title": "experience report: coding a framework with AI",
-      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
-      "published_at": "2026-03-12T08:48:19Z",
-      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
-      "tags": [
-        "ai",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
-      "source": "Dev.to",
-      "user": "Theodor Diaconu"
     },
     {
       "title": "Why Asking an LLM for JSON Isn’t Enough",
@@ -1001,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 854,
       "user": "pasky"
     },
     {
@@ -1031,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "KeyID-AI"
     },
     {
@@ -1061,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253845106?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "Kilted-Kraken"
     },
     {
@@ -1257,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13537,
+      "stars": 13560,
       "user": "HKUDS"
     },
     {
@@ -1272,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1162,
       "user": "FreedomIntelligence"
     },
     {
@@ -1287,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1112,
       "user": "aiming-lab"
     },
     {
@@ -1302,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1065,
       "user": "jackwener"
     },
     {
@@ -1317,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 929,
       "user": "knowsuchagency"
     }
   ],
@@ -1501,21 +1458,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqitllupmbsfi2mml2opl.png",
       "source": "Dev.to",
       "user": "Martin Omander"
-    },
-    {
-      "title": "Getting Started with Gemini CLI",
-      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
-      "published_at": "2026-03-11T17:45:44Z",
-      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
     }
   ],
   "Database": [
@@ -1822,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 854,
       "user": "pasky"
     },
     {
@@ -1852,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "KeyID-AI"
     },
     {
@@ -1882,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253845106?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "Kilted-Kraken"
     },
     {
@@ -1897,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 13537,
+      "stars": 13560,
       "user": "HKUDS"
     },
     {
@@ -1912,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1162,
       "user": "FreedomIntelligence"
     },
     {
@@ -1927,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1112,
       "user": "aiming-lab"
     },
     {
@@ -1942,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1065,
       "user": "jackwener"
     },
     {
@@ -1957,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 929,
       "user": "knowsuchagency"
     },
     {
@@ -1972,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "epiral"
     },
     {
