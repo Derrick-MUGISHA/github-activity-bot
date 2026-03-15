@@ -20,7 +20,7 @@
   "by_language": {
     "JavaScript": 24,
     "Java": 21,
-    "Go": 20,
+    "Go": 21,
     "PHP": 1,
     "Python": 18,
     "CSharp": 1,
@@ -29,9 +29,9 @@
   },
   "by_date": {
     "2026-03-14": 3,
-    "2026-03-13": 10,
+    "2026-03-13": 9,
     "2026-03-12": 12,
-    "2026-03-11": 11,
+    "2026-03-11": 12,
     "2026-03-06": 5,
     "2026-03-07": 3,
     "2026-03-05": 1,
@@ -74,7 +74,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 24,
+    "ai": 23,
     "webdev": 15,
     "github": 15,
     "open-source": 15,
@@ -86,22 +86,22 @@
     "devchallenge": 8,
     "productivity": 7,
     "go": 7,
-    "programming": 6,
     "python": 6,
+    "programming": 5,
     "wecoded": 5,
     "discuss": 4,
+    "mcp": 4,
     "typescript": 4,
-    "dei": 4,
-    "gemini": 4,
-    "mcp": 3
+    "showdev": 4,
+    "dei": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "27.6",
-    "Java": "24.1",
-    "Go": "23.0",
+    "JavaScript": "27.3",
+    "Java": "23.9",
+    "Go": "23.9",
     "PHP": "1.1",
-    "Python": "20.7",
+    "Python": "20.5",
     "CSharp": "1.1",
     "Ruby": "1.1",
     "Rust": "1.1"
