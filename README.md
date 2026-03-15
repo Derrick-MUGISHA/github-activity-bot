@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (49.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (50.0%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.5%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.5%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.6%)
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-15 17:00 CAT)
+## 📅 Latest Updates (2026-03-15 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [MCP Server with .Net](https://dev.to/antdimot/mcp-server-with-net-5cih) _[Dev.to]_
 - [I'm frozen and I cannot move](https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g) _[Dev.to]_
 
-_Last automated update: Sun, 15 Mar 2026 17:51:32 CAT_
+_Last automated update: Sun, 15 Mar 2026 18:27:47 CAT_
 
 
 
@@ -235,25 +235,25 @@ B-tree, trade-offs, query performance
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Mar 2026 15:51:32 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Mar 2026 16:27:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
