@@ -304,21 +304,6 @@
       "user": "Vaishali"
     },
     {
-      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
-      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
-      "published_at": "2026-03-10T15:52:17Z",
-      "description": "Claude Code is the fastest coder I've ever worked with. It can scaffold a feature, write tests, and...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "tdd",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
-      "source": "Dev.to",
-      "user": "v.j.k. "
-    },
-    {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
       "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
       "published_at": "2026-03-07T17:10:00Z",
@@ -655,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1063,
       "user": "pasky"
     },
     {
@@ -685,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 405,
       "user": "KeyID-AI"
     },
     {
@@ -700,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1170,
       "user": "aiming-lab"
     },
     {
@@ -715,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 724,
       "user": "skernelx"
     },
     {
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "RightNow-AI"
     },
     {
@@ -760,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "verssache"
     }
   ],
@@ -900,6 +885,20 @@
       "user": "Supriya"
     },
     {
+      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
+      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
+      "published_at": "2026-03-03T11:32:27Z",
+      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
+      "tags": [
+        "webdevwebdev",
+        "javascript",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
+      "source": "Dev.to",
+      "user": "Eastkap"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1031,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1063,
       "user": "pasky"
     },
     {
@@ -1061,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 405,
       "user": "KeyID-AI"
     },
     {
@@ -1076,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 319,
       "user": "calesthio"
     },
     {
@@ -1091,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36821509?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 255,
       "user": "vxcozy"
     }
   ],
@@ -1272,23 +1271,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1170,
       "user": "aiming-lab"
-    },
-    {
-      "title": "knowsuchagency/mcp2cli - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-      "url": "https://github.com/knowsuchagency/mcp2cli",
-      "published_at": "2026-03-09T03:46:37Z",
-      "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
-      "source": "GitHub",
-      "stars": 975,
-      "user": "knowsuchagency"
     },
     {
       "title": "wanshuiyin/Auto-claude-code-research-in-sleep - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
@@ -1302,8 +1286,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 980,
       "user": "wanshuiyin"
+    },
+    {
+      "title": "knowsuchagency/mcp2cli - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
+      "url": "https://github.com/knowsuchagency/mcp2cli",
+      "published_at": "2026-03-09T03:46:37Z",
+      "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
+      "source": "GitHub",
+      "stars": 977,
+      "user": "knowsuchagency"
     },
     {
       "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
@@ -1317,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 724,
       "user": "skernelx"
     },
     {
@@ -1332,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "RightNow-AI"
     }
   ],
@@ -1483,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 724,
       "user": "skernelx"
     }
   ],
@@ -1736,21 +1735,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
-      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf",
-      "published_at": "2026-03-10T15:52:17Z",
-      "description": "Claude Code is the fastest coder I've ever worked with. It can scaffold a feature, write tests, and...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "tdd",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7yz9ml71u14a3red18y.png",
-      "source": "Dev.to",
-      "user": "v.j.k. "
-    },
-    {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
       "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
       "published_at": "2026-03-06T17:12:22Z",
@@ -1811,6 +1795,20 @@
       "user": "Chris Noring"
     },
     {
+      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
+      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
+      "published_at": "2026-03-03T11:32:27Z",
+      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
+      "tags": [
+        "webdevwebdev",
+        "javascript",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
+      "source": "Dev.to",
+      "user": "Eastkap"
+    },
+    {
       "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "published_at": "2026-03-13T00:35:39Z",
@@ -1822,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1063,
       "user": "pasky"
     },
     {
@@ -1852,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 405,
       "user": "KeyID-AI"
     },
     {
@@ -1867,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 319,
       "user": "calesthio"
     },
     {
@@ -1882,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36821509?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 255,
       "user": "vxcozy"
     },
     {
@@ -1897,23 +1895,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1170,
       "user": "aiming-lab"
-    },
-    {
-      "title": "knowsuchagency/mcp2cli - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-      "url": "https://github.com/knowsuchagency/mcp2cli",
-      "published_at": "2026-03-09T03:46:37Z",
-      "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
-      "source": "GitHub",
-      "stars": 975,
-      "user": "knowsuchagency"
     },
     {
       "title": "wanshuiyin/Auto-claude-code-research-in-sleep - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
@@ -1927,8 +1910,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 980,
       "user": "wanshuiyin"
+    },
+    {
+      "title": "knowsuchagency/mcp2cli - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
+      "url": "https://github.com/knowsuchagency/mcp2cli",
+      "published_at": "2026-03-09T03:46:37Z",
+      "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
+      "source": "GitHub",
+      "stars": 977,
+      "user": "knowsuchagency"
     },
     {
       "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
@@ -1942,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 724,
       "user": "skernelx"
     },
     {
@@ -1957,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "RightNow-AI"
     },
     {
@@ -1987,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "verssache"
     },
     {
