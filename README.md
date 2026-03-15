@@ -216,7 +216,7 @@ npm run test
 - [MCP Server with .Net](https://dev.to/antdimot/mcp-server-with-net-5cih) _[Dev.to]_
 - [I'm frozen and I cannot move](https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g) _[Dev.to]_
 
-_Last automated update: Sun, 15 Mar 2026 16:16:08 CAT_
+_Last automated update: Sun, 15 Mar 2026 16:54:30 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Mar 2026 16:16:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Mar 2026 14:16:08 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Mar 2026 14:54:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
