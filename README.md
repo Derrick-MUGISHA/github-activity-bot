@@ -38,13 +38,13 @@
 
 **WebDev**: 🟦🟦🟦 8 (7.6%)
 
-**Security**: 🟦🟦 6 (5.7%)
-
-**DevOps**: 🟦 3 (2.9%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **Cloud**: 🟦 3 (2.9%)
 
 **Database**: 🟦 3 (2.9%)
+
+**DevOps**: 🟦 2 (1.9%)
 
 
 
@@ -58,22 +58,22 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.6 (27.6%)
-Go              ██████████████████████████ 24.1 (24.1%)
-Java            █████████████████████████ 23.0 (23.0%)
-Python          ██████████████████████ 20.7 (20.7%)
-Ruby            █ 1.1 (1.1%)
-PHP             █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
-Rust            █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 27.9 (27.9%)
+Java            █████████████████████████ 23.3 (23.3%)
+Go              █████████████████████████ 23.3 (23.3%)
+Python          ██████████████████████ 20.9 (20.9%)
+Ruby            █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
+CSharp          █ 1.2 (1.2%)
+Rust            █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 24
-    "Go" : 21
     "Java" : 20
+    "Go" : 20
     "Python" : 18
     "Ruby" : 1
     "PHP" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![career](https://img.shields.io/badge/career-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-4-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![career](https://img.shields.io/badge/career-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![go](https://img.shields.io/badge/go-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-15 4:00 CAT)
+## 📅 Latest Updates (2026-03-15 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,9 +214,9 @@ npm run test
 - [Lovable AI: Why the AI App Builder Is Suddenly Everywhere](https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
-- [TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6) _[Dev.to]_
+- [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 
-_Last automated update: Sun, 15 Mar 2026 04:02:47 CAT_
+_Last automated update: Sun, 15 Mar 2026 06:40:27 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Mar 2026 04:02:47 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Mutability, performance, use cases
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Mar 2026 02:02:47 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Mar 2026 04:40:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

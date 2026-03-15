@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 1034,
       "user": "pasky"
     },
     {
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "vasilytrofimchuk"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 403,
       "user": "KeyID-AI"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1167,
       "user": "aiming-lab"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 700,
       "user": "skernelx"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 294,
       "user": "epiral"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "verssache"
     }
   ],
@@ -1031,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 1034,
       "user": "pasky"
     },
     {
@@ -1046,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1061,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 403,
       "user": "KeyID-AI"
     },
     {
@@ -1076,23 +1076,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 295,
       "user": "calesthio"
     },
     {
-      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
-      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
-      "published_at": "2026-03-10T19:51:35Z",
-      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
+      "title": "vxcozy/tome - Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
+      "url": "https://github.com/vxcozy/tome",
+      "published_at": "2026-03-10T18:38:26Z",
+      "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/36821509?v=4",
       "source": "GitHub",
-      "stars": 237,
-      "user": "samanalalokaya"
+      "stars": 253,
+      "user": "vxcozy"
     }
   ],
   "Python": [
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1167,
       "user": "aiming-lab"
     },
     {
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 975,
       "user": "knowsuchagency"
     },
     {
@@ -1302,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 947,
       "user": "wanshuiyin"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 700,
       "user": "skernelx"
     },
     {
@@ -1337,21 +1337,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.",
-      "url": "https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6",
-      "published_at": "2026-03-10T14:58:49Z",
-      "description": "If you manage TLS certificates for anything beyond a single server, the next three years are going to...",
-      "tags": [
-        "security",
-        "automation",
-        "ssl",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsai7vinej4my7mk15te5.png",
-      "source": "Dev.to",
-      "user": "Luke"
-    },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
@@ -1498,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 700,
       "user": "skernelx"
     }
   ],
@@ -1602,21 +1587,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png",
       "source": "Dev.to",
       "user": "EECOLOR"
-    },
-    {
-      "title": "TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.",
-      "url": "https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6",
-      "published_at": "2026-03-10T14:58:49Z",
-      "description": "If you manage TLS certificates for anything beyond a single server, the next three years are going to...",
-      "tags": [
-        "security",
-        "automation",
-        "ssl",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsai7vinej4my7mk15te5.png",
-      "source": "Dev.to",
-      "user": "Luke"
     },
     {
       "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
@@ -1852,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 1034,
       "user": "pasky"
     },
     {
@@ -1867,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1882,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 403,
       "user": "KeyID-AI"
     },
     {
@@ -1897,23 +1867,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 295,
       "user": "calesthio"
     },
     {
-      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
-      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
-      "published_at": "2026-03-10T19:51:35Z",
-      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
+      "title": "vxcozy/tome - Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
+      "url": "https://github.com/vxcozy/tome",
+      "published_at": "2026-03-10T18:38:26Z",
+      "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/36821509?v=4",
       "source": "GitHub",
-      "stars": 237,
-      "user": "samanalalokaya"
+      "stars": 253,
+      "user": "vxcozy"
     },
     {
       "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
@@ -1927,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1167,
       "user": "aiming-lab"
     },
     {
@@ -1942,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 975,
       "user": "knowsuchagency"
     },
     {
@@ -1957,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 947,
       "user": "wanshuiyin"
     },
     {
@@ -1972,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 700,
       "user": "skernelx"
     },
     {
@@ -2002,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 294,
       "user": "epiral"
     },
     {
@@ -2017,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "verssache"
     },
     {
@@ -2062,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7385619?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "ottogin"
     }
   ]
