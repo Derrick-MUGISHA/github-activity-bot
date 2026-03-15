@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
       "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
       "published_at": "2026-03-12T02:26:38Z",
@@ -119,21 +134,6 @@
       "user": "Kim Maida"
     },
     {
-      "title": "When AI Writes the Code… Who Takes Responsibility?",
-      "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
-      "published_at": "2026-03-10T22:39:46Z",
-      "description": "Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...",
-      "tags": [
-        "ai",
-        "programming",
-        "agents",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
-      "source": "Dev.to",
-      "user": "Subhrangsu Bera"
-    },
-    {
       "title": "Ship Less, Measure More",
       "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
       "published_at": "2026-03-06T22:07:43Z",
@@ -244,21 +244,6 @@
       "user": "Paula Gearon"
     },
     {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
-    },
-    {
       "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
       "url": "https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l",
       "published_at": "2026-03-12T02:44:01Z",
@@ -347,6 +332,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png",
       "source": "Dev.to",
       "user": "Firas M. Darwish"
+    },
+    {
+      "title": "When AI Writes the Code… Who Takes Responsibility?",
+      "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
+      "published_at": "2026-03-10T22:39:46Z",
+      "description": "Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...",
+      "tags": [
+        "ai",
+        "programming",
+        "agents",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
+      "source": "Dev.to",
+      "user": "Subhrangsu Bera"
     },
     {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
@@ -497,6 +497,21 @@
       "user": "Chris Noring"
     },
     {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -640,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 962,
       "user": "pasky"
     },
     {
@@ -674,21 +689,6 @@
       "user": "KeyID-AI"
     },
     {
-      "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
-      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-      "published_at": "2026-03-08T09:43:52Z",
-      "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
-      "source": "GitHub",
-      "stars": 1164,
-      "user": "FreedomIntelligence"
-    },
-    {
       "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
       "url": "https://github.com/aiming-lab/MetaClaw",
       "published_at": "2026-03-09T13:47:13Z",
@@ -700,8 +700,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1143,
       "user": "aiming-lab"
+    },
+    {
+      "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
+      "url": "https://github.com/skernelx/tavily-key-generator",
+      "published_at": "2026-03-14T04:12:22Z",
+      "description": "Auto batch register Tavily API Keys with pluggable email backends",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
+      "source": "GitHub",
+      "stars": 645,
+      "user": "skernelx"
+    },
+    {
+      "title": "RightNow-AI/autokernel - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "url": "https://github.com/RightNow-AI/autokernel",
+      "published_at": "2026-03-11T00:12:46Z",
+      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
+      "source": "GitHub",
+      "stars": 623,
+      "user": "RightNow-AI"
     },
     {
       "title": "epiral/agent-clip - AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
@@ -715,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 289,
       "user": "epiral"
     },
     {
@@ -735,6 +765,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
     {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
       "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
@@ -986,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 962,
       "user": "pasky"
     },
     {
@@ -1020,21 +1065,6 @@
       "user": "KeyID-AI"
     },
     {
-      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
-      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
-      "published_at": "2026-03-10T19:51:35Z",
-      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
-      "source": "GitHub",
-      "stars": 234,
-      "user": "samanalalokaya"
-    },
-    {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
       "url": "https://github.com/calesthio/Crucix",
       "published_at": "2026-03-14T07:33:06Z",
@@ -1046,23 +1076,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 261,
       "user": "calesthio"
     },
     {
-      "title": "dougdonohoe/ddphotos - A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.",
-      "url": "https://github.com/dougdonohoe/ddphotos",
-      "published_at": "2026-03-08T17:34:23Z",
-      "description": "A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.",
+      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
+      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
+      "published_at": "2026-03-10T19:51:35Z",
+      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
       "tags": [
-        "go",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1576240?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 101,
-      "user": "dougdonohoe"
+      "stars": 237,
+      "user": "samanalalokaya"
     }
   ],
   "Python": [
@@ -1231,36 +1261,6 @@
       "user": "gilad"
     },
     {
-      "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "published_at": "2026-03-08T13:52:57Z",
-      "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 13684,
-      "user": "HKUDS"
-    },
-    {
-      "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
-      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-      "published_at": "2026-03-08T09:43:52Z",
-      "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
-      "source": "GitHub",
-      "stars": 1164,
-      "user": "FreedomIntelligence"
-    },
-    {
       "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
       "url": "https://github.com/aiming-lab/MetaClaw",
       "published_at": "2026-03-09T13:47:13Z",
@@ -1272,29 +1272,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1143,
       "user": "aiming-lab"
     },
     {
-      "title": "jackwener/xiaohongshu-cli - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "url": "https://github.com/jackwener/xiaohongshu-cli",
-      "published_at": "2026-03-08T05:34:05Z",
-      "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
-      "source": "GitHub",
-      "stars": 1071,
-      "user": "jackwener"
-    },
-    {
-      "title": "knowsuchagency/mcp2cli - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
+      "title": "knowsuchagency/mcp2cli - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "published_at": "2026-03-09T03:46:37Z",
-      "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
+      "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
       "tags": [
         "python",
         "github",
@@ -1302,8 +1287,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 960,
       "user": "knowsuchagency"
+    },
+    {
+      "title": "wanshuiyin/Auto-claude-code-research-in-sleep - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "published_at": "2026-03-10T07:31:45Z",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
+      "source": "GitHub",
+      "stars": 882,
+      "user": "wanshuiyin"
+    },
+    {
+      "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
+      "url": "https://github.com/skernelx/tavily-key-generator",
+      "published_at": "2026-03-14T04:12:22Z",
+      "description": "Auto batch register Tavily API Keys with pluggable email backends",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
+      "source": "GitHub",
+      "stars": 645,
+      "user": "skernelx"
+    },
+    {
+      "title": "RightNow-AI/autokernel - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "url": "https://github.com/RightNow-AI/autokernel",
+      "published_at": "2026-03-11T00:12:46Z",
+      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
+      "source": "GitHub",
+      "stars": 623,
+      "user": "RightNow-AI"
     }
   ],
   "DevOps": [
@@ -1455,6 +1485,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
+      "url": "https://github.com/skernelx/tavily-key-generator",
+      "published_at": "2026-03-14T04:12:22Z",
+      "description": "Auto batch register Tavily API Keys with pluggable email backends",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
+      "source": "GitHub",
+      "stars": 645,
+      "user": "skernelx"
     }
   ],
   "Mobile": [],
@@ -1574,21 +1619,6 @@
       "user": "Luke"
     },
     {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
-    },
-    {
       "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
       "url": "https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk",
       "published_at": "2026-03-09T23:47:06Z",
@@ -1616,6 +1646,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1807,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 962,
       "user": "pasky"
     },
     {
@@ -1841,21 +1886,6 @@
       "user": "KeyID-AI"
     },
     {
-      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
-      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
-      "published_at": "2026-03-10T19:51:35Z",
-      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
-      "source": "GitHub",
-      "stars": 234,
-      "user": "samanalalokaya"
-    },
-    {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
       "url": "https://github.com/calesthio/Crucix",
       "published_at": "2026-03-14T07:33:06Z",
@@ -1867,38 +1897,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 261,
       "user": "calesthio"
     },
     {
-      "title": "HKUDS/CLI-Anything - CLI-Anything: Making ALL Software Agent-Native",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "published_at": "2026-03-08T13:52:57Z",
-      "description": "CLI-Anything: Making ALL Software Agent-Native",
+      "title": "samanalalokaya/polymarket-copy-trading-bot - Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
+      "url": "https://github.com/samanalalokaya/polymarket-copy-trading-bot",
+      "published_at": "2026-03-10T19:51:35Z",
+      "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/77291372?v=4",
       "source": "GitHub",
-      "stars": 13684,
-      "user": "HKUDS"
-    },
-    {
-      "title": "FreedomIntelligence/OpenClaw-Medical-Skills - The largest open-source medical AI skills library for OpenClaw🦞.",
-      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-      "published_at": "2026-03-08T09:43:52Z",
-      "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127706844?v=4",
-      "source": "GitHub",
-      "stars": 1164,
-      "user": "FreedomIntelligence"
+      "stars": 237,
+      "user": "samanalalokaya"
     },
     {
       "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
@@ -1912,29 +1927,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1143,
       "user": "aiming-lab"
     },
     {
-      "title": "jackwener/xiaohongshu-cli - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "url": "https://github.com/jackwener/xiaohongshu-cli",
-      "published_at": "2026-03-08T05:34:05Z",
-      "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
-      "source": "GitHub",
-      "stars": 1071,
-      "user": "jackwener"
-    },
-    {
-      "title": "knowsuchagency/mcp2cli - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
+      "title": "knowsuchagency/mcp2cli - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "published_at": "2026-03-09T03:46:37Z",
-      "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
+      "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
       "tags": [
         "python",
         "github",
@@ -1942,8 +1942,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 960,
       "user": "knowsuchagency"
+    },
+    {
+      "title": "wanshuiyin/Auto-claude-code-research-in-sleep - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "published_at": "2026-03-10T07:31:45Z",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
+      "source": "GitHub",
+      "stars": 882,
+      "user": "wanshuiyin"
+    },
+    {
+      "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
+      "url": "https://github.com/skernelx/tavily-key-generator",
+      "published_at": "2026-03-14T04:12:22Z",
+      "description": "Auto batch register Tavily API Keys with pluggable email backends",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
+      "source": "GitHub",
+      "stars": 645,
+      "user": "skernelx"
+    },
+    {
+      "title": "RightNow-AI/autokernel - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "url": "https://github.com/RightNow-AI/autokernel",
+      "published_at": "2026-03-11T00:12:46Z",
+      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
+      "source": "GitHub",
+      "stars": 623,
+      "user": "RightNow-AI"
     },
     {
       "title": "epiral/agent-clip - AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
@@ -1957,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 289,
       "user": "epiral"
     },
     {
@@ -1976,21 +2021,6 @@
       "user": "verssache"
     },
     {
-      "title": "dougdonohoe/ddphotos - A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.",
-      "url": "https://github.com/dougdonohoe/ddphotos",
-      "published_at": "2026-03-08T17:34:23Z",
-      "description": "A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1576240?v=4",
-      "source": "GitHub",
-      "stars": 101,
-      "user": "dougdonohoe"
-    },
-    {
       "title": "ygivenx/agenthub - GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
       "url": "https://github.com/ygivenx/agenthub",
       "published_at": "2026-03-09T19:35:44Z",
@@ -2002,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "ygivenx"
     },
     {
@@ -2019,6 +2049,21 @@
       "source": "GitHub",
       "stars": 66,
       "user": "nekohy"
+    },
+    {
+      "title": "ottogin/agenthub - Fork of Karpathy's agenthub",
+      "url": "https://github.com/ottogin/agenthub",
+      "published_at": "2026-03-11T17:23:54Z",
+      "description": "Fork of Karpathy's agenthub",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7385619?v=4",
+      "source": "GitHub",
+      "stars": 64,
+      "user": "ottogin"
     }
   ]
 }
