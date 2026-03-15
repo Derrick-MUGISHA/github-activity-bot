@@ -216,7 +216,7 @@ npm run test
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
 - [The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?](https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1) _[Dev.to]_
 
-_Last automated update: Mon, 16 Mar 2026 00:24:22 CAT_
+_Last automated update: Mon, 16 Mar 2026 00:53:52 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Mon, 16 Mar 2026 00:24:22 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
-
-**Difficulty**: Hard | **Topics**: design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Users, posts, relationships, indexes, partitioning
-
-</details>
-
-### 2. NodeJS: Implement rate limiting for an API
+### 1. NodeJS: Implement rate limiting for an API
 
 **Difficulty**: Hard | **Topics**: security, middleware
 
@@ -246,14 +235,25 @@ Token bucket, sliding window, Redis
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+yield keyword, lazy evaluation, memory efficiency
+
+</details>
+
+### 3. NodeJS: How do you handle errors in async/await?
+
+**Difficulty**: Medium | **Topics**: error handling, async
+
+<details>
+<summary>💡 Hint</summary>
+
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Mar 2026 22:24:22 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Mar 2026 22:53:52 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
