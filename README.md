@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-15 8:00 CAT)
+## 📅 Latest Updates (2026-03-15 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
 - [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 
-_Last automated update: Sun, 15 Mar 2026 08:52:10 CAT_
+_Last automated update: Sun, 15 Mar 2026 09:42:27 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Mar 2026 08:52:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Mar 2026 06:52:10 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Mar 2026 07:42:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
