@@ -1,6 +1,34 @@
 {
   "AI": [
     {
+      "title": "Fortran meets AI",
+      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
+      "published_at": "2026-03-15T17:32:51Z",
+      "description": "A computer science exam from 1978 and 2026 AI models ",
+      "tags": [
+        "fortran",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
+      "source": "Dev.to",
+      "user": " ViksaaSkool "
+    },
+    {
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
+      "tags": [
+        "ai",
+        "javascript",
+        "tooling",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
+      "source": "Dev.to",
+      "user": "Rowan Merewood"
+    },
+    {
       "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
       "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
       "published_at": "2026-03-12T02:26:38Z",
@@ -44,6 +72,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "mcp-pvp — Privacy Vault Protocol for MCP",
+      "url": "https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80",
+      "published_at": "2026-03-14T23:54:23Z",
+      "description": "Inspiration   We were building an AI agent that handled customer support emails. The agent...",
+      "tags": [
+        "ai",
+        "security",
+        "privacy",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
+      "source": "Dev.to",
+      "user": "Mitiku Yohannes"
     },
     {
       "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
@@ -625,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1477,
       "user": "pasky"
     },
     {
@@ -640,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 443,
       "user": "KeyID-AI"
     },
     {
@@ -670,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1306,
       "user": "aiming-lab"
     },
     {
@@ -685,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 890,
       "user": "skernelx"
     },
     {
@@ -745,11 +788,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6171622?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "naorpeled"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
+      "tags": [
+        "ai",
+        "javascript",
+        "tooling",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
+      "source": "Dev.to",
+      "user": "Rowan Merewood"
+    },
+    {
+      "title": "Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to",
+      "url": "https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj",
+      "published_at": "2026-03-15T21:50:34Z",
+      "description": "Learn how I built a high-performance personal site that automatically syncs articles from DEV.to using Gatsby, providing a 'write once, publish everywhere' workflow.",
+      "tags": [
+        "gatsby",
+        "devto",
+        "jamstack",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517694712202-14dd9538aa97%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1000%26q%3D80",
+      "source": "Dev.to",
+      "user": "Thiago Colen"
+    },
     {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
       "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
@@ -1016,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1477,
       "user": "pasky"
     },
     {
@@ -1031,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 534,
       "user": "calesthio"
     },
     {
@@ -1046,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 443,
       "user": "KeyID-AI"
     },
     {
@@ -1257,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1306,
       "user": "aiming-lab"
     },
     {
@@ -1272,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1269,
+      "stars": 1272,
       "user": "wanshuiyin"
     },
     {
@@ -1287,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1121,
       "user": "knowsuchagency"
     },
     {
@@ -1302,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 890,
       "user": "skernelx"
     },
     {
@@ -1453,7 +1526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 890,
       "user": "skernelx"
     }
   ],
@@ -1505,6 +1578,21 @@
   ],
   "Database": [
     {
+      "title": "Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL",
+      "url": "https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i",
+      "published_at": "2026-03-15T05:48:21Z",
+      "description": "Why I now recommend PostgreSQL for new applications, even though I still like MySQL and have used it for a long time.",
+      "tags": [
+        "mysql",
+        "postgres",
+        "database",
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszl1776ybfjch84s9eaf.png",
+      "source": "Dev.to",
+      "user": "catatsuy"
+    },
+    {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
       "published_at": "2026-03-07T09:30:17Z",
@@ -1548,6 +1636,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "mcp-pvp — Privacy Vault Protocol for MCP",
+      "url": "https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80",
+      "published_at": "2026-03-14T23:54:23Z",
+      "description": "Inspiration   We were building an AI agent that handled customer support emails. The agent...",
+      "tags": [
+        "ai",
+        "security",
+        "privacy",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
+      "source": "Dev.to",
+      "user": "Mitiku Yohannes"
+    },
     {
       "title": "AI did a good job... and almost deleted everything",
       "url": "https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g",
@@ -1601,6 +1704,36 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
+      "tags": [
+        "ai",
+        "javascript",
+        "tooling",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
+      "source": "Dev.to",
+      "user": "Rowan Merewood"
+    },
+    {
+      "title": "Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to",
+      "url": "https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj",
+      "published_at": "2026-03-15T21:50:34Z",
+      "description": "Learn how I built a high-performance personal site that automatically syncs articles from DEV.to using Gatsby, providing a 'write once, publish everywhere' workflow.",
+      "tags": [
+        "gatsby",
+        "devto",
+        "jamstack",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517694712202-14dd9538aa97%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1000%26q%3D80",
+      "source": "Dev.to",
+      "user": "Thiago Colen"
+    },
     {
       "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
       "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
@@ -1792,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1477,
       "user": "pasky"
     },
     {
@@ -1807,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 534,
       "user": "calesthio"
     },
     {
@@ -1822,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 443,
       "user": "KeyID-AI"
     },
     {
@@ -1867,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1306,
       "user": "aiming-lab"
     },
     {
@@ -1882,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1269,
+      "stars": 1272,
       "user": "wanshuiyin"
     },
     {
@@ -1897,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1121,
       "user": "knowsuchagency"
     },
     {
@@ -1912,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 890,
       "user": "skernelx"
     },
     {
@@ -1987,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6171622?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "naorpeled"
     },
     {
