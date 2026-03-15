@@ -289,21 +289,6 @@
       "user": "GrahamTheDev"
     },
     {
-      "title": "Why Asking an LLM for JSON Isn’t Enough",
-      "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
-      "published_at": "2026-03-11T05:30:00Z",
-      "description": "When I first learned prompting, I assumed something simple.  If I needed structured data from an LLM,...",
-      "tags": [
-        "webdev",
-        "ai",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvd5n9si4cexnmcaw1hqw.png",
-      "source": "Dev.to",
-      "user": "Vaishali"
-    },
-    {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
       "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
       "published_at": "2026-03-07T17:10:00Z",
@@ -497,6 +482,21 @@
       "user": "Saif "
     },
     {
+      "title": "Image Augmentation in Practice — Lessons from 10 Years of Training CV Models and Building Albumentations",
+      "url": "https://dev.to/viglovikov/image-augmentation-in-practice-lessons-from-10-years-of-training-cv-models-and-building-3418",
+      "published_at": "2026-03-10T23:13:04Z",
+      "description": "TL;DR  Image augmentation is usually explained as “flip, rotate, color jitter”.  In practice it...",
+      "tags": [
+        "machinelearning",
+        "computervision",
+        "deeplearning",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ze6xe8i9z5n81ux8i60.png",
+      "source": "Dev.to",
+      "user": "Vladimir Iglovikov"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1089,
       "user": "pasky"
     },
     {
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "KeyID-AI"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1176,
       "user": "aiming-lab"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 736,
       "user": "skernelx"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 626,
       "user": "RightNow-AI"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "epiral"
     },
     {
@@ -809,21 +809,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
       "source": "Dev.to",
       "user": "Christian Segovia"
-    },
-    {
-      "title": "Why Asking an LLM for JSON Isn’t Enough",
-      "url": "https://dev.to/dev-in-progress/why-asking-an-llm-for-json-isnt-enough-1n8a",
-      "published_at": "2026-03-11T05:30:00Z",
-      "description": "When I first learned prompting, I assumed something simple.  If I needed structured data from an LLM,...",
-      "tags": [
-        "webdev",
-        "ai",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvd5n9si4cexnmcaw1hqw.png",
-      "source": "Dev.to",
-      "user": "Vaishali"
     },
     {
       "title": "i built a social platform where everything vanishes after 24 hours",
@@ -1030,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1089,
       "user": "pasky"
     },
     {
@@ -1060,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "KeyID-AI"
     },
     {
@@ -1075,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 336,
       "user": "calesthio"
     },
     {
@@ -1090,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36821509?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "vxcozy"
     }
   ],
@@ -1271,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1176,
       "user": "aiming-lab"
     },
     {
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 1004,
       "user": "wanshuiyin"
     },
     {
@@ -1301,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 988,
       "user": "knowsuchagency"
     },
     {
@@ -1316,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 736,
       "user": "skernelx"
     },
     {
@@ -1331,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 626,
       "user": "RightNow-AI"
     }
   ],
@@ -1482,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 736,
       "user": "skernelx"
     }
   ],
@@ -1820,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1089,
       "user": "pasky"
     },
     {
@@ -1850,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "KeyID-AI"
     },
     {
@@ -1865,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 336,
       "user": "calesthio"
     },
     {
@@ -1880,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36821509?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "vxcozy"
     },
     {
@@ -1895,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1176,
       "user": "aiming-lab"
     },
     {
@@ -1910,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 1004,
       "user": "wanshuiyin"
     },
     {
@@ -1925,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 988,
       "user": "knowsuchagency"
     },
     {
@@ -1940,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 736,
       "user": "skernelx"
     },
     {
@@ -1955,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 626,
       "user": "RightNow-AI"
     },
     {
@@ -1970,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "epiral"
     },
     {
