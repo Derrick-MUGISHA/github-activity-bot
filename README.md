@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-15-orange)
 
@@ -28,29 +28,29 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (50.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.5%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.6%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦 8 (7.8%)
+**WebDev**: 🟦🟦🟦 8 (7.6%)
 
-**Security**: 🟦🟦 5 (4.9%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **Cloud**: 🟦 3 (2.9%)
 
 **Database**: 🟦 3 (2.9%)
 
-**DevOps**: 🟦 2 (2.0%)
+**DevOps**: 🟦 2 (1.9%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 57 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -63,9 +63,9 @@ Java            █████████████████████�
 Go              ██████████████████████████ 23.9 (23.9%)
 Python          ███████████████████████ 20.5 (20.5%)
 PHP             █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
 Rust            █ 1.1 (1.1%)
+CSharp          █ 1.1 (1.1%)
 
 ```
 
@@ -76,16 +76,16 @@ pie title Programming Languages Distribution
     "Go" : 21
     "Python" : 18
     "PHP" : 1
-    "CSharp" : 1
     "Ruby" : 1
     "Rust" : 1
+    "CSharp" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![career](https://img.shields.io/badge/career-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![wecoded](https://img.shields.io/badge/wecoded-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![career](https://img.shields.io/badge/career-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![go](https://img.shields.io/badge/go-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-15 18:00 CAT)
+## 📅 Latest Updates (2026-03-15 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -213,10 +213,10 @@ npm run test
 - [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44) _[Dev.to]_
 - [We built a video recording API at $0.01/min. Here's the tech that made it possible.](https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872) _[Dev.to]_
 - [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl) _[Dev.to]_
-- [MCP Server with .Net](https://dev.to/antdimot/mcp-server-with-net-5cih) _[Dev.to]_
+- [The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?](https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1) _[Dev.to]_
 - [Clojure Inheritance… Sort Of](https://dev.to/quoll/clojure-inheritance-sort-of-2i6i) _[Dev.to]_
 
-_Last automated update: Sun, 15 Mar 2026 18:57:35 CAT_
+_Last automated update: Sun, 15 Mar 2026 19:31:20 CAT_
 
 
 
@@ -224,25 +224,25 @@ _Last automated update: Sun, 15 Mar 2026 18:57:35 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Execution timing, event loop phases
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Mar 2026 16:57:35 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Mar 2026 17:31:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
