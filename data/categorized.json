@@ -61,34 +61,6 @@
       "user": "Spencer Marx"
     },
     {
-      "title": "I'm frozen and I cannot move",
-      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
-      "published_at": "2026-03-13T15:44:02Z",
-      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
-      "source": "Dev.to",
-      "user": "Jan Küster 🔥"
-    },
-    {
-      "title": "Параллелизм в ruby 1: создаем потоки",
-      "url": "https://dev.to/kopylov_vlad/parallielizm-v-ruby-1-sozdaiem-potoki-2i83",
-      "published_at": "2026-03-13T19:41:58Z",
-      "description": "я бы хотел бы поставить точки над i в тему тредов и ракторов, как минимум сам для себя; посмотреть какие задачи на параллелизм решаются в других языках, что можно оттуда подчеркнуть и перенести в Ruby",
-      "tags": [
-        "ruby",
-        "rails",
-        "thread"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhna0rvxcn7y5quc1xic.jpeg",
-      "source": "Dev.to",
-      "user": "Vladislav Kopylov"
-    },
-    {
       "title": "The Local AI Powerhouse",
       "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
       "published_at": "2026-03-13T18:25:54Z",
@@ -102,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
       "source": "Dev.to",
       "user": "Amjad Abujamous"
-    },
-    {
-      "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
-      "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
-      "published_at": "2026-03-11T19:19:14Z",
-      "description": "My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...",
-      "tags": [
-        "agents",
-        "mcp",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
-      "source": "Dev.to",
-      "user": "Kim Maida"
     },
     {
       "title": "Ship Less, Measure More",
@@ -217,6 +174,20 @@
       "user": "Antonio Di Motta"
     },
     {
+      "title": "I'm frozen and I cannot move",
+      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
+      "published_at": "2026-03-13T15:44:02Z",
+      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
+      "source": "Dev.to",
+      "user": "Jan Küster 🔥"
+    },
+    {
       "title": "Clojure Inheritance… Sort Of",
       "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
       "published_at": "2026-03-12T05:49:43Z",
@@ -242,6 +213,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
       "source": "Dev.to",
       "user": "Sagiv ben giat"
+    },
+    {
+      "title": "Параллелизм в ruby 1: создаем потоки",
+      "url": "https://dev.to/kopylov_vlad/parallielizm-v-ruby-1-sozdaiem-potoki-2i83",
+      "published_at": "2026-03-13T19:41:58Z",
+      "description": "я бы хотел бы поставить точки над i в тему тредов и ракторов, как минимум сам для себя; посмотреть какие задачи на параллелизм решаются в других языках, что можно оттуда подчеркнуть и перенести в Ruby",
+      "tags": [
+        "ruby",
+        "rails",
+        "thread"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhna0rvxcn7y5quc1xic.jpeg",
+      "source": "Dev.to",
+      "user": "Vladislav Kopylov"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -610,7 +595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1249,
       "user": "pasky"
     },
     {
@@ -625,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "KeyID-AI"
     },
     {
@@ -655,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1215,
       "user": "aiming-lab"
     },
     {
@@ -670,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 821,
       "user": "skernelx"
     },
     {
@@ -685,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 633,
       "user": "RightNow-AI"
     },
     {
@@ -700,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "epiral"
     },
     {
@@ -985,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1249,
       "user": "pasky"
     },
     {
@@ -1000,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 453,
       "user": "calesthio"
     },
     {
@@ -1015,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "KeyID-AI"
     },
     {
@@ -1226,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1215,
       "user": "aiming-lab"
     },
     {
@@ -1241,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1185,
       "user": "wanshuiyin"
     },
     {
@@ -1256,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1046,
       "user": "knowsuchagency"
     },
     {
@@ -1271,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 821,
       "user": "skernelx"
     },
     {
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 633,
       "user": "RightNow-AI"
     }
   ],
@@ -1437,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 821,
       "user": "skernelx"
     }
   ],
@@ -1601,35 +1586,6 @@
   ],
   "Tools": [
     {
-      "title": "I'm frozen and I cannot move",
-      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
-      "published_at": "2026-03-13T15:44:02Z",
-      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
-      "source": "Dev.to",
-      "user": "Jan Küster 🔥"
-    },
-    {
-      "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
-      "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
-      "published_at": "2026-03-11T19:19:14Z",
-      "description": "My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...",
-      "tags": [
-        "agents",
-        "mcp",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
-      "source": "Dev.to",
-      "user": "Kim Maida"
-    },
-    {
       "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
       "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
       "published_at": "2026-03-13T08:20:00Z",
@@ -1673,6 +1629,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
       "source": "Dev.to",
       "user": "Sagiv ben giat"
+    },
+    {
+      "title": "I'm frozen and I cannot move",
+      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
+      "published_at": "2026-03-13T15:44:02Z",
+      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
+      "source": "Dev.to",
+      "user": "Jan Küster 🔥"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -1775,7 +1745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1249,
       "user": "pasky"
     },
     {
@@ -1790,7 +1760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 453,
       "user": "calesthio"
     },
     {
@@ -1805,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "KeyID-AI"
     },
     {
@@ -1850,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1215,
       "user": "aiming-lab"
     },
     {
@@ -1865,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1185,
       "user": "wanshuiyin"
     },
     {
@@ -1880,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1046,
       "user": "knowsuchagency"
     },
     {
@@ -1895,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 821,
       "user": "skernelx"
     },
     {
@@ -1910,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 633,
       "user": "RightNow-AI"
     },
     {
@@ -1925,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "epiral"
     },
     {
