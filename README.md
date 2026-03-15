@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-15 13:00 CAT)
+## 📅 Latest Updates (2026-03-15 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 - [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44) _[Dev.to]_
 
-_Last automated update: Sun, 15 Mar 2026 13:48:12 CAT_
+_Last automated update: Sun, 15 Mar 2026 14:44:15 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Mar 2026 13:48:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Mar 2026 11:48:12 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Mar 2026 12:44:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
