@@ -244,21 +244,6 @@
       "user": "Paula Gearon"
     },
     {
-      "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
-      "url": "https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l",
-      "published_at": "2026-03-12T02:44:01Z",
-      "description": "As engineers, when we talk about the \"cost\" of using AI, we tend to focus on billing costs — the cost...",
-      "tags": [
-        "ai",
-        "uxdesign",
-        "uidesign",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgwfrjufgjkynfqhxm2tj.png",
-      "source": "Dev.to",
-      "user": "Yao-Hui Chua"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -625,8 +610,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1184,
+      "stars": 1196,
       "user": "pasky"
+    },
+    {
+      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+      "url": "https://github.com/KeyID-AI/agent-kit",
+      "published_at": "2026-03-13T01:55:26Z",
+      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
+      "source": "GitHub",
+      "stars": 416,
+      "user": "KeyID-AI"
     },
     {
       "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
@@ -644,21 +644,6 @@
       "user": "vasilytrofimchuk"
     },
     {
-      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "url": "https://github.com/KeyID-AI/agent-kit",
-      "published_at": "2026-03-13T01:55:26Z",
-      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
-      "source": "GitHub",
-      "stars": 415,
-      "user": "KeyID-AI"
-    },
-    {
       "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
       "url": "https://github.com/aiming-lab/MetaClaw",
       "published_at": "2026-03-09T13:47:13Z",
@@ -670,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1194,
       "user": "aiming-lab"
     },
     {
@@ -685,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 790,
       "user": "skernelx"
     },
     {
@@ -1000,8 +985,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1184,
+      "stars": 1196,
       "user": "pasky"
+    },
+    {
+      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+      "url": "https://github.com/KeyID-AI/agent-kit",
+      "published_at": "2026-03-13T01:55:26Z",
+      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
+      "source": "GitHub",
+      "stars": 416,
+      "user": "KeyID-AI"
     },
     {
       "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
@@ -1019,21 +1019,6 @@
       "user": "vasilytrofimchuk"
     },
     {
-      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "url": "https://github.com/KeyID-AI/agent-kit",
-      "published_at": "2026-03-13T01:55:26Z",
-      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
-      "source": "GitHub",
-      "stars": 415,
-      "user": "KeyID-AI"
-    },
-    {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
       "url": "https://github.com/calesthio/Crucix",
       "published_at": "2026-03-14T07:33:06Z",
@@ -1045,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 415,
       "user": "calesthio"
     },
     {
@@ -1241,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1194,
       "user": "aiming-lab"
     },
     {
@@ -1256,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1109,
+      "stars": 1116,
       "user": "wanshuiyin"
     },
     {
@@ -1271,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1018,
       "user": "knowsuchagency"
     },
     {
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 790,
       "user": "skernelx"
     },
     {
@@ -1452,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 790,
       "user": "skernelx"
     }
   ],
@@ -1790,8 +1775,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1184,
+      "stars": 1196,
       "user": "pasky"
+    },
+    {
+      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+      "url": "https://github.com/KeyID-AI/agent-kit",
+      "published_at": "2026-03-13T01:55:26Z",
+      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
+      "source": "GitHub",
+      "stars": 416,
+      "user": "KeyID-AI"
     },
     {
       "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
@@ -1809,21 +1809,6 @@
       "user": "vasilytrofimchuk"
     },
     {
-      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "url": "https://github.com/KeyID-AI/agent-kit",
-      "published_at": "2026-03-13T01:55:26Z",
-      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
-      "source": "GitHub",
-      "stars": 415,
-      "user": "KeyID-AI"
-    },
-    {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
       "url": "https://github.com/calesthio/Crucix",
       "published_at": "2026-03-14T07:33:06Z",
@@ -1835,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 415,
       "user": "calesthio"
     },
     {
@@ -1865,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1194,
       "user": "aiming-lab"
     },
     {
@@ -1880,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1109,
+      "stars": 1116,
       "user": "wanshuiyin"
     },
     {
@@ -1895,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1018,
       "user": "knowsuchagency"
     },
     {
@@ -1910,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 790,
       "user": "skernelx"
     },
     {

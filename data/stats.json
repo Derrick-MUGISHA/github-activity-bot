@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 52,
+    "AI": 51,
     "JavaScript": 24,
     "Python": 18,
     "DevOps": 2,
@@ -30,7 +30,7 @@
   "by_date": {
     "2026-03-14": 3,
     "2026-03-13": 10,
-    "2026-03-12": 13,
+    "2026-03-12": 12,
     "2026-03-11": 13,
     "2026-03-06": 5,
     "2026-03-07": 3,
@@ -74,8 +74,8 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 25,
-    "webdev": 16,
+    "ai": 24,
+    "webdev": 15,
     "github": 15,
     "open-source": 15,
     "javascript": 10,
