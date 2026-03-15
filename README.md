@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-15 22:00 CAT)
+## 📅 Latest Updates (2026-03-15 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Clojure Inheritance… Sort Of](https://dev.to/quoll/clojure-inheritance-sort-of-2i6i) _[Dev.to]_
 - [The one question that made me turn down a job offer](https://dev.to/etienneburdet/the-one-question-that-made-me-turn-down-a-job-offer-5g1c) _[Dev.to]_
 
-_Last automated update: Sun, 15 Mar 2026 22:52:54 CAT_
+_Last automated update: Sun, 15 Mar 2026 23:25:27 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Sun, 15 Mar 2026 22:52:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
-
-**Difficulty**: Medium | **Topics**: linked lists, pointers
-
-<details>
-<summary>💡 Hint</summary>
-
-Iterative or recursive, three pointers
-
-</details>
-
-### 2. Java: What are Java Streams and how do they work?
+### 1. Java: What are Java Streams and how do they work?
 
 **Difficulty**: Medium | **Topics**: functional programming, collections
 
@@ -246,14 +235,25 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Binary search, partition, time complexity O(log(min(m,n)))
+
+</details>
+
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+
+**Difficulty**: Easy | **Topics**: variables, scope
+
+<details>
+<summary>💡 Hint</summary>
+
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Mar 2026 20:52:54 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Mar 2026 21:25:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
