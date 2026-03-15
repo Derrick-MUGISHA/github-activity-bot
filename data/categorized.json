@@ -174,20 +174,6 @@
       "user": "Antonio Di Motta"
     },
     {
-      "title": "I'm frozen and I cannot move",
-      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
-      "published_at": "2026-03-13T15:44:02Z",
-      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
-      "source": "Dev.to",
-      "user": "Jan Küster 🔥"
-    },
-    {
       "title": "Clojure Inheritance… Sort Of",
       "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
       "published_at": "2026-03-12T05:49:43Z",
@@ -257,6 +243,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
       "source": "Dev.to",
       "user": "GrahamTheDev"
+    },
+    {
+      "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
+      "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
+      "published_at": "2026-03-11T19:19:14Z",
+      "description": "My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...",
+      "tags": [
+        "agents",
+        "mcp",
+        "productivity",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
+      "source": "Dev.to",
+      "user": "Kim Maida"
     },
     {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
@@ -595,7 +596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1313,
       "user": "pasky"
     },
     {
@@ -610,7 +611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 428,
       "user": "KeyID-AI"
     },
     {
@@ -640,7 +641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1247,
       "user": "aiming-lab"
     },
     {
@@ -655,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 865,
       "user": "skernelx"
     },
     {
@@ -670,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "RightNow-AI"
     },
     {
@@ -985,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1313,
       "user": "pasky"
     },
     {
@@ -1000,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 483,
       "user": "calesthio"
     },
     {
@@ -1015,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 428,
       "user": "KeyID-AI"
     },
     {
@@ -1226,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1247,
       "user": "aiming-lab"
     },
     {
@@ -1241,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1241,
       "user": "wanshuiyin"
     },
     {
@@ -1256,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1075,
       "user": "knowsuchagency"
     },
     {
@@ -1271,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 865,
       "user": "skernelx"
     },
     {
@@ -1286,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "RightNow-AI"
     }
   ],
@@ -1437,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 865,
       "user": "skernelx"
     }
   ],
@@ -1646,20 +1647,6 @@
       "user": "Sagiv ben giat"
     },
     {
-      "title": "I'm frozen and I cannot move",
-      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
-      "published_at": "2026-03-13T15:44:02Z",
-      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
-      "source": "Dev.to",
-      "user": "Jan Küster 🔥"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -1673,6 +1660,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
+      "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
+      "published_at": "2026-03-11T19:19:14Z",
+      "description": "My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...",
+      "tags": [
+        "agents",
+        "mcp",
+        "productivity",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
+      "source": "Dev.to",
+      "user": "Kim Maida"
     },
     {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
@@ -1760,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1313,
       "user": "pasky"
     },
     {
@@ -1775,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 483,
       "user": "calesthio"
     },
     {
@@ -1790,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 428,
       "user": "KeyID-AI"
     },
     {
@@ -1835,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1247,
       "user": "aiming-lab"
     },
     {
@@ -1850,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1241,
       "user": "wanshuiyin"
     },
     {
@@ -1865,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1075,
       "user": "knowsuchagency"
     },
     {
@@ -1880,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 865,
       "user": "skernelx"
     },
     {
@@ -1895,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "RightNow-AI"
     },
     {
@@ -1940,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "ygivenx"
     },
     {
@@ -1970,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7385619?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "ottogin"
     }
   ]
