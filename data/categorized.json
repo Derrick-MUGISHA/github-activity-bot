@@ -160,32 +160,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "MCP Server with .Net",
-      "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
-      "published_at": "2026-03-12T22:52:52Z",
-      "description": "Building a MCP Server with C#",
-      "tags": [
-        "dotnet",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
-      "source": "Dev.to",
-      "user": "Antonio Di Motta"
-    },
-    {
-      "title": "Clojure Inheritance… Sort Of",
-      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
-      "published_at": "2026-03-12T05:49:43Z",
-      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
-      "tags": [
-        "clojure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
-      "source": "Dev.to",
-      "user": "Paula Gearon"
-    },
-    {
       "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
       "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
       "published_at": "2026-03-12T22:48:44Z",
@@ -199,6 +173,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
       "source": "Dev.to",
       "user": "Sagiv ben giat"
+    },
+    {
+      "title": "Clojure Inheritance… Sort Of",
+      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
+      "published_at": "2026-03-12T05:49:43Z",
+      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
+      "tags": [
+        "clojure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
+      "source": "Dev.to",
+      "user": "Paula Gearon"
     },
     {
       "title": "Параллелизм в ruby 1: создаем потоки",
@@ -379,6 +365,20 @@
       "user": "Gabriele Mastrapasqua"
     },
     {
+      "title": "MCP Server with .Net",
+      "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
+      "published_at": "2026-03-12T22:52:52Z",
+      "description": "Building a MCP Server with C#",
+      "tags": [
+        "dotnet",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
+      "source": "Dev.to",
+      "user": "Antonio Di Motta"
+    },
+    {
       "title": "experience report: coding a framework with AI",
       "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
       "published_at": "2026-03-12T08:48:19Z",
@@ -406,6 +406,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "I'm frozen and I cannot move",
+      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
+      "published_at": "2026-03-13T15:44:02Z",
+      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
+      "source": "Dev.to",
+      "user": "Jan Küster 🔥"
     },
     {
       "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
@@ -451,6 +465,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
       "source": "Dev.to",
       "user": "Saif "
+    },
+    {
+      "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
+      "url": "https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l",
+      "published_at": "2026-03-12T02:44:01Z",
+      "description": "As engineers, when we talk about the \"cost\" of using AI, we tend to focus on billing costs — the cost...",
+      "tags": [
+        "ai",
+        "uxdesign",
+        "uidesign",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgwfrjufgjkynfqhxm2tj.png",
+      "source": "Dev.to",
+      "user": "Yao-Hui Chua"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -596,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1321,
       "user": "pasky"
     },
     {
@@ -611,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "KeyID-AI"
     },
     {
@@ -626,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "vasilytrofimchuk"
     },
     {
@@ -641,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1253,
       "user": "aiming-lab"
     },
     {
@@ -656,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 873,
       "user": "skernelx"
     },
     {
@@ -686,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 305,
       "user": "epiral"
     },
     {
@@ -986,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1321,
       "user": "pasky"
     },
     {
@@ -1001,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 489,
       "user": "calesthio"
     },
     {
@@ -1016,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "KeyID-AI"
     },
     {
@@ -1031,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1046,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36821509?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "vxcozy"
     }
   ],
@@ -1227,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1253,
       "user": "aiming-lab"
     },
     {
@@ -1242,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1248,
       "user": "wanshuiyin"
     },
     {
@@ -1257,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1079,
       "user": "knowsuchagency"
     },
     {
@@ -1272,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 873,
       "user": "skernelx"
     },
     {
@@ -1438,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 873,
       "user": "skernelx"
     }
   ],
@@ -1722,6 +1751,20 @@
       "user": "Yohei Seki"
     },
     {
+      "title": "I'm frozen and I cannot move",
+      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
+      "published_at": "2026-03-13T15:44:02Z",
+      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
+      "source": "Dev.to",
+      "user": "Jan Küster 🔥"
+    },
+    {
       "title": "Get started with GitHub Copilot SDK",
       "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
       "published_at": "2026-03-04T20:48:00Z",
@@ -1762,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1321,
       "user": "pasky"
     },
     {
@@ -1777,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 489,
       "user": "calesthio"
     },
     {
@@ -1792,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "KeyID-AI"
     },
     {
@@ -1807,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1822,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36821509?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "vxcozy"
     },
     {
@@ -1837,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1253,
       "user": "aiming-lab"
     },
     {
@@ -1852,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1248,
       "user": "wanshuiyin"
     },
     {
@@ -1867,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1079,
       "user": "knowsuchagency"
     },
     {
@@ -1882,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 873,
       "user": "skernelx"
     },
     {
@@ -1912,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 305,
       "user": "epiral"
     },
     {
@@ -1942,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "ygivenx"
     },
     {
