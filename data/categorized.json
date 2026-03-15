@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
-      "tags": [
-        "ai",
-        "career",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
       "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
       "published_at": "2026-03-12T02:26:38Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
     },
     {
       "title": "Your AI code reviewer has no one to disagree with",
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1380,
       "user": "pasky"
     },
     {
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 438,
       "user": "KeyID-AI"
     },
     {
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "vasilytrofimchuk"
     },
     {
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1281,
       "user": "aiming-lab"
     },
     {
@@ -745,26 +745,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6171622?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "naorpeled"
     }
   ],
   "JavaScript": [
-    {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
-      "tags": [
-        "ai",
-        "career",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
     {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
       "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
@@ -779,6 +764,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
     },
     {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
@@ -1015,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1380,
       "user": "pasky"
     },
     {
@@ -1030,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 510,
       "user": "calesthio"
     },
     {
@@ -1045,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 438,
       "user": "KeyID-AI"
     },
     {
@@ -1060,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1281,
       "user": "aiming-lab"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1262,
       "user": "wanshuiyin"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1103,
       "user": "knowsuchagency"
     },
     {
@@ -1805,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1380,
       "user": "pasky"
     },
     {
@@ -1820,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 510,
       "user": "calesthio"
     },
     {
@@ -1835,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 438,
       "user": "KeyID-AI"
     },
     {
@@ -1850,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1880,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1281,
       "user": "aiming-lab"
     },
     {
@@ -1895,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1262,
       "user": "wanshuiyin"
     },
     {
@@ -1910,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1103,
       "user": "knowsuchagency"
     },
     {
@@ -1985,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "ygivenx"
     },
     {
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6171622?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "naorpeled"
     },
     {
@@ -2015,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7385619?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "ottogin"
     }
   ]
