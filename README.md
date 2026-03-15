@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-15 16:00 CAT)
+## 📅 Latest Updates (2026-03-15 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [MCP Server with .Net](https://dev.to/antdimot/mcp-server-with-net-5cih) _[Dev.to]_
 - [I'm frozen and I cannot move](https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g) _[Dev.to]_
 
-_Last automated update: Sun, 15 Mar 2026 16:54:30 CAT_
+_Last automated update: Sun, 15 Mar 2026 17:25:53 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 15 Mar 2026 16:54:30 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Execution timing, event loop phases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Mar 2026 14:54:30 GMT</b><br/>
+  <b>Last automated update: Sun, 15 Mar 2026 15:25:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
