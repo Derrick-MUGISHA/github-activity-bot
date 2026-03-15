@@ -75,21 +75,6 @@
       "user": "Jan Küster 🔥"
     },
     {
-      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
-      "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
-      "published_at": "2026-03-12T22:48:44Z",
-      "description": "Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.",
-      "tags": [
-        "ai",
-        "knowledgesharing",
-        "stackoverflow",
-        "opinion"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
-      "source": "Dev.to",
-      "user": "Sagiv ben giat"
-    },
-    {
       "title": "Параллелизм в ruby 1: создаем потоки",
       "url": "https://dev.to/kopylov_vlad/parallielizm-v-ruby-1-sozdaiem-potoki-2i83",
       "published_at": "2026-03-13T19:41:58Z",
@@ -242,6 +227,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
       "source": "Dev.to",
       "user": "Paula Gearon"
+    },
+    {
+      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
+      "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
+      "published_at": "2026-03-12T22:48:44Z",
+      "description": "Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.",
+      "tags": [
+        "ai",
+        "knowledgesharing",
+        "stackoverflow",
+        "opinion"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -610,8 +610,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1196,
+      "stars": 1203,
       "user": "pasky"
+    },
+    {
+      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+      "published_at": "2026-03-11T19:22:52Z",
+      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
+      "source": "GitHub",
+      "stars": 417,
+      "user": "vasilytrofimchuk"
     },
     {
       "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
@@ -629,21 +644,6 @@
       "user": "KeyID-AI"
     },
     {
-      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
-      "published_at": "2026-03-11T19:22:52Z",
-      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
-      "source": "GitHub",
-      "stars": 416,
-      "user": "vasilytrofimchuk"
-    },
-    {
       "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
       "url": "https://github.com/aiming-lab/MetaClaw",
       "published_at": "2026-03-09T13:47:13Z",
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1195,
       "user": "aiming-lab"
     },
     {
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 792,
       "user": "skernelx"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 631,
       "user": "RightNow-AI"
     },
     {
@@ -985,8 +985,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1196,
+      "stars": 1203,
       "user": "pasky"
+    },
+    {
+      "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
+      "url": "https://github.com/calesthio/Crucix",
+      "published_at": "2026-03-14T07:33:06Z",
+      "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
+      "source": "GitHub",
+      "stars": 421,
+      "user": "calesthio"
+    },
+    {
+      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+      "published_at": "2026-03-11T19:22:52Z",
+      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
+      "source": "GitHub",
+      "stars": 417,
+      "user": "vasilytrofimchuk"
     },
     {
       "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
@@ -1004,36 +1034,6 @@
       "user": "KeyID-AI"
     },
     {
-      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
-      "published_at": "2026-03-11T19:22:52Z",
-      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
-      "source": "GitHub",
-      "stars": 416,
-      "user": "vasilytrofimchuk"
-    },
-    {
-      "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
-      "url": "https://github.com/calesthio/Crucix",
-      "published_at": "2026-03-14T07:33:06Z",
-      "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
-      "source": "GitHub",
-      "stars": 415,
-      "user": "calesthio"
-    },
-    {
       "title": "vxcozy/tome - Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
       "url": "https://github.com/vxcozy/tome",
       "published_at": "2026-03-10T18:38:26Z",
@@ -1045,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36821509?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "vxcozy"
     }
   ],
@@ -1226,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1195,
       "user": "aiming-lab"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1127,
       "user": "wanshuiyin"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1021,
       "user": "knowsuchagency"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 792,
       "user": "skernelx"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 631,
       "user": "RightNow-AI"
     }
   ],
@@ -1437,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 792,
       "user": "skernelx"
     }
   ],
@@ -1775,8 +1775,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1196,
+      "stars": 1203,
       "user": "pasky"
+    },
+    {
+      "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
+      "url": "https://github.com/calesthio/Crucix",
+      "published_at": "2026-03-14T07:33:06Z",
+      "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
+      "source": "GitHub",
+      "stars": 421,
+      "user": "calesthio"
+    },
+    {
+      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+      "published_at": "2026-03-11T19:22:52Z",
+      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
+      "source": "GitHub",
+      "stars": 417,
+      "user": "vasilytrofimchuk"
     },
     {
       "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
@@ -1794,36 +1824,6 @@
       "user": "KeyID-AI"
     },
     {
-      "title": "vasilytrofimchuk/domainsearcher-app - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
-      "published_at": "2026-03-11T19:22:52Z",
-      "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
-      "source": "GitHub",
-      "stars": 416,
-      "user": "vasilytrofimchuk"
-    },
-    {
-      "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
-      "url": "https://github.com/calesthio/Crucix",
-      "published_at": "2026-03-14T07:33:06Z",
-      "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
-      "source": "GitHub",
-      "stars": 415,
-      "user": "calesthio"
-    },
-    {
       "title": "vxcozy/tome - Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
       "url": "https://github.com/vxcozy/tome",
       "published_at": "2026-03-10T18:38:26Z",
@@ -1835,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36821509?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "vxcozy"
     },
     {
@@ -1850,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1195,
       "user": "aiming-lab"
     },
     {
@@ -1865,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1127,
       "user": "wanshuiyin"
     },
     {
@@ -1880,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1021,
       "user": "knowsuchagency"
     },
     {
@@ -1895,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 792,
       "user": "skernelx"
     },
     {
@@ -1910,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 631,
       "user": "RightNow-AI"
     },
     {
