@@ -46,6 +46,36 @@
       "user": "Harsh "
     },
     {
+      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
+      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
+      "published_at": "2026-03-14T22:50:01Z",
+      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "tags": [
+        "productivity",
+        "tooling",
+        "ruby",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "source": "Dev.to",
+      "user": "Mirzalazuardi"
+    },
+    {
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
+      "source": "Dev.to",
+      "user": "Alex"
+    },
+    {
       "title": "Your AI code reviewer has no one to disagree with",
       "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
       "published_at": "2026-03-11T14:48:03Z",
@@ -452,36 +482,6 @@
       "user": "Chris Noring"
     },
     {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
-    },
-    {
-      "title": "The Cognitive Costs of AI Chatbots and a Framework for Better Design",
-      "url": "https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l",
-      "published_at": "2026-03-12T02:44:01Z",
-      "description": "As engineers, when we talk about the \"cost\" of using AI, we tend to focus on billing costs — the cost...",
-      "tags": [
-        "ai",
-        "uxdesign",
-        "uidesign",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgwfrjufgjkynfqhxm2tj.png",
-      "source": "Dev.to",
-      "user": "Yao-Hui Chua"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1446,
       "user": "pasky"
     },
     {
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1295,
       "user": "aiming-lab"
     },
     {
@@ -781,6 +781,21 @@
       "user": "Harsh "
     },
     {
+      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
+      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
+      "published_at": "2026-03-14T22:50:01Z",
+      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "tags": [
+        "productivity",
+        "tooling",
+        "ruby",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "source": "Dev.to",
+      "user": "Mirzalazuardi"
+    },
+    {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
       "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
       "published_at": "2026-03-11T17:30:00Z",
@@ -868,20 +883,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
       "source": "Dev.to",
       "user": "Supriya"
-    },
-    {
-      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
-      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
-      "published_at": "2026-03-03T11:32:27Z",
-      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
-      "tags": [
-        "webdevwebdev",
-        "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
-      "source": "Dev.to",
-      "user": "Eastkap"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1015,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1446,
       "user": "pasky"
     },
     {
@@ -1030,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 526,
       "user": "calesthio"
     },
     {
@@ -1256,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1295,
       "user": "aiming-lab"
     },
     {
@@ -1271,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1266,
       "user": "wanshuiyin"
     },
     {
@@ -1286,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1113,
       "user": "knowsuchagency"
     },
     {
@@ -1427,21 +1428,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
       "source": "Dev.to",
       "user": "Supriya"
-    },
-    {
-      "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
-      "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
-      "published_at": "2026-02-22T15:16:30Z",
-      "description": "Introduction   For more than a decade, building modals on the web meant re-implementing...",
-      "tags": [
-        "webdev",
-        "frontend",
-        "a11y",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch7vqjii90e7m04icowr.png",
-      "source": "Dev.to",
-      "user": "Anja Beisel"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1602,21 +1588,6 @@
       "user": "Yohei Seki"
     },
     {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1630,6 +1601,36 @@
     }
   ],
   "Tools": [
+    {
+      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
+      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
+      "published_at": "2026-03-14T22:50:01Z",
+      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "tags": [
+        "productivity",
+        "tooling",
+        "ruby",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "source": "Dev.to",
+      "user": "Mirzalazuardi"
+    },
+    {
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
+      "source": "Dev.to",
+      "user": "Alex"
+    },
     {
       "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
       "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
@@ -1780,20 +1781,6 @@
       "user": "Chris Noring"
     },
     {
-      "title": "How I built a free PTO optimizer that turns 5 days off into 18 — and the algorithm behind it",
-      "url": "https://dev.to/eastkap/how-i-built-a-free-pto-optimizer-that-turns-5-days-off-into-18-and-the-algorithm-behind-it-9l9",
-      "published_at": "2026-03-03T11:32:27Z",
-      "description": "Most people treat PTO like a currency they spend one day at a time. What if you could treat it like a...",
-      "tags": [
-        "webdevwebdev",
-        "javascript",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjotk15yvk7wiauelg5my.png",
-      "source": "Dev.to",
-      "user": "Eastkap"
-    },
-    {
       "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "published_at": "2026-03-13T00:35:39Z",
@@ -1805,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1446,
       "user": "pasky"
     },
     {
@@ -1820,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 526,
       "user": "calesthio"
     },
     {
@@ -1880,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1295,
       "user": "aiming-lab"
     },
     {
@@ -1895,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1266,
       "user": "wanshuiyin"
     },
     {
@@ -1910,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1113,
       "user": "knowsuchagency"
     },
     {
@@ -1985,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 86,
       "user": "ygivenx"
     },
     {
