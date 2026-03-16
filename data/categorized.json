@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Built a Browser UI for Claude Code — Here's Why",
-      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
-      "published_at": "2026-03-16T08:15:44Z",
-      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
-      "tags": [
-        "claude",
-        "ai",
-        "opensource",
-        "devex"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
-      "source": "Dev.to",
-      "user": "Hamed Farag"
-    },
-    {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
       "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
       "published_at": "2026-03-16T13:30:29Z",
@@ -42,6 +27,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
       "source": "Dev.to",
       "user": "nghiahsgs"
+    },
+    {
+      "title": "I Built a Browser UI for Claude Code — Here's Why",
+      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
+      "published_at": "2026-03-16T08:15:44Z",
+      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
+      "tags": [
+        "claude",
+        "ai",
+        "opensource",
+        "devex"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
+      "source": "Dev.to",
+      "user": "Hamed Farag"
     },
     {
       "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
@@ -265,6 +265,18 @@
       "user": "ujja"
     },
     {
+      "title": "Clojure Inheritance… Sort Of",
+      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
+      "published_at": "2026-03-12T05:49:43Z",
+      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
+      "tags": [
+        "clojure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
+      "source": "Dev.to",
+      "user": "Paula Gearon"
+    },
+    {
       "title": "Параллелизм в ruby 1: создаем потоки",
       "url": "https://dev.to/kopylov_vlad/parallielizm-v-ruby-1-sozdaiem-potoki-2i83",
       "published_at": "2026-03-13T19:41:58Z",
@@ -307,21 +319,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
       "source": "Dev.to",
       "user": "GrahamTheDev"
-    },
-    {
-      "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
-      "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
-      "published_at": "2026-03-11T19:19:14Z",
-      "description": "My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...",
-      "tags": [
-        "agents",
-        "mcp",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
-      "source": "Dev.to",
-      "user": "Kim Maida"
     },
     {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
@@ -467,20 +464,6 @@
       "user": "Antonio Di Motta"
     },
     {
-      "title": "experience report: coding a framework with AI",
-      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
-      "published_at": "2026-03-12T08:48:19Z",
-      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
-      "tags": [
-        "ai",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
-      "source": "Dev.to",
-      "user": "Theodor Diaconu"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -624,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1818,
+      "stars": 1829,
       "user": "pasky"
     },
     {
@@ -669,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1092,
       "user": "aiming-lab"
     },
     {
@@ -855,20 +838,6 @@
       "user": "Slee Woo"
     },
     {
-      "title": "experience report: coding a framework with AI",
-      "url": "https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj",
-      "published_at": "2026-03-12T08:48:19Z",
-      "description": "I'm Theo. I code out of pure passion for over 2 decades, specialized in webdev.  Building something...",
-      "tags": [
-        "ai",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
-      "source": "Dev.to",
-      "user": "Theodor Diaconu"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1000,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1818,
+      "stars": 1829,
       "user": "pasky"
     },
     {
@@ -1015,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1388,
       "user": "calesthio"
     },
     {
@@ -1049,19 +1018,19 @@
       "user": "vasilytrofimchuk"
     },
     {
-      "title": "tomehq/tome - Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
-      "url": "https://github.com/tomehq/tome",
-      "published_at": "2026-03-10T18:38:26Z",
-      "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
+      "title": "epiral/bb-sites - Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
+      "url": "https://github.com/epiral/bb-sites",
+      "published_at": "2026-03-14T08:48:30Z",
+      "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268460980?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 276,
-      "user": "tomehq"
+      "stars": 217,
+      "user": "epiral"
     }
   ],
   "Python": [
@@ -1226,7 +1195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1645,
+      "stars": 1650,
       "user": "wanshuiyin"
     },
     {
@@ -1241,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1127,
       "user": "skernelx"
     },
     {
@@ -1256,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1092,
       "user": "aiming-lab"
     },
     {
@@ -1645,21 +1614,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "I Built and Authorized a Planning Agent with MCP and Keycard",
-      "url": "https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a",
-      "published_at": "2026-03-11T19:19:14Z",
-      "description": "My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...",
-      "tags": [
-        "agents",
-        "mcp",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
-      "source": "Dev.to",
-      "user": "Kim Maida"
-    },
-    {
       "title": "Does Dyslexia Hold You Back in Tech? Yes, but not for the reason you think",
       "url": "https://dev.to/chadders13/does-dyslexia-hold-you-back-in-tech-yes-but-not-for-the-reason-you-think-4bec",
       "published_at": "2026-03-14T07:02:04Z",
@@ -1746,7 +1700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1818,
+      "stars": 1829,
       "user": "pasky"
     },
     {
@@ -1761,7 +1715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1388,
       "user": "calesthio"
     },
     {
@@ -1795,19 +1749,19 @@
       "user": "vasilytrofimchuk"
     },
     {
-      "title": "tomehq/tome - Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
-      "url": "https://github.com/tomehq/tome",
-      "published_at": "2026-03-10T18:38:26Z",
-      "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
+      "title": "epiral/bb-sites - Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
+      "url": "https://github.com/epiral/bb-sites",
+      "published_at": "2026-03-14T08:48:30Z",
+      "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268460980?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 276,
-      "user": "tomehq"
+      "stars": 217,
+      "user": "epiral"
     },
     {
       "title": "wanshuiyin/Auto-claude-code-research-in-sleep - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
@@ -1821,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1645,
+      "stars": 1650,
       "user": "wanshuiyin"
     },
     {
@@ -1836,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1127,
       "user": "skernelx"
     },
     {
@@ -1851,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1092,
       "user": "aiming-lab"
     },
     {
@@ -1911,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "WireRift"
     },
     {
