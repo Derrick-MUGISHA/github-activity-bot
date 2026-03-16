@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-16 23:00 CAT)
+## 📅 Latest Updates (2026-03-17 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)](https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 
-_Last automated update: Mon, 16 Mar 2026 23:35:27 CAT_
+_Last automated update: Tue, 17 Mar 2026 00:05:45 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 16 Mar 2026 23:35:27 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Mar 2026 21:35:27 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Mar 2026 22:05:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
