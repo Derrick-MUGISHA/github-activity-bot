@@ -29,21 +29,6 @@
       "user": " ViksaaSkool "
     },
     {
-      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-      "published_at": "2026-03-12T10:51:33Z",
-      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "typescript",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -206,6 +191,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
       "source": "Dev.to",
       "user": "Sagiv ben giat"
+    },
+    {
+      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
+      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
+      "published_at": "2026-03-12T10:51:33Z",
+      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "typescript",
+        "webgpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Clojure Inheritance… Sort Of",
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1715,
+      "stars": 1735,
       "user": "pasky"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 455,
       "user": "KeyID-AI"
     },
     {
@@ -702,21 +702,6 @@
       "user": "vasilytrofimchuk"
     },
     {
-      "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
-      "url": "https://github.com/skernelx/tavily-key-generator",
-      "published_at": "2026-03-14T04:12:22Z",
-      "description": "Auto batch register Tavily API Keys with pluggable email backends",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
-      "source": "GitHub",
-      "stars": 1038,
-      "user": "skernelx"
-    },
-    {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "published_at": "2026-03-15T03:38:49Z",
@@ -728,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 675,
       "user": "aiming-lab"
     },
     {
@@ -743,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 655,
       "user": "RightNow-AI"
     },
     {
@@ -758,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "verssache"
     },
     {
@@ -779,21 +764,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to",
-      "url": "https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj",
-      "published_at": "2026-03-15T21:50:34Z",
-      "description": "Learn how I built a high-performance personal site that automatically syncs articles from DEV.to using Gatsby, providing a 'write once, publish everywhere' workflow.",
-      "tags": [
-        "gatsby",
-        "devto",
-        "jamstack",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517694712202-14dd9538aa97%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1000%26q%3D80",
-      "source": "Dev.to",
-      "user": "Thiago Colen"
-    },
-    {
       "title": "Gemini CLI and Jules: my March 2026 stack",
       "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
       "published_at": "2026-03-15T17:28:43Z",
@@ -807,21 +777,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
       "user": "Rowan Merewood"
-    },
-    {
-      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-      "published_at": "2026-03-12T10:51:33Z",
-      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "typescript",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
@@ -882,6 +837,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
       "source": "Dev.to",
       "user": "Christian Segovia"
+    },
+    {
+      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
+      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
+      "published_at": "2026-03-12T10:51:33Z",
+      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "typescript",
+        "webgpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "i built a social platform where everything vanishes after 24 hours",
@@ -1074,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1715,
+      "stars": 1735,
       "user": "pasky"
     },
     {
@@ -1089,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 626,
       "user": "calesthio"
     },
     {
@@ -1104,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 455,
       "user": "KeyID-AI"
     },
     {
@@ -1315,14 +1285,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1531,
+      "stars": 1547,
       "user": "wanshuiyin"
     },
     {
-      "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
+      "title": "skernelx/tavily-key-generator - Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.",
       "url": "https://github.com/skernelx/tavily-key-generator",
       "published_at": "2026-03-14T04:12:22Z",
-      "description": "Auto batch register Tavily API Keys with pluggable email backends",
+      "description": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.",
       "tags": [
         "python",
         "github",
@@ -1330,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1050,
       "user": "skernelx"
     },
     {
@@ -1345,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 675,
       "user": "aiming-lab"
     },
     {
@@ -1360,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 655,
       "user": "RightNow-AI"
     },
     {
@@ -1375,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 441,
       "user": "jackwener"
     }
   ],
@@ -1488,6 +1458,21 @@
       "user": "Supriya"
     },
     {
+      "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
+      "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
+      "published_at": "2026-02-22T15:16:30Z",
+      "description": "Introduction   For more than a decade, building modals on the web meant re-implementing...",
+      "tags": [
+        "webdev",
+        "frontend",
+        "a11y",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch7vqjii90e7m04icowr.png",
+      "source": "Dev.to",
+      "user": "Anja Beisel"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1498,21 +1483,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
-      "url": "https://github.com/skernelx/tavily-key-generator",
-      "published_at": "2026-03-14T04:12:22Z",
-      "description": "Auto batch register Tavily API Keys with pluggable email backends",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
-      "source": "GitHub",
-      "stars": 1038,
-      "user": "skernelx"
     }
   ],
   "Mobile": [],
@@ -1704,21 +1674,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to",
-      "url": "https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj",
-      "published_at": "2026-03-15T21:50:34Z",
-      "description": "Learn how I built a high-performance personal site that automatically syncs articles from DEV.to using Gatsby, providing a 'write once, publish everywhere' workflow.",
-      "tags": [
-        "gatsby",
-        "devto",
-        "jamstack",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517694712202-14dd9538aa97%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1000%26q%3D80",
-      "source": "Dev.to",
-      "user": "Thiago Colen"
-    },
     {
       "title": "Gemini CLI and Jules: my March 2026 stack",
       "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
@@ -1925,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1715,
+      "stars": 1735,
       "user": "pasky"
     },
     {
@@ -1940,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 626,
       "user": "calesthio"
     },
     {
@@ -1955,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 455,
       "user": "KeyID-AI"
     },
     {
@@ -2000,14 +1955,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1531,
+      "stars": 1547,
       "user": "wanshuiyin"
     },
     {
-      "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
+      "title": "skernelx/tavily-key-generator - Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.",
       "url": "https://github.com/skernelx/tavily-key-generator",
       "published_at": "2026-03-14T04:12:22Z",
-      "description": "Auto batch register Tavily API Keys with pluggable email backends",
+      "description": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.",
       "tags": [
         "python",
         "github",
@@ -2015,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1050,
       "user": "skernelx"
     },
     {
@@ -2030,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 675,
       "user": "aiming-lab"
     },
     {
@@ -2045,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 655,
       "user": "RightNow-AI"
     },
     {
@@ -2060,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 441,
       "user": "jackwener"
     },
     {
@@ -2075,8 +2030,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "verssache"
+    },
+    {
+      "title": "WireRift/WireRift - Tear a rift through the wire. Expose localhost to the world.",
+      "url": "https://github.com/WireRift/WireRift",
+      "published_at": "2026-03-13T21:48:48Z",
+      "description": "Tear a rift through the wire. Expose localhost to the world.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "WireRift"
     },
     {
       "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
@@ -2107,21 +2077,6 @@
       "source": "GitHub",
       "stars": 73,
       "user": "ottogin"
-    },
-    {
-      "title": "WireRift/WireRift - Tear a rift through the wire. Expose localhost to the world.",
-      "url": "https://github.com/WireRift/WireRift",
-      "published_at": "2026-03-13T21:48:48Z",
-      "description": "Tear a rift through the wire. Expose localhost to the world.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
-      "source": "GitHub",
-      "stars": 71,
-      "user": "WireRift"
     },
     {
       "title": "nekohy/MeowCLI - 一个用于CLI反代的项目，追求更高性能，更优调度",
