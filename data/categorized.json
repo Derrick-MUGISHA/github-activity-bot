@@ -220,21 +220,6 @@
       "user": "Sagiv ben giat"
     },
     {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
-    },
-    {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
       "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
       "published_at": "2026-03-12T10:51:33Z",
@@ -248,6 +233,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
+      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
+      "published_at": "2026-03-05T20:29:52Z",
+      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
+      "tags": [
+        "observability",
+        "webdev",
+        "monitoring",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
+      "source": "Dev.to",
+      "user": "Sovereign Revenue Guard"
     },
     {
       "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
@@ -607,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1831,
+      "stars": 1834,
       "user": "pasky"
     },
     {
@@ -622,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 470,
       "user": "KeyID-AI"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1128,
+      "stars": 1182,
       "user": "aiming-lab"
     },
     {
@@ -969,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1831,
+      "stars": 1834,
       "user": "pasky"
     },
     {
@@ -984,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1528,
       "user": "calesthio"
     },
     {
@@ -999,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 470,
       "user": "KeyID-AI"
     },
     {
@@ -1195,7 +1195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1650,
+      "stars": 1653,
       "user": "wanshuiyin"
     },
     {
@@ -1210,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1128,
+      "stars": 1182,
       "user": "aiming-lab"
     },
     {
@@ -1700,7 +1700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1831,
+      "stars": 1834,
       "user": "pasky"
     },
     {
@@ -1715,7 +1715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1528,
       "user": "calesthio"
     },
     {
@@ -1730,7 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 470,
       "user": "KeyID-AI"
     },
     {
@@ -1775,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1650,
+      "stars": 1653,
       "user": "wanshuiyin"
     },
     {
@@ -1790,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1128,
+      "stars": 1182,
       "user": "aiming-lab"
     },
     {
@@ -1865,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "WireRift"
     },
     {
@@ -1880,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7385619?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 75,
       "user": "ottogin"
     },
     {
