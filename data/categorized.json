@@ -44,34 +44,6 @@
       "user": "Hamed Farag"
     },
     {
-      "title": "Fortran meets AI",
-      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
-      "published_at": "2026-03-15T17:32:51Z",
-      "description": "A computer science exam from 1978 and 2026 AI models ",
-      "tags": [
-        "fortran",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
-      "source": "Dev.to",
-      "user": " ViksaaSkool "
-    },
-    {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
-      "tags": [
-        "ai",
-        "javascript",
-        "tooling",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
-      "source": "Dev.to",
-      "user": "Rowan Merewood"
-    },
-    {
       "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
       "url": "https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4",
       "published_at": "2026-03-16T06:24:31Z",
@@ -116,6 +88,19 @@
       "user": "Amjad Abujamous"
     },
     {
+      "title": "Fortran meets AI",
+      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
+      "published_at": "2026-03-15T17:32:51Z",
+      "description": "A computer science exam from 1978 and 2026 AI models ",
+      "tags": [
+        "fortran",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
+      "source": "Dev.to",
+      "user": " ViksaaSkool "
+    },
+    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -145,34 +130,19 @@
       "user": "Mike Krop"
     },
     {
-      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
-      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
-      "published_at": "2026-03-14T22:50:01Z",
-      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
-      "tags": [
-        "productivity",
-        "tooling",
-        "ruby",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
-      "source": "Dev.to",
-      "user": "Mirzalazuardi"
-    },
-    {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
       "tags": [
         "ai",
-        "agents",
-        "productivity",
-        "tutorial"
+        "javascript",
+        "tooling",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
-      "user": "Alex"
+      "user": "Rowan Merewood"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -607,7 +577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1841,
+      "stars": 1847,
       "user": "pasky"
     },
     {
@@ -622,7 +592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 471,
       "user": "KeyID-AI"
     },
     {
@@ -652,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1333,
       "user": "aiming-lab"
     },
     {
@@ -718,21 +688,6 @@
       "user": "Vadim Ferderer"
     },
     {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
-      "tags": [
-        "ai",
-        "javascript",
-        "tooling",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
-      "source": "Dev.to",
-      "user": "Rowan Merewood"
-    },
-    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -748,19 +703,19 @@
       "user": "Harsh "
     },
     {
-      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
-      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
-      "published_at": "2026-03-14T22:50:01Z",
-      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
       "tags": [
-        "productivity",
+        "ai",
+        "javascript",
         "tooling",
-        "ruby",
-        "javascript"
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
-      "user": "Mirzalazuardi"
+      "user": "Rowan Merewood"
     },
     {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
@@ -969,7 +924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1841,
+      "stars": 1847,
       "user": "pasky"
     },
     {
@@ -984,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1750,
       "user": "calesthio"
     },
     {
@@ -999,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 471,
       "user": "KeyID-AI"
     },
     {
@@ -1195,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1662,
       "user": "wanshuiyin"
     },
     {
@@ -1210,7 +1165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1333,
       "user": "aiming-lab"
     },
     {
@@ -1225,7 +1180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1129,
+      "stars": 1130,
       "user": "skernelx"
     },
     {
@@ -1541,36 +1496,6 @@
       "user": "Rowan Merewood"
     },
     {
-      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
-      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
-      "published_at": "2026-03-14T22:50:01Z",
-      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
-      "tags": [
-        "productivity",
-        "tooling",
-        "ruby",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
-      "source": "Dev.to",
-      "user": "Mirzalazuardi"
-    },
-    {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
-      "source": "Dev.to",
-      "user": "Alex"
-    },
-    {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
       "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
       "published_at": "2026-03-06T16:03:22Z",
@@ -1687,7 +1612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1841,
+      "stars": 1847,
       "user": "pasky"
     },
     {
@@ -1702,7 +1627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1750,
       "user": "calesthio"
     },
     {
@@ -1717,7 +1642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 471,
       "user": "KeyID-AI"
     },
     {
@@ -1762,7 +1687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1662,
       "user": "wanshuiyin"
     },
     {
@@ -1777,7 +1702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1333,
       "user": "aiming-lab"
     },
     {
@@ -1792,7 +1717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1129,
+      "stars": 1130,
       "user": "skernelx"
     },
     {

@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-16-orange)
 
@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (48.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (47.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.5%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.7%)
 
-**WebDev**: 🟦🟦 6 (5.8%)
+**WebDev**: 🟦🟦🟦 6 (5.9%)
 
-**Database**: 🟦🟦 4 (3.8%)
+**Database**: 🟦🟦 4 (3.9%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 4 (3.9%)
 
 **Cloud**: 🟦 3 (2.9%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 57 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,12 +58,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.9 (27.9%)
-Java            █████████████████████████████ 26.7 (26.7%)
-Go              █████████████████████ 19.8 (19.8%)
-Python          █████████████████████ 19.8 (19.8%)
-Ruby            ██ 2.3 (2.3%)
+JavaScript      ██████████████████████████████ 27.7 (27.7%)
+Java            █████████████████████████████ 26.5 (26.5%)
+Go              ██████████████████████ 20.5 (20.5%)
+Python          ██████████████████████ 20.5 (20.5%)
 PHP             █ 1.2 (1.2%)
+Ruby            █ 1.2 (1.2%)
 Rust            █ 1.2 (1.2%)
 CSharp          █ 1.2 (1.2%)
 
@@ -71,12 +71,12 @@ CSharp          █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Java" : 23
+    "JavaScript" : 23
+    "Java" : 22
     "Go" : 17
     "Python" : 17
-    "Ruby" : 2
     "PHP" : 1
+    "Ruby" : 1
     "Rust" : 1
     "CSharp" : 1
 ```
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-17 0:00 CAT)
+## 📅 Latest Updates (2026-03-17 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png" width="200" alt="I Built a Browser UI for Claude Code — Here's Why" />
+    <a href="https://dev.to/ferderer/one-regex-to-match-them-all-228h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png" width="200" alt="One regex to match them all" />
       <br/>
-      <b>I Built a Browser UI for Claude Code — Here's Why</b>
+      <b>One regex to match them all</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ferderer/one-regex-to-match-them-all-228h">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png" width="200" alt="One regex to match them all" />
+    <a href="https://dev.to/davidisnotnull/the-firebreak-1oej">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknxml40bwe38dxutg1fo.png" width="200" alt="The Firebreak" />
       <br/>
-      <b>One regex to match them all</b>
+      <b>The Firebreak</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,24 +199,24 @@ npm run test
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud](https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28) _[Dev.to]_
 - [I built an open-source "focus group simulator" that spawns 1,000 AI customers to roast your startup idea](https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o) _[Dev.to]_
-- [I Built a Browser UI for Claude Code — Here's Why](https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959) _[Dev.to]_
 - [One regex to match them all](https://dev.to/ferderer/one-regex-to-match-them-all-228h) _[Dev.to]_
 - [The Firebreak](https://dev.to/davidisnotnull/the-firebreak-1oej) _[Dev.to]_
-- [Fortran meets AI](https://dev.to/viksaaskool/fortran-meets-ai-3oac) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ilf) _[Dev.to]_
-- [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146) _[Dev.to]_
+- [I Built a Browser UI for Claude Code — Here's Why](https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959) _[Dev.to]_
 - [Rethinking Architecture in the AI Era — Part 1: Repository Management](https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4) _[Dev.to]_
 - [Backstage logbook: Migrating the Catalog Plugin to the New Frontend System](https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
 - [The Local AI Powerhouse](https://dev.to/amjadmh73/the-local-ai-powerhouse-28j) _[Dev.to]_
 - [Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL](https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i) _[Dev.to]_
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
+- [Fortran meets AI](https://dev.to/viksaaskool/fortran-meets-ai-3oac) _[Dev.to]_
 - [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
-- [I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)](https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki) _[Dev.to]_
+- [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
+- [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 
-_Last automated update: Tue, 17 Mar 2026 00:51:28 CAT_
+_Last automated update: Tue, 17 Mar 2026 01:28:16 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 17 Mar 2026 00:51:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Mar 2026 22:51:28 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Mar 2026 23:28:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
