@@ -12,9 +12,9 @@
     "DevOps": 2,
     "WebDev": 7,
     "Mobile": 0,
-    "Cloud": 4,
+    "Cloud": 3,
     "Database": 4,
-    "Security": 5,
+    "Security": 6,
     "Tools": 29
   },
   "by_language": {
@@ -30,9 +30,9 @@
   "by_date": {
     "2026-03-15": 5,
     "2026-03-13": 11,
-    "2026-03-12": 12,
+    "2026-03-12": 13,
     "2026-03-14": 6,
-    "2026-03-11": 13,
+    "2026-03-11": 12,
     "2026-03-06": 5,
     "2026-03-07": 3,
     "2026-03-05": 1,
@@ -91,9 +91,9 @@
     "discuss": 4,
     "mcp": 4,
     "typescript": 4,
+    "security": 4,
     "agents": 4,
-    "showdev": 4,
-    "gemini": 4
+    "showdev": 4
   },
   "trending_topics": [],
   "language_percentages": {
