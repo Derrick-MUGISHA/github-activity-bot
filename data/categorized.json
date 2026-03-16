@@ -148,21 +148,6 @@
       "user": "Mirzalazuardi"
     },
     {
-      "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
-      "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
-      "published_at": "2026-03-13T08:20:00Z",
-      "description": "Over the past months Lovable AI has spread rapidly across startup communities, AI builders, and...",
-      "tags": [
-        "lovable",
-        "ai",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yjqj6u9zlxgnrcsu409.png",
-      "source": "Dev.to",
-      "user": "Ali Farhat"
-    },
-    {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
       "published_at": "2026-03-07T09:30:17Z",
@@ -337,6 +322,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
+    },
+    {
+      "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
+      "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
+      "published_at": "2026-03-13T08:20:00Z",
+      "description": "Over the past months Lovable AI has spread rapidly across startup communities, AI builders, and...",
+      "tags": [
+        "lovable",
+        "ai",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yjqj6u9zlxgnrcsu409.png",
+      "source": "Dev.to",
+      "user": "Ali Farhat"
     },
     {
       "title": "Oooh very interesting",
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1715,
       "user": "pasky"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 453,
       "user": "KeyID-AI"
     },
     {
@@ -713,23 +713,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1038,
       "user": "skernelx"
-    },
-    {
-      "title": "RightNow-AI/autokernel - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "url": "https://github.com/RightNow-AI/autokernel",
-      "published_at": "2026-03-11T00:12:46Z",
-      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
-      "source": "GitHub",
-      "stars": 653,
-      "user": "RightNow-AI"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
@@ -743,8 +728,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 654,
       "user": "aiming-lab"
+    },
+    {
+      "title": "RightNow-AI/autokernel - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "url": "https://github.com/RightNow-AI/autokernel",
+      "published_at": "2026-03-11T00:12:46Z",
+      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
+      "source": "GitHub",
+      "stars": 654,
+      "user": "RightNow-AI"
     },
     {
       "title": "verssache/chatgpt-creator - A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
@@ -1074,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1715,
       "user": "pasky"
     },
     {
@@ -1089,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 580,
       "user": "calesthio"
     },
     {
@@ -1104,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 453,
       "user": "KeyID-AI"
     },
     {
@@ -1134,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268460980?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "tomehq"
     }
   ],
@@ -1315,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1531,
       "user": "wanshuiyin"
     },
     {
@@ -1330,23 +1330,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1038,
       "user": "skernelx"
-    },
-    {
-      "title": "RightNow-AI/autokernel - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "url": "https://github.com/RightNow-AI/autokernel",
-      "published_at": "2026-03-11T00:12:46Z",
-      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
-      "source": "GitHub",
-      "stars": 653,
-      "user": "RightNow-AI"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
@@ -1360,8 +1345,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 654,
       "user": "aiming-lab"
+    },
+    {
+      "title": "RightNow-AI/autokernel - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "url": "https://github.com/RightNow-AI/autokernel",
+      "published_at": "2026-03-11T00:12:46Z",
+      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
+      "source": "GitHub",
+      "stars": 654,
+      "user": "RightNow-AI"
     },
     {
       "title": "jackwener/boss-cli - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
@@ -1375,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 440,
       "user": "jackwener"
     }
   ],
@@ -1511,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1038,
       "user": "skernelx"
     }
   ],
@@ -1765,21 +1765,6 @@
       "user": "Mirzalazuardi"
     },
     {
-      "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
-      "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
-      "published_at": "2026-03-13T08:20:00Z",
-      "description": "Over the past months Lovable AI has spread rapidly across startup communities, AI builders, and...",
-      "tags": [
-        "lovable",
-        "ai",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yjqj6u9zlxgnrcsu409.png",
-      "source": "Dev.to",
-      "user": "Ali Farhat"
-    },
-    {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
       "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
       "published_at": "2026-03-06T16:03:22Z",
@@ -1823,6 +1808,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
       "source": "Dev.to",
       "user": "Kim Maida"
+    },
+    {
+      "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
+      "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
+      "published_at": "2026-03-13T08:20:00Z",
+      "description": "Over the past months Lovable AI has spread rapidly across startup communities, AI builders, and...",
+      "tags": [
+        "lovable",
+        "ai",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yjqj6u9zlxgnrcsu409.png",
+      "source": "Dev.to",
+      "user": "Ali Farhat"
     },
     {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
@@ -1925,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1715,
       "user": "pasky"
     },
     {
@@ -1940,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 580,
       "user": "calesthio"
     },
     {
@@ -1955,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 453,
       "user": "KeyID-AI"
     },
     {
@@ -1985,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268460980?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "tomehq"
     },
     {
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1531,
       "user": "wanshuiyin"
     },
     {
@@ -2015,23 +2015,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1038,
       "user": "skernelx"
-    },
-    {
-      "title": "RightNow-AI/autokernel - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "url": "https://github.com/RightNow-AI/autokernel",
-      "published_at": "2026-03-11T00:12:46Z",
-      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
-      "source": "GitHub",
-      "stars": 653,
-      "user": "RightNow-AI"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
@@ -2045,8 +2030,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 654,
       "user": "aiming-lab"
+    },
+    {
+      "title": "RightNow-AI/autokernel - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "url": "https://github.com/RightNow-AI/autokernel",
+      "published_at": "2026-03-11T00:12:46Z",
+      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
+      "source": "GitHub",
+      "stars": 654,
+      "user": "RightNow-AI"
     },
     {
       "title": "jackwener/boss-cli - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
@@ -2060,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 440,
       "user": "jackwener"
     },
     {
@@ -2109,6 +2109,21 @@
       "user": "ottogin"
     },
     {
+      "title": "WireRift/WireRift - Tear a rift through the wire. Expose localhost to the world.",
+      "url": "https://github.com/WireRift/WireRift",
+      "published_at": "2026-03-13T21:48:48Z",
+      "description": "Tear a rift through the wire. Expose localhost to the world.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
+      "source": "GitHub",
+      "stars": 71,
+      "user": "WireRift"
+    },
+    {
       "title": "nekohy/MeowCLI - 一个用于CLI反代的项目，追求更高性能，更优调度",
       "url": "https://github.com/nekohy/MeowCLI",
       "published_at": "2026-03-10T19:25:17Z",
@@ -2122,21 +2137,6 @@
       "source": "GitHub",
       "stars": 67,
       "user": "nekohy"
-    },
-    {
-      "title": "WireRift/WireRift - Tear a rift through the wire. Expose localhost to the world.",
-      "url": "https://github.com/WireRift/WireRift",
-      "published_at": "2026-03-13T21:48:48Z",
-      "description": "Tear a rift through the wire. Expose localhost to the world.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
-      "source": "GitHub",
-      "stars": 67,
-      "user": "WireRift"
     }
   ]
 }
