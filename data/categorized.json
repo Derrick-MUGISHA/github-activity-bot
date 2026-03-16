@@ -148,6 +148,21 @@
       "user": "Ahmet Zeybek"
     },
     {
+      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
+      "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
+      "published_at": "2026-03-12T22:48:44Z",
+      "description": "Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.",
+      "tags": [
+        "ai",
+        "knowledgesharing",
+        "stackoverflow",
+        "opinion"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
+    },
+    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -176,21 +191,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
       "source": "Dev.to",
       "user": "ujja"
-    },
-    {
-      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
-      "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
-      "published_at": "2026-03-12T22:48:44Z",
-      "description": "Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.",
-      "tags": [
-        "ai",
-        "knowledgesharing",
-        "stackoverflow",
-        "opinion"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
-      "source": "Dev.to",
-      "user": "Sagiv ben giat"
     },
     {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1735,
+      "stars": 1743,
       "user": "pasky"
     },
     {
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 698,
       "user": "aiming-lab"
     },
     {
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 656,
       "user": "RightNow-AI"
     },
     {
@@ -1044,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1735,
+      "stars": 1743,
       "user": "pasky"
     },
     {
@@ -1059,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 665,
       "user": "calesthio"
     },
     {
@@ -1104,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268460980?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "tomehq"
     }
   ],
@@ -1285,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1547,
+      "stars": 1556,
       "user": "wanshuiyin"
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1051,
       "user": "skernelx"
     },
     {
@@ -1315,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 698,
       "user": "aiming-lab"
     },
     {
@@ -1330,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 656,
       "user": "RightNow-AI"
     },
     {
@@ -1345,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 442,
       "user": "jackwener"
     }
   ],
@@ -1880,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1735,
+      "stars": 1743,
       "user": "pasky"
     },
     {
@@ -1895,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 665,
       "user": "calesthio"
     },
     {
@@ -1940,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268460980?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "tomehq"
     },
     {
@@ -1955,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1547,
+      "stars": 1556,
       "user": "wanshuiyin"
     },
     {
@@ -1970,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1051,
       "user": "skernelx"
     },
     {
@@ -1985,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 698,
       "user": "aiming-lab"
     },
     {
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 656,
       "user": "RightNow-AI"
     },
     {
@@ -2015,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 442,
       "user": "jackwener"
     },
     {
