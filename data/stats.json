@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 52,
+    "AI": 51,
     "JavaScript": 25,
     "Python": 17,
     "DevOps": 1,
@@ -28,14 +28,14 @@
     "CSharp": 1
   },
   "by_date": {
-    "2026-03-16": 7,
+    "2026-03-16": 8,
     "2026-03-15": 5,
-    "2026-03-14": 7,
     "2026-03-13": 11,
     "2026-03-11": 10,
     "2026-03-06": 5,
+    "2026-03-14": 7,
     "2026-03-07": 3,
-    "2026-03-12": 12,
+    "2026-03-12": 11,
     "2026-03-05": 1,
     "2026-03-09": 2,
     "2026-02-27": 1,
@@ -74,7 +74,7 @@
   },
   "top_tags": {
     "ai": 23,
-    "webdev": 17,
+    "webdev": 18,
     "github": 15,
     "open-source": 15,
     "javascript": 12,
@@ -82,9 +82,9 @@
     "JavaScript": 10,
     "Python": 10,
     "productivity": 9,
-    "programming": 6,
+    "programming": 7,
+    "discuss": 6,
     "go": 6,
-    "discuss": 5,
     "opensource": 5,
     "devchallenge": 5,
     "typescript": 5,
