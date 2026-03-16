@@ -38,11 +38,11 @@
 
 **WebDev**: 🟦🟦🟦 7 (6.7%)
 
-**Security**: 🟦🟦 5 (4.8%)
-
-**Cloud**: 🟦 4 (3.8%)
+**Security**: 🟦🟦 6 (5.7%)
 
 **Database**: 🟦 4 (3.8%)
+
+**Cloud**: 🟦 3 (2.9%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-16 4:00 CAT)
+## 📅 Latest Updates (2026-03-16 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
 
-_Last automated update: Mon, 16 Mar 2026 04:04:34 CAT_
+_Last automated update: Mon, 16 Mar 2026 06:47:41 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 16 Mar 2026 04:04:34 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Execution timing, event loop phases
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Iterative or recursive, three pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Mar 2026 02:04:34 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Mar 2026 04:47:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

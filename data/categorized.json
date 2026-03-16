@@ -203,21 +203,6 @@
       "user": "EECOLOR"
     },
     {
-      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
-      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
-      "published_at": "2026-03-12T22:10:51Z",
-      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
-      "tags": [
-        "ai",
-        "mcp",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
-      "source": "Dev.to",
-      "user": "Sagiv ben giat"
-    },
-    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -378,21 +363,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Getting Started with Gemini CLI",
-      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
-      "published_at": "2026-03-11T17:45:44Z",
-      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "Embedding Accessibility into AI based software development",
       "url": "https://dev.to/mfairchild365/embedding-accessibility-into-ai-based-software-development-282k",
       "published_at": "2026-03-12T16:07:21Z",
@@ -406,6 +376,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzz47rv1f9gw3o8gjs9ns.png",
       "source": "Dev.to",
       "user": "Michael Fairchild"
+    },
+    {
+      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
+      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
+      "published_at": "2026-03-12T22:10:51Z",
+      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
+      "tags": [
+        "ai",
+        "mcp",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
     },
     {
       "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
@@ -523,6 +508,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
       "source": "Dev.to",
       "user": "Chris Noring"
+    },
+    {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1524,
+      "stars": 1594,
       "user": "pasky"
     },
     {
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 930,
       "user": "skernelx"
     },
     {
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 647,
       "user": "RightNow-AI"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 496,
       "user": "aiming-lab"
     },
     {
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 73,
       "user": "QQ3221197721"
     }
   ],
@@ -1074,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1524,
+      "stars": 1594,
       "user": "pasky"
     },
     {
@@ -1089,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 552,
       "user": "calesthio"
     },
     {
@@ -1134,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268460980?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 271,
       "user": "tomehq"
     }
   ],
@@ -1315,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1383,
       "user": "wanshuiyin"
     },
     {
@@ -1330,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 930,
       "user": "skernelx"
     },
     {
@@ -1345,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 647,
       "user": "RightNow-AI"
     },
     {
@@ -1360,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 496,
       "user": "aiming-lab"
     },
     {
@@ -1375,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 424,
       "user": "jackwener"
     }
   ],
@@ -1511,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 930,
       "user": "skernelx"
     }
   ],
@@ -1546,21 +1546,6 @@
       "user": "Martin Omander"
     },
     {
-      "title": "Getting Started with Gemini CLI",
-      "url": "https://dev.to/googleai/getting-started-with-gemini-cli-17nm",
-      "published_at": "2026-03-11T17:45:44Z",
-      "description": "For Google Cloud's new weekly livestream series, we started with something every developer and...",
-      "tags": [
-        "gemini",
-        "cli",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
       "url": "https://github.com/QQ3221197721/cloudai-fusion",
       "published_at": "2026-03-12T13:03:35Z",
@@ -1572,7 +1557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 73,
       "user": "QQ3221197721"
     }
   ],
@@ -1691,6 +1676,21 @@
       "user": "Yohei Seki"
     },
     {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1795,21 +1795,6 @@
       "user": "Richard Oliver Bray"
     },
     {
-      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
-      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
-      "published_at": "2026-03-12T22:10:51Z",
-      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
-      "tags": [
-        "ai",
-        "mcp",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
-      "source": "Dev.to",
-      "user": "Sagiv ben giat"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -1853,6 +1838,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frcivfom7pf632bihyi5j.png",
       "source": "Dev.to",
       "user": "Chung Ho"
+    },
+    {
+      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
+      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
+      "published_at": "2026-03-12T22:10:51Z",
+      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
+      "tags": [
+        "ai",
+        "mcp",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
+      "source": "Dev.to",
+      "user": "Sagiv ben giat"
     },
     {
       "title": "I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots",
@@ -1925,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1524,
+      "stars": 1594,
       "user": "pasky"
     },
     {
@@ -1940,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 552,
       "user": "calesthio"
     },
     {
@@ -1985,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268460980?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 271,
       "user": "tomehq"
     },
     {
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1383,
       "user": "wanshuiyin"
     },
     {
@@ -2015,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 930,
       "user": "skernelx"
     },
     {
@@ -2030,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 647,
       "user": "RightNow-AI"
     },
     {
@@ -2045,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 496,
       "user": "aiming-lab"
     },
     {
@@ -2060,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 424,
       "user": "jackwener"
     },
     {
@@ -2077,6 +2077,21 @@
       "source": "GitHub",
       "stars": 135,
       "user": "verssache"
+    },
+    {
+      "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
+      "url": "https://github.com/QQ3221197721/cloudai-fusion",
+      "published_at": "2026-03-12T13:03:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
+      "source": "GitHub",
+      "stars": 73,
+      "user": "QQ3221197721"
     },
     {
       "title": "ottogin/agenthub - Fork of Karpathy's agenthub",
@@ -2107,21 +2122,6 @@
       "source": "GitHub",
       "stars": 68,
       "user": "nekohy"
-    },
-    {
-      "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
-      "url": "https://github.com/QQ3221197721/cloudai-fusion",
-      "published_at": "2026-03-12T13:03:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "QQ3221197721"
     },
     {
       "title": "alialaee/logfile - Logfile is a reliable append-only log file optimized for SSD and concurrency. Most suitable for implementing WALs.",
