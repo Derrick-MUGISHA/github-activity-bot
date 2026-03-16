@@ -1,19 +1,61 @@
 {
   "AI": [
     {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
+      "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
+      "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
+      "published_at": "2026-03-16T13:30:29Z",
+      "description": "Disclaimer: I created this blog post for the purposes of entering the Gemini Live Agent Challenge...",
       "tags": [
-        "ai",
-        "javascript",
-        "tooling",
-        "webdev"
+        "devchallenge",
+        "gemini",
+        "googlecloud",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
       "source": "Dev.to",
-      "user": "Rowan Merewood"
+      "user": "Providence Ifeosame"
+    },
+    {
+      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
+      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
+      "published_at": "2026-03-16T06:29:54Z",
+      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
+      "tags": [
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
+      "source": "Dev.to",
+      "user": "nghiahsgs"
+    },
+    {
+      "title": "I Built a Browser UI for Claude Code — Here's Why",
+      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
+      "published_at": "2026-03-16T08:15:44Z",
+      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
+      "tags": [
+        "claude",
+        "ai",
+        "opensource",
+        "devex"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
+      "source": "Dev.to",
+      "user": "Hamed Farag"
+    },
+    {
+      "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
+      "url": "https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4",
+      "published_at": "2026-03-16T06:24:31Z",
+      "description": "This is the first installment of a series on software product architecture for the AI age. There's no...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
+      "source": "Dev.to",
+      "user": "Takahiro Ikeuchi"
     },
     {
       "title": "Fortran meets AI",
@@ -44,34 +86,19 @@
       "user": "Harsh "
     },
     {
-      "title": "mcp-pvp — Privacy Vault Protocol for MCP",
-      "url": "https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80",
-      "published_at": "2026-03-14T23:54:23Z",
-      "description": "Inspiration   We were building an AI agent that handled customer support emails. The agent...",
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
       "tags": [
         "ai",
-        "security",
-        "privacy",
-        "agents"
+        "javascript",
+        "tooling",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
-      "user": "Mitiku Yohannes"
-    },
-    {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
-      "source": "Dev.to",
-      "user": "Alex"
+      "user": "Rowan Merewood"
     },
     {
       "title": "Your AI code reviewer has no one to disagree with",
@@ -148,6 +175,21 @@
       "user": "Ahmet Zeybek"
     },
     {
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
+      "source": "Dev.to",
+      "user": "Alex"
+    },
+    {
       "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
       "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
       "published_at": "2026-03-12T22:48:44Z",
@@ -161,6 +203,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
       "source": "Dev.to",
       "user": "Sagiv ben giat"
+    },
+    {
+      "title": "mcp-pvp — Privacy Vault Protocol for MCP",
+      "url": "https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80",
+      "published_at": "2026-03-14T23:54:23Z",
+      "description": "Inspiration   We were building an AI agent that handled customer support emails. The agent...",
+      "tags": [
+        "ai",
+        "security",
+        "privacy",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
+      "source": "Dev.to",
+      "user": "Mitiku Yohannes"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -408,21 +465,6 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "Building a Text-to-Speech Engine in Pure C",
-      "url": "https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4",
-      "published_at": "2026-03-09T14:49:04Z",
-      "description": "Building a minimal Text-to-Speech engine in pure C using Qwen3-TTS without ML frameworks.",
-      "tags": [
-        "c",
-        "ai",
-        "tts",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8vpv35ge7n4xjcsglc7.png",
-      "source": "Dev.to",
-      "user": "Gabriele Mastrapasqua"
-    },
-    {
       "title": "MCP Server with .Net",
       "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
       "published_at": "2026-03-12T22:52:52Z",
@@ -449,80 +491,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
       "source": "Dev.to",
       "user": "Theodor Diaconu"
-    },
-    {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
-      "title": "I'm frozen and I cannot move",
-      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
-      "published_at": "2026-03-13T15:44:02Z",
-      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
-      "source": "Dev.to",
-      "user": "Jan Küster 🔥"
-    },
-    {
-      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
-      "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
-      "published_at": "2026-02-25T17:41:43Z",
-      "description": "Update: Winner announcement delayed to March 19. More info here.     Last week, we announced that DEV...",
-      "tags": [
-        "devchallenge",
-        "geminireflections",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Get started with GitHub Copilot SDK",
-      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
-      "published_at": "2026-03-04T20:48:00Z",
-      "description": "This article explains what GitHub Copilot SDK is and why use it",
-      "tags": [
-        "githubcopilot",
-        "python",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
-      "source": "Dev.to",
-      "user": "Chris Noring"
-    },
-    {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -668,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1763,
+      "stars": 1787,
       "user": "pasky"
     },
     {
@@ -683,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 458,
       "user": "KeyID-AI"
     },
     {
@@ -713,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 839,
       "user": "aiming-lab"
     },
     {
@@ -728,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 659,
       "user": "RightNow-AI"
     },
     {
@@ -764,19 +732,19 @@
   ],
   "JavaScript": [
     {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
+      "title": "One regex to match them all",
+      "url": "https://dev.to/ferderer/one-regex-to-match-them-all-228h",
+      "published_at": "2026-03-16T11:18:24Z",
+      "description": "Last year I was building a single-page app with SvelteKit. Nothing fancy—a handful of views,...",
       "tags": [
-        "ai",
+        "webdev",
         "javascript",
-        "tooling",
-        "webdev"
+        "typescript",
+        "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png",
       "source": "Dev.to",
-      "user": "Rowan Merewood"
+      "user": "Vadim Ferderer"
     },
     {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
@@ -794,19 +762,19 @@
       "user": "Harsh "
     },
     {
-      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
-      "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
-      "published_at": "2026-03-11T17:30:00Z",
-      "description": "This is the third part in a tenuously linked series defending JavaScript singletons in a modern...",
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
       "tags": [
-        "microfrontend",
-        "webdev",
-        "react",
-        "vue"
+        "ai",
+        "javascript",
+        "tooling",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
-      "user": "Andrew Bone"
+      "user": "Rowan Merewood"
     },
     {
       "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
@@ -822,6 +790,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
       "source": "Dev.to",
       "user": "Mirzalazuardi"
+    },
+    {
+      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
+      "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
+      "published_at": "2026-03-11T17:30:00Z",
+      "description": "This is the third part in a tenuously linked series defending JavaScript singletons in a modern...",
+      "tags": [
+        "microfrontend",
+        "webdev",
+        "react",
+        "vue"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
     },
     {
       "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
@@ -896,21 +879,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt6imy3o0qegjuhzmfpf.png",
       "source": "Dev.to",
       "user": "Theodor Diaconu"
-    },
-    {
-      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
-      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
-      "published_at": "2026-03-11T10:43:47Z",
-      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "go",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
-      "source": "Dev.to",
-      "user": "Supriya"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1044,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1763,
+      "stars": 1787,
       "user": "pasky"
     },
     {
@@ -1059,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 944,
       "user": "calesthio"
     },
     {
@@ -1074,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 458,
       "user": "KeyID-AI"
     },
     {
@@ -1137,21 +1105,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptvp905rxq3pgwny5dmb.jpeg",
       "source": "Dev.to",
       "user": "rodbv"
-    },
-    {
-      "title": "Get started with GitHub Copilot SDK",
-      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
-      "published_at": "2026-03-04T20:48:00Z",
-      "description": "This article explains what GitHub Copilot SDK is and why use it",
-      "tags": [
-        "githubcopilot",
-        "python",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
-      "source": "Dev.to",
-      "user": "Chris Noring"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1285,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1596,
       "user": "wanshuiyin"
     },
     {
@@ -1300,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1061,
+      "stars": 1081,
       "user": "skernelx"
     },
     {
@@ -1315,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 839,
       "user": "aiming-lab"
     },
     {
@@ -1330,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 659,
       "user": "RightNow-AI"
     },
     {
@@ -1345,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 444,
       "user": "jackwener"
     }
   ],
@@ -1364,24 +1317,23 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
-    },
-    {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
     }
   ],
   "WebDev": [
+    {
+      "title": "Backstage logbook: Migrating the Catalog Plugin to the New Frontend System",
+      "url": "https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6",
+      "published_at": "2026-03-15T23:14:56Z",
+      "description": "The Backstage new frontend system support is growing, and I figured I needed to carve out some time to really understand it. I took the Catalog plugin migration, from the legacy frontend system to the new one, as my learning ground to see how all the different customisation points work in practice. Here you'll see my process following the migration, step by step.",
+      "tags": [
+        "backstage",
+        "nfs",
+        "migrations"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcg8lsr1klr29eca86wab.png",
+      "source": "Dev.to",
+      "user": "sarabadu"
+    },
     {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
       "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
@@ -1443,36 +1395,6 @@
       "user": "Martin Hicks"
     },
     {
-      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
-      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
-      "published_at": "2026-03-11T10:43:47Z",
-      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "go",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
-      "source": "Dev.to",
-      "user": "Supriya"
-    },
-    {
-      "title": "Stop Rebuilding Modals: A Deep Dive into the <dialog> Element",
-      "url": "https://dev.to/anjab/stop-rebuilding-modals-a-deep-dive-into-the-element-gko",
-      "published_at": "2026-02-22T15:16:30Z",
-      "description": "Introduction   For more than a decade, building modals on the web meant re-implementing...",
-      "tags": [
-        "webdev",
-        "frontend",
-        "a11y",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch7vqjii90e7m04icowr.png",
-      "source": "Dev.to",
-      "user": "Anja Beisel"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1487,6 +1409,21 @@
   ],
   "Mobile": [],
   "Cloud": [
+    {
+      "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
+      "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
+      "published_at": "2026-03-16T13:30:29Z",
+      "description": "Disclaimer: I created this blog post for the purposes of entering the Gemini Live Agent Challenge...",
+      "tags": [
+        "devchallenge",
+        "gemini",
+        "googlecloud",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
+      "source": "Dev.to",
+      "user": "Providence Ifeosame"
+    },
     {
       "title": "Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)",
       "url": "https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh",
@@ -1631,36 +1568,6 @@
       "user": "EECOLOR"
     },
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
-      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
-      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
-      "published_at": "2026-03-12T10:46:15Z",
-      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
-      "tags": [
-        "ai",
-        "security",
-        "authentication",
-        "oauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
-      "source": "Dev.to",
-      "user": "Saif "
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1690,21 +1597,6 @@
       "user": "Rowan Merewood"
     },
     {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
-      "source": "Dev.to",
-      "user": "Alex"
-    },
-    {
       "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
       "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
       "published_at": "2026-03-14T22:50:01Z",
@@ -1718,6 +1610,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
       "source": "Dev.to",
       "user": "Mirzalazuardi"
+    },
+    {
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
+      "source": "Dev.to",
+      "user": "Alex"
     },
     {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
@@ -1763,6 +1670,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1w3o6l5tjjsvpkxq116.webp",
       "source": "Dev.to",
       "user": "Kim Maida"
+    },
+    {
+      "title": "Does Dyslexia Hold You Back in Tech? Yes, but not for the reason you think",
+      "url": "https://dev.to/chadders13/does-dyslexia-hold-you-back-in-tech-yes-but-not-for-the-reason-you-think-4bec",
+      "published_at": "2026-03-14T07:02:04Z",
+      "description": "If you ask the average person how dyslexia affects a software engineer, they usually guess it’s about...",
+      "tags": [
+        "programming",
+        "management",
+        "productivity",
+        "dislexia"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tt6ve4yn4szbckqeybn.png",
+      "source": "Dev.to",
+      "user": "Andrew Chadwick"
     },
     {
       "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
@@ -1825,50 +1747,6 @@
       "user": "Stephen Collins"
     },
     {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
-      "title": "I'm frozen and I cannot move",
-      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
-      "published_at": "2026-03-13T15:44:02Z",
-      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
-      "source": "Dev.to",
-      "user": "Jan Küster 🔥"
-    },
-    {
-      "title": "Get started with GitHub Copilot SDK",
-      "url": "https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm",
-      "published_at": "2026-03-04T20:48:00Z",
-      "description": "This article explains what GitHub Copilot SDK is and why use it",
-      "tags": [
-        "githubcopilot",
-        "python",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcty891qm0yhp71exdmoe.png",
-      "source": "Dev.to",
-      "user": "Chris Noring"
-    },
-    {
       "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "published_at": "2026-03-13T00:35:39Z",
@@ -1880,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1763,
+      "stars": 1787,
       "user": "pasky"
     },
     {
@@ -1895,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 944,
       "user": "calesthio"
     },
     {
@@ -1910,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 458,
       "user": "KeyID-AI"
     },
     {
@@ -1955,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1596,
       "user": "wanshuiyin"
     },
     {
@@ -1970,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1061,
+      "stars": 1081,
       "user": "skernelx"
     },
     {
@@ -1985,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 839,
       "user": "aiming-lab"
     },
     {
@@ -2000,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 659,
       "user": "RightNow-AI"
     },
     {
@@ -2015,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 444,
       "user": "jackwener"
     },
     {
@@ -2045,8 +1923,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 79,
       "user": "WireRift"
+    },
+    {
+      "title": "ottogin/agenthub - Fork of Karpathy's agenthub",
+      "url": "https://github.com/ottogin/agenthub",
+      "published_at": "2026-03-11T17:23:54Z",
+      "description": "Fork of Karpathy's agenthub",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7385619?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "ottogin"
     },
     {
       "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
@@ -2064,21 +1957,6 @@
       "user": "QQ3221197721"
     },
     {
-      "title": "ottogin/agenthub - Fork of Karpathy's agenthub",
-      "url": "https://github.com/ottogin/agenthub",
-      "published_at": "2026-03-11T17:23:54Z",
-      "description": "Fork of Karpathy's agenthub",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7385619?v=4",
-      "source": "GitHub",
-      "stars": 73,
-      "user": "ottogin"
-    },
-    {
       "title": "nekohy/MeowCLI - 一个用于CLI反代的项目，追求更高性能，更优调度",
       "url": "https://github.com/nekohy/MeowCLI",
       "published_at": "2026-03-10T19:25:17Z",
@@ -2090,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152958106?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 70,
       "user": "nekohy"
     }
   ]
