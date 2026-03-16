@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-16-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (48.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.3%)
 
-**WebDev**: 🟦🟦 6 (5.7%)
-
-**Cloud**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦🟦 6 (5.8%)
 
 **Database**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦🟦 4 (3.8%)
+
+**Cloud**: 🟦 3 (2.9%)
 
 **DevOps**:  1 (1.0%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,14 +58,14 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.6 (27.6%)
-Java            █████████████████████████████ 26.4 (26.4%)
-Go              ██████████████████████ 20.7 (20.7%)
-Python          █████████████████████ 19.5 (19.5%)
-Ruby            ███ 2.3 (2.3%)
-PHP             █ 1.1 (1.1%)
-Rust            █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 27.9 (27.9%)
+Java            █████████████████████████████ 26.7 (26.7%)
+Go              █████████████████████ 19.8 (19.8%)
+Python          █████████████████████ 19.8 (19.8%)
+Ruby            ██ 2.3 (2.3%)
+PHP             █ 1.2 (1.2%)
+Rust            █ 1.2 (1.2%)
+CSharp          █ 1.2 (1.2%)
 
 ```
 
@@ -73,7 +73,7 @@ CSharp          █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 24
     "Java" : 23
-    "Go" : 18
+    "Go" : 17
     "Python" : 17
     "Ruby" : 2
     "PHP" : 1
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-16 22:00 CAT)
+## 📅 Latest Updates (2026-03-16 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -202,21 +202,21 @@ npm run test
 - [I Built a Browser UI for Claude Code — Here's Why](https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959) _[Dev.to]_
 - [One regex to match them all](https://dev.to/ferderer/one-regex-to-match-them-all-228h) _[Dev.to]_
 - [The Firebreak](https://dev.to/davidisnotnull/the-firebreak-1oej) _[Dev.to]_
-- [Rethinking Architecture in the AI Era — Part 1: Repository Management](https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4) _[Dev.to]_
 - [Fortran meets AI](https://dev.to/viksaaskool/fortran-meets-ai-3oac) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ilf) _[Dev.to]_
 - [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146) _[Dev.to]_
+- [Rethinking Architecture in the AI Era — Part 1: Repository Management](https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4) _[Dev.to]_
 - [Backstage logbook: Migrating the Catalog Plugin to the New Frontend System](https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
-- [Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)](https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh) _[Dev.to]_
 - [The Local AI Powerhouse](https://dev.to/amjadmh73/the-local-ai-powerhouse-28j) _[Dev.to]_
 - [Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL](https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i) _[Dev.to]_
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)](https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki) _[Dev.to]_
+- [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 
-_Last automated update: Mon, 16 Mar 2026 22:50:24 CAT_
+_Last automated update: Mon, 16 Mar 2026 23:35:27 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 16 Mar 2026 22:50:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Heap, stack, garbage collection
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Mar 2026 20:50:24 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Mar 2026 21:35:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

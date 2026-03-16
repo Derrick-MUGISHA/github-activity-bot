@@ -44,20 +44,6 @@
       "user": "Hamed Farag"
     },
     {
-      "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
-      "url": "https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4",
-      "published_at": "2026-03-16T06:24:31Z",
-      "description": "This is the first installment of a series on software product architecture for the AI age. There's no...",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
-      "source": "Dev.to",
-      "user": "Takahiro Ikeuchi"
-    },
-    {
       "title": "Fortran meets AI",
       "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
       "published_at": "2026-03-15T17:32:51Z",
@@ -84,6 +70,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
       "user": "Rowan Merewood"
+    },
+    {
+      "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
+      "url": "https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4",
+      "published_at": "2026-03-16T06:24:31Z",
+      "description": "This is the first installment of a series on software product architecture for the AI age. There's no...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
+      "source": "Dev.to",
+      "user": "Takahiro Ikeuchi"
     },
     {
       "title": "Your AI code reviewer has no one to disagree with",
@@ -607,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1834,
+      "stars": 1837,
       "user": "pasky"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1215,
       "user": "aiming-lab"
     },
     {
@@ -969,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1834,
+      "stars": 1837,
       "user": "pasky"
     },
     {
@@ -984,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1528,
+      "stars": 1590,
       "user": "calesthio"
     },
     {
@@ -1195,7 +1195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1653,
+      "stars": 1655,
       "user": "wanshuiyin"
     },
     {
@@ -1210,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1215,
       "user": "aiming-lab"
     },
     {
@@ -1380,19 +1380,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
       "source": "Dev.to",
       "user": "Providence Ifeosame"
-    },
-    {
-      "title": "Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)",
-      "url": "https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh",
-      "published_at": "2026-03-13T05:50:07Z",
-      "description": "Agregar un CDN parece algo obvio. Hasta que es lo único que se interpone entre tú y un deployment...",
-      "tags": [
-        "arquitecturacloud",
-        "decisionesdearquitec"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmy6ptkxm%2Fproduction%2F9d13dc1efcb777fb49b96bee3037d01ad6284260-1376x768.png",
-      "source": "Dev.to",
-      "user": "David De Los Santos Cuy Sánchez"
     },
     {
       "title": "Deployments made easy: Cloud Run 101",
@@ -1700,7 +1687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1834,
+      "stars": 1837,
       "user": "pasky"
     },
     {
@@ -1715,7 +1702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1528,
+      "stars": 1590,
       "user": "calesthio"
     },
     {
@@ -1775,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1653,
+      "stars": 1655,
       "user": "wanshuiyin"
     },
     {
@@ -1790,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1215,
       "user": "aiming-lab"
     },
     {
@@ -1865,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "WireRift"
     },
     {
