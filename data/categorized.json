@@ -89,21 +89,6 @@
       "user": "Mitiku Yohannes"
     },
     {
-      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
-      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
-      "published_at": "2026-03-14T22:50:01Z",
-      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
-      "tags": [
-        "productivity",
-        "tooling",
-        "ruby",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
-      "source": "Dev.to",
-      "user": "Mirzalazuardi"
-    },
-    {
       "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
       "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
       "published_at": "2026-03-14T20:02:03Z",
@@ -161,6 +146,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
       "source": "Dev.to",
       "user": "Mike Krop"
+    },
+    {
+      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
+      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
+      "published_at": "2026-03-14T22:50:01Z",
+      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "tags": [
+        "productivity",
+        "tooling",
+        "ruby",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "source": "Dev.to",
+      "user": "Mirzalazuardi"
     },
     {
       "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1477,
+      "stars": 1524,
       "user": "pasky"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "KeyID-AI"
     },
     {
@@ -702,21 +702,6 @@
       "user": "vasilytrofimchuk"
     },
     {
-      "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
-      "url": "https://github.com/aiming-lab/MetaClaw",
-      "published_at": "2026-03-09T13:47:13Z",
-      "description": "Just talk to your agent — it learns and EVOLVES.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
-      "source": "GitHub",
-      "stars": 1306,
-      "user": "aiming-lab"
-    },
-    {
       "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
       "url": "https://github.com/skernelx/tavily-key-generator",
       "published_at": "2026-03-14T04:12:22Z",
@@ -728,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 907,
       "user": "skernelx"
     },
     {
@@ -743,23 +728,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 645,
       "user": "RightNow-AI"
     },
     {
-      "title": "epiral/agent-clip - AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
-      "url": "https://github.com/epiral/agent-clip",
-      "published_at": "2026-03-09T07:25:56Z",
-      "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
+      "title": "aiming-lab/AutoResearchClaw - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
+      "url": "https://github.com/aiming-lab/AutoResearchClaw",
+      "published_at": "2026-03-15T03:38:49Z",
+      "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 311,
-      "user": "epiral"
+      "stars": 406,
+      "user": "aiming-lab"
     },
     {
       "title": "verssache/chatgpt-creator - A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
@@ -773,41 +758,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "verssache"
     },
     {
-      "title": "naorpeled/aitutor - vimtutor like guide for AI ",
-      "url": "https://github.com/naorpeled/aitutor",
-      "published_at": "2026-03-09T22:39:54Z",
-      "description": "vimtutor like guide for AI ",
+      "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
+      "url": "https://github.com/QQ3221197721/cloudai-fusion",
+      "published_at": "2026-03-12T13:03:35Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6171622?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
       "source": "GitHub",
-      "stars": 73,
-      "user": "naorpeled"
+      "stars": 60,
+      "user": "QQ3221197721"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
-      "tags": [
-        "ai",
-        "javascript",
-        "tooling",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
-      "source": "Dev.to",
-      "user": "Rowan Merewood"
-    },
     {
       "title": "Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to",
       "url": "https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj",
@@ -822,6 +792,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517694712202-14dd9538aa97%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1000%26q%3D80",
       "source": "Dev.to",
       "user": "Thiago Colen"
+    },
+    {
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
+      "tags": [
+        "ai",
+        "javascript",
+        "tooling",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
+      "source": "Dev.to",
+      "user": "Rowan Merewood"
     },
     {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
@@ -854,21 +839,6 @@
       "user": "Harsh "
     },
     {
-      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
-      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
-      "published_at": "2026-03-14T22:50:01Z",
-      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
-      "tags": [
-        "productivity",
-        "tooling",
-        "ruby",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
-      "source": "Dev.to",
-      "user": "Mirzalazuardi"
-    },
-    {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
       "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
       "published_at": "2026-03-11T17:30:00Z",
@@ -882,6 +852,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
+    },
+    {
+      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
+      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
+      "published_at": "2026-03-14T22:50:01Z",
+      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "tags": [
+        "productivity",
+        "tooling",
+        "ruby",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "source": "Dev.to",
+      "user": "Mirzalazuardi"
     },
     {
       "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
@@ -1089,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1477,
+      "stars": 1524,
       "user": "pasky"
     },
     {
@@ -1104,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 541,
       "user": "calesthio"
     },
     {
@@ -1119,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "KeyID-AI"
     },
     {
@@ -1149,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268460980?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 269,
       "user": "tomehq"
     }
   ],
@@ -1319,21 +1304,6 @@
       "user": "gilad"
     },
     {
-      "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
-      "url": "https://github.com/aiming-lab/MetaClaw",
-      "published_at": "2026-03-09T13:47:13Z",
-      "description": "Just talk to your agent — it learns and EVOLVES.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
-      "source": "GitHub",
-      "stars": 1306,
-      "user": "aiming-lab"
-    },
-    {
       "title": "wanshuiyin/Auto-claude-code-research-in-sleep - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
       "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "published_at": "2026-03-10T07:31:45Z",
@@ -1345,23 +1315,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1307,
       "user": "wanshuiyin"
-    },
-    {
-      "title": "knowsuchagency/mcp2cli - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-      "url": "https://github.com/knowsuchagency/mcp2cli",
-      "published_at": "2026-03-09T03:46:37Z",
-      "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
-      "source": "GitHub",
-      "stars": 1121,
-      "user": "knowsuchagency"
     },
     {
       "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
@@ -1375,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 907,
       "user": "skernelx"
     },
     {
@@ -1390,8 +1345,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 645,
       "user": "RightNow-AI"
+    },
+    {
+      "title": "aiming-lab/AutoResearchClaw - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
+      "url": "https://github.com/aiming-lab/AutoResearchClaw",
+      "published_at": "2026-03-15T03:38:49Z",
+      "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
+      "source": "GitHub",
+      "stars": 406,
+      "user": "aiming-lab"
+    },
+    {
+      "title": "jackwener/boss-cli - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
+      "url": "https://github.com/jackwener/boss-cli",
+      "published_at": "2026-03-13T20:30:08Z",
+      "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
+      "source": "GitHub",
+      "stars": 400,
+      "user": "jackwener"
     }
   ],
   "DevOps": [
@@ -1526,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 907,
       "user": "skernelx"
     }
   ],
@@ -1574,6 +1559,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvlqyu60ivbn5d9d4ki0.jpeg",
       "source": "Dev.to",
       "user": "Greg Baugues"
+    },
+    {
+      "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
+      "url": "https://github.com/QQ3221197721/cloudai-fusion",
+      "published_at": "2026-03-12T13:03:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
+      "source": "GitHub",
+      "stars": 60,
+      "user": "QQ3221197721"
     }
   ],
   "Database": [
@@ -1705,21 +1705,6 @@
   ],
   "Tools": [
     {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
-      "tags": [
-        "ai",
-        "javascript",
-        "tooling",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
-      "source": "Dev.to",
-      "user": "Rowan Merewood"
-    },
-    {
       "title": "Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to",
       "url": "https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj",
       "published_at": "2026-03-15T21:50:34Z",
@@ -1735,19 +1720,19 @@
       "user": "Thiago Colen"
     },
     {
-      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
-      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
-      "published_at": "2026-03-14T22:50:01Z",
-      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
       "tags": [
-        "productivity",
+        "ai",
+        "javascript",
         "tooling",
-        "ruby",
-        "javascript"
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
-      "user": "Mirzalazuardi"
+      "user": "Rowan Merewood"
     },
     {
       "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
@@ -1763,6 +1748,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
       "source": "Dev.to",
       "user": "Alex"
+    },
+    {
+      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
+      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
+      "published_at": "2026-03-14T22:50:01Z",
+      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "tags": [
+        "productivity",
+        "tooling",
+        "ruby",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "source": "Dev.to",
+      "user": "Mirzalazuardi"
     },
     {
       "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
@@ -1925,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1477,
+      "stars": 1524,
       "user": "pasky"
     },
     {
@@ -1940,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 541,
       "user": "calesthio"
     },
     {
@@ -1955,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "KeyID-AI"
     },
     {
@@ -1985,23 +1985,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268460980?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 269,
       "user": "tomehq"
-    },
-    {
-      "title": "aiming-lab/MetaClaw - Just talk to your agent — it learns and EVOLVES.",
-      "url": "https://github.com/aiming-lab/MetaClaw",
-      "published_at": "2026-03-09T13:47:13Z",
-      "description": "Just talk to your agent — it learns and EVOLVES.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
-      "source": "GitHub",
-      "stars": 1306,
-      "user": "aiming-lab"
     },
     {
       "title": "wanshuiyin/Auto-claude-code-research-in-sleep - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
@@ -2015,23 +2000,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1307,
       "user": "wanshuiyin"
-    },
-    {
-      "title": "knowsuchagency/mcp2cli - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-      "url": "https://github.com/knowsuchagency/mcp2cli",
-      "published_at": "2026-03-09T03:46:37Z",
-      "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11974795?v=4",
-      "source": "GitHub",
-      "stars": 1121,
-      "user": "knowsuchagency"
     },
     {
       "title": "skernelx/tavily-key-generator - Auto batch register Tavily API Keys with pluggable email backends",
@@ -2045,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 907,
       "user": "skernelx"
     },
     {
@@ -2060,23 +2030,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 645,
       "user": "RightNow-AI"
     },
     {
-      "title": "epiral/agent-clip - AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
-      "url": "https://github.com/epiral/agent-clip",
-      "published_at": "2026-03-09T07:25:56Z",
-      "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
+      "title": "aiming-lab/AutoResearchClaw - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
+      "url": "https://github.com/aiming-lab/AutoResearchClaw",
+      "published_at": "2026-03-15T03:38:49Z",
+      "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 311,
-      "user": "epiral"
+      "stars": 406,
+      "user": "aiming-lab"
+    },
+    {
+      "title": "jackwener/boss-cli - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
+      "url": "https://github.com/jackwener/boss-cli",
+      "published_at": "2026-03-13T20:30:08Z",
+      "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
+      "source": "GitHub",
+      "stars": 400,
+      "user": "jackwener"
     },
     {
       "title": "verssache/chatgpt-creator - A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
@@ -2090,38 +2075,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "verssache"
-    },
-    {
-      "title": "ygivenx/agenthub - GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
-      "url": "https://github.com/ygivenx/agenthub",
-      "published_at": "2026-03-09T19:35:44Z",
-      "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31292443?v=4",
-      "source": "GitHub",
-      "stars": 87,
-      "user": "ygivenx"
-    },
-    {
-      "title": "naorpeled/aitutor - vimtutor like guide for AI ",
-      "url": "https://github.com/naorpeled/aitutor",
-      "published_at": "2026-03-09T22:39:54Z",
-      "description": "vimtutor like guide for AI ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6171622?v=4",
-      "source": "GitHub",
-      "stars": 73,
-      "user": "naorpeled"
     },
     {
       "title": "ottogin/agenthub - Fork of Karpathy's agenthub",
@@ -2137,6 +2092,51 @@
       "source": "GitHub",
       "stars": 72,
       "user": "ottogin"
+    },
+    {
+      "title": "nekohy/MeowCLI - 一个用于CLI反代的项目，追求更高性能，更优调度",
+      "url": "https://github.com/nekohy/MeowCLI",
+      "published_at": "2026-03-10T19:25:17Z",
+      "description": "一个用于CLI反代的项目，追求更高性能，更优调度",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/152958106?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "nekohy"
+    },
+    {
+      "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
+      "url": "https://github.com/QQ3221197721/cloudai-fusion",
+      "published_at": "2026-03-12T13:03:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
+      "source": "GitHub",
+      "stars": 60,
+      "user": "QQ3221197721"
+    },
+    {
+      "title": "alialaee/logfile - Logfile is a reliable append-only log file optimized for SSD and concurrency. Most suitable for implementing WALs.",
+      "url": "https://github.com/alialaee/logfile",
+      "published_at": "2026-03-10T13:03:57Z",
+      "description": "Logfile is a reliable append-only log file optimized for SSD and concurrency. Most suitable for implementing WALs.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15520787?v=4",
+      "source": "GitHub",
+      "stars": 55,
+      "user": "alialaee"
     }
   ]
 }

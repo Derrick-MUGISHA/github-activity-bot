@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-15-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-16-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **WebDev**: 🟦🟦🟦 7 (6.7%)
 
 **Security**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦 4 (3.8%)
+**Cloud**: 🟦 4 (3.8%)
 
-**Cloud**: 🟦 3 (2.9%)
+**Database**: 🟦 4 (3.8%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-16 1:00 CAT)
+## 📅 Latest Updates (2026-03-16 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -133,19 +133,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/viksaaskool/fortran-meets-ai-3oac">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png" width="200" alt="Fortran meets AI" />
+    <a href="https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszl1776ybfjch84s9eaf.png" width="200" alt="Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL" />
       <br/>
-      <b>Fortran meets AI</b>
+      <b>Why I, as Someone Who Likes MySQL, Now Want to Rec...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg" width="200" alt="Gemini CLI and Jules: my March 2026 stack" />
+    <a href="https://dev.to/viksaaskool/fortran-meets-ai-3oac">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png" width="200" alt="Fortran meets AI" />
       <br/>
-      <b>Gemini CLI and Jules: my March 2026 stack</b>
+      <b>Fortran meets AI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -162,10 +162,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszl1776ybfjch84s9eaf.png" width="200" alt="Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL" />
+    <a href="https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg" width="200" alt="Gemini CLI and Jules: my March 2026 stack" />
       <br/>
-      <b>Why I, as Someone Who Likes MySQL, Now Want to Rec...</b>
+      <b>Gemini CLI and Jules: my March 2026 stack</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,16 +195,15 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Fortran meets AI](https://dev.to/viksaaskool/fortran-meets-ai-3oac) _[Dev.to]_
-- [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146) _[Dev.to]_
-- [Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to](https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj) _[Dev.to]_
 - [Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL](https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i) _[Dev.to]_
+- [Fortran meets AI](https://dev.to/viksaaskool/fortran-meets-ai-3oac) _[Dev.to]_
+- [Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to](https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj) _[Dev.to]_
+- [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ilf) _[Dev.to]_
 - [I Built EchoHR: The HR System That Doesn’t Ghost You](https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i) _[Dev.to]_
 - [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i) _[Dev.to]_
 - [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3) _[Dev.to]_
 - [mcp-pvp — Privacy Vault Protocol for MCP](https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80) _[Dev.to]_
-- [I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)](https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki) _[Dev.to]_
 - [I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.](https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl) _[Dev.to]_
 - [Your AI code reviewer has no one to disagree with](https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j) _[Dev.to]_
 - [Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)](https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh) _[Dev.to]_
@@ -212,11 +211,12 @@ npm run test
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
+- [I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)](https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki) _[Dev.to]_
 - [Lovable AI: Why the AI App Builder Is Suddenly Everywhere](https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 - [AI did a good job... and almost deleted everything](https://dev.to/eecolor/ai-did-a-good-job-and-almost-deleted-everything-1g8g) _[Dev.to]_
 
-_Last automated update: Mon, 16 Mar 2026 01:52:10 CAT_
+_Last automated update: Mon, 16 Mar 2026 04:04:34 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 16 Mar 2026 01:52:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 15 Mar 2026 23:52:10 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Mar 2026 02:04:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
