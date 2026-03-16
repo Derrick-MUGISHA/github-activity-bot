@@ -216,7 +216,7 @@ npm run test
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 - [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
 
-_Last automated update: Tue, 17 Mar 2026 01:28:16 CAT_
+_Last automated update: Tue, 17 Mar 2026 01:53:36 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 17 Mar 2026 01:28:16 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 16 Mar 2026 23:28:16 GMT</b><br/>
+  <b>Last automated update: Mon, 16 Mar 2026 23:53:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
