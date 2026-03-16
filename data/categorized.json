@@ -116,20 +116,6 @@
       "user": "Amjad Abujamous"
     },
     {
-      "title": "Ship Less, Measure More",
-      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
-      "published_at": "2026-03-06T22:07:43Z",
-      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
-      "tags": [
-        "ai",
-        "programming",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
-      "source": "Dev.to",
-      "user": "Mike Krop"
-    },
-    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -143,6 +129,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "Ship Less, Measure More",
+      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
+      "published_at": "2026-03-06T22:07:43Z",
+      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
+      "tags": [
+        "ai",
+        "programming",
+        "management"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
+      "source": "Dev.to",
+      "user": "Mike Krop"
     },
     {
       "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
@@ -235,21 +235,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
-      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
-      "published_at": "2026-03-12T02:26:38Z",
-      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
-      "source": "Dev.to",
-      "user": "ujja"
-    },
-    {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
       "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
       "published_at": "2026-03-12T10:51:33Z",
@@ -263,6 +248,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
+      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
+      "published_at": "2026-03-12T02:26:38Z",
+      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
+      "source": "Dev.to",
+      "user": "ujja"
     },
     {
       "title": "Параллелизм в ruby 1: создаем потоки",
@@ -624,7 +624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1818,
       "user": "pasky"
     },
     {
@@ -639,7 +639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 466,
       "user": "KeyID-AI"
     },
     {
@@ -669,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 1016,
       "user": "aiming-lab"
     },
     {
@@ -1000,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1818,
       "user": "pasky"
     },
     {
@@ -1015,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1285,
       "user": "calesthio"
     },
     {
@@ -1030,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 466,
       "user": "KeyID-AI"
     },
     {
@@ -1226,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1645,
       "user": "wanshuiyin"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1116,
       "user": "skernelx"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 1016,
       "user": "aiming-lab"
     },
     {
@@ -1746,7 +1746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1818,
       "user": "pasky"
     },
     {
@@ -1761,7 +1761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1285,
       "user": "calesthio"
     },
     {
@@ -1776,7 +1776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 466,
       "user": "KeyID-AI"
     },
     {
@@ -1821,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1645,
       "user": "wanshuiyin"
     },
     {
@@ -1836,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1116,
       "user": "skernelx"
     },
     {
@@ -1851,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 1016,
       "user": "aiming-lab"
     },
     {
