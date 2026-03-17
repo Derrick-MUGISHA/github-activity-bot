@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
-
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦 6 (5.7%)
+
+**Security**: 🟦🟦 5 (4.8%)
 
 **Cloud**: 🟦🟦 4 (3.8%)
 
@@ -58,22 +58,22 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.1 (28.1%)
-Java            ████████████████████████████ 25.8 (25.8%)
-Go              █████████████████████████ 23.6 (23.6%)
-Python          ███████████████████ 18.0 (18.0%)
-PHP             █ 1.1 (1.1%)
-Rust            █ 1.1 (1.1%)
-Ruby            █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 28.2 (28.2%)
+Java            █████████████████████████████ 27.1 (27.1%)
+Go              ███████████████████████ 21.2 (21.2%)
+Python          ████████████████████ 18.8 (18.8%)
+PHP             █ 1.2 (1.2%)
+Rust            █ 1.2 (1.2%)
+Ruby            █ 1.2 (1.2%)
+CSharp          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 25
+    "JavaScript" : 24
     "Java" : 23
-    "Go" : 21
+    "Go" : 18
     "Python" : 16
     "PHP" : 1
     "Rust" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![webdev](https://img.shields.io/badge/webdev-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![python](https://img.shields.io/badge/python-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-17 15:00 CAT)
+## 📅 Latest Updates (2026-03-17 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,10 +151,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/davidisnotnull/the-firebreak-1oej">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknxml40bwe38dxutg1fo.png" width="200" alt="The Firebreak" />
+    <a href="https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa75njgrwtidwzasd09xs.png" width="200" alt="What's in your headphones when you code? 🎧" />
       <br/>
-      <b>The Firebreak</b>
+      <b>What's in your headphones when you code? 🎧</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -162,28 +162,28 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png" width="200" alt="How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud" />
+    <a href="https://dev.to/axrisi/drop-your-challenge-submission-here-mej">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhmau6xvoeq6j7cm66s8i.png" width="200" alt="Drop Your Challenge Submission Here" />
       <br/>
-      <b>How I Built Niobe: An AI Waitress with Gemini Live...</b>
+      <b>Drop Your Challenge Submission Here</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ferderer/one-regex-to-match-them-all-228h">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png" width="200" alt="One regex to match them all" />
+    <a href="https://dev.to/annavi11arrea1/path-of-discovery-1aoi">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzfshy125kzqzmhz9ulbt.png" width="200" alt="Path of Discovery" />
       <br/>
-      <b>One regex to match them all</b>
+      <b>Path of Discovery</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcg8lsr1klr29eca86wab.png" width="200" alt="Backstage logbook: Migrating the Catalog Plugin to the New Frontend System" />
+    <a href="https://dev.to/davidisnotnull/the-firebreak-1oej">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknxml40bwe38dxutg1fo.png" width="200" alt="The Firebreak" />
       <br/>
-      <b>Backstage logbook: Migrating the Catalog Plugin to...</b>
+      <b>The Firebreak</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,6 +197,9 @@ npm run test
 
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
+- [What's in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4) _[Dev.to]_
+- [Drop Your Challenge Submission Here](https://dev.to/axrisi/drop-your-challenge-submission-here-mej) _[Dev.to]_
+- [Path of Discovery](https://dev.to/annavi11arrea1/path-of-discovery-1aoi) _[Dev.to]_
 - [The Firebreak](https://dev.to/davidisnotnull/the-firebreak-1oej) _[Dev.to]_
 - [How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud](https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28) _[Dev.to]_
 - [One regex to match them all](https://dev.to/ferderer/one-regex-to-match-them-all-228h) _[Dev.to]_
@@ -212,11 +215,8 @@ npm run test
 - [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146) _[Dev.to]_
 - [Rethinking Architecture in the AI Era — Part 1: Repository Management](https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
-- [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3) _[Dev.to]_
-- [mcp-pvp — Privacy Vault Protocol for MCP](https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80) _[Dev.to]_
-- [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7) _[Dev.to]_
 
-_Last automated update: Tue, 17 Mar 2026 15:51:12 CAT_
+_Last automated update: Tue, 17 Mar 2026 16:53:11 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 17 Mar 2026 15:51:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Mar 2026 13:51:12 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Mar 2026 14:53:11 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
