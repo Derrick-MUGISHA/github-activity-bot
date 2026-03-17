@@ -160,21 +160,6 @@
       "user": "Mitiku Yohannes"
     },
     {
-      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
-      "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
-      "published_at": "2026-03-12T22:48:44Z",
-      "description": "Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.",
-      "tags": [
-        "ai",
-        "knowledgesharing",
-        "stackoverflow",
-        "opinion"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrf1dw6vw34ymcqw1wfs.png",
-      "source": "Dev.to",
-      "user": "Sagiv ben giat"
-    },
-    {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
       "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
       "published_at": "2026-03-12T10:51:33Z",
@@ -291,6 +276,21 @@
       "user": "Firas M. Darwish"
     },
     {
+      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
+      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
+      "published_at": "2026-03-14T22:50:01Z",
+      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "tags": [
+        "productivity",
+        "tooling",
+        "ruby",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "source": "Dev.to",
+      "user": "Mirzalazuardi"
+    },
+    {
       "title": "When AI Writes the Code… Who Takes Responsibility?",
       "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
       "published_at": "2026-03-10T22:39:46Z",
@@ -319,6 +319,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
+    },
+    {
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
+      "source": "Dev.to",
+      "user": "Alex"
     },
     {
       "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
@@ -375,21 +390,6 @@
       "user": "EECOLOR"
     },
     {
-      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
-      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
-      "published_at": "2026-03-12T22:10:51Z",
-      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
-      "tags": [
-        "ai",
-        "mcp",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
-      "source": "Dev.to",
-      "user": "Sagiv ben giat"
-    },
-    {
       "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
       "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
       "published_at": "2026-03-04T20:19:27Z",
@@ -417,6 +417,50 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
       "source": "Dev.to",
       "user": "Antonio Di Motta"
+    },
+    {
+      "title": "I'm frozen and I cannot move",
+      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
+      "published_at": "2026-03-13T15:44:02Z",
+      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
+      "source": "Dev.to",
+      "user": "Jan Küster 🔥"
+    },
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
+    },
+    {
+      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
+      "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
+      "published_at": "2026-02-25T17:41:43Z",
+      "description": "Update: Winner announcement delayed to March 19. More info here.     Last week, we announced that DEV...",
+      "tags": [
+        "devchallenge",
+        "geminireflections",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -562,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1881,
+      "stars": 1913,
       "user": "pasky"
     },
     {
@@ -577,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 475,
       "user": "KeyID-AI"
     },
     {
@@ -607,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1652,
       "user": "aiming-lab"
     },
     {
@@ -622,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 664,
       "user": "RightNow-AI"
     },
     {
@@ -637,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 398,
       "user": "sstklen"
     },
     {
@@ -748,6 +792,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
+      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
+      "published_at": "2026-03-14T22:50:01Z",
+      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "tags": [
+        "productivity",
+        "tooling",
+        "ruby",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "source": "Dev.to",
+      "user": "Mirzalazuardi"
+    },
+    {
       "title": "i built a social platform where everything vanishes after 24 hours",
       "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
       "published_at": "2026-03-03T04:44:50Z",
@@ -776,6 +835,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
+    },
+    {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -909,7 +983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1913,
+      "stars": 2104,
       "user": "calesthio"
     },
     {
@@ -924,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1881,
+      "stars": 1913,
       "user": "pasky"
     },
     {
@@ -939,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 475,
       "user": "KeyID-AI"
     },
     {
@@ -969,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "epiral"
     }
   ],
@@ -1135,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1652,
       "user": "aiming-lab"
     },
     {
@@ -1150,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1147,
+      "stars": 1168,
       "user": "skernelx"
     },
     {
@@ -1165,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 664,
       "user": "RightNow-AI"
     },
     {
@@ -1180,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 448,
       "user": "jackwener"
     },
     {
@@ -1195,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 398,
       "user": "sstklen"
     }
   ],
@@ -1214,6 +1288,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
+    },
+    {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
     }
   ],
   "WebDev": [
@@ -1292,6 +1381,21 @@
       "user": "Martin Hicks"
     },
     {
+      "title": "Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle",
+      "url": "https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo",
+      "published_at": "2026-03-11T10:43:47Z",
+      "description": "I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "go",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncutg4ng658ewvh5e6zj.jpg",
+      "source": "Dev.to",
+      "user": "Supriya"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1335,6 +1439,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqitllupmbsfi2mml2opl.png",
       "source": "Dev.to",
       "user": "Martin Omander"
+    },
+    {
+      "title": "Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)",
+      "url": "https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh",
+      "published_at": "2026-03-13T05:50:07Z",
+      "description": "Agregar un CDN parece algo obvio. Hasta que es lo único que se interpone entre tú y un deployment...",
+      "tags": [
+        "arquitecturacloud",
+        "decisionesdearquitec"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmy6ptkxm%2Fproduction%2F9d13dc1efcb777fb49b96bee3037d01ad6284260-1376x768.png",
+      "source": "Dev.to",
+      "user": "David De Los Santos Cuy Sánchez"
     },
     {
       "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
@@ -1452,6 +1569,21 @@
       "user": "EECOLOR"
     },
     {
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
+      "tags": [
+        "security",
+        "git",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
+      "source": "Dev.to",
+      "user": "Yohei Seki"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1526,6 +1658,36 @@
       "user": "Andrew Chadwick"
     },
     {
+      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
+      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
+      "published_at": "2026-03-14T22:50:01Z",
+      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "tags": [
+        "productivity",
+        "tooling",
+        "ruby",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "source": "Dev.to",
+      "user": "Mirzalazuardi"
+    },
+    {
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
+      "source": "Dev.to",
+      "user": "Alex"
+    },
+    {
       "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
       "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
       "published_at": "2026-03-13T08:20:00Z",
@@ -1556,34 +1718,33 @@
       "user": "Chung Ho"
     },
     {
-      "title": "Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization",
-      "url": "https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44",
-      "published_at": "2026-03-12T22:10:51Z",
-      "description": "AI agents are powerful, but they don't know your organization. Learn how we solved the context gap with MCP servers to make AI truly 10x productive.",
+      "title": "I'm frozen and I cannot move",
+      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
+      "published_at": "2026-03-13T15:44:02Z",
+      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
       "tags": [
         "ai",
-        "mcp",
-        "devtools",
+        "programming",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3aauisppdlsxgjaw4hs0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
       "source": "Dev.to",
-      "user": "Sagiv ben giat"
+      "user": "Jan Küster 🔥"
     },
     {
-      "title": "I Built a CLI to Find the Riskiest Code in Any Repo — Introducing Hotspots",
-      "url": "https://dev.to/stephenc222/i-built-a-cli-to-find-the-riskiest-code-in-any-repo-introducing-hotspots-19ob",
-      "published_at": "2026-03-03T13:38:00Z",
-      "description": "Every team has those files. The ones everyone knows are dangerous. The ones where a \"simple\" change...",
+      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
+      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
+      "published_at": "2026-02-19T14:49:29Z",
+      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
       "tags": [
-        "codequality",
-        "developertools",
-        "techdebt",
-        "staticanalysis"
+        "security",
+        "git",
+        "ai",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcreo4nb0mbkbkedb3j45.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
-      "user": "Stephen Collins"
+      "user": "Yohei Seki"
     },
     {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
@@ -1597,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1913,
+      "stars": 2104,
       "user": "calesthio"
     },
     {
@@ -1612,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1881,
+      "stars": 1913,
       "user": "pasky"
     },
     {
@@ -1627,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 475,
       "user": "KeyID-AI"
     },
     {
@@ -1657,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "epiral"
     },
     {
@@ -1672,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1652,
       "user": "aiming-lab"
     },
     {
@@ -1687,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1147,
+      "stars": 1168,
       "user": "skernelx"
     },
     {
@@ -1702,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 664,
       "user": "RightNow-AI"
     },
     {
@@ -1717,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 448,
       "user": "jackwener"
     },
     {
@@ -1732,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 398,
       "user": "sstklen"
     },
     {
@@ -1792,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 55,
       "user": "roots"
     },
     {
@@ -1807,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213807046?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 51,
       "user": "gocronx"
     }
   ]
