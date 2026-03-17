@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-17 23:00 CAT)
+## 📅 Latest Updates (2026-03-18 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [neither naive nor nostalgic](https://dev.to/ingosteinke/neither-naive-nor-nostalgic-1mmp) _[Dev.to]_
 - [The Local AI Powerhouse](https://dev.to/amjadmh73/the-local-ai-powerhouse-28j) _[Dev.to]_
 
-_Last automated update: Tue, 17 Mar 2026 23:39:23 CAT_
+_Last automated update: Wed, 18 Mar 2026 00:05:12 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Tue, 17 Mar 2026 23:39:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Mar 2026 21:39:23 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Mar 2026 22:05:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
