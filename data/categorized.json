@@ -73,19 +73,6 @@
       "user": "Amjad Abujamous"
     },
     {
-      "title": "Fortran meets AI",
-      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
-      "published_at": "2026-03-15T17:32:51Z",
-      "description": "A computer science exam from 1978 and 2026 AI models ",
-      "tags": [
-        "fortran",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
-      "source": "Dev.to",
-      "user": " ViksaaSkool "
-    },
-    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -99,6 +86,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "Fortran meets AI",
+      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
+      "published_at": "2026-03-15T17:32:51Z",
+      "description": "A computer science exam from 1978 and 2026 AI models ",
+      "tags": [
+        "fortran",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
+      "source": "Dev.to",
+      "user": " ViksaaSkool "
     },
     {
       "title": "Ship Less, Measure More",
@@ -606,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1945,
+      "stars": 1952,
       "user": "pasky"
     },
     {
@@ -651,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1882,
+      "stars": 1926,
       "user": "aiming-lab"
     },
     {
@@ -681,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "sstklen"
     },
     {
@@ -983,7 +983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2333,
+      "stars": 2404,
       "user": "calesthio"
     },
     {
@@ -998,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1945,
+      "stars": 1952,
       "user": "pasky"
     },
     {
@@ -1209,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1882,
+      "stars": 1926,
       "user": "aiming-lab"
     },
     {
@@ -1224,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1189,
       "user": "skernelx"
     },
     {
@@ -1254,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 454,
       "user": "jackwener"
     },
     {
@@ -1269,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "sstklen"
     }
   ],
@@ -1758,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2333,
+      "stars": 2404,
       "user": "calesthio"
     },
     {
@@ -1773,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1945,
+      "stars": 1952,
       "user": "pasky"
     },
     {
@@ -1833,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1882,
+      "stars": 1926,
       "user": "aiming-lab"
     },
     {
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1189,
       "user": "skernelx"
     },
     {
@@ -1878,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 454,
       "user": "jackwener"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "sstklen"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "WireRift"
     },
     {
@@ -1953,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 57,
       "user": "roots"
     },
     {
