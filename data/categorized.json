@@ -204,6 +204,21 @@
       "user": "Takahiro Ikeuchi"
     },
     {
+      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
+      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
+      "published_at": "2026-03-16T14:42:02Z",
+      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
+      "tags": [
+        "rust",
+        "postgres",
+        "opensource",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
+      "source": "Dev.to",
+      "user": "Faruk Durgut"
+    },
+    {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
       "published_at": "2026-03-07T09:30:17Z",
@@ -232,21 +247,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
       "source": "Dev.to",
       "user": "Mitiku Yohannes"
-    },
-    {
-      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-      "published_at": "2026-03-12T10:51:33Z",
-      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "typescript",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -607,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2040,
+      "stars": 2042,
       "user": "pasky"
     },
     {
@@ -622,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 485,
       "user": "KeyID-AI"
     },
     {
@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 421,
       "user": "vasilytrofimchuk"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3652,
+      "stars": 3746,
       "user": "aiming-lab"
     },
     {
@@ -746,21 +746,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
-    },
-    {
-      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-      "published_at": "2026-03-12T10:51:33Z",
-      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "typescript",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
@@ -954,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2910,
+      "stars": 2928,
       "user": "calesthio"
     },
     {
@@ -969,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2040,
+      "stars": 2042,
       "user": "pasky"
     },
     {
@@ -984,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 485,
       "user": "KeyID-AI"
     },
     {
@@ -999,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 421,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1181,7 +1166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3652,
+      "stars": 3746,
       "user": "aiming-lab"
     },
     {
@@ -1196,7 +1181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1262,
       "user": "skernelx"
     },
     {
@@ -1226,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 482,
       "user": "nikmcfly"
     },
     {
@@ -1414,6 +1399,21 @@
     }
   ],
   "Database": [
+    {
+      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
+      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
+      "published_at": "2026-03-16T14:42:02Z",
+      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
+      "tags": [
+        "rust",
+        "postgres",
+        "opensource",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
+      "source": "Dev.to",
+      "user": "Faruk Durgut"
+    },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
@@ -1658,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2910,
+      "stars": 2928,
       "user": "calesthio"
     },
     {
@@ -1673,7 +1673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2040,
+      "stars": 2042,
       "user": "pasky"
     },
     {
@@ -1688,7 +1688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 485,
       "user": "KeyID-AI"
     },
     {
@@ -1703,7 +1703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 421,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1733,7 +1733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3652,
+      "stars": 3746,
       "user": "aiming-lab"
     },
     {
@@ -1748,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1262,
       "user": "skernelx"
     },
     {
@@ -1778,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 482,
       "user": "nikmcfly"
     },
     {
@@ -1797,6 +1797,21 @@
       "user": "jackwener"
     },
     {
+      "title": "antflydb/antfly - GitHub Repository",
+      "url": "https://github.com/antflydb/antfly",
+      "published_at": "2026-03-15T23:19:10Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
+      "source": "GitHub",
+      "stars": 119,
+      "user": "antflydb"
+    },
+    {
       "title": "WireRift/WireRift - Tear a rift through the wire. Expose localhost to the world.",
       "url": "https://github.com/WireRift/WireRift",
       "published_at": "2026-03-13T21:48:48Z",
@@ -1810,21 +1825,6 @@
       "source": "GitHub",
       "stars": 97,
       "user": "WireRift"
-    },
-    {
-      "title": "antflydb/antfly - GitHub Repository",
-      "url": "https://github.com/antflydb/antfly",
-      "published_at": "2026-03-15T23:19:10Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
-      "source": "GitHub",
-      "stars": 96,
-      "user": "antflydb"
     },
     {
       "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
