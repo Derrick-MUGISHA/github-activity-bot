@@ -16,19 +16,6 @@
       "user": "Providence Ifeosame"
     },
     {
-      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
-      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
-      "published_at": "2026-03-16T06:29:54Z",
-      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
-      "tags": [
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
-      "source": "Dev.to",
-      "user": "nghiahsgs"
-    },
-    {
       "title": "I Built a Browser UI for Claude Code — Here's Why",
       "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
       "published_at": "2026-03-16T08:15:44Z",
@@ -42,6 +29,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
       "source": "Dev.to",
       "user": "Hamed Farag"
+    },
+    {
+      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
+      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
+      "published_at": "2026-03-16T06:29:54Z",
+      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
+      "tags": [
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
+      "source": "Dev.to",
+      "user": "nghiahsgs"
     },
     {
       "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
@@ -606,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1913,
+      "stars": 1923,
       "user": "pasky"
     },
     {
@@ -651,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1652,
+      "stars": 1742,
       "user": "aiming-lab"
     },
     {
@@ -681,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 405,
       "user": "sstklen"
     },
     {
@@ -983,7 +983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2104,
+      "stars": 2184,
       "user": "calesthio"
     },
     {
@@ -998,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1913,
+      "stars": 1923,
       "user": "pasky"
     },
     {
@@ -1043,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "epiral"
     }
   ],
@@ -1209,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1652,
+      "stars": 1742,
       "user": "aiming-lab"
     },
     {
@@ -1224,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1168,
+      "stars": 1176,
       "user": "skernelx"
     },
     {
@@ -1269,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 405,
       "user": "sstklen"
     }
   ],
@@ -1758,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2104,
+      "stars": 2184,
       "user": "calesthio"
     },
     {
@@ -1773,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1913,
+      "stars": 1923,
       "user": "pasky"
     },
     {
@@ -1818,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "epiral"
     },
     {
@@ -1833,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1652,
+      "stars": 1742,
       "user": "aiming-lab"
     },
     {
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1168,
+      "stars": 1176,
       "user": "skernelx"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 405,
       "user": "sstklen"
     },
     {
