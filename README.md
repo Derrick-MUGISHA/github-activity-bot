@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-17-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,23 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**WebDev**: 🟦🟦 6 (5.7%)
-
-**Database**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
 **Cloud**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Database**: 🟦🟦 4 (3.8%)
+
+**Security**: 🟦 3 (2.9%)
 
 **DevOps**:  1 (1.0%)
+
+**Mobile**:  1 (1.0%)
 
 
 
@@ -58,34 +60,35 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.7 (26.7%)
-Java            █████████████████████████████ 25.6 (25.6%)
-Go              ███████████████████████ 20.9 (20.9%)
-Python          ██████████████████████ 19.8 (19.8%)
-Rust            ████ 3.5 (3.5%)
-PHP             █ 1.2 (1.2%)
-Ruby            █ 1.2 (1.2%)
-CSharp          █ 1.2 (1.2%)
+JavaScript      ██████████████████████████████ 28.1 (28.1%)
+Java            ████████████████████████████ 25.8 (25.8%)
+Go              ██████████████████████ 20.2 (20.2%)
+Python          ███████████████████ 18.0 (18.0%)
+Rust            ████ 3.4 (3.4%)
+Swift           █ 1.1 (1.1%)
+PHP             █ 1.1 (1.1%)
+Ruby            █ 1.1 (1.1%)
+CSharp          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
-    "Java" : 22
+    "JavaScript" : 25
+    "Java" : 23
     "Go" : 18
-    "Python" : 17
+    "Python" : 16
     "Rust" : 3
+    "Swift" : 1
     "PHP" : 1
     "Ruby" : 1
-    "CSharp" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
 
 
 
@@ -125,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-17 22:00 CAT)
+## 📅 Latest Updates (2026-03-17 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -180,10 +183,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png" width="200" alt="Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP" />
+    <a href="https://dev.to/annavi11arrea1/path-of-discovery-1aoi">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzfshy125kzqzmhz9ulbt.png" width="200" alt="Path of Discovery" />
       <br/>
-      <b>Full Circle: Giving My AI's Knowledge Graph a Noti...</b>
+      <b>Path of Discovery</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,23 +203,23 @@ npm run test
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [Drop Your Challenge Submission Here](https://dev.to/axrisi/drop-your-challenge-submission-here-mej) _[Dev.to]_
 - [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
-- [Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP](https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp) _[Dev.to]_
 - [Path of Discovery](https://dev.to/annavi11arrea1/path-of-discovery-1aoi) _[Dev.to]_
+- [Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP](https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp) _[Dev.to]_
 - [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o) _[Dev.to]_
 - [Who's hiring — March 2026](https://dev.to/fmerian/whos-hiring-march-2026-229i) _[Dev.to]_
+- [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o) _[Dev.to]_
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
+- [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
+- [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm) _[Dev.to]_
+- [Partitioning PotgreSQL Database](https://dev.to/bohdanstupak1/partitioning-potgresql-database-26be) _[Dev.to]_
 - [How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud](https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28) _[Dev.to]_
+- [Git Worktrees Are Underrated](https://dev.to/morellodev/git-worktrees-are-underrated-2k9) _[Dev.to]_
+- [How I give my AI agents eyes with a single API call](https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad) _[Dev.to]_
+- [Human-in-the-Loop AI Agents with Google ADK and Telegram](https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd) _[Dev.to]_
 - [neither naive nor nostalgic](https://dev.to/ingosteinke/neither-naive-nor-nostalgic-1mmp) _[Dev.to]_
 - [The Local AI Powerhouse](https://dev.to/amjadmh73/the-local-ai-powerhouse-28j) _[Dev.to]_
-- [I built an open-source "focus group simulator" that spawns 1,000 AI customers to roast your startup idea](https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o) _[Dev.to]_
-- [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3) _[Dev.to]_
-- [I Built a Browser UI for Claude Code — Here's Why](https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959) _[Dev.to]_
-- [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
-- [Fortran meets AI](https://dev.to/viksaaskool/fortran-meets-ai-3oac) _[Dev.to]_
-- [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
-- [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146) _[Dev.to]_
 
-_Last automated update: Tue, 17 Mar 2026 22:57:07 CAT_
+_Last automated update: Tue, 17 Mar 2026 23:39:23 CAT_
 
 
 
@@ -224,36 +227,36 @@ _Last automated update: Tue, 17 Mar 2026 22:57:07 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Mar 2026 20:57:07 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Mar 2026 21:39:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

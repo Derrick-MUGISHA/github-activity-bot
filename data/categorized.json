@@ -46,6 +46,21 @@
       "user": "Jeffrey Mew"
     },
     {
+      "title": "Confident and Wrong",
+      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
+      "published_at": "2026-03-17T20:07:24Z",
+      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
+      "tags": [
+        "ai",
+        "swift",
+        "programming",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
+      "source": "Dev.to",
+      "user": "Max"
+    },
+    {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
       "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
       "published_at": "2026-03-17T16:00:00Z",
@@ -61,6 +76,31 @@
       "user": "DigitalOcean"
     },
     {
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
+      "source": "Dev.to",
+      "user": "Typing Turtle"
+    },
+    {
+      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
+      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
+      "published_at": "2026-03-17T17:43:25Z",
+      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
+      "tags": [
+        "ai",
+        "opensource",
+        "claudecode",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
+      "source": "Dev.to",
+      "user": "Justin Headley"
+    },
+    {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
       "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
       "published_at": "2026-03-16T13:30:29Z",
@@ -74,6 +114,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
       "source": "Dev.to",
       "user": "Providence Ifeosame"
+    },
+    {
+      "title": "Git Worktrees Are Underrated",
+      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
+      "published_at": "2026-03-16T22:07:48Z",
+      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
+      "tags": [
+        "git",
+        "cli",
+        "productivity",
+        "rust"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
+      "source": "Dev.to",
+      "user": "Dennis Morello"
+    },
+    {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
+    },
+    {
+      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
+      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
+      "published_at": "2026-03-16T19:05:58Z",
+      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "tags": [
+        "ai",
+        "googleadk",
+        "fastapi",
+        "telegram"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "source": "Dev.to",
+      "user": "James Zhang"
     },
     {
       "title": "neither naive nor nostalgic",
@@ -202,51 +287,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
       "source": "Dev.to",
       "user": "Takahiro Ikeuchi"
-    },
-    {
-      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
-      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
-      "published_at": "2026-03-16T14:42:02Z",
-      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
-      "tags": [
-        "rust",
-        "postgres",
-        "opensource",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
-      "source": "Dev.to",
-      "user": "Faruk Durgut"
-    },
-    {
-      "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
-      "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
-      "published_at": "2026-03-07T09:30:17Z",
-      "description": "I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.",
-      "tags": [
-        "postgres",
-        "ai",
-        "machinelearning",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Ahmet Zeybek"
-    },
-    {
-      "title": "mcp-pvp — Privacy Vault Protocol for MCP",
-      "url": "https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80",
-      "published_at": "2026-03-14T23:54:23Z",
-      "description": "Inspiration   We were building an AI agent that handled customer support emails. The agent...",
-      "tags": [
-        "ai",
-        "security",
-        "privacy",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
-      "source": "Dev.to",
-      "user": "Mitiku Yohannes"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -652,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3746,
+      "stars": 3804,
       "user": "aiming-lab"
     },
     {
@@ -687,6 +727,36 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
+      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
+      "published_at": "2026-03-17T17:43:25Z",
+      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
+      "tags": [
+        "ai",
+        "opensource",
+        "claudecode",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
+      "source": "Dev.to",
+      "user": "Justin Headley"
+    },
+    {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
+    },
     {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
@@ -939,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2928,
+      "stars": 2950,
       "user": "calesthio"
     },
     {
@@ -1020,19 +1090,19 @@
       "user": "Oleksander"
     },
     {
-      "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
-      "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
-      "published_at": "2026-03-07T09:30:17Z",
-      "description": "I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.",
+      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
+      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
+      "published_at": "2026-03-16T19:05:58Z",
+      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
       "tags": [
-        "postgres",
         "ai",
-        "machinelearning",
-        "tutorial"
+        "googleadk",
+        "fastapi",
+        "telegram"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
       "source": "Dev.to",
-      "user": "Ahmet Zeybek"
+      "user": "James Zhang"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1166,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3746,
+      "stars": 3804,
       "user": "aiming-lab"
     },
     {
@@ -1211,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 489,
       "user": "nikmcfly"
     },
     {
@@ -1262,20 +1332,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
-    },
-    {
-      "title": "Backstage logbook: Migrating the Catalog Plugin to the New Frontend System",
-      "url": "https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6",
-      "published_at": "2026-03-15T23:14:56Z",
-      "description": "The Backstage new frontend system support is growing, and I figured I needed to carve out some time to really understand it. I took the Catalog plugin migration, from the legacy frontend system to the new one, as my learning ground to see how all the different customisation points work in practice. Here you'll see my process following the migration, step by step.",
-      "tags": [
-        "backstage",
-        "nfs",
-        "migrations"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcg8lsr1klr29eca86wab.png",
-      "source": "Dev.to",
-      "user": "sarabadu"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1335,7 +1391,23 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "Confident and Wrong",
+      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
+      "published_at": "2026-03-17T20:07:24Z",
+      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
+      "tags": [
+        "ai",
+        "swift",
+        "programming",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
+      "source": "Dev.to",
+      "user": "Max"
+    }
+  ],
   "Cloud": [
     {
       "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
@@ -1400,34 +1472,19 @@
   ],
   "Database": [
     {
-      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
-      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
-      "published_at": "2026-03-16T14:42:02Z",
-      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
+      "title": "Partitioning PotgreSQL Database",
+      "url": "https://dev.to/bohdanstupak1/partitioning-potgresql-database-26be",
+      "published_at": "2026-03-17T10:02:50Z",
+      "description": "Overview of how using pg_partman and pg_cron allowed to drastically reduce query time for a large table",
       "tags": [
-        "rust",
+        "sql",
         "postgres",
-        "opensource",
-        "showdev"
+        "architecture",
+        "performance"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6f00c7xnlqb7wjja40i3.png",
       "source": "Dev.to",
-      "user": "Faruk Durgut"
-    },
-    {
-      "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
-      "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
-      "published_at": "2026-03-07T09:30:17Z",
-      "description": "I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.",
-      "tags": [
-        "postgres",
-        "ai",
-        "machinelearning",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Ahmet Zeybek"
+      "user": "Bohdan Stupak"
     },
     {
       "title": "Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL",
@@ -1473,21 +1530,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "mcp-pvp — Privacy Vault Protocol for MCP",
-      "url": "https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80",
-      "published_at": "2026-03-14T23:54:23Z",
-      "description": "Inspiration   We were building an AI agent that handled customer support emails. The agent...",
-      "tags": [
-        "ai",
-        "security",
-        "privacy",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
-      "source": "Dev.to",
-      "user": "Mitiku Yohannes"
-    },
     {
       "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
       "url": "https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk",
@@ -1542,6 +1584,21 @@
       "user": "Juan David Gómez"
     },
     {
+      "title": "Git Worktrees Are Underrated",
+      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
+      "published_at": "2026-03-16T22:07:48Z",
+      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
+      "tags": [
+        "git",
+        "cli",
+        "productivity",
+        "rust"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
+      "source": "Dev.to",
+      "user": "Dennis Morello"
+    },
+    {
       "title": "Gemini CLI and Jules: my March 2026 stack",
       "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
       "published_at": "2026-03-15T17:28:43Z",
@@ -1555,21 +1612,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
       "user": "Rowan Merewood"
-    },
-    {
-      "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
-      "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
-      "published_at": "2026-03-06T16:03:22Z",
-      "description": "TL;DR    Enable the Kitty keyboard protocol in your terminal (WezTerm: add...",
-      "tags": [
-        "claudecode",
-        "terminal",
-        "wezterm",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvor2ooqmwkv6vkstlqex.png",
-      "source": "Dev.to",
-      "user": "Richard Oliver Bray"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -1658,7 +1700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2928,
+      "stars": 2950,
       "user": "calesthio"
     },
     {
@@ -1733,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3746,
+      "stars": 3804,
       "user": "aiming-lab"
     },
     {
@@ -1778,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 489,
       "user": "nikmcfly"
     },
     {
@@ -1808,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 127,
       "user": "antflydb"
     },
     {
@@ -1853,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7385619?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "ottogin"
     },
     {
