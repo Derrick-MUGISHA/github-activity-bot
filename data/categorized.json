@@ -391,20 +391,6 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "MCP Server with .Net",
-      "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
-      "published_at": "2026-03-12T22:52:52Z",
-      "description": "Building a MCP Server with C#",
-      "tags": [
-        "dotnet",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
-      "source": "Dev.to",
-      "user": "Antonio Di Motta"
-    },
-    {
       "title": "I'm frozen and I cannot move",
       "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
       "published_at": "2026-03-13T15:44:02Z",
@@ -417,6 +403,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
       "source": "Dev.to",
       "user": "Jan Küster 🔥"
+    },
+    {
+      "title": "MCP Server with .Net",
+      "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
+      "published_at": "2026-03-12T22:52:52Z",
+      "description": "Building a MCP Server with C#",
+      "tags": [
+        "dotnet",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
+      "source": "Dev.to",
+      "user": "Antonio Di Motta"
     },
     {
       "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
@@ -447,6 +447,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvc3dbelefz6aqxv3uep.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
+    },
+    {
+      "title": "Параллелизм в ruby 1: создаем потоки",
+      "url": "https://dev.to/kopylov_vlad/parallielizm-v-ruby-1-sozdaiem-potoki-2i83",
+      "published_at": "2026-03-13T19:41:58Z",
+      "description": "я бы хотел бы поставить точки над i в тему тредов и ракторов, как минимум сам для себя; посмотреть какие задачи на параллелизм решаются в других языках, что можно оттуда подчеркнуть и перенести в Ruby",
+      "tags": [
+        "ruby",
+        "rails",
+        "thread"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhna0rvxcn7y5quc1xic.jpeg",
+      "source": "Dev.to",
+      "user": "Vladislav Kopylov"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -592,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 1977,
       "user": "pasky"
     },
     {
@@ -637,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 2149,
+      "stars": 2256,
       "user": "aiming-lab"
     },
     {
@@ -667,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "sstklen"
     },
     {
@@ -969,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2631,
+      "stars": 2652,
       "user": "calesthio"
     },
     {
@@ -984,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 1977,
       "user": "pasky"
     },
     {
@@ -1029,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "epiral"
     }
   ],
@@ -1048,20 +1077,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
       "source": "Dev.to",
       "user": "Ahmet Zeybek"
-    },
-    {
-      "title": "Djangonaut Diaries: Week 1 - Setting up the stage (and the machine)",
-      "url": "https://dev.to/rodbv/djangonaut-diaries-week-1-setting-the-stage-and-the-machine-592h",
-      "published_at": "2026-03-11T23:01:22Z",
-      "description": "I am officially a Djangonaut! Joining the latest cohort (Session 6) of the Djangonaut Space program...",
-      "tags": [
-        "djangonaut",
-        "django",
-        "howto"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptvp905rxq3pgwny5dmb.jpeg",
-      "source": "Dev.to",
-      "user": "rodbv"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1195,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 2149,
+      "stars": 2256,
       "user": "aiming-lab"
     },
     {
@@ -1210,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1202,
       "user": "skernelx"
     },
     {
@@ -1240,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "jackwener"
     },
     {
@@ -1255,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "sstklen"
     }
   ],
@@ -1472,6 +1487,21 @@
       "user": "Ahmet Zeybek"
     },
     {
+      "title": "Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL",
+      "url": "https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i",
+      "published_at": "2026-03-15T05:48:21Z",
+      "description": "Why I now recommend PostgreSQL for new applications, even though I still like MySQL and have used it for a long time.",
+      "tags": [
+        "mysql",
+        "postgres",
+        "database",
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszl1776ybfjch84s9eaf.png",
+      "source": "Dev.to",
+      "user": "catatsuy"
+    },
+    {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
       "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
       "published_at": "2026-03-07T17:10:00Z",
@@ -1553,6 +1583,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
       "source": "Dev.to",
       "user": "Yohei Seki"
+    },
+    {
+      "title": "Multi-Connector OAuth: Meeting Scheduler Agent using Google Calendar, Gmail, Scalekit",
+      "url": "https://dev.to/saif_shines/multi-connector-oauth-meeting-scheduler-agent-using-google-calendar-gmail-scalekit-89e",
+      "published_at": "2026-03-12T10:46:15Z",
+      "description": "Scheduling a meeting takes three API calls: check availability, create the event, and draft the...",
+      "tags": [
+        "ai",
+        "security",
+        "authentication",
+        "oauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
+      "source": "Dev.to",
+      "user": "Saif "
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1729,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2631,
+      "stars": 2652,
       "user": "calesthio"
     },
     {
@@ -1744,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 1977,
       "user": "pasky"
     },
     {
@@ -1789,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "epiral"
     },
     {
@@ -1804,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 2149,
+      "stars": 2256,
       "user": "aiming-lab"
     },
     {
@@ -1819,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1202,
       "user": "skernelx"
     },
     {
@@ -1849,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "jackwener"
     },
     {
@@ -1864,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "sstklen"
     },
     {
@@ -1879,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "WireRift"
     },
     {
@@ -1928,19 +1973,19 @@
       "user": "roots"
     },
     {
-      "title": "gocronx/seqdelay - High-performance delay queue",
-      "url": "https://github.com/gocronx/seqdelay",
-      "published_at": "2026-03-15T17:17:26Z",
-      "description": "High-performance delay queue",
+      "title": "agi-bar/clawcolony - claw, claw and claw",
+      "url": "https://github.com/agi-bar/clawcolony",
+      "published_at": "2026-03-16T00:41:53Z",
+      "description": "claw, claw and claw",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/213807046?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 55,
-      "user": "gocronx"
+      "stars": 56,
+      "user": "agi-bar"
     }
   ]
 }
