@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
 **WebDev**: 🟦🟦 6 (5.7%)
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![wecoded](https://img.shields.io/badge/wecoded-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-17 16:00 CAT)
+## 📅 Latest Updates (2026-03-17 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -162,10 +162,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/axrisi/drop-your-challenge-submission-here-mej">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhmau6xvoeq6j7cm66s8i.png" width="200" alt="Drop Your Challenge Submission Here" />
+    <a href="https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png" width="200" alt="Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP" />
       <br/>
-      <b>Drop Your Challenge Submission Here</b>
+      <b>Full Circle: Giving My AI's Knowledge Graph a Noti...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/davidisnotnull/the-firebreak-1oej">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknxml40bwe38dxutg1fo.png" width="200" alt="The Firebreak" />
+    <a href="https://dev.to/axrisi/drop-your-challenge-submission-here-mej">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhmau6xvoeq6j7cm66s8i.png" width="200" alt="Drop Your Challenge Submission Here" />
       <br/>
-      <b>The Firebreak</b>
+      <b>Drop Your Challenge Submission Here</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,25 +198,25 @@ npm run test
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [What's in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4) _[Dev.to]_
-- [Drop Your Challenge Submission Here](https://dev.to/axrisi/drop-your-challenge-submission-here-mej) _[Dev.to]_
+- [Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP](https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp) _[Dev.to]_
 - [Path of Discovery](https://dev.to/annavi11arrea1/path-of-discovery-1aoi) _[Dev.to]_
+- [Drop Your Challenge Submission Here](https://dev.to/axrisi/drop-your-challenge-submission-here-mej) _[Dev.to]_
 - [The Firebreak](https://dev.to/davidisnotnull/the-firebreak-1oej) _[Dev.to]_
 - [How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud](https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28) _[Dev.to]_
-- [One regex to match them all](https://dev.to/ferderer/one-regex-to-match-them-all-228h) _[Dev.to]_
-- [Backstage logbook: Migrating the Catalog Plugin to the New Frontend System](https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6) _[Dev.to]_
 - [neither naive nor nostalgic](https://dev.to/ingosteinke/neither-naive-nor-nostalgic-1mmp) _[Dev.to]_
 - [The Local AI Powerhouse](https://dev.to/amjadmh73/the-local-ai-powerhouse-28j) _[Dev.to]_
 - [I built an open-source "focus group simulator" that spawns 1,000 AI customers to roast your startup idea](https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o) _[Dev.to]_
 - [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3) _[Dev.to]_
+- [I Built a Browser UI for Claude Code — Here's Why](https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959) _[Dev.to]_
 - [Elvis (?:) vs Null Coalescing (??) in PHP: A Practical Guide for WordPress Developers](https://dev.to/abbeymaniak/elvis-vs-null-coalescing-in-php-a-practical-guide-for-wordpress-developers-3ih4) _[Dev.to]_
 - [Fortran meets AI](https://dev.to/viksaaskool/fortran-meets-ai-3oac) _[Dev.to]_
-- [I Built a Browser UI for Claude Code — Here's Why](https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959) _[Dev.to]_
 - [Ship Less, Measure More](https://dev.to/snowman647/ship-less-measure-more-58m4) _[Dev.to]_
 - [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146) _[Dev.to]_
 - [Rethinking Architecture in the AI Era — Part 1: Repository Management](https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4) _[Dev.to]_
+- [One regex to match them all](https://dev.to/ferderer/one-regex-to-match-them-all-228h) _[Dev.to]_
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8) _[Dev.to]_
 
-_Last automated update: Tue, 17 Mar 2026 16:53:11 CAT_
+_Last automated update: Tue, 17 Mar 2026 18:02:45 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 17 Mar 2026 16:53:11 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Heap, stack, garbage collection
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Mar 2026 14:53:11 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Mar 2026 16:02:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
