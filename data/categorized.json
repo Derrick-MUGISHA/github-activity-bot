@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
+      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
+      "published_at": "2026-03-17T12:19:42Z",
+      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
+      "tags": [
+        "ai",
+        "memory",
+        "rust",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
+      "source": "Dev.to",
+      "user": "Oleksander"
+    },
+    {
       "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
       "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
       "published_at": "2026-03-17T06:06:10Z",
@@ -16,19 +31,34 @@
       "user": "Juan David Gómez"
     },
     {
-      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
-      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
-      "published_at": "2026-03-17T12:19:42Z",
-      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
+      "published_at": "2026-03-17T18:32:57Z",
+      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
       "tags": [
-        "ai",
-        "memory",
-        "rust",
-        "python"
+        "cloud",
+        "agents",
+        "mcp",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
       "source": "Dev.to",
-      "user": "Oleksander"
+      "user": "Jeffrey Mew"
+    },
+    {
+      "title": "Getting Started with Qwen3.5 Vision-Language Models",
+      "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
+      "published_at": "2026-03-17T16:00:00Z",
+      "description": "This article was originally written by James Skelton (Senior AI/ML Technical Content Strategist...",
+      "tags": [
+        "qwen",
+        "learning",
+        "aimodels",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flyhk43dl0t2ua178arvd.png",
+      "source": "Dev.to",
+      "user": "DigitalOcean"
     },
     {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
@@ -234,6 +264,33 @@
       "user": "Sovereign Revenue Guard"
     },
     {
+      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
+      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
+      "published_at": "2026-03-12T02:26:38Z",
+      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
+      "source": "Dev.to",
+      "user": "ujja"
+    },
+    {
+      "title": "Clojure Inheritance… Sort Of",
+      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
+      "published_at": "2026-03-12T05:49:43Z",
+      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
+      "tags": [
+        "clojure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
+      "source": "Dev.to",
+      "user": "Paula Gearon"
+    },
+    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -339,21 +396,6 @@
       "user": "Slee Woo"
     },
     {
-      "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
-      "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
-      "published_at": "2026-03-13T08:20:00Z",
-      "description": "Over the past months Lovable AI has spread rapidly across startup communities, AI builders, and...",
-      "tags": [
-        "lovable",
-        "ai",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yjqj6u9zlxgnrcsu409.png",
-      "source": "Dev.to",
-      "user": "Ali Farhat"
-    },
-    {
       "title": "Oooh very interesting",
       "url": "https://dev.to/ben/oooh-very-interesting-ohk",
       "published_at": "2026-03-03T16:12:24Z",
@@ -408,20 +450,6 @@
       "user": "Jon Gottfried"
     },
     {
-      "title": "I'm frozen and I cannot move",
-      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
-      "published_at": "2026-03-13T15:44:02Z",
-      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
-      "source": "Dev.to",
-      "user": "Jan Küster 🔥"
-    },
-    {
       "title": "MCP Server with .Net",
       "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
       "published_at": "2026-03-12T22:52:52Z",
@@ -434,21 +462,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kngrc72v2awjxz6qm6w.jpg",
       "source": "Dev.to",
       "user": "Antonio Di Motta"
-    },
-    {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -594,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2032,
+      "stars": 2036,
       "user": "pasky"
     },
     {
@@ -639,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3442,
+      "stars": 3577,
       "user": "aiming-lab"
     },
     {
@@ -654,23 +667,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 679,
       "user": "RightNow-AI"
-    },
-    {
-      "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "url": "https://github.com/sstklen/trump-code",
-      "published_at": "2026-03-15T03:13:51Z",
-      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
-      "source": "GitHub",
-      "stars": 458,
-      "user": "sstklen"
     },
     {
       "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
@@ -956,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2854,
+      "stars": 2887,
       "user": "calesthio"
     },
     {
@@ -971,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2032,
+      "stars": 2036,
       "user": "pasky"
     },
     {
@@ -1183,7 +1181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3442,
+      "stars": 3577,
       "user": "aiming-lab"
     },
     {
@@ -1198,7 +1196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1259,
       "user": "skernelx"
     },
     {
@@ -1213,8 +1211,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 679,
       "user": "RightNow-AI"
+    },
+    {
+      "title": "nikmcfly/MiroFish-Offline - Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+      "url": "https://github.com/nikmcfly/MiroFish-Offline",
+      "published_at": "2026-03-14T22:54:19Z",
+      "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
+      "source": "GitHub",
+      "stars": 469,
+      "user": "nikmcfly"
     },
     {
       "title": "jackwener/boss-cli - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
@@ -1230,21 +1243,6 @@
       "source": "GitHub",
       "stars": 464,
       "user": "jackwener"
-    },
-    {
-      "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "url": "https://github.com/sstklen/trump-code",
-      "published_at": "2026-03-15T03:13:51Z",
-      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
-      "source": "GitHub",
-      "stars": 458,
-      "user": "sstklen"
     }
   ],
   "DevOps": [
@@ -1262,21 +1260,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
-    },
-    {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
     }
   ],
   "WebDev": [
@@ -1370,6 +1353,21 @@
   "Mobile": [],
   "Cloud": [
     {
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
+      "published_at": "2026-03-17T18:32:57Z",
+      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
+      "tags": [
+        "cloud",
+        "agents",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
+      "source": "Dev.to",
+      "user": "Jeffrey Mew"
+    },
+    {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
       "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
       "published_at": "2026-03-16T13:30:29Z",
@@ -1398,19 +1396,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqitllupmbsfi2mml2opl.png",
       "source": "Dev.to",
       "user": "Martin Omander"
-    },
-    {
-      "title": "Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)",
-      "url": "https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh",
-      "published_at": "2026-03-13T05:50:07Z",
-      "description": "Agregar un CDN parece algo obvio. Hasta que es lo único que se interpone entre tú y un deployment...",
-      "tags": [
-        "arquitecturacloud",
-        "decisionesdearquitec"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmy6ptkxm%2Fproduction%2F9d13dc1efcb777fb49b96bee3037d01ad6284260-1376x768.png",
-      "source": "Dev.to",
-      "user": "David De Los Santos Cuy Sánchez"
     },
     {
       "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
@@ -1526,21 +1511,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvixeq9uph0ypabwi6gl.png",
       "source": "Dev.to",
       "user": "EECOLOR"
-    },
-    {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1662,21 +1632,6 @@
       "user": "Alex"
     },
     {
-      "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
-      "url": "https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442",
-      "published_at": "2026-03-13T08:20:00Z",
-      "description": "Over the past months Lovable AI has spread rapidly across startup communities, AI builders, and...",
-      "tags": [
-        "lovable",
-        "ai",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yjqj6u9zlxgnrcsu409.png",
-      "source": "Dev.to",
-      "user": "Ali Farhat"
-    },
-    {
       "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
       "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
       "published_at": "2026-03-06T17:12:22Z",
@@ -1692,35 +1647,6 @@
       "user": "Chung Ho"
     },
     {
-      "title": "I'm frozen and I cannot move",
-      "url": "https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g",
-      "published_at": "2026-03-13T15:44:02Z",
-      "description": "This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9hpfhod5fdqzi0c7hgf.png",
-      "source": "Dev.to",
-      "user": "Jan Küster 🔥"
-    },
-    {
-      "title": "Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools",
-      "url": "https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo",
-      "published_at": "2026-02-19T14:49:29Z",
-      "description": "Even if you delete a secret, Git never forgets. This article explores how the .git directory, git commands, and malicious AI tools or plugins can expose sensitive data — plus practical defenses you should implement today.",
-      "tags": [
-        "security",
-        "git",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m99woertx2866qnhm0e.png",
-      "source": "Dev.to",
-      "user": "Yohei Seki"
-    },
-    {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
       "url": "https://github.com/calesthio/Crucix",
       "published_at": "2026-03-14T07:33:06Z",
@@ -1732,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2854,
+      "stars": 2887,
       "user": "calesthio"
     },
     {
@@ -1747,7 +1673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2032,
+      "stars": 2036,
       "user": "pasky"
     },
     {
@@ -1807,7 +1733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3442,
+      "stars": 3577,
       "user": "aiming-lab"
     },
     {
@@ -1822,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1259,
       "user": "skernelx"
     },
     {
@@ -1837,8 +1763,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 679,
       "user": "RightNow-AI"
+    },
+    {
+      "title": "nikmcfly/MiroFish-Offline - Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+      "url": "https://github.com/nikmcfly/MiroFish-Offline",
+      "published_at": "2026-03-14T22:54:19Z",
+      "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
+      "source": "GitHub",
+      "stars": 469,
+      "user": "nikmcfly"
     },
     {
       "title": "jackwener/boss-cli - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
@@ -1854,21 +1795,6 @@
       "source": "GitHub",
       "stars": 464,
       "user": "jackwener"
-    },
-    {
-      "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "url": "https://github.com/sstklen/trump-code",
-      "published_at": "2026-03-15T03:13:51Z",
-      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
-      "source": "GitHub",
-      "stars": 458,
-      "user": "sstklen"
     },
     {
       "title": "WireRift/WireRift - Tear a rift through the wire. Expose localhost to the world.",
@@ -1901,6 +1827,21 @@
       "user": "QQ3221197721"
     },
     {
+      "title": "antflydb/antfly - GitHub Repository",
+      "url": "https://github.com/antflydb/antfly",
+      "published_at": "2026-03-15T23:19:10Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "antflydb"
+    },
+    {
       "title": "ottogin/agenthub - Fork of Karpathy's agenthub",
       "url": "https://github.com/ottogin/agenthub",
       "published_at": "2026-03-11T17:23:54Z",
@@ -1929,21 +1870,6 @@
       "source": "GitHub",
       "stars": 67,
       "user": "roots"
-    },
-    {
-      "title": "antflydb/antfly - GitHub Repository",
-      "url": "https://github.com/antflydb/antfly",
-      "published_at": "2026-03-15T23:19:10Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
-      "source": "GitHub",
-      "stars": 66,
-      "user": "antflydb"
     }
   ]
 }
