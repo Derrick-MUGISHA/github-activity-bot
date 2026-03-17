@@ -29,20 +29,6 @@
       "user": "Hamed Farag"
     },
     {
-      "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
-      "url": "https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4",
-      "published_at": "2026-03-16T06:24:31Z",
-      "description": "This is the first installment of a series on software product architecture for the AI age. There's no...",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
-      "source": "Dev.to",
-      "user": "Takahiro Ikeuchi"
-    },
-    {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
       "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
       "published_at": "2026-03-16T13:30:29Z",
@@ -128,6 +114,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
       "user": "Rowan Merewood"
+    },
+    {
+      "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
+      "url": "https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4",
+      "published_at": "2026-03-16T06:24:31Z",
+      "description": "This is the first installment of a series on software product architecture for the AI age. There's no...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
+      "source": "Dev.to",
+      "user": "Takahiro Ikeuchi"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -592,7 +592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1960,
+      "stars": 1967,
       "user": "pasky"
     },
     {
@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1981,
+      "stars": 2033,
       "user": "aiming-lab"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 669,
       "user": "RightNow-AI"
     },
     {
@@ -667,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 431,
       "user": "sstklen"
     },
     {
@@ -748,21 +748,6 @@
       "user": "Andrew Bone"
     },
     {
-      "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
-      "url": "https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872",
-      "published_at": "2026-03-13T04:17:57Z",
-      "description": "Most video recording APIs charge $0.02-0.03 per minute. We built one for $0.01/min — 62% cheaper —...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "saas",
-        "video"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
-      "source": "Dev.to",
-      "user": "Christian Segovia"
-    },
-    {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
       "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
       "published_at": "2026-03-12T10:51:33Z",
@@ -776,6 +761,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
+      "url": "https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872",
+      "published_at": "2026-03-13T04:17:57Z",
+      "description": "Most video recording APIs charge $0.02-0.03 per minute. We built one for $0.01/min — 62% cheaper —...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "saas",
+        "video"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
+      "source": "Dev.to",
+      "user": "Christian Segovia"
     },
     {
       "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
@@ -969,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2506,
+      "stars": 2579,
       "user": "calesthio"
     },
     {
@@ -984,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1960,
+      "stars": 1967,
       "user": "pasky"
     },
     {
@@ -1029,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "epiral"
     }
   ],
@@ -1195,7 +1195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1981,
+      "stars": 2033,
       "user": "aiming-lab"
     },
     {
@@ -1210,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1195,
+      "stars": 1198,
       "user": "skernelx"
     },
     {
@@ -1225,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 669,
       "user": "RightNow-AI"
     },
     {
@@ -1240,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 458,
       "user": "jackwener"
     },
     {
@@ -1255,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 431,
       "user": "sstklen"
     }
   ],
@@ -1456,21 +1456,6 @@
     }
   ],
   "Database": [
-    {
-      "title": "Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL",
-      "url": "https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i",
-      "published_at": "2026-03-15T05:48:21Z",
-      "description": "Why I now recommend PostgreSQL for new applications, even though I still like MySQL and have used it for a long time.",
-      "tags": [
-        "mysql",
-        "postgres",
-        "database",
-        "sql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszl1776ybfjch84s9eaf.png",
-      "source": "Dev.to",
-      "user": "catatsuy"
-    },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
@@ -1744,7 +1729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2506,
+      "stars": 2579,
       "user": "calesthio"
     },
     {
@@ -1759,7 +1744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1960,
+      "stars": 1967,
       "user": "pasky"
     },
     {
@@ -1804,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "epiral"
     },
     {
@@ -1819,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1981,
+      "stars": 2033,
       "user": "aiming-lab"
     },
     {
@@ -1834,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1195,
+      "stars": 1198,
       "user": "skernelx"
     },
     {
@@ -1849,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 669,
       "user": "RightNow-AI"
     },
     {
@@ -1864,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 458,
       "user": "jackwener"
     },
     {
@@ -1879,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 431,
       "user": "sstklen"
     },
     {
@@ -1894,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "WireRift"
     },
     {
@@ -1939,23 +1924,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 61,
       "user": "roots"
     },
     {
-      "title": "agi-bar/clawcolony - claw, claw and claw",
-      "url": "https://github.com/agi-bar/clawcolony",
-      "published_at": "2026-03-16T00:41:53Z",
-      "description": "claw, claw and claw",
+      "title": "gocronx/seqdelay - High-performance delay queue",
+      "url": "https://github.com/gocronx/seqdelay",
+      "published_at": "2026-03-15T17:17:26Z",
+      "description": "High-performance delay queue",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/213807046?v=4",
       "source": "GitHub",
       "stars": 54,
-      "user": "agi-bar"
+      "user": "gocronx"
     }
   ]
 }
