@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Built a Browser UI for Claude Code — Here's Why",
-      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
-      "published_at": "2026-03-16T08:15:44Z",
-      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
-      "tags": [
-        "claude",
-        "ai",
-        "opensource",
-        "devex"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
-      "source": "Dev.to",
-      "user": "Hamed Farag"
-    },
-    {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
       "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
       "published_at": "2026-03-16T13:30:29Z",
@@ -29,6 +14,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
       "source": "Dev.to",
       "user": "Providence Ifeosame"
+    },
+    {
+      "title": "neither naive nor nostalgic",
+      "url": "https://dev.to/ingosteinke/neither-naive-nor-nostalgic-1mmp",
+      "published_at": "2026-03-16T09:43:35Z",
+      "description": "Do we have to choose between becoming nostalgic or going all in embracing new technology? Some think...",
+      "tags": [
+        "watercooler",
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femsvoeoojbsibhdsqmli.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "The Local AI Powerhouse",
@@ -85,6 +84,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
       "source": "Dev.to",
       "user": " ViksaaSkool "
+    },
+    {
+      "title": "I Built a Browser UI for Claude Code — Here's Why",
+      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
+      "published_at": "2026-03-16T08:15:44Z",
+      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
+      "tags": [
+        "claude",
+        "ai",
+        "opensource",
+        "devex"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
+      "source": "Dev.to",
+      "user": "Hamed Farag"
     },
     {
       "title": "Ship Less, Measure More",
@@ -247,6 +261,21 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "When AI Writes the Code… Who Takes Responsibility?",
+      "url": "https://dev.to/subhrangsu_dev/when-ai-writes-the-code-who-takes-responsibility-19fc",
+      "published_at": "2026-03-10T22:39:46Z",
+      "description": "Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...",
+      "tags": [
+        "ai",
+        "programming",
+        "agents",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
+      "source": "Dev.to",
+      "user": "Subhrangsu Bera"
+    },
+    {
       "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
       "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
       "published_at": "2026-03-07T17:10:00Z",
@@ -277,19 +306,19 @@
       "user": "Mirzalazuardi"
     },
     {
-      "title": "When AI Writes the Code… Who Takes Responsibility?",
-      "url": "https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc",
-      "published_at": "2026-03-10T22:39:46Z",
-      "description": "Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...",
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
       "tags": [
         "ai",
-        "programming",
         "agents",
-        "webdev"
+        "productivity",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
       "source": "Dev.to",
-      "user": "Subhrangsu Bera"
+      "user": "Alex"
     },
     {
       "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
@@ -305,21 +334,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgud7a1o3irfhymmi833b.png",
       "source": "Dev.to",
       "user": "Slee Woo"
-    },
-    {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
-      "source": "Dev.to",
-      "user": "Alex"
     },
     {
       "title": "Lovable AI: Why the AI App Builder Is Suddenly Everywhere",
@@ -462,20 +476,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjh7zke9dedomel8gqua8.jpg",
       "source": "Dev.to",
       "user": "Saif "
-    },
-    {
-      "title": "Параллелизм в ruby 1: создаем потоки",
-      "url": "https://dev.to/kopylov_vlad/parallielizm-v-ruby-1-sozdaiem-potoki-2i83",
-      "published_at": "2026-03-13T19:41:58Z",
-      "description": "я бы хотел бы поставить точки над i в тему тредов и ракторов, как минимум сам для себя; посмотреть какие задачи на параллелизм решаются в других языках, что можно оттуда подчеркнуть и перенести в Ruby",
-      "tags": [
-        "ruby",
-        "rails",
-        "thread"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhna0rvxcn7y5quc1xic.jpeg",
-      "source": "Dev.to",
-      "user": "Vladislav Kopylov"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -621,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1977,
+      "stars": 1995,
       "user": "pasky"
     },
     {
@@ -636,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 481,
       "user": "KeyID-AI"
     },
     {
@@ -666,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 2256,
+      "stars": 2642,
       "user": "aiming-lab"
     },
     {
@@ -681,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 672,
       "user": "RightNow-AI"
     },
     {
@@ -696,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 443,
       "user": "sstklen"
     },
     {
@@ -711,7 +711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 86,
       "user": "QQ3221197721"
     }
   ],
@@ -998,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2726,
       "user": "calesthio"
     },
     {
@@ -1013,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1977,
+      "stars": 1995,
       "user": "pasky"
     },
     {
@@ -1028,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 481,
       "user": "KeyID-AI"
     },
     {
@@ -1058,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "epiral"
     }
   ],
@@ -1210,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 2256,
+      "stars": 2642,
       "user": "aiming-lab"
     },
     {
@@ -1225,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1219,
       "user": "skernelx"
     },
     {
@@ -1240,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 672,
       "user": "RightNow-AI"
     },
     {
@@ -1270,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 443,
       "user": "sstklen"
     }
   ],
@@ -1466,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 86,
       "user": "QQ3221197721"
     }
   ],
@@ -1774,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2726,
       "user": "calesthio"
     },
     {
@@ -1789,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1977,
+      "stars": 1995,
       "user": "pasky"
     },
     {
@@ -1804,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 481,
       "user": "KeyID-AI"
     },
     {
@@ -1834,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "epiral"
     },
     {
@@ -1849,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 2256,
+      "stars": 2642,
       "user": "aiming-lab"
     },
     {
@@ -1864,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1219,
       "user": "skernelx"
     },
     {
@@ -1879,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 672,
       "user": "RightNow-AI"
     },
     {
@@ -1909,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 443,
       "user": "sstklen"
     },
     {
@@ -1928,6 +1928,21 @@
       "user": "WireRift"
     },
     {
+      "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
+      "url": "https://github.com/QQ3221197721/cloudai-fusion",
+      "published_at": "2026-03-12T13:03:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "QQ3221197721"
+    },
+    {
       "title": "ottogin/agenthub - Fork of Karpathy's agenthub",
       "url": "https://github.com/ottogin/agenthub",
       "published_at": "2026-03-11T17:23:54Z",
@@ -1941,21 +1956,6 @@
       "source": "GitHub",
       "stars": 77,
       "user": "ottogin"
-    },
-    {
-      "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
-      "url": "https://github.com/QQ3221197721/cloudai-fusion",
-      "published_at": "2026-03-12T13:03:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
-      "source": "GitHub",
-      "stars": 73,
-      "user": "QQ3221197721"
     },
     {
       "title": "roots/wp-composer - A modern, community-funded Composer repository for WordPress plugins and themes",
@@ -1984,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "agi-bar"
     }
   ]
