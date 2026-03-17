@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
+      "published_at": "2026-03-17T18:32:57Z",
+      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
+      "tags": [
+        "cloud",
+        "agents",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
+      "source": "Dev.to",
+      "user": "Jeffrey Mew"
+    },
+    {
       "title": "I built a cognitive layer for AI agents that learns without LLM calls",
       "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
       "published_at": "2026-03-17T12:19:42Z",
@@ -29,21 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
       "source": "Dev.to",
       "user": "Juan David Gómez"
-    },
-    {
-      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
-      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
-      "published_at": "2026-03-17T18:32:57Z",
-      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
-      "tags": [
-        "cloud",
-        "agents",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
-      "source": "Dev.to",
-      "user": "Jeffrey Mew"
     },
     {
       "title": "Confident and Wrong",
@@ -76,16 +76,6 @@
       "user": "DigitalOcean"
     },
     {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
-    },
-    {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
       "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
       "published_at": "2026-03-17T17:43:25Z",
@@ -101,34 +91,14 @@
       "user": "Justin Headley"
     },
     {
-      "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
-      "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
-      "published_at": "2026-03-16T13:30:29Z",
-      "description": "Disclaimer: I created this blog post for the purposes of entering the Gemini Live Agent Challenge...",
-      "tags": [
-        "devchallenge",
-        "gemini",
-        "googlecloud",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
       "source": "Dev.to",
-      "user": "Providence Ifeosame"
-    },
-    {
-      "title": "Git Worktrees Are Underrated",
-      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
-      "published_at": "2026-03-16T22:07:48Z",
-      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
-      "tags": [
-        "git",
-        "cli",
-        "productivity",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
-      "source": "Dev.to",
-      "user": "Dennis Morello"
+      "user": "Typing Turtle"
     },
     {
       "title": "How I give my AI agents eyes with a single API call",
@@ -146,19 +116,19 @@
       "user": "Boehner"
     },
     {
-      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
-      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
-      "published_at": "2026-03-16T19:05:58Z",
-      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "title": "Git Worktrees Are Underrated",
+      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
+      "published_at": "2026-03-16T22:07:48Z",
+      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
       "tags": [
-        "ai",
-        "googleadk",
-        "fastapi",
-        "telegram"
+        "git",
+        "cli",
+        "productivity",
+        "rust"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
       "source": "Dev.to",
-      "user": "James Zhang"
+      "user": "Dennis Morello"
     },
     {
       "title": "neither naive nor nostalgic",
@@ -246,6 +216,21 @@
       "user": " ViksaaSkool "
     },
     {
+      "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
+      "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
+      "published_at": "2026-03-16T13:30:29Z",
+      "description": "Disclaimer: I created this blog post for the purposes of entering the Gemini Live Agent Challenge...",
+      "tags": [
+        "devchallenge",
+        "gemini",
+        "googlecloud",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
+      "source": "Dev.to",
+      "user": "Providence Ifeosame"
+    },
+    {
       "title": "Ship Less, Measure More",
       "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
       "published_at": "2026-03-06T22:07:43Z",
@@ -273,6 +258,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
       "user": "Rowan Merewood"
+    },
+    {
+      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
+      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
+      "published_at": "2026-03-16T19:05:58Z",
+      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "tags": [
+        "ai",
+        "googleadk",
+        "fastapi",
+        "telegram"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "source": "Dev.to",
+      "user": "James Zhang"
     },
     {
       "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2042,
+      "stars": 2044,
       "user": "pasky"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3834,
+      "stars": 3910,
       "user": "aiming-lab"
     },
     {
@@ -801,21 +801,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png",
       "source": "Dev.to",
       "user": "Vadim Ferderer"
-    },
-    {
-      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
-      "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
-      "published_at": "2026-03-11T17:30:00Z",
-      "description": "This is the third part in a tenuously linked series defending JavaScript singletons in a modern...",
-      "tags": [
-        "microfrontend",
-        "webdev",
-        "react",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
     },
     {
       "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
@@ -1009,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2961,
+      "stars": 2979,
       "user": "calesthio"
     },
     {
@@ -1024,7 +1009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2042,
+      "stars": 2044,
       "user": "pasky"
     },
     {
@@ -1069,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "epiral"
     }
   ],
@@ -1236,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3834,
+      "stars": 3910,
       "user": "aiming-lab"
     },
     {
@@ -1251,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1263,
+      "stars": 1265,
       "user": "skernelx"
     },
     {
@@ -1281,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 498,
       "user": "nikmcfly"
     },
     {
@@ -1318,21 +1303,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
-      "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
-      "published_at": "2026-03-11T17:30:00Z",
-      "description": "This is the third part in a tenuously linked series defending JavaScript singletons in a modern...",
-      "tags": [
-        "microfrontend",
-        "webdev",
-        "react",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
@@ -1700,7 +1670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2961,
+      "stars": 2979,
       "user": "calesthio"
     },
     {
@@ -1715,7 +1685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2042,
+      "stars": 2044,
       "user": "pasky"
     },
     {
@@ -1760,7 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "epiral"
     },
     {
@@ -1775,7 +1745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3834,
+      "stars": 3910,
       "user": "aiming-lab"
     },
     {
@@ -1790,7 +1760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1263,
+      "stars": 1265,
       "user": "skernelx"
     },
     {
@@ -1820,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 498,
       "user": "nikmcfly"
     },
     {
@@ -1850,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 137,
       "user": "antflydb"
     },
     {
@@ -1865,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "WireRift"
     },
     {
