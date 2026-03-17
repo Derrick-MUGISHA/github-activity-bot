@@ -58,21 +58,6 @@
       "user": "Takahiro Ikeuchi"
     },
     {
-      "title": "Your AI code reviewer has no one to disagree with",
-      "url": "https://dev.to/spencermarx/your-ai-code-reviewer-has-no-one-to-disagree-with-f1j",
-      "published_at": "2026-03-11T14:48:03Z",
-      "description": "Why single-pass AI code review is fundamentally broken and what happens when you make AI reviewers argue with each other first.",
-      "tags": [
-        "opensource",
-        "ai",
-        "codereview",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2vz5rdq1v4v6jh570l16.png",
-      "source": "Dev.to",
-      "user": "Spencer Marx"
-    },
-    {
       "title": "The Local AI Powerhouse",
       "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
       "published_at": "2026-03-13T18:25:54Z",
@@ -577,7 +562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1851,
+      "stars": 1881,
       "user": "pasky"
     },
     {
@@ -592,7 +577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "KeyID-AI"
     },
     {
@@ -622,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1470,
       "user": "aiming-lab"
     },
     {
@@ -641,19 +626,19 @@
       "user": "RightNow-AI"
     },
     {
-      "title": "verssache/chatgpt-creator - A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
-      "url": "https://github.com/verssache/chatgpt-creator",
-      "published_at": "2026-03-10T16:21:59Z",
-      "description": "A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
+      "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+      "url": "https://github.com/sstklen/trump-code",
+      "published_at": "2026-03-15T03:13:51Z",
+      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 137,
-      "user": "verssache"
+      "stars": 384,
+      "user": "sstklen"
     },
     {
       "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
@@ -913,21 +898,6 @@
       "user": "velmu"
     },
     {
-      "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "url": "https://github.com/pasky/chrome-cdp-skill",
-      "published_at": "2026-03-13T00:35:39Z",
-      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
-      "source": "GitHub",
-      "stars": 1851,
-      "user": "pasky"
-    },
-    {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
       "url": "https://github.com/calesthio/Crucix",
       "published_at": "2026-03-14T07:33:06Z",
@@ -939,8 +909,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1773,
+      "stars": 1913,
       "user": "calesthio"
+    },
+    {
+      "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "url": "https://github.com/pasky/chrome-cdp-skill",
+      "published_at": "2026-03-13T00:35:39Z",
+      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
+      "source": "GitHub",
+      "stars": 1881,
+      "user": "pasky"
     },
     {
       "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
@@ -954,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "KeyID-AI"
     },
     {
@@ -984,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "epiral"
     }
   ],
@@ -1139,21 +1124,6 @@
       "user": "gilad"
     },
     {
-      "title": "wanshuiyin/Auto-claude-code-research-in-sleep - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
-      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "published_at": "2026-03-10T07:31:45Z",
-      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
-      "source": "GitHub",
-      "stars": 1662,
-      "user": "wanshuiyin"
-    },
-    {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "published_at": "2026-03-15T03:38:49Z",
@@ -1165,7 +1135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1470,
       "user": "aiming-lab"
     },
     {
@@ -1180,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1147,
       "user": "skernelx"
     },
     {
@@ -1212,6 +1182,21 @@
       "source": "GitHub",
       "stars": 445,
       "user": "jackwener"
+    },
+    {
+      "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+      "url": "https://github.com/sstklen/trump-code",
+      "published_at": "2026-03-15T03:13:51Z",
+      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "sstklen"
     }
   ],
   "DevOps": [
@@ -1601,21 +1586,6 @@
       "user": "Stephen Collins"
     },
     {
-      "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "url": "https://github.com/pasky/chrome-cdp-skill",
-      "published_at": "2026-03-13T00:35:39Z",
-      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
-      "source": "GitHub",
-      "stars": 1851,
-      "user": "pasky"
-    },
-    {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
       "url": "https://github.com/calesthio/Crucix",
       "published_at": "2026-03-14T07:33:06Z",
@@ -1627,8 +1597,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 1773,
+      "stars": 1913,
       "user": "calesthio"
+    },
+    {
+      "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "url": "https://github.com/pasky/chrome-cdp-skill",
+      "published_at": "2026-03-13T00:35:39Z",
+      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
+      "source": "GitHub",
+      "stars": 1881,
+      "user": "pasky"
     },
     {
       "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
@@ -1642,7 +1627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "KeyID-AI"
     },
     {
@@ -1672,23 +1657,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "epiral"
-    },
-    {
-      "title": "wanshuiyin/Auto-claude-code-research-in-sleep - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
-      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "published_at": "2026-03-10T07:31:45Z",
-      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76990859?v=4",
-      "source": "GitHub",
-      "stars": 1662,
-      "user": "wanshuiyin"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
@@ -1702,7 +1672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1470,
       "user": "aiming-lab"
     },
     {
@@ -1717,7 +1687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1147,
       "user": "skernelx"
     },
     {
@@ -1751,19 +1721,19 @@
       "user": "jackwener"
     },
     {
-      "title": "verssache/chatgpt-creator - A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
-      "url": "https://github.com/verssache/chatgpt-creator",
-      "published_at": "2026-03-10T16:21:59Z",
-      "description": "A high-performance Go bot for automated bulk ChatGPT account creation, featuring TLS fingerprint spoofing and auto email OTP verification.",
+      "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+      "url": "https://github.com/sstklen/trump-code",
+      "published_at": "2026-03-15T03:13:51Z",
+      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/27637948?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 137,
-      "user": "verssache"
+      "stars": 384,
+      "user": "sstklen"
     },
     {
       "title": "WireRift/WireRift - Tear a rift through the wire. Expose localhost to the world.",
@@ -1792,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7385619?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "ottogin"
     },
     {
@@ -1811,19 +1781,34 @@
       "user": "QQ3221197721"
     },
     {
-      "title": "nekohy/MeowCLI - 一个用于CLI反代的项目，追求更高性能，更优调度",
-      "url": "https://github.com/nekohy/MeowCLI",
-      "published_at": "2026-03-10T19:25:17Z",
-      "description": "一个用于CLI反代的项目，追求更高性能，更优调度",
+      "title": "roots/wp-composer - A modern, community-funded Composer repository for WordPress plugins and themes",
+      "url": "https://github.com/roots/wp-composer",
+      "published_at": "2026-03-14T18:05:07Z",
+      "description": "A modern, community-funded Composer repository for WordPress plugins and themes",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/152958106?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 70,
-      "user": "nekohy"
+      "stars": 53,
+      "user": "roots"
+    },
+    {
+      "title": "gocronx/seqdelay - High-performance delay queue",
+      "url": "https://github.com/gocronx/seqdelay",
+      "published_at": "2026-03-15T17:17:26Z",
+      "description": "High-performance delay queue",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/213807046?v=4",
+      "source": "GitHub",
+      "stars": 50,
+      "user": "gocronx"
     }
   ]
 }
