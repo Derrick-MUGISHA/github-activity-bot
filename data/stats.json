@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 49,
+    "AI": 50,
     "JavaScript": 24,
     "Python": 16,
     "DevOps": 2,
@@ -15,7 +15,7 @@
     "Cloud": 4,
     "Database": 4,
     "Security": 5,
-    "Tools": 25
+    "Tools": 26
   },
   "by_language": {
     "Go": 18,
@@ -29,11 +29,11 @@
   },
   "by_date": {
     "2026-03-16": 10,
-    "2026-03-17": 3,
-    "2026-03-15": 6,
+    "2026-03-17": 4,
     "2026-03-13": 11,
     "2026-03-14": 9,
-    "2026-03-11": 8,
+    "2026-03-11": 7,
+    "2026-03-15": 6,
     "2026-03-06": 5,
     "2026-03-07": 3,
     "2026-03-12": 9,
@@ -75,7 +75,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 22,
+    "ai": 23,
     "webdev": 17,
     "github": 15,
     "open-source": 15,
@@ -87,14 +87,14 @@
     "programming": 8,
     "productivity": 8,
     "devchallenge": 7,
-    "career": 7,
+    "career": 6,
     "go": 6,
-    "wecoded": 5,
     "python": 5,
     "watercooler": 4,
-    "typescript": 4,
+    "wecoded": 4,
     "opensource": 4,
-    "dei": 3
+    "typescript": 4,
+    "notionchallenge": 3
   },
   "trending_topics": [],
   "language_percentages": {

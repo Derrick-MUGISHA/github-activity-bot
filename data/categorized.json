@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
+      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
+      "published_at": "2026-03-17T06:06:10Z",
+      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
+    },
+    {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
       "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
       "published_at": "2026-03-16T13:30:29Z",
@@ -73,19 +88,6 @@
       "user": "Harsh "
     },
     {
-      "title": "Fortran meets AI",
-      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
-      "published_at": "2026-03-15T17:32:51Z",
-      "description": "A computer science exam from 1978 and 2026 AI models ",
-      "tags": [
-        "fortran",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
-      "source": "Dev.to",
-      "user": " ViksaaSkool "
-    },
-    {
       "title": "I Built a Browser UI for Claude Code — Here's Why",
       "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
       "published_at": "2026-03-16T08:15:44Z",
@@ -99,6 +101,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
       "source": "Dev.to",
       "user": "Hamed Farag"
+    },
+    {
+      "title": "Fortran meets AI",
+      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
+      "published_at": "2026-03-15T17:32:51Z",
+      "description": "A computer science exam from 1978 and 2026 AI models ",
+      "tags": [
+        "fortran",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
+      "source": "Dev.to",
+      "user": " ViksaaSkool "
     },
     {
       "title": "Ship Less, Measure More",
@@ -591,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2008,
+      "stars": 2019,
       "user": "pasky"
     },
     {
@@ -606,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "KeyID-AI"
     },
     {
@@ -636,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 2845,
+      "stars": 3062,
       "user": "aiming-lab"
     },
     {
@@ -651,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 678,
       "user": "RightNow-AI"
     },
     {
@@ -666,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 453,
       "user": "sstklen"
     },
     {
@@ -686,21 +701,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "One regex to match them all",
-      "url": "https://dev.to/ferderer/one-regex-to-match-them-all-228h",
-      "published_at": "2026-03-16T11:18:24Z",
-      "description": "Last year I was building a single-page app with SvelteKit. Nothing fancy—a handful of views,...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png",
-      "source": "Dev.to",
-      "user": "Vadim Ferderer"
-    },
     {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
@@ -730,6 +730,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
       "user": "Rowan Merewood"
+    },
+    {
+      "title": "One regex to match them all",
+      "url": "https://dev.to/ferderer/one-regex-to-match-them-all-228h",
+      "published_at": "2026-03-16T11:18:24Z",
+      "description": "Last year I was building a single-page app with SvelteKit. Nothing fancy—a handful of views,...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "typescript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png",
+      "source": "Dev.to",
+      "user": "Vadim Ferderer"
     },
     {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
@@ -953,7 +968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2762,
+      "stars": 2793,
       "user": "calesthio"
     },
     {
@@ -968,7 +983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2008,
+      "stars": 2019,
       "user": "pasky"
     },
     {
@@ -983,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "KeyID-AI"
     },
     {
@@ -1165,7 +1180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 2845,
+      "stars": 3062,
       "user": "aiming-lab"
     },
     {
@@ -1180,7 +1195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1236,
+      "stars": 1246,
       "user": "skernelx"
     },
     {
@@ -1195,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 678,
       "user": "RightNow-AI"
     },
     {
@@ -1225,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 453,
       "user": "sstklen"
     }
   ],
@@ -1263,20 +1278,6 @@
   ],
   "WebDev": [
     {
-      "title": "Backstage logbook: Migrating the Catalog Plugin to the New Frontend System",
-      "url": "https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6",
-      "published_at": "2026-03-15T23:14:56Z",
-      "description": "The Backstage new frontend system support is growing, and I figured I needed to carve out some time to really understand it. I took the Catalog plugin migration, from the legacy frontend system to the new one, as my learning ground to see how all the different customisation points work in practice. Here you'll see my process following the migration, step by step.",
-      "tags": [
-        "backstage",
-        "nfs",
-        "migrations"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcg8lsr1klr29eca86wab.png",
-      "source": "Dev.to",
-      "user": "sarabadu"
-    },
-    {
       "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
       "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
       "published_at": "2026-03-11T17:30:00Z",
@@ -1290,6 +1291,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
+    },
+    {
+      "title": "Backstage logbook: Migrating the Catalog Plugin to the New Frontend System",
+      "url": "https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6",
+      "published_at": "2026-03-15T23:14:56Z",
+      "description": "The Backstage new frontend system support is growing, and I figured I needed to carve out some time to really understand it. I took the Catalog plugin migration, from the legacy frontend system to the new one, as my learning ground to see how all the different customisation points work in practice. Here you'll see my process following the migration, step by step.",
+      "tags": [
+        "backstage",
+        "nfs",
+        "migrations"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcg8lsr1klr29eca86wab.png",
+      "source": "Dev.to",
+      "user": "sarabadu"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1539,6 +1554,21 @@
   ],
   "Tools": [
     {
+      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
+      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
+      "published_at": "2026-03-17T06:06:10Z",
+      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
+    },
+    {
       "title": "Gemini CLI and Jules: my March 2026 stack",
       "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
       "published_at": "2026-03-15T17:28:43Z",
@@ -1699,7 +1729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2762,
+      "stars": 2793,
       "user": "calesthio"
     },
     {
@@ -1714,7 +1744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2008,
+      "stars": 2019,
       "user": "pasky"
     },
     {
@@ -1729,7 +1759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "KeyID-AI"
     },
     {
@@ -1774,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 2845,
+      "stars": 3062,
       "user": "aiming-lab"
     },
     {
@@ -1789,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1236,
+      "stars": 1246,
       "user": "skernelx"
     },
     {
@@ -1804,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 678,
       "user": "RightNow-AI"
     },
     {
@@ -1834,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 453,
       "user": "sstklen"
     },
     {
@@ -1849,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 95,
       "user": "WireRift"
     },
     {
@@ -1894,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 66,
       "user": "roots"
     },
     {
@@ -1909,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 62,
       "user": "agi-bar"
     }
   ]
