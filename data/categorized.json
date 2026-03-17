@@ -16,6 +16,21 @@
       "user": "Juan David Gómez"
     },
     {
+      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
+      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
+      "published_at": "2026-03-17T12:19:42Z",
+      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
+      "tags": [
+        "ai",
+        "memory",
+        "rust",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
+      "source": "Dev.to",
+      "user": "Oleksander"
+    },
+    {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
       "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
       "published_at": "2026-03-16T13:30:29Z",
@@ -217,33 +232,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
-    },
-    {
-      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
-      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
-      "published_at": "2026-03-12T02:26:38Z",
-      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
-      "source": "Dev.to",
-      "user": "ujja"
-    },
-    {
-      "title": "Clojure Inheritance… Sort Of",
-      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
-      "published_at": "2026-03-12T05:49:43Z",
-      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
-      "tags": [
-        "clojure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
-      "source": "Dev.to",
-      "user": "Paula Gearon"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -606,7 +594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2025,
+      "stars": 2032,
       "user": "pasky"
     },
     {
@@ -621,7 +609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 486,
       "user": "KeyID-AI"
     },
     {
@@ -651,7 +639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3314,
+      "stars": 3442,
       "user": "aiming-lab"
     },
     {
@@ -681,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 458,
       "user": "sstklen"
     },
     {
@@ -968,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2830,
+      "stars": 2854,
       "user": "calesthio"
     },
     {
@@ -983,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2025,
+      "stars": 2032,
       "user": "pasky"
     },
     {
@@ -998,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 486,
       "user": "KeyID-AI"
     },
     {
@@ -1033,6 +1021,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
+      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
+      "published_at": "2026-03-17T12:19:42Z",
+      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
+      "tags": [
+        "ai",
+        "memory",
+        "rust",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
+      "source": "Dev.to",
+      "user": "Oleksander"
+    },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
@@ -1180,7 +1183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3314,
+      "stars": 3442,
       "user": "aiming-lab"
     },
     {
@@ -1195,7 +1198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1254,
       "user": "skernelx"
     },
     {
@@ -1225,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 464,
       "user": "jackwener"
     },
     {
@@ -1240,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 458,
       "user": "sstklen"
     }
   ],
@@ -1729,7 +1732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2830,
+      "stars": 2854,
       "user": "calesthio"
     },
     {
@@ -1744,7 +1747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2025,
+      "stars": 2032,
       "user": "pasky"
     },
     {
@@ -1759,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 486,
       "user": "KeyID-AI"
     },
     {
@@ -1804,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 3314,
+      "stars": 3442,
       "user": "aiming-lab"
     },
     {
@@ -1819,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1254,
       "user": "skernelx"
     },
     {
@@ -1849,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 464,
       "user": "jackwener"
     },
     {
@@ -1864,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 458,
       "user": "sstklen"
     },
     {
@@ -1928,19 +1931,19 @@
       "user": "roots"
     },
     {
-      "title": "agi-bar/clawcolony - claw, claw and claw",
-      "url": "https://github.com/agi-bar/clawcolony",
-      "published_at": "2026-03-16T00:41:53Z",
-      "description": "claw, claw and claw",
+      "title": "antflydb/antfly - GitHub Repository",
+      "url": "https://github.com/antflydb/antfly",
+      "published_at": "2026-03-15T23:19:10Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 62,
-      "user": "agi-bar"
+      "stars": 66,
+      "user": "antflydb"
     }
   ]
 }
