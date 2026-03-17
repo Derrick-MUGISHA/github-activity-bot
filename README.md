@@ -30,13 +30,13 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
 **Cloud**: 🟦🟦 4 (3.8%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.1 (28.1%)
-Java            ████████████████████████████ 25.8 (25.8%)
-Go              ██████████████████████ 20.2 (20.2%)
-Python          ███████████████████ 18.0 (18.0%)
+JavaScript      ██████████████████████████████ 27.3 (27.3%)
+Java            ███████████████████████████ 25.0 (25.0%)
+Go              ████████████████████████ 21.6 (21.6%)
+Python          ████████████████████ 18.2 (18.2%)
 Rust            ████ 3.4 (3.4%)
 Swift           █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
@@ -74,9 +74,9 @@ CSharp          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 25
-    "Java" : 23
-    "Go" : 18
+    "JavaScript" : 24
+    "Java" : 22
+    "Go" : 19
     "Python" : 16
     "Rust" : 3
     "Swift" : 1
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
 
 
 
@@ -136,15 +136,6 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frongxsj38fdfu0868zbh.png" width="200" alt="I Think a Lot of Developers Are Quietly Grieving the Old Internet" />
-      <br/>
-      <b>I Think a Lot of Developers Are Quietly Grieving t...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa75njgrwtidwzasd09xs.png" width="200" alt="What's in your headphones when you code? 🎧" />
       <br/>
@@ -154,6 +145,26 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frongxsj38fdfu0868zbh.png" width="200" alt="I Think a Lot of Developers Are Quietly Grieving the Old Internet" />
+      <br/>
+      <b>I Think a Lot of Developers Are Quietly Grieving t...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png" width="200" alt="Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab" />
+      <br/>
+      <b>Announcing the Colab MCP Server: Connect Any AI Ag...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/ben/meme-monday-cc9">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nnyj6dylj78u246e5nk.png" width="200" alt="Meme Monday" />
       <br/>
@@ -162,22 +173,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/axrisi/drop-your-challenge-submission-here-mej">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhmau6xvoeq6j7cm66s8i.png" width="200" alt="Drop Your Challenge Submission Here" />
       <br/>
       <b>Drop Your Challenge Submission Here</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png" width="200" alt="I built a cognitive layer for AI agents that learns without LLM calls" />
-      <br/>
-      <b>I built a cognitive layer for AI agents that learn...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,28 +198,28 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [What's in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4) _[Dev.to]_
+- [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
+- [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [Drop Your Challenge Submission Here](https://dev.to/axrisi/drop-your-challenge-submission-here-mej) _[Dev.to]_
-- [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
 - [Path of Discovery](https://dev.to/annavi11arrea1/path-of-discovery-1aoi) _[Dev.to]_
+- [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
 - [Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP](https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp) _[Dev.to]_
-- [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o) _[Dev.to]_
-- [Who's hiring — March 2026](https://dev.to/fmerian/whos-hiring-march-2026-229i) _[Dev.to]_
 - [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o) _[Dev.to]_
+- [Who's hiring — March 2026](https://dev.to/fmerian/whos-hiring-march-2026-229i) _[Dev.to]_
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
-- [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 - [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm) _[Dev.to]_
+- [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 - [Partitioning PotgreSQL Database](https://dev.to/bohdanstupak1/partitioning-potgresql-database-26be) _[Dev.to]_
-- [How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud](https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28) _[Dev.to]_
-- [Git Worktrees Are Underrated](https://dev.to/morellodev/git-worktrees-are-underrated-2k9) _[Dev.to]_
 - [How I give my AI agents eyes with a single API call](https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad) _[Dev.to]_
-- [Human-in-the-Loop AI Agents with Google ADK and Telegram](https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd) _[Dev.to]_
+- [Git Worktrees Are Underrated](https://dev.to/morellodev/git-worktrees-are-underrated-2k9) _[Dev.to]_
 - [neither naive nor nostalgic](https://dev.to/ingosteinke/neither-naive-nor-nostalgic-1mmp) _[Dev.to]_
 - [The Local AI Powerhouse](https://dev.to/amjadmh73/the-local-ai-powerhouse-28j) _[Dev.to]_
+- [I built an open-source "focus group simulator" that spawns 1,000 AI customers to roast your startup idea](https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o) _[Dev.to]_
+- [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3) _[Dev.to]_
 
-_Last automated update: Wed, 18 Mar 2026 00:05:12 CAT_
+_Last automated update: Wed, 18 Mar 2026 00:52:06 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Wed, 18 Mar 2026 00:05:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Execution timing, event loop phases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Mar 2026 22:05:12 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Mar 2026 22:52:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
