@@ -219,7 +219,7 @@ npm run test
 - [I built an open-source "focus group simulator" that spawns 1,000 AI customers to roast your startup idea](https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o) _[Dev.to]_
 - [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3) _[Dev.to]_
 
-_Last automated update: Wed, 18 Mar 2026 01:28:51 CAT_
+_Last automated update: Wed, 18 Mar 2026 01:56:53 CAT_
 
 
 
@@ -227,7 +227,29 @@ _Last automated update: Wed, 18 Mar 2026 01:28:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. Database: What is the difference between SQL and NoSQL databases?
+
+**Difficulty**: Easy | **Topics**: databases, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Schema, scalability, ACID vs BASE
+
+</details>
+
+### 2. SystemDesign: How would you design a rate limiter?
+
+**Difficulty**: Medium | **Topics**: system design, algorithms
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, distributed systems
+
+</details>
+
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
 **Difficulty**: Easy | **Topics**: variables, scope
 
@@ -235,28 +257,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Scope, hoisting, and reassignment capabilities
-
-</details>
-
-### 2. Java: What are Java Streams and how do they work?
-
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-### 3. DataStructures: Implement LRU Cache
-
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
-
-<details>
-<summary>💡 Hint</summary>
-
-Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Mar 2026 23:28:51 GMT</b><br/>
+  <b>Last automated update: Tue, 17 Mar 2026 23:56:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
