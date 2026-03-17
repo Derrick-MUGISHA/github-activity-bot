@@ -217,20 +217,6 @@
       "user": "Paula Gearon"
     },
     {
-      "title": "Параллелизм в ruby 1: создаем потоки",
-      "url": "https://dev.to/kopylov_vlad/parallielizm-v-ruby-1-sozdaiem-potoki-2i83",
-      "published_at": "2026-03-13T19:41:58Z",
-      "description": "я бы хотел бы поставить точки над i в тему тредов и ракторов, как минимум сам для себя; посмотреть какие задачи на параллелизм решаются в других языках, что можно оттуда подчеркнуть и перенести в Ruby",
-      "tags": [
-        "ruby",
-        "rails",
-        "thread"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhna0rvxcn7y5quc1xic.jpeg",
-      "source": "Dev.to",
-      "user": "Vladislav Kopylov"
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -606,7 +592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1952,
+      "stars": 1960,
       "user": "pasky"
     },
     {
@@ -621,7 +607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 477,
       "user": "KeyID-AI"
     },
     {
@@ -636,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "vasilytrofimchuk"
     },
     {
@@ -651,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1926,
+      "stars": 1981,
       "user": "aiming-lab"
     },
     {
@@ -666,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 668,
       "user": "RightNow-AI"
     },
     {
@@ -681,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 423,
       "user": "sstklen"
     },
     {
@@ -983,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2404,
+      "stars": 2506,
       "user": "calesthio"
     },
     {
@@ -998,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1952,
+      "stars": 1960,
       "user": "pasky"
     },
     {
@@ -1013,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 477,
       "user": "KeyID-AI"
     },
     {
@@ -1028,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1043,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 235,
       "user": "epiral"
     }
   ],
@@ -1209,7 +1195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1926,
+      "stars": 1981,
       "user": "aiming-lab"
     },
     {
@@ -1224,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1195,
       "user": "skernelx"
     },
     {
@@ -1239,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 668,
       "user": "RightNow-AI"
     },
     {
@@ -1269,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 423,
       "user": "sstklen"
     }
   ],
@@ -1758,7 +1744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2404,
+      "stars": 2506,
       "user": "calesthio"
     },
     {
@@ -1773,7 +1759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1952,
+      "stars": 1960,
       "user": "pasky"
     },
     {
@@ -1788,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 477,
       "user": "KeyID-AI"
     },
     {
@@ -1803,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1506641?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "vasilytrofimchuk"
     },
     {
@@ -1818,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 235,
       "user": "epiral"
     },
     {
@@ -1833,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1926,
+      "stars": 1981,
       "user": "aiming-lab"
     },
     {
@@ -1848,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1195,
       "user": "skernelx"
     },
     {
@@ -1863,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 668,
       "user": "RightNow-AI"
     },
     {
@@ -1893,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 423,
       "user": "sstklen"
     },
     {
@@ -1953,23 +1939,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 58,
       "user": "roots"
     },
     {
-      "title": "gocronx/seqdelay - High-performance delay queue",
-      "url": "https://github.com/gocronx/seqdelay",
-      "published_at": "2026-03-15T17:17:26Z",
-      "description": "High-performance delay queue",
+      "title": "agi-bar/clawcolony - claw, claw and claw",
+      "url": "https://github.com/agi-bar/clawcolony",
+      "published_at": "2026-03-16T00:41:53Z",
+      "description": "claw, claw and claw",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/213807046?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 53,
-      "user": "gocronx"
+      "stars": 54,
+      "user": "agi-bar"
     }
   ]
 }
