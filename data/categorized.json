@@ -1,19 +1,17 @@
 {
   "AI": [
     {
-      "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
-      "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
-      "published_at": "2026-03-16T13:30:29Z",
-      "description": "Disclaimer: I created this blog post for the purposes of entering the Gemini Live Agent Challenge...",
+      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
+      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
+      "published_at": "2026-03-16T06:29:54Z",
+      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
       "tags": [
-        "devchallenge",
-        "gemini",
-        "googlecloud",
-        "showdev"
+        "webdev",
+        "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
       "source": "Dev.to",
-      "user": "Providence Ifeosame"
+      "user": "nghiahsgs"
     },
     {
       "title": "I Built a Browser UI for Claude Code — Here's Why",
@@ -31,19 +29,6 @@
       "user": "Hamed Farag"
     },
     {
-      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
-      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
-      "published_at": "2026-03-16T06:29:54Z",
-      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
-      "tags": [
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
-      "source": "Dev.to",
-      "user": "nghiahsgs"
-    },
-    {
       "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
       "url": "https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4",
       "published_at": "2026-03-16T06:24:31Z",
@@ -56,6 +41,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
       "source": "Dev.to",
       "user": "Takahiro Ikeuchi"
+    },
+    {
+      "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
+      "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
+      "published_at": "2026-03-16T13:30:29Z",
+      "description": "Disclaimer: I created this blog post for the purposes of entering the Gemini Live Agent Challenge...",
+      "tags": [
+        "devchallenge",
+        "gemini",
+        "googlecloud",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
+      "source": "Dev.to",
+      "user": "Providence Ifeosame"
     },
     {
       "title": "The Local AI Powerhouse",
@@ -606,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1923,
+      "stars": 1933,
       "user": "pasky"
     },
     {
@@ -651,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1742,
+      "stars": 1812,
       "user": "aiming-lab"
     },
     {
@@ -666,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 666,
       "user": "RightNow-AI"
     },
     {
@@ -681,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 413,
       "user": "sstklen"
     },
     {
@@ -983,7 +983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2184,
+      "stars": 2250,
       "user": "calesthio"
     },
     {
@@ -998,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1923,
+      "stars": 1933,
       "user": "pasky"
     },
     {
@@ -1043,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "epiral"
     }
   ],
@@ -1209,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1742,
+      "stars": 1812,
       "user": "aiming-lab"
     },
     {
@@ -1224,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1182,
       "user": "skernelx"
     },
     {
@@ -1239,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 666,
       "user": "RightNow-AI"
     },
     {
@@ -1254,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 451,
       "user": "jackwener"
     },
     {
@@ -1269,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 413,
       "user": "sstklen"
     }
   ],
@@ -1758,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 2184,
+      "stars": 2250,
       "user": "calesthio"
     },
     {
@@ -1773,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 1923,
+      "stars": 1933,
       "user": "pasky"
     },
     {
@@ -1818,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "epiral"
     },
     {
@@ -1833,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 1742,
+      "stars": 1812,
       "user": "aiming-lab"
     },
     {
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1182,
       "user": "skernelx"
     },
     {
@@ -1863,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226207176?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 666,
       "user": "RightNow-AI"
     },
     {
@@ -1878,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 451,
       "user": "jackwener"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 413,
       "user": "sstklen"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "WireRift"
     },
     {
@@ -1968,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213807046?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 53,
       "user": "gocronx"
     }
   ]
