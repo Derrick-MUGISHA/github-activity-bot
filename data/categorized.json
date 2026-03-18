@@ -16,34 +16,34 @@
       "user": "Jeffrey Mew"
     },
     {
-      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
-      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
-      "published_at": "2026-03-17T12:19:42Z",
-      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
+      "title": "How to Stop Babysitting Your AI Agents",
+      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
+      "published_at": "2026-03-18T13:50:00Z",
+      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
       "tags": [
-        "ai",
-        "memory",
-        "rust",
-        "python"
+        "llmagents",
+        "cli",
+        "devtools",
+        "go"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
       "source": "Dev.to",
-      "user": "Oleksander"
+      "user": "J. R. Swab"
     },
     {
-      "title": "Supercharge your workflow with AI dev tools",
-      "url": "https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e",
-      "published_at": "2026-03-18T13:57:01Z",
-      "description": "As developers, we’re no longer just writing lines of code; we’re orchestrating systems. The...",
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
       "tags": [
-        "googlecloud",
-        "serverless",
-        "ai",
-        "productivity"
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
       ],
-      "cover_image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3otvb2z646ytpt1hl2rv.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
-      "user": "Martin Omander"
+      "user": "Kat Cosgrove"
     },
     {
       "title": "Confident and Wrong",
@@ -59,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
       "source": "Dev.to",
       "user": "Max"
+    },
+    {
+      "title": "Supercharge your workflow with AI dev tools",
+      "url": "https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e",
+      "published_at": "2026-03-18T13:57:01Z",
+      "description": "As developers, we’re no longer just writing lines of code; we’re orchestrating systems. The...",
+      "tags": [
+        "googlecloud",
+        "serverless",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrx6zlobzm2psjioo28g.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -86,21 +101,6 @@
       "user": "Typing Turtle"
     },
     {
-      "title": "How I give my AI agents eyes with a single API call",
-      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
-      "published_at": "2026-03-16T22:23:05Z",
-      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
-      "tags": [
-        "ai",
-        "webdev",
-        "automation",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
-      "source": "Dev.to",
-      "user": "Boehner"
-    },
-    {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
       "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
       "published_at": "2026-03-17T17:43:25Z",
@@ -114,6 +114,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
       "source": "Dev.to",
       "user": "Justin Headley"
+    },
+    {
+      "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
+      "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
+      "published_at": "2026-03-17T23:55:52Z",
+      "description": "Embedding third-party content with an iframe is straightforward until it suddenly stops...",
+      "tags": [
+        "javascript",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
+      "source": "Dev.to",
+      "user": "Chioma Halim"
     },
     {
       "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
@@ -131,19 +144,19 @@
       "user": "Juan David Gómez"
     },
     {
-      "title": "Git Worktrees Are Underrated",
-      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
-      "published_at": "2026-03-16T22:07:48Z",
-      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
+      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
+      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
+      "published_at": "2026-03-17T12:19:42Z",
+      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
       "tags": [
-        "git",
-        "cli",
-        "productivity",
-        "rust"
+        "ai",
+        "memory",
+        "rust",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
       "source": "Dev.to",
-      "user": "Dennis Morello"
+      "user": "Oleksander"
     },
     {
       "title": "neither naive nor nostalgic",
@@ -190,21 +203,6 @@
       "user": "Amjad Abujamous"
     },
     {
-      "title": "I Built a Browser UI for Claude Code — Here's Why",
-      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
-      "published_at": "2026-03-16T08:15:44Z",
-      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
-      "tags": [
-        "claude",
-        "ai",
-        "opensource",
-        "devex"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
-      "source": "Dev.to",
-      "user": "Hamed Farag"
-    },
-    {
       "title": "Fortran meets AI",
       "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
       "published_at": "2026-03-15T17:32:51Z",
@@ -216,6 +214,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
       "source": "Dev.to",
       "user": " ViksaaSkool "
+    },
+    {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
+    },
+    {
+      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
+      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
+      "published_at": "2026-03-16T19:05:58Z",
+      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "tags": [
+        "ai",
+        "googleadk",
+        "fastapi",
+        "telegram"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "source": "Dev.to",
+      "user": "James Zhang"
     },
     {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
@@ -262,19 +290,34 @@
       "user": "Rowan Merewood"
     },
     {
-      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
-      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
-      "published_at": "2026-03-16T19:05:58Z",
-      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
+      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
+      "published_at": "2026-03-16T14:42:02Z",
+      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
       "tags": [
-        "ai",
-        "googleadk",
-        "fastapi",
-        "telegram"
+        "rust",
+        "postgres",
+        "opensource",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
       "source": "Dev.to",
-      "user": "James Zhang"
+      "user": "Faruk Durgut"
+    },
+    {
+      "title": "Git Worktrees Are Underrated",
+      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
+      "published_at": "2026-03-16T22:07:48Z",
+      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
+      "tags": [
+        "git",
+        "cli",
+        "productivity",
+        "rust"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
+      "source": "Dev.to",
+      "user": "Dennis Morello"
     },
     {
       "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
@@ -289,21 +332,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
       "source": "Dev.to",
       "user": "Takahiro Ikeuchi"
-    },
-    {
-      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
-      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
-      "published_at": "2026-03-16T14:42:02Z",
-      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
-      "tags": [
-        "rust",
-        "postgres",
-        "opensource",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
-      "source": "Dev.to",
-      "user": "Faruk Durgut"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -421,6 +449,21 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "I Built a Browser UI for Claude Code — Here's Why",
+      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
+      "published_at": "2026-03-16T08:15:44Z",
+      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
+      "tags": [
+        "claude",
+        "ai",
+        "opensource",
+        "devex"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
+      "source": "Dev.to",
+      "user": "Hamed Farag"
+    },
+    {
       "title": "Notion Skills Registry: A Package Manager for AI Agent Skills with MCP",
       "url": "https://dev.to/axrisi/notion-skills-registry-a-package-manager-for-ai-agent-skills-with-mcp-2581",
       "published_at": "2026-03-16T09:28:46Z",
@@ -479,35 +522,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
       "source": "Dev.to",
       "user": "Mirzalazuardi"
-    },
-    {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
-      "source": "Dev.to",
-      "user": "Alex"
-    },
-    {
-      "title": "Oooh very interesting",
-      "url": "https://dev.to/ben/oooh-very-interesting-ohk",
-      "published_at": "2026-03-03T16:12:24Z",
-      "description": "Gemini 3.1 Flash-Lite: Developer guide...",
-      "tags": [
-        "gemini",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -653,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2148,
+      "stars": 2165,
       "user": "pasky"
     },
     {
@@ -668,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "KeyID-AI"
     },
     {
@@ -683,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 289,
       "user": "liliMozi"
     },
     {
@@ -698,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5869,
+      "stars": 5958,
       "user": "aiming-lab"
     },
     {
@@ -713,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 537,
       "user": "sstklen"
     },
     {
@@ -734,19 +748,19 @@
   ],
   "JavaScript": [
     {
-      "title": "How I give my AI agents eyes with a single API call",
-      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
-      "published_at": "2026-03-16T22:23:05Z",
-      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
+      "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
+      "published_at": "2026-03-18T13:42:46Z",
+      "description": "An important property of tests is that they should be composable.  Here is an example. Say you have a...",
       "tags": [
-        "ai",
         "webdev",
-        "automation",
-        "javascript"
+        "javascript",
+        "testing",
+        "angular"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg",
       "source": "Dev.to",
-      "user": "Boehner"
+      "user": "Younes Jaaidi"
     },
     {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
@@ -764,6 +778,19 @@
       "user": "Justin Headley"
     },
     {
+      "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
+      "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
+      "published_at": "2026-03-17T23:55:52Z",
+      "description": "Embedding third-party content with an iframe is straightforward until it suddenly stops...",
+      "tags": [
+        "javascript",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
+      "source": "Dev.to",
+      "user": "Chioma Halim"
+    },
+    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -777,6 +804,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
     },
     {
       "title": "Gemini CLI and Jules: my March 2026 stack",
@@ -1000,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3781,
+      "stars": 3871,
       "user": "calesthio"
     },
     {
@@ -1015,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2148,
+      "stars": 2165,
       "user": "pasky"
     },
     {
@@ -1030,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "KeyID-AI"
     },
     {
@@ -1045,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 300,
       "user": "phuc-nt"
     },
     {
@@ -1060,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 289,
       "user": "liliMozi"
     }
   ],
@@ -1242,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5869,
+      "stars": 5958,
       "user": "aiming-lab"
     },
     {
@@ -1257,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1301,
+      "stars": 1307,
       "user": "skernelx"
     },
     {
@@ -1272,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 795,
       "user": "HKUDS"
     },
     {
@@ -1287,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 625,
       "user": "nikmcfly"
     },
     {
@@ -1302,11 +1344,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 537,
       "user": "sstklen"
     }
   ],
   "DevOps": [
+    {
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "tags": [
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "source": "Dev.to",
+      "user": "Kat Cosgrove"
+    },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
@@ -1440,7 +1497,7 @@
         "ai",
         "productivity"
       ],
-      "cover_image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3otvb2z646ytpt1hl2rv.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrx6zlobzm2psjioo28g.png",
       "source": "Dev.to",
       "user": "Martin Omander"
     },
@@ -1581,6 +1638,34 @@
   ],
   "Security": [
     {
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "tags": [
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "source": "Dev.to",
+      "user": "Kat Cosgrove"
+    },
+    {
+      "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
+      "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
+      "published_at": "2026-03-17T23:55:52Z",
+      "description": "Embedding third-party content with an iframe is straightforward until it suddenly stops...",
+      "tags": [
+        "javascript",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
+      "source": "Dev.to",
+      "user": "Chioma Halim"
+    },
+    {
       "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
       "url": "https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk",
       "published_at": "2026-03-09T23:47:06Z",
@@ -1609,6 +1694,36 @@
   ],
   "Tools": [
     {
+      "title": "How to Stop Babysitting Your AI Agents",
+      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
+      "published_at": "2026-03-18T13:50:00Z",
+      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
+      "tags": [
+        "llmagents",
+        "cli",
+        "devtools",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
+      "source": "Dev.to",
+      "user": "J. R. Swab"
+    },
+    {
+      "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
+      "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
+      "published_at": "2026-03-18T13:42:46Z",
+      "description": "An important property of tests is that they should be composable.  Here is an example. Say you have a...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "testing",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg",
+      "source": "Dev.to",
+      "user": "Younes Jaaidi"
+    },
+    {
       "title": "Supercharge your workflow with AI dev tools",
       "url": "https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e",
       "published_at": "2026-03-18T13:57:01Z",
@@ -1619,7 +1734,7 @@
         "ai",
         "productivity"
       ],
-      "cover_image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3otvb2z646ytpt1hl2rv.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrx6zlobzm2psjioo28g.png",
       "source": "Dev.to",
       "user": "Martin Omander"
     },
@@ -1639,21 +1754,6 @@
       "user": "Juan David Gómez"
     },
     {
-      "title": "Git Worktrees Are Underrated",
-      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
-      "published_at": "2026-03-16T22:07:48Z",
-      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
-      "tags": [
-        "git",
-        "cli",
-        "productivity",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
-      "source": "Dev.to",
-      "user": "Dennis Morello"
-    },
-    {
       "title": "Gemini CLI and Jules: my March 2026 stack",
       "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
       "published_at": "2026-03-15T17:28:43Z",
@@ -1667,6 +1767,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
       "source": "Dev.to",
       "user": "Rowan Merewood"
+    },
+    {
+      "title": "Git Worktrees Are Underrated",
+      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
+      "published_at": "2026-03-16T22:07:48Z",
+      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
+      "tags": [
+        "git",
+        "cli",
+        "productivity",
+        "rust"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
+      "source": "Dev.to",
+      "user": "Dennis Morello"
     },
     {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
@@ -1714,36 +1829,6 @@
       "user": "Mirzalazuardi"
     },
     {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
-      "source": "Dev.to",
-      "user": "Alex"
-    },
-    {
-      "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
-      "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
-      "published_at": "2026-03-06T17:12:22Z",
-      "description": "In fintech, a single leaked payload isn't just a bug—it's a compliance incident. That anxiety of...",
-      "tags": [
-        "productivity",
-        "opensource",
-        "tooling",
-        "formatter"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frcivfom7pf632bihyi5j.png",
-      "source": "Dev.to",
-      "user": "Chung Ho"
-    },
-    {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
       "url": "https://github.com/calesthio/Crucix",
       "published_at": "2026-03-14T07:33:06Z",
@@ -1755,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3781,
+      "stars": 3871,
       "user": "calesthio"
     },
     {
@@ -1770,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2148,
+      "stars": 2165,
       "user": "pasky"
     },
     {
@@ -1785,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "KeyID-AI"
     },
     {
@@ -1800,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 300,
       "user": "phuc-nt"
     },
     {
@@ -1815,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 289,
       "user": "liliMozi"
     },
     {
@@ -1830,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5869,
+      "stars": 5958,
       "user": "aiming-lab"
     },
     {
@@ -1845,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1301,
+      "stars": 1307,
       "user": "skernelx"
     },
     {
@@ -1860,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 795,
       "user": "HKUDS"
     },
     {
@@ -1875,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 625,
       "user": "nikmcfly"
     },
     {
@@ -1890,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 537,
       "user": "sstklen"
     },
     {
@@ -1905,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 192,
       "user": "antflydb"
     },
     {
@@ -1935,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "WireRift"
     },
     {
@@ -1950,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 88,
       "user": "agi-bar"
     },
     {
