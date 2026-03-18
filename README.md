@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-17-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-18-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -30,7 +30,7 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
@@ -60,23 +60,23 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.3 (27.3%)
-Java            ███████████████████████████ 25.0 (25.0%)
-Go              ████████████████████████ 21.6 (21.6%)
-Python          ████████████████████ 18.2 (18.2%)
-Rust            ████ 3.4 (3.4%)
-Swift           █ 1.1 (1.1%)
-PHP             █ 1.1 (1.1%)
-Ruby            █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 27.1 (27.1%)
+Java            ███████████████████████████ 24.7 (24.7%)
+Go              ███████████████████████ 21.2 (21.2%)
+Python          █████████████████████ 18.8 (18.8%)
+Rust            ████ 3.5 (3.5%)
+Swift           █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
+Ruby            █ 1.2 (1.2%)
+CSharp          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Java" : 22
-    "Go" : 19
+    "JavaScript" : 23
+    "Java" : 21
+    "Go" : 18
     "Python" : 16
     "Rust" : 3
     "Swift" : 1
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![career](https://img.shields.io/badge/career-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-18 1:00 CAT)
+## 📅 Latest Updates (2026-03-18 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -204,11 +204,11 @@ npm run test
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [Drop Your Challenge Submission Here](https://dev.to/axrisi/drop-your-challenge-submission-here-mej) _[Dev.to]_
 - [Path of Discovery](https://dev.to/annavi11arrea1/path-of-discovery-1aoi) _[Dev.to]_
-- [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
 - [Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP](https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp) _[Dev.to]_
 - [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o) _[Dev.to]_
-- [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
+- [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
 - [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm) _[Dev.to]_
+- [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 - [Who's hiring — March 2026](https://dev.to/fmerian/whos-hiring-march-2026-229i) _[Dev.to]_
 - [Partitioning PotgreSQL Database](https://dev.to/bohdanstupak1/partitioning-potgresql-database-26be) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [I built an open-source "focus group simulator" that spawns 1,000 AI customers to roast your startup idea](https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o) _[Dev.to]_
 - [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3) _[Dev.to]_
 
-_Last automated update: Wed, 18 Mar 2026 01:56:53 CAT_
+_Last automated update: Wed, 18 Mar 2026 04:23:13 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Wed, 18 Mar 2026 01:56:53 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Heap, stack, garbage collection
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 17 Mar 2026 23:56:53 GMT</b><br/>
+  <b>Last automated update: Wed, 18 Mar 2026 02:23:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
