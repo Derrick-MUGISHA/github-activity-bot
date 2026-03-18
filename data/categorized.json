@@ -61,21 +61,6 @@
       "user": "Oleksander"
     },
     {
-      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
-      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
-      "published_at": "2026-03-17T17:43:25Z",
-      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
-      "tags": [
-        "ai",
-        "opensource",
-        "claudecode",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
-      "source": "Dev.to",
-      "user": "Justin Headley"
-    },
-    {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
       "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
       "published_at": "2026-03-17T16:00:00Z",
@@ -114,6 +99,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
       "source": "Dev.to",
       "user": "Boehner"
+    },
+    {
+      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
+      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
+      "published_at": "2026-03-17T17:43:25Z",
+      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
+      "tags": [
+        "ai",
+        "opensource",
+        "claudecode",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
+      "source": "Dev.to",
+      "user": "Justin Headley"
     },
     {
       "title": "Git Worktrees Are Underrated",
@@ -638,7 +638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2108,
+      "stars": 2115,
       "user": "pasky"
     },
     {
@@ -653,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "KeyID-AI"
     },
     {
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5050,
+      "stars": 5216,
       "user": "aiming-lab"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 508,
       "user": "sstklen"
     },
     {
@@ -704,21 +704,6 @@
   ],
   "JavaScript": [
     {
-      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
-      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
-      "published_at": "2026-03-17T17:43:25Z",
-      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
-      "tags": [
-        "ai",
-        "opensource",
-        "claudecode",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
-      "source": "Dev.to",
-      "user": "Justin Headley"
-    },
-    {
       "title": "How I give my AI agents eyes with a single API call",
       "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
       "published_at": "2026-03-16T22:23:05Z",
@@ -732,6 +717,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
       "source": "Dev.to",
       "user": "Boehner"
+    },
+    {
+      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
+      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
+      "published_at": "2026-03-17T17:43:25Z",
+      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
+      "tags": [
+        "ai",
+        "opensource",
+        "claudecode",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
+      "source": "Dev.to",
+      "user": "Justin Headley"
     },
     {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
@@ -985,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3370,
+      "stars": 3434,
       "user": "calesthio"
     },
     {
@@ -1000,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2108,
+      "stars": 2115,
       "user": "pasky"
     },
     {
@@ -1015,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "KeyID-AI"
     },
     {
@@ -1030,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 278,
       "user": "phuc-nt"
     },
     {
@@ -1045,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "epiral"
     }
   ],
@@ -1227,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5050,
+      "stars": 5216,
       "user": "aiming-lab"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1289,
       "user": "skernelx"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 573,
       "user": "nikmcfly"
     },
     {
@@ -1272,23 +1272,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 508,
       "user": "sstklen"
     },
     {
-      "title": "jackwener/boss-cli - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
-      "url": "https://github.com/jackwener/boss-cli",
-      "published_at": "2026-03-13T20:30:08Z",
-      "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
+      "title": "HKUDS/ClawTeam - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
+      "url": "https://github.com/HKUDS/ClawTeam",
+      "published_at": "2026-03-17T14:42:46Z",
+      "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 476,
-      "user": "jackwener"
+      "stars": 488,
+      "user": "HKUDS"
     }
   ],
   "DevOps": [
@@ -1725,7 +1725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3370,
+      "stars": 3434,
       "user": "calesthio"
     },
     {
@@ -1740,7 +1740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2108,
+      "stars": 2115,
       "user": "pasky"
     },
     {
@@ -1755,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "KeyID-AI"
     },
     {
@@ -1770,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 278,
       "user": "phuc-nt"
     },
     {
@@ -1785,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "epiral"
     },
     {
@@ -1800,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5050,
+      "stars": 5216,
       "user": "aiming-lab"
     },
     {
@@ -1815,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1289,
       "user": "skernelx"
     },
     {
@@ -1830,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 573,
       "user": "nikmcfly"
     },
     {
@@ -1845,23 +1845,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 508,
       "user": "sstklen"
     },
     {
-      "title": "jackwener/boss-cli - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
-      "url": "https://github.com/jackwener/boss-cli",
-      "published_at": "2026-03-13T20:30:08Z",
-      "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API ",
+      "title": "HKUDS/ClawTeam - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
+      "url": "https://github.com/HKUDS/ClawTeam",
+      "published_at": "2026-03-17T14:42:46Z",
+      "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 476,
-      "user": "jackwener"
+      "stars": 488,
+      "user": "HKUDS"
     },
     {
       "title": "antflydb/antfly - GitHub Repository",
@@ -1875,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 179,
       "user": "antflydb"
     },
     {
