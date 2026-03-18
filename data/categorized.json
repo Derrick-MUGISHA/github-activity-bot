@@ -145,21 +145,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "The Local AI Powerhouse",
-      "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
-      "published_at": "2026-03-13T18:25:54Z",
-      "description": "Introduction   Keeping up with everything AI-related in the recent months has got me...",
-      "tags": [
-        "ai",
-        "qwen",
-        "localllm",
-        "gptoss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
-      "source": "Dev.to",
-      "user": "Amjad Abujamous"
-    },
-    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -175,17 +160,19 @@
       "user": "Harsh "
     },
     {
-      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
-      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
-      "published_at": "2026-03-16T06:29:54Z",
-      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
+      "title": "The Local AI Powerhouse",
+      "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
+      "published_at": "2026-03-13T18:25:54Z",
+      "description": "Introduction   Keeping up with everything AI-related in the recent months has got me...",
       "tags": [
-        "webdev",
-        "opensource"
+        "ai",
+        "qwen",
+        "localllm",
+        "gptoss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
       "source": "Dev.to",
-      "user": "nghiahsgs"
+      "user": "Amjad Abujamous"
     },
     {
       "title": "I Built a Browser UI for Claude Code — Here's Why",
@@ -201,21 +188,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
       "source": "Dev.to",
       "user": "Hamed Farag"
-    },
-    {
-      "title": "Notion Skills Registry: A Package Manager for AI Agent Skills with MCP",
-      "url": "https://dev.to/axrisi/notion-skills-registry-a-package-manager-for-ai-agent-skills-with-mcp-2581",
-      "published_at": "2026-03-16T09:28:46Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   I built Notion Skills...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feg9okvcj4ck1zj5gjpvz.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
       "title": "Fortran meets AI",
@@ -391,6 +363,19 @@
       "user": "Paula Gearon"
     },
     {
+      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
+      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
+      "published_at": "2026-03-16T06:29:54Z",
+      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
+      "tags": [
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
+      "source": "Dev.to",
+      "user": "nghiahsgs"
+    },
+    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -493,6 +478,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1j89mgvtehufvmqfpg5.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "mcp-pvp — Privacy Vault Protocol for MCP",
+      "url": "https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80",
+      "published_at": "2026-03-14T23:54:23Z",
+      "description": "Inspiration   We were building an AI agent that handled customer support emails. The agent...",
+      "tags": [
+        "ai",
+        "security",
+        "privacy",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
+      "source": "Dev.to",
+      "user": "Mitiku Yohannes"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -638,7 +638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2121,
+      "stars": 2123,
       "user": "pasky"
     },
     {
@@ -657,6 +657,21 @@
       "user": "KeyID-AI"
     },
     {
+      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
+      "url": "https://github.com/liliMozi/openhanako",
+      "published_at": "2026-03-15T07:01:45Z",
+      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
+      "source": "GitHub",
+      "stars": 260,
+      "user": "liliMozi"
+    },
+    {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "published_at": "2026-03-15T03:38:49Z",
@@ -668,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5510,
+      "stars": 5647,
       "user": "aiming-lab"
     },
     {
@@ -683,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 523,
       "user": "sstklen"
     },
     {
@@ -970,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3530,
+      "stars": 3588,
       "user": "calesthio"
     },
     {
@@ -985,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2121,
+      "stars": 2123,
       "user": "pasky"
     },
     {
@@ -1015,23 +1030,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 284,
       "user": "phuc-nt"
     },
     {
-      "title": "epiral/bb-sites - Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
-      "url": "https://github.com/epiral/bb-sites",
-      "published_at": "2026-03-14T08:48:30Z",
-      "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
+      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
+      "url": "https://github.com/liliMozi/openhanako",
+      "published_at": "2026-03-15T07:01:45Z",
+      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 257,
-      "user": "epiral"
+      "stars": 260,
+      "user": "liliMozi"
     }
   ],
   "Python": [
@@ -1212,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5510,
+      "stars": 5647,
       "user": "aiming-lab"
     },
     {
@@ -1227,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1291,
+      "stars": 1292,
       "user": "skernelx"
     },
     {
@@ -1242,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 591,
       "user": "nikmcfly"
     },
     {
@@ -1257,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 585,
       "user": "HKUDS"
     },
     {
@@ -1272,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 523,
       "user": "sstklen"
     }
   ],
@@ -1550,6 +1565,21 @@
       "user": "JLarky"
     },
     {
+      "title": "mcp-pvp — Privacy Vault Protocol for MCP",
+      "url": "https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80",
+      "published_at": "2026-03-14T23:54:23Z",
+      "description": "Inspiration   We were building an AI agent that handled customer support emails. The agent...",
+      "tags": [
+        "ai",
+        "security",
+        "privacy",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
+      "source": "Dev.to",
+      "user": "Mitiku Yohannes"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1639,21 +1669,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "Does Dyslexia Hold You Back in Tech? Yes, but not for the reason you think",
-      "url": "https://dev.to/chadders13/does-dyslexia-hold-you-back-in-tech-yes-but-not-for-the-reason-you-think-4bec",
-      "published_at": "2026-03-14T07:02:04Z",
-      "description": "If you ask the average person how dyslexia affects a software engineer, they usually guess it’s about...",
-      "tags": [
-        "programming",
-        "management",
-        "productivity",
-        "dislexia"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tt6ve4yn4szbckqeybn.png",
-      "source": "Dev.to",
-      "user": "Andrew Chadwick"
-    },
-    {
       "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
       "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
       "published_at": "2026-03-14T22:50:01Z",
@@ -1684,6 +1699,21 @@
       "user": "Alex"
     },
     {
+      "title": "Building Stdout: A Local-First Developer Toolkit for Privacy-Focused Workflows",
+      "url": "https://dev.to/cminhho/building-stdout-a-local-first-developer-toolkit-for-privacy-focused-workflows-1g33",
+      "published_at": "2026-03-06T17:12:22Z",
+      "description": "In fintech, a single leaked payload isn't just a bug—it's a compliance incident. That anxiety of...",
+      "tags": [
+        "productivity",
+        "opensource",
+        "tooling",
+        "formatter"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frcivfom7pf632bihyi5j.png",
+      "source": "Dev.to",
+      "user": "Chung Ho"
+    },
+    {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
       "url": "https://github.com/calesthio/Crucix",
       "published_at": "2026-03-14T07:33:06Z",
@@ -1695,7 +1725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3530,
+      "stars": 3588,
       "user": "calesthio"
     },
     {
@@ -1710,7 +1740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2121,
+      "stars": 2123,
       "user": "pasky"
     },
     {
@@ -1740,23 +1770,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 284,
       "user": "phuc-nt"
     },
     {
-      "title": "epiral/bb-sites - Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
-      "url": "https://github.com/epiral/bb-sites",
-      "published_at": "2026-03-14T08:48:30Z",
-      "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
+      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
+      "url": "https://github.com/liliMozi/openhanako",
+      "published_at": "2026-03-15T07:01:45Z",
+      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 257,
-      "user": "epiral"
+      "stars": 260,
+      "user": "liliMozi"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -1770,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5510,
+      "stars": 5647,
       "user": "aiming-lab"
     },
     {
@@ -1785,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1291,
+      "stars": 1292,
       "user": "skernelx"
     },
     {
@@ -1800,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 591,
       "user": "nikmcfly"
     },
     {
@@ -1815,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 585,
       "user": "HKUDS"
     },
     {
@@ -1830,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 523,
       "user": "sstklen"
     },
     {
@@ -1890,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 83,
       "user": "agi-bar"
     },
     {
@@ -1905,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 72,
       "user": "roots"
     }
   ]
