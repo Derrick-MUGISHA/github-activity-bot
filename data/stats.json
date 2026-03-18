@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 53,
+    "AI": 52,
     "JavaScript": 26,
     "Python": 18,
     "DevOps": 2,
@@ -18,10 +18,10 @@
     "Tools": 24
   },
   "by_language": {
-    "Go": 19,
-    "Swift": 1,
+    "Go": 18,
     "JavaScript": 26,
     "Java": 24,
+    "Swift": 1,
     "Python": 17,
     "Rust": 4,
     "PHP": 1,
@@ -29,15 +29,15 @@
   },
   "by_date": {
     "2026-03-17": 14,
-    "2026-03-16": 15,
     "2026-03-18": 4,
-    "2026-03-14": 6,
+    "2026-03-16": 14,
+    "2026-03-14": 5,
     "2026-03-13": 8,
     "2026-03-11": 2,
     "2026-03-15": 8,
     "2026-03-06": 3,
     "2026-03-07": 3,
-    "2026-03-12": 5,
+    "2026-03-12": 6,
     "2026-03-05": 1,
     "2026-03-09": 1,
     "2026-02-27": 1,
@@ -74,7 +74,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 22,
+    "ai": 21,
     "webdev": 16,
     "github": 15,
     "open-source": 15,
@@ -85,23 +85,23 @@
     "go": 7,
     "opensource": 7,
     "devchallenge": 7,
-    "discuss": 6,
     "programming": 6,
     "career": 6,
     "python": 6,
+    "discuss": 5,
     "productivity": 5,
-    "watercooler": 4,
     "mcp": 4,
     "wecoded": 4,
+    "typescript": 4,
     "notionchallenge": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "20.4",
+    "Go": "19.6",
+    "JavaScript": "28.3",
+    "Java": "26.1",
     "Swift": "1.1",
-    "JavaScript": "28.0",
-    "Java": "25.8",
-    "Python": "18.3",
+    "Python": "18.5",
     "Rust": "4.3",
     "PHP": "1.1",
     "Ruby": "1.1"
