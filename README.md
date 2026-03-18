@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-18 13:00 CAT)
+## 📅 Latest Updates (2026-03-18 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/maxrimue/confident-and-wrong-107o">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png" width="200" alt="Confident and Wrong" />
+    <a href="https://dev.to/annavi11arrea1/path-of-discovery-1aoi">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzfshy125kzqzmhz9ulbt.png" width="200" alt="Path of Discovery" />
       <br/>
-      <b>Confident and Wrong</b>
+      <b>Path of Discovery</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,8 +202,8 @@ npm run test
 - [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o) _[Dev.to]_
 - [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
-- [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o) _[Dev.to]_
 - [Path of Discovery](https://dev.to/annavi11arrea1/path-of-discovery-1aoi) _[Dev.to]_
+- [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o) _[Dev.to]_
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 - [Partitioning PotgreSQL Database](https://dev.to/bohdanstupak1/partitioning-potgresql-database-26be) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [The Local AI Powerhouse](https://dev.to/amjadmh73/the-local-ai-powerhouse-28j) _[Dev.to]_
 - [I Built a Browser UI for Claude Code — Here's Why](https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959) _[Dev.to]_
 
-_Last automated update: Wed, 18 Mar 2026 13:31:41 CAT_
+_Last automated update: Wed, 18 Mar 2026 14:34:39 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 18 Mar 2026 13:31:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Iterative or recursive, three pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 18 Mar 2026 11:31:41 GMT</b><br/>
+  <b>Last automated update: Wed, 18 Mar 2026 12:34:39 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
