@@ -406,6 +406,21 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "Notion Skills Registry: A Package Manager for AI Agent Skills with MCP",
+      "url": "https://dev.to/axrisi/notion-skills-registry-a-package-manager-for-ai-agent-skills-with-mcp-2581",
+      "published_at": "2026-03-16T09:28:46Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   I built Notion Skills...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feg9okvcj4ck1zj5gjpvz.png",
+      "source": "Dev.to",
+      "user": "Nikoloz Turazashvili (@axrisi)"
+    },
+    {
       "title": "When AI Writes the Code… Who Takes Responsibility?",
       "url": "https://dev.to/subhrangsu_dev/when-ai-writes-the-code-who-takes-responsibility-19fc",
       "published_at": "2026-03-10T22:39:46Z",
@@ -638,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2123,
+      "stars": 2127,
       "user": "pasky"
     },
     {
@@ -668,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 265,
       "user": "liliMozi"
     },
     {
@@ -683,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5647,
+      "stars": 5733,
       "user": "aiming-lab"
     },
     {
@@ -698,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 525,
       "user": "sstklen"
     },
     {
@@ -985,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3588,
+      "stars": 3645,
       "user": "calesthio"
     },
     {
@@ -1000,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2123,
+      "stars": 2127,
       "user": "pasky"
     },
     {
@@ -1030,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "phuc-nt"
     },
     {
@@ -1045,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 265,
       "user": "liliMozi"
     }
   ],
@@ -1227,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5647,
+      "stars": 5733,
       "user": "aiming-lab"
     },
     {
@@ -1246,21 +1261,6 @@
       "user": "skernelx"
     },
     {
-      "title": "nikmcfly/MiroFish-Offline - Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "url": "https://github.com/nikmcfly/MiroFish-Offline",
-      "published_at": "2026-03-14T22:54:19Z",
-      "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
-      "source": "GitHub",
-      "stars": 591,
-      "user": "nikmcfly"
-    },
-    {
       "title": "HKUDS/ClawTeam - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
       "url": "https://github.com/HKUDS/ClawTeam",
       "published_at": "2026-03-17T14:42:46Z",
@@ -1272,8 +1272,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 613,
       "user": "HKUDS"
+    },
+    {
+      "title": "nikmcfly/MiroFish-Offline - Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+      "url": "https://github.com/nikmcfly/MiroFish-Offline",
+      "published_at": "2026-03-14T22:54:19Z",
+      "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
+      "source": "GitHub",
+      "stars": 596,
+      "user": "nikmcfly"
     },
     {
       "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
@@ -1287,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 525,
       "user": "sstklen"
     }
   ],
@@ -1725,7 +1740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3588,
+      "stars": 3645,
       "user": "calesthio"
     },
     {
@@ -1740,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2123,
+      "stars": 2127,
       "user": "pasky"
     },
     {
@@ -1770,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "phuc-nt"
     },
     {
@@ -1785,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 265,
       "user": "liliMozi"
     },
     {
@@ -1800,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5647,
+      "stars": 5733,
       "user": "aiming-lab"
     },
     {
@@ -1819,21 +1834,6 @@
       "user": "skernelx"
     },
     {
-      "title": "nikmcfly/MiroFish-Offline - Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "url": "https://github.com/nikmcfly/MiroFish-Offline",
-      "published_at": "2026-03-14T22:54:19Z",
-      "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
-      "source": "GitHub",
-      "stars": 591,
-      "user": "nikmcfly"
-    },
-    {
       "title": "HKUDS/ClawTeam - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
       "url": "https://github.com/HKUDS/ClawTeam",
       "published_at": "2026-03-17T14:42:46Z",
@@ -1845,8 +1845,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 613,
       "user": "HKUDS"
+    },
+    {
+      "title": "nikmcfly/MiroFish-Offline - Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+      "url": "https://github.com/nikmcfly/MiroFish-Offline",
+      "published_at": "2026-03-14T22:54:19Z",
+      "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
+      "source": "GitHub",
+      "stars": 596,
+      "user": "nikmcfly"
     },
     {
       "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
@@ -1860,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 525,
       "user": "sstklen"
     },
     {
@@ -1905,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "WireRift"
     },
     {
@@ -1920,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "agi-bar"
     },
     {
