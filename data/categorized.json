@@ -76,31 +76,6 @@
       "user": "Martin Omander"
     },
     {
-      "title": "Getting Started with Qwen3.5 Vision-Language Models",
-      "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
-      "published_at": "2026-03-17T16:00:00Z",
-      "description": "This article was originally written by James Skelton (Senior AI/ML Technical Content Strategist...",
-      "tags": [
-        "qwen",
-        "learning",
-        "aimodels",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flyhk43dl0t2ua178arvd.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
-    {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
-    },
-    {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
       "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
       "published_at": "2026-03-17T17:43:25Z",
@@ -114,6 +89,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
       "source": "Dev.to",
       "user": "Justin Headley"
+    },
+    {
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
+      "source": "Dev.to",
+      "user": "Typing Turtle"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -144,6 +129,21 @@
       "user": "Juan David Gómez"
     },
     {
+      "title": "Getting Started with Qwen3.5 Vision-Language Models",
+      "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
+      "published_at": "2026-03-17T16:00:00Z",
+      "description": "This article was originally written by James Skelton (Senior AI/ML Technical Content Strategist...",
+      "tags": [
+        "qwen",
+        "learning",
+        "aimodels",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flyhk43dl0t2ua178arvd.png",
+      "source": "Dev.to",
+      "user": "DigitalOcean"
+    },
+    {
       "title": "I built a cognitive layer for AI agents that learns without LLM calls",
       "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
       "published_at": "2026-03-17T12:19:42Z",
@@ -157,20 +157,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
       "source": "Dev.to",
       "user": "Oleksander"
-    },
-    {
-      "title": "neither naive nor nostalgic",
-      "url": "https://dev.to/ingosteinke/neither-naive-nor-nostalgic-1mmp",
-      "published_at": "2026-03-16T09:43:35Z",
-      "description": "Do we have to choose between becoming nostalgic or going all in embracing new technology? Some think...",
-      "tags": [
-        "watercooler",
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femsvoeoojbsibhdsqmli.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
@@ -203,19 +189,6 @@
       "user": "Amjad Abujamous"
     },
     {
-      "title": "Fortran meets AI",
-      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
-      "published_at": "2026-03-15T17:32:51Z",
-      "description": "A computer science exam from 1978 and 2026 AI models ",
-      "tags": [
-        "fortran",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
-      "source": "Dev.to",
-      "user": " ViksaaSkool "
-    },
-    {
       "title": "How I give my AI agents eyes with a single API call",
       "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
       "published_at": "2026-03-16T22:23:05Z",
@@ -229,6 +202,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
       "source": "Dev.to",
       "user": "Boehner"
+    },
+    {
+      "title": "Fortran meets AI",
+      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
+      "published_at": "2026-03-15T17:32:51Z",
+      "description": "A computer science exam from 1978 and 2026 AI models ",
+      "tags": [
+        "fortran",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
+      "source": "Dev.to",
+      "user": " ViksaaSkool "
     },
     {
       "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
@@ -667,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2165,
+      "stars": 2172,
       "user": "pasky"
     },
     {
@@ -682,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 494,
       "user": "KeyID-AI"
     },
     {
@@ -697,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "liliMozi"
     },
     {
@@ -712,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5958,
+      "stars": 6011,
       "user": "aiming-lab"
     },
     {
@@ -727,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 538,
       "user": "sstklen"
     },
     {
@@ -1042,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3871,
+      "stars": 3949,
       "user": "calesthio"
     },
     {
@@ -1057,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2165,
+      "stars": 2172,
       "user": "pasky"
     },
     {
@@ -1072,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 494,
       "user": "KeyID-AI"
     },
     {
@@ -1087,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 304,
       "user": "phuc-nt"
     },
     {
@@ -1102,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "liliMozi"
     }
   ],
@@ -1284,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5958,
+      "stars": 6011,
       "user": "aiming-lab"
     },
     {
@@ -1314,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 842,
       "user": "HKUDS"
     },
     {
@@ -1329,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 634,
       "user": "nikmcfly"
     },
     {
@@ -1344,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 538,
       "user": "sstklen"
     }
   ],
@@ -1840,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3871,
+      "stars": 3949,
       "user": "calesthio"
     },
     {
@@ -1855,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2165,
+      "stars": 2172,
       "user": "pasky"
     },
     {
@@ -1870,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 494,
       "user": "KeyID-AI"
     },
     {
@@ -1885,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 304,
       "user": "phuc-nt"
     },
     {
@@ -1900,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "liliMozi"
     },
     {
@@ -1915,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5958,
+      "stars": 6011,
       "user": "aiming-lab"
     },
     {
@@ -1945,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 842,
       "user": "HKUDS"
     },
     {
@@ -1960,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 634,
       "user": "nikmcfly"
     },
     {
@@ -1975,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 538,
       "user": "sstklen"
     },
     {
@@ -1990,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 197,
       "user": "antflydb"
     },
     {
@@ -2039,19 +2025,19 @@
       "user": "agi-bar"
     },
     {
-      "title": "roots/wp-composer - A modern, community-funded Composer repository for WordPress plugins and themes",
-      "url": "https://github.com/roots/wp-composer",
-      "published_at": "2026-03-14T18:05:07Z",
-      "description": "A modern, community-funded Composer repository for WordPress plugins and themes",
+      "title": "hjr265/gittop - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.",
+      "url": "https://github.com/hjr265/gittop",
+      "published_at": "2026-03-12T19:35:48Z",
+      "description": "A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/348107?v=4",
       "source": "GitHub",
-      "stars": 72,
-      "user": "roots"
+      "stars": 73,
+      "user": "hjr265"
     }
   ]
 }
