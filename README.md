@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-18 9:00 CAT)
+## 📅 Latest Updates (2026-03-18 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [I built an open-source "focus group simulator" that spawns 1,000 AI customers to roast your startup idea](https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o) _[Dev.to]_
 - [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3) _[Dev.to]_
 
-_Last automated update: Wed, 18 Mar 2026 09:55:34 CAT_
+_Last automated update: Wed, 18 Mar 2026 10:44:10 CAT_
 
 
 
@@ -226,7 +226,18 @@ _Last automated update: Wed, 18 Mar 2026 09:55:34 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. NodeJS: Implement rate limiting for an API
+
+**Difficulty**: Hard | **Topics**: security, middleware
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, Redis
+
+</details>
+
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
 **Difficulty**: Easy | **Topics**: databases, design
 
@@ -237,25 +248,14 @@ Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Fan-out, caching, ranking, real-time updates
-
-</details>
-
-### 3. Python: Implement a context manager using __enter__ and __exit__
-
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Heap, stack, garbage collection
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 18 Mar 2026 07:55:34 GMT</b><br/>
+  <b>Last automated update: Wed, 18 Mar 2026 08:44:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
