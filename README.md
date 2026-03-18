@@ -127,22 +127,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-18 7:00 CAT)
+## 📅 Latest Updates (2026-03-18 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frongxsj38fdfu0868zbh.png" width="200" alt="I Think a Lot of Developers Are Quietly Grieving the Old Internet" />
-      <br/>
-      <b>I Think a Lot of Developers Are Quietly Grieving t...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa75njgrwtidwzasd09xs.png" width="200" alt="What's in your headphones when you code? 🎧" />
@@ -161,8 +152,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/meme-monday-cc9">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nnyj6dylj78u246e5nk.png" width="200" alt="Meme Monday" />
@@ -172,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/axrisi/drop-your-challenge-submission-here-mej">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhmau6xvoeq6j7cm66s8i.png" width="200" alt="Drop Your Challenge Submission Here" />
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/maxrimue/confident-and-wrong-107o">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png" width="200" alt="Confident and Wrong" />
+      <br/>
+      <b>Confident and Wrong</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -197,13 +197,13 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [What's in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4) _[Dev.to]_
 - [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [Drop Your Challenge Submission Here](https://dev.to/axrisi/drop-your-challenge-submission-here-mej) _[Dev.to]_
 - [Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP](https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp) _[Dev.to]_
 - [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o) _[Dev.to]_
+- [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
 - [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm) _[Dev.to]_
 - [Path of Discovery](https://dev.to/annavi11arrea1/path-of-discovery-1aoi) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [I built an open-source "focus group simulator" that spawns 1,000 AI customers to roast your startup idea](https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o) _[Dev.to]_
 - [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3) _[Dev.to]_
 
-_Last automated update: Wed, 18 Mar 2026 07:48:38 CAT_
+_Last automated update: Wed, 18 Mar 2026 08:58:00 CAT_
 
 
 
@@ -226,29 +226,18 @@ _Last automated update: Wed, 18 Mar 2026 07:48:38 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: error handling, async
-
-<details>
-<summary>💡 Hint</summary>
-
-try/catch, .catch(), error middleware
-
-</details>
-
-### 2. NodeJS: Explain middleware in Express.js
-
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 2. JavaScript: What is the event loop and how does it work?
 
 **Difficulty**: Hard | **Topics**: async, runtime
 
@@ -256,6 +245,17 @@ Request/response cycle, next(), chain of functions
 <summary>💡 Hint</summary>
 
 Call stack, callback queue, microtask queue
+
+</details>
+
+### 3. JavaScript: Implement a debounce function from scratch
+
+**Difficulty**: Hard | **Topics**: functions, timing
+
+<details>
+<summary>💡 Hint</summary>
+
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 18 Mar 2026 05:48:38 GMT</b><br/>
+  <b>Last automated update: Wed, 18 Mar 2026 06:58:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
