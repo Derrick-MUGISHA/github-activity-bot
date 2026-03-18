@@ -365,18 +365,6 @@
       "user": "ujja"
     },
     {
-      "title": "Clojure Inheritance… Sort Of",
-      "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
-      "published_at": "2026-03-12T05:49:43Z",
-      "description": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
-      "tags": [
-        "clojure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6psfcd0822srowd7u39.png",
-      "source": "Dev.to",
-      "user": "Paula Gearon"
-    },
-    {
       "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
       "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
       "published_at": "2026-03-16T06:29:54Z",
@@ -525,6 +513,20 @@
       "user": "Mirzalazuardi"
     },
     {
+      "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
+      "url": "https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4",
+      "published_at": "2026-03-16T06:24:31Z",
+      "description": "This is the first installment of a series on software product architecture for the AI age. There's no...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
+      "source": "Dev.to",
+      "user": "Takahiro Ikeuchi"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -668,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2186,
+      "stars": 2189,
       "user": "pasky"
     },
     {
@@ -713,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6080,
+      "stars": 6097,
       "user": "aiming-lab"
     },
     {
@@ -728,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 542,
       "user": "sstklen"
     },
     {
@@ -1043,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4106,
+      "stars": 4159,
       "user": "calesthio"
     },
     {
@@ -1058,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2186,
+      "stars": 2189,
       "user": "pasky"
     },
     {
@@ -1285,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6080,
+      "stars": 6097,
       "user": "aiming-lab"
     },
     {
@@ -1315,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 918,
       "user": "HKUDS"
     },
     {
@@ -1330,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 653,
       "user": "nikmcfly"
     },
     {
@@ -1345,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 542,
       "user": "sstklen"
     }
   ],
@@ -1826,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4106,
+      "stars": 4159,
       "user": "calesthio"
     },
     {
@@ -1841,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2186,
+      "stars": 2189,
       "user": "pasky"
     },
     {
@@ -1901,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6080,
+      "stars": 6097,
       "user": "aiming-lab"
     },
     {
@@ -1931,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 918,
       "user": "HKUDS"
     },
     {
@@ -1946,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 653,
       "user": "nikmcfly"
     },
     {
@@ -1961,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 542,
       "user": "sstklen"
     },
     {
@@ -2036,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348107?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "hjr265"
     }
   ]
