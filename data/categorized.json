@@ -159,21 +159,6 @@
       "user": "Oleksander"
     },
     {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
-      "tags": [
-        "ai",
-        "career",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "The Local AI Powerhouse",
       "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
       "published_at": "2026-03-13T18:25:54Z",
@@ -350,6 +335,20 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "neither naive nor nostalgic",
+      "url": "https://dev.to/ingosteinke/neither-naive-nor-nostalgic-1mmp",
+      "published_at": "2026-03-16T09:43:35Z",
+      "description": "Do we have to choose between becoming nostalgic or going all in embracing new technology? Some think...",
+      "tags": [
+        "watercooler",
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femsvoeoojbsibhdsqmli.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -435,6 +434,21 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "I Let AI Handle My Slack Messages So I Could Actually Code (Notion MCP)",
+      "url": "https://dev.to/balkaran/synapse-the-autonomous-ai-developer-shield-built-with-notion-mcp-5f0j",
+      "published_at": "2026-03-15T13:47:24Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every developer knows the...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fioyu5ea6uozewh8dfuer.png",
+      "source": "Dev.to",
+      "user": "Balkaran Singh"
+    },
+    {
       "title": "I Built a Browser UI for Claude Code — Here's Why",
       "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
       "published_at": "2026-03-16T08:15:44Z",
@@ -463,6 +477,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feg9okvcj4ck1zj5gjpvz.png",
       "source": "Dev.to",
       "user": "Nikoloz Turazashvili (@axrisi)"
+    },
+    {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
     },
     {
       "title": "When AI Writes the Code… Who Takes Responsibility?",
@@ -653,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2172,
+      "stars": 2175,
       "user": "pasky"
     },
     {
@@ -683,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 295,
       "user": "liliMozi"
     },
     {
@@ -698,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6011,
+      "stars": 6045,
       "user": "aiming-lab"
     },
     {
@@ -713,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 539,
       "user": "sstklen"
     },
     {
@@ -775,21 +804,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
       "source": "Dev.to",
       "user": "Chioma Halim"
-    },
-    {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
-      "tags": [
-        "ai",
-        "career",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
-      "source": "Dev.to",
-      "user": "Harsh "
     },
     {
       "title": "How I give my AI agents eyes with a single API call",
@@ -865,6 +879,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
       "source": "Dev.to",
       "user": "Christian Segovia"
+    },
+    {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
     },
     {
       "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
@@ -1028,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3949,
+      "stars": 4030,
       "user": "calesthio"
     },
     {
@@ -1043,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2172,
+      "stars": 2175,
       "user": "pasky"
     },
     {
@@ -1073,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 308,
       "user": "phuc-nt"
     },
     {
@@ -1088,7 +1117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 295,
       "user": "liliMozi"
     }
   ],
@@ -1270,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6011,
+      "stars": 6045,
       "user": "aiming-lab"
     },
     {
@@ -1285,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1306,
       "user": "skernelx"
     },
     {
@@ -1300,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 873,
       "user": "HKUDS"
     },
     {
@@ -1315,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 640,
       "user": "nikmcfly"
     },
     {
@@ -1330,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 539,
       "user": "sstklen"
     }
   ],
@@ -1501,21 +1530,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
       "source": "Dev.to",
       "user": "Providence Ifeosame"
-    },
-    {
-      "title": "Deployments made easy: Cloud Run 101",
-      "url": "https://dev.to/googleai/deployments-made-easy-cloud-run-101-11ma",
-      "published_at": "2026-03-13T17:53:42Z",
-      "description": "The distance between \"it works on my machine\" and \"it's live for the world\" can often feel like a...",
-      "tags": [
-        "googlecloud",
-        "serverless",
-        "beginners",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqitllupmbsfi2mml2opl.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
     },
     {
       "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
@@ -1826,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3949,
+      "stars": 4030,
       "user": "calesthio"
     },
     {
@@ -1841,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2172,
+      "stars": 2175,
       "user": "pasky"
     },
     {
@@ -1871,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 308,
       "user": "phuc-nt"
     },
     {
@@ -1886,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 295,
       "user": "liliMozi"
     },
     {
@@ -1901,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6011,
+      "stars": 6045,
       "user": "aiming-lab"
     },
     {
@@ -1916,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1306,
       "user": "skernelx"
     },
     {
@@ -1931,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 873,
       "user": "HKUDS"
     },
     {
@@ -1946,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 640,
       "user": "nikmcfly"
     },
     {
@@ -1961,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 539,
       "user": "sstklen"
     },
     {
@@ -2006,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "WireRift"
     },
     {
@@ -2036,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348107?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 75,
       "user": "hjr265"
     }
   ]
