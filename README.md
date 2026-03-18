@@ -218,7 +218,7 @@ npm run test
 - [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
 - [The Local AI Powerhouse](https://dev.to/amjadmh73/the-local-ai-powerhouse-28j) _[Dev.to]_
 
-_Last automated update: Thu, 19 Mar 2026 01:42:09 CAT_
+_Last automated update: Thu, 19 Mar 2026 01:59:14 CAT_
 
 
 
@@ -226,29 +226,7 @@ _Last automated update: Thu, 19 Mar 2026 01:42:09 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
-
-**Difficulty**: Easy | **Topics**: express, architecture
-
-<details>
-<summary>💡 Hint</summary>
-
-Request/response cycle, next(), chain of functions
-
-</details>
-
-### 2. React: What are hooks and why were they introduced?
-
-**Difficulty**: Medium | **Topics**: hooks, functional components
-
-<details>
-<summary>💡 Hint</summary>
-
-State in functional components, reusable logic, cleaner code
-
-</details>
-
-### 3. DataStructures: Find the longest substring without repeating characters
+### 1. DataStructures: Find the longest substring without repeating characters
 
 **Difficulty**: Medium | **Topics**: strings, sliding window
 
@@ -256,6 +234,28 @@ State in functional components, reusable logic, cleaner code
 <summary>💡 Hint</summary>
 
 Sliding window, hash map, two pointers
+
+</details>
+
+### 2. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
+
+</details>
+
+### 3. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 18 Mar 2026 23:42:09 GMT</b><br/>
+  <b>Last automated update: Wed, 18 Mar 2026 23:59:14 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
