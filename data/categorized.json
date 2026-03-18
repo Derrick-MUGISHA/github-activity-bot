@@ -31,6 +31,21 @@
       "user": "Oleksander"
     },
     {
+      "title": "Supercharge your workflow with AI dev tools",
+      "url": "https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e",
+      "published_at": "2026-03-18T13:57:01Z",
+      "description": "As developers, we’re no longer just writing lines of code; we’re orchestrating systems. The...",
+      "tags": [
+        "googlecloud",
+        "serverless",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3otvb2z646ytpt1hl2rv.jpg",
+      "source": "Dev.to",
+      "user": "Martin Omander"
+    },
+    {
       "title": "Confident and Wrong",
       "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
       "published_at": "2026-03-17T20:07:24Z",
@@ -495,21 +510,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "mcp-pvp — Privacy Vault Protocol for MCP",
-      "url": "https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80",
-      "published_at": "2026-03-14T23:54:23Z",
-      "description": "Inspiration   We were building an AI agent that handled customer support emails. The agent...",
-      "tags": [
-        "ai",
-        "security",
-        "privacy",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
-      "source": "Dev.to",
-      "user": "Mitiku Yohannes"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -653,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2133,
+      "stars": 2148,
       "user": "pasky"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 284,
       "user": "liliMozi"
     },
     {
@@ -698,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5798,
+      "stars": 5869,
       "user": "aiming-lab"
     },
     {
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 535,
       "user": "sstklen"
     },
     {
@@ -1000,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3692,
+      "stars": 3781,
       "user": "calesthio"
     },
     {
@@ -1015,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2133,
+      "stars": 2148,
       "user": "pasky"
     },
     {
@@ -1045,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 295,
       "user": "phuc-nt"
     },
     {
@@ -1060,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 284,
       "user": "liliMozi"
     }
   ],
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5798,
+      "stars": 5869,
       "user": "aiming-lab"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1297,
+      "stars": 1301,
       "user": "skernelx"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 730,
       "user": "HKUDS"
     },
     {
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 613,
       "user": "nikmcfly"
     },
     {
@@ -1302,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 535,
       "user": "sstklen"
     }
   ],
@@ -1428,6 +1428,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
       "source": "Dev.to",
       "user": "Jeffrey Mew"
+    },
+    {
+      "title": "Supercharge your workflow with AI dev tools",
+      "url": "https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e",
+      "published_at": "2026-03-18T13:57:01Z",
+      "description": "As developers, we’re no longer just writing lines of code; we’re orchestrating systems. The...",
+      "tags": [
+        "googlecloud",
+        "serverless",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3otvb2z646ytpt1hl2rv.jpg",
+      "source": "Dev.to",
+      "user": "Martin Omander"
     },
     {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
@@ -1580,21 +1595,6 @@
       "user": "JLarky"
     },
     {
-      "title": "mcp-pvp — Privacy Vault Protocol for MCP",
-      "url": "https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80",
-      "published_at": "2026-03-14T23:54:23Z",
-      "description": "Inspiration   We were building an AI agent that handled customer support emails. The agent...",
-      "tags": [
-        "ai",
-        "security",
-        "privacy",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpghbuauaed1wh88ltqqx.png",
-      "source": "Dev.to",
-      "user": "Mitiku Yohannes"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1608,6 +1608,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Supercharge your workflow with AI dev tools",
+      "url": "https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e",
+      "published_at": "2026-03-18T13:57:01Z",
+      "description": "As developers, we’re no longer just writing lines of code; we’re orchestrating systems. The...",
+      "tags": [
+        "googlecloud",
+        "serverless",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3otvb2z646ytpt1hl2rv.jpg",
+      "source": "Dev.to",
+      "user": "Martin Omander"
+    },
     {
       "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
       "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
@@ -1740,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3692,
+      "stars": 3781,
       "user": "calesthio"
     },
     {
@@ -1755,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2133,
+      "stars": 2148,
       "user": "pasky"
     },
     {
@@ -1785,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 295,
       "user": "phuc-nt"
     },
     {
@@ -1800,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 284,
       "user": "liliMozi"
     },
     {
@@ -1815,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5798,
+      "stars": 5869,
       "user": "aiming-lab"
     },
     {
@@ -1830,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1297,
+      "stars": 1301,
       "user": "skernelx"
     },
     {
@@ -1845,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 730,
       "user": "HKUDS"
     },
     {
@@ -1860,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 613,
       "user": "nikmcfly"
     },
     {
@@ -1875,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 535,
       "user": "sstklen"
     },
     {
@@ -1890,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 189,
       "user": "antflydb"
     },
     {
@@ -1935,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "agi-bar"
     },
     {
