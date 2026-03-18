@@ -16,19 +16,19 @@
       "user": "Jeffrey Mew"
     },
     {
-      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
-      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
-      "published_at": "2026-03-17T06:06:10Z",
-      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
+      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
+      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
+      "published_at": "2026-03-17T12:19:42Z",
+      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
       "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
+        "ai",
+        "memory",
+        "rust",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
       "source": "Dev.to",
-      "user": "Juan David Gómez"
+      "user": "Oleksander"
     },
     {
       "title": "Confident and Wrong",
@@ -44,21 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
       "source": "Dev.to",
       "user": "Max"
-    },
-    {
-      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
-      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
-      "published_at": "2026-03-17T12:19:42Z",
-      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
-      "tags": [
-        "ai",
-        "memory",
-        "rust",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
-      "source": "Dev.to",
-      "user": "Oleksander"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -116,6 +101,21 @@
       "user": "Justin Headley"
     },
     {
+      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
+      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
+      "published_at": "2026-03-17T06:06:10Z",
+      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
+    },
+    {
       "title": "Git Worktrees Are Underrated",
       "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
       "published_at": "2026-03-16T22:07:48Z",
@@ -160,19 +160,6 @@
       "user": "Amjad Abujamous"
     },
     {
-      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
-      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
-      "published_at": "2026-03-16T06:29:54Z",
-      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
-      "tags": [
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
-      "source": "Dev.to",
-      "user": "nghiahsgs"
-    },
-    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -186,6 +173,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
+      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
+      "published_at": "2026-03-16T06:29:54Z",
+      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
+      "tags": [
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
+      "source": "Dev.to",
+      "user": "nghiahsgs"
     },
     {
       "title": "I Built a Browser UI for Claude Code — Here's Why",
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5357,
+      "stars": 5510,
       "user": "aiming-lab"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 518,
       "user": "sstklen"
     },
     {
@@ -777,21 +777,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png",
       "source": "Dev.to",
       "user": "Vadim Ferderer"
-    },
-    {
-      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
-      "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
-      "published_at": "2026-03-11T17:30:00Z",
-      "description": "This is the third part in a tenuously linked series defending JavaScript singletons in a modern...",
-      "tags": [
-        "microfrontend",
-        "webdev",
-        "react",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
     },
     {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
@@ -985,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3479,
+      "stars": 3530,
       "user": "calesthio"
     },
     {
@@ -1030,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "phuc-nt"
     },
     {
@@ -1227,7 +1212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5357,
+      "stars": 5510,
       "user": "aiming-lab"
     },
     {
@@ -1242,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1290,
+      "stars": 1291,
       "user": "skernelx"
     },
     {
@@ -1257,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 583,
       "user": "nikmcfly"
     },
     {
@@ -1272,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 561,
       "user": "HKUDS"
     },
     {
@@ -1287,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 518,
       "user": "sstklen"
     }
   ],
@@ -1309,21 +1294,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
-      "url": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
-      "published_at": "2026-03-11T17:30:00Z",
-      "description": "This is the third part in a tenuously linked series defending JavaScript singletons in a modern...",
-      "tags": [
-        "microfrontend",
-        "webdev",
-        "react",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbws3g31pnhnlxj8zdk30.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
     {
       "title": "Backstage logbook: Migrating the Catalog Plugin to the New Frontend System",
       "url": "https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6",
@@ -1725,7 +1695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 3479,
+      "stars": 3530,
       "user": "calesthio"
     },
     {
@@ -1770,7 +1740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "phuc-nt"
     },
     {
@@ -1800,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 5357,
+      "stars": 5510,
       "user": "aiming-lab"
     },
     {
@@ -1815,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1290,
+      "stars": 1291,
       "user": "skernelx"
     },
     {
@@ -1830,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 583,
       "user": "nikmcfly"
     },
     {
@@ -1845,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 561,
       "user": "HKUDS"
     },
     {
@@ -1860,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 518,
       "user": "sstklen"
     },
     {
@@ -1875,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 183,
       "user": "antflydb"
     },
     {
@@ -1935,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 71,
       "user": "roots"
     }
   ]
