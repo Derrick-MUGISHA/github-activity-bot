@@ -1,18 +1,18 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 52,
+    "AI": 54,
     "JavaScript": 26,
     "Python": 18,
     "DevOps": 2,
     "WebDev": 5,
     "Mobile": 1,
-    "Cloud": 5,
+    "Cloud": 4,
     "Database": 6,
     "Security": 4,
     "Tools": 24
@@ -30,17 +30,17 @@
   "by_date": {
     "2026-03-17": 14,
     "2026-03-18": 4,
-    "2026-03-16": 14,
-    "2026-03-14": 5,
-    "2026-03-13": 8,
+    "2026-03-16": 15,
+    "2026-03-13": 7,
     "2026-03-11": 2,
-    "2026-03-15": 8,
+    "2026-03-15": 9,
     "2026-03-06": 3,
     "2026-03-07": 3,
     "2026-03-12": 6,
     "2026-03-05": 1,
     "2026-03-09": 1,
     "2026-02-27": 1,
+    "2026-03-14": 5,
     "2026-03-08": 2,
     "2026-03-10": 1,
     "2026-03-03": 2,
@@ -74,7 +74,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 21,
+    "ai": 23,
     "webdev": 16,
     "github": 15,
     "open-source": 15,
@@ -82,18 +82,18 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "devchallenge": 8,
     "go": 7,
     "opensource": 7,
-    "devchallenge": 7,
+    "discuss": 6,
     "programming": 6,
     "career": 6,
     "python": 6,
-    "discuss": 5,
+    "mcp": 5,
     "productivity": 5,
-    "mcp": 4,
-    "wecoded": 4,
-    "typescript": 4,
-    "notionchallenge": 4
+    "notionchallenge": 5,
+    "watercooler": 4,
+    "wecoded": 4
   },
   "trending_topics": [],
   "language_percentages": {
