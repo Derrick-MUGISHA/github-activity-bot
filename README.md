@@ -218,7 +218,7 @@ npm run test
 - [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 01:26:45 CAT_
+_Last automated update: Fri, 20 Mar 2026 01:53:04 CAT_
 
 
 
@@ -226,29 +226,7 @@ _Last automated update: Fri, 20 Mar 2026 01:26:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
-
-**Difficulty**: Medium | **Topics**: strings, sliding window
-
-<details>
-<summary>💡 Hint</summary>
-
-Sliding window, hash map, two pointers
-
-</details>
-
-### 2. JavaScript: What are closures and provide a practical example?
-
-**Difficulty**: Medium | **Topics**: functions, scope
-
-<details>
-<summary>💡 Hint</summary>
-
-Function + lexical environment, data privacy, callbacks
-
-</details>
-
-### 3. SystemDesign: Design a distributed cache system
+### 1. SystemDesign: Design a distributed cache system
 
 **Difficulty**: Hard | **Topics**: distributed systems, caching
 
@@ -256,6 +234,28 @@ Function + lexical environment, data privacy, callbacks
 <summary>💡 Hint</summary>
 
 Consistency, partitioning, replication, eviction policies
+
+</details>
+
+### 2. Database: Explain database indexing and when to use it
+
+**Difficulty**: Medium | **Topics**: optimization, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+B-tree, trade-offs, query performance
+
+</details>
+
+### 3. Python: Implement a context manager using __enter__ and __exit__
+
+**Difficulty**: Hard | **Topics**: context managers, resource management
+
+<details>
+<summary>💡 Hint</summary>
+
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 19 Mar 2026 23:26:45 GMT</b><br/>
+  <b>Last automated update: Thu, 19 Mar 2026 23:53:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
