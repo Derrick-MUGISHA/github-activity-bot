@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "published_at": "2026-03-18T14:39:24Z",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
-      "tags": [
-        "opensource",
-        "security",
-        "kubernetes",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
-      "source": "Dev.to",
-      "user": "Kat Cosgrove"
-    },
-    {
       "title": "How to Stop Babysitting Your AI Agents",
       "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
       "published_at": "2026-03-18T13:50:00Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
       "source": "Dev.to",
       "user": "J. R. Swab"
+    },
+    {
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "tags": [
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "source": "Dev.to",
+      "user": "Kat Cosgrove"
     },
     {
       "title": "Confident and Wrong",
@@ -86,6 +86,21 @@
       "user": "Typing Turtle"
     },
     {
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
+      "published_at": "2026-03-17T18:32:57Z",
+      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
+      "tags": [
+        "cloud",
+        "agents",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
+      "source": "Dev.to",
+      "user": "Jeffrey Mew"
+    },
+    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -112,21 +127,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
       "source": "Dev.to",
       "user": "Juan David Gómez"
-    },
-    {
-      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
-      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
-      "published_at": "2026-03-17T18:32:57Z",
-      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
-      "tags": [
-        "cloud",
-        "agents",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
-      "source": "Dev.to",
-      "user": "Jeffrey Mew"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -498,21 +498,6 @@
       "user": "Firas M. Darwish"
     },
     {
-      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
-      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
-      "published_at": "2026-03-14T22:50:01Z",
-      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
-      "tags": [
-        "productivity",
-        "tooling",
-        "ruby",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
-      "source": "Dev.to",
-      "user": "Mirzalazuardi"
-    },
-    {
       "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
       "url": "https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4",
       "published_at": "2026-03-16T06:24:31Z",
@@ -525,6 +510,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
       "source": "Dev.to",
       "user": "Takahiro Ikeuchi"
+    },
+    {
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
+      "source": "Dev.to",
+      "user": "Alex"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2198,
+      "stars": 2238,
       "user": "pasky"
     },
     {
@@ -685,23 +685,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 507,
       "user": "KeyID-AI"
-    },
-    {
-      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "url": "https://github.com/liliMozi/openhanako",
-      "published_at": "2026-03-15T07:01:45Z",
-      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
-      "source": "GitHub",
-      "stars": 298,
-      "user": "liliMozi"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -715,38 +700,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6187,
+      "stars": 6336,
       "user": "aiming-lab"
-    },
-    {
-      "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "url": "https://github.com/sstklen/trump-code",
-      "published_at": "2026-03-15T03:13:51Z",
-      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
-      "source": "GitHub",
-      "stars": 546,
-      "user": "sstklen"
-    },
-    {
-      "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
-      "url": "https://github.com/QQ3221197721/cloudai-fusion",
-      "published_at": "2026-03-12T13:03:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "QQ3221197721"
     }
   ],
   "JavaScript": [
@@ -884,21 +839,6 @@
       "user": "Harsh "
     },
     {
-      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
-      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
-      "published_at": "2026-03-14T22:50:01Z",
-      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
-      "tags": [
-        "productivity",
-        "tooling",
-        "ruby",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
-      "source": "Dev.to",
-      "user": "Mirzalazuardi"
-    },
-    {
       "title": "i built a social platform where everything vanishes after 24 hours",
       "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
       "published_at": "2026-03-03T04:44:50Z",
@@ -1034,6 +974,21 @@
       "user": "velmu"
     },
     {
+      "title": "NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "published_at": "2026-03-15T17:04:09Z",
+      "description": "NVIDIA plugin for secure installation of OpenClaw",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
+      "source": "GitHub",
+      "stars": 9117,
+      "user": "NVIDIA"
+    },
+    {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
       "url": "https://github.com/calesthio/Crucix",
       "published_at": "2026-03-14T07:33:06Z",
@@ -1045,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4421,
+      "stars": 4621,
       "user": "calesthio"
     },
     {
@@ -1060,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2198,
+      "stars": 2238,
       "user": "pasky"
     },
     {
@@ -1075,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 507,
       "user": "KeyID-AI"
     },
     {
@@ -1090,23 +1045,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 327,
       "user": "phuc-nt"
-    },
-    {
-      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "url": "https://github.com/liliMozi/openhanako",
-      "published_at": "2026-03-15T07:01:45Z",
-      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
-      "source": "GitHub",
-      "stars": 298,
-      "user": "liliMozi"
     }
   ],
   "Python": [
@@ -1287,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6187,
+      "stars": 6336,
       "user": "aiming-lab"
     },
     {
@@ -1302,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1310,
       "user": "skernelx"
     },
     {
@@ -1317,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 1177,
       "user": "HKUDS"
     },
     {
@@ -1332,23 +1272,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 696,
       "user": "nikmcfly"
     },
     {
-      "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "url": "https://github.com/sstklen/trump-code",
-      "published_at": "2026-03-15T03:13:51Z",
-      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+      "title": "cnlimiter/codex-register - GitHub Repository",
+      "url": "https://github.com/cnlimiter/codex-register",
+      "published_at": "2026-03-15T12:59:27Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 546,
-      "user": "sstklen"
+      "stars": 602,
+      "user": "cnlimiter"
     }
   ],
   "DevOps": [
@@ -1518,21 +1458,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
       "source": "Dev.to",
       "user": "Providence Ifeosame"
-    },
-    {
-      "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
-      "url": "https://github.com/QQ3221197721/cloudai-fusion",
-      "published_at": "2026-03-12T13:03:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "QQ3221197721"
     }
   ],
   "Database": [
@@ -1802,19 +1727,34 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "I Built a Bash Script That Traces Code Faster Than Your IDE (And Saves AI Tokens)",
-      "url": "https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki",
-      "published_at": "2026-03-14T22:50:01Z",
-      "description": "You're debugging a Rails app. The bug is somewhere in process_payment. You could:  A) Open your IDE,...",
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
       "tags": [
+        "ai",
+        "agents",
         "productivity",
-        "tooling",
-        "ruby",
-        "javascript"
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg62mb7geit48th7umpl5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
       "source": "Dev.to",
-      "user": "Mirzalazuardi"
+      "user": "Alex"
+    },
+    {
+      "title": "NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "published_at": "2026-03-15T17:04:09Z",
+      "description": "NVIDIA plugin for secure installation of OpenClaw",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
+      "source": "GitHub",
+      "stars": 9117,
+      "user": "NVIDIA"
     },
     {
       "title": "calesthio/Crucix - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
@@ -1828,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4421,
+      "stars": 4621,
       "user": "calesthio"
     },
     {
@@ -1843,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2198,
+      "stars": 2238,
       "user": "pasky"
     },
     {
@@ -1858,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 507,
       "user": "KeyID-AI"
     },
     {
@@ -1873,23 +1813,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 327,
       "user": "phuc-nt"
-    },
-    {
-      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "url": "https://github.com/liliMozi/openhanako",
-      "published_at": "2026-03-15T07:01:45Z",
-      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
-      "source": "GitHub",
-      "stars": 298,
-      "user": "liliMozi"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -1903,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6187,
+      "stars": 6336,
       "user": "aiming-lab"
     },
     {
@@ -1918,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1310,
       "user": "skernelx"
     },
     {
@@ -1933,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 1177,
       "user": "HKUDS"
     },
     {
@@ -1948,23 +1873,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 696,
       "user": "nikmcfly"
     },
     {
-      "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "url": "https://github.com/sstklen/trump-code",
-      "published_at": "2026-03-15T03:13:51Z",
-      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+      "title": "cnlimiter/codex-register - GitHub Repository",
+      "url": "https://github.com/cnlimiter/codex-register",
+      "published_at": "2026-03-15T12:59:27Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 546,
-      "user": "sstklen"
+      "stars": 602,
+      "user": "cnlimiter"
     },
     {
       "title": "antflydb/antfly - GitHub Repository",
@@ -1978,23 +1903,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 212,
       "user": "antflydb"
-    },
-    {
-      "title": "QQ3221197721/cloudai-fusion - GitHub Repository",
-      "url": "https://github.com/QQ3221197721/cloudai-fusion",
-      "published_at": "2026-03-12T13:03:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252306653?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "QQ3221197721"
     },
     {
       "title": "WireRift/WireRift - Tear a rift through the wire. Expose localhost to the world.",
@@ -2023,23 +1933,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 95,
       "user": "agi-bar"
     },
     {
-      "title": "hjr265/gittop - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.",
-      "url": "https://github.com/hjr265/gittop",
-      "published_at": "2026-03-12T19:35:48Z",
-      "description": "A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.",
+      "title": "roots/wp-composer - A modern, community-funded Composer repository for WordPress plugins and themes",
+      "url": "https://github.com/roots/wp-composer",
+      "published_at": "2026-03-14T18:05:07Z",
+      "description": "A modern, community-funded Composer repository for WordPress plugins and themes",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348107?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 80,
-      "user": "hjr265"
+      "stars": 74,
+      "user": "roots"
+    },
+    {
+      "title": "gocronx/seqdelay - High-performance delay queue",
+      "url": "https://github.com/gocronx/seqdelay",
+      "published_at": "2026-03-15T17:17:26Z",
+      "description": "High-performance delay queue",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/213807046?v=4",
+      "source": "GitHub",
+      "stars": 65,
+      "user": "gocronx"
     }
   ]
 }
