@@ -438,21 +438,6 @@
       "user": "Hamed Farag"
     },
     {
-      "title": "Notion Skills Registry: A Package Manager for AI Agent Skills with MCP",
-      "url": "https://dev.to/axrisi/notion-skills-registry-a-package-manager-for-ai-agent-skills-with-mcp-2581",
-      "published_at": "2026-03-16T09:28:46Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   I built Notion Skills...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feg9okvcj4ck1zj5gjpvz.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
-    },
-    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -466,6 +451,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "Notion Skills Registry: A Package Manager for AI Agent Skills with MCP",
+      "url": "https://dev.to/axrisi/notion-skills-registry-a-package-manager-for-ai-agent-skills-with-mcp-2581",
+      "published_at": "2026-03-16T09:28:46Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   I built Notion Skills...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feg9okvcj4ck1zj5gjpvz.png",
+      "source": "Dev.to",
+      "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
       "title": "When AI Writes the Code… Who Takes Responsibility?",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2243,
+      "stars": 2247,
       "user": "pasky"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 507,
       "user": "KeyID-AI"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6373,
+      "stars": 6403,
       "user": "aiming-lab"
     }
   ],
@@ -985,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 9292,
+      "stars": 9499,
       "user": "NVIDIA"
     },
     {
@@ -1000,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4664,
+      "stars": 4692,
       "user": "calesthio"
     },
     {
@@ -1015,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2243,
+      "stars": 2247,
       "user": "pasky"
     },
     {
@@ -1030,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 507,
       "user": "KeyID-AI"
     },
     {
@@ -1045,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "phuc-nt"
     }
   ],
@@ -1227,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6373,
+      "stars": 6403,
       "user": "aiming-lab"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1314,
       "user": "skernelx"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1229,
       "user": "HKUDS"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 706,
       "user": "nikmcfly"
     },
     {
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 708,
       "user": "cnlimiter"
     }
   ],
@@ -1753,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 9292,
+      "stars": 9499,
       "user": "NVIDIA"
     },
     {
@@ -1768,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4664,
+      "stars": 4692,
       "user": "calesthio"
     },
     {
@@ -1783,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2243,
+      "stars": 2247,
       "user": "pasky"
     },
     {
@@ -1798,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 507,
       "user": "KeyID-AI"
     },
     {
@@ -1813,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "phuc-nt"
     },
     {
@@ -1828,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6373,
+      "stars": 6403,
       "user": "aiming-lab"
     },
     {
@@ -1843,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1314,
       "user": "skernelx"
     },
     {
@@ -1858,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1229,
       "user": "HKUDS"
     },
     {
@@ -1873,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 706,
       "user": "nikmcfly"
     },
     {
@@ -1888,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 708,
       "user": "cnlimiter"
     },
     {
