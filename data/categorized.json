@@ -15,21 +15,6 @@
       "user": "Wynand Pieters"
     },
     {
-      "title": "How to Stop Babysitting Your AI Agents",
-      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
-      "published_at": "2026-03-18T13:50:00Z",
-      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
-      "tags": [
-        "llmagents",
-        "cli",
-        "devtools",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
-      "source": "Dev.to",
-      "user": "J. R. Swab"
-    },
-    {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
       "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
       "published_at": "2026-03-18T14:39:24Z",
@@ -75,6 +60,21 @@
       "user": "Justin Headley"
     },
     {
+      "title": "How to Stop Babysitting Your AI Agents",
+      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
+      "published_at": "2026-03-18T13:50:00Z",
+      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
+      "tags": [
+        "llmagents",
+        "cli",
+        "devtools",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
+      "source": "Dev.to",
+      "user": "J. R. Swab"
+    },
+    {
       "title": "FE/BE - Unite Them!",
       "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
       "published_at": "2026-03-17T14:02:20Z",
@@ -100,6 +100,35 @@
       "user": "Jeffrey Mew"
     },
     {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
+    },
+    {
+      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
+      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
+      "published_at": "2026-03-18T23:02:35Z",
+      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
+      "tags": [
+        "ai",
+        "tooling",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
+      "source": "Dev.to",
+      "user": "Brian Love"
+    },
+    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -111,6 +140,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
       "source": "Dev.to",
       "user": "Chioma Halim"
+    },
+    {
+      "title": "We Can't Code Anymore. AI Won't. What Then?",
+      "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
+      "published_at": "2026-03-18T19:29:59Z",
+      "description": "I've been in IT for 30 years, 20 of them as a developer. The more I hear people say there's no need...",
+      "tags": [
+        "ai",
+        "programming",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
+      "source": "Dev.to",
+      "user": "Patric Green"
+    },
+    {
+      "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
+      "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
+      "published_at": "2026-03-18T16:26:53Z",
+      "description": "You wouldn't leave your car engine running while you grab groceries. So why are you burning...",
+      "tags": [
+        "ai",
+        "cursor",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
+      "source": "Dev.to",
+      "user": "Dineshraj Anandan"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -141,6 +200,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
       "source": "Dev.to",
       "user": "Oleksander"
+    },
+    {
+      "title": "Ai-lone",
+      "url": "https://dev.to/314rate/ai-lone-4ae9",
+      "published_at": "2026-03-17T00:00:00Z",
+      "description": "A sentence from Salma Alam-Naylor about AI and loneliness hits close to home. On remote work,...",
+      "tags": [
+        "webdev",
+        "ai",
+        "work"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwt2rijx7v2jzn65wiegl.png",
+      "source": "Dev.to",
+      "user": "Dennis Lemm"
     },
     {
       "title": "Confident and Wrong",
@@ -214,80 +287,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
       "source": "Dev.to",
       "user": "Providence Ifeosame"
-    },
-    {
-      "title": "Ship Less, Measure More",
-      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
-      "published_at": "2026-03-06T22:07:43Z",
-      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
-      "tags": [
-        "ai",
-        "programming",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
-      "source": "Dev.to",
-      "user": "Mike Krop"
-    },
-    {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
-      "tags": [
-        "ai",
-        "javascript",
-        "tooling",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
-      "source": "Dev.to",
-      "user": "Rowan Merewood"
-    },
-    {
-      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
-      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
-      "published_at": "2026-03-17T06:06:10Z",
-      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
-      "source": "Dev.to",
-      "user": "Juan David Gómez"
-    },
-    {
-      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
-      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
-      "published_at": "2026-03-16T14:42:02Z",
-      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
-      "tags": [
-        "rust",
-        "postgres",
-        "opensource",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
-      "source": "Dev.to",
-      "user": "Faruk Durgut"
-    },
-    {
-      "title": "Git Worktrees Are Underrated",
-      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
-      "published_at": "2026-03-16T22:07:48Z",
-      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
-      "tags": [
-        "git",
-        "cli",
-        "productivity",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
-      "source": "Dev.to",
-      "user": "Dennis Morello"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -726,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6632,
+      "stars": 6653,
       "user": "aiming-lab"
     }
   ],
@@ -773,21 +772,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
       "source": "Dev.to",
       "user": "Chioma Halim"
-    },
-    {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
-      "tags": [
-        "ai",
-        "javascript",
-        "tooling",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
-      "source": "Dev.to",
-      "user": "Rowan Merewood"
     },
     {
       "title": "One regex to match them all",
@@ -1011,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11097,
+      "stars": 11298,
       "user": "NVIDIA"
     },
     {
@@ -1026,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4945,
+      "stars": 4974,
       "user": "calesthio"
     },
     {
@@ -1071,7 +1055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "phuc-nt"
     }
   ],
@@ -1253,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6632,
+      "stars": 6653,
       "user": "aiming-lab"
     },
     {
@@ -1268,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1468,
+      "stars": 1528,
       "user": "HKUDS"
     },
     {
@@ -1283,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1326,
       "user": "skernelx"
     },
     {
@@ -1298,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 955,
       "user": "cnlimiter"
     },
     {
@@ -1313,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 739,
       "user": "nikmcfly"
     }
   ],
@@ -1332,6 +1316,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
       "user": "Kat Cosgrove"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
+    },
+    {
+      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
+      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
+      "published_at": "2026-03-18T23:02:35Z",
+      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
+      "tags": [
+        "ai",
+        "tooling",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
+      "source": "Dev.to",
+      "user": "Brian Love"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1424,6 +1437,21 @@
   ],
   "Mobile": [
     {
+      "title": "TrackFlow: A Kotlin Multiplatform Analytics Router for Android and iOS",
+      "url": "https://dev.to/2_cranes/trackflow-a-kotlin-multiplatform-analytics-router-for-android-and-ios-2n6p",
+      "published_at": "2026-03-18T18:19:10Z",
+      "description": "Analytics is one of those things every app needs, but very few teams enjoy implementing.  A typical...",
+      "tags": [
+        "kotlin",
+        "android",
+        "ios",
+        "analytics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F55gowueiasjansu3w6jy.png",
+      "source": "Dev.to",
+      "user": "Lecrane"
+    },
+    {
       "title": "Confident and Wrong",
       "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
       "published_at": "2026-03-17T20:07:24Z",
@@ -1503,21 +1531,6 @@
       "user": "Bohdan Stupak"
     },
     {
-      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
-      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
-      "published_at": "2026-03-16T14:42:02Z",
-      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
-      "tags": [
-        "rust",
-        "postgres",
-        "opensource",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
-      "source": "Dev.to",
-      "user": "Faruk Durgut"
-    },
-    {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
       "published_at": "2026-03-07T09:30:17Z",
@@ -1592,6 +1605,35 @@
       "user": "Kat Cosgrove"
     },
     {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
+    },
+    {
+      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
+      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
+      "published_at": "2026-03-18T23:02:35Z",
+      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
+      "tags": [
+        "ai",
+        "tooling",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
+      "source": "Dev.to",
+      "user": "Brian Love"
+    },
+    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -1618,21 +1660,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "How to Stop Babysitting Your AI Agents",
-      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
-      "published_at": "2026-03-18T13:50:00Z",
-      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
-      "tags": [
-        "llmagents",
-        "cli",
-        "devtools",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
-      "source": "Dev.to",
-      "user": "J. R. Swab"
-    },
     {
       "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
       "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
@@ -1664,49 +1691,48 @@
       "user": "Martin Omander"
     },
     {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
+      "title": "How to Stop Babysitting Your AI Agents",
+      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
+      "published_at": "2026-03-18T13:50:00Z",
+      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
+      "tags": [
+        "llmagents",
+        "cli",
+        "devtools",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
+      "source": "Dev.to",
+      "user": "J. R. Swab"
+    },
+    {
+      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
+      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
+      "published_at": "2026-03-18T23:02:35Z",
+      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
       "tags": [
         "ai",
-        "javascript",
         "tooling",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
+      "source": "Dev.to",
+      "user": "Brian Love"
+    },
+    {
+      "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
+      "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
+      "published_at": "2026-03-18T16:26:53Z",
+      "description": "You wouldn't leave your car engine running while you grab groceries. So why are you burning...",
+      "tags": [
+        "ai",
+        "cursor",
+        "programming",
         "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
       "source": "Dev.to",
-      "user": "Rowan Merewood"
-    },
-    {
-      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
-      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
-      "published_at": "2026-03-17T06:06:10Z",
-      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
-      "source": "Dev.to",
-      "user": "Juan David Gómez"
-    },
-    {
-      "title": "Git Worktrees Are Underrated",
-      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
-      "published_at": "2026-03-16T22:07:48Z",
-      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
-      "tags": [
-        "git",
-        "cli",
-        "productivity",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
-      "source": "Dev.to",
-      "user": "Dennis Morello"
+      "user": "Dineshraj Anandan"
     },
     {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
@@ -1765,7 +1791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11097,
+      "stars": 11298,
       "user": "NVIDIA"
     },
     {
@@ -1780,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4945,
+      "stars": 4974,
       "user": "calesthio"
     },
     {
@@ -1825,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "phuc-nt"
     },
     {
@@ -1840,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6632,
+      "stars": 6653,
       "user": "aiming-lab"
     },
     {
@@ -1855,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1468,
+      "stars": 1528,
       "user": "HKUDS"
     },
     {
@@ -1870,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1326,
       "user": "skernelx"
     },
     {
@@ -1885,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 955,
       "user": "cnlimiter"
     },
     {
@@ -1900,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 739,
       "user": "nikmcfly"
     },
     {
@@ -1945,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "agi-bar"
     },
     {
@@ -1960,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "roots"
     },
     {
