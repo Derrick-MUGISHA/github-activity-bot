@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "We've Seen This Movie Before",
+      "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
+      "published_at": "2026-03-19T08:54:35Z",
+      "description": "I've been sitting on this comparison for a while, trying to decide if it was too obvious to write...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
+      "source": "Dev.to",
+      "user": "Wynand Pieters"
+    },
+    {
       "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
       "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
       "published_at": "2026-03-19T18:12:23Z",
@@ -14,20 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
       "source": "Dev.to",
       "user": "Kat Kampf"
-    },
-    {
-      "title": "We've Seen This Movie Before",
-      "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
-      "published_at": "2026-03-19T08:54:35Z",
-      "description": "I've been sitting on this comparison for a while, trying to decide if it was too obvious to write...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
-      "source": "Dev.to",
-      "user": "Wynand Pieters"
     },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
@@ -105,31 +105,6 @@
       "user": "J. R. Swab"
     },
     {
-      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
-      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
-      "published_at": "2026-03-17T17:43:25Z",
-      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
-      "tags": [
-        "ai",
-        "opensource",
-        "claudecode",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
-      "source": "Dev.to",
-      "user": "Justin Headley"
-    },
-    {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
-    },
-    {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
       "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
       "published_at": "2026-03-19T01:45:21Z",
@@ -143,6 +118,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
       "source": "Dev.to",
       "user": "SHIBATA Hiroshi"
+    },
+    {
+      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
+      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
+      "published_at": "2026-03-17T17:43:25Z",
+      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
+      "tags": [
+        "ai",
+        "opensource",
+        "claudecode",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
+      "source": "Dev.to",
+      "user": "Justin Headley"
     },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
@@ -159,32 +149,14 @@
       "user": "Brian Love"
     },
     {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
       "source": "Dev.to",
-      "user": "Michael Bogan"
-    },
-    {
-      "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
-      "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
-      "published_at": "2026-03-17T23:55:52Z",
-      "description": "Embedding third-party content with an iframe is straightforward until it suddenly stops...",
-      "tags": [
-        "javascript",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
-      "source": "Dev.to",
-      "user": "Chioma Halim"
+      "user": "Typing Turtle"
     },
     {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
@@ -200,21 +172,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
-    },
-    {
-      "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
-      "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
-      "published_at": "2026-03-18T16:26:53Z",
-      "description": "You wouldn't leave your car engine running while you grab groceries. So why are you burning...",
-      "tags": [
-        "ai",
-        "cursor",
-        "programming",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
-      "source": "Dev.to",
-      "user": "Dineshraj Anandan"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -758,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2292,
+      "stars": 2294,
       "user": "pasky"
     },
     {
@@ -773,8 +730,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "KeyID-AI"
+    },
+    {
+      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
+      "url": "https://github.com/liliMozi/openhanako",
+      "published_at": "2026-03-15T07:01:45Z",
+      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
+      "source": "GitHub",
+      "stars": 377,
+      "user": "liliMozi"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -788,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6706,
+      "stars": 6716,
       "user": "aiming-lab"
     }
   ],
@@ -852,19 +824,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
       "source": "Dev.to",
       "user": "Justin Headley"
-    },
-    {
-      "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
-      "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
-      "published_at": "2026-03-17T23:55:52Z",
-      "description": "Embedding third-party content with an iframe is straightforward until it suddenly stops...",
-      "tags": [
-        "javascript",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
-      "source": "Dev.to",
-      "user": "Chioma Halim"
     },
     {
       "title": "Gemini CLI and Jules: my March 2026 stack",
@@ -1088,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11833,
+      "stars": 11916,
       "user": "NVIDIA"
     },
     {
@@ -1103,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5059,
+      "stars": 5077,
       "user": "calesthio"
     },
     {
@@ -1118,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2292,
+      "stars": 2294,
       "user": "pasky"
     },
     {
@@ -1133,23 +1092,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "KeyID-AI"
     },
     {
-      "title": "phuc-nt/my-translator - Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only",
-      "url": "https://github.com/phuc-nt/my-translator",
-      "published_at": "2026-03-13T11:07:44Z",
-      "description": "Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only",
+      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
+      "url": "https://github.com/liliMozi/openhanako",
+      "published_at": "2026-03-15T07:01:45Z",
+      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 376,
-      "user": "phuc-nt"
+      "stars": 377,
+      "user": "liliMozi"
     }
   ],
   "Python": [
@@ -1330,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6706,
+      "stars": 6716,
       "user": "aiming-lab"
     },
     {
@@ -1345,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1620,
       "user": "HKUDS"
     },
     {
@@ -1360,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1328,
       "user": "skernelx"
     },
     {
@@ -1375,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1005,
       "user": "cnlimiter"
     },
     {
@@ -1390,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 756,
       "user": "nikmcfly"
     }
   ],
@@ -1408,21 +1367,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
-    },
-    {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
     },
     {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
@@ -1697,34 +1641,6 @@
       "user": "Brian Love"
     },
     {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
-    },
-    {
-      "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
-      "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
-      "published_at": "2026-03-17T23:55:52Z",
-      "description": "Embedding third-party content with an iframe is straightforward until it suddenly stops...",
-      "tags": [
-        "javascript",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
-      "source": "Dev.to",
-      "user": "Chioma Halim"
-    },
-    {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
       "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
       "published_at": "2026-03-18T14:39:24Z",
@@ -1858,21 +1774,6 @@
       "user": "Brian Love"
     },
     {
-      "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
-      "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
-      "published_at": "2026-03-18T16:26:53Z",
-      "description": "You wouldn't leave your car engine running while you grab groceries. So why are you burning...",
-      "tags": [
-        "ai",
-        "cursor",
-        "programming",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
-      "source": "Dev.to",
-      "user": "Dineshraj Anandan"
-    },
-    {
       "title": "Gemini CLI and Jules: my March 2026 stack",
       "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
       "published_at": "2026-03-15T17:28:43Z",
@@ -1959,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11833,
+      "stars": 11916,
       "user": "NVIDIA"
     },
     {
@@ -1974,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5059,
+      "stars": 5077,
       "user": "calesthio"
     },
     {
@@ -1989,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2292,
+      "stars": 2294,
       "user": "pasky"
     },
     {
@@ -2004,23 +1905,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "KeyID-AI"
     },
     {
-      "title": "phuc-nt/my-translator - Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only",
-      "url": "https://github.com/phuc-nt/my-translator",
-      "published_at": "2026-03-13T11:07:44Z",
-      "description": "Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only",
+      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
+      "url": "https://github.com/liliMozi/openhanako",
+      "published_at": "2026-03-15T07:01:45Z",
+      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 376,
-      "user": "phuc-nt"
+      "stars": 377,
+      "user": "liliMozi"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -2034,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6706,
+      "stars": 6716,
       "user": "aiming-lab"
     },
     {
@@ -2049,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1620,
       "user": "HKUDS"
     },
     {
@@ -2064,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1328,
       "user": "skernelx"
     },
     {
@@ -2079,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1005,
       "user": "cnlimiter"
     },
     {
@@ -2094,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 756,
       "user": "nikmcfly"
     },
     {
