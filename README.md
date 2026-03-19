@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-19-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,31 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (54.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦 5 (4.9%)
+**Security**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦🟦 5 (4.9%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦 4 (3.9%)
+**DevOps**: 🟦 4 (3.8%)
 
-**Database**: 🟦 4 (3.9%)
+**Database**: 🟦 4 (3.8%)
 
 **Cloud**: 🟦 3 (2.9%)
 
-**Mobile**:  1 (1.0%)
+**Mobile**: 🟦 2 (1.9%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,32 +60,34 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.7 (28.7%)
-Java            ████████████████████████████ 26.4 (26.4%)
-Go              ████████████████████ 19.5 (19.5%)
-Python          ████████████████████ 19.5 (19.5%)
-Rust            ████ 3.4 (3.4%)
+JavaScript      ██████████████████████████████ 27.8 (27.8%)
+Java            █████████████████████████████ 26.7 (26.7%)
+Go              ████████████████████ 18.9 (18.9%)
+Python          ████████████████████ 18.9 (18.9%)
+Rust            ████ 3.3 (3.3%)
+Swift           ██ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
+Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 25
-    "Java" : 23
+    "Java" : 24
     "Go" : 17
     "Python" : 17
     "Rust" : 3
+    "Swift" : 2
     "Ruby" : 1
-    "Swift" : 1
+    "Kotlin" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-29-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
+![ai](https://img.shields.io/badge/ai-29-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
 
 
 
@@ -125,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-19 22:00 CAT)
+## 📅 Latest Updates (2026-03-19 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -133,10 +135,48 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg" width="200" alt="Congrats to the Winners of Our First DEV Weekend Challenge!" />
+      <br/>
+      <b>Congrats to the Winners of Our First DEV Weekend C...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/wynandpieters/weve-seen-this-movie-before-3719">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png" width="200" alt="We've Seen This Movie Before" />
       <br/>
       <b>We've Seen This Movie Before</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frongxsj38fdfu0868zbh.png" width="200" alt="I Think a Lot of Developers Are Quietly Grieving the Old Internet" />
+      <br/>
+      <b>I Think a Lot of Developers Are Quietly Grieving t...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png" width="200" alt="I Tried Vite+ and Replaced My Entire Frontend Toolchain" />
+      <br/>
+      <b>I Tried Vite+ and Replaced My Entire Frontend Tool...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png" width="200" alt="Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase" />
+      <br/>
+      <b>Intelligence, Farming, and Why AI Is Still Mostly ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -150,44 +190,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg" width="200" alt="Congrats to the Winners of Our First DEV Weekend Challenge!" />
-      <br/>
-      <b>Congrats to the Winners of Our First DEV Weekend C...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frongxsj38fdfu0868zbh.png" width="200" alt="I Think a Lot of Developers Are Quietly Grieving the Old Internet" />
-      <br/>
-      <b>I Think a Lot of Developers Are Quietly Grieving t...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png" width="200" alt="I Tried Vite+ and Replaced My Entire Frontend Toolchain" />
-      <br/>
-      <b>I Tried Vite+ and Replaced My Entire Frontend Tool...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg" width="200" alt="Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly" />
-      <br/>
-      <b>Vitest's 4.1 New "Fast-Forward" Mode Skips Timer D...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -195,13 +197,13 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [We've Seen This Movie Before](https://dev.to/wynandpieters/weve-seen-this-movie-before-3719) _[Dev.to]_
-- [Introducing the new full-stack vibe coding experience in Google AI Studio](https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g) _[Dev.to]_
 - [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml) _[Dev.to]_
+- [We've Seen This Movie Before](https://dev.to/wynandpieters/weve-seen-this-movie-before-3719) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb) _[Dev.to]_
-- [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h) _[Dev.to]_
 - [Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase](https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe) _[Dev.to]_
+- [Introducing the new full-stack vibe coding experience in Google AI Studio](https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g) _[Dev.to]_
+- [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h) _[Dev.to]_
 - [Should RubyGems/Bundler Have a Cooldown Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp) _[Dev.to]_
 - [Anki On My Wrist](https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6) _[Dev.to]_
 - [Supercharge your workflow with AI dev tools](https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e) _[Dev.to]_
@@ -216,7 +218,7 @@ npm run test
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [Who's hiring — March 2026](https://dev.to/fmerian/whos-hiring-march-2026-229i) _[Dev.to]_
 
-_Last automated update: Thu, 19 Mar 2026 22:33:17 CAT_
+_Last automated update: Thu, 19 Mar 2026 23:18:42 CAT_
 
 
 
@@ -224,7 +226,29 @@ _Last automated update: Thu, 19 Mar 2026 22:33:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
+
+</details>
+
+### 2. Database: Explain database indexing and when to use it
+
+**Difficulty**: Medium | **Topics**: optimization, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+B-tree, trade-offs, query performance
+
+</details>
+
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
 **Difficulty**: Easy | **Topics**: variables, scope
 
@@ -232,28 +256,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Scope, hoisting, and reassignment capabilities
-
-</details>
-
-### 2. Python: Implement a context manager using __enter__ and __exit__
-
-**Difficulty**: Hard | **Topics**: context managers, resource management
-
-<details>
-<summary>💡 Hint</summary>
-
-with statement, setup/teardown, exception handling
-
-</details>
-
-### 3. DataStructures: Implement LRU Cache
-
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
-
-<details>
-<summary>💡 Hint</summary>
-
-Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -287,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 19 Mar 2026 20:33:17 GMT</b><br/>
+  <b>Last automated update: Thu, 19 Mar 2026 21:18:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
