@@ -407,6 +407,21 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "I Let AI Handle My Slack Messages So I Could Actually Code (Notion MCP)",
       "url": "https://dev.to/balkaran/synapse-the-autonomous-ai-developer-shield-built-with-notion-mcp-5f0j",
       "published_at": "2026-03-15T13:47:24Z",
@@ -437,21 +452,6 @@
       "user": "Hamed Farag"
     },
     {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
-      "tags": [
-        "ai",
-        "career",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "Notion Skills Registry: A Package Manager for AI Agent Skills with MCP",
       "url": "https://dev.to/axrisi/notion-skills-registry-a-package-manager-for-ai-agent-skills-with-mcp-2581",
       "published_at": "2026-03-16T09:28:46Z",
@@ -465,6 +465,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feg9okvcj4ck1zj5gjpvz.png",
       "source": "Dev.to",
       "user": "Nikoloz Turazashvili (@axrisi)"
+    },
+    {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
     },
     {
       "title": "When AI Writes the Code… Who Takes Responsibility?",
@@ -509,6 +524,33 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
       "source": "Dev.to",
       "user": "Takahiro Ikeuchi"
+    },
+    {
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
+      "source": "Dev.to",
+      "user": "Alex"
+    },
+    {
+      "title": "A 12 Weeks to IAM : A Boredom Challenge That Will Either Push or Drive Me Insane",
+      "url": "https://dev.to/grimkillingbeck/a-12-weeks-to-iam-a-boredom-challenge-that-will-either-push-or-drive-me-insane-bg1",
+      "published_at": "2026-03-15T18:08:32Z",
+      "description": "In 2024, I was laid off from a company that I thought I never would have to worry about leaving. The...",
+      "tags": [
+        "devjournal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuji775g8yk7x1keqli25.png",
+      "source": "Dev.to",
+      "user": "GrimKillingbeck"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -654,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2280,
+      "stars": 2284,
       "user": "pasky"
     },
     {
@@ -684,7 +726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6603,
+      "stars": 6632,
       "user": "aiming-lab"
     }
   ],
@@ -806,6 +848,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
     },
     {
       "title": "i built a social platform where everything vanishes after 24 hours",
@@ -954,7 +1011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 10893,
+      "stars": 11097,
       "user": "NVIDIA"
     },
     {
@@ -969,7 +1026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4922,
+      "stars": 4945,
       "user": "calesthio"
     },
     {
@@ -984,7 +1041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2280,
+      "stars": 2284,
       "user": "pasky"
     },
     {
@@ -1014,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 370,
       "user": "phuc-nt"
     }
   ],
@@ -1196,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6603,
+      "stars": 6632,
       "user": "aiming-lab"
     },
     {
@@ -1211,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1435,
+      "stars": 1468,
       "user": "HKUDS"
     },
     {
@@ -1226,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1323,
+      "stars": 1325,
       "user": "skernelx"
     },
     {
@@ -1241,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 937,
       "user": "cnlimiter"
     },
     {
@@ -1256,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 734,
       "user": "nikmcfly"
     }
   ],
@@ -1548,20 +1605,6 @@
       "user": "Chioma Halim"
     },
     {
-      "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
-      "url": "https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk",
-      "published_at": "2026-03-09T23:47:06Z",
-      "description": "Sometimes you want to run commands that you don’t fully trust or that intentionally bypass...",
-      "tags": [
-        "abotwrotethis",
-        "sandbox",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhle8kx2octm0lb4bpmit.png",
-      "source": "Dev.to",
-      "user": "JLarky"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1696,6 +1739,21 @@
       "user": "Denis Bakhoum"
     },
     {
+      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
+      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
+      "published_at": "2026-03-14T20:02:03Z",
+      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
+      "source": "Dev.to",
+      "user": "Alex"
+    },
+    {
       "title": "NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "published_at": "2026-03-15T17:04:09Z",
@@ -1707,7 +1765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 10893,
+      "stars": 11097,
       "user": "NVIDIA"
     },
     {
@@ -1722,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4922,
+      "stars": 4945,
       "user": "calesthio"
     },
     {
@@ -1737,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2280,
+      "stars": 2284,
       "user": "pasky"
     },
     {
@@ -1767,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 370,
       "user": "phuc-nt"
     },
     {
@@ -1782,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6603,
+      "stars": 6632,
       "user": "aiming-lab"
     },
     {
@@ -1797,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1435,
+      "stars": 1468,
       "user": "HKUDS"
     },
     {
@@ -1812,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1323,
+      "stars": 1325,
       "user": "skernelx"
     },
     {
@@ -1827,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 937,
       "user": "cnlimiter"
     },
     {
@@ -1842,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 734,
       "user": "nikmcfly"
     },
     {
@@ -1857,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "antflydb"
     },
     {
@@ -1902,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "roots"
     },
     {

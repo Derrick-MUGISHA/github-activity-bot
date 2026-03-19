@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-19-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Database**: 🟦🟦 6 (5.8%)
+**Database**: 🟦🟦 6 (5.7%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦🟦 4 (3.8%)
-
 **Cloud**: 🟦 3 (2.9%)
+
+**Security**: 🟦 3 (2.9%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,32 +60,30 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.6 (27.6%)
-Java            ████████████████████████████ 25.3 (25.3%)
+JavaScript      ██████████████████████████████ 28.7 (28.7%)
+Java            ████████████████████████████ 26.4 (26.4%)
 Go              ██████████████████████ 20.7 (20.7%)
-Python          █████████████████████ 19.5 (19.5%)
-Rust            █████ 4.6 (4.6%)
+Python          ████████████████████ 19.5 (19.5%)
+Rust            ████ 3.4 (3.4%)
 Swift           █ 1.1 (1.1%)
-PHP             █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Java" : 22
+    "JavaScript" : 25
+    "Java" : 23
     "Go" : 18
     "Python" : 17
-    "Rust" : 4
+    "Rust" : 3
     "Swift" : 1
-    "PHP" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![notionchallenge](https://img.shields.io/badge/notionchallenge-6-blue) ![career](https://img.shields.io/badge/career-6-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![notionchallenge](https://img.shields.io/badge/notionchallenge-6-blue) ![career](https://img.shields.io/badge/career-6-blue) 
 
 
 
@@ -125,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-19 16:00 CAT)
+## 📅 Latest Updates (2026-03-19 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +214,7 @@ npm run test
 - [Path of Discovery](https://dev.to/annavi11arrea1/path-of-discovery-1aoi) _[Dev.to]_
 - [Drop Your Challenge Submission Here](https://dev.to/axrisi/drop-your-challenge-submission-here-mej) _[Dev.to]_
 
-_Last automated update: Thu, 19 Mar 2026 16:08:17 CAT_
+_Last automated update: Thu, 19 Mar 2026 17:05:45 CAT_
 
 
 
@@ -224,36 +222,36 @@ _Last automated update: Thu, 19 Mar 2026 16:08:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -287,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 19 Mar 2026 14:08:17 GMT</b><br/>
+  <b>Last automated update: Thu, 19 Mar 2026 15:05:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
