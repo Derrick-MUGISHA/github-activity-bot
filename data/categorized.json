@@ -16,6 +16,36 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
+      "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
+      "published_at": "2026-03-19T17:48:19Z",
+      "description": "You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...",
+      "tags": [
+        "ai",
+        "vibecoding",
+        "gemini",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png",
+      "source": "Dev.to",
+      "user": "Guillaume Vernade"
+    },
+    {
+      "title": "Now anyone can host a global AI challenge on Kaggle",
+      "url": "https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6",
+      "published_at": "2026-03-19T15:21:02Z",
+      "description": "Kaggle's community helps the world discover what actually works in AI, and today we're launching...",
+      "tags": [
+        "ai",
+        "kaggle",
+        "datascience",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62cgxekzv9dt2bcrqdep.png",
+      "source": "Dev.to",
+      "user": "Megan Risdal"
+    },
+    {
       "title": "We've Seen This Movie Before",
       "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
       "published_at": "2026-03-19T08:54:35Z",
@@ -276,34 +306,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
       "source": "Dev.to",
       "user": "Amjad Abujamous"
-    },
-    {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
-    },
-    {
-      "title": "Fortran meets AI",
-      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
-      "published_at": "2026-03-15T17:32:51Z",
-      "description": "A computer science exam from 1978 and 2026 AI models ",
-      "tags": [
-        "fortran",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
-      "source": "Dev.to",
-      "user": " ViksaaSkool "
     },
     {
       "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
@@ -758,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2296,
       "user": "pasky"
     },
     {
@@ -788,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "liliMozi"
     },
     {
@@ -803,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6736,
+      "stars": 6741,
       "user": "aiming-lab"
     }
   ],
@@ -1088,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 12131,
+      "stars": 12210,
       "user": "NVIDIA"
     },
     {
@@ -1103,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5109,
+      "stars": 5124,
       "user": "calesthio"
     },
     {
@@ -1118,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2296,
       "user": "pasky"
     },
     {
@@ -1148,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "liliMozi"
     }
   ],
@@ -1330,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6736,
+      "stars": 6741,
       "user": "aiming-lab"
     },
     {
@@ -1345,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1634,
       "user": "HKUDS"
     },
     {
@@ -1375,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1016,
       "user": "cnlimiter"
     },
     {
@@ -1390,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 769,
       "user": "nikmcfly"
     }
   ],
@@ -1423,21 +1425,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
       "user": "Kat Cosgrove"
-    },
-    {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1712,21 +1699,6 @@
       "user": "Kat Cosgrove"
     },
     {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
-    },
-    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -1959,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 12131,
+      "stars": 12210,
       "user": "NVIDIA"
     },
     {
@@ -1974,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5109,
+      "stars": 5124,
       "user": "calesthio"
     },
     {
@@ -1989,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2296,
       "user": "pasky"
     },
     {
@@ -2019,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "liliMozi"
     },
     {
@@ -2034,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6736,
+      "stars": 6741,
       "user": "aiming-lab"
     },
     {
@@ -2049,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1634,
       "user": "HKUDS"
     },
     {
@@ -2079,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1016,
       "user": "cnlimiter"
     },
     {
@@ -2094,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 769,
       "user": "nikmcfly"
     },
     {
@@ -2154,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "roots"
     },
     {

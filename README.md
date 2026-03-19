@@ -36,13 +36,13 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Security**: 🟦🟦 6 (5.7%)
-
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦 4 (3.8%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **Database**: 🟦 4 (3.8%)
+
+**DevOps**: 🟦 3 (2.9%)
 
 **Cloud**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.8 (27.8%)
-Java            █████████████████████████████ 26.7 (26.7%)
-Go              ████████████████████ 18.9 (18.9%)
-Python          ████████████████████ 18.9 (18.9%)
+JavaScript      ██████████████████████████████ 27.5 (27.5%)
+Java            █████████████████████████████ 26.4 (26.4%)
+Go              ██████████████████████ 19.8 (19.8%)
+Python          ████████████████████ 18.7 (18.7%)
 Rust            ████ 3.3 (3.3%)
 Swift           ██ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
@@ -75,7 +75,7 @@ Kotlin          █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 25
     "Java" : 24
-    "Go" : 17
+    "Go" : 18
     "Python" : 17
     "Rust" : 3
     "Swift" : 2
@@ -144,6 +144,26 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png" width="200" alt="Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps" />
+      <br/>
+      <b>Vibe-coding in Google AI Studio: my tips to prompt...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62cgxekzv9dt2bcrqdep.png" width="200" alt="Now anyone can host a global AI challenge on Kaggle" />
+      <br/>
+      <b>Now anyone can host a global AI challenge on Kaggl...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/wynandpieters/weve-seen-this-movie-before-3719">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png" width="200" alt="We've Seen This Movie Before" />
       <br/>
@@ -161,31 +181,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png" width="200" alt="I Tried Vite+ and Replaced My Entire Frontend Toolchain" />
       <br/>
       <b>I Tried Vite+ and Replaced My Entire Frontend Tool...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png" width="200" alt="Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase" />
-      <br/>
-      <b>Intelligence, Farming, and Why AI Is Still Mostly ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg" width="200" alt="Introducing the new full-stack vibe coding experience in Google AI Studio" />
-      <br/>
-      <b>Introducing the new full-stack vibe coding experie...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,6 +198,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml) _[Dev.to]_
+- [Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps](https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp) _[Dev.to]_
+- [Now anyone can host a global AI challenge on Kaggle](https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6) _[Dev.to]_
 - [We've Seen This Movie Before](https://dev.to/wynandpieters/weve-seen-this-movie-before-3719) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb) _[Dev.to]_
@@ -206,19 +208,17 @@ npm run test
 - [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h) _[Dev.to]_
 - [Should RubyGems/Bundler Have a Cooldown Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp) _[Dev.to]_
 - [Anki On My Wrist](https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6) _[Dev.to]_
+- [What's in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4) _[Dev.to]_
 - [Supercharge your workflow with AI dev tools](https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e) _[Dev.to]_
 - [How to Stop Babysitting Your AI Agents](https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376) _[Dev.to]_
 - [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm) _[Dev.to]_
 - [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8) _[Dev.to]_
-- [What's in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 - [Notion MCP Challenge: Badges Revealed + A New Prize! 🏆 😻](https://dev.to/devteam/notion-mcp-challenge-badges-revealed-a-new-prize-324k) _[Dev.to]_
-- [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
-- [Who's hiring — March 2026](https://dev.to/fmerian/whos-hiring-march-2026-229i) _[Dev.to]_
 
-_Last automated update: Thu, 19 Mar 2026 23:18:42 CAT_
+_Last automated update: Thu, 19 Mar 2026 23:53:23 CAT_
 
 
 
@@ -237,25 +237,25 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Mutability, performance, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 19 Mar 2026 21:18:42 GMT</b><br/>
+  <b>Last automated update: Thu, 19 Mar 2026 21:53:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
