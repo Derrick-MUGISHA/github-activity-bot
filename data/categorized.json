@@ -30,6 +30,21 @@
       "user": "Kat Kampf"
     },
     {
+      "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
+      "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml",
+      "published_at": "2026-03-19T20:26:57Z",
+      "description": "It's time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...",
+      "tags": [
+        "ai",
+        "devchallenge",
+        "weekendchallenge",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
       "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
       "published_at": "2026-03-19T17:02:19Z",
@@ -58,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
+      "tags": [
+        "ruby",
+        "security",
+        "supplychainsecurity",
+        "packaging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
+      "source": "Dev.to",
+      "user": "SHIBATA Hiroshi"
     },
     {
       "title": "Anki On My Wrist",
@@ -103,21 +133,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
       "source": "Dev.to",
       "user": "J. R. Swab"
-    },
-    {
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
-      "published_at": "2026-03-19T01:45:21Z",
-      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
-      "tags": [
-        "ruby",
-        "security",
-        "supplychainsecurity",
-        "packaging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
-      "source": "Dev.to",
-      "user": "SHIBATA Hiroshi"
     },
     {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
@@ -261,6 +276,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
       "source": "Dev.to",
       "user": "Amjad Abujamous"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "Fortran meets AI",
@@ -745,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "liliMozi"
     },
     {
@@ -760,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6716,
+      "stars": 6727,
       "user": "aiming-lab"
     }
   ],
@@ -1047,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11916,
+      "stars": 12014,
       "user": "NVIDIA"
     },
     {
@@ -1062,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5077,
+      "stars": 5095,
       "user": "calesthio"
     },
     {
@@ -1107,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "liliMozi"
     }
   ],
@@ -1289,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6716,
+      "stars": 6727,
       "user": "aiming-lab"
     },
     {
@@ -1304,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1620,
+      "stars": 1625,
       "user": "HKUDS"
     },
     {
@@ -1334,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1005,
+      "stars": 1009,
       "user": "cnlimiter"
     },
     {
@@ -1349,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 758,
       "user": "nikmcfly"
     }
   ],
@@ -1382,6 +1412,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
       "user": "Kat Cosgrove"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1473,21 +1518,6 @@
     }
   ],
   "Mobile": [
-    {
-      "title": "TrackFlow: A Kotlin Multiplatform Analytics Router for Android and iOS",
-      "url": "https://dev.to/2_cranes/trackflow-a-kotlin-multiplatform-analytics-router-for-android-and-ios-2n6p",
-      "published_at": "2026-03-18T18:19:10Z",
-      "description": "Analytics is one of those things every app needs, but very few teams enjoy implementing.  A typical...",
-      "tags": [
-        "kotlin",
-        "android",
-        "ios",
-        "analytics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F55gowueiasjansu3w6jy.png",
-      "source": "Dev.to",
-      "user": "Lecrane"
-    },
     {
       "title": "Confident and Wrong",
       "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
@@ -1654,6 +1684,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
       "user": "Kat Cosgrove"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1860,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11916,
+      "stars": 12014,
       "user": "NVIDIA"
     },
     {
@@ -1875,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5077,
+      "stars": 5095,
       "user": "calesthio"
     },
     {
@@ -1920,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "liliMozi"
     },
     {
@@ -1935,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6716,
+      "stars": 6727,
       "user": "aiming-lab"
     },
     {
@@ -1950,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1620,
+      "stars": 1625,
       "user": "HKUDS"
     },
     {
@@ -1980,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1005,
+      "stars": 1009,
       "user": "cnlimiter"
     },
     {
@@ -1995,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 758,
       "user": "nikmcfly"
     },
     {
@@ -2055,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "roots"
     },
     {

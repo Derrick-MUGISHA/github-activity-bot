@@ -1,34 +1,33 @@
 {
-  "total": 102,
+  "total": 103,
   "by_source": {
-    "Dev.to": 57,
+    "Dev.to": 58,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 54,
+    "AI": 56,
     "JavaScript": 25,
     "Python": 18,
-    "DevOps": 3,
+    "DevOps": 4,
     "WebDev": 5,
-    "Mobile": 2,
+    "Mobile": 1,
     "Cloud": 3,
     "Database": 4,
-    "Security": 4,
+    "Security": 5,
     "Tools": 27
   },
   "by_language": {
     "JavaScript": 25,
     "Go": 17,
-    "Java": 24,
+    "Java": 23,
     "Ruby": 1,
-    "Swift": 2,
-    "Kotlin": 1,
     "Python": 17,
-    "Rust": 3
+    "Rust": 3,
+    "Swift": 1
   },
   "by_date": {
-    "2026-03-19": 4,
+    "2026-03-19": 5,
     "2026-03-16": 14,
     "2026-03-18": 10,
     "2026-03-17": 14,
@@ -71,17 +70,17 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 27,
+    "ai": 29,
     "github": 15,
     "open-source": 15,
-    "webdev": 13,
+    "webdev": 14,
     "javascript": 13,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "devchallenge": 8,
     "discuss": 7,
     "opensource": 7,
-    "devchallenge": 7,
     "go": 6,
     "career": 6,
     "python": 6,
@@ -89,18 +88,17 @@
     "productivity": 5,
     "notionchallenge": 5,
     "mcp": 4,
-    "learning": 3,
-    "showdev": 3
+    "agents": 3,
+    "learning": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "27.8",
-    "Go": "18.9",
-    "Java": "26.7",
+    "JavaScript": "28.7",
+    "Go": "19.5",
+    "Java": "26.4",
     "Ruby": "1.1",
-    "Swift": "2.2",
-    "Kotlin": "1.1",
-    "Python": "18.9",
-    "Rust": "3.3"
+    "Python": "19.5",
+    "Rust": "3.4",
+    "Swift": "1.1"
   }
 }
