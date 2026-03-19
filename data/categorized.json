@@ -31,21 +31,6 @@
       "user": "Guillaume Vernade"
     },
     {
-      "title": "Now anyone can host a global AI challenge on Kaggle",
-      "url": "https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6",
-      "published_at": "2026-03-19T15:21:02Z",
-      "description": "Kaggle's community helps the world discover what actually works in AI, and today we're launching...",
-      "tags": [
-        "ai",
-        "kaggle",
-        "datascience",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62cgxekzv9dt2bcrqdep.png",
-      "source": "Dev.to",
-      "user": "Megan Risdal"
-    },
-    {
       "title": "We've Seen This Movie Before",
       "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
       "published_at": "2026-03-19T08:54:35Z",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
       "source": "Dev.to",
       "user": "Kat Kampf"
+    },
+    {
+      "title": "Now anyone can host a global AI challenge on Kaggle",
+      "url": "https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6",
+      "published_at": "2026-03-19T15:21:02Z",
+      "description": "Kaggle's community helps the world discover what actually works in AI, and today we're launching...",
+      "tags": [
+        "ai",
+        "kaggle",
+        "datascience",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62cgxekzv9dt2bcrqdep.png",
+      "source": "Dev.to",
+      "user": "Megan Risdal"
     },
     {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2296,
+      "stars": 2297,
       "user": "pasky"
     },
     {
@@ -805,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6741,
+      "stars": 6749,
       "user": "aiming-lab"
     }
   ],
@@ -1090,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 12210,
+      "stars": 12267,
       "user": "NVIDIA"
     },
     {
@@ -1105,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5124,
+      "stars": 5128,
       "user": "calesthio"
     },
     {
@@ -1120,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2296,
+      "stars": 2297,
       "user": "pasky"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6741,
+      "stars": 6749,
       "user": "aiming-lab"
     },
     {
@@ -1347,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1634,
+      "stars": 1638,
       "user": "HKUDS"
     },
     {
@@ -1362,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1329,
       "user": "skernelx"
     },
     {
@@ -1377,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1022,
       "user": "cnlimiter"
     },
     {
@@ -1513,6 +1513,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "carlos7ags/folio - Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
+      "url": "https://github.com/carlos7ags/folio",
+      "published_at": "2026-03-14T23:07:55Z",
+      "description": "Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
+      "source": "GitHub",
+      "stars": 70,
+      "user": "carlos7ags"
     }
   ],
   "Mobile": [
@@ -1931,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 12210,
+      "stars": 12267,
       "user": "NVIDIA"
     },
     {
@@ -1946,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5124,
+      "stars": 5128,
       "user": "calesthio"
     },
     {
@@ -1961,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2296,
+      "stars": 2297,
       "user": "pasky"
     },
     {
@@ -2006,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6741,
+      "stars": 6749,
       "user": "aiming-lab"
     },
     {
@@ -2021,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1634,
+      "stars": 1638,
       "user": "HKUDS"
     },
     {
@@ -2036,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1329,
       "user": "skernelx"
     },
     {
@@ -2051,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1022,
       "user": "cnlimiter"
     },
     {
@@ -2130,19 +2145,19 @@
       "user": "roots"
     },
     {
-      "title": "dzzzgnr/taphaptic - Get notifications from Claude Code to your Apple Watch.",
-      "url": "https://github.com/dzzzgnr/taphaptic",
-      "published_at": "2026-03-14T10:08:20Z",
-      "description": "Get notifications from Claude Code to your Apple Watch.",
+      "title": "carlos7ags/folio - Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
+      "url": "https://github.com/carlos7ags/folio",
+      "published_at": "2026-03-14T23:07:55Z",
+      "description": "Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241171111?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 66,
-      "user": "dzzzgnr"
+      "stars": 70,
+      "user": "carlos7ags"
     }
   ]
 }
