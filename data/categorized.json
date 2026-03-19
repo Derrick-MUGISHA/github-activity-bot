@@ -15,19 +15,19 @@
       "user": "Wynand Pieters"
     },
     {
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "published_at": "2026-03-18T14:39:24Z",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "title": "Anki On My Wrist",
+      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
+      "published_at": "2026-03-18T23:28:43Z",
+      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
       "tags": [
-        "opensource",
-        "security",
-        "kubernetes",
-        "devops"
+        "learning",
+        "productivity",
+        "showdev",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
       "source": "Dev.to",
-      "user": "Kat Cosgrove"
+      "user": "Matheus Kunzler Maldaner"
     },
     {
       "title": "Supercharge your workflow with AI dev tools",
@@ -43,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrx6zlobzm2psjioo28g.png",
       "source": "Dev.to",
       "user": "Martin Omander"
+    },
+    {
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "published_at": "2026-03-18T23:20:04Z",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "tags": [
+        "ai",
+        "discuss",
+        "machinelearning",
+        "science"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
@@ -100,19 +115,19 @@
       "user": "Jeffrey Mew"
     },
     {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
       "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
+        "ruby",
+        "security",
+        "supplychainsecurity",
+        "packaging"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
       "source": "Dev.to",
-      "user": "Michael Bogan"
+      "user": "SHIBATA Hiroshi"
     },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
@@ -127,6 +142,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -216,6 +246,21 @@
       "user": "Dennis Lemm"
     },
     {
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "tags": [
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "source": "Dev.to",
+      "user": "Kat Cosgrove"
+    },
+    {
       "title": "Confident and Wrong",
       "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
       "published_at": "2026-03-17T20:07:24Z",
@@ -287,6 +332,80 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
       "source": "Dev.to",
       "user": "Providence Ifeosame"
+    },
+    {
+      "title": "Ship Less, Measure More",
+      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
+      "published_at": "2026-03-06T22:07:43Z",
+      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
+      "tags": [
+        "ai",
+        "programming",
+        "management"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
+      "source": "Dev.to",
+      "user": "Mike Krop"
+    },
+    {
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
+      "tags": [
+        "ai",
+        "javascript",
+        "tooling",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
+      "source": "Dev.to",
+      "user": "Rowan Merewood"
+    },
+    {
+      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
+      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
+      "published_at": "2026-03-17T06:06:10Z",
+      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
+    },
+    {
+      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
+      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
+      "published_at": "2026-03-16T14:42:02Z",
+      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
+      "tags": [
+        "rust",
+        "postgres",
+        "opensource",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
+      "source": "Dev.to",
+      "user": "Faruk Durgut"
+    },
+    {
+      "title": "Git Worktrees Are Underrated",
+      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
+      "published_at": "2026-03-16T22:07:48Z",
+      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
+      "tags": [
+        "git",
+        "cli",
+        "productivity",
+        "rust"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
+      "source": "Dev.to",
+      "user": "Dennis Morello"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -391,21 +510,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
-      "published_at": "2026-03-07T10:44:43Z",
-      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
-      "tags": [
-        "webdev",
-        "ai",
-        "automation",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
-      "source": "Dev.to",
-      "user": "GrahamTheDev"
-    },
-    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -419,6 +523,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "tags": [
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "source": "Dev.to",
+      "user": "GrahamTheDev"
     },
     {
       "title": "I Let AI Handle My Slack Messages So I Could Actually Code (Notion MCP)",
@@ -479,77 +598,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
       "source": "Dev.to",
       "user": "Boehner"
-    },
-    {
-      "title": "When AI Writes the Code… Who Takes Responsibility?",
-      "url": "https://dev.to/subhrangsu_dev/when-ai-writes-the-code-who-takes-responsibility-19fc",
-      "published_at": "2026-03-10T22:39:46Z",
-      "description": "Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...",
-      "tags": [
-        "ai",
-        "programming",
-        "agents",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3omv0vlj5iwb9k59ib1v.png",
-      "source": "Dev.to",
-      "user": "Subhrangsu Bera"
-    },
-    {
-      "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
-      "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
-      "published_at": "2026-03-07T17:10:00Z",
-      "description": "So you've been writing Go for a bit. Your main.go is growing. You've got a database call next to an...",
-      "tags": [
-        "go",
-        "ore",
-        "di",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png",
-      "source": "Dev.to",
-      "user": "Firas M. Darwish"
-    },
-    {
-      "title": "Rethinking Architecture in the AI Era — Part 1: Repository Management",
-      "url": "https://dev.to/iktakahiro/rethinking-architecture-in-the-ai-era-part-1-repository-management-2ia4",
-      "published_at": "2026-03-16T06:24:31Z",
-      "description": "This is the first installment of a series on software product architecture for the AI age. There's no...",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpebcjlhm2oi14hk4bo7z.png",
-      "source": "Dev.to",
-      "user": "Takahiro Ikeuchi"
-    },
-    {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
-      "source": "Dev.to",
-      "user": "Alex"
-    },
-    {
-      "title": "A 12 Weeks to IAM : A Boredom Challenge That Will Either Push or Drive Me Insane",
-      "url": "https://dev.to/grimkillingbeck/a-12-weeks-to-iam-a-boredom-challenge-that-will-either-push-or-drive-me-insane-bg1",
-      "published_at": "2026-03-15T18:08:32Z",
-      "description": "In 2024, I was laid off from a company that I thought I never would have to worry about leaving. The...",
-      "tags": [
-        "devjournal"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuji775g8yk7x1keqli25.png",
-      "source": "Dev.to",
-      "user": "GrimKillingbeck"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -695,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2284,
+      "stars": 2288,
       "user": "pasky"
     },
     {
@@ -710,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 516,
       "user": "KeyID-AI"
     },
     {
@@ -725,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6653,
+      "stars": 6670,
       "user": "aiming-lab"
     }
   ],
@@ -772,6 +820,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
       "source": "Dev.to",
       "user": "Chioma Halim"
+    },
+    {
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
+      "tags": [
+        "ai",
+        "javascript",
+        "tooling",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
+      "source": "Dev.to",
+      "user": "Rowan Merewood"
     },
     {
       "title": "One regex to match them all",
@@ -847,21 +910,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
       "source": "Dev.to",
       "user": "Boehner"
-    },
-    {
-      "title": "i built a social platform where everything vanishes after 24 hours",
-      "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
-      "published_at": "2026-03-03T04:44:50Z",
-      "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
-      "tags": [
-        "socialmedia",
-        "showdev",
-        "webdev",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png",
-      "source": "Dev.to",
-      "user": "Ovi ren"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -995,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11298,
+      "stars": 11520,
       "user": "NVIDIA"
     },
     {
@@ -1010,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4974,
+      "stars": 5010,
       "user": "calesthio"
     },
     {
@@ -1025,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2284,
+      "stars": 2288,
       "user": "pasky"
     },
     {
@@ -1040,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 516,
       "user": "KeyID-AI"
     },
     {
@@ -1055,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 375,
       "user": "phuc-nt"
     }
   ],
@@ -1237,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6653,
+      "stars": 6670,
       "user": "aiming-lab"
     },
     {
@@ -1252,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1528,
+      "stars": 1571,
       "user": "HKUDS"
     },
     {
@@ -1267,12 +1315,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1326,
+      "stars": 1327,
       "user": "skernelx"
     },
     {
-      "title": "cnlimiter/codex-register - GitHub Repository",
-      "url": "https://github.com/cnlimiter/codex-register",
+      "title": "cnlimiter/codex-manager - GitHub Repository",
+      "url": "https://github.com/cnlimiter/codex-manager",
       "published_at": "2026-03-15T12:59:27Z",
       "description": "Trending GitHub Repository",
       "tags": [
@@ -1282,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 980,
       "user": "cnlimiter"
     },
     {
@@ -1297,25 +1345,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 742,
       "user": "nikmcfly"
     }
   ],
   "DevOps": [
     {
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "published_at": "2026-03-18T14:39:24Z",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
+      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
+      "published_at": "2026-03-18T23:02:35Z",
+      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
       "tags": [
-        "opensource",
-        "security",
-        "kubernetes",
+        "ai",
+        "tooling",
         "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
-      "user": "Kat Cosgrove"
+      "user": "Brian Love"
     },
     {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
@@ -1333,18 +1380,19 @@
       "user": "Michael Bogan"
     },
     {
-      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
-      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
-      "published_at": "2026-03-18T23:02:35Z",
-      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
       "tags": [
-        "ai",
-        "tooling",
+        "opensource",
+        "security",
+        "kubernetes",
         "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
-      "user": "Brian Love"
+      "user": "Kat Cosgrove"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1406,21 +1454,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Recently Played: bringing back my Last.fm component",
-      "url": "https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank",
-      "published_at": "2026-03-08T23:21:01Z",
-      "description": "How I rebuilt my old Last.fm widget as an Eleventy WebC component with server-rendered HTML, client-side polling, and localStorage caching.",
-      "tags": [
-        "devjournal",
-        "showdev",
-        "sideprojects",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
-      "source": "Dev.to",
-      "user": "Martin Hicks"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1531,6 +1564,21 @@
       "user": "Bohdan Stupak"
     },
     {
+      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
+      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
+      "published_at": "2026-03-16T14:42:02Z",
+      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
+      "tags": [
+        "rust",
+        "postgres",
+        "opensource",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
+      "source": "Dev.to",
+      "user": "Faruk Durgut"
+    },
+    {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
       "published_at": "2026-03-07T09:30:17Z",
@@ -1561,21 +1609,6 @@
       "user": "catatsuy"
     },
     {
-      "title": "🏗️ Building a Clean Architecture API with Go, Ore, and SQLite",
-      "url": "https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf",
-      "published_at": "2026-03-07T17:10:00Z",
-      "description": "So you've been writing Go for a bit. Your main.go is growing. You've got a database call next to an...",
-      "tags": [
-        "go",
-        "ore",
-        "di",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png",
-      "source": "Dev.to",
-      "user": "Firas M. Darwish"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1590,19 +1623,33 @@
   ],
   "Security": [
     {
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "published_at": "2026-03-18T14:39:24Z",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
       "tags": [
-        "opensource",
+        "ruby",
         "security",
-        "kubernetes",
+        "supplychainsecurity",
+        "packaging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
+      "source": "Dev.to",
+      "user": "SHIBATA Hiroshi"
+    },
+    {
+      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
+      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
+      "published_at": "2026-03-18T23:02:35Z",
+      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
+      "tags": [
+        "ai",
+        "tooling",
         "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
-      "user": "Kat Cosgrove"
+      "user": "Brian Love"
     },
     {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
@@ -1620,20 +1667,6 @@
       "user": "Michael Bogan"
     },
     {
-      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
-      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
-      "published_at": "2026-03-18T23:02:35Z",
-      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
-      "tags": [
-        "ai",
-        "tooling",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
-      "source": "Dev.to",
-      "user": "Brian Love"
-    },
-    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -1645,6 +1678,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
       "source": "Dev.to",
       "user": "Chioma Halim"
+    },
+    {
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "tags": [
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "source": "Dev.to",
+      "user": "Kat Cosgrove"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1676,6 +1724,21 @@
       "user": "Younes Jaaidi"
     },
     {
+      "title": "Anki On My Wrist",
+      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
+      "published_at": "2026-03-18T23:28:43Z",
+      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
+      "tags": [
+        "learning",
+        "productivity",
+        "showdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
+      "source": "Dev.to",
+      "user": "Matheus Kunzler Maldaner"
+    },
+    {
       "title": "Supercharge your workflow with AI dev tools",
       "url": "https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e",
       "published_at": "2026-03-18T13:57:01Z",
@@ -1689,6 +1752,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrx6zlobzm2psjioo28g.png",
       "source": "Dev.to",
       "user": "Martin Omander"
+    },
+    {
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "published_at": "2026-03-18T23:20:04Z",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "tags": [
+        "ai",
+        "discuss",
+        "machinelearning",
+        "science"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "How to Stop Babysitting Your AI Agents",
@@ -1735,6 +1813,51 @@
       "user": "Dineshraj Anandan"
     },
     {
+      "title": "Gemini CLI and Jules: my March 2026 stack",
+      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
+      "published_at": "2026-03-15T17:28:43Z",
+      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
+      "tags": [
+        "ai",
+        "javascript",
+        "tooling",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
+      "source": "Dev.to",
+      "user": "Rowan Merewood"
+    },
+    {
+      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
+      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
+      "published_at": "2026-03-17T06:06:10Z",
+      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
+    },
+    {
+      "title": "Git Worktrees Are Underrated",
+      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
+      "published_at": "2026-03-16T22:07:48Z",
+      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
+      "tags": [
+        "git",
+        "cli",
+        "productivity",
+        "rust"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
+      "source": "Dev.to",
+      "user": "Dennis Morello"
+    },
+    {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
       "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
       "published_at": "2026-03-06T16:03:22Z",
@@ -1765,21 +1888,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
-      "source": "Dev.to",
-      "user": "Alex"
-    },
-    {
       "title": "NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "published_at": "2026-03-15T17:04:09Z",
@@ -1791,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11298,
+      "stars": 11520,
       "user": "NVIDIA"
     },
     {
@@ -1806,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4974,
+      "stars": 5010,
       "user": "calesthio"
     },
     {
@@ -1821,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2284,
+      "stars": 2288,
       "user": "pasky"
     },
     {
@@ -1836,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 516,
       "user": "KeyID-AI"
     },
     {
@@ -1851,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 375,
       "user": "phuc-nt"
     },
     {
@@ -1866,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6653,
+      "stars": 6670,
       "user": "aiming-lab"
     },
     {
@@ -1881,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1528,
+      "stars": 1571,
       "user": "HKUDS"
     },
     {
@@ -1896,12 +2004,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1326,
+      "stars": 1327,
       "user": "skernelx"
     },
     {
-      "title": "cnlimiter/codex-register - GitHub Repository",
-      "url": "https://github.com/cnlimiter/codex-register",
+      "title": "cnlimiter/codex-manager - GitHub Repository",
+      "url": "https://github.com/cnlimiter/codex-manager",
       "published_at": "2026-03-15T12:59:27Z",
       "description": "Trending GitHub Repository",
       "tags": [
@@ -1911,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 980,
       "user": "cnlimiter"
     },
     {
@@ -1926,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 742,
       "user": "nikmcfly"
     },
     {
@@ -1971,12 +2079,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "agi-bar"
     },
     {
-      "title": "roots/wp-composer - A modern, community-funded Composer repository for WordPress plugins and themes",
-      "url": "https://github.com/roots/wp-composer",
+      "title": "roots/wp-packages - A modern, community-funded Composer repository for WordPress plugins and themes",
+      "url": "https://github.com/roots/wp-packages",
       "published_at": "2026-03-14T18:05:07Z",
       "description": "A modern, community-funded Composer repository for WordPress plugins and themes",
       "tags": [
