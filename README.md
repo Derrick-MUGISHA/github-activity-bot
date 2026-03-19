@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-19-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**Database**: 🟦🟦 6 (5.7%)
+**Database**: 🟦🟦 6 (5.8%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.1 (28.1%)
-Java            ████████████████████████████ 25.8 (25.8%)
-Go              ██████████████████████ 20.2 (20.2%)
-Python          ████████████████████ 19.1 (19.1%)
-Rust            █████ 4.5 (4.5%)
+JavaScript      ██████████████████████████████ 27.6 (27.6%)
+Java            ████████████████████████████ 25.3 (25.3%)
+Go              ██████████████████████ 20.7 (20.7%)
+Python          █████████████████████ 19.5 (19.5%)
+Rust            █████ 4.6 (4.6%)
 Swift           █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -72,8 +72,8 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 25
-    "Java" : 23
+    "JavaScript" : 24
+    "Java" : 22
     "Go" : 18
     "Python" : 17
     "Rust" : 4
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![notionchallenge](https://img.shields.io/badge/notionchallenge-6-blue) ![career](https://img.shields.io/badge/career-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![notionchallenge](https://img.shields.io/badge/notionchallenge-6-blue) ![career](https://img.shields.io/badge/career-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-19 14:00 CAT)
+## 📅 Latest Updates (2026-03-19 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Path of Discovery](https://dev.to/annavi11arrea1/path-of-discovery-1aoi) _[Dev.to]_
 - [Drop Your Challenge Submission Here](https://dev.to/axrisi/drop-your-challenge-submission-here-mej) _[Dev.to]_
 
-_Last automated update: Thu, 19 Mar 2026 14:57:17 CAT_
+_Last automated update: Thu, 19 Mar 2026 16:08:17 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 19 Mar 2026 14:57:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 19 Mar 2026 12:57:17 GMT</b><br/>
+  <b>Last automated update: Thu, 19 Mar 2026 14:08:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
