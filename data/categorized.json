@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
+      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
+      "published_at": "2026-03-19T18:12:23Z",
+      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
+      "source": "Dev.to",
+      "user": "Kat Kampf"
+    },
+    {
       "title": "We've Seen This Movie Before",
       "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
       "published_at": "2026-03-19T08:54:35Z",
@@ -28,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "published_at": "2026-03-18T23:20:04Z",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "tags": [
+        "ai",
+        "discuss",
+        "machinelearning",
+        "science"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "Anki On My Wrist",
@@ -60,36 +90,6 @@
       "user": "Martin Omander"
     },
     {
-      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
-      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
-      "published_at": "2026-03-18T23:20:04Z",
-      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
-      "tags": [
-        "ai",
-        "discuss",
-        "machinelearning",
-        "science"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
-      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
-      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
-      "published_at": "2026-03-17T17:43:25Z",
-      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
-      "tags": [
-        "ai",
-        "opensource",
-        "claudecode",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
-      "source": "Dev.to",
-      "user": "Justin Headley"
-    },
-    {
       "title": "How to Stop Babysitting Your AI Agents",
       "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
       "published_at": "2026-03-18T13:50:00Z",
@@ -105,19 +105,19 @@
       "user": "J. R. Swab"
     },
     {
-      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
-      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
-      "published_at": "2026-03-17T18:32:57Z",
-      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
+      "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
+      "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
+      "published_at": "2026-03-17T17:43:25Z",
+      "description": "I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.",
       "tags": [
-        "cloud",
-        "agents",
-        "mcp",
-        "ai"
+        "ai",
+        "opensource",
+        "claudecode",
+        "typescript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
       "source": "Dev.to",
-      "user": "Jeffrey Mew"
+      "user": "Justin Headley"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -332,6 +332,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
       "source": "Dev.to",
       "user": "James Zhang"
+    },
+    {
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
+      "published_at": "2026-03-17T18:32:57Z",
+      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
+      "tags": [
+        "cloud",
+        "agents",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
+      "source": "Dev.to",
+      "user": "Jeffrey Mew"
     },
     {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
@@ -743,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2291,
+      "stars": 2292,
       "user": "pasky"
     },
     {
@@ -758,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 518,
       "user": "KeyID-AI"
     },
     {
@@ -773,11 +788,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6694,
+      "stars": 6706,
       "user": "aiming-lab"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
+      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
+      "published_at": "2026-03-19T18:12:23Z",
+      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
+      "source": "Dev.to",
+      "user": "Kat Kampf"
+    },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
       "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
@@ -1058,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11648,
+      "stars": 11833,
       "user": "NVIDIA"
     },
     {
@@ -1073,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5033,
+      "stars": 5059,
       "user": "calesthio"
     },
     {
@@ -1088,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2291,
+      "stars": 2292,
       "user": "pasky"
     },
     {
@@ -1103,7 +1133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 518,
       "user": "KeyID-AI"
     },
     {
@@ -1300,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6694,
+      "stars": 6706,
       "user": "aiming-lab"
     },
     {
@@ -1315,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1591,
+      "stars": 1611,
       "user": "HKUDS"
     },
     {
@@ -1345,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 1000,
       "user": "cnlimiter"
     },
     {
@@ -1360,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 753,
       "user": "nikmcfly"
     }
   ],
@@ -1484,21 +1514,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Recently Played: bringing back my Last.fm component",
-      "url": "https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank",
-      "published_at": "2026-03-08T23:21:01Z",
-      "description": "How I rebuilt my old Last.fm widget as an Eleventy WebC component with server-rendered HTML, client-side polling, and localStorage caching.",
-      "tags": [
-        "devjournal",
-        "showdev",
-        "sideprojects",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
-      "source": "Dev.to",
-      "user": "Martin Hicks"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1769,6 +1784,21 @@
       "user": "Younes Jaaidi"
     },
     {
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "published_at": "2026-03-18T23:20:04Z",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "tags": [
+        "ai",
+        "discuss",
+        "machinelearning",
+        "science"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "Anki On My Wrist",
       "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
       "published_at": "2026-03-18T23:28:43Z",
@@ -1797,21 +1827,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrx6zlobzm2psjioo28g.png",
       "source": "Dev.to",
       "user": "Martin Omander"
-    },
-    {
-      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
-      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
-      "published_at": "2026-03-18T23:20:04Z",
-      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
-      "tags": [
-        "ai",
-        "discuss",
-        "machinelearning",
-        "science"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
     },
     {
       "title": "How to Stop Babysitting Your AI Agents",
@@ -1944,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11648,
+      "stars": 11833,
       "user": "NVIDIA"
     },
     {
@@ -1959,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5033,
+      "stars": 5059,
       "user": "calesthio"
     },
     {
@@ -1974,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2291,
+      "stars": 2292,
       "user": "pasky"
     },
     {
@@ -1989,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 518,
       "user": "KeyID-AI"
     },
     {
@@ -2019,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6694,
+      "stars": 6706,
       "user": "aiming-lab"
     },
     {
@@ -2034,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1591,
+      "stars": 1611,
       "user": "HKUDS"
     },
     {
@@ -2064,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 1000,
       "user": "cnlimiter"
     },
     {
@@ -2079,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 753,
       "user": "nikmcfly"
     },
     {
@@ -2094,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "antflydb"
     },
     {
