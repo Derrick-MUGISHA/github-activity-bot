@@ -1,35 +1,6 @@
 {
   "AI": [
     {
-      "title": "We've Seen This Movie Before",
-      "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
-      "published_at": "2026-03-19T08:54:35Z",
-      "description": "I've been sitting on this comparison for a while, trying to decide if it was too obvious to write...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
-      "source": "Dev.to",
-      "user": "Wynand Pieters"
-    },
-    {
-      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
-      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
-      "published_at": "2026-03-19T18:12:23Z",
-      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
-      "source": "Dev.to",
-      "user": "Kat Kampf"
-    },
-    {
       "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
       "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml",
       "published_at": "2026-03-19T20:26:57Z",
@@ -43,6 +14,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "We've Seen This Movie Before",
+      "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
+      "published_at": "2026-03-19T08:54:35Z",
+      "description": "I've been sitting on this comparison for a while, trying to decide if it was too obvious to write...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
+      "source": "Dev.to",
+      "user": "Wynand Pieters"
     },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
+      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
+      "published_at": "2026-03-19T18:12:23Z",
+      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
+      "source": "Dev.to",
+      "user": "Kat Kampf"
     },
     {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
@@ -336,6 +336,21 @@
       "user": "Jeffrey Mew"
     },
     {
+      "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
+      "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
+      "published_at": "2026-03-18T16:26:53Z",
+      "description": "You wouldn't leave your car engine running while you grab groceries. So why are you burning...",
+      "tags": [
+        "ai",
+        "cursor",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
+      "source": "Dev.to",
+      "user": "Dineshraj Anandan"
+    },
+    {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
       "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
       "published_at": "2026-03-16T13:30:29Z",
@@ -349,6 +364,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
       "source": "Dev.to",
       "user": "Providence Ifeosame"
+    },
+    {
+      "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
+      "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
+      "published_at": "2026-03-17T23:55:52Z",
+      "description": "Embedding third-party content with an iframe is straightforward until it suddenly stops...",
+      "tags": [
+        "javascript",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
+      "source": "Dev.to",
+      "user": "Chioma Halim"
     },
     {
       "title": "Ship Less, Measure More",
@@ -587,21 +615,6 @@
       "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
-      "title": "How I give my AI agents eyes with a single API call",
-      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
-      "published_at": "2026-03-16T22:23:05Z",
-      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
-      "tags": [
-        "ai",
-        "webdev",
-        "automation",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
-      "source": "Dev.to",
-      "user": "Boehner"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -745,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2294,
+      "stars": 2295,
       "user": "pasky"
     },
     {
@@ -760,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 520,
       "user": "KeyID-AI"
     },
     {
@@ -790,26 +803,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6727,
+      "stars": 6736,
       "user": "aiming-lab"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
-      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
-      "published_at": "2026-03-19T18:12:23Z",
-      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
-      "source": "Dev.to",
-      "user": "Kat Kampf"
-    },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
       "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
@@ -824,6 +822,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
+      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
+      "published_at": "2026-03-19T18:12:23Z",
+      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
+      "source": "Dev.to",
+      "user": "Kat Kampf"
     },
     {
       "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
@@ -854,6 +867,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
       "source": "Dev.to",
       "user": "Justin Headley"
+    },
+    {
+      "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
+      "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
+      "published_at": "2026-03-17T23:55:52Z",
+      "description": "Embedding third-party content with an iframe is straightforward until it suddenly stops...",
+      "tags": [
+        "javascript",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
+      "source": "Dev.to",
+      "user": "Chioma Halim"
     },
     {
       "title": "Gemini CLI and Jules: my March 2026 stack",
@@ -929,21 +955,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
-    },
-    {
-      "title": "How I give my AI agents eyes with a single API call",
-      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
-      "published_at": "2026-03-16T22:23:05Z",
-      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
-      "tags": [
-        "ai",
-        "webdev",
-        "automation",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
-      "source": "Dev.to",
-      "user": "Boehner"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1077,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 12014,
+      "stars": 12131,
       "user": "NVIDIA"
     },
     {
@@ -1092,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5095,
+      "stars": 5109,
       "user": "calesthio"
     },
     {
@@ -1107,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2294,
+      "stars": 2295,
       "user": "pasky"
     },
     {
@@ -1122,7 +1133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 520,
       "user": "KeyID-AI"
     },
     {
@@ -1319,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6727,
+      "stars": 6736,
       "user": "aiming-lab"
     },
     {
@@ -1334,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1631,
       "user": "HKUDS"
     },
     {
@@ -1364,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1012,
       "user": "cnlimiter"
     },
     {
@@ -1379,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 765,
       "user": "nikmcfly"
     }
   ],
@@ -1532,6 +1543,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
       "source": "Dev.to",
       "user": "Max"
+    },
+    {
+      "title": "TrackFlow: A Kotlin Multiplatform Analytics Router for Android and iOS",
+      "url": "https://dev.to/2_cranes/trackflow-a-kotlin-multiplatform-analytics-router-for-android-and-ios-2n6p",
+      "published_at": "2026-03-18T18:19:10Z",
+      "description": "Analytics is one of those things every app needs, but very few teams enjoy implementing.  A typical...",
+      "tags": [
+        "kotlin",
+        "android",
+        "ios",
+        "analytics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F55gowueiasjansu3w6jy.png",
+      "source": "Dev.to",
+      "user": "Lecrane"
     }
   ],
   "Cloud": [
@@ -1701,6 +1727,19 @@
       "user": "Michael Bogan"
     },
     {
+      "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
+      "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
+      "published_at": "2026-03-17T23:55:52Z",
+      "description": "Embedding third-party content with an iframe is straightforward until it suddenly stops...",
+      "tags": [
+        "javascript",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
+      "source": "Dev.to",
+      "user": "Chioma Halim"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1730,21 +1769,6 @@
       "user": "Erik Hanchett"
     },
     {
-      "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
-      "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
-      "published_at": "2026-03-18T13:42:46Z",
-      "description": "An important property of tests is that they should be composable.  Here is an example. Say you have a...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "testing",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg",
-      "source": "Dev.to",
-      "user": "Younes Jaaidi"
-    },
-    {
       "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
       "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
       "published_at": "2026-03-18T23:20:04Z",
@@ -1758,6 +1782,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
+      "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
+      "published_at": "2026-03-18T13:42:46Z",
+      "description": "An important property of tests is that they should be composable.  Here is an example. Say you have a...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "testing",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg",
+      "source": "Dev.to",
+      "user": "Younes Jaaidi"
     },
     {
       "title": "Anki On My Wrist",
@@ -1817,6 +1856,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
+    },
+    {
+      "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
+      "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
+      "published_at": "2026-03-18T16:26:53Z",
+      "description": "You wouldn't leave your car engine running while you grab groceries. So why are you burning...",
+      "tags": [
+        "ai",
+        "cursor",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
+      "source": "Dev.to",
+      "user": "Dineshraj Anandan"
     },
     {
       "title": "Gemini CLI and Jules: my March 2026 stack",
@@ -1905,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 12014,
+      "stars": 12131,
       "user": "NVIDIA"
     },
     {
@@ -1920,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5095,
+      "stars": 5109,
       "user": "calesthio"
     },
     {
@@ -1935,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2294,
+      "stars": 2295,
       "user": "pasky"
     },
     {
@@ -1950,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 520,
       "user": "KeyID-AI"
     },
     {
@@ -1980,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6727,
+      "stars": 6736,
       "user": "aiming-lab"
     },
     {
@@ -1995,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1631,
       "user": "HKUDS"
     },
     {
@@ -2025,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1012,
       "user": "cnlimiter"
     },
     {
@@ -2040,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 765,
       "user": "nikmcfly"
     },
     {
