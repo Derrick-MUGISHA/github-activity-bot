@@ -820942,3 +820942,743 @@ NVIDIA plugin for secure installation of OpenClaw
 
 ---
 
+
+
+## 📰 DevTech News — 2026-03-19 12:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (50 articles)
+
+#### 1. [How to Stop Babysitting Your AI Agents](https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376)
+📅 Wed, 18 Mar 2026 13:50:00 GMT
+👤 By: J. R. Swab | 📌 Source: Dev.to
+
+![How to Stop Babysitting Your AI Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png)
+
+Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.
+
+🏷️ Tags: `llmagents`, `cli`, `devtools`, `go`
+
+---
+
+#### 2. [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0)
+📅 Wed, 18 Mar 2026 14:39:24 GMT
+👤 By: Kat Cosgrove | 📌 Source: Dev.to
+
+![When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png)
+
+Maintaining an open source project is hard. It requires managing a group of people who are largely...
+
+🏷️ Tags: `opensource`, `security`, `kubernetes`, `devops`
+
+---
+
+#### 3. [Supercharge your workflow with AI dev tools](https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e)
+📅 Wed, 18 Mar 2026 13:57:01 GMT
+👤 By: Martin Omander | 📌 Source: Dev.to
+
+![Supercharge your workflow with AI dev tools](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrx6zlobzm2psjioo28g.png)
+
+As developers, we’re no longer just writing lines of code; we’re orchestrating systems. The...
+
+🏷️ Tags: `googlecloud`, `serverless`, `ai`, `productivity`
+
+---
+
+#### 4. [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm)
+📅 Tue, 17 Mar 2026 17:43:25 GMT
+👤 By: Justin Headley | 📌 Source: Dev.to
+
+![I Built a Claude Code Agent That Doesn't Need Me Anymore](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png)
+
+I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.
+
+🏷️ Tags: `ai`, `opensource`, `claudecode`, `typescript`
+
+---
+
+#### 5. [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3)
+📅 Tue, 17 Mar 2026 14:02:20 GMT
+👤 By: Typing Turtle | 📌 Source: Dev.to
+
+![FE/BE - Unite Them!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png)
+
+tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...
+
+---
+
+#### 6. [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o)
+📅 Tue, 17 Mar 2026 18:32:57 GMT
+👤 By: Jeffrey Mew | 📌 Source: Dev.to
+
+![Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png)
+
+When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...
+
+🏷️ Tags: `cloud`, `agents`, `mcp`, `ai`
+
+---
+
+#### 7. [Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj)
+📅 Tue, 17 Mar 2026 23:55:52 GMT
+👤 By: Chioma Halim | 📌 Source: Dev.to
+
+![Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png)
+
+Embedding third-party content with an iframe is straightforward until it suddenly stops...
+
+🏷️ Tags: `javascript`, `security`
+
+---
+
+#### 8. [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3)
+📅 Tue, 17 Mar 2026 16:00:00 GMT
+👤 By: DigitalOcean | 📌 Source: Dev.to
+
+![Getting Started with Qwen3.5 Vision-Language Models](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flyhk43dl0t2ua178arvd.png)
+
+This article was originally written by James Skelton (Senior AI/ML Technical Content Strategist...
+
+🏷️ Tags: `qwen`, `learning`, `aimodels`, `tutorial`
+
+---
+
+#### 9. [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no)
+📅 Tue, 17 Mar 2026 12:19:42 GMT
+👤 By: Oleksander | 📌 Source: Dev.to
+
+![I built a cognitive layer for AI agents that learns without LLM calls](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png)
+
+The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...
+
+🏷️ Tags: `ai`, `memory`, `rust`, `python`
+
+---
+
+#### 10. [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o)
+📅 Tue, 17 Mar 2026 20:07:24 GMT
+👤 By: Max | 📌 Source: Dev.to
+
+![Confident and Wrong](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png)
+
+For a long time, I have been seeing AI in coding as something that enables me, amplifies my...
+
+🏷️ Tags: `ai`, `swift`, `programming`, `learning`
+
+---
+
+### 🏷️ JavaScript (25 articles)
+
+#### 1. [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h)
+📅 Wed, 18 Mar 2026 13:42:46 GMT
+👤 By: Younes Jaaidi | 📌 Source: Dev.to
+
+![Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg)
+
+An important property of tests is that they should be composable.  Here is an example. Say you have a...
+
+🏷️ Tags: `webdev`, `javascript`, `testing`, `angular`
+
+---
+
+#### 2. [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm)
+📅 Tue, 17 Mar 2026 17:43:25 GMT
+👤 By: Justin Headley | 📌 Source: Dev.to
+
+![I Built a Claude Code Agent That Doesn't Need Me Anymore](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png)
+
+I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.
+
+🏷️ Tags: `ai`, `opensource`, `claudecode`, `typescript`
+
+---
+
+#### 3. [Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj)
+📅 Tue, 17 Mar 2026 23:55:52 GMT
+👤 By: Chioma Halim | 📌 Source: Dev.to
+
+![Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png)
+
+Embedding third-party content with an iframe is straightforward until it suddenly stops...
+
+🏷️ Tags: `javascript`, `security`
+
+---
+
+#### 4. [How I give my AI agents eyes with a single API call](https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad)
+📅 Mon, 16 Mar 2026 22:23:05 GMT
+👤 By: Boehner | 📌 Source: Dev.to
+
+![How I give my AI agents eyes with a single API call](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png)
+
+My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...
+
+🏷️ Tags: `ai`, `webdev`, `automation`, `javascript`
+
+---
+
+#### 5. [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146)
+📅 Sun, 15 Mar 2026 17:28:43 GMT
+👤 By: Rowan Merewood | 📌 Source: Dev.to
+
+![Gemini CLI and Jules: my March 2026 stack](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg)
+
+Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...
+
+🏷️ Tags: `ai`, `javascript`, `tooling`, `webdev`
+
+---
+
+#### 6. [One regex to match them all](https://dev.to/ferderer/one-regex-to-match-them-all-228h)
+📅 Mon, 16 Mar 2026 11:18:24 GMT
+👤 By: Vadim Ferderer | 📌 Source: Dev.to
+
+![One regex to match them all](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png)
+
+Last year I was building a single-page app with SvelteKit. Nothing fancy—a handful of views,...
+
+🏷️ Tags: `webdev`, `javascript`, `typescript`, `opensource`
+
+---
+
+#### 7. [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i)
+📅 Thu, 12 Mar 2026 10:51:33 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png)
+
+JavaScript has been the main language of the web for years. Its popularity probably surprised even...
+
+🏷️ Tags: `webdev`, `javascript`, `typescript`, `webgpu`
+
+---
+
+#### 8. [We built a video recording API at $0.01/min. Here's the tech that made it possible.](https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872)
+📅 Fri, 13 Mar 2026 04:17:57 GMT
+👤 By: Christian Segovia | 📌 Source: Dev.to
+
+![We built a video recording API at $0.01/min. Here's the tech that made it possible.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg)
+
+Most video recording APIs charge $0.02-0.03 per minute. We built one for $0.01/min — 62% cheaper —...
+
+🏷️ Tags: `webdev`, `javascript`, `saas`, `video`
+
+---
+
+#### 9. [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3)
+📅 Sat, 14 Mar 2026 16:44:34 GMT
+👤 By: Harsh  | 📌 Source: Dev.to
+
+![90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png)
+
+I read the headline at 11pm on a random Wednesday.  "Anthropic CEO predicts 90% of all code will be...
+
+🏷️ Tags: `ai`, `career`, `webdev`, `javascript`
+
+---
+
+#### 10. [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk)
+📅 Tue, 03 Mar 2026 04:44:50 GMT
+👤 By: Ovi ren | 📌 Source: Dev.to
+
+![i built a social platform where everything vanishes after 24 hours](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5xfn8fdjdaqavd7h1oq.png)
+
+genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....
+
+🏷️ Tags: `socialmedia`, `showdev`, `webdev`, `typescript`
+
+---
+
+### 🏷️ Python (18 articles)
+
+#### 1. [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no)
+📅 Tue, 17 Mar 2026 12:19:42 GMT
+👤 By: Oleksander | 📌 Source: Dev.to
+
+![I built a cognitive layer for AI agents that learns without LLM calls](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png)
+
+The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...
+
+🏷️ Tags: `ai`, `memory`, `rust`, `python`
+
+---
+
+#### 2. [Human-in-the-Loop AI Agents with Google ADK and Telegram](https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd)
+📅 Mon, 16 Mar 2026 19:05:58 GMT
+👤 By: James Zhang | 📌 Source: Dev.to
+
+![Human-in-the-Loop AI Agents with Google ADK and Telegram](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png)
+
+How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.
+
+🏷️ Tags: `ai`, `googleadk`, `fastapi`, `telegram`
+
+---
+
+#### 3. [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3)
+📅 Sat, 07 Mar 2026 09:30:17 GMT
+👤 By: Ahmet Zeybek | 📌 Source: Dev.to
+
+![I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png)
+
+I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.
+
+🏷️ Tags: `postgres`, `ai`, `machinelearning`, `tutorial`
+
+---
+
+#### 4. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (2 articles)
+
+#### 1. [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0)
+📅 Wed, 18 Mar 2026 14:39:24 GMT
+👤 By: Kat Cosgrove | 📌 Source: Dev.to
+
+![When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png)
+
+Maintaining an open source project is hard. It requires managing a group of people who are largely...
+
+🏷️ Tags: `opensource`, `security`, `kubernetes`, `devops`
+
+---
+
+#### 2. [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl)
+📅 Thu, 05 Mar 2026 20:29:52 GMT
+👤 By: Sovereign Revenue Guard | 📌 Source: Dev.to
+
+![The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png)
+
+The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...
+
+🏷️ Tags: `observability`, `webdev`, `monitoring`, `devops`
+
+---
+
+### 🏷️ WebDev (5 articles)
+
+#### 1. [Backstage logbook: Migrating the Catalog Plugin to the New Frontend System](https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6)
+📅 Sun, 15 Mar 2026 23:14:56 GMT
+👤 By: sarabadu | 📌 Source: Dev.to
+
+![Backstage logbook: Migrating the Catalog Plugin to the New Frontend System](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcg8lsr1klr29eca86wab.png)
+
+The Backstage new frontend system support is growing, and I figured I needed to carve out some time to really understand it. I took the Catalog plugin migration, from the legacy frontend system to the new one, as my learning ground to see how all the different customisation points work in practice. Here you'll see my process following the migration, step by step.
+
+🏷️ Tags: `backstage`, `nfs`, `migrations`
+
+---
+
+#### 2. [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl)
+📅 Thu, 05 Mar 2026 20:29:52 GMT
+👤 By: Sovereign Revenue Guard | 📌 Source: Dev.to
+
+![The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png)
+
+The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...
+
+🏷️ Tags: `observability`, `webdev`, `monitoring`, `devops`
+
+---
+
+#### 3. [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828)
+📅 Fri, 06 Mar 2026 16:10:33 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png)
+
+We’re excited to announce the launch of the 2026 WeCoded Challenge!  This year marks our ninth year...
+
+🏷️ Tags: `devchallenge`, `wecoded`, `frontend`, `career`
+
+---
+
+#### 4. [Recently Played: bringing back my Last.fm component](https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank)
+📅 Sun, 08 Mar 2026 23:21:01 GMT
+👤 By: Martin Hicks | 📌 Source: Dev.to
+
+![Recently Played: bringing back my Last.fm component](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png)
+
+How I rebuilt my old Last.fm widget as an Eleventy WebC component with server-rendered HTML, client-side polling, and localStorage caching.
+
+🏷️ Tags: `devjournal`, `showdev`, `sideprojects`, `webdev`
+
+---
+
+#### 5. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (1 articles)
+
+#### 1. [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o)
+📅 Tue, 17 Mar 2026 20:07:24 GMT
+👤 By: Max | 📌 Source: Dev.to
+
+![Confident and Wrong](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png)
+
+For a long time, I have been seeing AI in coding as something that enables me, amplifies my...
+
+🏷️ Tags: `ai`, `swift`, `programming`, `learning`
+
+---
+
+### 🏷️ Cloud (3 articles)
+
+#### 1. [Supercharge your workflow with AI dev tools](https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e)
+📅 Wed, 18 Mar 2026 13:57:01 GMT
+👤 By: Martin Omander | 📌 Source: Dev.to
+
+![Supercharge your workflow with AI dev tools](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrx6zlobzm2psjioo28g.png)
+
+As developers, we’re no longer just writing lines of code; we’re orchestrating systems. The...
+
+🏷️ Tags: `googlecloud`, `serverless`, `ai`, `productivity`
+
+---
+
+#### 2. [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o)
+📅 Tue, 17 Mar 2026 18:32:57 GMT
+👤 By: Jeffrey Mew | 📌 Source: Dev.to
+
+![Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png)
+
+When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...
+
+🏷️ Tags: `cloud`, `agents`, `mcp`, `ai`
+
+---
+
+#### 3. [How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud](https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28)
+📅 Mon, 16 Mar 2026 13:30:29 GMT
+👤 By: Providence Ifeosame | 📌 Source: Dev.to
+
+![How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png)
+
+Disclaimer: I created this blog post for the purposes of entering the Gemini Live Agent Challenge...
+
+🏷️ Tags: `devchallenge`, `gemini`, `googlecloud`, `showdev`
+
+---
+
+### 🏷️ Database (6 articles)
+
+#### 1. [Partitioning PotgreSQL Database](https://dev.to/bohdanstupak1/partitioning-potgresql-database-26be)
+📅 Tue, 17 Mar 2026 10:02:50 GMT
+👤 By: Bohdan Stupak | 📌 Source: Dev.to
+
+![Partitioning PotgreSQL Database](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6f00c7xnlqb7wjja40i3.png)
+
+Overview of how using pg_partman and pg_cron allowed to drastically reduce query time for a large table
+
+🏷️ Tags: `sql`, `postgres`, `architecture`, `performance`
+
+---
+
+#### 2. [I built a PostgreSQL client in Rust because DBeaver was eating my RAM](https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1)
+📅 Mon, 16 Mar 2026 14:42:02 GMT
+👤 By: Faruk Durgut | 📌 Source: Dev.to
+
+![I built a PostgreSQL client in Rust because DBeaver was eating my RAM](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png)
+
+My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...
+
+🏷️ Tags: `rust`, `postgres`, `opensource`, `showdev`
+
+---
+
+#### 3. [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3)
+📅 Sat, 07 Mar 2026 09:30:17 GMT
+👤 By: Ahmet Zeybek | 📌 Source: Dev.to
+
+![I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png)
+
+I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.
+
+🏷️ Tags: `postgres`, `ai`, `machinelearning`, `tutorial`
+
+---
+
+#### 4. [Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL](https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i)
+📅 Sun, 15 Mar 2026 05:48:21 GMT
+👤 By: catatsuy | 📌 Source: Dev.to
+
+![Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszl1776ybfjch84s9eaf.png)
+
+Why I now recommend PostgreSQL for new applications, even though I still like MySQL and have used it for a long time.
+
+🏷️ Tags: `mysql`, `postgres`, `database`, `sql`
+
+---
+
+#### 5. [🏗️ Building a Clean Architecture API with Go, Ore, and SQLite](https://dev.to/lilury/building-a-clean-architecture-api-with-go-ore-and-sqlite-4ilf)
+📅 Sat, 07 Mar 2026 17:10:00 GMT
+👤 By: Firas M. Darwish | 📌 Source: Dev.to
+
+![🏗️ Building a Clean Architecture API with Go, Ore, and SQLite](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flilury.com%2Fstatics%2Farticle-cover.png)
+
+So you've been writing Go for a bit. Your main.go is growing. You've got a database call next to an...
+
+🏷️ Tags: `go`, `ore`, `di`, `architecture`
+
+---
+
+#### 6. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (4 articles)
+
+#### 1. [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0)
+📅 Wed, 18 Mar 2026 14:39:24 GMT
+👤 By: Kat Cosgrove | 📌 Source: Dev.to
+
+![When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png)
+
+Maintaining an open source project is hard. It requires managing a group of people who are largely...
+
+🏷️ Tags: `opensource`, `security`, `kubernetes`, `devops`
+
+---
+
+#### 2. [Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj)
+📅 Tue, 17 Mar 2026 23:55:52 GMT
+👤 By: Chioma Halim | 📌 Source: Dev.to
+
+![Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png)
+
+Embedding third-party content with an iframe is straightforward until it suddenly stops...
+
+🏷️ Tags: `javascript`, `security`
+
+---
+
+#### 3. [Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk)
+📅 Mon, 09 Mar 2026 23:47:06 GMT
+👤 By: JLarky | 📌 Source: Dev.to
+
+![Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhle8kx2octm0lb4bpmit.png)
+
+Sometimes you want to run commands that you don’t fully trust or that intentionally bypass...
+
+🏷️ Tags: `abotwrotethis`, `sandbox`, `security`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (24 articles)
+
+#### 1. [How to Stop Babysitting Your AI Agents](https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376)
+📅 Wed, 18 Mar 2026 13:50:00 GMT
+👤 By: J. R. Swab | 📌 Source: Dev.to
+
+![How to Stop Babysitting Your AI Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png)
+
+Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.
+
+🏷️ Tags: `llmagents`, `cli`, `devtools`, `go`
+
+---
+
+#### 2. [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h)
+📅 Wed, 18 Mar 2026 13:42:46 GMT
+👤 By: Younes Jaaidi | 📌 Source: Dev.to
+
+![Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg)
+
+An important property of tests is that they should be composable.  Here is an example. Say you have a...
+
+🏷️ Tags: `webdev`, `javascript`, `testing`, `angular`
+
+---
+
+#### 3. [Supercharge your workflow with AI dev tools](https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e)
+📅 Wed, 18 Mar 2026 13:57:01 GMT
+👤 By: Martin Omander | 📌 Source: Dev.to
+
+![Supercharge your workflow with AI dev tools](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrx6zlobzm2psjioo28g.png)
+
+As developers, we’re no longer just writing lines of code; we’re orchestrating systems. The...
+
+🏷️ Tags: `googlecloud`, `serverless`, `ai`, `productivity`
+
+---
+
+#### 4. [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146)
+📅 Sun, 15 Mar 2026 17:28:43 GMT
+👤 By: Rowan Merewood | 📌 Source: Dev.to
+
+![Gemini CLI and Jules: my March 2026 stack](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg)
+
+Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...
+
+🏷️ Tags: `ai`, `javascript`, `tooling`, `webdev`
+
+---
+
+#### 5. [Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP](https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp)
+📅 Tue, 17 Mar 2026 06:06:10 GMT
+👤 By: Juan David Gómez | 📌 Source: Dev.to
+
+![Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png)
+
+This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...
+
+🏷️ Tags: `devchallenge`, `notionchallenge`, `mcp`, `ai`
+
+---
+
+#### 6. [Git Worktrees Are Underrated](https://dev.to/morellodev/git-worktrees-are-underrated-2k9)
+📅 Mon, 16 Mar 2026 22:07:48 GMT
+👤 By: Dennis Morello | 📌 Source: Dev.to
+
+![Git Worktrees Are Underrated](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg)
+
+If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...
+
+🏷️ Tags: `git`, `cli`, `productivity`, `rust`
+
+---
+
+#### 7. [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7)
+📅 Fri, 06 Mar 2026 16:03:22 GMT
+👤 By: Richard Oliver Bray | 📌 Source: Dev.to
+
+![Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvor2ooqmwkv6vkstlqex.png)
+
+TL;DR    Enable the Kitty keyboard protocol in your terminal (WezTerm: add...
+
+🏷️ Tags: `claudecode`, `terminal`, `wezterm`, `productivity`
+
+---
+
+#### 8. [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02)
+📅 Fri, 27 Feb 2026 12:24:36 GMT
+👤 By: Denis Bakhoum | 📌 Source: Dev.to
+
+![How Do You Actually Know If AI Is Working On Your Team?](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png)
+
+Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.
+
+🏷️ Tags: `ai`, `engineering`, `productivity`, `dx`
+
+---
+
+#### 9. [I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.](https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl)
+📅 Sat, 14 Mar 2026 20:02:03 GMT
+👤 By: Alex | 📌 Source: Dev.to
+
+![I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif)
+
+An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...
+
+🏷️ Tags: `ai`, `agents`, `productivity`, `tutorial`
+
+---
+
+#### 10. [NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw](https://github.com/NVIDIA/NemoClaw)
+📅 Sun, 15 Mar 2026 17:04:09 GMT
+👤 By: NVIDIA | 📌 Source: GitHub
+
+![NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw](https://avatars.githubusercontent.com/u/1728152?v=4)
+
+NVIDIA plugin for secure installation of OpenClaw
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 10,071
+
+---
+
