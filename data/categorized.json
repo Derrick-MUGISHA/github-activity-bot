@@ -15,6 +15,21 @@
       "user": "Wynand Pieters"
     },
     {
+      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
+      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
+      "published_at": "2026-03-19T17:02:19Z",
+      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
+      "tags": [
+        "webdev",
+        "vite",
+        "frontend",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
+    },
+    {
       "title": "Anki On My Wrist",
       "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
       "published_at": "2026-03-18T23:28:43Z",
@@ -90,16 +105,6 @@
       "user": "J. R. Swab"
     },
     {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
-    },
-    {
       "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
       "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
       "published_at": "2026-03-17T18:32:57Z",
@@ -113,6 +118,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
       "source": "Dev.to",
       "user": "Jeffrey Mew"
+    },
+    {
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
+      "source": "Dev.to",
+      "user": "Typing Turtle"
     },
     {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
@@ -540,21 +555,6 @@
       "user": "GrahamTheDev"
     },
     {
-      "title": "I Let AI Handle My Slack Messages So I Could Actually Code (Notion MCP)",
-      "url": "https://dev.to/balkaran/synapse-the-autonomous-ai-developer-shield-built-with-notion-mcp-5f0j",
-      "published_at": "2026-03-15T13:47:24Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every developer knows the...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fioyu5ea6uozewh8dfuer.png",
-      "source": "Dev.to",
-      "user": "Balkaran Singh"
-    },
-    {
       "title": "I Built a Browser UI for Claude Code — Here's Why",
       "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
       "published_at": "2026-03-16T08:15:44Z",
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2288,
+      "stars": 2291,
       "user": "pasky"
     },
     {
@@ -773,11 +773,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6670,
+      "stars": 6694,
       "user": "aiming-lab"
     }
   ],
   "JavaScript": [
+    {
+      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
+      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
+      "published_at": "2026-03-19T17:02:19Z",
+      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
+      "tags": [
+        "webdev",
+        "vite",
+        "frontend",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
+    },
     {
       "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
       "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
@@ -1043,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11520,
+      "stars": 11648,
       "user": "NVIDIA"
     },
     {
@@ -1058,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5010,
+      "stars": 5033,
       "user": "calesthio"
     },
     {
@@ -1073,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2288,
+      "stars": 2291,
       "user": "pasky"
     },
     {
@@ -1103,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "phuc-nt"
     }
   ],
@@ -1285,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6670,
+      "stars": 6694,
       "user": "aiming-lab"
     },
     {
@@ -1300,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1571,
+      "stars": 1591,
       "user": "HKUDS"
     },
     {
@@ -1330,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 991,
       "user": "cnlimiter"
     },
     {
@@ -1345,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 745,
       "user": "nikmcfly"
     }
   ],
@@ -1412,6 +1427,21 @@
   ],
   "WebDev": [
     {
+      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
+      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
+      "published_at": "2026-03-19T17:02:19Z",
+      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
+      "tags": [
+        "webdev",
+        "vite",
+        "frontend",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
+    },
+    {
       "title": "Backstage logbook: Migrating the Catalog Plugin to the New Frontend System",
       "url": "https://dev.to/sarabadu/backstage-logbook-migrating-the-catalog-plugin-to-the-new-frontend-system-f6",
       "published_at": "2026-03-15T23:14:56Z",
@@ -1454,6 +1484,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Recently Played: bringing back my Last.fm component",
+      "url": "https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank",
+      "published_at": "2026-03-08T23:21:01Z",
+      "description": "How I rebuilt my old Last.fm widget as an Eleventy WebC component with server-rendered HTML, client-side polling, and localStorage caching.",
+      "tags": [
+        "devjournal",
+        "showdev",
+        "sideprojects",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
+      "source": "Dev.to",
+      "user": "Martin Hicks"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1594,21 +1639,6 @@
       "user": "Ahmet Zeybek"
     },
     {
-      "title": "Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL",
-      "url": "https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i",
-      "published_at": "2026-03-15T05:48:21Z",
-      "description": "Why I now recommend PostgreSQL for new applications, even though I still like MySQL and have used it for a long time.",
-      "tags": [
-        "mysql",
-        "postgres",
-        "database",
-        "sql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszl1776ybfjch84s9eaf.png",
-      "source": "Dev.to",
-      "user": "catatsuy"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1708,6 +1738,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
+      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
+      "published_at": "2026-03-19T17:02:19Z",
+      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
+      "tags": [
+        "webdev",
+        "vite",
+        "frontend",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
+    },
     {
       "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
       "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
@@ -1899,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 11520,
+      "stars": 11648,
       "user": "NVIDIA"
     },
     {
@@ -1914,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5010,
+      "stars": 5033,
       "user": "calesthio"
     },
     {
@@ -1929,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2288,
+      "stars": 2291,
       "user": "pasky"
     },
     {
@@ -1959,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "phuc-nt"
     },
     {
@@ -1974,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6670,
+      "stars": 6694,
       "user": "aiming-lab"
     },
     {
@@ -1989,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1571,
+      "stars": 1591,
       "user": "HKUDS"
     },
     {
@@ -2019,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 991,
       "user": "cnlimiter"
     },
     {
@@ -2034,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 745,
       "user": "nikmcfly"
     },
     {
@@ -2049,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "antflydb"
     },
     {
@@ -2094,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "roots"
     },
     {
