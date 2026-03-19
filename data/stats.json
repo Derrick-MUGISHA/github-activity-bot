@@ -15,7 +15,7 @@
     "Cloud": 3,
     "Database": 6,
     "Security": 4,
-    "Tools": 24
+    "Tools": 23
   },
   "by_language": {
     "Go": 18,
@@ -27,6 +27,7 @@
     "PHP": 1
   },
   "by_date": {
+    "2026-03-19": 1,
     "2026-03-17": 14,
     "2026-03-18": 5,
     "2026-03-16": 15,
@@ -39,7 +40,7 @@
     "2026-03-05": 1,
     "2026-03-09": 1,
     "2026-02-27": 1,
-    "2026-03-14": 6,
+    "2026-03-14": 5,
     "2026-03-08": 2,
     "2026-03-10": 1,
     "2026-03-03": 2,
@@ -82,16 +83,16 @@
     "JavaScript": 10,
     "Python": 10,
     "devchallenge": 9,
+    "programming": 7,
     "go": 7,
     "opensource": 7,
     "discuss": 6,
-    "programming": 6,
     "notionchallenge": 6,
     "career": 6,
     "python": 6,
-    "productivity": 5,
     "mcp": 5,
     "watercooler": 4,
+    "productivity": 4,
     "typescript": 4
   },
   "trending_topics": [],
