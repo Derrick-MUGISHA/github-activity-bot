@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "We've Seen This Movie Before",
+      "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
+      "published_at": "2026-03-19T08:54:35Z",
+      "description": "I've been sitting on this comparison for a while, trying to decide if it was too obvious to write...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
+      "source": "Dev.to",
+      "user": "Wynand Pieters"
+    },
+    {
       "title": "How to Stop Babysitting Your AI Agents",
       "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
       "published_at": "2026-03-18T13:50:00Z",
@@ -512,21 +526,6 @@
       "user": "Takahiro Ikeuchi"
     },
     {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
-      "source": "Dev.to",
-      "user": "Alex"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -670,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2262,
+      "stars": 2267,
       "user": "pasky"
     },
     {
@@ -685,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 511,
       "user": "KeyID-AI"
     },
     {
@@ -700,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6530,
+      "stars": 6547,
       "user": "aiming-lab"
     }
   ],
@@ -985,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 10252,
+      "stars": 10429,
       "user": "NVIDIA"
     },
     {
@@ -1000,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4832,
+      "stars": 4867,
       "user": "calesthio"
     },
     {
@@ -1015,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2262,
+      "stars": 2267,
       "user": "pasky"
     },
     {
@@ -1030,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 511,
       "user": "KeyID-AI"
     },
     {
@@ -1045,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 356,
       "user": "phuc-nt"
     }
   ],
@@ -1227,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6530,
+      "stars": 6547,
       "user": "aiming-lab"
     },
     {
@@ -1242,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1378,
       "user": "HKUDS"
     },
     {
@@ -1257,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1319,
       "user": "skernelx"
     },
     {
@@ -1272,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 866,
       "user": "cnlimiter"
     },
     {
@@ -1287,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "nikmcfly"
     }
   ],
@@ -1727,21 +1726,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.",
-      "url": "https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl",
-      "published_at": "2026-03-14T20:02:03Z",
-      "description": "An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqohgp7fbo5ysf4vdqity.gif",
-      "source": "Dev.to",
-      "user": "Alex"
-    },
-    {
       "title": "NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "published_at": "2026-03-15T17:04:09Z",
@@ -1753,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 10252,
+      "stars": 10429,
       "user": "NVIDIA"
     },
     {
@@ -1768,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 4832,
+      "stars": 4867,
       "user": "calesthio"
     },
     {
@@ -1783,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
       "source": "GitHub",
-      "stars": 2262,
+      "stars": 2267,
       "user": "pasky"
     },
     {
@@ -1798,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 511,
       "user": "KeyID-AI"
     },
     {
@@ -1813,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17255682?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 356,
       "user": "phuc-nt"
     },
     {
@@ -1828,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6530,
+      "stars": 6547,
       "user": "aiming-lab"
     },
     {
@@ -1843,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1378,
       "user": "HKUDS"
     },
     {
@@ -1858,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1319,
       "user": "skernelx"
     },
     {
@@ -1873,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 866,
       "user": "cnlimiter"
     },
     {
@@ -1888,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "nikmcfly"
     },
     {
@@ -1903,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "antflydb"
     },
     {
@@ -1948,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 75,
       "user": "roots"
     },
     {
