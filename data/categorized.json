@@ -73,21 +73,6 @@
       "user": "Erik Hanchett"
     },
     {
-      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
-      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
-      "published_at": "2026-03-18T23:20:04Z",
-      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
-      "tags": [
-        "ai",
-        "discuss",
-        "machinelearning",
-        "science"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
       "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
       "published_at": "2026-03-19T18:12:23Z",
@@ -289,6 +274,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
       "user": "Kat Cosgrove"
+    },
+    {
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "published_at": "2026-03-18T23:20:04Z",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "tags": [
+        "ai",
+        "discuss",
+        "machinelearning",
+        "science"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "Confident and Wrong",
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 392,
       "user": "liliMozi"
     },
     {
@@ -803,8 +803,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6786,
+      "stars": 6840,
       "user": "aiming-lab"
+    },
+    {
+      "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
+      "url": "https://github.com/ShawnPana/aurl",
+      "published_at": "2026-03-19T03:03:33Z",
+      "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "ShawnPana"
     }
   ],
   "JavaScript": [
@@ -1088,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 12685,
+      "stars": 13008,
       "user": "NVIDIA"
     },
     {
@@ -1103,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5179,
+      "stars": 5208,
       "user": "calesthio"
     },
     {
@@ -1118,7 +1133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 392,
       "user": "liliMozi"
     },
     {
@@ -1330,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6786,
+      "stars": 6840,
       "user": "aiming-lab"
     },
     {
@@ -1345,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1741,
       "user": "HKUDS"
     },
     {
@@ -1360,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1330,
       "user": "skernelx"
     },
     {
@@ -1375,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1095,
       "user": "cnlimiter"
     },
     {
@@ -1390,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 792,
       "user": "nikmcfly"
     }
   ],
@@ -1524,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 100,
       "user": "carlos7ags"
     }
   ],
@@ -1735,6 +1750,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
+      "url": "https://github.com/ShawnPana/aurl",
+      "published_at": "2026-03-19T03:03:33Z",
+      "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "ShawnPana"
     }
   ],
   "Tools": [
@@ -1752,21 +1782,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
-    },
-    {
-      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
-      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
-      "published_at": "2026-03-18T23:20:04Z",
-      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
-      "tags": [
-        "ai",
-        "discuss",
-        "machinelearning",
-        "science"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
     },
     {
       "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
@@ -1841,6 +1856,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
+    },
+    {
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "published_at": "2026-03-18T23:20:04Z",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "tags": [
+        "ai",
+        "discuss",
+        "machinelearning",
+        "science"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -1944,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 12685,
+      "stars": 13008,
       "user": "NVIDIA"
     },
     {
@@ -1959,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5179,
+      "stars": 5208,
       "user": "calesthio"
     },
     {
@@ -1974,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 392,
       "user": "liliMozi"
     },
     {
@@ -2019,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6786,
+      "stars": 6840,
       "user": "aiming-lab"
     },
     {
@@ -2034,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1741,
       "user": "HKUDS"
     },
     {
@@ -2049,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1330,
       "user": "skernelx"
     },
     {
@@ -2064,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1095,
       "user": "cnlimiter"
     },
     {
@@ -2079,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 792,
       "user": "nikmcfly"
     },
     {
@@ -2094,8 +2124,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "antflydb"
+    },
+    {
+      "title": "carlos7ags/folio - Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
+      "url": "https://github.com/carlos7ags/folio",
+      "published_at": "2026-03-14T23:07:55Z",
+      "description": "Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "carlos7ags"
     },
     {
       "title": "agi-bar/clawcolony - claw, claw and claw",
@@ -2113,21 +2158,6 @@
       "user": "agi-bar"
     },
     {
-      "title": "carlos7ags/folio - Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
-      "url": "https://github.com/carlos7ags/folio",
-      "published_at": "2026-03-14T23:07:55Z",
-      "description": "Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
-      "source": "GitHub",
-      "stars": 89,
-      "user": "carlos7ags"
-    },
-    {
       "title": "roots/wp-packages - A modern, community-funded Composer repository for WordPress plugins and themes",
       "url": "https://github.com/roots/wp-packages",
       "published_at": "2026-03-14T18:05:07Z",
@@ -2139,23 +2169,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "roots"
     },
     {
-      "title": "shankar0123/certctl - A self-hosted certificate lifecycle platform. Track, renew, and deploy TLS certificates across your infrastructure with a web dashboard, REST API, and agent-based architecture where private keys never leave your servers.",
-      "url": "https://github.com/shankar0123/certctl",
-      "published_at": "2026-03-14T12:22:29Z",
-      "description": "A self-hosted certificate lifecycle platform. Track, renew, and deploy TLS certificates across your infrastructure with a web dashboard, REST API, and agent-based architecture where private keys never leave your servers.",
+      "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
+      "url": "https://github.com/ShawnPana/aurl",
+      "published_at": "2026-03-19T03:03:33Z",
+      "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42749764?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 70,
-      "user": "shankar0123"
+      "stars": 74,
+      "user": "ShawnPana"
     }
   ]
 }

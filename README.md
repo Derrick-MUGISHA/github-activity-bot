@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
@@ -38,7 +38,7 @@
 
 **WebDev**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦 6 (5.7%)
 
 **Database**: 🟦 4 (3.8%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-20 3:00 CAT)
+## 📅 Latest Updates (2026-03-20 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,7 +203,6 @@ npm run test
 - [AI Vocab 101](https://dev.to/bekahhw/ai-vocab-101-eh2) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb) _[Dev.to]_
-- [Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase](https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe) _[Dev.to]_
 - [Introducing the new full-stack vibe coding experience in Google AI Studio](https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g) _[Dev.to]_
 - [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h) _[Dev.to]_
 - [Should RubyGems/Bundler Have a Cooldown Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
+- [Notion MCP Challenge: Badges Revealed + A New Prize! 🏆 😻](https://dev.to/devteam/notion-mcp-challenge-badges-revealed-a-new-prize-324k) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 03:51:06 CAT_
+_Last automated update: Fri, 20 Mar 2026 06:11:50 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 20 Mar 2026 03:51:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 01:51:06 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Mar 2026 04:11:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
