@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 57,
+    "AI": 58,
     "JavaScript": 25,
     "Python": 18,
     "DevOps": 3,
@@ -14,7 +14,7 @@
     "Mobile": 2,
     "Cloud": 3,
     "Database": 4,
-    "Security": 5,
+    "Security": 6,
     "Tools": 28
   },
   "by_language": {
@@ -28,7 +28,7 @@
     "Kotlin": 1
   },
   "by_date": {
-    "2026-03-19": 8,
+    "2026-03-19": 9,
     "2026-03-16": 14,
     "2026-03-18": 11,
     "2026-03-17": 14,
@@ -39,7 +39,7 @@
     "2026-03-12": 3,
     "2026-03-05": 1,
     "2026-02-27": 1,
-    "2026-03-14": 8,
+    "2026-03-14": 7,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -89,8 +89,8 @@
     "career": 5,
     "notionchallenge": 5,
     "mcp": 4,
-    "machinelearning": 3,
-    "security": 3
+    "security": 3,
+    "learning": 3
   },
   "trending_topics": [],
   "language_percentages": {
