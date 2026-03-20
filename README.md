@@ -32,9 +32,9 @@
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Security**: 🟦🟦 7 (6.7%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.8 (27.8%)
-Java            █████████████████████████████ 26.7 (26.7%)
+JavaScript      ██████████████████████████████ 26.7 (26.7%)
+Java            █████████████████████████████ 25.6 (25.6%)
 Go              ██████████████████████ 20.0 (20.0%)
-Python          ███████████████████ 17.8 (17.8%)
-Rust            ████ 3.3 (3.3%)
+Python          █████████████████████ 18.9 (18.9%)
+Rust            █████ 4.4 (4.4%)
 Swift           ██ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
@@ -73,11 +73,11 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 25
-    "Java" : 24
+    "JavaScript" : 24
+    "Java" : 23
     "Go" : 18
-    "Python" : 16
-    "Rust" : 3
+    "Python" : 17
+    "Rust" : 4
     "Swift" : 2
     "Ruby" : 1
     "Kotlin" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-30-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![career](https://img.shields.io/badge/career-5-blue) 
+![ai](https://img.shields.io/badge/ai-30-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-20 15:00 CAT)
+## 📅 Latest Updates (2026-03-20 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -208,17 +208,17 @@ npm run test
 - [How to Stop Babysitting Your AI Agents](https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376) _[Dev.to]_
 - [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm) _[Dev.to]_
 - [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8) _[Dev.to]_
+- [Anki On My Wrist](https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [Introducing the new full-stack vibe coding experience in Google AI Studio](https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g) _[Dev.to]_
 - [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 - [We've Seen This Movie Before](https://dev.to/wynandpieters/weve-seen-this-movie-before-3719) _[Dev.to]_
 - [Now anyone can host a global AI challenge on Kaggle](https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6) _[Dev.to]_
+- [Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase](https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe) _[Dev.to]_
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
-- [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
-- [Anki On My Wrist](https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 15:19:02 CAT_
+_Last automated update: Fri, 20 Mar 2026 16:10:51 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 20 Mar 2026 15:19:02 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. Python: Explain decorators in Python with an example
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 13:19:02 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Mar 2026 14:10:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

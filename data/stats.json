@@ -7,8 +7,8 @@
   },
   "by_category": {
     "AI": 58,
-    "JavaScript": 25,
-    "Python": 17,
+    "JavaScript": 24,
+    "Python": 18,
     "DevOps": 4,
     "WebDev": 6,
     "Mobile": 2,
@@ -19,20 +19,20 @@
   },
   "by_language": {
     "Go": 18,
-    "Rust": 3,
-    "JavaScript": 25,
-    "Java": 24,
+    "Rust": 4,
+    "JavaScript": 24,
+    "Java": 23,
     "Swift": 2,
     "Ruby": 1,
     "Kotlin": 1,
-    "Python": 16
+    "Python": 17
   },
   "by_date": {
     "2026-03-19": 9,
     "2026-03-20": 1,
     "2026-03-18": 12,
-    "2026-03-17": 13,
-    "2026-03-16": 14,
+    "2026-03-17": 14,
+    "2026-03-16": 13,
     "2026-03-13": 3,
     "2026-03-06": 3,
     "2026-03-15": 6,
@@ -75,8 +75,8 @@
     "ai": 30,
     "github": 15,
     "open-source": 15,
-    "webdev": 14,
-    "javascript": 13,
+    "webdev": 13,
+    "javascript": 12,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
@@ -85,9 +85,9 @@
     "go": 6,
     "opensource": 6,
     "programming": 6,
+    "python": 6,
     "productivity": 5,
     "career": 5,
-    "python": 5,
     "notionchallenge": 4,
     "gemini": 3,
     "cli": 3,
@@ -96,12 +96,12 @@
   "trending_topics": [],
   "language_percentages": {
     "Go": "20.0",
-    "Rust": "3.3",
-    "JavaScript": "27.8",
-    "Java": "26.7",
+    "Rust": "4.4",
+    "JavaScript": "26.7",
+    "Java": "25.6",
     "Swift": "2.2",
     "Ruby": "1.1",
     "Kotlin": "1.1",
-    "Python": "17.8"
+    "Python": "18.9"
   }
 }
