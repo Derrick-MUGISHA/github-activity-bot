@@ -192,6 +192,21 @@
       "user": "Brian Love"
     },
     {
+      "title": "I Scanned 100 AI Codebases - Here's What I Found",
+      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
+      "published_at": "2026-03-19T08:41:48Z",
+      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
+      "tags": [
+        "vibecoding",
+        "ai",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
+      "source": "Dev.to",
+      "user": "Mykola Kondratiuk"
+    },
+    {
       "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
       "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
       "published_at": "2026-03-19T18:12:23Z",
@@ -246,21 +261,6 @@
       "user": "Wynand Pieters"
     },
     {
-      "title": "I Scanned 100 AI Codebases - Here's What I Found",
-      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
-      "published_at": "2026-03-19T08:41:48Z",
-      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
-      "source": "Dev.to",
-      "user": "Mykola Kondratiuk"
-    },
-    {
       "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
       "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
       "published_at": "2026-03-18T23:20:04Z",
@@ -305,6 +305,21 @@
       "user": "Dennis Lemm"
     },
     {
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
+      "tags": [
+        "ruby",
+        "security",
+        "supplychainsecurity",
+        "packaging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
+      "source": "Dev.to",
+      "user": "SHIBATA Hiroshi"
+    },
+    {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
       "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
       "published_at": "2026-03-18T14:39:24Z",
@@ -333,21 +348,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
       "source": "Dev.to",
       "user": "Max"
-    },
-    {
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
-      "published_at": "2026-03-19T01:45:21Z",
-      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
-      "tags": [
-        "ruby",
-        "security",
-        "supplychainsecurity",
-        "packaging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
-      "source": "Dev.to",
-      "user": "SHIBATA Hiroshi"
     },
     {
       "title": "The Local AI Powerhouse",
@@ -425,19 +425,34 @@
       "user": "Dineshraj Anandan"
     },
     {
-      "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
-      "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
-      "published_at": "2026-03-16T13:30:29Z",
-      "description": "Disclaimer: I created this blog post for the purposes of entering the Gemini Live Agent Challenge...",
+      "title": "Your Browser Has a Remote Control — And Nobody Told You",
+      "url": "https://dev.to/timtech4u/your-browser-has-a-remote-control-and-nobody-told-you-5e97",
+      "published_at": "2026-03-19T16:15:50Z",
+      "description": "3 tools that let AI agents drive Chrome. I tested all three. Here's what actually happens.   Every...",
       "tags": [
-        "devchallenge",
-        "gemini",
-        "googlecloud",
-        "showdev"
+        "webdev",
+        "ai",
+        "chrome",
+        "devtools"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FTimtech4u%2Fbrowser-remote-control%2Fmain%2Fscreenshots%2Fheader.png",
       "source": "Dev.to",
-      "user": "Providence Ifeosame"
+      "user": "Timothy Olaleke"
+    },
+    {
+      "title": "Now anyone can host a global AI challenge on Kaggle",
+      "url": "https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6",
+      "published_at": "2026-03-19T15:21:02Z",
+      "description": "Kaggle's community helps the world discover what actually works in AI, and today we're launching...",
+      "tags": [
+        "ai",
+        "kaggle",
+        "datascience",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62cgxekzv9dt2bcrqdep.png",
+      "source": "Dev.to",
+      "user": "Megan Risdal"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -569,21 +584,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "J-Pster"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7079,
+      "stars": 7090,
       "user": "aiming-lab"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "phlx0"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "ShawnPana"
     }
   ],
@@ -1059,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14158,
+      "stars": 14197,
       "user": "NVIDIA"
     },
     {
@@ -1074,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5608,
+      "stars": 5631,
       "user": "calesthio"
     },
     {
@@ -1119,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "J-Pster"
     }
   ],
@@ -1138,6 +1138,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
       "source": "Dev.to",
       "user": "James Zhang"
+    },
+    {
+      "title": "Introducing DotNetPy: Python Interop for Modern .NET, Reimagined",
+      "url": "https://dev.to/rkttu/introducing-dotnetpy-python-interop-for-modern-net-reimagined-32gi",
+      "published_at": "2026-03-19T06:58:50Z",
+      "description": "A lightweight, AOT-compatible library that lets you call Python from C# in 4 lines — with declarative uv integration and compile-time security checks.",
+      "tags": [
+        "dotnet",
+        "python",
+        "csharp",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Frkttu%2Fdotnetpy%2Fmain%2Fdotnetpy.png",
+      "source": "Dev.to",
+      "user": "Jung Hyun, Nam"
     },
     {
       "title": "I built a cognitive layer for AI agents that learns without LLM calls",
@@ -1301,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7079,
+      "stars": 7090,
       "user": "aiming-lab"
     },
     {
@@ -1316,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1990,
+      "stars": 1999,
       "user": "HKUDS"
     },
     {
@@ -1331,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1338,
       "user": "skernelx"
     },
     {
@@ -1346,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1236,
       "user": "cnlimiter"
     },
     {
@@ -1361,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 869,
+      "stars": 885,
       "user": "nikmcfly"
     }
   ],
@@ -1409,21 +1424,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
       "source": "Dev.to",
       "user": "Michael Bogan"
-    },
-    {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
     }
   ],
   "WebDev": [
@@ -1457,36 +1457,6 @@
       "user": "sarabadu"
     },
     {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
-    },
-    {
-      "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!",
-      "url": "https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828",
-      "published_at": "2026-03-06T16:10:33Z",
-      "description": "We’re excited to announce the launch of the 2026 WeCoded Challenge!  This year marks our ninth year...",
-      "tags": [
-        "devchallenge",
-        "wecoded",
-        "frontend",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1510,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 186,
       "user": "carlos7ags"
     }
   ],
@@ -1544,6 +1514,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F55gowueiasjansu3w6jy.png",
       "source": "Dev.to",
       "user": "Lecrane"
+    },
+    {
+      "title": "A Deep Dive Into Page Sync",
+      "url": "https://dev.to/arcadianalpaca/a-deep-dive-into-page-sync-d5a",
+      "published_at": "2026-03-19T15:41:04Z",
+      "description": "You photograph a book page and the app finds that spot in the audio. Here's how.",
+      "tags": [
+        "android",
+        "kotlin",
+        "audiobooks",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fph4nacux2fa79ie12ek7.png",
+      "source": "Dev.to",
+      "user": "Andreas"
     }
   ],
   "Cloud": [
@@ -1591,21 +1576,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
       "source": "Dev.to",
       "user": "Jeffrey Mew"
-    },
-    {
-      "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
-      "url": "https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28",
-      "published_at": "2026-03-16T13:30:29Z",
-      "description": "Disclaimer: I created this blog post for the purposes of entering the Gemini Live Agent Challenge...",
-      "tags": [
-        "devchallenge",
-        "gemini",
-        "googlecloud",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9br3pa77vpnhoo6b42.png",
-      "source": "Dev.to",
-      "user": "Providence Ifeosame"
     }
   ],
   "Database": [
@@ -1698,21 +1668,6 @@
       "user": "Mykola Kondratiuk"
     },
     {
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "published_at": "2026-03-18T14:39:24Z",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
-      "tags": [
-        "opensource",
-        "security",
-        "kubernetes",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
-      "source": "Dev.to",
-      "user": "Kat Cosgrove"
-    },
-    {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
       "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
       "published_at": "2026-03-19T01:45:21Z",
@@ -1726,6 +1681,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
       "source": "Dev.to",
       "user": "SHIBATA Hiroshi"
+    },
+    {
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "tags": [
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "source": "Dev.to",
+      "user": "Kat Cosgrove"
     },
     {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
@@ -1756,6 +1726,21 @@
       "user": "Chioma Halim"
     },
     {
+      "title": "Introducing DotNetPy: Python Interop for Modern .NET, Reimagined",
+      "url": "https://dev.to/rkttu/introducing-dotnetpy-python-interop-for-modern-net-reimagined-32gi",
+      "published_at": "2026-03-19T06:58:50Z",
+      "description": "A lightweight, AOT-compatible library that lets you call Python from C# in 4 lines — with declarative uv integration and compile-time security checks.",
+      "tags": [
+        "dotnet",
+        "python",
+        "csharp",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Frkttu%2Fdotnetpy%2Fmain%2Fdotnetpy.png",
+      "source": "Dev.to",
+      "user": "Jung Hyun, Nam"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1779,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "ShawnPana"
     }
   ],
@@ -1904,6 +1889,21 @@
       "user": "Dineshraj Anandan"
     },
     {
+      "title": "Your Browser Has a Remote Control — And Nobody Told You",
+      "url": "https://dev.to/timtech4u/your-browser-has-a-remote-control-and-nobody-told-you-5e97",
+      "published_at": "2026-03-19T16:15:50Z",
+      "description": "3 tools that let AI agents drive Chrome. I tested all three. Here's what actually happens.   Every...",
+      "tags": [
+        "webdev",
+        "ai",
+        "chrome",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FTimtech4u%2Fbrowser-remote-control%2Fmain%2Fscreenshots%2Fheader.png",
+      "source": "Dev.to",
+      "user": "Timothy Olaleke"
+    },
+    {
       "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
       "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
       "published_at": "2026-03-17T06:06:10Z",
@@ -1960,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14158,
+      "stars": 14197,
       "user": "NVIDIA"
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5608,
+      "stars": 5631,
       "user": "calesthio"
     },
     {
@@ -2020,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "J-Pster"
     },
     {
@@ -2035,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7079,
+      "stars": 7090,
       "user": "aiming-lab"
     },
     {
@@ -2050,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1990,
+      "stars": 1999,
       "user": "HKUDS"
     },
     {
@@ -2065,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1338,
       "user": "skernelx"
     },
     {
@@ -2080,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1236,
       "user": "cnlimiter"
     },
     {
@@ -2095,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 869,
+      "stars": 885,
       "user": "nikmcfly"
     },
     {
@@ -2110,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 244,
       "user": "antflydb"
     },
     {
@@ -2125,8 +2125,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 186,
       "user": "carlos7ags"
+    },
+    {
+      "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
+      "url": "https://github.com/phlx0/drift",
+      "published_at": "2026-03-19T19:25:38Z",
+      "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "phlx0"
     },
     {
       "title": "agi-bar/clawcolony - claw, claw and claw",
@@ -2144,21 +2159,6 @@
       "user": "agi-bar"
     },
     {
-      "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
-      "url": "https://github.com/phlx0/drift",
-      "published_at": "2026-03-19T19:25:38Z",
-      "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "phlx0"
-    },
-    {
       "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
       "url": "https://github.com/ShawnPana/aurl",
       "published_at": "2026-03-19T03:03:33Z",
@@ -2170,7 +2170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "ShawnPana"
     }
   ]
