@@ -73,21 +73,6 @@
       "user": "Erik Hanchett"
     },
     {
-      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
-      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
-      "published_at": "2026-03-19T18:12:23Z",
-      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
-      "source": "Dev.to",
-      "user": "Kat Kampf"
-    },
-    {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
       "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
       "published_at": "2026-03-19T01:45:21Z",
@@ -175,6 +160,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
+    },
+    {
+      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
+      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
+      "published_at": "2026-03-19T18:12:23Z",
+      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
+      "source": "Dev.to",
+      "user": "Kat Kampf"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -336,19 +336,6 @@
       "user": "Michael Bogan"
     },
     {
-      "title": "Fortran meets AI",
-      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
-      "published_at": "2026-03-15T17:32:51Z",
-      "description": "A computer science exam from 1978 and 2026 AI models ",
-      "tags": [
-        "fortran",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
-      "source": "Dev.to",
-      "user": " ViksaaSkool "
-    },
-    {
       "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
       "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
       "published_at": "2026-03-16T19:05:58Z",
@@ -364,21 +351,6 @@
       "user": "James Zhang"
     },
     {
-      "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
-      "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
-      "published_at": "2026-03-18T16:26:53Z",
-      "description": "You wouldn't leave your car engine running while you grab groceries. So why are you burning...",
-      "tags": [
-        "ai",
-        "cursor",
-        "programming",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
-      "source": "Dev.to",
-      "user": "Dineshraj Anandan"
-    },
-    {
       "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
       "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
       "published_at": "2026-03-17T18:32:57Z",
@@ -392,6 +364,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
       "source": "Dev.to",
       "user": "Jeffrey Mew"
+    },
+    {
+      "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
+      "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
+      "published_at": "2026-03-18T16:26:53Z",
+      "description": "You wouldn't leave your car engine running while you grab groceries. So why are you burning...",
+      "tags": [
+        "ai",
+        "cursor",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
+      "source": "Dev.to",
+      "user": "Dineshraj Anandan"
     },
     {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
@@ -434,21 +421,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
       "source": "Dev.to",
       "user": "Mike Krop"
-    },
-    {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
-      "tags": [
-        "ai",
-        "javascript",
-        "tooling",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
-      "source": "Dev.to",
-      "user": "Rowan Merewood"
     },
     {
       "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
@@ -628,6 +600,36 @@
       "user": "GrahamTheDev"
     },
     {
+      "title": "I Built a Browser UI for Claude Code — Here's Why",
+      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
+      "published_at": "2026-03-16T08:15:44Z",
+      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
+      "tags": [
+        "claude",
+        "ai",
+        "opensource",
+        "devex"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
+      "source": "Dev.to",
+      "user": "Hamed Farag"
+    },
+    {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -771,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 408,
       "user": "liliMozi"
     },
     {
@@ -786,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "J-Pster"
     },
     {
@@ -801,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6930,
+      "stars": 6945,
       "user": "aiming-lab"
     },
     {
@@ -816,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "ShawnPana"
     }
   ],
@@ -835,21 +837,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
-    },
-    {
-      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
-      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
-      "published_at": "2026-03-19T18:12:23Z",
-      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
-      "source": "Dev.to",
-      "user": "Kat Kampf"
     },
     {
       "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
@@ -882,6 +869,21 @@
       "user": "Justin Headley"
     },
     {
+      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
+      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
+      "published_at": "2026-03-19T18:12:23Z",
+      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
+      "source": "Dev.to",
+      "user": "Kat Kampf"
+    },
+    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -893,21 +895,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
       "source": "Dev.to",
       "user": "Chioma Halim"
-    },
-    {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
-      "tags": [
-        "ai",
-        "javascript",
-        "tooling",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
-      "source": "Dev.to",
-      "user": "Rowan Merewood"
     },
     {
       "title": "One regex to match them all",
@@ -968,6 +955,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1101,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13576,
+      "stars": 13676,
       "user": "NVIDIA"
     },
     {
@@ -1116,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5294,
+      "stars": 5315,
       "user": "calesthio"
     },
     {
@@ -1131,7 +1133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 408,
       "user": "liliMozi"
     },
     {
@@ -1161,7 +1163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "J-Pster"
     }
   ],
@@ -1343,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6930,
+      "stars": 6945,
       "user": "aiming-lab"
     },
     {
@@ -1358,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1804,
+      "stars": 1821,
       "user": "HKUDS"
     },
     {
@@ -1388,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1159,
       "user": "cnlimiter"
     },
     {
@@ -1403,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 807,
       "user": "nikmcfly"
     }
   ],
@@ -1552,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 124,
       "user": "carlos7ags"
     }
   ],
@@ -1791,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "ShawnPana"
     }
   ],
@@ -1916,21 +1918,6 @@
       "user": "Dineshraj Anandan"
     },
     {
-      "title": "Gemini CLI and Jules: my March 2026 stack",
-      "url": "https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146",
-      "published_at": "2026-03-15T17:28:43Z",
-      "description": "Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...",
-      "tags": [
-        "ai",
-        "javascript",
-        "tooling",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkeh7ak4trhoqsd90dbm9.jpg",
-      "source": "Dev.to",
-      "user": "Rowan Merewood"
-    },
-    {
       "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
       "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
       "published_at": "2026-03-17T06:06:10Z",
@@ -2002,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13576,
+      "stars": 13676,
       "user": "NVIDIA"
     },
     {
@@ -2017,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5294,
+      "stars": 5315,
       "user": "calesthio"
     },
     {
@@ -2032,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 408,
       "user": "liliMozi"
     },
     {
@@ -2062,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "J-Pster"
     },
     {
@@ -2077,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6930,
+      "stars": 6945,
       "user": "aiming-lab"
     },
     {
@@ -2092,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1804,
+      "stars": 1821,
       "user": "HKUDS"
     },
     {
@@ -2122,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1159,
       "user": "cnlimiter"
     },
     {
@@ -2137,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 807,
       "user": "nikmcfly"
     },
     {
@@ -2167,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 124,
       "user": "carlos7ags"
     },
     {
@@ -2197,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "roots"
     },
     {
@@ -2212,7 +2199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "ShawnPana"
     }
   ]
