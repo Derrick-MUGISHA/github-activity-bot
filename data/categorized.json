@@ -132,6 +132,21 @@
       "user": "Brian Love"
     },
     {
+      "title": "Anki On My Wrist",
+      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
+      "published_at": "2026-03-18T23:28:43Z",
+      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
+      "tags": [
+        "learning",
+        "productivity",
+        "showdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
+      "source": "Dev.to",
+      "user": "Matheus Kunzler Maldaner"
+    },
+    {
       "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
       "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
       "published_at": "2026-03-19T18:12:23Z",
@@ -201,6 +216,21 @@
       "user": "Megan Risdal"
     },
     {
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "published_at": "2026-03-18T23:20:04Z",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "tags": [
+        "ai",
+        "discuss",
+        "machinelearning",
+        "science"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
       "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
       "published_at": "2026-03-17T16:00:00Z",
@@ -228,36 +258,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwt2rijx7v2jzn65wiegl.png",
       "source": "Dev.to",
       "user": "Dennis Lemm"
-    },
-    {
-      "title": "Anki On My Wrist",
-      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
-      "published_at": "2026-03-18T23:28:43Z",
-      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
-      "tags": [
-        "learning",
-        "productivity",
-        "showdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
-      "source": "Dev.to",
-      "user": "Matheus Kunzler Maldaner"
-    },
-    {
-      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
-      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
-      "published_at": "2026-03-18T23:20:04Z",
-      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
-      "tags": [
-        "ai",
-        "discuss",
-        "machinelearning",
-        "science"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
     },
     {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
@@ -467,6 +467,21 @@
       "user": "Dennis Morello"
     },
     {
+      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
+      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
+      "published_at": "2026-03-17T12:19:42Z",
+      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
+      "tags": [
+        "ai",
+        "memory",
+        "rust",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
+      "source": "Dev.to",
+      "user": "Oleksander"
+    },
+    {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
       "published_at": "2026-03-07T09:30:17Z",
@@ -614,21 +629,6 @@
       "user": "Hamed Farag"
     },
     {
-      "title": "How I give my AI agents eyes with a single API call",
-      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
-      "published_at": "2026-03-16T22:23:05Z",
-      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
-      "tags": [
-        "ai",
-        "webdev",
-        "automation",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
-      "source": "Dev.to",
-      "user": "Boehner"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -772,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 426,
       "user": "liliMozi"
     },
     {
@@ -787,7 +787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "J-Pster"
     },
     {
@@ -802,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7011,
+      "stars": 7024,
       "user": "aiming-lab"
     },
     {
@@ -817,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "ShawnPana"
     }
   ],
@@ -956,21 +956,6 @@
       "user": "Harsh "
     },
     {
-      "title": "How I give my AI agents eyes with a single API call",
-      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
-      "published_at": "2026-03-16T22:23:05Z",
-      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
-      "tags": [
-        "ai",
-        "webdev",
-        "automation",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
-      "source": "Dev.to",
-      "user": "Boehner"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1102,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13982,
+      "stars": 14022,
       "user": "NVIDIA"
     },
     {
@@ -1117,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5452,
+      "stars": 5475,
       "user": "calesthio"
     },
     {
@@ -1132,7 +1117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 426,
       "user": "liliMozi"
     },
     {
@@ -1147,7 +1132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "epiral"
     },
     {
@@ -1162,7 +1147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "J-Pster"
     }
   ],
@@ -1181,6 +1166,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
       "source": "Dev.to",
       "user": "James Zhang"
+    },
+    {
+      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
+      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
+      "published_at": "2026-03-17T12:19:42Z",
+      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
+      "tags": [
+        "ai",
+        "memory",
+        "rust",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
+      "source": "Dev.to",
+      "user": "Oleksander"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -1329,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7011,
+      "stars": 7024,
       "user": "aiming-lab"
     },
     {
@@ -1344,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1862,
+      "stars": 1886,
       "user": "HKUDS"
     },
     {
@@ -1359,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1337,
+      "stars": 1338,
       "user": "skernelx"
     },
     {
@@ -1374,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1210,
       "user": "cnlimiter"
     },
     {
@@ -1389,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 819,
       "user": "nikmcfly"
     }
   ],
@@ -1538,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "carlos7ags"
     }
   ],
@@ -1777,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "ShawnPana"
     }
   ],
@@ -1973,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13982,
+      "stars": 14022,
       "user": "NVIDIA"
     },
     {
@@ -1988,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5452,
+      "stars": 5475,
       "user": "calesthio"
     },
     {
@@ -2003,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 426,
       "user": "liliMozi"
     },
     {
@@ -2018,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "epiral"
     },
     {
@@ -2033,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "J-Pster"
     },
     {
@@ -2048,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7011,
+      "stars": 7024,
       "user": "aiming-lab"
     },
     {
@@ -2063,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1862,
+      "stars": 1886,
       "user": "HKUDS"
     },
     {
@@ -2078,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1337,
+      "stars": 1338,
       "user": "skernelx"
     },
     {
@@ -2093,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1210,
       "user": "cnlimiter"
     },
     {
@@ -2108,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 819,
       "user": "nikmcfly"
     },
     {
@@ -2123,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "antflydb"
     },
     {
@@ -2138,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "carlos7ags"
     },
     {
@@ -2157,6 +2157,21 @@
       "user": "agi-bar"
     },
     {
+      "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
+      "url": "https://github.com/ShawnPana/aurl",
+      "published_at": "2026-03-19T03:03:33Z",
+      "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "ShawnPana"
+    },
+    {
       "title": "roots/wp-packages - A modern, community-funded Composer repository for WordPress plugins and themes",
       "url": "https://github.com/roots/wp-packages",
       "published_at": "2026-03-14T18:05:07Z",
@@ -2170,21 +2185,6 @@
       "source": "GitHub",
       "stars": 85,
       "user": "roots"
-    },
-    {
-      "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
-      "url": "https://github.com/ShawnPana/aurl",
-      "published_at": "2026-03-19T03:03:33Z",
-      "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
-      "source": "GitHub",
-      "stars": 85,
-      "user": "ShawnPana"
     }
   ]
 }
