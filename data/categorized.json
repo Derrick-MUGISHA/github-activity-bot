@@ -75,21 +75,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
-      "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
-      "published_at": "2026-03-19T17:48:19Z",
-      "description": "You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "gemini",
-        "promptengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png",
-      "source": "Dev.to",
-      "user": "Guillaume Vernade"
-    },
-    {
       "title": "AI Vocab 101",
       "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
       "published_at": "2026-03-19T22:25:31Z",
@@ -131,6 +116,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
       "source": "Dev.to",
       "user": "Mykola Kondratiuk"
+    },
+    {
+      "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
+      "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
+      "published_at": "2026-03-19T17:48:19Z",
+      "description": "You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...",
+      "tags": [
+        "ai",
+        "vibecoding",
+        "gemini",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png",
+      "source": "Dev.to",
+      "user": "Guillaume Vernade"
     },
     {
       "title": "Anki On My Wrist",
@@ -217,21 +217,6 @@
       "user": "Typing Turtle"
     },
     {
-      "title": "We Can't Code Anymore. AI Won't. What Then?",
-      "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
-      "published_at": "2026-03-18T19:29:59Z",
-      "description": "I've been in IT for 30 years, 20 of them as a developer. The more I hear people say there's no need...",
-      "tags": [
-        "ai",
-        "programming",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
-      "source": "Dev.to",
-      "user": "Patric Green"
-    },
-    {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
       "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
       "published_at": "2026-03-19T01:45:21Z",
@@ -245,6 +230,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
       "source": "Dev.to",
       "user": "SHIBATA Hiroshi"
+    },
+    {
+      "title": "We Can't Code Anymore. AI Won't. What Then?",
+      "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
+      "published_at": "2026-03-18T19:29:59Z",
+      "description": "I've been in IT for 30 years, 20 of them as a developer. The more I hear people say there's no need...",
+      "tags": [
+        "ai",
+        "programming",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
+      "source": "Dev.to",
+      "user": "Patric Green"
     },
     {
       "title": "We've Seen This Movie Before",
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7097,
+      "stars": 7102,
       "user": "aiming-lab"
     },
     {
@@ -1074,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14238,
+      "stars": 14248,
       "user": "NVIDIA"
     },
     {
@@ -1089,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5667,
+      "stars": 5675,
       "user": "calesthio"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7097,
+      "stars": 7102,
       "user": "aiming-lab"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2010,
+      "stars": 2018,
       "user": "HKUDS"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1339,
       "user": "skernelx"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1241,
       "user": "cnlimiter"
     },
     {
@@ -1391,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 902,
       "user": "nikmcfly"
     }
   ],
@@ -1525,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 197,
       "user": "carlos7ags"
     }
   ],
@@ -2005,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14238,
+      "stars": 14248,
       "user": "NVIDIA"
     },
     {
@@ -2020,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5667,
+      "stars": 5675,
       "user": "calesthio"
     },
     {
@@ -2080,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7097,
+      "stars": 7102,
       "user": "aiming-lab"
     },
     {
@@ -2095,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2010,
+      "stars": 2018,
       "user": "HKUDS"
     },
     {
@@ -2110,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1339,
       "user": "skernelx"
     },
     {
@@ -2125,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1241,
       "user": "cnlimiter"
     },
     {
@@ -2140,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 902,
       "user": "nikmcfly"
     },
     {
@@ -2155,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 249,
       "user": "antflydb"
     },
     {
@@ -2170,7 +2170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 197,
       "user": "carlos7ags"
     },
     {
