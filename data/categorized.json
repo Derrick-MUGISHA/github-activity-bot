@@ -45,6 +45,21 @@
       "user": "Guillaume Vernade"
     },
     {
+      "title": "My First Experience Creating Antigravity Skills",
+      "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
+      "published_at": "2026-03-20T15:23:02Z",
+      "description": "Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...",
+      "tags": [
+        "antigravity",
+        "ai",
+        "googlecloud",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "AI Vocab 101",
       "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
       "published_at": "2026-03-19T22:25:31Z",
@@ -56,6 +71,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
       "source": "Dev.to",
       "user": "BekahHW"
+    },
+    {
+      "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
+      "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
+      "published_at": "2026-03-20T15:44:30Z",
+      "description": "Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...",
+      "tags": [
+        "webdev",
+        "ai",
+        "javascript",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
+    },
+    {
+      "title": "My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh",
+      "url": "https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7",
+      "published_at": "2026-03-20T15:02:04Z",
+      "description": "A post by Ben Halpern",
+      "tags": [
+        "agents",
+        "ai",
+        "algorithms",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0oxfssmey5ma0npbmqjm.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
@@ -88,6 +133,21 @@
       "user": "Martin Omander"
     },
     {
+      "title": "Anki On My Wrist",
+      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
+      "published_at": "2026-03-18T23:28:43Z",
+      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
+      "tags": [
+        "learning",
+        "productivity",
+        "showdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
+      "source": "Dev.to",
+      "user": "Matheus Kunzler Maldaner"
+    },
+    {
       "title": "How to Stop Babysitting Your AI Agents",
       "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
       "published_at": "2026-03-18T13:50:00Z",
@@ -116,21 +176,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
       "source": "Dev.to",
       "user": "Justin Headley"
-    },
-    {
-      "title": "Anki On My Wrist",
-      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
-      "published_at": "2026-03-18T23:28:43Z",
-      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
-      "tags": [
-        "learning",
-        "productivity",
-        "showdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
-      "source": "Dev.to",
-      "user": "Matheus Kunzler Maldaner"
     },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
@@ -288,36 +333,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
       "source": "Dev.to",
       "user": "Max"
-    },
-    {
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
-      "published_at": "2026-03-19T01:45:21Z",
-      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
-      "tags": [
-        "ruby",
-        "security",
-        "supplychainsecurity",
-        "packaging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
-      "source": "Dev.to",
-      "user": "SHIBATA Hiroshi"
-    },
-    {
-      "title": "The Local AI Powerhouse",
-      "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
-      "published_at": "2026-03-13T18:25:54Z",
-      "description": "Introduction   Keeping up with everything AI-related in the recent months has got me...",
-      "tags": [
-        "ai",
-        "qwen",
-        "localllm",
-        "gptoss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
-      "source": "Dev.to",
-      "user": "Amjad Abujamous"
     },
     {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
@@ -742,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "liliMozi"
     },
     {
@@ -757,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "J-Pster"
     },
     {
@@ -772,7 +787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7040,
+      "stars": 7056,
       "user": "aiming-lab"
     },
     {
@@ -787,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "phlx0"
     },
     {
@@ -802,11 +817,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "ShawnPana"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
+      "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
+      "published_at": "2026-03-20T15:44:30Z",
+      "description": "Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...",
+      "tags": [
+        "webdev",
+        "ai",
+        "javascript",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
+    },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
       "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
@@ -1072,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14053,
+      "stars": 14088,
       "user": "NVIDIA"
     },
     {
@@ -1087,7 +1117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5508,
+      "stars": 5543,
       "user": "calesthio"
     },
     {
@@ -1102,7 +1132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "liliMozi"
     },
     {
@@ -1132,7 +1162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "J-Pster"
     }
   ],
@@ -1314,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7040,
+      "stars": 7056,
       "user": "aiming-lab"
     },
     {
@@ -1329,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1907,
+      "stars": 1941,
       "user": "HKUDS"
     },
     {
@@ -1344,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1339,
       "user": "skernelx"
     },
     {
@@ -1359,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1219,
       "user": "cnlimiter"
     },
     {
@@ -1374,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 839,
       "user": "nikmcfly"
     }
   ],
@@ -1523,7 +1553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 150,
       "user": "carlos7ags"
     }
   ],
@@ -1560,6 +1590,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "My First Experience Creating Antigravity Skills",
+      "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
+      "published_at": "2026-03-20T15:23:02Z",
+      "description": "Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...",
+      "tags": [
+        "antigravity",
+        "ai",
+        "googlecloud",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
     {
       "title": "Supercharge your workflow with AI dev tools",
       "url": "https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e",
@@ -1696,21 +1741,6 @@
       "user": "Kat Cosgrove"
     },
     {
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
-      "published_at": "2026-03-19T01:45:21Z",
-      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
-      "tags": [
-        "ruby",
-        "security",
-        "supplychainsecurity",
-        "packaging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
-      "source": "Dev.to",
-      "user": "SHIBATA Hiroshi"
-    },
-    {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
       "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
       "published_at": "2026-03-18T14:57:43Z",
@@ -1762,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "ShawnPana"
     }
   ],
@@ -1813,21 +1843,6 @@
       "user": "Martin Omander"
     },
     {
-      "title": "How to Stop Babysitting Your AI Agents",
-      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
-      "published_at": "2026-03-18T13:50:00Z",
-      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
-      "tags": [
-        "llmagents",
-        "cli",
-        "devtools",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
-      "source": "Dev.to",
-      "user": "J. R. Swab"
-    },
-    {
       "title": "Anki On My Wrist",
       "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
       "published_at": "2026-03-18T23:28:43Z",
@@ -1841,6 +1856,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
       "source": "Dev.to",
       "user": "Matheus Kunzler Maldaner"
+    },
+    {
+      "title": "How to Stop Babysitting Your AI Agents",
+      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
+      "published_at": "2026-03-18T13:50:00Z",
+      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
+      "tags": [
+        "llmagents",
+        "cli",
+        "devtools",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
+      "source": "Dev.to",
+      "user": "J. R. Swab"
     },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
@@ -1958,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14053,
+      "stars": 14088,
       "user": "NVIDIA"
     },
     {
@@ -1973,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5508,
+      "stars": 5543,
       "user": "calesthio"
     },
     {
@@ -1988,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "liliMozi"
     },
     {
@@ -2018,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "J-Pster"
     },
     {
@@ -2033,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7040,
+      "stars": 7056,
       "user": "aiming-lab"
     },
     {
@@ -2048,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1907,
+      "stars": 1941,
       "user": "HKUDS"
     },
     {
@@ -2063,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1339,
       "user": "skernelx"
     },
     {
@@ -2078,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1219,
       "user": "cnlimiter"
     },
     {
@@ -2093,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 839,
       "user": "nikmcfly"
     },
     {
@@ -2108,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 236,
       "user": "antflydb"
     },
     {
@@ -2123,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 150,
       "user": "carlos7ags"
     },
     {
@@ -2153,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "phlx0"
     },
     {
@@ -2168,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "ShawnPana"
     }
   ]

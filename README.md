@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-20-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Security**: 🟦🟦 7 (6.7%)
-
 **WebDev**: 🟦🟦 6 (5.7%)
+
+**Security**: 🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦 4 (3.8%)
 
-**Database**: 🟦 4 (3.8%)
+**Cloud**: 🟦 4 (3.8%)
 
-**Cloud**: 🟦 3 (2.9%)
+**Database**: 🟦 4 (3.8%)
 
 **Mobile**: 🟦 2 (1.9%)
 
@@ -60,26 +60,24 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.7 (26.7%)
-Java            █████████████████████████████ 25.6 (25.6%)
-Go              ██████████████████████ 20.0 (20.0%)
-Python          █████████████████████ 18.9 (18.9%)
-Rust            █████ 4.4 (4.4%)
+JavaScript      ██████████████████████████████ 27.2 (27.2%)
+Java            █████████████████████████████ 26.1 (26.1%)
+Go              ███████████████████████ 20.7 (20.7%)
+Python          ████████████████████ 18.5 (18.5%)
+Rust            █████ 4.3 (4.3%)
 Swift           ██ 2.2 (2.2%)
-Ruby            █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Java" : 23
-    "Go" : 18
+    "JavaScript" : 25
+    "Java" : 24
+    "Go" : 19
     "Python" : 17
     "Rust" : 4
     "Swift" : 2
-    "Ruby" : 1
     "Kotlin" : 1
 ```
 
@@ -87,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
+![ai](https://img.shields.io/badge/ai-30-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -144,6 +142,26 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-35ja">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z61971hgbvh8jhd96b.jpg" width="200" alt="What was your win this week??" />
+      <br/>
+      <b>What was your win this week??</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/bengreenberg/quick-tip-your-ogimage-should-be-1200x630px-4m27">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bjkhsuaqcl990n2bgx8.png" width="200" alt="Quick tip: your og:image should be 1200x630px" />
+      <br/>
+      <b>Quick tip: your og:image should be 1200x630px</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg" width="200" alt="Unlocking Gemini CLI with Skills, Hooks & Plan Mode" />
       <br/>
@@ -161,31 +179,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/bengreenberg/quick-tip-your-ogimage-should-be-1200x630px-4m27">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bjkhsuaqcl990n2bgx8.png" width="200" alt="Quick tip: your og:image should be 1200x630px" />
+    <a href="https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png" width="200" alt="My First Experience Creating Antigravity Skills" />
       <br/>
-      <b>Quick tip: your og:image should be 1200x630px</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png" width="200" alt="Data governance just became a conversation, not a workflow." />
-      <br/>
-      <b>Data governance just became a conversation, not a ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/bekahhw/ai-vocab-101-eh2">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png" width="200" alt="AI Vocab 101" />
-      <br/>
-      <b>AI Vocab 101</b>
+      <b>My First Experience Creating Antigravity Skills</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,27 +196,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml) _[Dev.to]_
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-35ja) _[Dev.to]_
+- [Quick tip: your og:image should be 1200x630px](https://dev.to/bengreenberg/quick-tip-your-ogimage-should-be-1200x630px-4m27) _[Dev.to]_
 - [Unlocking Gemini CLI with Skills, Hooks & Plan Mode](https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf) _[Dev.to]_
 - [Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps](https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp) _[Dev.to]_
-- [Quick tip: your og:image should be 1200x630px](https://dev.to/bengreenberg/quick-tip-your-ogimage-should-be-1200x630px-4m27) _[Dev.to]_
-- [Data governance just became a conversation, not a workflow.](https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998) _[Dev.to]_
+- [My First Experience Creating Antigravity Skills](https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b) _[Dev.to]_
 - [AI Vocab 101](https://dev.to/bekahhw/ai-vocab-101-eh2) _[Dev.to]_
+- [Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie) _[Dev.to]_
+- [My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh](https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7) _[Dev.to]_
 - [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb) _[Dev.to]_
+- [Data governance just became a conversation, not a workflow.](https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998) _[Dev.to]_
 - [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h) _[Dev.to]_
 - [What's in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4) _[Dev.to]_
 - [Supercharge your workflow with AI dev tools](https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e) _[Dev.to]_
+- [Anki On My Wrist](https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6) _[Dev.to]_
 - [How to Stop Babysitting Your AI Agents](https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376) _[Dev.to]_
 - [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm) _[Dev.to]_
-- [Anki On My Wrist](https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6) _[Dev.to]_
 - [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9) _[Dev.to]_
 - [Introducing the new full-stack vibe coding experience in Google AI Studio](https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g) _[Dev.to]_
-- [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
-- [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
-- [We've Seen This Movie Before](https://dev.to/wynandpieters/weve-seen-this-movie-before-3719) _[Dev.to]_
-- [Now anyone can host a global AI challenge on Kaggle](https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 17:01:48 CAT_
+_Last automated update: Fri, 20 Mar 2026 17:58:17 CAT_
 
 
 
@@ -226,36 +224,36 @@ _Last automated update: Fri, 20 Mar 2026 17:01:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. Python: What are generators and when would you use them?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -289,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 15:01:48 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Mar 2026 15:58:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
