@@ -246,19 +246,19 @@
       "user": "Wynand Pieters"
     },
     {
-      "title": "Now anyone can host a global AI challenge on Kaggle",
-      "url": "https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6",
-      "published_at": "2026-03-19T15:21:02Z",
-      "description": "Kaggle's community helps the world discover what actually works in AI, and today we're launching...",
+      "title": "I Scanned 100 AI Codebases - Here's What I Found",
+      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
+      "published_at": "2026-03-19T08:41:48Z",
+      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
       "tags": [
+        "vibecoding",
         "ai",
-        "kaggle",
-        "datascience",
-        "machinelearning"
+        "security",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62cgxekzv9dt2bcrqdep.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
       "source": "Dev.to",
-      "user": "Megan Risdal"
+      "user": "Mykola Kondratiuk"
     },
     {
       "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "phlx0"
     },
     {
@@ -1048,10 +1048,10 @@
       "user": "velmu"
     },
     {
-      "title": "NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw",
+      "title": "NVIDIA/NemoClaw - Run OpenClaw securely inside NVIDIA OpenShell with managed inference",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "published_at": "2026-03-15T17:04:09Z",
-      "description": "NVIDIA plugin for secure installation of OpenClaw",
+      "description": "Run OpenClaw securely inside NVIDIA OpenShell with managed inference",
       "tags": [
         "javascript",
         "github",
@@ -1059,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14148,
+      "stars": 14158,
       "user": "NVIDIA"
     },
     {
@@ -1074,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5593,
+      "stars": 5608,
       "user": "calesthio"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1981,
+      "stars": 1990,
       "user": "HKUDS"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1233,
       "user": "cnlimiter"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 869,
       "user": "nikmcfly"
     }
   ],
@@ -1510,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 174,
       "user": "carlos7ags"
     }
   ],
@@ -1681,6 +1681,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
+    },
+    {
+      "title": "I Scanned 100 AI Codebases - Here's What I Found",
+      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
+      "published_at": "2026-03-19T08:41:48Z",
+      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
+      "tags": [
+        "vibecoding",
+        "ai",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
+      "source": "Dev.to",
+      "user": "Mykola Kondratiuk"
     },
     {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
@@ -1934,10 +1949,10 @@
       "user": "Richard Oliver Bray"
     },
     {
-      "title": "NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw",
+      "title": "NVIDIA/NemoClaw - Run OpenClaw securely inside NVIDIA OpenShell with managed inference",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "published_at": "2026-03-15T17:04:09Z",
-      "description": "NVIDIA plugin for secure installation of OpenClaw",
+      "description": "Run OpenClaw securely inside NVIDIA OpenShell with managed inference",
       "tags": [
         "javascript",
         "github",
@@ -1945,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14148,
+      "stars": 14158,
       "user": "NVIDIA"
     },
     {
@@ -1960,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5593,
+      "stars": 5608,
       "user": "calesthio"
     },
     {
@@ -2035,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1981,
+      "stars": 1990,
       "user": "HKUDS"
     },
     {
@@ -2065,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1233,
       "user": "cnlimiter"
     },
     {
@@ -2080,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 869,
       "user": "nikmcfly"
     },
     {
@@ -2095,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 241,
       "user": "antflydb"
     },
     {
@@ -2110,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 174,
       "user": "carlos7ags"
     },
     {
@@ -2125,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "agi-bar"
     },
     {
@@ -2140,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "phlx0"
     },
     {
