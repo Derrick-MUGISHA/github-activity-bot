@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-20 12:00 CAT)
+## 📅 Latest Updates (2026-03-20 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 12:56:47 CAT_
+_Last automated update: Fri, 20 Mar 2026 13:32:17 CAT_
 
 
 
@@ -226,7 +226,18 @@ _Last automated update: Fri, 20 Mar 2026 12:56:47 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. DataStructures: Find the longest substring without repeating characters
+
+**Difficulty**: Medium | **Topics**: strings, sliding window
+
+<details>
+<summary>💡 Hint</summary>
+
+Sliding window, hash map, two pointers
+
+</details>
+
+### 2. Database: Design a database schema for a social media platform
 
 **Difficulty**: Hard | **Topics**: design, scalability
 
@@ -237,25 +248,14 @@ Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-React.memo, useMemo, useCallback, code splitting, lazy loading
-
-</details>
-
-### 3. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 10:56:47 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Mar 2026 11:32:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
