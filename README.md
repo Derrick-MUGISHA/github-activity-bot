@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-20 9:00 CAT)
+## 📅 Latest Updates (2026-03-20 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 09:56:05 CAT_
+_Last automated update: Fri, 20 Mar 2026 10:38:57 CAT_
 
 
 
@@ -226,14 +226,14 @@ _Last automated update: Fri, 20 Mar 2026 09:56:05 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -248,14 +248,14 @@ React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 07:56:05 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Mar 2026 08:38:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
