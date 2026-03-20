@@ -88,21 +88,6 @@
       "user": "SHIBATA Hiroshi"
     },
     {
-      "title": "Anki On My Wrist",
-      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
-      "published_at": "2026-03-18T23:28:43Z",
-      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
-      "tags": [
-        "learning",
-        "productivity",
-        "showdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
-      "source": "Dev.to",
-      "user": "Matheus Kunzler Maldaner"
-    },
-    {
       "title": "Supercharge your workflow with AI dev tools",
       "url": "https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e",
       "published_at": "2026-03-18T13:57:01Z",
@@ -261,21 +246,6 @@
       "user": "Dennis Lemm"
     },
     {
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "published_at": "2026-03-18T14:39:24Z",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
-      "tags": [
-        "opensource",
-        "security",
-        "kubernetes",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
-      "source": "Dev.to",
-      "user": "Kat Cosgrove"
-    },
-    {
       "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
       "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
       "published_at": "2026-03-18T23:20:04Z",
@@ -291,6 +261,21 @@
       "user": "marcosomma"
     },
     {
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "tags": [
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "source": "Dev.to",
+      "user": "Kat Cosgrove"
+    },
+    {
       "title": "Confident and Wrong",
       "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
       "published_at": "2026-03-17T20:07:24Z",
@@ -304,6 +289,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
       "source": "Dev.to",
       "user": "Max"
+    },
+    {
+      "title": "Anki On My Wrist",
+      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
+      "published_at": "2026-03-18T23:28:43Z",
+      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
+      "tags": [
+        "learning",
+        "productivity",
+        "showdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
+      "source": "Dev.to",
+      "user": "Matheus Kunzler Maldaner"
     },
     {
       "title": "The Local AI Powerhouse",
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 413,
       "user": "liliMozi"
     },
     {
@@ -788,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 225,
       "user": "J-Pster"
     },
     {
@@ -803,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6954,
+      "stars": 6966,
       "user": "aiming-lab"
     },
     {
@@ -818,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "ShawnPana"
     }
   ],
@@ -1103,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13763,
+      "stars": 13872,
       "user": "NVIDIA"
     },
     {
@@ -1118,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5333,
+      "stars": 5355,
       "user": "calesthio"
     },
     {
@@ -1133,7 +1133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 413,
       "user": "liliMozi"
     },
     {
@@ -1163,7 +1163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 225,
       "user": "J-Pster"
     }
   ],
@@ -1345,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6954,
+      "stars": 6966,
       "user": "aiming-lab"
     },
     {
@@ -1360,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1834,
+      "stars": 1845,
       "user": "HKUDS"
     },
     {
@@ -1390,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1166,
+      "stars": 1172,
       "user": "cnlimiter"
     },
     {
@@ -1405,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 810,
       "user": "nikmcfly"
     }
   ],
@@ -1554,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 132,
       "user": "carlos7ags"
     }
   ],
@@ -1793,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "ShawnPana"
     }
   ],
@@ -1827,21 +1827,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg",
       "source": "Dev.to",
       "user": "Younes Jaaidi"
-    },
-    {
-      "title": "Anki On My Wrist",
-      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
-      "published_at": "2026-03-18T23:28:43Z",
-      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
-      "tags": [
-        "learning",
-        "productivity",
-        "showdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
-      "source": "Dev.to",
-      "user": "Matheus Kunzler Maldaner"
     },
     {
       "title": "Supercharge your workflow with AI dev tools",
@@ -1901,6 +1886,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Anki On My Wrist",
+      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
+      "published_at": "2026-03-18T23:28:43Z",
+      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
+      "tags": [
+        "learning",
+        "productivity",
+        "showdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
+      "source": "Dev.to",
+      "user": "Matheus Kunzler Maldaner"
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13763,
+      "stars": 13872,
       "user": "NVIDIA"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5333,
+      "stars": 5355,
       "user": "calesthio"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 413,
       "user": "liliMozi"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 225,
       "user": "J-Pster"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6954,
+      "stars": 6966,
       "user": "aiming-lab"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1834,
+      "stars": 1845,
       "user": "HKUDS"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1166,
+      "stars": 1172,
       "user": "cnlimiter"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 810,
       "user": "nikmcfly"
     },
     {
@@ -2154,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 132,
       "user": "carlos7ags"
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "agi-bar"
     },
     {
@@ -2199,7 +2199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "ShawnPana"
     }
   ]
