@@ -31,6 +31,20 @@
       "user": "Guillaume Vernade"
     },
     {
+      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
+      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
+      "published_at": "2026-03-20T13:00:00Z",
+      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
+      "tags": [
+        "gemini",
+        "ai",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
+    },
+    {
       "title": "AI Vocab 101",
       "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
       "published_at": "2026-03-19T22:25:31Z",
@@ -42,20 +56,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
       "source": "Dev.to",
       "user": "BekahHW"
-    },
-    {
-      "title": "We've Seen This Movie Before",
-      "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
-      "published_at": "2026-03-19T08:54:35Z",
-      "description": "I've been sitting on this comparison for a while, trying to decide if it was too obvious to write...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
-      "source": "Dev.to",
-      "user": "Wynand Pieters"
     },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
@@ -71,21 +71,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
-    },
-    {
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
-      "published_at": "2026-03-19T01:45:21Z",
-      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
-      "tags": [
-        "ruby",
-        "security",
-        "supplychainsecurity",
-        "packaging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
-      "source": "Dev.to",
-      "user": "SHIBATA Hiroshi"
     },
     {
       "title": "Supercharge your workflow with AI dev tools",
@@ -187,6 +172,20 @@
       "user": "Patric Green"
     },
     {
+      "title": "We've Seen This Movie Before",
+      "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
+      "published_at": "2026-03-19T08:54:35Z",
+      "description": "I've been sitting on this comparison for a while, trying to decide if it was too obvious to write...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
+      "source": "Dev.to",
+      "user": "Wynand Pieters"
+    },
+    {
       "title": "Now anyone can host a global AI challenge on Kaggle",
       "url": "https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6",
       "published_at": "2026-03-19T15:21:02Z",
@@ -217,21 +216,6 @@
       "user": "DigitalOcean"
     },
     {
-      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
-      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
-      "published_at": "2026-03-17T12:19:42Z",
-      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
-      "tags": [
-        "ai",
-        "memory",
-        "rust",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
-      "source": "Dev.to",
-      "user": "Oleksander"
-    },
-    {
       "title": "Ai-lone",
       "url": "https://dev.to/314rate/ai-lone-4ae9",
       "published_at": "2026-03-17T00:00:00Z",
@@ -244,6 +228,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwt2rijx7v2jzn65wiegl.png",
       "source": "Dev.to",
       "user": "Dennis Lemm"
+    },
+    {
+      "title": "Anki On My Wrist",
+      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
+      "published_at": "2026-03-18T23:28:43Z",
+      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
+      "tags": [
+        "learning",
+        "productivity",
+        "showdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
+      "source": "Dev.to",
+      "user": "Matheus Kunzler Maldaner"
     },
     {
       "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
@@ -291,19 +290,19 @@
       "user": "Max"
     },
     {
-      "title": "Anki On My Wrist",
-      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
-      "published_at": "2026-03-18T23:28:43Z",
-      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
       "tags": [
-        "learning",
-        "productivity",
-        "showdev",
-        "ai"
+        "ruby",
+        "security",
+        "supplychainsecurity",
+        "packaging"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
       "source": "Dev.to",
-      "user": "Matheus Kunzler Maldaner"
+      "user": "SHIBATA Hiroshi"
     },
     {
       "title": "The Local AI Powerhouse",
@@ -773,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 421,
       "user": "liliMozi"
     },
     {
@@ -788,7 +787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "J-Pster"
     },
     {
@@ -803,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6989,
+      "stars": 7011,
       "user": "aiming-lab"
     },
     {
@@ -818,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "ShawnPana"
     }
   ],
@@ -1103,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13923,
+      "stars": 13982,
       "user": "NVIDIA"
     },
     {
@@ -1118,7 +1117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5393,
+      "stars": 5452,
       "user": "calesthio"
     },
     {
@@ -1133,7 +1132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 421,
       "user": "liliMozi"
     },
     {
@@ -1163,26 +1162,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "J-Pster"
     }
   ],
   "Python": [
-    {
-      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
-      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
-      "published_at": "2026-03-17T12:19:42Z",
-      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
-      "tags": [
-        "ai",
-        "memory",
-        "rust",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
-      "source": "Dev.to",
-      "user": "Oleksander"
-    },
     {
       "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
       "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
@@ -1345,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6989,
+      "stars": 7011,
       "user": "aiming-lab"
     },
     {
@@ -1360,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1851,
+      "stars": 1862,
       "user": "HKUDS"
     },
     {
@@ -1390,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1199,
       "user": "cnlimiter"
     },
     {
@@ -1405,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 814,
       "user": "nikmcfly"
     }
   ],
@@ -1554,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 140,
       "user": "carlos7ags"
     }
   ],
@@ -1698,21 +1682,6 @@
   ],
   "Security": [
     {
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
-      "published_at": "2026-03-19T01:45:21Z",
-      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
-      "tags": [
-        "ruby",
-        "security",
-        "supplychainsecurity",
-        "packaging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
-      "source": "Dev.to",
-      "user": "SHIBATA Hiroshi"
-    },
-    {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
       "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
       "published_at": "2026-03-18T23:02:35Z",
@@ -1740,6 +1709,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
       "user": "Kat Cosgrove"
+    },
+    {
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
+      "tags": [
+        "ruby",
+        "security",
+        "supplychainsecurity",
+        "packaging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
+      "source": "Dev.to",
+      "user": "SHIBATA Hiroshi"
     },
     {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
@@ -1793,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "ShawnPana"
     }
   ],
@@ -1873,21 +1857,6 @@
       "user": "Brian Love"
     },
     {
-      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
-      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
-      "published_at": "2026-03-18T23:20:04Z",
-      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
-      "tags": [
-        "ai",
-        "discuss",
-        "machinelearning",
-        "science"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "Anki On My Wrist",
       "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
       "published_at": "2026-03-18T23:28:43Z",
@@ -1901,6 +1870,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
       "source": "Dev.to",
       "user": "Matheus Kunzler Maldaner"
+    },
+    {
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "published_at": "2026-03-18T23:20:04Z",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "tags": [
+        "ai",
+        "discuss",
+        "machinelearning",
+        "science"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -1989,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13923,
+      "stars": 13982,
       "user": "NVIDIA"
     },
     {
@@ -2004,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5393,
+      "stars": 5452,
       "user": "calesthio"
     },
     {
@@ -2019,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 421,
       "user": "liliMozi"
     },
     {
@@ -2049,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "J-Pster"
     },
     {
@@ -2064,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6989,
+      "stars": 7011,
       "user": "aiming-lab"
     },
     {
@@ -2079,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1851,
+      "stars": 1862,
       "user": "HKUDS"
     },
     {
@@ -2109,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1199,
       "user": "cnlimiter"
     },
     {
@@ -2124,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 814,
       "user": "nikmcfly"
     },
     {
@@ -2154,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 140,
       "user": "carlos7ags"
     },
     {
@@ -2199,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "ShawnPana"
     }
   ]
