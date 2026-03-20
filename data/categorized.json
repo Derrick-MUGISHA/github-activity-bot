@@ -16,63 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
-      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
-      "published_at": "2026-03-20T13:00:00Z",
-      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
-      "tags": [
-        "gemini",
-        "ai",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
-      "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
-      "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
-      "published_at": "2026-03-19T17:48:19Z",
-      "description": "You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "gemini",
-        "promptengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png",
-      "source": "Dev.to",
-      "user": "Guillaume Vernade"
-    },
-    {
-      "title": "My First Experience Creating Antigravity Skills",
-      "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
-      "published_at": "2026-03-20T15:23:02Z",
-      "description": "Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...",
-      "tags": [
-        "antigravity",
-        "ai",
-        "googlecloud",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "AI Vocab 101",
-      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
-      "published_at": "2026-03-19T22:25:31Z",
-      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
-    },
-    {
       "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
       "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
       "published_at": "2026-03-20T15:44:30Z",
@@ -101,6 +44,63 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0oxfssmey5ma0npbmqjm.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
+      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
+      "published_at": "2026-03-20T13:00:00Z",
+      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
+      "tags": [
+        "gemini",
+        "ai",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
+    },
+    {
+      "title": "My First Experience Creating Antigravity Skills",
+      "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
+      "published_at": "2026-03-20T15:23:02Z",
+      "description": "Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...",
+      "tags": [
+        "antigravity",
+        "ai",
+        "googlecloud",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
+      "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
+      "published_at": "2026-03-19T17:48:19Z",
+      "description": "You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...",
+      "tags": [
+        "ai",
+        "vibecoding",
+        "gemini",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png",
+      "source": "Dev.to",
+      "user": "Guillaume Vernade"
+    },
+    {
+      "title": "AI Vocab 101",
+      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
+      "published_at": "2026-03-19T22:25:31Z",
+      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
     },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
@@ -335,6 +335,36 @@
       "user": "Max"
     },
     {
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
+      "tags": [
+        "ruby",
+        "security",
+        "supplychainsecurity",
+        "packaging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
+      "source": "Dev.to",
+      "user": "SHIBATA Hiroshi"
+    },
+    {
+      "title": "The Local AI Powerhouse",
+      "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
+      "published_at": "2026-03-13T18:25:54Z",
+      "description": "Introduction   Keeping up with everything AI-related in the recent months has got me...",
+      "tags": [
+        "ai",
+        "qwen",
+        "localllm",
+        "gptoss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
+      "source": "Dev.to",
+      "user": "Amjad Abujamous"
+    },
+    {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
       "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
       "published_at": "2026-03-18T14:57:43Z",
@@ -556,64 +586,6 @@
       "user": "Sovereign Revenue Guard"
     },
     {
-      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
-      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
-      "published_at": "2026-03-12T02:26:38Z",
-      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
-      "source": "Dev.to",
-      "user": "ujja"
-    },
-    {
-      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
-      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
-      "published_at": "2026-03-16T06:29:54Z",
-      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
-      "tags": [
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
-      "source": "Dev.to",
-      "user": "nghiahsgs"
-    },
-    {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
-    },
-    {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
-      "tags": [
-        "ai",
-        "career",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -757,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 436,
       "user": "liliMozi"
     },
     {
@@ -787,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7056,
+      "stars": 7070,
       "user": "aiming-lab"
     },
     {
@@ -802,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 94,
       "user": "phlx0"
     },
     {
@@ -817,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 93,
       "user": "ShawnPana"
     }
   ],
@@ -956,21 +928,6 @@
       "user": "Christian Segovia"
     },
     {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
-      "tags": [
-        "ai",
-        "career",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1102,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14088,
+      "stars": 14121,
       "user": "NVIDIA"
     },
     {
@@ -1117,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5543,
+      "stars": 5570,
       "user": "calesthio"
     },
     {
@@ -1132,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 436,
       "user": "liliMozi"
     },
     {
@@ -1344,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7056,
+      "stars": 7070,
       "user": "aiming-lab"
     },
     {
@@ -1359,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1941,
+      "stars": 1964,
       "user": "HKUDS"
     },
     {
@@ -1389,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1227,
       "user": "cnlimiter"
     },
     {
@@ -1404,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 847,
       "user": "nikmcfly"
     }
   ],
@@ -1553,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 159,
       "user": "carlos7ags"
     }
   ],
@@ -1741,6 +1698,21 @@
       "user": "Kat Cosgrove"
     },
     {
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
+      "tags": [
+        "ruby",
+        "security",
+        "supplychainsecurity",
+        "packaging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
+      "source": "Dev.to",
+      "user": "SHIBATA Hiroshi"
+    },
+    {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
       "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
       "published_at": "2026-03-18T14:57:43Z",
@@ -1792,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 93,
       "user": "ShawnPana"
     }
   ],
@@ -1962,21 +1934,6 @@
       "user": "Richard Oliver Bray"
     },
     {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
-    },
-    {
       "title": "NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "published_at": "2026-03-15T17:04:09Z",
@@ -1988,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14088,
+      "stars": 14121,
       "user": "NVIDIA"
     },
     {
@@ -2003,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5543,
+      "stars": 5570,
       "user": "calesthio"
     },
     {
@@ -2018,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 436,
       "user": "liliMozi"
     },
     {
@@ -2063,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7056,
+      "stars": 7070,
       "user": "aiming-lab"
     },
     {
@@ -2078,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1941,
+      "stars": 1964,
       "user": "HKUDS"
     },
     {
@@ -2108,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1227,
       "user": "cnlimiter"
     },
     {
@@ -2123,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 847,
       "user": "nikmcfly"
     },
     {
@@ -2138,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "antflydb"
     },
     {
@@ -2153,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 159,
       "user": "carlos7ags"
     },
     {
@@ -2183,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 94,
       "user": "phlx0"
     },
     {
@@ -2198,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 93,
       "user": "ShawnPana"
     }
   ]
