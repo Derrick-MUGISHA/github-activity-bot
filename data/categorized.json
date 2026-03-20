@@ -16,6 +16,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
+      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
+      "published_at": "2026-03-20T13:00:00Z",
+      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
+      "tags": [
+        "gemini",
+        "ai",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
+    },
+    {
       "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
       "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
       "published_at": "2026-03-19T17:48:19Z",
@@ -29,20 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png",
       "source": "Dev.to",
       "user": "Guillaume Vernade"
-    },
-    {
-      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
-      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
-      "published_at": "2026-03-20T13:00:00Z",
-      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
-      "tags": [
-        "gemini",
-        "ai",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
     },
     {
       "title": "AI Vocab 101",
@@ -118,20 +118,6 @@
       "user": "Justin Headley"
     },
     {
-      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
-      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
-      "published_at": "2026-03-18T23:02:35Z",
-      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
-      "tags": [
-        "ai",
-        "tooling",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
-      "source": "Dev.to",
-      "user": "Brian Love"
-    },
-    {
       "title": "Anki On My Wrist",
       "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
       "published_at": "2026-03-18T23:28:43Z",
@@ -145,6 +131,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
       "source": "Dev.to",
       "user": "Matheus Kunzler Maldaner"
+    },
+    {
+      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
+      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
+      "published_at": "2026-03-18T23:02:35Z",
+      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
+      "tags": [
+        "ai",
+        "tooling",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
+      "source": "Dev.to",
+      "user": "Brian Love"
     },
     {
       "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
@@ -599,36 +599,6 @@
       "user": "Harsh "
     },
     {
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
-      "published_at": "2026-03-07T10:44:43Z",
-      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
-      "tags": [
-        "webdev",
-        "ai",
-        "automation",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
-      "source": "Dev.to",
-      "user": "GrahamTheDev"
-    },
-    {
-      "title": "I Built a Browser UI for Claude Code — Here's Why",
-      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
-      "published_at": "2026-03-16T08:15:44Z",
-      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
-      "tags": [
-        "claude",
-        "ai",
-        "opensource",
-        "devex"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
-      "source": "Dev.to",
-      "user": "Hamed Farag"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -772,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 429,
       "user": "liliMozi"
     },
     {
@@ -802,8 +772,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7024,
+      "stars": 7040,
       "user": "aiming-lab"
+    },
+    {
+      "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
+      "url": "https://github.com/phlx0/drift",
+      "published_at": "2026-03-19T19:25:38Z",
+      "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
+      "source": "GitHub",
+      "stars": 89,
+      "user": "phlx0"
     },
     {
       "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
@@ -817,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "ShawnPana"
     }
   ],
@@ -1087,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14022,
+      "stars": 14053,
       "user": "NVIDIA"
     },
     {
@@ -1102,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5475,
+      "stars": 5508,
       "user": "calesthio"
     },
     {
@@ -1117,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 429,
       "user": "liliMozi"
     },
     {
@@ -1329,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7024,
+      "stars": 7040,
       "user": "aiming-lab"
     },
     {
@@ -1344,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1886,
+      "stars": 1907,
       "user": "HKUDS"
     },
     {
@@ -1374,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1210,
+      "stars": 1214,
       "user": "cnlimiter"
     },
     {
@@ -1389,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 832,
       "user": "nikmcfly"
     }
   ],
@@ -1538,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 144,
       "user": "carlos7ags"
     }
   ],
@@ -1777,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "ShawnPana"
     }
   ],
@@ -1843,20 +1828,6 @@
       "user": "J. R. Swab"
     },
     {
-      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
-      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
-      "published_at": "2026-03-18T23:02:35Z",
-      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
-      "tags": [
-        "ai",
-        "tooling",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
-      "source": "Dev.to",
-      "user": "Brian Love"
-    },
-    {
       "title": "Anki On My Wrist",
       "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
       "published_at": "2026-03-18T23:28:43Z",
@@ -1870,6 +1841,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
       "source": "Dev.to",
       "user": "Matheus Kunzler Maldaner"
+    },
+    {
+      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
+      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
+      "published_at": "2026-03-18T23:02:35Z",
+      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
+      "tags": [
+        "ai",
+        "tooling",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
+      "source": "Dev.to",
+      "user": "Brian Love"
     },
     {
       "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
@@ -1973,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14022,
+      "stars": 14053,
       "user": "NVIDIA"
     },
     {
@@ -1988,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5475,
+      "stars": 5508,
       "user": "calesthio"
     },
     {
@@ -2003,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 429,
       "user": "liliMozi"
     },
     {
@@ -2048,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7024,
+      "stars": 7040,
       "user": "aiming-lab"
     },
     {
@@ -2063,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1886,
+      "stars": 1907,
       "user": "HKUDS"
     },
     {
@@ -2093,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1210,
+      "stars": 1214,
       "user": "cnlimiter"
     },
     {
@@ -2108,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 832,
       "user": "nikmcfly"
     },
     {
@@ -2123,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 233,
       "user": "antflydb"
     },
     {
@@ -2138,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 144,
       "user": "carlos7ags"
     },
     {
@@ -2157,6 +2142,21 @@
       "user": "agi-bar"
     },
     {
+      "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
+      "url": "https://github.com/phlx0/drift",
+      "published_at": "2026-03-19T19:25:38Z",
+      "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
+      "source": "GitHub",
+      "stars": 89,
+      "user": "phlx0"
+    },
+    {
       "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. arc auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
       "url": "https://github.com/ShawnPana/aurl",
       "published_at": "2026-03-19T03:03:33Z",
@@ -2168,23 +2168,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "ShawnPana"
-    },
-    {
-      "title": "roots/wp-packages - A modern, community-funded Composer repository for WordPress plugins and themes",
-      "url": "https://github.com/roots/wp-packages",
-      "published_at": "2026-03-14T18:05:07Z",
-      "description": "A modern, community-funded Composer repository for WordPress plugins and themes",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
-      "source": "GitHub",
-      "stars": 85,
-      "user": "roots"
     }
   ]
 }
