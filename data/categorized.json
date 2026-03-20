@@ -31,6 +31,19 @@
       "user": "Guillaume Vernade"
     },
     {
+      "title": "AI Vocab 101",
+      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
+      "published_at": "2026-03-19T22:25:31Z",
+      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
+    },
+    {
       "title": "We've Seen This Movie Before",
       "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
       "published_at": "2026-03-19T08:54:35Z",
@@ -43,19 +56,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
       "source": "Dev.to",
       "user": "Wynand Pieters"
-    },
-    {
-      "title": "AI Vocab 101",
-      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
-      "published_at": "2026-03-19T22:25:31Z",
-      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
     },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "liliMozi"
     },
     {
@@ -803,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6840,
+      "stars": 6862,
       "user": "aiming-lab"
     },
     {
@@ -818,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 76,
       "user": "ShawnPana"
     }
   ],
@@ -1103,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13008,
+      "stars": 13155,
       "user": "NVIDIA"
     },
     {
@@ -1118,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5208,
+      "stars": 5215,
       "user": "calesthio"
     },
     {
@@ -1133,7 +1133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "liliMozi"
     },
     {
@@ -1345,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6840,
+      "stars": 6862,
       "user": "aiming-lab"
     },
     {
@@ -1360,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1741,
+      "stars": 1755,
       "user": "HKUDS"
     },
     {
@@ -1375,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1333,
       "user": "skernelx"
     },
     {
@@ -1405,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 794,
       "user": "nikmcfly"
     }
   ],
@@ -1539,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 107,
       "user": "carlos7ags"
     }
   ],
@@ -1763,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 76,
       "user": "ShawnPana"
     }
   ],
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13008,
+      "stars": 13155,
       "user": "NVIDIA"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5208,
+      "stars": 5215,
       "user": "calesthio"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "liliMozi"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6840,
+      "stars": 6862,
       "user": "aiming-lab"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1741,
+      "stars": 1755,
       "user": "HKUDS"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1333,
       "user": "skernelx"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 794,
       "user": "nikmcfly"
     },
     {
@@ -2139,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 107,
       "user": "carlos7ags"
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4986074?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "roots"
     },
     {
@@ -2184,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 76,
       "user": "ShawnPana"
     }
   ]
