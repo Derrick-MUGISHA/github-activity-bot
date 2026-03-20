@@ -14,7 +14,7 @@
     "Mobile": 2,
     "Cloud": 4,
     "Database": 4,
-    "Security": 7,
+    "Security": 8,
     "Tools": 26
   },
   "by_language": {
@@ -74,7 +74,7 @@
     "ai": 28,
     "github": 15,
     "open-source": 15,
-    "webdev": 12,
+    "webdev": 13,
     "javascript": 12,
     "AI": 10,
     "JavaScript": 10,
@@ -88,9 +88,9 @@
     "productivity": 4,
     "opensource": 4,
     "career": 4,
+    "security": 4,
     "gemini": 3,
-    "cli": 3,
-    "googlecloud": 3
+    "cli": 3
   },
   "trending_topics": [],
   "language_percentages": {

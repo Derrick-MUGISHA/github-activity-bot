@@ -36,7 +36,7 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Security**: 🟦🟦🟦 7 (6.7%)
+**Security**: 🟦🟦🟦 8 (7.6%)
 
 **WebDev**: 🟦🟦 6 (5.7%)
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![productivity](https://img.shields.io/badge/productivity-4-blue) 
+![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![productivity](https://img.shields.io/badge/productivity-4-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-20 19:00 CAT)
+## 📅 Latest Updates (2026-03-20 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Introducing the new full-stack vibe coding experience in Google AI Studio](https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g) _[Dev.to]_
 - [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 19:33:22 CAT_
+_Last automated update: Fri, 20 Mar 2026 20:05:50 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 20 Mar 2026 19:33:22 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Mutability, performance, use cases
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Mutability, performance, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 17:33:22 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Mar 2026 18:05:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
