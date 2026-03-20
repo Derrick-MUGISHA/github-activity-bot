@@ -103,21 +103,6 @@
       "user": "Kat Kampf"
     },
     {
-      "title": "Now anyone can host a global AI challenge on Kaggle",
-      "url": "https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6",
-      "published_at": "2026-03-19T15:21:02Z",
-      "description": "Kaggle's community helps the world discover what actually works in AI, and today we're launching...",
-      "tags": [
-        "ai",
-        "kaggle",
-        "datascience",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62cgxekzv9dt2bcrqdep.png",
-      "source": "Dev.to",
-      "user": "Megan Risdal"
-    },
-    {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
       "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
       "published_at": "2026-03-19T01:45:21Z",
@@ -146,6 +131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
       "source": "Dev.to",
       "user": "Matheus Kunzler Maldaner"
+    },
+    {
+      "title": "Now anyone can host a global AI challenge on Kaggle",
+      "url": "https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6",
+      "published_at": "2026-03-19T15:21:02Z",
+      "description": "Kaggle's community helps the world discover what actually works in AI, and today we're launching...",
+      "tags": [
+        "ai",
+        "kaggle",
+        "datascience",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62cgxekzv9dt2bcrqdep.png",
+      "source": "Dev.to",
+      "user": "Megan Risdal"
     },
     {
       "title": "Supercharge your workflow with AI dev tools",
@@ -762,36 +762,6 @@
       "user": "veesahni"
     },
     {
-      "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "url": "https://github.com/pasky/chrome-cdp-skill",
-      "published_at": "2026-03-13T00:35:39Z",
-      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
-      "source": "GitHub",
-      "stars": 2297,
-      "user": "pasky"
-    },
-    {
-      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "url": "https://github.com/KeyID-AI/agent-kit",
-      "published_at": "2026-03-13T01:55:26Z",
-      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
-      "source": "GitHub",
-      "stars": 521,
-      "user": "KeyID-AI"
-    },
-    {
       "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
       "url": "https://github.com/liliMozi/openhanako",
       "published_at": "2026-03-15T07:01:45Z",
@@ -803,8 +773,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "liliMozi"
+    },
+    {
+      "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
+      "url": "https://github.com/J-Pster/Psters_AI_Workflow",
+      "published_at": "2026-03-16T20:55:01Z",
+      "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
+      "source": "GitHub",
+      "stars": 223,
+      "user": "J-Pster"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -818,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6766,
+      "stars": 6786,
       "user": "aiming-lab"
     }
   ],
@@ -1103,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 12444,
+      "stars": 12685,
       "user": "NVIDIA"
     },
     {
@@ -1118,38 +1103,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5157,
+      "stars": 5179,
       "user": "calesthio"
-    },
-    {
-      "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "url": "https://github.com/pasky/chrome-cdp-skill",
-      "published_at": "2026-03-13T00:35:39Z",
-      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
-      "source": "GitHub",
-      "stars": 2297,
-      "user": "pasky"
-    },
-    {
-      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "url": "https://github.com/KeyID-AI/agent-kit",
-      "published_at": "2026-03-13T01:55:26Z",
-      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
-      "source": "GitHub",
-      "stars": 521,
-      "user": "KeyID-AI"
     },
     {
       "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
@@ -1163,8 +1118,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "liliMozi"
+    },
+    {
+      "title": "epiral/bb-sites - Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
+      "url": "https://github.com/epiral/bb-sites",
+      "published_at": "2026-03-14T08:48:30Z",
+      "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "epiral"
+    },
+    {
+      "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
+      "url": "https://github.com/J-Pster/Psters_AI_Workflow",
+      "published_at": "2026-03-16T20:55:01Z",
+      "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
+      "source": "GitHub",
+      "stars": 223,
+      "user": "J-Pster"
     }
   ],
   "Python": [
@@ -1345,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6766,
+      "stars": 6786,
       "user": "aiming-lab"
     },
     {
@@ -1360,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1656,
+      "stars": 1695,
       "user": "HKUDS"
     },
     {
@@ -1375,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1331,
       "user": "skernelx"
     },
     {
@@ -1390,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1057,
       "user": "cnlimiter"
     },
     {
@@ -1405,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 785,
       "user": "nikmcfly"
     }
   ],
@@ -1539,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 89,
       "user": "carlos7ags"
     }
   ],
@@ -1623,6 +1608,21 @@
     }
   ],
   "Database": [
+    {
+      "title": "Partitioning PotgreSQL Database",
+      "url": "https://dev.to/bohdanstupak1/partitioning-potgresql-database-26be",
+      "published_at": "2026-03-17T10:02:50Z",
+      "description": "Overview of how using pg_partman and pg_cron allowed to drastically reduce query time for a large table",
+      "tags": [
+        "sql",
+        "postgres",
+        "architecture",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6f00c7xnlqb7wjja40i3.png",
+      "source": "Dev.to",
+      "user": "Bohdan Stupak"
+    },
     {
       "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
       "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 12444,
+      "stars": 12685,
       "user": "NVIDIA"
     },
     {
@@ -1959,38 +1959,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5157,
+      "stars": 5179,
       "user": "calesthio"
-    },
-    {
-      "title": "pasky/chrome-cdp-skill - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "url": "https://github.com/pasky/chrome-cdp-skill",
-      "published_at": "2026-03-13T00:35:39Z",
-      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18439?v=4",
-      "source": "GitHub",
-      "stars": 2297,
-      "user": "pasky"
-    },
-    {
-      "title": "KeyID-AI/agent-kit - Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "url": "https://github.com/KeyID-AI/agent-kit",
-      "published_at": "2026-03-13T01:55:26Z",
-      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267736604?v=4",
-      "source": "GitHub",
-      "stars": 521,
-      "user": "KeyID-AI"
     },
     {
       "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
@@ -2004,8 +1974,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "liliMozi"
+    },
+    {
+      "title": "epiral/bb-sites - Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
+      "url": "https://github.com/epiral/bb-sites",
+      "published_at": "2026-03-14T08:48:30Z",
+      "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "epiral"
+    },
+    {
+      "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
+      "url": "https://github.com/J-Pster/Psters_AI_Workflow",
+      "published_at": "2026-03-16T20:55:01Z",
+      "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
+      "source": "GitHub",
+      "stars": 223,
+      "user": "J-Pster"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6766,
+      "stars": 6786,
       "user": "aiming-lab"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1656,
+      "stars": 1695,
       "user": "HKUDS"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1331,
       "user": "skernelx"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1057,
       "user": "cnlimiter"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 785,
       "user": "nikmcfly"
     },
     {
@@ -2098,21 +2098,6 @@
       "user": "antflydb"
     },
     {
-      "title": "WireRift/WireRift - Tear a rift through the wire. Expose localhost to the world.",
-      "url": "https://github.com/WireRift/WireRift",
-      "published_at": "2026-03-13T21:48:48Z",
-      "description": "Tear a rift through the wire. Expose localhost to the world.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268041566?v=4",
-      "source": "GitHub",
-      "stars": 102,
-      "user": "WireRift"
-    },
-    {
       "title": "agi-bar/clawcolony - claw, claw and claw",
       "url": "https://github.com/agi-bar/clawcolony",
       "published_at": "2026-03-16T00:41:53Z",
@@ -2126,6 +2111,21 @@
       "source": "GitHub",
       "stars": 98,
       "user": "agi-bar"
+    },
+    {
+      "title": "carlos7ags/folio - Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
+      "url": "https://github.com/carlos7ags/folio",
+      "published_at": "2026-03-14T23:07:55Z",
+      "description": "Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
+      "source": "GitHub",
+      "stars": 89,
+      "user": "carlos7ags"
     },
     {
       "title": "roots/wp-packages - A modern, community-funded Composer repository for WordPress plugins and themes",
@@ -2143,19 +2143,19 @@
       "user": "roots"
     },
     {
-      "title": "carlos7ags/folio - Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
-      "url": "https://github.com/carlos7ags/folio",
-      "published_at": "2026-03-14T23:07:55Z",
-      "description": "Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
+      "title": "shankar0123/certctl - A self-hosted certificate lifecycle platform. Track, renew, and deploy TLS certificates across your infrastructure with a web dashboard, REST API, and agent-based architecture where private keys never leave your servers.",
+      "url": "https://github.com/shankar0123/certctl",
+      "published_at": "2026-03-14T12:22:29Z",
+      "description": "A self-hosted certificate lifecycle platform. Track, renew, and deploy TLS certificates across your infrastructure with a web dashboard, REST API, and agent-based architecture where private keys never leave your servers.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/42749764?v=4",
       "source": "GitHub",
-      "stars": 78,
-      "user": "carlos7ags"
+      "stars": 70,
+      "user": "shankar0123"
     }
   ]
 }
