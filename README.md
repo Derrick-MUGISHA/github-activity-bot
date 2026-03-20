@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-20 11:00 CAT)
+## 📅 Latest Updates (2026-03-20 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 11:24:24 CAT_
+_Last automated update: Fri, 20 Mar 2026 12:03:42 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 20 Mar 2026 11:24:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Heap, stack, garbage collection
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 09:24:24 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Mar 2026 10:03:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
