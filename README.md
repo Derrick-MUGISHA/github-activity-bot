@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-20 6:00 CAT)
+## 📅 Latest Updates (2026-03-20 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,10 +153,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/wynandpieters/weve-seen-this-movie-before-3719">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png" width="200" alt="We've Seen This Movie Before" />
+    <a href="https://dev.to/bekahhw/ai-vocab-101-eh2">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png" width="200" alt="AI Vocab 101" />
       <br/>
-      <b>We've Seen This Movie Before</b>
+      <b>AI Vocab 101</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -164,10 +164,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/bekahhw/ai-vocab-101-eh2">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png" width="200" alt="AI Vocab 101" />
+    <a href="https://dev.to/wynandpieters/weve-seen-this-movie-before-3719">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png" width="200" alt="We've Seen This Movie Before" />
       <br/>
-      <b>AI Vocab 101</b>
+      <b>We've Seen This Movie Before</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,8 +199,8 @@ npm run test
 
 - [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml) _[Dev.to]_
 - [Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps](https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp) _[Dev.to]_
-- [We've Seen This Movie Before](https://dev.to/wynandpieters/weve-seen-this-movie-before-3719) _[Dev.to]_
 - [AI Vocab 101](https://dev.to/bekahhw/ai-vocab-101-eh2) _[Dev.to]_
+- [We've Seen This Movie Before](https://dev.to/wynandpieters/weve-seen-this-movie-before-3719) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb) _[Dev.to]_
 - [Introducing the new full-stack vibe coding experience in Google AI Studio](https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 - [Notion MCP Challenge: Badges Revealed + A New Prize! 🏆 😻](https://dev.to/devteam/notion-mcp-challenge-badges-revealed-a-new-prize-324k) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 06:11:50 CAT_
+_Last automated update: Fri, 20 Mar 2026 07:20:25 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 20 Mar 2026 06:11:50 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. Python: What are generators and when would you use them?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 04:11:50 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Mar 2026 05:20:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
