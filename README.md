@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-20 22:00 CAT)
+## 📅 Latest Updates (2026-03-20 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8) _[Dev.to]_
 - [Introducing the new full-stack vibe coding experience in Google AI Studio](https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 22:58:22 CAT_
+_Last automated update: Fri, 20 Mar 2026 23:35:26 CAT_
 
 
 
@@ -227,7 +227,29 @@ _Last automated update: Fri, 20 Mar 2026 22:58:22 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+
+**Difficulty**: Medium | **Topics**: event loop, async
+
+<details>
+<summary>💡 Hint</summary>
+
+Execution timing, event loop phases
+
+</details>
+
+### 2. DataStructures: Implement LRU Cache
+
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
+
+<details>
+<summary>💡 Hint</summary>
+
+Doubly linked list + hash map, O(1) operations
+
+</details>
+
+### 3. NodeJS: Implement rate limiting for an API
 
 **Difficulty**: Hard | **Topics**: security, middleware
 
@@ -235,28 +257,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Token bucket, sliding window, Redis
-
-</details>
-
-### 2. React: Explain the difference between state and props
-
-**Difficulty**: Easy | **Topics**: data flow, components
-
-<details>
-<summary>💡 Hint</summary>
-
-Ownership, mutability, data flow direction
-
-</details>
-
-### 3. Python: What are generators and when would you use them?
-
-**Difficulty**: Medium | **Topics**: iterators, memory
-
-<details>
-<summary>💡 Hint</summary>
-
-yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 20:58:22 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Mar 2026 21:35:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
