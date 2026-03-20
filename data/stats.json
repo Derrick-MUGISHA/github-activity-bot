@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -29,9 +29,9 @@
   },
   "by_date": {
     "2026-03-19": 9,
-    "2026-03-16": 12,
-    "2026-03-18": 12,
+    "2026-03-18": 11,
     "2026-03-17": 14,
+    "2026-03-16": 12,
     "2026-03-13": 3,
     "2026-03-15": 8,
     "2026-03-06": 3,
@@ -79,18 +79,18 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "devchallenge": 7,
     "discuss": 7,
+    "devchallenge": 6,
     "programming": 6,
     "go": 6,
     "python": 6,
     "productivity": 5,
     "opensource": 5,
     "career": 5,
-    "notionchallenge": 4,
     "agents": 3,
     "security": 3,
-    "learning": 3
+    "learning": 3,
+    "showdev": 3
   },
   "trending_topics": [],
   "language_percentages": {
