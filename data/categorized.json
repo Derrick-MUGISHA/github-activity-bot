@@ -321,6 +321,34 @@
       "user": "Amjad Abujamous"
     },
     {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
+    },
+    {
+      "title": "Fortran meets AI",
+      "url": "https://dev.to/viksaaskool/fortran-meets-ai-3oac",
+      "published_at": "2026-03-15T17:32:51Z",
+      "description": "A computer science exam from 1978 and 2026 AI models ",
+      "tags": [
+        "fortran",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5nhpaj168bplmy90ilue.png",
+      "source": "Dev.to",
+      "user": " ViksaaSkool "
+    },
+    {
       "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
       "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
       "published_at": "2026-03-16T19:05:58Z",
@@ -336,21 +364,6 @@
       "user": "James Zhang"
     },
     {
-      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
-      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
-      "published_at": "2026-03-17T18:32:57Z",
-      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
-      "tags": [
-        "cloud",
-        "agents",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
-      "source": "Dev.to",
-      "user": "Jeffrey Mew"
-    },
-    {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
       "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
       "published_at": "2026-03-18T16:26:53Z",
@@ -364,6 +377,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
       "source": "Dev.to",
       "user": "Dineshraj Anandan"
+    },
+    {
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
+      "published_at": "2026-03-17T18:32:57Z",
+      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
+      "tags": [
+        "cloud",
+        "agents",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
+      "source": "Dev.to",
+      "user": "Jeffrey Mew"
     },
     {
       "title": "How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud",
@@ -600,36 +628,6 @@
       "user": "GrahamTheDev"
     },
     {
-      "title": "I Built a Browser UI for Claude Code — Here's Why",
-      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
-      "published_at": "2026-03-16T08:15:44Z",
-      "description": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But...",
-      "tags": [
-        "claude",
-        "ai",
-        "opensource",
-        "devex"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08egcxghyva3izfho31m.png",
-      "source": "Dev.to",
-      "user": "Hamed Farag"
-    },
-    {
-      "title": "Notion Skills Registry: A Package Manager for AI Agent Skills with MCP",
-      "url": "https://dev.to/axrisi/notion-skills-registry-a-package-manager-for-ai-agent-skills-with-mcp-2581",
-      "published_at": "2026-03-16T09:28:46Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   I built Notion Skills...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feg9okvcj4ck1zj5gjpvz.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -773,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "liliMozi"
     },
     {
@@ -803,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6862,
+      "stars": 6885,
       "user": "aiming-lab"
     },
     {
@@ -1103,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13155,
+      "stars": 13257,
       "user": "NVIDIA"
     },
     {
@@ -1118,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5215,
+      "stars": 5232,
       "user": "calesthio"
     },
     {
@@ -1133,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "liliMozi"
     },
     {
@@ -1148,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "epiral"
     },
     {
@@ -1345,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6862,
+      "stars": 6885,
       "user": "aiming-lab"
     },
     {
@@ -1360,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1755,
+      "stars": 1765,
       "user": "HKUDS"
     },
     {
@@ -1375,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1334,
       "user": "skernelx"
     },
     {
@@ -1390,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1095,
+      "stars": 1119,
       "user": "cnlimiter"
     },
     {
@@ -1405,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 796,
       "user": "nikmcfly"
     }
   ],
@@ -1438,6 +1436,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
       "user": "Kat Cosgrove"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1539,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 109,
       "user": "carlos7ags"
     }
   ],
@@ -1725,6 +1738,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
       "user": "Kat Cosgrove"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -1974,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 13155,
+      "stars": 13257,
       "user": "NVIDIA"
     },
     {
@@ -1989,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "source": "GitHub",
-      "stars": 5215,
+      "stars": 5232,
       "user": "calesthio"
     },
     {
@@ -2004,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "liliMozi"
     },
     {
@@ -2019,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259771830?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "epiral"
     },
     {
@@ -2049,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 6862,
+      "stars": 6885,
       "user": "aiming-lab"
     },
     {
@@ -2064,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1755,
+      "stars": 1765,
       "user": "HKUDS"
     },
     {
@@ -2079,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250769487?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1334,
       "user": "skernelx"
     },
     {
@@ -2094,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1095,
+      "stars": 1119,
       "user": "cnlimiter"
     },
     {
@@ -2109,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70242477?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 796,
       "user": "nikmcfly"
     },
     {
@@ -2124,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "antflydb"
     },
     {
@@ -2139,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7977904?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 109,
       "user": "carlos7ags"
     },
     {

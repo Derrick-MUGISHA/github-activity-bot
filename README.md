@@ -36,13 +36,13 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
+**Security**: 🟦🟦 7 (6.7%)
+
 **WebDev**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**DevOps**: 🟦 4 (3.8%)
 
 **Database**: 🟦 4 (3.8%)
-
-**DevOps**: 🟦 3 (2.9%)
 
 **Cloud**: 🟦 3 (2.9%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.2 (27.2%)
-Java            █████████████████████████████ 26.1 (26.1%)
-Go              ██████████████████████ 19.6 (19.6%)
-Python          ████████████████████ 18.5 (18.5%)
-Rust            █████ 4.3 (4.3%)
+JavaScript      ██████████████████████████████ 27.5 (27.5%)
+Java            █████████████████████████████ 26.4 (26.4%)
+Go              ████████████████████ 18.7 (18.7%)
+Python          ████████████████████ 18.7 (18.7%)
+Rust            █████ 4.4 (4.4%)
 Swift           ██ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
@@ -75,7 +75,7 @@ Kotlin          █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 25
     "Java" : 24
-    "Go" : 18
+    "Go" : 17
     "Python" : 17
     "Rust" : 4
     "Swift" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-30-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-30-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-20 7:00 CAT)
+## 📅 Latest Updates (2026-03-20 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 - [Notion MCP Challenge: Badges Revealed + A New Prize! 🏆 😻](https://dev.to/devteam/notion-mcp-challenge-badges-revealed-a-new-prize-324k) _[Dev.to]_
 
-_Last automated update: Fri, 20 Mar 2026 07:20:25 CAT_
+_Last automated update: Fri, 20 Mar 2026 08:11:04 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 20 Mar 2026 07:20:25 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Heap, stack, garbage collection
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 05:20:25 GMT</b><br/>
+  <b>Last automated update: Fri, 20 Mar 2026 06:11:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
