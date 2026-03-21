@@ -7,7 +7,7 @@
   },
   "by_category": {
     "AI": 62,
-    "JavaScript": 23,
+    "JavaScript": 24,
     "Python": 19,
     "DevOps": 4,
     "WebDev": 4,
@@ -15,13 +15,13 @@
     "Cloud": 3,
     "Database": 4,
     "Security": 10,
-    "Tools": 26
+    "Tools": 25
   },
   "by_language": {
-    "JavaScript": 23,
-    "Java": 23,
+    "JavaScript": 24,
+    "Java": 24,
     "Go": 20,
-    "Rust": 4,
+    "Rust": 3,
     "Swift": 2,
     "Kotlin": 2,
     "Ruby": 1,
@@ -33,12 +33,13 @@
     "2026-03-19": 14,
     "2026-03-17": 12,
     "2026-03-18": 10,
-    "2026-03-16": 14,
+    "2026-03-16": 13,
     "2026-03-13": 3,
     "2026-03-06": 3,
     "2026-03-07": 1,
     "2026-03-12": 3,
     "2026-03-05": 1,
+    "2026-03-14": 1,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -71,11 +72,11 @@
     "2026-03-15": 6
   },
   "top_tags": {
-    "ai": 32,
+    "ai": 33,
+    "webdev": 15,
     "github": 15,
     "open-source": 15,
-    "webdev": 14,
-    "javascript": 11,
+    "javascript": 12,
     "discuss": 10,
     "AI": 10,
     "JavaScript": 10,
@@ -87,21 +88,21 @@
     "agents": 5,
     "security": 5,
     "devchallenge": 4,
-    "productivity": 4,
+    "career": 4,
     "machinelearning": 4,
-    "cli": 3,
-    "watercooler": 3
+    "watercooler": 3,
+    "productivity": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "24.5",
-    "Java": "24.5",
-    "Go": "21.3",
-    "Rust": "4.3",
+    "JavaScript": "25.3",
+    "Java": "25.3",
+    "Go": "21.1",
+    "Rust": "3.2",
     "Swift": "2.1",
     "Kotlin": "2.1",
     "Ruby": "1.1",
-    "Python": "19.1",
+    "Python": "18.9",
     "CSharp": "1.1"
   }
 }
