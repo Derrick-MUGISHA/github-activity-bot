@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-21 23:00 CAT)
+## 📅 Latest Updates (2026-03-22 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0) _[Dev.to]_
 - [I Scanned 100 AI Codebases - Here's What I Found](https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be) _[Dev.to]_
 
-_Last automated update: Sat, 21 Mar 2026 23:46:25 CAT_
+_Last automated update: Sun, 22 Mar 2026 00:20:36 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 21 Mar 2026 23:46:25 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Mutability, performance, use cases
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Mar 2026 21:46:25 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 22:20:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
