@@ -219,7 +219,7 @@ npm run test
 - [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 - [Should RubyGems/Bundler Have a Cooldown Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp) _[Dev.to]_
 
-_Last automated update: Sat, 21 Mar 2026 09:02:49 CAT_
+_Last automated update: Sat, 21 Mar 2026 09:45:54 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 21 Mar 2026 09:02:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Mar 2026 07:02:49 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 07:45:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
