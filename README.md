@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-20-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-21-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Security**: 🟦🟦🟦 9 (8.6%)
+**Security**: 🟦🟦🟦 10 (9.5%)
+
+**Database**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦 4 (3.8%)
 
-**WebDev**: 🟦 4 (3.8%)
-
-**Database**: 🟦 4 (3.8%)
+**WebDev**: 🟦 3 (2.9%)
 
 **Mobile**: 🟦 3 (2.9%)
 
@@ -60,15 +60,15 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.3 (25.3%)
-Java            ██████████████████████████████ 25.3 (25.3%)
-Go              ████████████████████████ 20.0 (20.0%)
-Python          ██████████████████████ 18.9 (18.9%)
+JavaScript      ██████████████████████████████ 25.0 (25.0%)
+Java            ██████████████████████████████ 25.0 (25.0%)
+Go              █████████████████████████ 20.8 (20.8%)
+Python          ███████████████████████ 18.8 (18.8%)
 Rust            █████ 4.2 (4.2%)
-Swift           ██ 2.1 (2.1%)
-Kotlin          ██ 2.1 (2.1%)
-Ruby            █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
+Swift           ███ 2.1 (2.1%)
+Kotlin          ███ 2.1 (2.1%)
+Ruby            █ 1.0 (1.0%)
+CSharp          █ 1.0 (1.0%)
 
 ```
 
@@ -76,7 +76,7 @@ CSharp          █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 24
     "Java" : 24
-    "Go" : 19
+    "Go" : 20
     "Python" : 18
     "Rust" : 4
     "Swift" : 2
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-30-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![security](https://img.shields.io/badge/security-4-blue) 
+![ai](https://img.shields.io/badge/ai-31-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![security](https://img.shields.io/badge/security-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-21 1:00 CAT)
+## 📅 Latest Updates (2026-03-21 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -208,7 +208,6 @@ npm run test
 - [AI Vocab 101](https://dev.to/bekahhw/ai-vocab-101-eh2) _[Dev.to]_
 - [Quick tip: your og:image should be 1200x630px](https://dev.to/bengreenberg/quick-tip-your-ogimage-should-be-1200x630px-4m27) _[Dev.to]_
 - [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h) _[Dev.to]_
-- [Data governance just became a conversation, not a workflow.](https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998) _[Dev.to]_
 - [I Scanned 100 AI Codebases - Here's What I Found](https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be) _[Dev.to]_
 - [What's in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4) _[Dev.to]_
 - [Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps](https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp) _[Dev.to]_
@@ -216,10 +215,11 @@ npm run test
 - [Supercharge your workflow with AI dev tools](https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e) _[Dev.to]_
 - [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm) _[Dev.to]_
 - [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8) _[Dev.to]_
+- [Data governance just became a conversation, not a workflow.](https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998) _[Dev.to]_
 - [Introducing the new full-stack vibe coding experience in Google AI Studio](https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g) _[Dev.to]_
 - [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 
-_Last automated update: Sat, 21 Mar 2026 01:59:40 CAT_
+_Last automated update: Sat, 21 Mar 2026 04:41:24 CAT_
 
 
 
@@ -227,25 +227,25 @@ _Last automated update: Sat, 21 Mar 2026 01:59:40 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Heap, stack, garbage collection
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 20 Mar 2026 23:59:40 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 02:41:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
