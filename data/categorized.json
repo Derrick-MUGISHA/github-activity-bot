@@ -75,19 +75,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "AI Vocab 101",
-      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
-      "published_at": "2026-03-19T22:25:31Z",
-      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
-    },
-    {
       "title": "I Scanned 100 AI Codebases - Here's What I Found",
       "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
       "published_at": "2026-03-19T08:41:48Z",
@@ -192,29 +179,17 @@
       "user": "Dash"
     },
     {
-      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
-      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
-      "published_at": "2026-03-19T18:12:23Z",
-      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
+      "title": "AI Vocab 101",
+      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
+      "published_at": "2026-03-19T22:25:31Z",
+      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
       "tags": [
         "ai",
-        "antigravity",
-        "agents",
-        "nextjs"
+        "beginners"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
       "source": "Dev.to",
-      "user": "Kat Kampf"
-    },
-    {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
+      "user": "BekahHW"
     },
     {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
@@ -230,6 +205,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
       "source": "Dev.to",
       "user": "SHIBATA Hiroshi"
+    },
+    {
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
+      "source": "Dev.to",
+      "user": "Typing Turtle"
     },
     {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
@@ -759,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "liliMozi"
     },
     {
@@ -774,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "J-Pster"
     },
     {
@@ -804,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7152,
+      "stars": 7158,
       "user": "aiming-lab"
     },
     {
@@ -819,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "sstklen"
     },
     {
@@ -834,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "phlx0"
     },
     {
@@ -849,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "ShawnPana"
     }
   ],
@@ -898,21 +883,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
       "source": "Dev.to",
       "user": "Justin Headley"
-    },
-    {
-      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
-      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
-      "published_at": "2026-03-19T18:12:23Z",
-      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
-      "source": "Dev.to",
-      "user": "Kat Kampf"
     },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
@@ -1119,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14396,
+      "stars": 14416,
       "user": "NVIDIA"
     },
     {
@@ -1134,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "liliMozi"
     },
     {
@@ -1149,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "J-Pster"
     },
     {
@@ -1164,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 104,
       "user": "umbrellaDocumentation"
     },
     {
@@ -1376,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7152,
+      "stars": 7158,
       "user": "aiming-lab"
     },
     {
@@ -1391,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2150,
+      "stars": 2168,
       "user": "HKUDS"
     },
     {
@@ -1421,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "sstklen"
     },
     {
@@ -1855,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "ShawnPana"
     }
   ],
@@ -2051,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14396,
+      "stars": 14416,
       "user": "NVIDIA"
     },
     {
@@ -2066,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "liliMozi"
     },
     {
@@ -2081,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "J-Pster"
     },
     {
@@ -2096,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 104,
       "user": "umbrellaDocumentation"
     },
     {
@@ -2126,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7152,
+      "stars": 7158,
       "user": "aiming-lab"
     },
     {
@@ -2141,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2150,
+      "stars": 2168,
       "user": "HKUDS"
     },
     {
@@ -2171,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "sstklen"
     },
     {
@@ -2216,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "phlx0"
     },
     {
@@ -2231,7 +2201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "ShawnPana"
     },
     {
@@ -2261,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189537017?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 83,
       "user": "ASTRA-LabsHQ"
     }
   ]
