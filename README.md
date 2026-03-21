@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-21 12:00 CAT)
+## 📅 Latest Updates (2026-03-21 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 
-_Last automated update: Sat, 21 Mar 2026 12:59:03 CAT_
+_Last automated update: Sat, 21 Mar 2026 13:29:35 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 21 Mar 2026 12:59:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain GIL and its implications for multithreading
+### 1. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Mar 2026 10:59:03 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 11:29:35 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
