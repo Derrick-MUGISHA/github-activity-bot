@@ -1,12 +1,12 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 59,
+    "AI": 61,
     "JavaScript": 24,
     "Python": 19,
     "DevOps": 4,
@@ -20,7 +20,7 @@
   "by_language": {
     "JavaScript": 24,
     "Java": 24,
-    "Go": 19,
+    "Go": 18,
     "Rust": 3,
     "Swift": 2,
     "Kotlin": 2,
@@ -29,17 +29,16 @@
     "CSharp": 1
   },
   "by_date": {
-    "2026-03-20": 8,
+    "2026-03-20": 9,
     "2026-03-19": 16,
     "2026-03-17": 11,
     "2026-03-18": 10,
     "2026-03-16": 11,
     "2026-03-13": 3,
     "2026-03-06": 3,
-    "2026-03-07": 1,
+    "2026-03-07": 2,
     "2026-03-12": 3,
     "2026-03-05": 1,
-    "2026-03-14": 1,
     "2026-02-27": 1,
     "2026-03-11": 1,
     "2024-02-27": 1,
@@ -73,10 +72,10 @@
     "2026-03-15": 5
   },
   "top_tags": {
-    "ai": 33,
+    "ai": 34,
+    "webdev": 15,
     "github": 15,
     "open-source": 15,
-    "webdev": 14,
     "javascript": 12,
     "discuss": 10,
     "AI": 10,
@@ -89,21 +88,21 @@
     "opensource": 5,
     "security": 5,
     "devchallenge": 4,
-    "career": 4,
     "machinelearning": 4,
     "typescript": 3,
-    "devops": 3
+    "devops": 3,
+    "career": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "25.5",
-    "Java": "25.5",
-    "Go": "20.2",
+    "JavaScript": "25.8",
+    "Java": "25.8",
+    "Go": "19.4",
     "Rust": "3.2",
-    "Swift": "2.1",
-    "Kotlin": "2.1",
+    "Swift": "2.2",
+    "Kotlin": "2.2",
     "Ruby": "1.1",
-    "Python": "19.1",
+    "Python": "19.4",
     "CSharp": "1.1"
   }
 }

@@ -467,6 +467,21 @@
       "user": "Mike Krop"
     },
     {
+      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
+      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
+      "published_at": "2026-03-18T23:20:04Z",
+      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
+      "tags": [
+        "ai",
+        "discuss",
+        "machinelearning",
+        "science"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
       "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
       "published_at": "2026-03-17T06:06:10Z",
@@ -495,21 +510,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
       "source": "Dev.to",
       "user": "Faruk Durgut"
-    },
-    {
-      "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
-      "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
-      "published_at": "2026-03-18T23:20:04Z",
-      "description": "People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...",
-      "tags": [
-        "ai",
-        "discuss",
-        "machinelearning",
-        "science"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
     },
     {
       "title": "I built a cognitive layer for AI agents that learns without LLM calls",
@@ -601,21 +601,6 @@
       "user": "ujja"
     },
     {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
-      "tags": [
-        "ai",
-        "career",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -629,6 +614,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
       "source": "Dev.to",
       "user": "Denis Bakhoum"
+    },
+    {
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "tags": [
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "source": "Dev.to",
+      "user": "GrahamTheDev"
+    },
+    {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -789,8 +804,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "J-Pster"
+    },
+    {
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "SethGammon"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -804,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7306,
+      "stars": 7311,
       "user": "aiming-lab"
     },
     {
@@ -819,7 +849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "phlx0"
     },
     {
@@ -834,7 +864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "ShawnPana"
     }
   ],
@@ -958,19 +988,19 @@
       "user": "Christian Segovia"
     },
     {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
       "tags": [
         "ai",
-        "career",
         "webdev",
+        "automation",
         "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
       "source": "Dev.to",
-      "user": "Harsh "
+      "user": "Boehner"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1104,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14730,
+      "stars": 14757,
       "user": "NVIDIA"
     },
     {
@@ -1134,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "J-Pster"
     },
     {
@@ -1149,23 +1179,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "kulikov0"
     },
     {
-      "title": "umbrellaDocumentation/Web-Data-Scraper - Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
-      "url": "https://github.com/umbrellaDocumentation/Web-Data-Scraper",
-      "published_at": "2026-03-16T17:45:29Z",
-      "description": "Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 104,
-      "user": "umbrellaDocumentation"
+      "stars": 105,
+      "user": "SethGammon"
     }
   ],
   "Python": [
@@ -1361,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7306,
+      "stars": 7311,
       "user": "aiming-lab"
     },
     {
@@ -1376,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2412,
+      "stars": 2417,
       "user": "HKUDS"
     },
     {
@@ -1391,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1334,
+      "stars": 1335,
       "user": "cnlimiter"
     },
     {
@@ -1406,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 723,
       "user": "lxf746"
     },
     {
@@ -1421,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 641,
       "user": "math-inc"
     }
   ],
@@ -1825,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "ShawnPana"
     }
   ],
@@ -1920,21 +1950,6 @@
       "user": "Timothy Olaleke"
     },
     {
-      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
-      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
-      "published_at": "2026-03-17T06:06:10Z",
-      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
-      "source": "Dev.to",
-      "user": "Juan David Gómez"
-    },
-    {
       "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
       "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
       "published_at": "2026-03-18T23:20:04Z",
@@ -1948,6 +1963,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
+      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
+      "published_at": "2026-03-17T06:06:10Z",
+      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
     },
     {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
@@ -1991,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14730,
+      "stars": 14757,
       "user": "NVIDIA"
     },
     {
@@ -2021,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "J-Pster"
     },
     {
@@ -2036,23 +2066,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "kulikov0"
     },
     {
-      "title": "umbrellaDocumentation/Web-Data-Scraper - Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
-      "url": "https://github.com/umbrellaDocumentation/Web-Data-Scraper",
-      "published_at": "2026-03-16T17:45:29Z",
-      "description": "Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 104,
-      "user": "umbrellaDocumentation"
+      "stars": 105,
+      "user": "SethGammon"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -2066,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7306,
+      "stars": 7311,
       "user": "aiming-lab"
     },
     {
@@ -2081,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2412,
+      "stars": 2417,
       "user": "HKUDS"
     },
     {
@@ -2096,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1334,
+      "stars": 1335,
       "user": "cnlimiter"
     },
     {
@@ -2111,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 723,
       "user": "lxf746"
     },
     {
@@ -2126,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 641,
       "user": "math-inc"
     },
     {
@@ -2141,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 267,
       "user": "antflydb"
     },
     {
@@ -2156,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "phlx0"
     },
     {
@@ -2171,7 +2201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "ShawnPana"
     },
     {
@@ -2201,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189537017?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "ASTRA-LabsHQ"
     }
   ]
