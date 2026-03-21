@@ -15,21 +15,6 @@
       "user": "Greg Baugues"
     },
     {
-      "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
-      "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml",
-      "published_at": "2026-03-19T20:26:57Z",
-      "description": "It's time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...",
-      "tags": [
-        "ai",
-        "devchallenge",
-        "weekendchallenge",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
       "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
       "published_at": "2026-03-20T15:44:30Z",
@@ -43,6 +28,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
       "source": "Dev.to",
       "user": "Paige Bailey"
+    },
+    {
+      "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
+      "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml",
+      "published_at": "2026-03-19T20:26:57Z",
+      "description": "It's time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...",
+      "tags": [
+        "ai",
+        "devchallenge",
+        "weekendchallenge",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh",
@@ -103,21 +103,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png",
       "source": "Dev.to",
       "user": "Guillaume Vernade"
-    },
-    {
-      "title": "Anki On My Wrist",
-      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
-      "published_at": "2026-03-18T23:28:43Z",
-      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
-      "tags": [
-        "learning",
-        "productivity",
-        "showdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
-      "source": "Dev.to",
-      "user": "Matheus Kunzler Maldaner"
     },
     {
       "title": "Supercharge your workflow with AI dev tools",
@@ -202,21 +187,6 @@
       "user": "Typing Turtle"
     },
     {
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
-      "published_at": "2026-03-19T01:45:21Z",
-      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
-      "tags": [
-        "ruby",
-        "security",
-        "supplychainsecurity",
-        "packaging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
-      "source": "Dev.to",
-      "user": "SHIBATA Hiroshi"
-    },
-    {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
       "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
       "published_at": "2026-03-18T19:29:59Z",
@@ -230,20 +200,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
-    },
-    {
-      "title": "We've Seen This Movie Before",
-      "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
-      "published_at": "2026-03-19T08:54:35Z",
-      "description": "I've been sitting on this comparison for a while, trying to decide if it was too obvious to write...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
-      "source": "Dev.to",
-      "user": "Wynand Pieters"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -333,6 +289,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
       "source": "Dev.to",
       "user": "Amjad Abujamous"
+    },
+    {
+      "title": "Anki On My Wrist",
+      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
+      "published_at": "2026-03-18T23:28:43Z",
+      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
+      "tags": [
+        "learning",
+        "productivity",
+        "showdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
+      "source": "Dev.to",
+      "user": "Matheus Kunzler Maldaner"
     },
     {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
@@ -804,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "stevibe"
     },
     {
@@ -819,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7220,
+      "stars": 7223,
       "user": "aiming-lab"
     },
     {
@@ -1119,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14541,
+      "stars": 14554,
       "user": "NVIDIA"
     },
     {
@@ -1179,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "stevibe"
     }
   ],
@@ -1376,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7220,
+      "stars": 7223,
       "user": "aiming-lab"
     },
     {
@@ -1391,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2276,
+      "stars": 2286,
       "user": "HKUDS"
     },
     {
@@ -1406,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1280,
       "user": "cnlimiter"
     },
     {
@@ -1774,21 +1745,6 @@
       "user": "Dash"
     },
     {
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
-      "published_at": "2026-03-19T01:45:21Z",
-      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
-      "tags": [
-        "ruby",
-        "security",
-        "supplychainsecurity",
-        "packaging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
-      "source": "Dev.to",
-      "user": "SHIBATA Hiroshi"
-    },
-    {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
       "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
       "published_at": "2026-03-18T14:39:24Z",
@@ -1876,21 +1832,6 @@
   ],
   "Tools": [
     {
-      "title": "Anki On My Wrist",
-      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
-      "published_at": "2026-03-18T23:28:43Z",
-      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
-      "tags": [
-        "learning",
-        "productivity",
-        "showdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
-      "source": "Dev.to",
-      "user": "Matheus Kunzler Maldaner"
-    },
-    {
       "title": "Supercharge your workflow with AI dev tools",
       "url": "https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e",
       "published_at": "2026-03-18T13:57:01Z",
@@ -1933,6 +1874,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "Anki On My Wrist",
+      "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
+      "published_at": "2026-03-18T23:28:43Z",
+      "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
+      "tags": [
+        "learning",
+        "productivity",
+        "showdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png",
+      "source": "Dev.to",
+      "user": "Matheus Kunzler Maldaner"
     },
     {
       "title": "How to Stop Babysitting Your AI Agents",
@@ -2051,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14541,
+      "stars": 14554,
       "user": "NVIDIA"
     },
     {
@@ -2111,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "stevibe"
     },
     {
@@ -2126,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7220,
+      "stars": 7223,
       "user": "aiming-lab"
     },
     {
@@ -2141,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2276,
+      "stars": 2286,
       "user": "HKUDS"
     },
     {
@@ -2156,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1280,
       "user": "cnlimiter"
     },
     {
