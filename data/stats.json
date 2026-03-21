@@ -15,7 +15,7 @@
     "Cloud": 3,
     "Database": 4,
     "Security": 10,
-    "Tools": 25
+    "Tools": 26
   },
   "by_language": {
     "JavaScript": 24,
@@ -29,17 +29,18 @@
     "CSharp": 1
   },
   "by_date": {
-    "2026-03-20": 8,
+    "2026-03-20": 9,
     "2026-03-19": 14,
-    "2026-03-17": 12,
-    "2026-03-18": 10,
-    "2026-03-16": 13,
+    "2026-03-18": 11,
+    "2026-03-17": 11,
+    "2026-03-16": 11,
     "2026-03-13": 3,
     "2026-03-06": 3,
     "2026-03-07": 1,
     "2026-03-12": 3,
     "2026-03-05": 1,
     "2026-03-14": 1,
+    "2026-02-27": 1,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -72,10 +73,10 @@
     "2026-03-15": 6
   },
   "top_tags": {
-    "ai": 33,
-    "webdev": 15,
+    "ai": 34,
     "github": 15,
     "open-source": 15,
+    "webdev": 14,
     "javascript": 12,
     "discuss": 10,
     "AI": 10,
@@ -83,15 +84,15 @@
     "Python": 10,
     "programming": 7,
     "python": 7,
-    "opensource": 6,
     "go": 6,
     "agents": 5,
+    "opensource": 5,
     "security": 5,
     "devchallenge": 4,
+    "productivity": 4,
     "career": 4,
     "machinelearning": 4,
-    "watercooler": 3,
-    "productivity": 3
+    "typescript": 3
   },
   "trending_topics": [],
   "language_percentages": {

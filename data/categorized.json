@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
-      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
-      "published_at": "2026-03-20T13:00:00Z",
-      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
-      "tags": [
-        "gemini",
-        "ai",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
       "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
       "published_at": "2026-03-20T15:44:30Z",
@@ -73,6 +59,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
+      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
+      "published_at": "2026-03-20T13:00:00Z",
+      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
+      "tags": [
+        "gemini",
+        "ai",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
     },
     {
       "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
@@ -306,21 +306,6 @@
       "user": "Matheus Kunzler Maldaner"
     },
     {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
-    },
-    {
       "title": "How to Stop Babysitting Your AI Agents",
       "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
       "published_at": "2026-03-18T13:50:00Z",
@@ -334,6 +319,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
       "source": "Dev.to",
       "user": "J. R. Swab"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
@@ -616,19 +616,6 @@
       "user": "ujja"
     },
     {
-      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
-      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
-      "published_at": "2026-03-16T06:29:54Z",
-      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
-      "tags": [
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
-      "source": "Dev.to",
-      "user": "nghiahsgs"
-    },
-    {
       "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
       "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
       "published_at": "2026-03-14T16:44:34Z",
@@ -642,6 +629,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
+      "tags": [
+        "ai",
+        "engineering",
+        "productivity",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
+      "source": "Dev.to",
+      "user": "Denis Bakhoum"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -787,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "liliMozi"
     },
     {
@@ -806,19 +808,19 @@
       "user": "J-Pster"
     },
     {
-      "title": "stevibe/local-llm-video-captioning - GitHub Repository",
-      "url": "https://github.com/stevibe/local-llm-video-captioning",
-      "published_at": "2026-03-17T14:45:17Z",
-      "description": "Trending GitHub Repository",
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 87,
-      "user": "stevibe"
+      "stars": 91,
+      "user": "SethGammon"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -832,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7267,
+      "stars": 7276,
       "user": "aiming-lab"
     },
     {
@@ -847,7 +849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "sstklen"
     },
     {
@@ -1147,7 +1149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14618,
+      "stars": 14639,
       "user": "NVIDIA"
     },
     {
@@ -1162,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "liliMozi"
     },
     {
@@ -1196,19 +1198,19 @@
       "user": "umbrellaDocumentation"
     },
     {
-      "title": "stevibe/local-llm-video-captioning - GitHub Repository",
-      "url": "https://github.com/stevibe/local-llm-video-captioning",
-      "published_at": "2026-03-17T14:45:17Z",
-      "description": "Trending GitHub Repository",
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 87,
-      "user": "stevibe"
+      "stars": 91,
+      "user": "SethGammon"
     }
   ],
   "Python": [
@@ -1404,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7267,
+      "stars": 7276,
       "user": "aiming-lab"
     },
     {
@@ -1419,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2338,
+      "stars": 2352,
       "user": "HKUDS"
     },
     {
@@ -1434,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1284,
+      "stars": 1287,
       "user": "cnlimiter"
     },
     {
@@ -1449,23 +1451,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "sstklen"
     },
     {
-      "title": "nv-tlabs/kimodo - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
-      "url": "https://github.com/nv-tlabs/kimodo",
-      "published_at": "2026-03-16T20:19:30Z",
-      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "title": "lxf746/any-auto-register - GitHub Repository",
+      "url": "https://github.com/lxf746/any-auto-register",
+      "published_at": "2026-03-18T13:26:05Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 576,
-      "user": "nv-tlabs"
+      "stars": 585,
+      "user": "lxf746"
     }
   ],
   "DevOps": [
@@ -2038,6 +2040,21 @@
       "user": "Richard Oliver Bray"
     },
     {
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
+      "tags": [
+        "ai",
+        "engineering",
+        "productivity",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
+      "source": "Dev.to",
+      "user": "Denis Bakhoum"
+    },
+    {
       "title": "NVIDIA/NemoClaw - Run OpenClaw securely inside NVIDIA OpenShell with managed inference",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "published_at": "2026-03-15T17:04:09Z",
@@ -2049,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14618,
+      "stars": 14639,
       "user": "NVIDIA"
     },
     {
@@ -2064,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "liliMozi"
     },
     {
@@ -2098,19 +2115,19 @@
       "user": "umbrellaDocumentation"
     },
     {
-      "title": "stevibe/local-llm-video-captioning - GitHub Repository",
-      "url": "https://github.com/stevibe/local-llm-video-captioning",
-      "published_at": "2026-03-17T14:45:17Z",
-      "description": "Trending GitHub Repository",
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 87,
-      "user": "stevibe"
+      "stars": 91,
+      "user": "SethGammon"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -2124,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7267,
+      "stars": 7276,
       "user": "aiming-lab"
     },
     {
@@ -2139,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2338,
+      "stars": 2352,
       "user": "HKUDS"
     },
     {
@@ -2154,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1284,
+      "stars": 1287,
       "user": "cnlimiter"
     },
     {
@@ -2169,23 +2186,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "sstklen"
     },
     {
-      "title": "nv-tlabs/kimodo - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
-      "url": "https://github.com/nv-tlabs/kimodo",
-      "published_at": "2026-03-16T20:19:30Z",
-      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "title": "lxf746/any-auto-register - GitHub Repository",
+      "url": "https://github.com/lxf746/any-auto-register",
+      "published_at": "2026-03-18T13:26:05Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 576,
-      "user": "nv-tlabs"
+      "stars": 585,
+      "user": "lxf746"
     },
     {
       "title": "antflydb/antfly - GitHub Repository",
@@ -2259,7 +2276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189537017?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "ASTRA-LabsHQ"
     }
   ]
