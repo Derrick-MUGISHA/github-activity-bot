@@ -219,7 +219,7 @@ npm run test
 - [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0) _[Dev.to]_
 - [I Scanned 100 AI Codebases - Here's What I Found](https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 00:20:36 CAT_
+_Last automated update: Sun, 22 Mar 2026 00:49:34 CAT_
 
 
 
@@ -227,29 +227,7 @@ _Last automated update: Sun, 22 Mar 2026 00:20:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
-
-**Difficulty**: Medium | **Topics**: linked lists, pointers
-
-<details>
-<summary>💡 Hint</summary>
-
-Iterative or recursive, three pointers
-
-</details>
-
-### 2. Python: What is the difference between list and tuple in Python?
-
-**Difficulty**: Easy | **Topics**: data structures, mutability
-
-<details>
-<summary>💡 Hint</summary>
-
-Mutability, performance, use cases
-
-</details>
-
-### 3. Java: What is the difference between abstract class and interface?
+### 1. Java: What is the difference between abstract class and interface?
 
 **Difficulty**: Easy | **Topics**: OOP, design
 
@@ -257,6 +235,28 @@ Mutability, performance, use cases
 <summary>💡 Hint</summary>
 
 Multiple inheritance, method implementation, use cases
+
+</details>
+
+### 2. React: How would you optimize a React app's performance?
+
+**Difficulty**: Hard | **Topics**: optimization, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+React.memo, useMemo, useCallback, code splitting, lazy loading
+
+</details>
+
+### 3. Database: What is database normalization and denormalization?
+
+**Difficulty**: Medium | **Topics**: design, optimization
+
+<details>
+<summary>💡 Hint</summary>
+
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Mar 2026 22:20:36 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 22:49:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
