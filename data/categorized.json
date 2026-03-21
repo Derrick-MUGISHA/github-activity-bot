@@ -1,6 +1,35 @@
 {
   "AI": [
     {
+      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
+      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
+      "published_at": "2026-03-20T13:00:00Z",
+      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
+      "tags": [
+        "gemini",
+        "ai",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
+    },
+    {
+      "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
+      "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml",
+      "published_at": "2026-03-19T20:26:57Z",
+      "description": "It's time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...",
+      "tags": [
+        "ai",
+        "devchallenge",
+        "weekendchallenge",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
       "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
       "published_at": "2026-03-20T15:44:30Z",
@@ -29,35 +58,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0oxfssmey5ma0npbmqjm.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
-      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
-      "published_at": "2026-03-20T13:00:00Z",
-      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
-      "tags": [
-        "gemini",
-        "ai",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
-      "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
-      "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml",
-      "published_at": "2026-03-19T20:26:57Z",
-      "description": "It's time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...",
-      "tags": [
-        "ai",
-        "devchallenge",
-        "weekendchallenge",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "My First Experience Creating Antigravity Skills",
@@ -192,6 +192,16 @@
       "user": "BekahHW"
     },
     {
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
+      "source": "Dev.to",
+      "user": "Typing Turtle"
+    },
+    {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
       "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
       "published_at": "2026-03-19T01:45:21Z",
@@ -205,16 +215,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
       "source": "Dev.to",
       "user": "SHIBATA Hiroshi"
-    },
-    {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
     },
     {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
@@ -393,6 +393,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
       "source": "Dev.to",
       "user": "James Zhang"
+    },
+    {
+      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
+      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
+      "published_at": "2026-03-19T18:12:23Z",
+      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
+      "source": "Dev.to",
+      "user": "Kat Kampf"
     },
     {
       "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
@@ -763,19 +778,19 @@
       "user": "J-Pster"
     },
     {
-      "title": "ShunsukeHayashi/agent-skill-bus - The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
-      "url": "https://github.com/ShunsukeHayashi/agent-skill-bus",
-      "published_at": "2026-03-17T23:43:59Z",
-      "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
+      "title": "stevibe/local-llm-video-captioning - GitHub Repository",
+      "url": "https://github.com/stevibe/local-llm-video-captioning",
+      "published_at": "2026-03-17T14:45:17Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
       "source": "GitHub",
       "stars": 85,
-      "user": "ShunsukeHayashi"
+      "user": "stevibe"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -789,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7169,
+      "stars": 7176,
       "user": "aiming-lab"
     },
     {
@@ -804,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 603,
       "user": "sstklen"
     },
     {
@@ -819,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 125,
       "user": "phlx0"
     },
     {
@@ -834,7 +849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "ShawnPana"
     }
   ],
@@ -898,6 +913,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
+      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
+      "published_at": "2026-03-19T18:12:23Z",
+      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "nextjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
+      "source": "Dev.to",
+      "user": "Kat Kampf"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -1089,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14438,
+      "stars": 14461,
       "user": "NVIDIA"
     },
     {
@@ -1138,19 +1168,19 @@
       "user": "umbrellaDocumentation"
     },
     {
-      "title": "ShunsukeHayashi/agent-skill-bus - The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
-      "url": "https://github.com/ShunsukeHayashi/agent-skill-bus",
-      "published_at": "2026-03-17T23:43:59Z",
-      "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
+      "title": "stevibe/local-llm-video-captioning - GitHub Repository",
+      "url": "https://github.com/stevibe/local-llm-video-captioning",
+      "published_at": "2026-03-17T14:45:17Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
       "source": "GitHub",
       "stars": 85,
-      "user": "ShunsukeHayashi"
+      "user": "stevibe"
     }
   ],
   "Python": [
@@ -1346,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7169,
+      "stars": 7176,
       "user": "aiming-lab"
     },
     {
@@ -1361,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2177,
+      "stars": 2197,
       "user": "HKUDS"
     },
     {
@@ -1376,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1257,
+      "stars": 1263,
       "user": "cnlimiter"
     },
     {
@@ -1391,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 603,
       "user": "sstklen"
     },
     {
@@ -1406,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 569,
       "user": "nv-tlabs"
     }
   ],
@@ -1825,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "ShawnPana"
     }
   ],
@@ -2021,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14438,
+      "stars": 14461,
       "user": "NVIDIA"
     },
     {
@@ -2070,19 +2100,19 @@
       "user": "umbrellaDocumentation"
     },
     {
-      "title": "ShunsukeHayashi/agent-skill-bus - The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
-      "url": "https://github.com/ShunsukeHayashi/agent-skill-bus",
-      "published_at": "2026-03-17T23:43:59Z",
-      "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
+      "title": "stevibe/local-llm-video-captioning - GitHub Repository",
+      "url": "https://github.com/stevibe/local-llm-video-captioning",
+      "published_at": "2026-03-17T14:45:17Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
       "source": "GitHub",
       "stars": 85,
-      "user": "ShunsukeHayashi"
+      "user": "stevibe"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -2096,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7169,
+      "stars": 7176,
       "user": "aiming-lab"
     },
     {
@@ -2111,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2177,
+      "stars": 2197,
       "user": "HKUDS"
     },
     {
@@ -2126,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1257,
+      "stars": 1263,
       "user": "cnlimiter"
     },
     {
@@ -2141,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 603,
       "user": "sstklen"
     },
     {
@@ -2156,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 569,
       "user": "nv-tlabs"
     },
     {
@@ -2171,7 +2201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 261,
       "user": "antflydb"
     },
     {
@@ -2186,7 +2216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 125,
       "user": "phlx0"
     },
     {
@@ -2201,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "ShawnPana"
     },
     {
@@ -2231,7 +2261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189537017?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "ASTRA-LabsHQ"
     }
   ]
