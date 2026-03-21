@@ -219,7 +219,7 @@ npm run test
 - [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0) _[Dev.to]_
 - [I Scanned 100 AI Codebases - Here's What I Found](https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 01:21:02 CAT_
+_Last automated update: Sun, 22 Mar 2026 01:46:40 CAT_
 
 
 
@@ -227,7 +227,29 @@ _Last automated update: Sun, 22 Mar 2026 01:21:02 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Python: What is the difference between list and tuple in Python?
+
+**Difficulty**: Easy | **Topics**: data structures, mutability
+
+<details>
+<summary>💡 Hint</summary>
+
+Mutability, performance, use cases
+
+</details>
+
+### 2. Python: Explain GIL and its implications for multithreading
+
+**Difficulty**: Hard | **Topics**: concurrency, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Global Interpreter Lock, multiprocessing alternatives
+
+</details>
+
+### 3. NodeJS: Implement rate limiting for an API
 
 **Difficulty**: Hard | **Topics**: security, middleware
 
@@ -235,28 +257,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Token bucket, sliding window, Redis
-
-</details>
-
-### 2. SystemDesign: Design Twitter's timeline feature
-
-**Difficulty**: Hard | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Fan-out, caching, ranking, real-time updates
-
-</details>
-
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
-
-**Difficulty**: Easy | **Topics**: variables, scope
-
-<details>
-<summary>💡 Hint</summary>
-
-Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Mar 2026 23:21:02 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 23:46:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
