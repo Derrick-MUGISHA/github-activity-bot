@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-21 10:00 CAT)
+## 📅 Latest Updates (2026-03-21 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Should RubyGems/Bundler Have a Cooldown Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp) _[Dev.to]_
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 
-_Last automated update: Sat, 21 Mar 2026 10:58:29 CAT_
+_Last automated update: Sat, 21 Mar 2026 11:37:40 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 21 Mar 2026 10:58:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Heap, stack, garbage collection
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Mar 2026 08:58:29 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 09:37:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
