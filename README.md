@@ -218,7 +218,7 @@ npm run test
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 
-_Last automated update: Sat, 21 Mar 2026 13:29:35 CAT_
+_Last automated update: Sat, 21 Mar 2026 13:48:14 CAT_
 
 
 
@@ -226,18 +226,7 @@ _Last automated update: Sat, 21 Mar 2026 13:29:35 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
-
-**Difficulty**: Medium | **Topics**: functions, scope
-
-<details>
-<summary>💡 Hint</summary>
-
-Function + lexical environment, data privacy, callbacks
-
-</details>
-
-### 2. JavaScript: Explain event delegation and why it's useful
+### 1. JavaScript: Explain event delegation and why it's useful
 
 **Difficulty**: Medium | **Topics**: events, DOM
 
@@ -248,14 +237,25 @@ Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 3. Database: Design a database schema for a social media platform
+
+**Difficulty**: Hard | **Topics**: design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Mar 2026 11:29:35 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 11:48:14 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
