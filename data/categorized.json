@@ -512,21 +512,6 @@
       "user": "Faruk Durgut"
     },
     {
-      "title": "Git Worktrees Are Underrated",
-      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
-      "published_at": "2026-03-16T22:07:48Z",
-      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
-      "tags": [
-        "git",
-        "cli",
-        "productivity",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
-      "source": "Dev.to",
-      "user": "Dennis Morello"
-    },
-    {
       "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
       "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
       "published_at": "2026-03-18T23:20:04Z",
@@ -642,6 +627,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
       "source": "Dev.to",
       "user": "nghiahsgs"
+    },
+    {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -787,7 +787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 463,
       "user": "liliMozi"
     },
     {
@@ -817,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "stevibe"
     },
     {
@@ -832,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7248,
+      "stars": 7260,
       "user": "aiming-lab"
     },
     {
@@ -862,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "phlx0"
     },
     {
@@ -1001,6 +1001,21 @@
       "user": "Christian Segovia"
     },
     {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1132,7 +1147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14588,
+      "stars": 14605,
       "user": "NVIDIA"
     },
     {
@@ -1147,7 +1162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 463,
       "user": "liliMozi"
     },
     {
@@ -1192,7 +1207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "stevibe"
     }
   ],
@@ -1389,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7248,
+      "stars": 7260,
       "user": "aiming-lab"
     },
     {
@@ -1404,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2312,
+      "stars": 2330,
       "user": "HKUDS"
     },
     {
@@ -1449,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 576,
       "user": "nv-tlabs"
     }
   ],
@@ -1993,21 +2008,6 @@
       "user": "Juan David Gómez"
     },
     {
-      "title": "Git Worktrees Are Underrated",
-      "url": "https://dev.to/morellodev/git-worktrees-are-underrated-2k9",
-      "published_at": "2026-03-16T22:07:48Z",
-      "description": "If you've ever stashed half-finished work to review a PR, or lost a train of thought switching...",
-      "tags": [
-        "git",
-        "cli",
-        "productivity",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuo6hnix8ng4kuvaa0tu.jpg",
-      "source": "Dev.to",
-      "user": "Dennis Morello"
-    },
-    {
       "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
       "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
       "published_at": "2026-03-18T23:20:04Z",
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14588,
+      "stars": 14605,
       "user": "NVIDIA"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 463,
       "user": "liliMozi"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268855905?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "stevibe"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7248,
+      "stars": 7260,
       "user": "aiming-lab"
     },
     {
@@ -2139,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2312,
+      "stars": 2330,
       "user": "HKUDS"
     },
     {
@@ -2184,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 576,
       "user": "nv-tlabs"
     },
     {
@@ -2199,7 +2199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "antflydb"
     },
     {
@@ -2214,7 +2214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "phlx0"
     },
     {
