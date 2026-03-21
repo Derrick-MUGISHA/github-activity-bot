@@ -75,21 +75,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "I Scanned 100 AI Codebases - Here's What I Found",
-      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
-      "published_at": "2026-03-19T08:41:48Z",
-      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
-      "source": "Dev.to",
-      "user": "Mykola Kondratiuk"
-    },
-    {
       "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
       "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
       "published_at": "2026-03-19T17:48:19Z",
@@ -261,6 +246,21 @@
       "user": "Kat Cosgrove"
     },
     {
+      "title": "I Scanned 100 AI Codebases - Here's What I Found",
+      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
+      "published_at": "2026-03-19T08:41:48Z",
+      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
+      "tags": [
+        "vibecoding",
+        "ai",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
+      "source": "Dev.to",
+      "user": "Mykola Kondratiuk"
+    },
+    {
       "title": "Confident and Wrong",
       "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
       "published_at": "2026-03-17T20:07:24Z",
@@ -411,6 +411,21 @@
       "user": "Megan Risdal"
     },
     {
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
+      "tags": [
+        "ruby",
+        "security",
+        "supplychainsecurity",
+        "packaging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
+      "source": "Dev.to",
+      "user": "SHIBATA Hiroshi"
+    },
+    {
       "title": "Your Browser Has a Remote Control — And Nobody Told You",
       "url": "https://dev.to/timtech4u/your-browser-has-a-remote-control-and-nobody-told-you-5e97",
       "published_at": "2026-03-19T16:15:50Z",
@@ -424,6 +439,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FTimtech4u%2Fbrowser-remote-control%2Fmain%2Fscreenshots%2Fheader.png",
       "source": "Dev.to",
       "user": "Timothy Olaleke"
+    },
+    {
+      "title": "We've Seen This Movie Before",
+      "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
+      "published_at": "2026-03-19T08:54:35Z",
+      "description": "I've been sitting on this comparison for a while, trying to decide if it was too obvious to write...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
+      "source": "Dev.to",
+      "user": "Wynand Pieters"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -602,6 +631,19 @@
       "user": "ujja"
     },
     {
+      "title": "I built an open-source \"focus group simulator\" that spawns 1,000 AI customers to roast your startup idea",
+      "url": "https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o",
+      "published_at": "2026-03-16T06:29:54Z",
+      "description": "The Problem  Every founder has been there: you spend 3 months building something, launch it, and......",
+      "tags": [
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrkchs1l4uxbq5iqhlaz.png",
+      "source": "Dev.to",
+      "user": "nghiahsgs"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -745,7 +787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 461,
       "user": "liliMozi"
     },
     {
@@ -790,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7230,
+      "stars": 7248,
       "user": "aiming-lab"
     },
     {
@@ -805,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 612,
       "user": "sstklen"
     },
     {
@@ -820,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "phlx0"
     },
     {
@@ -1090,7 +1132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14567,
+      "stars": 14588,
       "user": "NVIDIA"
     },
     {
@@ -1105,7 +1147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 461,
       "user": "liliMozi"
     },
     {
@@ -1347,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7230,
+      "stars": 7248,
       "user": "aiming-lab"
     },
     {
@@ -1362,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2302,
+      "stars": 2312,
       "user": "HKUDS"
     },
     {
@@ -1392,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 612,
       "user": "sstklen"
     },
     {
@@ -1407,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "nv-tlabs"
     }
   ],
@@ -1642,21 +1684,6 @@
       "user": "Dash"
     },
     {
-      "title": "Partitioning PotgreSQL Database",
-      "url": "https://dev.to/bohdanstupak1/partitioning-potgresql-database-26be",
-      "published_at": "2026-03-17T10:02:50Z",
-      "description": "Overview of how using pg_partman and pg_cron allowed to drastically reduce query time for a large table",
-      "tags": [
-        "sql",
-        "postgres",
-        "architecture",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6f00c7xnlqb7wjja40i3.png",
-      "source": "Dev.to",
-      "user": "Bohdan Stupak"
-    },
-    {
       "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
       "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
       "published_at": "2026-03-16T14:42:02Z",
@@ -1700,21 +1727,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "I Scanned 100 AI Codebases - Here's What I Found",
-      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
-      "published_at": "2026-03-19T08:41:48Z",
-      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
-      "source": "Dev.to",
-      "user": "Mykola Kondratiuk"
-    },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
       "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
@@ -1760,6 +1772,21 @@
       "user": "Kat Cosgrove"
     },
     {
+      "title": "I Scanned 100 AI Codebases - Here's What I Found",
+      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
+      "published_at": "2026-03-19T08:41:48Z",
+      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
+      "tags": [
+        "vibecoding",
+        "ai",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
+      "source": "Dev.to",
+      "user": "Mykola Kondratiuk"
+    },
+    {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
       "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
       "published_at": "2026-03-18T14:57:43Z",
@@ -1773,6 +1800,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
       "source": "Dev.to",
       "user": "Michael Bogan"
+    },
+    {
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
+      "tags": [
+        "ruby",
+        "security",
+        "supplychainsecurity",
+        "packaging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
+      "source": "Dev.to",
+      "user": "SHIBATA Hiroshi"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -2007,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14567,
+      "stars": 14588,
       "user": "NVIDIA"
     },
     {
@@ -2022,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 461,
       "user": "liliMozi"
     },
     {
@@ -2082,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7230,
+      "stars": 7248,
       "user": "aiming-lab"
     },
     {
@@ -2097,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2302,
+      "stars": 2312,
       "user": "HKUDS"
     },
     {
@@ -2127,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90471971?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 612,
       "user": "sstklen"
     },
     {
@@ -2142,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "nv-tlabs"
     },
     {
@@ -2172,7 +2214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "phlx0"
     },
     {
