@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
-      "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
-      "published_at": "2026-03-20T15:44:30Z",
-      "description": "Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...",
-      "tags": [
-        "webdev",
-        "ai",
-        "javascript",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
-    {
       "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
       "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml",
       "published_at": "2026-03-19T20:26:57Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
+      "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
+      "published_at": "2026-03-20T15:44:30Z",
+      "description": "Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...",
+      "tags": [
+        "webdev",
+        "ai",
+        "javascript",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
     },
     {
       "title": "My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh",
@@ -804,23 +804,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "J-Pster"
-    },
-    {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 94,
-      "user": "SethGammon"
     },
     {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -834,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7291,
+      "stars": 7295,
       "user": "aiming-lab"
     },
     {
@@ -1149,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14658,
+      "stars": 14672,
       "user": "NVIDIA"
     },
     {
@@ -1179,8 +1164,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "J-Pster"
+    },
+    {
+      "title": "kulikov0/whitelist-bypass - GitHub Repository",
+      "url": "https://github.com/kulikov0/whitelist-bypass",
+      "published_at": "2026-03-19T15:58:14Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "kulikov0"
     },
     {
       "title": "umbrellaDocumentation/Web-Data-Scraper - Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
@@ -1196,21 +1196,6 @@
       "source": "GitHub",
       "stars": 104,
       "user": "umbrellaDocumentation"
-    },
-    {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 94,
-      "user": "SethGammon"
     }
   ],
   "Python": [
@@ -1406,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7291,
+      "stars": 7295,
       "user": "aiming-lab"
     },
     {
@@ -1421,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2376,
+      "stars": 2381,
       "user": "HKUDS"
     },
     {
@@ -1436,8 +1421,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1298,
+      "stars": 1301,
       "user": "cnlimiter"
+    },
+    {
+      "title": "lxf746/any-auto-register - GitHub Repository",
+      "url": "https://github.com/lxf746/any-auto-register",
+      "published_at": "2026-03-18T13:26:05Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
+      "source": "GitHub",
+      "stars": 631,
+      "user": "lxf746"
     },
     {
       "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
@@ -1453,21 +1453,6 @@
       "source": "GitHub",
       "stars": 614,
       "user": "sstklen"
-    },
-    {
-      "title": "lxf746/any-auto-register - GitHub Repository",
-      "url": "https://github.com/lxf746/any-auto-register",
-      "published_at": "2026-03-18T13:26:05Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
-      "source": "GitHub",
-      "stars": 612,
-      "user": "lxf746"
     }
   ],
   "DevOps": [
@@ -2066,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14658,
+      "stars": 14672,
       "user": "NVIDIA"
     },
     {
@@ -2096,8 +2081,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "J-Pster"
+    },
+    {
+      "title": "kulikov0/whitelist-bypass - GitHub Repository",
+      "url": "https://github.com/kulikov0/whitelist-bypass",
+      "published_at": "2026-03-19T15:58:14Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "kulikov0"
     },
     {
       "title": "umbrellaDocumentation/Web-Data-Scraper - Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
@@ -2115,21 +2115,6 @@
       "user": "umbrellaDocumentation"
     },
     {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 94,
-      "user": "SethGammon"
-    },
-    {
       "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "published_at": "2026-03-15T03:38:49Z",
@@ -2141,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7291,
+      "stars": 7295,
       "user": "aiming-lab"
     },
     {
@@ -2156,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2376,
+      "stars": 2381,
       "user": "HKUDS"
     },
     {
@@ -2171,8 +2156,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1298,
+      "stars": 1301,
       "user": "cnlimiter"
+    },
+    {
+      "title": "lxf746/any-auto-register - GitHub Repository",
+      "url": "https://github.com/lxf746/any-auto-register",
+      "published_at": "2026-03-18T13:26:05Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
+      "source": "GitHub",
+      "stars": 631,
+      "user": "lxf746"
     },
     {
       "title": "sstklen/trump-code - 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
@@ -2188,21 +2188,6 @@
       "source": "GitHub",
       "stars": 614,
       "user": "sstklen"
-    },
-    {
-      "title": "lxf746/any-auto-register - GitHub Repository",
-      "url": "https://github.com/lxf746/any-auto-register",
-      "published_at": "2026-03-18T13:26:05Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
-      "source": "GitHub",
-      "stars": 612,
-      "user": "lxf746"
     },
     {
       "title": "antflydb/antfly - GitHub Repository",
