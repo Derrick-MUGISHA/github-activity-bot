@@ -467,21 +467,6 @@
       "user": "marcosomma"
     },
     {
-      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
-      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
-      "published_at": "2026-03-17T06:06:10Z",
-      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
-      "source": "Dev.to",
-      "user": "Juan David Gómez"
-    },
-    {
       "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
       "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
       "published_at": "2026-03-16T14:42:02Z",
@@ -525,6 +510,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
       "source": "Dev.to",
       "user": "Ahmet Zeybek"
+    },
+    {
+      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
+      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
+      "published_at": "2026-03-19T17:02:19Z",
+      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
+      "tags": [
+        "webdev",
+        "vite",
+        "frontend",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
     },
     {
       "title": "neither naive nor nostalgic",
@@ -819,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7359,
+      "stars": 7363,
       "user": "aiming-lab"
     },
     {
@@ -834,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "phlx0"
     },
     {
@@ -926,6 +926,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png",
       "source": "Dev.to",
       "user": "Vadim Ferderer"
+    },
+    {
+      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
+      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
+      "published_at": "2026-03-19T17:02:19Z",
+      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
+      "tags": [
+        "webdev",
+        "vite",
+        "frontend",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
     },
     {
       "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
@@ -1104,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14843,
+      "stars": 14849,
       "user": "NVIDIA"
     },
     {
@@ -1361,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7359,
+      "stars": 7363,
       "user": "aiming-lab"
     },
     {
@@ -1376,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2452,
+      "stars": 2456,
       "user": "HKUDS"
     },
     {
@@ -1391,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1341,
+      "stars": 1342,
       "user": "cnlimiter"
     },
     {
@@ -1406,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 768,
       "user": "lxf746"
     },
     {
@@ -1421,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 751,
       "user": "math-inc"
     }
   ],
@@ -1487,6 +1502,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
+      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
+      "published_at": "2026-03-19T17:02:19Z",
+      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
+      "tags": [
+        "webdev",
+        "vite",
+        "frontend",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
+    },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
@@ -1905,19 +1935,19 @@
       "user": "marcosomma"
     },
     {
-      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
-      "url": "https://dev.to/juandastic/full-circle-giving-my-ais-knowledge-graph-a-notion-interface-using-mcp-2dmp",
-      "published_at": "2026-03-17T06:06:10Z",
-      "description": "This is a submission for the Notion MCP Challenge  When I started building AI tools for my wife, it...",
+      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
+      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
+      "published_at": "2026-03-19T17:02:19Z",
+      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
       "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
+        "webdev",
+        "vite",
+        "frontend",
+        "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxil7ah274tl29nlyeoph.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
       "source": "Dev.to",
-      "user": "Juan David Gómez"
+      "user": "Erik Hanchett"
     },
     {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
@@ -1961,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
       "source": "GitHub",
-      "stars": 14843,
+      "stars": 14849,
       "user": "NVIDIA"
     },
     {
@@ -2036,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
       "source": "GitHub",
-      "stars": 7359,
+      "stars": 7363,
       "user": "aiming-lab"
     },
     {
@@ -2051,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2452,
+      "stars": 2456,
       "user": "HKUDS"
     },
     {
@@ -2066,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
       "source": "GitHub",
-      "stars": 1341,
+      "stars": 1342,
       "user": "cnlimiter"
     },
     {
@@ -2081,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 768,
       "user": "lxf746"
     },
     {
@@ -2096,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 751,
       "user": "math-inc"
     },
     {
@@ -2126,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "phlx0"
     },
     {
