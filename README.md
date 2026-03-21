@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-21 18:00 CAT)
+## 📅 Latest Updates (2026-03-21 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 
-_Last automated update: Sat, 21 Mar 2026 18:30:39 CAT_
+_Last automated update: Sat, 21 Mar 2026 19:00:05 CAT_
 
 
 
@@ -227,18 +227,29 @@ _Last automated update: Sat, 21 Mar 2026 18:30:39 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
+
+</details>
+
+### 3. DataStructures: Implement LRU Cache
 
 **Difficulty**: Hard | **Topics**: design, hash map, linked list
 
@@ -246,17 +257,6 @@ Token bucket, sliding window, Redis
 <summary>💡 Hint</summary>
 
 Doubly linked list + hash map, O(1) operations
-
-</details>
-
-### 3. JavaScript: What is the event loop and how does it work?
-
-**Difficulty**: Hard | **Topics**: async, runtime
-
-<details>
-<summary>💡 Hint</summary>
-
-Call stack, callback queue, microtask queue
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Mar 2026 16:30:39 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 17:00:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
