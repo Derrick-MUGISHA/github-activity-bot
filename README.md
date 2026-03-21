@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-21 15:00 CAT)
+## 📅 Latest Updates (2026-03-21 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 - [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb) _[Dev.to]_
 
-_Last automated update: Sat, 21 Mar 2026 15:30:26 CAT_
+_Last automated update: Sat, 21 Mar 2026 16:02:32 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 21 Mar 2026 15:30:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Mar 2026 13:30:26 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 14:02:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
