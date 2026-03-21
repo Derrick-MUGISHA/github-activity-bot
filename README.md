@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-21-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (57.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 62 (59.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 19 (18.4%)
+**Python**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Security**: 🟦🟦🟦 9 (8.7%)
+**Security**: 🟦🟦🟦 10 (9.5%)
 
-**Database**: 🟦🟦 5 (4.9%)
+**DevOps**: 🟦 4 (3.8%)
 
-**DevOps**: 🟦 4 (3.9%)
+**WebDev**: 🟦 4 (3.8%)
 
-**WebDev**: 🟦 4 (3.9%)
+**Database**: 🟦 4 (3.8%)
 
 **Mobile**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,13 +60,14 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 24.7 (24.7%)
-Java            ██████████████████████████████ 24.7 (24.7%)
-Go              ██████████████████████████ 21.5 (21.5%)
-Python          ████████████████████████ 19.4 (19.4%)
+JavaScript      ██████████████████████████████ 24.5 (24.5%)
+Java            ██████████████████████████████ 24.5 (24.5%)
+Go              ██████████████████████████ 21.3 (21.3%)
+Python          ███████████████████████ 19.1 (19.1%)
 Rust            █████ 4.3 (4.3%)
-Swift           ███ 2.2 (2.2%)
-Kotlin          ███ 2.2 (2.2%)
+Swift           ███ 2.1 (2.1%)
+Kotlin          ███ 2.1 (2.1%)
+Ruby            █ 1.1 (1.1%)
 CSharp          █ 1.1 (1.1%)
 
 ```
@@ -80,14 +81,14 @@ pie title Programming Languages Distribution
     "Rust" : 4
     "Swift" : 2
     "Kotlin" : 2
-    "CSharp" : 1
+    "Ruby" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-31-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-13-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-4-blue) 
+![ai](https://img.shields.io/badge/ai-32-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![security](https://img.shields.io/badge/security-5-blue) 
 
 
 
@@ -127,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-21 13:00 CAT)
+## 📅 Latest Updates (2026-03-21 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -204,7 +205,6 @@ npm run test
 - [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml) _[Dev.to]_
 - [My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh](https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7) _[Dev.to]_
 - [My First Experience Creating Antigravity Skills](https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b) _[Dev.to]_
-- [I Scanned 100 AI Codebases - Here's What I Found](https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be) _[Dev.to]_
 - [What's in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4) _[Dev.to]_
 - [Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps](https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp) _[Dev.to]_
 - [Supercharge your workflow with AI dev tools](https://dev.to/googleai/supercharge-your-workflow-with-ai-dev-tools-199e) _[Dev.to]_
@@ -217,8 +217,9 @@ npm run test
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
+- [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb) _[Dev.to]_
 
-_Last automated update: Sat, 21 Mar 2026 13:48:14 CAT_
+_Last automated update: Sat, 21 Mar 2026 14:40:34 CAT_
 
 
 
@@ -237,25 +238,25 @@ Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Heap, stack, garbage collection
 
 </details>
 
@@ -289,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 21 Mar 2026 11:48:14 GMT</b><br/>
+  <b>Last automated update: Sat, 21 Mar 2026 12:40:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
