@@ -393,6 +393,21 @@
       "user": "Jeffrey Mew"
     },
     {
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
+      "published_at": "2026-03-19T01:45:21Z",
+      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
+      "tags": [
+        "ruby",
+        "security",
+        "supplychainsecurity",
+        "packaging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
+      "source": "Dev.to",
+      "user": "SHIBATA Hiroshi"
+    },
+    {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
       "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
       "published_at": "2026-03-18T16:26:53Z",
@@ -434,21 +449,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62cgxekzv9dt2bcrqdep.png",
       "source": "Dev.to",
       "user": "Megan Risdal"
-    },
-    {
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
-      "published_at": "2026-03-19T01:45:21Z",
-      "description": "I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...",
-      "tags": [
-        "ruby",
-        "security",
-        "supplychainsecurity",
-        "packaging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
-      "source": "Dev.to",
-      "user": "SHIBATA Hiroshi"
     },
     {
       "title": "Your Browser Has a Remote Control — And Nobody Told You",
@@ -581,21 +581,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-      "published_at": "2026-03-12T10:51:33Z",
-      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "typescript",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -611,6 +596,21 @@
       "user": "Sovereign Revenue Guard"
     },
     {
+      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
+      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
+      "published_at": "2026-03-12T10:51:33Z",
+      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "typescript",
+        "webgpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
       "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
       "published_at": "2026-03-12T02:26:38Z",
@@ -624,6 +624,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
       "source": "Dev.to",
       "user": "ujja"
+    },
+    {
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
+      "tags": [
+        "ai",
+        "engineering",
+        "productivity",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
+      "source": "Dev.to",
+      "user": "Denis Bakhoum"
+    },
+    {
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "tags": [
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "source": "Dev.to",
+      "user": "GrahamTheDev"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -784,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "iflytek"
     },
     {
@@ -803,19 +833,19 @@
       "user": "SethGammon"
     },
     {
-      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "url": "https://github.com/wangziqi06/724-office",
-      "published_at": "2026-03-17T05:56:13Z",
-      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "title": "MiniMax-AI/skills - GitHub Repository",
+      "url": "https://github.com/MiniMax-AI/skills",
+      "published_at": "2026-03-17T07:19:25Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 521,
-      "user": "wangziqi06"
+      "stars": 579,
+      "user": "MiniMax-AI"
     },
     {
       "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
@@ -829,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 160,
       "user": "phlx0"
     },
     {
@@ -844,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "ShawnPana"
     }
   ],
@@ -968,21 +998,6 @@
       "user": "Erik Hanchett"
     },
     {
-      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-      "published_at": "2026-03-12T10:51:33Z",
-      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "typescript",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
       "url": "https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872",
       "published_at": "2026-03-13T04:17:57Z",
@@ -996,6 +1011,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
       "source": "Dev.to",
       "user": "Christian Segovia"
+    },
+    {
+      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
+      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
+      "published_at": "2026-03-12T10:51:33Z",
+      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "typescript",
+        "webgpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1159,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "iflytek"
     },
     {
@@ -1223,21 +1253,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
       "source": "Dev.to",
       "user": "James Zhang"
-    },
-    {
-      "title": "Introducing DotNetPy: Python Interop for Modern .NET, Reimagined",
-      "url": "https://dev.to/rkttu/introducing-dotnetpy-python-interop-for-modern-net-reimagined-32gi",
-      "published_at": "2026-03-19T06:58:50Z",
-      "description": "A lightweight, AOT-compatible library that lets you call Python from C# in 4 lines — with declarative uv integration and compile-time security checks.",
-      "tags": [
-        "dotnet",
-        "python",
-        "csharp",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Frkttu%2Fdotnetpy%2Fmain%2Fdotnetpy.png",
-      "source": "Dev.to",
-      "user": "Jung Hyun, Nam"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -1386,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2589,
+      "stars": 2595,
       "user": "HKUDS"
     },
     {
@@ -1401,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 970,
       "user": "math-inc"
     },
     {
@@ -1416,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 926,
       "user": "lxf746"
     },
     {
@@ -1435,19 +1450,19 @@
       "user": "nv-tlabs"
     },
     {
-      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "url": "https://github.com/wangziqi06/724-office",
-      "published_at": "2026-03-17T05:56:13Z",
-      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "title": "MiniMax-AI/skills - GitHub Repository",
+      "url": "https://github.com/MiniMax-AI/skills",
+      "published_at": "2026-03-17T07:19:25Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 521,
-      "user": "wangziqi06"
+      "stars": 579,
+      "user": "MiniMax-AI"
     }
   ],
   "DevOps": [
@@ -1630,21 +1645,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F55gowueiasjansu3w6jy.png",
       "source": "Dev.to",
       "user": "Lecrane"
-    },
-    {
-      "title": "A Deep Dive Into Page Sync",
-      "url": "https://dev.to/arcadianalpaca/a-deep-dive-into-page-sync-d5a",
-      "published_at": "2026-03-19T15:41:04Z",
-      "description": "You photograph a book page and the app finds that spot in the audio. Here's how.",
-      "tags": [
-        "android",
-        "kotlin",
-        "audiobooks",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fph4nacux2fa79ie12ek7.png",
-      "source": "Dev.to",
-      "user": "Andreas"
     }
   ],
   "Cloud": [
@@ -1690,7 +1690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "iflytek"
     }
   ],
@@ -1857,21 +1857,6 @@
       "user": "Chioma Halim"
     },
     {
-      "title": "Introducing DotNetPy: Python Interop for Modern .NET, Reimagined",
-      "url": "https://dev.to/rkttu/introducing-dotnetpy-python-interop-for-modern-net-reimagined-32gi",
-      "published_at": "2026-03-19T06:58:50Z",
-      "description": "A lightweight, AOT-compatible library that lets you call Python from C# in 4 lines — with declarative uv integration and compile-time security checks.",
-      "tags": [
-        "dotnet",
-        "python",
-        "csharp",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Frkttu%2Fdotnetpy%2Fmain%2Fdotnetpy.png",
-      "source": "Dev.to",
-      "user": "Jung Hyun, Nam"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1895,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "ShawnPana"
     }
   ],
@@ -2060,6 +2045,21 @@
       "user": "Richard Oliver Bray"
     },
     {
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
+      "tags": [
+        "ai",
+        "engineering",
+        "productivity",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
+      "source": "Dev.to",
+      "user": "Denis Bakhoum"
+    },
+    {
       "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
       "url": "https://github.com/J-Pster/Psters_AI_Workflow",
       "published_at": "2026-03-16T20:55:01Z",
@@ -2101,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "iflytek"
     },
     {
@@ -2146,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2589,
+      "stars": 2595,
       "user": "HKUDS"
     },
     {
@@ -2161,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 970,
       "user": "math-inc"
     },
     {
@@ -2176,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 926,
       "user": "lxf746"
     },
     {
@@ -2195,34 +2195,19 @@
       "user": "nv-tlabs"
     },
     {
-      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "url": "https://github.com/wangziqi06/724-office",
-      "published_at": "2026-03-17T05:56:13Z",
-      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "title": "MiniMax-AI/skills - GitHub Repository",
+      "url": "https://github.com/MiniMax-AI/skills",
+      "published_at": "2026-03-17T07:19:25Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 521,
-      "user": "wangziqi06"
-    },
-    {
-      "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
-      "url": "https://github.com/phlx0/drift",
-      "published_at": "2026-03-19T19:25:38Z",
-      "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
-      "source": "GitHub",
-      "stars": 158,
-      "user": "phlx0"
+      "stars": 579,
+      "user": "MiniMax-AI"
     },
     {
       "title": "xiaolajiaoyyds/regplatformm - GitHub Repository",
@@ -2236,8 +2221,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 162,
       "user": "xiaolajiaoyyds"
+    },
+    {
+      "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
+      "url": "https://github.com/phlx0/drift",
+      "published_at": "2026-03-19T19:25:38Z",
+      "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
+      "source": "GitHub",
+      "stars": 160,
+      "user": "phlx0"
     },
     {
       "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
@@ -2251,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "ShawnPana"
     },
     {
