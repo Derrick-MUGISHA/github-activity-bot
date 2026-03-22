@@ -16,6 +16,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
+      "published_at": "2026-03-21T21:47:33Z",
+      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
+      "tags": [
+        "ai",
+        "observability",
+        "typescript",
+        "opentelemetry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
+      "source": "Dev.to",
+      "user": "Albert Alov"
+    },
+    {
       "title": "My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh",
       "url": "https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7",
       "published_at": "2026-03-20T15:02:04Z",
@@ -799,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "iflytek"
     },
     {
@@ -829,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "wangziqi06"
     },
     {
@@ -864,6 +879,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
+      "published_at": "2026-03-21T21:47:33Z",
+      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
+      "tags": [
+        "ai",
+        "observability",
+        "typescript",
+        "opentelemetry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
+      "source": "Dev.to",
+      "user": "Albert Alov"
+    },
     {
       "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
       "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
@@ -1159,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "kulikov0"
     },
     {
@@ -1174,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "iflytek"
     },
     {
@@ -1386,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2623,
+      "stars": 2634,
       "user": "HKUDS"
     },
     {
@@ -1401,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 985,
+      "stars": 988,
       "user": "math-inc"
     },
     {
@@ -1416,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 944,
       "user": "lxf746"
     },
     {
@@ -1431,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 595,
       "user": "nv-tlabs"
     },
     {
@@ -1446,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "wangziqi06"
     }
   ],
@@ -1675,7 +1705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "iflytek"
     }
   ],
@@ -1871,6 +1901,21 @@
   ],
   "Tools": [
     {
+      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
+      "published_at": "2026-03-21T21:47:33Z",
+      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
+      "tags": [
+        "ai",
+        "observability",
+        "typescript",
+        "opentelemetry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
+      "source": "Dev.to",
+      "user": "Albert Alov"
+    },
+    {
       "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
       "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
       "published_at": "2026-03-21T22:22:00Z",
@@ -2056,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "kulikov0"
     },
     {
@@ -2071,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "iflytek"
     },
     {
@@ -2116,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2623,
+      "stars": 2634,
       "user": "HKUDS"
     },
     {
@@ -2131,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 985,
+      "stars": 988,
       "user": "math-inc"
     },
     {
@@ -2146,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 944,
       "user": "lxf746"
     },
     {
@@ -2161,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 595,
       "user": "nv-tlabs"
     },
     {
@@ -2176,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "wangziqi06"
     },
     {
@@ -2191,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 178,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2251,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189537017?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "ASTRA-LabsHQ"
     }
   ]
