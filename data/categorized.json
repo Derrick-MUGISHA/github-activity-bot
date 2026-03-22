@@ -378,21 +378,6 @@
       "user": "James Zhang"
     },
     {
-      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
-      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
-      "published_at": "2026-03-17T18:32:57Z",
-      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
-      "tags": [
-        "cloud",
-        "agents",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
-      "source": "Dev.to",
-      "user": "Jeffrey Mew"
-    },
-    {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
       "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
       "published_at": "2026-03-19T01:45:21Z",
@@ -408,6 +393,19 @@
       "user": "SHIBATA Hiroshi"
     },
     {
+      "title": "AI Vocab 101",
+      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
+      "published_at": "2026-03-19T22:25:31Z",
+      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
+    },
+    {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
       "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
       "published_at": "2026-03-18T16:26:53Z",
@@ -421,19 +419,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
       "source": "Dev.to",
       "user": "Dineshraj Anandan"
-    },
-    {
-      "title": "AI Vocab 101",
-      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
-      "published_at": "2026-03-19T22:25:31Z",
-      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
     },
     {
       "title": "Now anyone can host a global AI challenge on Kaggle",
@@ -657,6 +642,21 @@
       "user": "Boehner"
     },
     {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -815,7 +815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "iflytek"
     },
     {
@@ -845,7 +845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 553,
       "user": "wangziqi06"
     },
     {
@@ -860,7 +860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "phlx0"
     },
     {
@@ -875,7 +875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "ShawnPana"
     }
   ],
@@ -1059,6 +1059,21 @@
       "user": "Boehner"
     },
     {
+      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+      "published_at": "2026-03-14T16:44:34Z",
+      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
+      "tags": [
+        "ai",
+        "career",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1205,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 155,
       "user": "kulikov0"
     },
     {
@@ -1220,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "iflytek"
     },
     {
@@ -1432,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2649,
+      "stars": 2662,
       "user": "HKUDS"
     },
     {
@@ -1462,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 951,
       "user": "lxf746"
     },
     {
@@ -1477,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 600,
       "user": "nv-tlabs"
     },
     {
@@ -1492,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 553,
       "user": "wangziqi06"
     }
   ],
@@ -1695,21 +1710,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
-      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
-      "published_at": "2026-03-17T18:32:57Z",
-      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
-      "tags": [
-        "cloud",
-        "agents",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
-      "source": "Dev.to",
-      "user": "Jeffrey Mew"
-    },
-    {
       "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
       "url": "https://github.com/iflytek/astronclaw-tutorial",
       "published_at": "2026-03-19T02:40:44Z",
@@ -1721,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "iflytek"
     }
   ],
@@ -1911,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "ShawnPana"
     }
   ],
@@ -2117,7 +2117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 155,
       "user": "kulikov0"
     },
     {
@@ -2132,7 +2132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "iflytek"
     },
     {
@@ -2177,7 +2177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2649,
+      "stars": 2662,
       "user": "HKUDS"
     },
     {
@@ -2207,7 +2207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 951,
       "user": "lxf746"
     },
     {
@@ -2222,7 +2222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 600,
       "user": "nv-tlabs"
     },
     {
@@ -2237,7 +2237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 553,
       "user": "wangziqi06"
     },
     {
@@ -2252,7 +2252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2267,7 +2267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "phlx0"
     },
     {
@@ -2282,7 +2282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "ShawnPana"
     },
     {
