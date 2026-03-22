@@ -219,7 +219,7 @@ npm run test
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 09:27:01 CAT_
+_Last automated update: Sun, 22 Mar 2026 09:56:31 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 22 Mar 2026 09:27:01 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. React: What is the Virtual DOM and how does React use it?
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Mar 2026 07:27:01 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Mar 2026 07:56:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
