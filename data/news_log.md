@@ -909856,3 +909856,817 @@ TL;DR    Enable the Kitty keyboard protocol in your terminal (WezTerm: add...
 
 ---
 
+
+
+## 📰 DevTech News — 2026-03-22 21:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (61 articles)
+
+#### 1. [OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.](https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f)
+📅 Sat, 21 Mar 2026 21:47:33 GMT
+👤 By: Albert Alov | 📌 Source: Dev.to
+
+![OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png)
+
+Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...
+
+🏷️ Tags: `ai`, `observability`, `typescript`, `opentelemetry`
+
+---
+
+#### 2. [My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh](https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7)
+📅 Fri, 20 Mar 2026 15:02:04 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0oxfssmey5ma0npbmqjm.png)
+
+A post by Ben Halpern
+
+🏷️ Tags: `agents`, `ai`, `algorithms`, `discuss`
+
+---
+
+#### 3. [Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie)
+📅 Fri, 20 Mar 2026 15:44:30 GMT
+👤 By: Paige Bailey | 📌 Source: Dev.to
+
+![Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg)
+
+Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...
+
+🏷️ Tags: `webdev`, `ai`, `javascript`, `programming`
+
+---
+
+#### 4. [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml)
+📅 Thu, 19 Mar 2026 20:26:57 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Congrats to the Winners of Our First DEV Weekend Challenge!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg)
+
+It's time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...
+
+🏷️ Tags: `ai`, `devchallenge`, `weekendchallenge`, `webdev`
+
+---
+
+#### 5. [I Built a Doom Clone in One HTML File](https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603)
+📅 Fri, 20 Mar 2026 23:22:00 GMT
+👤 By: Martin Patino | 📌 Source: Dev.to
+
+![I Built a Doom Clone in One HTML File](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png)
+
+The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...
+
+🏷️ Tags: `javascript`, `gamedev`, `sideprojects`, `html`
+
+---
+
+#### 6. [I Added AI to Any Website With One Line of JavaScript — Here's How](https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc)
+📅 Sat, 21 Mar 2026 12:23:06 GMT
+👤 By: rorie devine | 📌 Source: Dev.to
+
+![I Added AI to Any Website With One Line of JavaScript — Here's How](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png)
+
+How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.
+
+🏷️ Tags: `javascript`, `ai`, `webdev`, `opensource`
+
+---
+
+#### 7. [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm)
+📅 Tue, 17 Mar 2026 17:43:25 GMT
+👤 By: Justin Headley | 📌 Source: Dev.to
+
+![I Built a Claude Code Agent That Doesn't Need Me Anymore](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png)
+
+I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.
+
+🏷️ Tags: `ai`, `opensource`, `claudecode`, `typescript`
+
+---
+
+#### 8. [Designing Content Systems that Understand and Act](https://dev.to/storyblok/designing-content-systems-that-understand-and-act-5fal)
+📅 Sat, 21 Mar 2026 04:16:19 GMT
+👤 By: Siddharth Dayalwal | 📌 Source: Dev.to
+
+![Designing Content Systems that Understand and Act](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f30ixl8xoa55p6xwcf.png)
+
+Modern JavaScript applications don’t just render UI anymore. They orchestrate search,...
+
+🏷️ Tags: `javascript`, `webdev`, `architecture`, `ai`
+
+---
+
+#### 9. [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8)
+📅 Wed, 18 Mar 2026 23:02:35 GMT
+👤 By: Brian Love | 📌 Source: Dev.to
+
+![OpenClaw Setup, Configuration, and Key Takeaways](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png)
+
+How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.
+
+🏷️ Tags: `ai`, `tooling`, `devops`
+
+---
+
+#### 10. [Data governance just became a conversation, not a workflow.](https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998)
+📅 Fri, 20 Mar 2026 14:22:04 GMT
+👤 By: Dash | 📌 Source: Dev.to
+
+![Data governance just became a conversation, not a workflow.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png)
+
+🤔 If you've ever tried to get a full picture of your governance posture, you know the drill -- run...
+
+🏷️ Tags: `ai`, `data`, `database`, `security`
+
+---
+
+### 🏷️ JavaScript (29 articles)
+
+#### 1. [OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.](https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f)
+📅 Sat, 21 Mar 2026 21:47:33 GMT
+👤 By: Albert Alov | 📌 Source: Dev.to
+
+![OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png)
+
+Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...
+
+🏷️ Tags: `ai`, `observability`, `typescript`, `opentelemetry`
+
+---
+
+#### 2. [Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie)
+📅 Fri, 20 Mar 2026 15:44:30 GMT
+👤 By: Paige Bailey | 📌 Source: Dev.to
+
+![Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg)
+
+Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...
+
+🏷️ Tags: `webdev`, `ai`, `javascript`, `programming`
+
+---
+
+#### 3. [I Built a Doom Clone in One HTML File](https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603)
+📅 Fri, 20 Mar 2026 23:22:00 GMT
+👤 By: Martin Patino | 📌 Source: Dev.to
+
+![I Built a Doom Clone in One HTML File](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png)
+
+The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...
+
+🏷️ Tags: `javascript`, `gamedev`, `sideprojects`, `html`
+
+---
+
+#### 4. [I Added AI to Any Website With One Line of JavaScript — Here's How](https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc)
+📅 Sat, 21 Mar 2026 12:23:06 GMT
+👤 By: rorie devine | 📌 Source: Dev.to
+
+![I Added AI to Any Website With One Line of JavaScript — Here's How](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png)
+
+How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.
+
+🏷️ Tags: `javascript`, `ai`, `webdev`, `opensource`
+
+---
+
+#### 5. [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm)
+📅 Tue, 17 Mar 2026 17:43:25 GMT
+👤 By: Justin Headley | 📌 Source: Dev.to
+
+![I Built a Claude Code Agent That Doesn't Need Me Anymore](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png)
+
+I gave my AI agent persistent memory and identity. Four months later, it had a life I knew nothing about.
+
+🏷️ Tags: `ai`, `opensource`, `claudecode`, `typescript`
+
+---
+
+#### 6. [Designing Content Systems that Understand and Act](https://dev.to/storyblok/designing-content-systems-that-understand-and-act-5fal)
+📅 Sat, 21 Mar 2026 04:16:19 GMT
+👤 By: Siddharth Dayalwal | 📌 Source: Dev.to
+
+![Designing Content Systems that Understand and Act](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f30ixl8xoa55p6xwcf.png)
+
+Modern JavaScript applications don’t just render UI anymore. They orchestrate search,...
+
+🏷️ Tags: `javascript`, `webdev`, `architecture`, `ai`
+
+---
+
+#### 7. [Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj)
+📅 Tue, 17 Mar 2026 23:55:52 GMT
+👤 By: Chioma Halim | 📌 Source: Dev.to
+
+![Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png)
+
+Embedding third-party content with an iframe is straightforward until it suddenly stops...
+
+🏷️ Tags: `javascript`, `security`
+
+---
+
+#### 8. [One regex to match them all](https://dev.to/ferderer/one-regex-to-match-them-all-228h)
+📅 Mon, 16 Mar 2026 11:18:24 GMT
+👤 By: Vadim Ferderer | 📌 Source: Dev.to
+
+![One regex to match them all](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png)
+
+Last year I was building a single-page app with SvelteKit. Nothing fancy—a handful of views,...
+
+🏷️ Tags: `webdev`, `javascript`, `typescript`, `opensource`
+
+---
+
+#### 9. [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb)
+📅 Thu, 19 Mar 2026 17:02:19 GMT
+👤 By: Erik Hanchett | 📌 Source: Dev.to
+
+![I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png)
+
+If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....
+
+🏷️ Tags: `webdev`, `vite`, `frontend`, `javascript`
+
+---
+
+#### 10. [We built a video recording API at $0.01/min. Here's the tech that made it possible.](https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872)
+📅 Fri, 13 Mar 2026 04:17:57 GMT
+👤 By: Christian Segovia | 📌 Source: Dev.to
+
+![We built a video recording API at $0.01/min. Here's the tech that made it possible.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg)
+
+Most video recording APIs charge $0.02-0.03 per minute. We built one for $0.01/min — 62% cheaper —...
+
+🏷️ Tags: `webdev`, `javascript`, `saas`, `video`
+
+---
+
+### 🏷️ Python (18 articles)
+
+#### 1. [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c)
+📅 Sat, 21 Mar 2026 22:22:00 GMT
+👤 By: Sahan | 📌 Source: Dev.to
+
+![Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg)
+
+If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...
+
+🏷️ Tags: `github`, `python`, `productivity`, `opensource`
+
+---
+
+#### 2. [Human-in-the-Loop AI Agents with Google ADK and Telegram](https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd)
+📅 Mon, 16 Mar 2026 19:05:58 GMT
+👤 By: James Zhang | 📌 Source: Dev.to
+
+![Human-in-the-Loop AI Agents with Google ADK and Telegram](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png)
+
+How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.
+
+🏷️ Tags: `ai`, `googleadk`, `fastapi`, `telegram`
+
+---
+
+#### 3. [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3)
+📅 Sat, 07 Mar 2026 09:30:17 GMT
+👤 By: Ahmet Zeybek | 📌 Source: Dev.to
+
+![I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png)
+
+I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.
+
+🏷️ Tags: `postgres`, `ai`, `machinelearning`, `tutorial`
+
+---
+
+#### 4. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (4 articles)
+
+#### 1. [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8)
+📅 Wed, 18 Mar 2026 23:02:35 GMT
+👤 By: Brian Love | 📌 Source: Dev.to
+
+![OpenClaw Setup, Configuration, and Key Takeaways](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png)
+
+How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.
+
+🏷️ Tags: `ai`, `tooling`, `devops`
+
+---
+
+#### 2. [When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems](https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02)
+📅 Wed, 18 Mar 2026 14:57:43 GMT
+👤 By: Michael Bogan | 📌 Source: Dev.to
+
+![When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png)
+
+In the world of security and DevOps, AI agents are being pushed from demos into production quickly....
+
+🏷️ Tags: `ai`, `agents`, `logging`, `observability`
+
+---
+
+#### 3. [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0)
+📅 Wed, 18 Mar 2026 14:39:24 GMT
+👤 By: Kat Cosgrove | 📌 Source: Dev.to
+
+![When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png)
+
+Maintaining an open source project is hard. It requires managing a group of people who are largely...
+
+🏷️ Tags: `opensource`, `security`, `kubernetes`, `devops`
+
+---
+
+#### 4. [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl)
+📅 Thu, 05 Mar 2026 20:29:52 GMT
+👤 By: Sovereign Revenue Guard | 📌 Source: Dev.to
+
+![The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png)
+
+The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...
+
+🏷️ Tags: `observability`, `webdev`, `monitoring`, `devops`
+
+---
+
+### 🏷️ WebDev (6 articles)
+
+#### 1. [I Built a Doom Clone in One HTML File](https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603)
+📅 Fri, 20 Mar 2026 23:22:00 GMT
+👤 By: Martin Patino | 📌 Source: Dev.to
+
+![I Built a Doom Clone in One HTML File](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png)
+
+The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...
+
+🏷️ Tags: `javascript`, `gamedev`, `sideprojects`, `html`
+
+---
+
+#### 2. [I Added AI to Any Website With One Line of JavaScript — Here's How](https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc)
+📅 Sat, 21 Mar 2026 12:23:06 GMT
+👤 By: rorie devine | 📌 Source: Dev.to
+
+![I Added AI to Any Website With One Line of JavaScript — Here's How](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png)
+
+How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.
+
+🏷️ Tags: `javascript`, `ai`, `webdev`, `opensource`
+
+---
+
+#### 3. [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb)
+📅 Thu, 19 Mar 2026 17:02:19 GMT
+👤 By: Erik Hanchett | 📌 Source: Dev.to
+
+![I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png)
+
+If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....
+
+🏷️ Tags: `webdev`, `vite`, `frontend`, `javascript`
+
+---
+
+#### 4. [The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl)
+📅 Thu, 05 Mar 2026 20:29:52 GMT
+👤 By: Sovereign Revenue Guard | 📌 Source: Dev.to
+
+![The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png)
+
+The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...
+
+🏷️ Tags: `observability`, `webdev`, `monitoring`, `devops`
+
+---
+
+#### 5. [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828)
+📅 Fri, 06 Mar 2026 16:10:33 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png)
+
+We’re excited to announce the launch of the 2026 WeCoded Challenge!  This year marks our ninth year...
+
+🏷️ Tags: `devchallenge`, `wecoded`, `frontend`, `career`
+
+---
+
+#### 6. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (2 articles)
+
+#### 1. [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o)
+📅 Tue, 17 Mar 2026 20:07:24 GMT
+👤 By: Max | 📌 Source: Dev.to
+
+![Confident and Wrong](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png)
+
+For a long time, I have been seeing AI in coding as something that enables me, amplifies my...
+
+🏷️ Tags: `ai`, `swift`, `programming`, `learning`
+
+---
+
+#### 2. [TrackFlow: A Kotlin Multiplatform Analytics Router for Android and iOS](https://dev.to/2_cranes/trackflow-a-kotlin-multiplatform-analytics-router-for-android-and-ios-2n6p)
+📅 Wed, 18 Mar 2026 18:19:10 GMT
+👤 By: Lecrane | 📌 Source: Dev.to
+
+![TrackFlow: A Kotlin Multiplatform Analytics Router for Android and iOS](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F55gowueiasjansu3w6jy.png)
+
+Analytics is one of those things every app needs, but very few teams enjoy implementing.  A typical...
+
+🏷️ Tags: `kotlin`, `android`, `ios`, `analytics`
+
+---
+
+### 🏷️ Cloud (2 articles)
+
+#### 1. [My First Experience Creating Antigravity Skills](https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b)
+📅 Fri, 20 Mar 2026 15:23:02 GMT
+👤 By: Shir Meir Lador | 📌 Source: Dev.to
+
+![My First Experience Creating Antigravity Skills](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png)
+
+Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...
+
+🏷️ Tags: `antigravity`, `ai`, `googlecloud`, `agents`
+
+---
+
+#### 2. [iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)](https://github.com/iflytek/astronclaw-tutorial)
+📅 Thu, 19 Mar 2026 02:40:44 GMT
+👤 By: iflytek | 📌 Source: GitHub
+
+![iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)](https://avatars.githubusercontent.com/u/26786495?v=4)
+
+从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 149
+
+---
+
+### 🏷️ Database (4 articles)
+
+#### 1. [Data governance just became a conversation, not a workflow.](https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998)
+📅 Fri, 20 Mar 2026 14:22:04 GMT
+👤 By: Dash | 📌 Source: Dev.to
+
+![Data governance just became a conversation, not a workflow.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png)
+
+🤔 If you've ever tried to get a full picture of your governance posture, you know the drill -- run...
+
+🏷️ Tags: `ai`, `data`, `database`, `security`
+
+---
+
+#### 2. [I built a PostgreSQL client in Rust because DBeaver was eating my RAM](https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1)
+📅 Mon, 16 Mar 2026 14:42:02 GMT
+👤 By: Faruk Durgut | 📌 Source: Dev.to
+
+![I built a PostgreSQL client in Rust because DBeaver was eating my RAM](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png)
+
+My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...
+
+🏷️ Tags: `rust`, `postgres`, `opensource`, `showdev`
+
+---
+
+#### 3. [I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3)
+📅 Sat, 07 Mar 2026 09:30:17 GMT
+👤 By: Ahmet Zeybek | 📌 Source: Dev.to
+
+![I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png)
+
+I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.
+
+🏷️ Tags: `postgres`, `ai`, `machinelearning`, `tutorial`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (9 articles)
+
+#### 1. [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8)
+📅 Wed, 18 Mar 2026 23:02:35 GMT
+👤 By: Brian Love | 📌 Source: Dev.to
+
+![OpenClaw Setup, Configuration, and Key Takeaways](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png)
+
+How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.
+
+🏷️ Tags: `ai`, `tooling`, `devops`
+
+---
+
+#### 2. [Data governance just became a conversation, not a workflow.](https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998)
+📅 Fri, 20 Mar 2026 14:22:04 GMT
+👤 By: Dash | 📌 Source: Dev.to
+
+![Data governance just became a conversation, not a workflow.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png)
+
+🤔 If you've ever tried to get a full picture of your governance posture, you know the drill -- run...
+
+🏷️ Tags: `ai`, `data`, `database`, `security`
+
+---
+
+#### 3. [I Scanned 100 AI Codebases - Here's What I Found](https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be)
+📅 Thu, 19 Mar 2026 08:41:48 GMT
+👤 By: Mykola Kondratiuk | 📌 Source: Dev.to
+
+![I Scanned 100 AI Codebases - Here's What I Found](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png)
+
+I've been building VibeCheck for the past few months - it's a security scanner specifically for...
+
+🏷️ Tags: `vibecoding`, `ai`, `security`, `webdev`
+
+---
+
+#### 4. [When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems](https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02)
+📅 Wed, 18 Mar 2026 14:57:43 GMT
+👤 By: Michael Bogan | 📌 Source: Dev.to
+
+![When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png)
+
+In the world of security and DevOps, AI agents are being pushed from demos into production quickly....
+
+🏷️ Tags: `ai`, `agents`, `logging`, `observability`
+
+---
+
+#### 5. [Should RubyGems/Bundler Have a Cooldown Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp)
+📅 Thu, 19 Mar 2026 01:45:21 GMT
+👤 By: SHIBATA Hiroshi | 📌 Source: Dev.to
+
+![Should RubyGems/Bundler Have a Cooldown Feature?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png)
+
+I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...
+
+🏷️ Tags: `ruby`, `security`, `supplychainsecurity`, `packaging`
+
+---
+
+#### 6. [Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj)
+📅 Tue, 17 Mar 2026 23:55:52 GMT
+👤 By: Chioma Halim | 📌 Source: Dev.to
+
+![Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png)
+
+Embedding third-party content with an iframe is straightforward until it suddenly stops...
+
+🏷️ Tags: `javascript`, `security`
+
+---
+
+#### 7. [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0)
+📅 Wed, 18 Mar 2026 14:39:24 GMT
+👤 By: Kat Cosgrove | 📌 Source: Dev.to
+
+![When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png)
+
+Maintaining an open source project is hard. It requires managing a group of people who are largely...
+
+🏷️ Tags: `opensource`, `security`, `kubernetes`, `devops`
+
+---
+
+#### 8. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 9. [ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection.](https://github.com/ShawnPana/aurl)
+📅 Thu, 19 Mar 2026 03:03:33 GMT
+👤 By: ShawnPana | 📌 Source: GitHub
+
+![ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection.](https://avatars.githubusercontent.com/u/129362299?v=4)
+
+A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection.
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 141
+
+---
+
+### 🏷️ Tools (27 articles)
+
+#### 1. [OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.](https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f)
+📅 Sat, 21 Mar 2026 21:47:33 GMT
+👤 By: Albert Alov | 📌 Source: Dev.to
+
+![OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png)
+
+Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...
+
+🏷️ Tags: `ai`, `observability`, `typescript`, `opentelemetry`
+
+---
+
+#### 2. [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c)
+📅 Sat, 21 Mar 2026 22:22:00 GMT
+👤 By: Sahan | 📌 Source: Dev.to
+
+![Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg)
+
+If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...
+
+🏷️ Tags: `github`, `python`, `productivity`, `opensource`
+
+---
+
+#### 3. [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8)
+📅 Wed, 18 Mar 2026 23:02:35 GMT
+👤 By: Brian Love | 📌 Source: Dev.to
+
+![OpenClaw Setup, Configuration, and Key Takeaways](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png)
+
+How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.
+
+🏷️ Tags: `ai`, `tooling`, `devops`
+
+---
+
+#### 4. [Anki On My Wrist](https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6)
+📅 Wed, 18 Mar 2026 23:28:43 GMT
+👤 By: Matheus Kunzler Maldaner | 📌 Source: Dev.to
+
+![Anki On My Wrist](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1o9o2xil63duy95ms6yh.png)
+
+I've long been interested in "learning how to learn" and have long been annoyed by how I have grown...
+
+🏷️ Tags: `learning`, `productivity`, `showdev`, `ai`
+
+---
+
+#### 5. [I Built a CLI Tool That Writes My Commit Messages](https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf)
+📅 Fri, 20 Mar 2026 19:12:28 GMT
+👤 By: Lucas Neves Pereira | 📌 Source: Dev.to
+
+![I Built a CLI Tool That Writes My Commit Messages](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png)
+
+Hello guys! We've all been there. You just finished a feature, you're ready to commit, and then you...
+
+🏷️ Tags: `git`, `ai`, `cli`, `productivity`
+
+---
+
+#### 6. [I Asked AI "Why Do I Exist?" — Here's What Happened](https://dev.to/razbakov/i-asked-ai-why-do-i-exist-heres-what-happened-355a)
+📅 Fri, 20 Mar 2026 20:52:01 GMT
+👤 By: Aleksey Razbakov | 📌 Source: Dev.to
+
+![I Asked AI "Why Do I Exist?" — Here's What Happened](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtageosa0szoqtqedh63.png)
+
+How a two-hour conversation with AI became my life operating system — from finding my ikigai to testing a business hypothesis at a dance festival.
+
+---
+
+#### 7. [🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro](https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f)
+📅 Wed, 18 Mar 2026 16:26:53 GMT
+👤 By: Dineshraj Anandan | 📌 Source: Dev.to
+
+![🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg)
+
+You wouldn't leave your car engine running while you grab groceries. So why are you burning...
+
+🏷️ Tags: `ai`, `cursor`, `programming`, `webdev`
+
+---
+
+#### 8. [Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase](https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe)
+📅 Wed, 18 Mar 2026 23:20:04 GMT
+👤 By: marcosomma | 📌 Source: Dev.to
+
+![Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqar2915bxlb707a51qvl.png)
+
+People usually talk about intelligence as if it starts with language, tools, or raw brainpower. I do...
+
+🏷️ Tags: `ai`, `discuss`, `machinelearning`, `science`
+
+---
+
+#### 9. [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb)
+📅 Thu, 19 Mar 2026 17:02:19 GMT
+👤 By: Erik Hanchett | 📌 Source: Dev.to
+
+![I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png)
+
+If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....
+
+🏷️ Tags: `webdev`, `vite`, `frontend`, `javascript`
+
+---
+
+#### 10. [Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7)
+📅 Fri, 06 Mar 2026 16:03:22 GMT
+👤 By: Richard Oliver Bray | 📌 Source: Dev.to
+
+![Why Shift+Enter doesn't work in Claude Code (and how to fix it)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvor2ooqmwkv6vkstlqex.png)
+
+TL;DR    Enable the Kitty keyboard protocol in your terminal (WezTerm: add...
+
+🏷️ Tags: `claudecode`, `terminal`, `wezterm`, `productivity`
+
+---
+
