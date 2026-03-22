@@ -308,21 +308,6 @@
       "user": "Matheus Kunzler Maldaner"
     },
     {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
-    },
-    {
       "title": "How to Stop Babysitting Your AI Agents",
       "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
       "published_at": "2026-03-18T13:50:00Z",
@@ -336,6 +321,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
       "source": "Dev.to",
       "user": "J. R. Swab"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
@@ -552,20 +552,6 @@
       "user": "Erik Hanchett"
     },
     {
-      "title": "neither naive nor nostalgic",
-      "url": "https://dev.to/ingosteinke/neither-naive-nor-nostalgic-1mmp",
-      "published_at": "2026-03-16T09:43:35Z",
-      "description": "Do we have to choose between becoming nostalgic or going all in embracing new technology? Some think...",
-      "tags": [
-        "watercooler",
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femsvoeoojbsibhdsqmli.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
       "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
       "published_at": "2026-03-18T14:39:24Z",
@@ -654,6 +640,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
       "source": "Dev.to",
       "user": "GrahamTheDev"
+    },
+    {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -814,7 +815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 135,
       "user": "iflytek"
     },
     {
@@ -829,7 +830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "SethGammon"
     },
     {
@@ -844,7 +845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 546,
       "user": "wangziqi06"
     },
     {
@@ -1043,6 +1044,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "How I give my AI agents eyes with a single API call",
+      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
+      "published_at": "2026-03-16T22:23:05Z",
+      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
+      "tags": [
+        "ai",
+        "webdev",
+        "automation",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
+      "source": "Dev.to",
+      "user": "Boehner"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1189,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "kulikov0"
     },
     {
@@ -1204,8 +1220,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 135,
       "user": "iflytek"
+    },
+    {
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "SethGammon"
     },
     {
       "title": "umbrellaDocumentation/Web-Data-Scraper - Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
@@ -1221,21 +1252,6 @@
       "source": "GitHub",
       "stars": 123,
       "user": "umbrellaDocumentation"
-    },
-    {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 123,
-      "user": "SethGammon"
     }
   ],
   "Python": [
@@ -1416,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2634,
+      "stars": 2649,
       "user": "HKUDS"
     },
     {
@@ -1446,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 947,
       "user": "lxf746"
     },
     {
@@ -1461,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 597,
       "user": "nv-tlabs"
     },
     {
@@ -1476,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 546,
       "user": "wangziqi06"
     }
   ],
@@ -1705,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 135,
       "user": "iflytek"
     }
   ],
@@ -2101,7 +2117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "kulikov0"
     },
     {
@@ -2116,8 +2132,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 135,
       "user": "iflytek"
+    },
+    {
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "SethGammon"
     },
     {
       "title": "umbrellaDocumentation/Web-Data-Scraper - Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
@@ -2135,21 +2166,6 @@
       "user": "umbrellaDocumentation"
     },
     {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 123,
-      "user": "SethGammon"
-    },
-    {
       "title": "HKUDS/ClawTeam - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
       "url": "https://github.com/HKUDS/ClawTeam",
       "published_at": "2026-03-17T14:42:46Z",
@@ -2161,7 +2177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2634,
+      "stars": 2649,
       "user": "HKUDS"
     },
     {
@@ -2191,7 +2207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 947,
       "user": "lxf746"
     },
     {
@@ -2206,7 +2222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 597,
       "user": "nv-tlabs"
     },
     {
@@ -2221,7 +2237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 546,
       "user": "wangziqi06"
     },
     {
@@ -2236,7 +2252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "xiaolajiaoyyds"
     },
     {
