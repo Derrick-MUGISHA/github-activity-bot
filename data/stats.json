@@ -29,8 +29,8 @@
   },
   "by_date": {
     "2026-03-20": 12,
-    "2026-03-19": 13,
     "2026-03-21": 5,
+    "2026-03-19": 13,
     "2026-03-17": 9,
     "2026-03-18": 10,
     "2026-03-16": 12,
@@ -89,9 +89,9 @@
     "security": 5,
     "typescript": 4,
     "career": 4,
-    "devchallenge": 3,
     "observability": 3,
-    "agents": 3
+    "agents": 3,
+    "devchallenge": 3
   },
   "trending_topics": [],
   "language_percentages": {

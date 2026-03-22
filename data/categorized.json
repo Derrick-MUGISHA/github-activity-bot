@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
-      "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml",
-      "published_at": "2026-03-19T20:26:57Z",
-      "description": "It's time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...",
-      "tags": [
-        "ai",
-        "devchallenge",
-        "weekendchallenge",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
       "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
       "published_at": "2026-03-21T21:47:33Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
       "source": "Dev.to",
       "user": "Paige Bailey"
+    },
+    {
+      "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
+      "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml",
+      "published_at": "2026-03-19T20:26:57Z",
+      "description": "It's time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...",
+      "tags": [
+        "ai",
+        "devchallenge",
+        "weekendchallenge",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "I Built a Doom Clone in One HTML File",
@@ -815,7 +815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "iflytek"
     },
     {
@@ -845,7 +845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 578,
       "user": "wangziqi06"
     },
     {
@@ -1220,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "kulikov0"
     },
     {
@@ -1235,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "iflytek"
     },
     {
@@ -1265,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 122,
       "user": "umbrellaDocumentation"
     }
   ],
@@ -1447,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2696,
+      "stars": 2708,
       "user": "HKUDS"
     },
     {
@@ -1462,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1002,
       "user": "math-inc"
     },
     {
@@ -1477,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 966,
       "user": "lxf746"
     },
     {
@@ -1492,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 603,
       "user": "nv-tlabs"
     },
     {
@@ -1507,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 578,
       "user": "wangziqi06"
     }
   ],
@@ -1721,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "iflytek"
     }
   ],
@@ -2117,7 +2117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "kulikov0"
     },
     {
@@ -2132,7 +2132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "iflytek"
     },
     {
@@ -2162,7 +2162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 122,
       "user": "umbrellaDocumentation"
     },
     {
@@ -2177,7 +2177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2696,
+      "stars": 2708,
       "user": "HKUDS"
     },
     {
@@ -2192,7 +2192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1002,
       "user": "math-inc"
     },
     {
@@ -2207,7 +2207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 966,
       "user": "lxf746"
     },
     {
@@ -2222,7 +2222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 603,
       "user": "nv-tlabs"
     },
     {
@@ -2237,7 +2237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 578,
       "user": "wangziqi06"
     },
     {
