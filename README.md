@@ -218,7 +218,7 @@ npm run test
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 
-_Last automated update: Mon, 23 Mar 2026 00:21:35 CAT_
+_Last automated update: Mon, 23 Mar 2026 00:51:08 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 23 Mar 2026 00:21:35 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Heap, stack, garbage collection
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Mar 2026 22:21:35 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Mar 2026 22:51:08 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
