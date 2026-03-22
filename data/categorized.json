@@ -90,21 +90,6 @@
       "user": "rorie devine"
     },
     {
-      "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
-      "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
-      "published_at": "2026-03-19T17:48:19Z",
-      "description": "You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "gemini",
-        "promptengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png",
-      "source": "Dev.to",
-      "user": "Guillaume Vernade"
-    },
-    {
       "title": "I Built a Doom Clone in One HTML File",
       "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
       "published_at": "2026-03-20T23:22:00Z",
@@ -177,19 +162,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png",
       "source": "Dev.to",
       "user": "Dash"
-    },
-    {
-      "title": "AI Vocab 101",
-      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
-      "published_at": "2026-03-19T22:25:31Z",
-      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -306,6 +278,21 @@
       "user": "Amjad Abujamous"
     },
     {
+      "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
+      "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
+      "published_at": "2026-03-19T17:48:19Z",
+      "description": "You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...",
+      "tags": [
+        "ai",
+        "vibecoding",
+        "gemini",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png",
+      "source": "Dev.to",
+      "user": "Guillaume Vernade"
+    },
+    {
       "title": "Anki On My Wrist",
       "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
       "published_at": "2026-03-18T23:28:43Z",
@@ -364,6 +351,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png",
       "source": "Dev.to",
       "user": "Lucas Neves Pereira"
+    },
+    {
+      "title": "I Asked AI \"Why Do I Exist?\" — Here's What Happened",
+      "url": "https://dev.to/razbakov/i-asked-ai-why-do-i-exist-heres-what-happened-355a",
+      "published_at": "2026-03-20T20:52:01Z",
+      "description": "How a two-hour conversation with AI became my life operating system — from finding my ikigai to testing a business hypothesis at a dance festival.",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtageosa0szoqtqedh63.png",
+      "source": "Dev.to",
+      "user": "Aleksey Razbakov"
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -789,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "J-Pster"
     },
     {
@@ -804,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 120,
       "user": "SethGammon"
     },
     {
@@ -819,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 116,
       "user": "iflytek"
     },
     {
@@ -834,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 155,
       "user": "phlx0"
     },
     {
@@ -849,7 +846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 135,
       "user": "ShawnPana"
     },
     {
@@ -1164,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "J-Pster"
     },
     {
@@ -1179,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "kulikov0"
     },
     {
@@ -1194,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 120,
       "user": "SethGammon"
     },
     {
@@ -1209,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 116,
       "user": "iflytek"
     },
     {
@@ -1224,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 112,
       "user": "umbrellaDocumentation"
     }
   ],
@@ -1421,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2490,
+      "stars": 2522,
       "user": "HKUDS"
     },
     {
@@ -1436,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 835,
       "user": "lxf746"
     },
     {
@@ -1451,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 834,
       "user": "math-inc"
     },
     {
@@ -1466,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 586,
       "user": "nv-tlabs"
     },
     {
@@ -1481,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "inspatio"
     }
   ],
@@ -1710,7 +1707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 116,
       "user": "iflytek"
     }
   ],
@@ -1915,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 135,
       "user": "ShawnPana"
     }
   ],
@@ -1993,6 +1990,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png",
       "source": "Dev.to",
       "user": "Lucas Neves Pereira"
+    },
+    {
+      "title": "I Asked AI \"Why Do I Exist?\" — Here's What Happened",
+      "url": "https://dev.to/razbakov/i-asked-ai-why-do-i-exist-heres-what-happened-355a",
+      "published_at": "2026-03-20T20:52:01Z",
+      "description": "How a two-hour conversation with AI became my life operating system — from finding my ikigai to testing a business hypothesis at a dance festival.",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtageosa0szoqtqedh63.png",
+      "source": "Dev.to",
+      "user": "Aleksey Razbakov"
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -2096,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "J-Pster"
     },
     {
@@ -2111,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "kulikov0"
     },
     {
@@ -2126,7 +2133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 120,
       "user": "SethGammon"
     },
     {
@@ -2141,7 +2148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 116,
       "user": "iflytek"
     },
     {
@@ -2156,7 +2163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 112,
       "user": "umbrellaDocumentation"
     },
     {
@@ -2171,7 +2178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2490,
+      "stars": 2522,
       "user": "HKUDS"
     },
     {
@@ -2186,7 +2193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 835,
       "user": "lxf746"
     },
     {
@@ -2201,7 +2208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 834,
       "user": "math-inc"
     },
     {
@@ -2216,7 +2223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 586,
       "user": "nv-tlabs"
     },
     {
@@ -2231,7 +2238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "inspatio"
     },
     {
@@ -2246,7 +2253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 155,
       "user": "phlx0"
     },
     {
@@ -2261,7 +2268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 135,
       "user": "ShawnPana"
     },
     {
@@ -2291,7 +2298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189537017?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "ASTRA-LabsHQ"
     },
     {
