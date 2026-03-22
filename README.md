@@ -30,7 +30,7 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 62 (59.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
@@ -44,9 +44,9 @@
 
 **Database**: 🟦 4 (3.8%)
 
-**Cloud**: 🟦 3 (2.9%)
-
 **Mobile**: 🟦 2 (1.9%)
+
+**Cloud**: 🟦 2 (1.9%)
 
 
 
@@ -60,34 +60,34 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.0 (29.0%)
-Java            █████████████████████████████ 28.0 (28.0%)
-Go              ███████████████████ 18.3 (18.3%)
-Python          ███████████████████ 18.3 (18.3%)
-Swift           ██ 2.2 (2.2%)
-Rust            ██ 2.2 (2.2%)
-Kotlin          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 29.8 (29.8%)
+Java            █████████████████████████████ 28.7 (28.7%)
+Python          ██████████████████ 18.1 (18.1%)
+Go              █████████████████ 17.0 (17.0%)
+Swift           ██ 2.1 (2.1%)
+Rust            ██ 2.1 (2.1%)
 Ruby            █ 1.1 (1.1%)
+Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 27
-    "Java" : 26
-    "Go" : 17
+    "JavaScript" : 28
+    "Java" : 27
     "Python" : 17
+    "Go" : 16
     "Swift" : 2
     "Rust" : 2
-    "Kotlin" : 1
     "Ruby" : 1
+    "Kotlin" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-33-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-16-blue) ![javascript](https://img.shields.io/badge/javascript-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![security](https://img.shields.io/badge/security-5-blue) 
+![ai](https://img.shields.io/badge/ai-33-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![javascript](https://img.shields.io/badge/javascript-16-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![security](https://img.shields.io/badge/security-5-blue) 
 
 
 
@@ -218,7 +218,7 @@ npm run test
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 16:04:07 CAT_
+_Last automated update: Sun, 22 Mar 2026 16:45:35 CAT_
 
 
 
@@ -226,18 +226,7 @@ _Last automated update: Sun, 22 Mar 2026 16:04:07 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
-
-**Difficulty**: Easy | **Topics**: variables, scope
-
-<details>
-<summary>💡 Hint</summary>
-
-Scope, hoisting, and reassignment capabilities
-
-</details>
-
-### 2. Java: What is the difference between abstract class and interface?
+### 1. Java: What is the difference between abstract class and interface?
 
 **Difficulty**: Easy | **Topics**: OOP, design
 
@@ -248,14 +237,25 @@ Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+try/catch, .catch(), error middleware
+
+</details>
+
+### 3. DataStructures: Implement a function to reverse a linked list
+
+**Difficulty**: Medium | **Topics**: linked lists, pointers
+
+<details>
+<summary>💡 Hint</summary>
+
+Iterative or recursive, three pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Mar 2026 14:04:07 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Mar 2026 14:45:35 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
