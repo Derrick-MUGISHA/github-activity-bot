@@ -75,6 +75,21 @@
       "user": "Greg Baugues"
     },
     {
+      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
+      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
+      "published_at": "2026-03-21T12:23:06Z",
+      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
+      "tags": [
+        "javascript",
+        "ai",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
+      "source": "Dev.to",
+      "user": "rorie devine"
+    },
+    {
       "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
       "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
       "published_at": "2026-03-19T17:48:19Z",
@@ -90,6 +105,21 @@
       "user": "Guillaume Vernade"
     },
     {
+      "title": "I Built a Doom Clone in One HTML File",
+      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
+      "published_at": "2026-03-20T23:22:00Z",
+      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
+      "tags": [
+        "javascript",
+        "gamedev",
+        "sideprojects",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
+      "source": "Dev.to",
+      "user": "Martin Patino"
+    },
+    {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
       "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
       "published_at": "2026-03-17T17:43:25Z",
@@ -103,6 +133,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
       "source": "Dev.to",
       "user": "Justin Headley"
+    },
+    {
+      "title": "Designing Content Systems that Understand and Act",
+      "url": "https://dev.to/storyblok/designing-content-systems-that-understand-and-act-5fal",
+      "published_at": "2026-03-21T04:16:19Z",
+      "description": "Modern JavaScript applications don’t just render UI anymore. They orchestrate search,...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "architecture",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f30ixl8xoa55p6xwcf.png",
+      "source": "Dev.to",
+      "user": "Siddharth Dayalwal"
     },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
@@ -306,49 +351,19 @@
       "user": "Michael Bogan"
     },
     {
-      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
-      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
-      "published_at": "2026-03-16T19:05:58Z",
-      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "title": "I Built a CLI Tool That Writes My Commit Messages",
+      "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
+      "published_at": "2026-03-20T19:12:28Z",
+      "description": "Hello guys! We've all been there. You just finished a feature, you're ready to commit, and then you...",
       "tags": [
+        "git",
         "ai",
-        "googleadk",
-        "fastapi",
-        "telegram"
+        "cli",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png",
       "source": "Dev.to",
-      "user": "James Zhang"
-    },
-    {
-      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
-      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
-      "published_at": "2026-03-19T18:12:23Z",
-      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
-      "source": "Dev.to",
-      "user": "Kat Kampf"
-    },
-    {
-      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
-      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
-      "published_at": "2026-03-17T18:32:57Z",
-      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
-      "tags": [
-        "cloud",
-        "agents",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
-      "source": "Dev.to",
-      "user": "Jeffrey Mew"
+      "user": "Lucas Neves Pereira"
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -763,21 +778,6 @@
       "user": "veesahni"
     },
     {
-      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "url": "https://github.com/liliMozi/openhanako",
-      "published_at": "2026-03-15T07:01:45Z",
-      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
-      "source": "GitHub",
-      "stars": 467,
-      "user": "liliMozi"
-    },
-    {
       "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
       "url": "https://github.com/J-Pster/Psters_AI_Workflow",
       "published_at": "2026-03-16T20:55:01Z",
@@ -804,23 +804,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "SethGammon"
     },
     {
-      "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "published_at": "2026-03-15T03:38:49Z",
-      "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+      "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
+      "url": "https://github.com/iflytek/astronclaw-tutorial",
+      "published_at": "2026-03-19T02:40:44Z",
+      "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 7365,
-      "user": "aiming-lab"
+      "stars": 111,
+      "user": "iflytek"
     },
     {
       "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
@@ -834,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "phlx0"
     },
     {
@@ -849,8 +849,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "ShawnPana"
+    },
+    {
+      "title": "phronesis-io/eigenflux - EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
+      "url": "https://github.com/phronesis-io/eigenflux",
+      "published_at": "2026-03-17T13:37:00Z",
+      "description": "EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268868355?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "phronesis-io"
     }
   ],
   "JavaScript": [
@@ -870,6 +885,36 @@
       "user": "Paige Bailey"
     },
     {
+      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
+      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
+      "published_at": "2026-03-21T12:23:06Z",
+      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
+      "tags": [
+        "javascript",
+        "ai",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
+      "source": "Dev.to",
+      "user": "rorie devine"
+    },
+    {
+      "title": "I Built a Doom Clone in One HTML File",
+      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
+      "published_at": "2026-03-20T23:22:00Z",
+      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
+      "tags": [
+        "javascript",
+        "gamedev",
+        "sideprojects",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
+      "source": "Dev.to",
+      "user": "Martin Patino"
+    },
+    {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
       "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
       "published_at": "2026-03-17T17:43:25Z",
@@ -885,19 +930,19 @@
       "user": "Justin Headley"
     },
     {
-      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
-      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
-      "published_at": "2026-03-19T18:12:23Z",
-      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
+      "title": "Designing Content Systems that Understand and Act",
+      "url": "https://dev.to/storyblok/designing-content-systems-that-understand-and-act-5fal",
+      "published_at": "2026-03-21T04:16:19Z",
+      "description": "Modern JavaScript applications don’t just render UI anymore. They orchestrate search,...",
       "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "nextjs"
+        "javascript",
+        "webdev",
+        "architecture",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f30ixl8xoa55p6xwcf.png",
       "source": "Dev.to",
-      "user": "Kat Kampf"
+      "user": "Siddharth Dayalwal"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -1108,36 +1153,6 @@
       "user": "velmu"
     },
     {
-      "title": "NVIDIA/NemoClaw - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-      "url": "https://github.com/NVIDIA/NemoClaw",
-      "published_at": "2026-03-15T17:04:09Z",
-      "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
-      "source": "GitHub",
-      "stars": 14854,
-      "user": "NVIDIA"
-    },
-    {
-      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "url": "https://github.com/liliMozi/openhanako",
-      "published_at": "2026-03-15T07:01:45Z",
-      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
-      "source": "GitHub",
-      "stars": 467,
-      "user": "liliMozi"
-    },
-    {
       "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
       "url": "https://github.com/J-Pster/Psters_AI_Workflow",
       "published_at": "2026-03-16T20:55:01Z",
@@ -1179,25 +1194,55 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "SethGammon"
+    },
+    {
+      "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
+      "url": "https://github.com/iflytek/astronclaw-tutorial",
+      "published_at": "2026-03-19T02:40:44Z",
+      "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
+      "source": "GitHub",
+      "stars": 111,
+      "user": "iflytek"
+    },
+    {
+      "title": "umbrellaDocumentation/Web-Data-Scraper - Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
+      "url": "https://github.com/umbrellaDocumentation/Web-Data-Scraper",
+      "published_at": "2026-03-16T17:45:29Z",
+      "description": "Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "umbrellaDocumentation"
     }
   ],
   "Python": [
     {
-      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
-      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
-      "published_at": "2026-03-16T19:05:58Z",
-      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
+      "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
+      "published_at": "2026-03-21T22:22:00Z",
+      "description": "If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...",
       "tags": [
-        "ai",
-        "googleadk",
-        "fastapi",
-        "telegram"
+        "github",
+        "python",
+        "productivity",
+        "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
       "source": "Dev.to",
-      "user": "James Zhang"
+      "user": "Sahan"
     },
     {
       "title": "Introducing DotNetPy: Python Interop for Modern .NET, Reimagined",
@@ -1365,21 +1410,6 @@
       "user": "gilad"
     },
     {
-      "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "published_at": "2026-03-15T03:38:49Z",
-      "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
-      "source": "GitHub",
-      "stars": 7365,
-      "user": "aiming-lab"
-    },
-    {
       "title": "HKUDS/ClawTeam - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
       "url": "https://github.com/HKUDS/ClawTeam",
       "published_at": "2026-03-17T14:42:46Z",
@@ -1391,23 +1421,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2461,
+      "stars": 2490,
       "user": "HKUDS"
-    },
-    {
-      "title": "cnlimiter/codex-manager - GitHub Repository",
-      "url": "https://github.com/cnlimiter/codex-manager",
-      "published_at": "2026-03-15T12:59:27Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
-      "source": "GitHub",
-      "stars": 1344,
-      "user": "cnlimiter"
     },
     {
       "title": "lxf746/any-auto-register - GitHub Repository",
@@ -1421,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 809,
       "user": "lxf746"
     },
     {
@@ -1436,8 +1451,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 785,
       "user": "math-inc"
+    },
+    {
+      "title": "nv-tlabs/kimodo - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "url": "https://github.com/nv-tlabs/kimodo",
+      "published_at": "2026-03-16T20:19:30Z",
+      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
+      "source": "GitHub",
+      "stars": 584,
+      "user": "nv-tlabs"
+    },
+    {
+      "title": "inspatio/inspatio-world - GitHub Repository",
+      "url": "https://github.com/inspatio/inspatio-world",
+      "published_at": "2026-03-16T08:43:10Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
+      "source": "GitHub",
+      "stars": 500,
+      "user": "inspatio"
     }
   ],
   "DevOps": [
@@ -1502,6 +1547,36 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
+      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
+      "published_at": "2026-03-21T12:23:06Z",
+      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
+      "tags": [
+        "javascript",
+        "ai",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
+      "source": "Dev.to",
+      "user": "rorie devine"
+    },
+    {
+      "title": "I Built a Doom Clone in One HTML File",
+      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
+      "published_at": "2026-03-20T23:22:00Z",
+      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
+      "tags": [
+        "javascript",
+        "gamedev",
+        "sideprojects",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
+      "source": "Dev.to",
+      "user": "Martin Patino"
+    },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
       "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
@@ -1624,19 +1699,19 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
-      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
-      "published_at": "2026-03-17T18:32:57Z",
-      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
+      "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
+      "url": "https://github.com/iflytek/astronclaw-tutorial",
+      "published_at": "2026-03-19T02:40:44Z",
+      "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
       "tags": [
-        "cloud",
-        "agents",
-        "mcp",
-        "ai"
+        "javascript",
+        "github",
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
-      "source": "Dev.to",
-      "user": "Jeffrey Mew"
+      "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
+      "source": "GitHub",
+      "stars": 111,
+      "user": "iflytek"
     }
   ],
   "Database": [
@@ -1840,11 +1915,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "ShawnPana"
     }
   ],
   "Tools": [
+    {
+      "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
+      "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
+      "published_at": "2026-03-21T22:22:00Z",
+      "description": "If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...",
+      "tags": [
+        "github",
+        "python",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
+      "source": "Dev.to",
+      "user": "Sahan"
+    },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
       "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
@@ -1888,6 +1978,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
       "source": "Dev.to",
       "user": "J. R. Swab"
+    },
+    {
+      "title": "I Built a CLI Tool That Writes My Commit Messages",
+      "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
+      "published_at": "2026-03-20T19:12:28Z",
+      "description": "Hello guys! We've all been there. You just finished a feature, you're ready to commit, and then you...",
+      "tags": [
+        "git",
+        "ai",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png",
+      "source": "Dev.to",
+      "user": "Lucas Neves Pereira"
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -1980,36 +2085,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "NVIDIA/NemoClaw - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-      "url": "https://github.com/NVIDIA/NemoClaw",
-      "published_at": "2026-03-15T17:04:09Z",
-      "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1728152?v=4",
-      "source": "GitHub",
-      "stars": 14854,
-      "user": "NVIDIA"
-    },
-    {
-      "title": "liliMozi/openhanako - A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "url": "https://github.com/liliMozi/openhanako",
-      "published_at": "2026-03-15T07:01:45Z",
-      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266472116?v=4",
-      "source": "GitHub",
-      "stars": 467,
-      "user": "liliMozi"
-    },
-    {
       "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
       "url": "https://github.com/J-Pster/Psters_AI_Workflow",
       "published_at": "2026-03-16T20:55:01Z",
@@ -2051,23 +2126,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "SethGammon"
     },
     {
-      "title": "aiming-lab/AutoResearchClaw - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "published_at": "2026-03-15T03:38:49Z",
-      "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+      "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
+      "url": "https://github.com/iflytek/astronclaw-tutorial",
+      "published_at": "2026-03-19T02:40:44Z",
+      "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186755503?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 7365,
-      "user": "aiming-lab"
+      "stars": 111,
+      "user": "iflytek"
+    },
+    {
+      "title": "umbrellaDocumentation/Web-Data-Scraper - Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
+      "url": "https://github.com/umbrellaDocumentation/Web-Data-Scraper",
+      "published_at": "2026-03-16T17:45:29Z",
+      "description": "Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "umbrellaDocumentation"
     },
     {
       "title": "HKUDS/ClawTeam - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
@@ -2081,23 +2171,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2461,
+      "stars": 2490,
       "user": "HKUDS"
-    },
-    {
-      "title": "cnlimiter/codex-manager - GitHub Repository",
-      "url": "https://github.com/cnlimiter/codex-manager",
-      "published_at": "2026-03-15T12:59:27Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67866187?v=4",
-      "source": "GitHub",
-      "stars": 1344,
-      "user": "cnlimiter"
     },
     {
       "title": "lxf746/any-auto-register - GitHub Repository",
@@ -2111,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 809,
       "user": "lxf746"
     },
     {
@@ -2126,23 +2201,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 785,
       "user": "math-inc"
     },
     {
-      "title": "antflydb/antfly - GitHub Repository",
-      "url": "https://github.com/antflydb/antfly",
-      "published_at": "2026-03-15T23:19:10Z",
-      "description": "Trending GitHub Repository",
+      "title": "nv-tlabs/kimodo - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "url": "https://github.com/nv-tlabs/kimodo",
+      "published_at": "2026-03-16T20:19:30Z",
+      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120598700?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 272,
-      "user": "antflydb"
+      "stars": 584,
+      "user": "nv-tlabs"
+    },
+    {
+      "title": "inspatio/inspatio-world - GitHub Repository",
+      "url": "https://github.com/inspatio/inspatio-world",
+      "published_at": "2026-03-16T08:43:10Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
+      "source": "GitHub",
+      "stars": 500,
+      "user": "inspatio"
     },
     {
       "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
@@ -2156,7 +2246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "phlx0"
     },
     {
@@ -2171,7 +2261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "ShawnPana"
     },
     {
@@ -2201,8 +2291,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189537017?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "ASTRA-LabsHQ"
+    },
+    {
+      "title": "phronesis-io/eigenflux - EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
+      "url": "https://github.com/phronesis-io/eigenflux",
+      "published_at": "2026-03-17T13:37:00Z",
+      "description": "EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268868355?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "phronesis-io"
     }
   ]
 }
