@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-22 23:00 CAT)
+## 📅 Latest Updates (2026-03-23 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 23:48:40 CAT_
+_Last automated update: Mon, 23 Mar 2026 00:21:35 CAT_
 
 
 
@@ -226,7 +226,18 @@ _Last automated update: Sun, 22 Mar 2026 23:48:40 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
+
+</details>
+
+### 2. Python: Explain decorators in Python with an example
 
 **Difficulty**: Medium | **Topics**: functions, metaprogramming
 
@@ -237,25 +248,14 @@ Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: memory, JVM
-
-<details>
-<summary>💡 Hint</summary>
-
-Heap, stack, garbage collection
-
-</details>
-
-### 3. React: Explain the difference between state and props
-
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Mar 2026 21:48:40 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Mar 2026 22:21:35 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
