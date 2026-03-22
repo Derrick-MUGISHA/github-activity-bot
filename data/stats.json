@@ -9,13 +9,13 @@
     "AI": 61,
     "JavaScript": 25,
     "Python": 18,
-    "DevOps": 3,
+    "DevOps": 4,
     "WebDev": 6,
     "Mobile": 2,
     "Cloud": 3,
     "Database": 4,
-    "Security": 8,
-    "Tools": 27
+    "Security": 9,
+    "Tools": 26
   },
   "by_language": {
     "Go": 18,
@@ -29,10 +29,10 @@
   },
   "by_date": {
     "2026-03-20": 12,
-    "2026-03-19": 14,
+    "2026-03-19": 13,
     "2026-03-21": 4,
     "2026-03-17": 10,
-    "2026-03-18": 9,
+    "2026-03-18": 10,
     "2026-03-16": 12,
     "2026-03-13": 3,
     "2026-03-06": 3,
@@ -71,9 +71,9 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 33,
-    "webdev": 16,
+    "ai": 32,
     "github": 16,
+    "webdev": 15,
     "open-source": 15,
     "javascript": 14,
     "discuss": 10,
@@ -82,15 +82,15 @@
     "Python": 10,
     "programming": 7,
     "python": 6,
+    "opensource": 6,
     "go": 6,
     "productivity": 5,
-    "opensource": 5,
+    "security": 5,
     "agents": 4,
-    "security": 4,
     "devchallenge": 3,
     "typescript": 3,
-    "career": 3,
-    "cli": 3
+    "devops": 3,
+    "career": 3
   },
   "trending_topics": [],
   "language_percentages": {

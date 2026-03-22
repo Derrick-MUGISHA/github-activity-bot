@@ -436,21 +436,6 @@
       "user": "Megan Risdal"
     },
     {
-      "title": "Your Browser Has a Remote Control — And Nobody Told You",
-      "url": "https://dev.to/timtech4u/your-browser-has-a-remote-control-and-nobody-told-you-5e97",
-      "published_at": "2026-03-19T16:15:50Z",
-      "description": "3 tools that let AI agents drive Chrome. I tested all three. Here's what actually happens.   Every...",
-      "tags": [
-        "webdev",
-        "ai",
-        "chrome",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FTimtech4u%2Fbrowser-remote-control%2Fmain%2Fscreenshots%2Fheader.png",
-      "source": "Dev.to",
-      "user": "Timothy Olaleke"
-    },
-    {
       "title": "We've Seen This Movie Before",
       "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
       "published_at": "2026-03-19T08:54:35Z",
@@ -564,6 +549,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femsvoeoojbsibhdsqmli.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "tags": [
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "source": "Dev.to",
+      "user": "Kat Cosgrove"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -799,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "iflytek"
     },
     {
@@ -814,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "SethGammon"
     },
     {
@@ -829,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 539,
       "user": "wangziqi06"
     },
     {
@@ -1159,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "kulikov0"
     },
     {
@@ -1174,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "iflytek"
     },
     {
@@ -1204,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "SethGammon"
     }
   ],
@@ -1386,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2606,
+      "stars": 2623,
       "user": "HKUDS"
     },
     {
@@ -1401,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 985,
       "user": "math-inc"
     },
     {
@@ -1416,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 937,
       "user": "lxf746"
     },
     {
@@ -1446,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 539,
       "user": "wangziqi06"
     }
   ],
@@ -1479,6 +1479,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
       "source": "Dev.to",
       "user": "Michael Bogan"
+    },
+    {
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "tags": [
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "source": "Dev.to",
+      "user": "Kat Cosgrove"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1660,7 +1675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "iflytek"
     }
   ],
@@ -1812,6 +1827,21 @@
       "user": "Chioma Halim"
     },
     {
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
+      "published_at": "2026-03-18T14:39:24Z",
+      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
+      "tags": [
+        "opensource",
+        "security",
+        "kubernetes",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
+      "source": "Dev.to",
+      "user": "Kat Cosgrove"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1940,21 +1970,6 @@
       "user": "Dineshraj Anandan"
     },
     {
-      "title": "Your Browser Has a Remote Control — And Nobody Told You",
-      "url": "https://dev.to/timtech4u/your-browser-has-a-remote-control-and-nobody-told-you-5e97",
-      "published_at": "2026-03-19T16:15:50Z",
-      "description": "3 tools that let AI agents drive Chrome. I tested all three. Here's what actually happens.   Every...",
-      "tags": [
-        "webdev",
-        "ai",
-        "chrome",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FTimtech4u%2Fbrowser-remote-control%2Fmain%2Fscreenshots%2Fheader.png",
-      "source": "Dev.to",
-      "user": "Timothy Olaleke"
-    },
-    {
       "title": "Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase",
       "url": "https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe",
       "published_at": "2026-03-18T23:20:04Z",
@@ -2041,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "kulikov0"
     },
     {
@@ -2056,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "iflytek"
     },
     {
@@ -2086,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "SethGammon"
     },
     {
@@ -2101,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2606,
+      "stars": 2623,
       "user": "HKUDS"
     },
     {
@@ -2116,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 985,
       "user": "math-inc"
     },
     {
@@ -2131,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 937,
       "user": "lxf746"
     },
     {
@@ -2161,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 539,
       "user": "wangziqi06"
     },
     {
@@ -2176,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 174,
       "user": "xiaolajiaoyyds"
     },
     {
