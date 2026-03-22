@@ -348,21 +348,6 @@
       "user": "Aleksey Razbakov"
     },
     {
-      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
-      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
-      "published_at": "2026-03-16T19:05:58Z",
-      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
-      "tags": [
-        "ai",
-        "googleadk",
-        "fastapi",
-        "telegram"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
-      "source": "Dev.to",
-      "user": "James Zhang"
-    },
-    {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
       "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
       "published_at": "2026-03-19T01:45:21Z",
@@ -956,6 +941,21 @@
       "user": "Siddharth Dayalwal"
     },
     {
+      "title": "Type-safe environment validation",
+      "url": "https://dev.to/madeburo/type-safe-environment-validation-3mdi",
+      "published_at": "2026-03-21T15:13:51Z",
+      "description": "Environment variables are one of those things that look simple until they start breaking...",
+      "tags": [
+        "opensource",
+        "node",
+        "typescript",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnou32jsw3sbd540zijm7.webp",
+      "source": "Dev.to",
+      "user": "Made Büro"
+    },
+    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -1220,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "kulikov0"
     },
     {
@@ -1284,21 +1284,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
       "source": "Dev.to",
       "user": "Sahan"
-    },
-    {
-      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
-      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
-      "published_at": "2026-03-16T19:05:58Z",
-      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
-      "tags": [
-        "ai",
-        "googleadk",
-        "fastapi",
-        "telegram"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
-      "source": "Dev.to",
-      "user": "James Zhang"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -1447,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2784,
+      "stars": 2792,
       "user": "HKUDS"
     },
     {
@@ -2117,7 +2102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "kulikov0"
     },
     {
@@ -2177,7 +2162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2784,
+      "stars": 2792,
       "user": "HKUDS"
     },
     {
