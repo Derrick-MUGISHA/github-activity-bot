@@ -31,21 +31,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "My First Experience Creating Antigravity Skills",
-      "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
-      "published_at": "2026-03-20T15:23:02Z",
-      "description": "Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...",
-      "tags": [
-        "antigravity",
-        "ai",
-        "googlecloud",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
       "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
       "published_at": "2026-03-20T15:44:30Z",
@@ -175,6 +160,21 @@
       "user": "Patric Green"
     },
     {
+      "title": "My First Experience Creating Antigravity Skills",
+      "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
+      "published_at": "2026-03-20T15:23:02Z",
+      "description": "Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...",
+      "tags": [
+        "antigravity",
+        "ai",
+        "googlecloud",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
       "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
       "published_at": "2026-03-20T13:00:00Z",
@@ -216,21 +216,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwt2rijx7v2jzn65wiegl.png",
       "source": "Dev.to",
       "user": "Dennis Lemm"
-    },
-    {
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "published_at": "2026-03-18T14:39:24Z",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
-      "tags": [
-        "opensource",
-        "security",
-        "kubernetes",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
-      "source": "Dev.to",
-      "user": "Kat Cosgrove"
     },
     {
       "title": "I Scanned 100 AI Codebases - Here's What I Found",
@@ -308,21 +293,6 @@
       "user": "Matheus Kunzler Maldaner"
     },
     {
-      "title": "How to Stop Babysitting Your AI Agents",
-      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
-      "published_at": "2026-03-18T13:50:00Z",
-      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
-      "tags": [
-        "llmagents",
-        "cli",
-        "devtools",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
-      "source": "Dev.to",
-      "user": "J. R. Swab"
-    },
-    {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
       "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
       "published_at": "2026-03-18T14:57:43Z",
@@ -336,6 +306,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
       "source": "Dev.to",
       "user": "Michael Bogan"
+    },
+    {
+      "title": "How to Stop Babysitting Your AI Agents",
+      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
+      "published_at": "2026-03-18T13:50:00Z",
+      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
+      "tags": [
+        "llmagents",
+        "cli",
+        "devtools",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
+      "source": "Dev.to",
+      "user": "J. R. Swab"
     },
     {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
@@ -799,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 246,
       "user": "J-Pster"
     },
     {
@@ -814,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "iflytek"
     },
     {
@@ -833,19 +818,19 @@
       "user": "SethGammon"
     },
     {
-      "title": "MiniMax-AI/skills - GitHub Repository",
-      "url": "https://github.com/MiniMax-AI/skills",
-      "published_at": "2026-03-17T07:19:25Z",
-      "description": "Trending GitHub Repository",
+      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "url": "https://github.com/wangziqi06/724-office",
+      "published_at": "2026-03-17T05:56:13Z",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 705,
-      "user": "MiniMax-AI"
+      "stars": 531,
+      "user": "wangziqi06"
     },
     {
       "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
@@ -1159,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 246,
       "user": "J-Pster"
     },
     {
@@ -1174,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 147,
       "user": "kulikov0"
     },
     {
@@ -1189,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "iflytek"
     },
     {
@@ -1401,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2606,
       "user": "HKUDS"
     },
     {
@@ -1431,23 +1416,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 934,
       "user": "lxf746"
-    },
-    {
-      "title": "MiniMax-AI/skills - GitHub Repository",
-      "url": "https://github.com/MiniMax-AI/skills",
-      "published_at": "2026-03-17T07:19:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
-      "source": "GitHub",
-      "stars": 705,
-      "user": "MiniMax-AI"
     },
     {
       "title": "nv-tlabs/kimodo - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
@@ -1463,6 +1433,21 @@
       "source": "GitHub",
       "stars": 594,
       "user": "nv-tlabs"
+    },
+    {
+      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "url": "https://github.com/wangziqi06/724-office",
+      "published_at": "2026-03-17T05:56:13Z",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
+      "source": "GitHub",
+      "stars": 531,
+      "user": "wangziqi06"
     }
   ],
   "DevOps": [
@@ -1479,21 +1464,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
-    },
-    {
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "published_at": "2026-03-18T14:39:24Z",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
-      "tags": [
-        "opensource",
-        "security",
-        "kubernetes",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
-      "source": "Dev.to",
-      "user": "Kat Cosgrove"
     },
     {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
@@ -1690,7 +1660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "iflytek"
     }
   ],
@@ -1782,21 +1752,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png",
       "source": "Dev.to",
       "user": "Dash"
-    },
-    {
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
-      "published_at": "2026-03-18T14:39:24Z",
-      "description": "Maintaining an open source project is hard. It requires managing a group of people who are largely...",
-      "tags": [
-        "opensource",
-        "security",
-        "kubernetes",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
-      "source": "Dev.to",
-      "user": "Kat Cosgrove"
     },
     {
       "title": "I Scanned 100 AI Codebases - Here's What I Found",
@@ -2071,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 246,
       "user": "J-Pster"
     },
     {
@@ -2086,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 147,
       "user": "kulikov0"
     },
     {
@@ -2101,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "iflytek"
     },
     {
@@ -2146,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2606,
       "user": "HKUDS"
     },
     {
@@ -2176,23 +2131,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 934,
       "user": "lxf746"
-    },
-    {
-      "title": "MiniMax-AI/skills - GitHub Repository",
-      "url": "https://github.com/MiniMax-AI/skills",
-      "published_at": "2026-03-17T07:19:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
-      "source": "GitHub",
-      "stars": 705,
-      "user": "MiniMax-AI"
     },
     {
       "title": "nv-tlabs/kimodo - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
@@ -2210,6 +2150,21 @@
       "user": "nv-tlabs"
     },
     {
+      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "url": "https://github.com/wangziqi06/724-office",
+      "published_at": "2026-03-17T05:56:13Z",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
+      "source": "GitHub",
+      "stars": 531,
+      "user": "wangziqi06"
+    },
+    {
       "title": "xiaolajiaoyyds/regplatformm - GitHub Repository",
       "url": "https://github.com/xiaolajiaoyyds/regplatformm",
       "published_at": "2026-03-21T19:16:51Z",
@@ -2221,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 169,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2281,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189537017?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "ASTRA-LabsHQ"
     }
   ]

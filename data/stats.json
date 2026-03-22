@@ -1,20 +1,20 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 62,
+    "AI": 61,
     "JavaScript": 25,
     "Python": 18,
-    "DevOps": 4,
+    "DevOps": 3,
     "WebDev": 6,
     "Mobile": 2,
     "Cloud": 3,
     "Database": 4,
-    "Security": 9,
+    "Security": 8,
     "Tools": 27
   },
   "by_language": {
@@ -32,7 +32,7 @@
     "2026-03-19": 14,
     "2026-03-21": 4,
     "2026-03-17": 10,
-    "2026-03-18": 10,
+    "2026-03-18": 9,
     "2026-03-16": 12,
     "2026-03-13": 3,
     "2026-03-06": 3,
@@ -82,15 +82,15 @@
     "Python": 10,
     "programming": 7,
     "python": 6,
-    "opensource": 6,
     "go": 6,
     "productivity": 5,
-    "security": 5,
+    "opensource": 5,
     "agents": 4,
+    "security": 4,
     "devchallenge": 3,
     "typescript": 3,
-    "devops": 3,
-    "career": 3
+    "career": 3,
+    "cli": 3
   },
   "trending_topics": [],
   "language_percentages": {
