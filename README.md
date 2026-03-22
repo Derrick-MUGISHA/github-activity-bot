@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-22 8:00 CAT)
+## 📅 Latest Updates (2026-03-22 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,6 @@ npm run test
 - [I Built a Claude Code Agent That Doesn't Need Me Anymore](https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm) _[Dev.to]_
 - [Designing Content Systems that Understand and Act](https://dev.to/storyblok/designing-content-systems-that-understand-and-act-5fal) _[Dev.to]_
 - [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8) _[Dev.to]_
-- [Quick tip: your og:image should be 1200x630px](https://dev.to/bengreenberg/quick-tip-your-ogimage-should-be-1200x630px-4m27) _[Dev.to]_
 - [Data governance just became a conversation, not a workflow.](https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998) _[Dev.to]_
 - [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3) _[Dev.to]_
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
@@ -218,8 +217,9 @@ npm run test
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
+- [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 08:31:08 CAT_
+_Last automated update: Sun, 22 Mar 2026 09:27:01 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 22 Mar 2026 08:31:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Mar 2026 06:31:08 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Mar 2026 07:27:01 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
