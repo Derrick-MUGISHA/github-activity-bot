@@ -16,21 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
-      "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
-      "published_at": "2026-03-20T15:44:30Z",
-      "description": "Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...",
-      "tags": [
-        "webdev",
-        "ai",
-        "javascript",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
-    {
       "title": "My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh",
       "url": "https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7",
       "published_at": "2026-03-20T15:02:04Z",
@@ -61,33 +46,19 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
-      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
-      "published_at": "2026-03-20T13:00:00Z",
-      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
+      "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
+      "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
+      "published_at": "2026-03-20T15:44:30Z",
+      "description": "Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...",
       "tags": [
-        "gemini",
-        "ai",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
-      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
-      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
-      "published_at": "2026-03-21T12:23:06Z",
-      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
-      "tags": [
-        "javascript",
-        "ai",
         "webdev",
-        "opensource"
+        "ai",
+        "javascript",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
       "source": "Dev.to",
-      "user": "rorie devine"
+      "user": "Paige Bailey"
     },
     {
       "title": "I Built a Doom Clone in One HTML File",
@@ -103,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
       "source": "Dev.to",
       "user": "Martin Patino"
+    },
+    {
+      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
+      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
+      "published_at": "2026-03-21T12:23:06Z",
+      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
+      "tags": [
+        "javascript",
+        "ai",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
+      "source": "Dev.to",
+      "user": "rorie devine"
     },
     {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
@@ -187,6 +173,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
+    },
+    {
+      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
+      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
+      "published_at": "2026-03-20T13:00:00Z",
+      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
+      "tags": [
+        "gemini",
+        "ai",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -363,6 +363,36 @@
       "user": "Aleksey Razbakov"
     },
     {
+      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
+      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
+      "published_at": "2026-03-16T19:05:58Z",
+      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "tags": [
+        "ai",
+        "googleadk",
+        "fastapi",
+        "telegram"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "source": "Dev.to",
+      "user": "James Zhang"
+    },
+    {
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
+      "published_at": "2026-03-17T18:32:57Z",
+      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
+      "tags": [
+        "cloud",
+        "agents",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
+      "source": "Dev.to",
+      "user": "Jeffrey Mew"
+    },
+    {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
       "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
       "published_at": "2026-03-18T16:26:53Z",
@@ -376,6 +406,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
       "source": "Dev.to",
       "user": "Dineshraj Anandan"
+    },
+    {
+      "title": "AI Vocab 101",
+      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
+      "published_at": "2026-03-19T22:25:31Z",
+      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
     },
     {
       "title": "Now anyone can host a global AI challenge on Kaggle",
@@ -494,21 +537,6 @@
       "user": "Faruk Durgut"
     },
     {
-      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
-      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
-      "published_at": "2026-03-17T12:19:42Z",
-      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
-      "tags": [
-        "ai",
-        "memory",
-        "rust",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
-      "source": "Dev.to",
-      "user": "Oleksander"
-    },
-    {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
       "published_at": "2026-03-07T09:30:17Z",
@@ -596,51 +624,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
       "source": "Dev.to",
       "user": "ujja"
-    },
-    {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
-    },
-    {
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
-      "published_at": "2026-03-07T10:44:43Z",
-      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
-      "tags": [
-        "webdev",
-        "ai",
-        "automation",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
-      "source": "Dev.to",
-      "user": "GrahamTheDev"
-    },
-    {
-      "title": "How I give my AI agents eyes with a single API call",
-      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
-      "published_at": "2026-03-16T22:23:05Z",
-      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
-      "tags": [
-        "ai",
-        "webdev",
-        "automation",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
-      "source": "Dev.to",
-      "user": "Boehner"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -786,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "J-Pster"
     },
     {
@@ -848,21 +831,6 @@
       "source": "GitHub",
       "stars": 135,
       "user": "ShawnPana"
-    },
-    {
-      "title": "phronesis-io/eigenflux - EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
-      "url": "https://github.com/phronesis-io/eigenflux",
-      "published_at": "2026-03-17T13:37:00Z",
-      "description": "EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268868355?v=4",
-      "source": "GitHub",
-      "stars": 68,
-      "user": "phronesis-io"
     }
   ],
   "JavaScript": [
@@ -882,21 +850,6 @@
       "user": "Paige Bailey"
     },
     {
-      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
-      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
-      "published_at": "2026-03-21T12:23:06Z",
-      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
-      "tags": [
-        "javascript",
-        "ai",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
-      "source": "Dev.to",
-      "user": "rorie devine"
-    },
-    {
       "title": "I Built a Doom Clone in One HTML File",
       "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
       "published_at": "2026-03-20T23:22:00Z",
@@ -910,6 +863,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
       "source": "Dev.to",
       "user": "Martin Patino"
+    },
+    {
+      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
+      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
+      "published_at": "2026-03-21T12:23:06Z",
+      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
+      "tags": [
+        "javascript",
+        "ai",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
+      "source": "Dev.to",
+      "user": "rorie devine"
     },
     {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
@@ -1013,21 +981,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
       "source": "Dev.to",
       "user": "Christian Segovia"
-    },
-    {
-      "title": "How I give my AI agents eyes with a single API call",
-      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
-      "published_at": "2026-03-16T22:23:05Z",
-      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
-      "tags": [
-        "ai",
-        "webdev",
-        "automation",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
-      "source": "Dev.to",
-      "user": "Boehner"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1161,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "J-Pster"
     },
     {
@@ -1176,7 +1129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "kulikov0"
     },
     {
@@ -1221,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "umbrellaDocumentation"
     }
   ],
@@ -1242,6 +1195,21 @@
       "user": "Sahan"
     },
     {
+      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
+      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
+      "published_at": "2026-03-16T19:05:58Z",
+      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "tags": [
+        "ai",
+        "googleadk",
+        "fastapi",
+        "telegram"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "source": "Dev.to",
+      "user": "James Zhang"
+    },
+    {
       "title": "Introducing DotNetPy: Python Interop for Modern .NET, Reimagined",
       "url": "https://dev.to/rkttu/introducing-dotnetpy-python-interop-for-modern-net-reimagined-32gi",
       "published_at": "2026-03-19T06:58:50Z",
@@ -1255,21 +1223,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Frkttu%2Fdotnetpy%2Fmain%2Fdotnetpy.png",
       "source": "Dev.to",
       "user": "Jung Hyun, Nam"
-    },
-    {
-      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
-      "url": "https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no",
-      "published_at": "2026-03-17T12:19:42Z",
-      "description": "The problem   Every time your agent starts a conversation, it starts from zero.  Sure, you...",
-      "tags": [
-        "ai",
-        "memory",
-        "rust",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs61fkqd5ag53pswmliol.png",
-      "source": "Dev.to",
-      "user": "Oleksander"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -1418,23 +1371,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2522,
+      "stars": 2539,
       "user": "HKUDS"
-    },
-    {
-      "title": "lxf746/any-auto-register - GitHub Repository",
-      "url": "https://github.com/lxf746/any-auto-register",
-      "published_at": "2026-03-18T13:26:05Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
-      "source": "GitHub",
-      "stars": 835,
-      "user": "lxf746"
     },
     {
       "title": "math-inc/OpenGauss - GitHub Repository",
@@ -1448,8 +1386,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 854,
       "user": "math-inc"
+    },
+    {
+      "title": "lxf746/any-auto-register - GitHub Repository",
+      "url": "https://github.com/lxf746/any-auto-register",
+      "published_at": "2026-03-18T13:26:05Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
+      "source": "GitHub",
+      "stars": 853,
+      "user": "lxf746"
     },
     {
       "title": "nv-tlabs/kimodo - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
@@ -1478,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 505,
       "user": "inspatio"
     }
   ],
@@ -1545,21 +1498,6 @@
   ],
   "WebDev": [
     {
-      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
-      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
-      "published_at": "2026-03-21T12:23:06Z",
-      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
-      "tags": [
-        "javascript",
-        "ai",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
-      "source": "Dev.to",
-      "user": "rorie devine"
-    },
-    {
       "title": "I Built a Doom Clone in One HTML File",
       "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
       "published_at": "2026-03-20T23:22:00Z",
@@ -1573,6 +1511,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
       "source": "Dev.to",
       "user": "Martin Patino"
+    },
+    {
+      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
+      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
+      "published_at": "2026-03-21T12:23:06Z",
+      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
+      "tags": [
+        "javascript",
+        "ai",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
+      "source": "Dev.to",
+      "user": "rorie devine"
     },
     {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
@@ -1694,6 +1647,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "url": "https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o",
+      "published_at": "2026-03-17T18:32:57Z",
+      "description": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...",
+      "tags": [
+        "cloud",
+        "agents",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe70nzb6qm4mxyxjoljm3.png",
+      "source": "Dev.to",
+      "user": "Jeffrey Mew"
     },
     {
       "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
@@ -2077,21 +2045,6 @@
       "user": "Richard Oliver Bray"
     },
     {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
-    },
-    {
       "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
       "url": "https://github.com/J-Pster/Psters_AI_Workflow",
       "published_at": "2026-03-16T20:55:01Z",
@@ -2103,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "J-Pster"
     },
     {
@@ -2118,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "kulikov0"
     },
     {
@@ -2163,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "umbrellaDocumentation"
     },
     {
@@ -2178,23 +2131,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2522,
+      "stars": 2539,
       "user": "HKUDS"
-    },
-    {
-      "title": "lxf746/any-auto-register - GitHub Repository",
-      "url": "https://github.com/lxf746/any-auto-register",
-      "published_at": "2026-03-18T13:26:05Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
-      "source": "GitHub",
-      "stars": 835,
-      "user": "lxf746"
     },
     {
       "title": "math-inc/OpenGauss - GitHub Repository",
@@ -2208,8 +2146,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 854,
       "user": "math-inc"
+    },
+    {
+      "title": "lxf746/any-auto-register - GitHub Repository",
+      "url": "https://github.com/lxf746/any-auto-register",
+      "published_at": "2026-03-18T13:26:05Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
+      "source": "GitHub",
+      "stars": 853,
+      "user": "lxf746"
     },
     {
       "title": "nv-tlabs/kimodo - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
@@ -2238,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260828406?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 505,
       "user": "inspatio"
     },
     {
@@ -2287,6 +2240,21 @@
       "user": "agi-bar"
     },
     {
+      "title": "xiaolajiaoyyds/regplatformm - GitHub Repository",
+      "url": "https://github.com/xiaolajiaoyyds/regplatformm",
+      "published_at": "2026-03-21T19:16:51Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
+      "source": "GitHub",
+      "stars": 99,
+      "user": "xiaolajiaoyyds"
+    },
+    {
       "title": "ASTRA-LabsHQ/Astra-AV-Engine - A simple AV Engine used for teaching how AV engines work and how malware evades detections",
       "url": "https://github.com/ASTRA-LabsHQ/Astra-AV-Engine",
       "published_at": "2026-03-16T14:18:48Z",
@@ -2300,21 +2268,6 @@
       "source": "GitHub",
       "stars": 95,
       "user": "ASTRA-LabsHQ"
-    },
-    {
-      "title": "phronesis-io/eigenflux - EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
-      "url": "https://github.com/phronesis-io/eigenflux",
-      "published_at": "2026-03-17T13:37:00Z",
-      "description": "EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268868355?v=4",
-      "source": "GitHub",
-      "stars": 68,
-      "user": "phronesis-io"
     }
   ]
 }
