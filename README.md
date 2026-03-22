@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-22 20:00 CAT)
+## 📅 Latest Updates (2026-03-22 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 20:32:03 CAT_
+_Last automated update: Sun, 22 Mar 2026 21:05:19 CAT_
 
 
 
@@ -226,29 +226,18 @@ _Last automated update: Sun, 22 Mar 2026 20:32:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: functions, scope
-
-<details>
-<summary>💡 Hint</summary>
-
-Function + lexical environment, data privacy, callbacks
-
-</details>
-
-### 2. React: What is the Virtual DOM and how does React use it?
-
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Mutability, performance, use cases
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 2. Python: Explain GIL and its implications for multithreading
 
 **Difficulty**: Hard | **Topics**: concurrency, performance
 
@@ -256,6 +245,17 @@ Diffing algorithm, reconciliation, efficiency
 <summary>💡 Hint</summary>
 
 Global Interpreter Lock, multiprocessing alternatives
+
+</details>
+
+### 3. NodeJS: Implement rate limiting for an API
+
+**Difficulty**: Hard | **Topics**: security, middleware
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Mar 2026 18:32:03 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Mar 2026 19:05:19 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
