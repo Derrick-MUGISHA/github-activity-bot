@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-22 7:00 CAT)
+## 📅 Latest Updates (2026-03-22 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 07:36:06 CAT_
+_Last automated update: Sun, 22 Mar 2026 08:31:08 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 22 Mar 2026 07:36:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Mutability, performance, use cases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Mar 2026 05:36:06 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Mar 2026 06:31:08 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
