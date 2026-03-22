@@ -218,7 +218,7 @@ npm run test
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 12:23:54 CAT_
+_Last automated update: Sun, 22 Mar 2026 12:52:57 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 22 Mar 2026 12:23:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Mar 2026 10:23:54 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Mar 2026 10:52:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
