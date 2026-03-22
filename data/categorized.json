@@ -308,21 +308,6 @@
       "user": "Matheus Kunzler Maldaner"
     },
     {
-      "title": "How to Stop Babysitting Your AI Agents",
-      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
-      "published_at": "2026-03-18T13:50:00Z",
-      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
-      "tags": [
-        "llmagents",
-        "cli",
-        "devtools",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
-      "source": "Dev.to",
-      "user": "J. R. Swab"
-    },
-    {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
       "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
       "published_at": "2026-03-18T14:57:43Z",
@@ -815,7 +800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 145,
       "user": "iflytek"
     },
     {
@@ -845,7 +830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 582,
       "user": "wangziqi06"
     },
     {
@@ -860,7 +845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "phlx0"
     },
     {
@@ -1220,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "kulikov0"
     },
     {
@@ -1235,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 145,
       "user": "iflytek"
     },
     {
@@ -1447,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2708,
+      "stars": 2713,
       "user": "HKUDS"
     },
     {
@@ -1462,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1004,
       "user": "math-inc"
     },
     {
@@ -1477,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 967,
       "user": "lxf746"
     },
     {
@@ -1507,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 582,
       "user": "wangziqi06"
     }
   ],
@@ -1721,7 +1706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 145,
       "user": "iflytek"
     }
   ],
@@ -1976,21 +1961,6 @@
       "user": "Matheus Kunzler Maldaner"
     },
     {
-      "title": "How to Stop Babysitting Your AI Agents",
-      "url": "https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376",
-      "published_at": "2026-03-18T13:50:00Z",
-      "description": "Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.",
-      "tags": [
-        "llmagents",
-        "cli",
-        "devtools",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcekyj684wh2vkxtpt3lb.png",
-      "source": "Dev.to",
-      "user": "J. R. Swab"
-    },
-    {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
       "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
       "published_at": "2026-03-20T19:12:28Z",
@@ -2117,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "kulikov0"
     },
     {
@@ -2132,7 +2102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 145,
       "user": "iflytek"
     },
     {
@@ -2177,7 +2147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2708,
+      "stars": 2713,
       "user": "HKUDS"
     },
     {
@@ -2192,7 +2162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1004,
       "user": "math-inc"
     },
     {
@@ -2207,7 +2177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 967,
       "user": "lxf746"
     },
     {
@@ -2237,7 +2207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 582,
       "user": "wangziqi06"
     },
     {
@@ -2267,7 +2237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "phlx0"
     },
     {
