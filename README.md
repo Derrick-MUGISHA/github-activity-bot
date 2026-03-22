@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-22 17:00 CAT)
+## 📅 Latest Updates (2026-03-22 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 17:48:00 CAT_
+_Last automated update: Sun, 22 Mar 2026 18:26:07 CAT_
 
 
 
@@ -226,29 +226,7 @@ _Last automated update: Sun, 22 Mar 2026 17:48:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
-
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
-
-<details>
-<summary>💡 Hint</summary>
-
-Function wrappers, @syntax, practical uses
-
-</details>
-
-### 2. React: How would you optimize a React app's performance?
-
-**Difficulty**: Hard | **Topics**: optimization, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-React.memo, useMemo, useCallback, code splitting, lazy loading
-
-</details>
-
-### 3. NodeJS: Explain middleware in Express.js
+### 1. NodeJS: Explain middleware in Express.js
 
 **Difficulty**: Easy | **Topics**: express, architecture
 
@@ -256,6 +234,28 @@ React.memo, useMemo, useCallback, code splitting, lazy loading
 <summary>💡 Hint</summary>
 
 Request/response cycle, next(), chain of functions
+
+</details>
+
+### 2. Python: Implement a context manager using __enter__ and __exit__
+
+**Difficulty**: Hard | **Topics**: context managers, resource management
+
+<details>
+<summary>💡 Hint</summary>
+
+with statement, setup/teardown, exception handling
+
+</details>
+
+### 3. JavaScript: Implement a debounce function from scratch
+
+**Difficulty**: Hard | **Topics**: functions, timing
+
+<details>
+<summary>💡 Hint</summary>
+
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Mar 2026 15:48:00 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Mar 2026 16:26:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
