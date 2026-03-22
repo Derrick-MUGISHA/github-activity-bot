@@ -219,7 +219,7 @@ npm run test
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0) _[Dev.to]_
 
-_Last automated update: Sun, 22 Mar 2026 11:03:54 CAT_
+_Last automated update: Sun, 22 Mar 2026 11:47:32 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 22 Mar 2026 11:03:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 22 Mar 2026 09:03:54 GMT</b><br/>
+  <b>Last automated update: Sun, 22 Mar 2026 09:47:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
