@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-23-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 64 (61.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Security**: 🟦🟦🟦 9 (8.6%)
+**Security**: 🟦🟦🟦 8 (7.6%)
 
-**WebDev**: 🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦 7 (6.7%)
 
 **DevOps**: 🟦 4 (3.8%)
 
@@ -60,26 +60,24 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.2 (31.2%)
-Java            ████████████████████████████ 29.0 (29.0%)
-Python          ██████████████████ 18.3 (18.3%)
-Go              ███████████████ 15.1 (15.1%)
-Swift           ██ 2.2 (2.2%)
-Rust            ██ 2.2 (2.2%)
-Ruby            █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 31.9 (31.9%)
+Java            ████████████████████████████ 29.8 (29.8%)
+Python          █████████████████ 18.1 (18.1%)
+Go              ██████████████ 14.9 (14.9%)
+Swift           ██ 2.1 (2.1%)
+Rust            ██ 2.1 (2.1%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 29
-    "Java" : 27
+    "JavaScript" : 30
+    "Java" : 28
     "Python" : 17
     "Go" : 14
     "Swift" : 2
     "Rust" : 2
-    "Ruby" : 1
     "Kotlin" : 1
 ```
 
@@ -87,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-33-blue) ![webdev](https://img.shields.io/badge/webdev-17-blue) ![javascript](https://img.shields.io/badge/javascript-16-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![security](https://img.shields.io/badge/security-5-blue) 
+![ai](https://img.shields.io/badge/ai-31-blue) ![webdev](https://img.shields.io/badge/webdev-19-blue) ![javascript](https://img.shields.io/badge/javascript-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -127,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-23 7:00 CAT)
+## 📅 Latest Updates (2026-03-23 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,17 +151,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg" width="200" alt="Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover" />
-      <br/>
-      <b>Vandalizing My Own Wikipedia Experience: A 90s Cyb...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg" width="200" alt="Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries" />
       <br/>
@@ -172,6 +159,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg" width="200" alt="Congrats to the Winners of Our First DEV Weekend Challenge!" />
@@ -190,6 +179,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png" width="200" alt="I Added AI to Any Website With One Line of JavaScript — Here's How" />
+      <br/>
+      <b>I Added AI to Any Website With One Line of JavaScr...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -199,7 +197,6 @@ npm run test
 
 - [My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh](https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-35ja) _[Dev.to]_
-- [Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie) _[Dev.to]_
 - [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c) _[Dev.to]_
 - [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml) _[Dev.to]_
 - [I Built a Doom Clone in One HTML File](https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603) _[Dev.to]_
@@ -217,8 +214,9 @@ npm run test
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
+- [I Scanned 100 AI Codebases - Here's What I Found](https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be) _[Dev.to]_
 
-_Last automated update: Mon, 23 Mar 2026 07:59:56 CAT_
+_Last automated update: Mon, 23 Mar 2026 09:24:03 CAT_
 
 
 
@@ -226,36 +224,36 @@ _Last automated update: Mon, 23 Mar 2026 07:59:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Execution timing, event loop phases
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -289,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 23 Mar 2026 05:59:56 GMT</b><br/>
+  <b>Last automated update: Mon, 23 Mar 2026 07:24:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
