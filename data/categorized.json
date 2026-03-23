@@ -59,6 +59,21 @@
       "user": "Aerostack"
     },
     {
+      "title": "Testing Antigravity: Building a Data-Intensive POC at 300km/h",
+      "url": "https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57",
+      "published_at": "2026-03-22T19:18:05Z",
+      "description": "Introduction   Last week, I spent a few hours on a Frecciarossa train from Rome to Calabria....",
+      "tags": [
+        "antigravity",
+        "googlecloud",
+        "gemini",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyy88eoxqpt4vv0wjmg8.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
+    },
+    {
       "title": "Stop JSON.parse From Crashing on LLM Responses",
       "url": "https://dev.to/ard/stop-jsonparse-from-crashing-on-llm-responses-4n53",
       "published_at": "2026-03-22T15:05:35Z",
@@ -132,21 +147,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
       "source": "Dev.to",
       "user": "Justin Headley"
-    },
-    {
-      "title": "Designing Content Systems that Understand and Act",
-      "url": "https://dev.to/storyblok/designing-content-systems-that-understand-and-act-5fal",
-      "published_at": "2026-03-21T04:16:19Z",
-      "description": "Modern JavaScript applications don’t just render UI anymore. They orchestrate search,...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "architecture",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f30ixl8xoa55p6xwcf.png",
-      "source": "Dev.to",
-      "user": "Siddharth Dayalwal"
     },
     {
       "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "iflytek"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 162,
       "user": "SethGammon"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 674,
       "user": "wangziqi06"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 430,
       "user": "fastclaw-ai"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 180,
       "user": "phlx0"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "openilink"
     },
     {
@@ -915,21 +915,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png",
       "source": "Dev.to",
       "user": "Justin Headley"
-    },
-    {
-      "title": "Designing Content Systems that Understand and Act",
-      "url": "https://dev.to/storyblok/designing-content-systems-that-understand-and-act-5fal",
-      "published_at": "2026-03-21T04:16:19Z",
-      "description": "Modern JavaScript applications don’t just render UI anymore. They orchestrate search,...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "architecture",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f30ixl8xoa55p6xwcf.png",
-      "source": "Dev.to",
-      "user": "Siddharth Dayalwal"
     },
     {
       "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
@@ -1241,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 702,
       "user": "eze-is"
     },
     {
@@ -1271,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "iflytek"
     },
     {
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 162,
       "user": "SethGammon"
     },
     {
@@ -1306,21 +1291,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
-      "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
-      "published_at": "2026-03-21T22:22:00Z",
-      "description": "If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...",
-      "tags": [
-        "github",
-        "python",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
-      "source": "Dev.to",
-      "user": "Sahan"
-    },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
@@ -1468,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3105,
+      "stars": 3113,
       "user": "HKUDS"
     },
     {
@@ -1483,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1051,
       "user": "math-inc"
     },
     {
@@ -1498,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1027,
       "user": "lxf746"
     },
     {
@@ -1513,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 678,
       "user": "dou-jiang"
     },
     {
@@ -1528,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 674,
       "user": "wangziqi06"
     }
   ],
@@ -1746,6 +1716,21 @@
       "user": "Aerostack"
     },
     {
+      "title": "Testing Antigravity: Building a Data-Intensive POC at 300km/h",
+      "url": "https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57",
+      "published_at": "2026-03-22T19:18:05Z",
+      "description": "Introduction   Last week, I spent a few hours on a Frecciarossa train from Rome to Calabria....",
+      "tags": [
+        "antigravity",
+        "googlecloud",
+        "gemini",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyy88eoxqpt4vv0wjmg8.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
+    },
+    {
       "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
       "url": "https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b",
       "published_at": "2026-03-22T22:31:46Z",
@@ -1787,7 +1772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "iflytek"
     }
   ],
@@ -1951,19 +1936,19 @@
       "user": "Amara Graham"
     },
     {
-      "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
-      "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
-      "published_at": "2026-03-21T22:22:00Z",
-      "description": "If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...",
+      "title": "Testing Antigravity: Building a Data-Intensive POC at 300km/h",
+      "url": "https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57",
+      "published_at": "2026-03-22T19:18:05Z",
+      "description": "Introduction   Last week, I spent a few hours on a Frecciarossa train from Rome to Calabria....",
       "tags": [
-        "github",
-        "python",
-        "productivity",
-        "opensource"
+        "antigravity",
+        "googlecloud",
+        "gemini",
+        "dataengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyy88eoxqpt4vv0wjmg8.png",
       "source": "Dev.to",
-      "user": "Sahan"
+      "user": "Patricio Navarro"
     },
     {
       "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
@@ -2096,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 702,
       "user": "eze-is"
     },
     {
@@ -2126,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "iflytek"
     },
     {
@@ -2141,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 162,
       "user": "SethGammon"
     },
     {
@@ -2171,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3105,
+      "stars": 3113,
       "user": "HKUDS"
     },
     {
@@ -2186,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1051,
       "user": "math-inc"
     },
     {
@@ -2201,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1027,
       "user": "lxf746"
     },
     {
@@ -2216,7 +2201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 678,
       "user": "dou-jiang"
     },
     {
@@ -2231,7 +2216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 674,
       "user": "wangziqi06"
     },
     {
@@ -2246,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 430,
       "user": "fastclaw-ai"
     },
     {
@@ -2261,7 +2246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 354,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2276,7 +2261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 180,
       "user": "phlx0"
     },
     {
@@ -2291,7 +2276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "openilink"
     },
     {
