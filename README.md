@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-23 13:00 CAT)
+## 📅 Latest Updates (2026-03-23 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [The Local AI Powerhouse](https://dev.to/amjadmh73/the-local-ai-powerhouse-28j) _[Dev.to]_
 - [Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps](https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp) _[Dev.to]_
 
-_Last automated update: Mon, 23 Mar 2026 13:54:47 CAT_
+_Last automated update: Mon, 23 Mar 2026 14:59:20 CAT_
 
 
 
@@ -224,29 +224,18 @@ _Last automated update: Mon, 23 Mar 2026 13:54:47 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: events, DOM
-
-<details>
-<summary>💡 Hint</summary>
-
-Event bubbling, single listener for multiple elements
-
-</details>
-
-### 2. SystemDesign: Design a URL shortening service like bit.ly
-
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 2. React: What are hooks and why were they introduced?
 
 **Difficulty**: Medium | **Topics**: hooks, functional components
 
@@ -254,6 +243,17 @@ Hash function, database design, caching, analytics
 <summary>💡 Hint</summary>
 
 State in functional components, reusable logic, cleaner code
+
+</details>
+
+### 3. DataStructures: Find the longest substring without repeating characters
+
+**Difficulty**: Medium | **Topics**: strings, sliding window
+
+<details>
+<summary>💡 Hint</summary>
+
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 23 Mar 2026 11:54:47 GMT</b><br/>
+  <b>Last automated update: Mon, 23 Mar 2026 12:59:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
