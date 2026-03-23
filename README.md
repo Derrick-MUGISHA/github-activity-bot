@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-23 23:00 CAT)
+## 📅 Latest Updates (2026-03-24 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 - [My First Experience Creating Antigravity Skills](https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b) _[Dev.to]_
 
-_Last automated update: Mon, 23 Mar 2026 23:50:00 CAT_
+_Last automated update: Tue, 24 Mar 2026 00:28:34 CAT_
 
 
 
@@ -224,14 +224,14 @@ _Last automated update: Mon, 23 Mar 2026 23:50:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -246,14 +246,14 @@ Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 23 Mar 2026 21:50:00 GMT</b><br/>
+  <b>Last automated update: Mon, 23 Mar 2026 22:28:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
