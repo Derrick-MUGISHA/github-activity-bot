@@ -201,8 +201,8 @@ npm run test
 - [Are you paying attention to your token use?](https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n) _[Dev.to]_
 - [AI context management across Claude, Cursor, Kiro, Gemini and custom agents](https://dev.to/madeburo/ai-context-management-across-claude-cursor-kiro-gemini-and-custom-agents-2n1f) _[Dev.to]_
 - [Testing Antigravity: Building a Data-Intensive POC at 300km/h](https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57) _[Dev.to]_
-- [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8) _[Dev.to]_
 - [Get Started on Dev.to! A Beginner's Guide to Engage with the Community!](https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach) _[Dev.to]_
+- [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-35ja) _[Dev.to]_
 - [Introducing Aerostack: Workflows, MCPs, and Intelligent Bots on the Edge](https://dev.to/aerostack/introducing-aerostack-workflows-mcps-and-intelligent-bots-on-the-edge-4pla) _[Dev.to]_
 - [Duct tape enough services together and you can cache APT packages](https://dev.to/dhandspikerwade/duct-tape-enough-services-together-and-you-can-cache-apt-packages-2iml) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 - [My First Experience Creating Antigravity Skills](https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b) _[Dev.to]_
 
-_Last automated update: Tue, 24 Mar 2026 01:00:52 CAT_
+_Last automated update: Tue, 24 Mar 2026 01:46:49 CAT_
 
 
 
@@ -235,25 +235,25 @@ Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 23 Mar 2026 23:00:52 GMT</b><br/>
+  <b>Last automated update: Mon, 23 Mar 2026 23:46:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
