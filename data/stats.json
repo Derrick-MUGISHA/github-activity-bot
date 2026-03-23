@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 63,
+    "AI": 64,
     "JavaScript": 29,
     "Python": 18,
     "DevOps": 4,
@@ -18,8 +18,8 @@
     "Tools": 26
   },
   "by_language": {
-    "JavaScript": 29,
     "Go": 14,
+    "JavaScript": 29,
     "Java": 27,
     "Python": 17,
     "Swift": 2,
@@ -28,8 +28,8 @@
     "Kotlin": 1
   },
   "by_date": {
-    "2026-03-21": 6,
     "2026-03-20": 12,
+    "2026-03-21": 6,
     "2026-03-19": 13,
     "2026-03-17": 11,
     "2026-03-18": 11,
@@ -85,19 +85,19 @@
     "programming": 7,
     "opensource": 7,
     "python": 6,
-    "typescript": 5,
     "productivity": 5,
+    "typescript": 5,
     "security": 5,
     "go": 5,
     "career": 4,
-    "observability": 3,
     "agents": 3,
-    "devchallenge": 3
+    "devchallenge": 3,
+    "observability": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "31.2",
     "Go": "15.1",
+    "JavaScript": "31.2",
     "Java": "29.0",
     "Python": "18.3",
     "Swift": "2.2",
