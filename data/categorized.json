@@ -104,21 +104,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "I Built a Doom Clone in One HTML File",
-      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
-      "published_at": "2026-03-20T23:22:00Z",
-      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
-      "tags": [
-        "javascript",
-        "gamedev",
-        "sideprojects",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
-      "source": "Dev.to",
-      "user": "Martin Patino"
-    },
-    {
       "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
       "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
       "published_at": "2026-03-21T21:47:33Z",
@@ -132,21 +117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
       "source": "Dev.to",
       "user": "Albert Alov"
-    },
-    {
-      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
-      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
-      "published_at": "2026-03-21T12:23:06Z",
-      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
-      "tags": [
-        "javascript",
-        "ai",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
-      "source": "Dev.to",
-      "user": "rorie devine"
     },
     {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
@@ -247,6 +217,21 @@
       "user": "Dennis Lemm"
     },
     {
+      "title": "I was asked to delete my comments before committing",
+      "url": "https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437",
+      "published_at": "2026-03-22T01:20:22Z",
+      "description": "I was asked to delete my comments before committing   I've worked in IT for 12 years now —...",
+      "tags": [
+        "git",
+        "productivity",
+        "developer",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltopb4rrczp2qlq1rv08.png",
+      "source": "Dev.to",
+      "user": "Tual Maxime"
+    },
+    {
       "title": "Confident and Wrong",
       "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
       "published_at": "2026-03-17T20:07:24Z",
@@ -335,16 +320,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png",
       "source": "Dev.to",
       "user": "Lucas Neves Pereira"
-    },
-    {
-      "title": "I Asked AI \"Why Do I Exist?\" — Here's What Happened",
-      "url": "https://dev.to/razbakov/i-asked-ai-why-do-i-exist-heres-what-happened-355a",
-      "published_at": "2026-03-20T20:52:01Z",
-      "description": "How a two-hour conversation with AI became my life operating system — from finding my ikigai to testing a business hypothesis at a dance festival.",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtageosa0szoqtqedh63.png",
-      "source": "Dev.to",
-      "user": "Aleksey Razbakov"
     },
     {
       "title": "AI Vocab 101",
@@ -551,6 +526,51 @@
       "user": "ujja"
     },
     {
+      "title": "I Scanned 100 AI Codebases - Here's What I Found",
+      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
+      "published_at": "2026-03-19T08:41:48Z",
+      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
+      "tags": [
+        "vibecoding",
+        "ai",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
+      "source": "Dev.to",
+      "user": "Mykola Kondratiuk"
+    },
+    {
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
+      "tags": [
+        "ai",
+        "engineering",
+        "productivity",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
+      "source": "Dev.to",
+      "user": "Denis Bakhoum"
+    },
+    {
+      "title": "I Built a Doom Clone in One HTML File",
+      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
+      "published_at": "2026-03-20T23:22:00Z",
+      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
+      "tags": [
+        "javascript",
+        "gamedev",
+        "sideprojects",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
+      "source": "Dev.to",
+      "user": "Martin Patino"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -694,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "iflytek"
     },
     {
@@ -709,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 186,
       "user": "SethGammon"
     },
     {
@@ -724,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "ShunsukeHayashi"
     },
     {
@@ -739,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 699,
       "user": "leo-lilinxiao"
     },
     {
@@ -754,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 683,
       "user": "wangziqi06"
     },
     {
@@ -769,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 436,
       "user": "fastclaw-ai"
     },
     {
@@ -784,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "phlx0"
     },
     {
@@ -799,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "openilink"
     },
     {
@@ -850,21 +870,6 @@
       "user": "Aaron Decker"
     },
     {
-      "title": "I Built a Doom Clone in One HTML File",
-      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
-      "published_at": "2026-03-20T23:22:00Z",
-      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
-      "tags": [
-        "javascript",
-        "gamedev",
-        "sideprojects",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
-      "source": "Dev.to",
-      "user": "Martin Patino"
-    },
-    {
       "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
       "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
       "published_at": "2026-03-21T21:47:33Z",
@@ -878,21 +883,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
       "source": "Dev.to",
       "user": "Albert Alov"
-    },
-    {
-      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
-      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
-      "published_at": "2026-03-21T12:23:06Z",
-      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
-      "tags": [
-        "javascript",
-        "ai",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
-      "source": "Dev.to",
-      "user": "rorie devine"
     },
     {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
@@ -968,21 +958,6 @@
       "user": "Chioma Halim"
     },
     {
-      "title": "One regex to match them all",
-      "url": "https://dev.to/ferderer/one-regex-to-match-them-all-228h",
-      "published_at": "2026-03-16T11:18:24Z",
-      "description": "Last year I was building a single-page app with SvelteKit. Nothing fancy—a handful of views,...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F437arz0tcrq9cvjh71yk.png",
-      "source": "Dev.to",
-      "user": "Vadim Ferderer"
-    },
-    {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
       "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
       "published_at": "2026-03-19T17:02:19Z",
@@ -1026,6 +1001,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "I Built a Doom Clone in One HTML File",
+      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
+      "published_at": "2026-03-20T23:22:00Z",
+      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
+      "tags": [
+        "javascript",
+        "gamedev",
+        "sideprojects",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
+      "source": "Dev.to",
+      "user": "Martin Patino"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1159,7 +1149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 709,
       "user": "eze-is"
     },
     {
@@ -1174,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "kulikov0"
     },
     {
@@ -1189,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "iflytek"
     },
     {
@@ -1204,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 186,
       "user": "SethGammon"
     },
     {
@@ -1219,25 +1209,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "ShunsukeHayashi"
     }
   ],
   "Python": [
-    {
-      "title": "pyxclip: Cross-Platform Clipboard for Python, Backed by Rust",
-      "url": "https://dev.to/abbazs/pyxclip-cross-platform-clipboard-for-python-backed-by-rust-g37",
-      "published_at": "2026-03-22T09:41:22Z",
-      "description": "pyxclip: Cross-Platform Clipboard for Python, Backed by Rust   Most Python clipboard...",
-      "tags": [
-        "python",
-        "rust",
-        "clipboard"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0od1oc3mgofs4c18ou19.png",
-      "source": "Dev.to",
-      "user": "abbazs"
-    },
     {
       "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
       "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
@@ -1252,6 +1228,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
       "source": "Dev.to",
       "user": "Sahan"
+    },
+    {
+      "title": "pyxclip: Cross-Platform Clipboard for Python, Backed by Rust",
+      "url": "https://dev.to/abbazs/pyxclip-cross-platform-clipboard-for-python-backed-by-rust-g37",
+      "published_at": "2026-03-22T09:41:22Z",
+      "description": "pyxclip: Cross-Platform Clipboard for Python, Backed by Rust   Most Python clipboard...",
+      "tags": [
+        "python",
+        "rust",
+        "clipboard"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0od1oc3mgofs4c18ou19.png",
+      "source": "Dev.to",
+      "user": "abbazs"
     },
     {
       "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
@@ -1415,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3126,
+      "stars": 3129,
       "user": "HKUDS"
     },
     {
@@ -1430,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1054,
       "user": "math-inc"
     },
     {
@@ -1460,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 699,
       "user": "leo-lilinxiao"
     },
     {
@@ -1475,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 683,
       "user": "wangziqi06"
     }
   ],
@@ -1572,36 +1562,6 @@
       "user": "Satish Gowda"
     },
     {
-      "title": "I Built a Doom Clone in One HTML File",
-      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
-      "published_at": "2026-03-20T23:22:00Z",
-      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
-      "tags": [
-        "javascript",
-        "gamedev",
-        "sideprojects",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
-      "source": "Dev.to",
-      "user": "Martin Patino"
-    },
-    {
-      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
-      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
-      "published_at": "2026-03-21T12:23:06Z",
-      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
-      "tags": [
-        "javascript",
-        "ai",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
-      "source": "Dev.to",
-      "user": "rorie devine"
-    },
-    {
       "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
       "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
       "published_at": "2026-03-19T17:02:19Z",
@@ -1645,6 +1605,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "I Built a Doom Clone in One HTML File",
+      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
+      "published_at": "2026-03-20T23:22:00Z",
+      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
+      "tags": [
+        "javascript",
+        "gamedev",
+        "sideprojects",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
+      "source": "Dev.to",
+      "user": "Martin Patino"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1764,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "iflytek"
     }
   ],
@@ -1871,6 +1846,21 @@
       "user": "Kat Cosgrove"
     },
     {
+      "title": "I Scanned 100 AI Codebases - Here's What I Found",
+      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
+      "published_at": "2026-03-19T08:41:48Z",
+      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
+      "tags": [
+        "vibecoding",
+        "ai",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
+      "source": "Dev.to",
+      "user": "Mykola Kondratiuk"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1957,6 +1947,21 @@
       "user": "Brian Love"
     },
     {
+      "title": "I was asked to delete my comments before committing",
+      "url": "https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437",
+      "published_at": "2026-03-22T01:20:22Z",
+      "description": "I was asked to delete my comments before committing   I've worked in IT for 12 years now —...",
+      "tags": [
+        "git",
+        "productivity",
+        "developer",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltopb4rrczp2qlq1rv08.png",
+      "source": "Dev.to",
+      "user": "Tual Maxime"
+    },
+    {
       "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
       "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
       "published_at": "2026-03-22T08:40:00Z",
@@ -2000,16 +2005,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png",
       "source": "Dev.to",
       "user": "Lucas Neves Pereira"
-    },
-    {
-      "title": "I Asked AI \"Why Do I Exist?\" — Here's What Happened",
-      "url": "https://dev.to/razbakov/i-asked-ai-why-do-i-exist-heres-what-happened-355a",
-      "published_at": "2026-03-20T20:52:01Z",
-      "description": "How a two-hour conversation with AI became my life operating system — from finding my ikigai to testing a business hypothesis at a dance festival.",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtageosa0szoqtqedh63.png",
-      "source": "Dev.to",
-      "user": "Aleksey Razbakov"
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -2057,6 +2052,21 @@
       "user": "Richard Oliver Bray"
     },
     {
+      "title": "How Do You Actually Know If AI Is Working On Your Team?",
+      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
+      "published_at": "2026-02-27T12:24:36Z",
+      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
+      "tags": [
+        "ai",
+        "engineering",
+        "productivity",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
+      "source": "Dev.to",
+      "user": "Denis Bakhoum"
+    },
+    {
       "title": "eze-is/web-access - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
       "url": "https://github.com/eze-is/web-access",
       "published_at": "2026-03-18T05:54:57Z",
@@ -2068,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 709,
       "user": "eze-is"
     },
     {
@@ -2083,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "kulikov0"
     },
     {
@@ -2098,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "iflytek"
     },
     {
@@ -2113,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 186,
       "user": "SethGammon"
     },
     {
@@ -2128,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "ShunsukeHayashi"
     },
     {
@@ -2143,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3126,
+      "stars": 3129,
       "user": "HKUDS"
     },
     {
@@ -2158,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1054,
       "user": "math-inc"
     },
     {
@@ -2188,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 699,
       "user": "leo-lilinxiao"
     },
     {
@@ -2203,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 683,
       "user": "wangziqi06"
     },
     {
@@ -2218,7 +2228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 436,
       "user": "fastclaw-ai"
     },
     {
@@ -2248,7 +2258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "phlx0"
     },
     {
@@ -2263,7 +2273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "openilink"
     },
     {
