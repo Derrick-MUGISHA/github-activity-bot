@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-23-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**Security**: 🟦🟦🟦 8 (7.6%)
+**Security**: 🟦🟦🟦 8 (7.7%)
 
 **WebDev**: 🟦🟦 7 (6.7%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.9 (31.9%)
-Java            ████████████████████████████ 29.8 (29.8%)
-Python          █████████████████ 18.1 (18.1%)
-Go              ██████████████ 14.9 (14.9%)
-Swift           ██ 2.1 (2.1%)
-Rust            ██ 2.1 (2.1%)
+JavaScript      ██████████████████████████████ 32.3 (32.3%)
+Java            ████████████████████████████ 30.1 (30.1%)
+Python          █████████████████ 18.3 (18.3%)
+Go              █████████████ 14.0 (14.0%)
+Swift           ██ 2.2 (2.2%)
+Rust            ██ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
@@ -75,7 +75,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 30
     "Java" : 28
     "Python" : 17
-    "Go" : 14
+    "Go" : 13
     "Swift" : 2
     "Rust" : 2
     "Kotlin" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-31-blue) ![webdev](https://img.shields.io/badge/webdev-19-blue) ![javascript](https://img.shields.io/badge/javascript-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-30-blue) ![webdev](https://img.shields.io/badge/webdev-19-blue) ![javascript](https://img.shields.io/badge/javascript-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -125,22 +125,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-23 9:00 CAT)
+## 📅 Latest Updates (2026-03-23 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0oxfssmey5ma0npbmqjm.png" width="200" alt="My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh" />
-      <br/>
-      <b>My AI agent messed up a UTC time conversion algori...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-35ja">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z61971hgbvh8jhd96b.jpg" width="200" alt="What was your win this week??" />
@@ -159,8 +150,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg" width="200" alt="Congrats to the Winners of Our First DEV Weekend Challenge!" />
@@ -170,6 +159,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png" width="200" alt="I Built a Doom Clone in One HTML File" />
@@ -188,6 +179,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyb5co59q1f1f4yr7fg4z.png" width="200" alt="I Built a Claude Code Agent That Doesn't Need Me Anymore" />
+      <br/>
+      <b>I Built a Claude Code Agent That Doesn't Need Me A...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -195,7 +195,6 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh](https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-35ja) _[Dev.to]_
 - [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c) _[Dev.to]_
 - [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 - [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8) _[Dev.to]_
 - [I Scanned 100 AI Codebases - Here's What I Found](https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be) _[Dev.to]_
+- [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o) _[Dev.to]_
 
-_Last automated update: Mon, 23 Mar 2026 09:24:03 CAT_
+_Last automated update: Mon, 23 Mar 2026 10:12:07 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 23 Mar 2026 09:24:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 23 Mar 2026 07:24:03 GMT</b><br/>
+  <b>Last automated update: Mon, 23 Mar 2026 08:12:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
