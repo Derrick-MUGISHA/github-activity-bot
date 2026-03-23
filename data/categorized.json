@@ -1,19 +1,6 @@
 {
   "AI": [
     {
-      "title": "Are you paying attention to your token use?",
-      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
-      "published_at": "2026-03-23T13:45:08Z",
-      "description": "Or do you just use AI tools freely?",
-      "tags": [
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
-      "source": "Dev.to",
-      "user": "Amara Graham"
-    },
-    {
       "title": "I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.",
       "url": "https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk",
       "published_at": "2026-03-23T13:12:28Z",
@@ -27,6 +14,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg45p37fkdyfvtgugcalk.png",
       "source": "Dev.to",
       "user": "Devesh Korde"
+    },
+    {
+      "title": "Are you paying attention to your token use?",
+      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
+      "published_at": "2026-03-23T13:45:08Z",
+      "description": "Or do you just use AI tools freely?",
+      "tags": [
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
+      "source": "Dev.to",
+      "user": "Amara Graham"
     },
     {
       "title": "AI context management across Claude, Cursor, Kiro, Gemini and custom agents",
@@ -307,6 +307,74 @@
       "user": "Paige Bailey"
     },
     {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
+    },
+    {
+      "title": "I Built a CLI Tool That Writes My Commit Messages",
+      "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
+      "published_at": "2026-03-20T19:12:28Z",
+      "description": "Hello guys! We've all been there. You just finished a feature, you're ready to commit, and then you...",
+      "tags": [
+        "git",
+        "ai",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png",
+      "source": "Dev.to",
+      "user": "Lucas Neves Pereira"
+    },
+    {
+      "title": "I Asked AI \"Why Do I Exist?\" — Here's What Happened",
+      "url": "https://dev.to/razbakov/i-asked-ai-why-do-i-exist-heres-what-happened-355a",
+      "published_at": "2026-03-20T20:52:01Z",
+      "description": "How a two-hour conversation with AI became my life operating system — from finding my ikigai to testing a business hypothesis at a dance festival.",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtageosa0szoqtqedh63.png",
+      "source": "Dev.to",
+      "user": "Aleksey Razbakov"
+    },
+    {
+      "title": "AI Vocab 101",
+      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
+      "published_at": "2026-03-19T22:25:31Z",
+      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
+    },
+    {
+      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
+      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
+      "published_at": "2026-03-16T19:05:58Z",
+      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "tags": [
+        "ai",
+        "googleadk",
+        "fastapi",
+        "telegram"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "source": "Dev.to",
+      "user": "James Zhang"
+    },
+    {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
       "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
       "published_at": "2026-03-18T16:26:53Z",
@@ -483,96 +551,6 @@
       "user": "ujja"
     },
     {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
-    },
-    {
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
-      "published_at": "2026-03-07T10:44:43Z",
-      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
-      "tags": [
-        "webdev",
-        "ai",
-        "automation",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
-      "source": "Dev.to",
-      "user": "GrahamTheDev"
-    },
-    {
-      "title": "How I give my AI agents eyes with a single API call",
-      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
-      "published_at": "2026-03-16T22:23:05Z",
-      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
-      "tags": [
-        "ai",
-        "webdev",
-        "automation",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
-      "source": "Dev.to",
-      "user": "Boehner"
-    },
-    {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
-      "tags": [
-        "ai",
-        "career",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
-      "title": "Data governance just became a conversation, not a workflow.",
-      "url": "https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998",
-      "published_at": "2026-03-20T14:22:04Z",
-      "description": "🤔 If you've ever tried to get a full picture of your governance posture, you know the drill -- run...",
-      "tags": [
-        "ai",
-        "data",
-        "database",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png",
-      "source": "Dev.to",
-      "user": "Dash"
-    },
-    {
-      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
-      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
-      "published_at": "2026-03-19T18:12:23Z",
-      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
-      "source": "Dev.to",
-      "user": "Kat Kampf"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -716,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "iflytek"
     },
     {
@@ -731,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 179,
       "user": "SethGammon"
     },
     {
@@ -761,8 +739,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 691,
       "user": "leo-lilinxiao"
+    },
+    {
+      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "url": "https://github.com/wangziqi06/724-office",
+      "published_at": "2026-03-17T05:56:13Z",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
+      "source": "GitHub",
+      "stars": 681,
+      "user": "wangziqi06"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -776,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 435,
       "user": "fastclaw-ai"
     },
     {
@@ -791,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "phlx0"
     },
     {
@@ -806,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "openilink"
     },
     {
@@ -947,6 +940,21 @@
       "user": "Paige Bailey"
     },
     {
+      "title": "Type-safe environment validation",
+      "url": "https://dev.to/madeburo/type-safe-environment-validation-3mdi",
+      "published_at": "2026-03-21T15:13:51Z",
+      "description": "Environment variables are one of those things that look simple until they start breaking...",
+      "tags": [
+        "opensource",
+        "node",
+        "typescript",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnou32jsw3sbd540zijm7.webp",
+      "source": "Dev.to",
+      "user": "Made Büro"
+    },
+    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -1018,66 +1026,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "How I give my AI agents eyes with a single API call",
-      "url": "https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad",
-      "published_at": "2026-03-16T22:23:05Z",
-      "description": "My AI agent was blind.  It could read text, write code, call APIs — but the moment I asked it to work...",
-      "tags": [
-        "ai",
-        "webdev",
-        "automation",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvta8cp7ddaed4m1y0tea.png",
-      "source": "Dev.to",
-      "user": "Boehner"
-    },
-    {
-      "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-      "url": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-      "published_at": "2026-03-14T16:44:34Z",
-      "description": "I read the headline at 11pm on a random Wednesday.  \"Anthropic CEO predicts 90% of all code will be...",
-      "tags": [
-        "ai",
-        "career",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjgj85db5uta52dsfo0z0.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
-      "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
-      "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
-      "published_at": "2026-03-18T13:42:46Z",
-      "description": "An important property of tests is that they should be composable.  Here is an example. Say you have a...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "testing",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg",
-      "source": "Dev.to",
-      "user": "Younes Jaaidi"
-    },
-    {
-      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
-      "url": "https://dev.to/googleai/introducing-the-new-full-stack-vibe-coding-experience-in-google-ai-studio-471g",
-      "published_at": "2026-03-19T18:12:23Z",
-      "description": "Start building real apps for the modern web with the Antigravity coding agent along with Firebase...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "nextjs"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbodialkzi32ufw1nfzuj.jpg",
-      "source": "Dev.to",
-      "user": "Kat Kampf"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1211,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "eze-is"
     },
     {
@@ -1226,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "kulikov0"
     },
     {
@@ -1241,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "iflytek"
     },
     {
@@ -1256,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 179,
       "user": "SethGammon"
     },
     {
@@ -1289,6 +1237,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0od1oc3mgofs4c18ou19.png",
       "source": "Dev.to",
       "user": "abbazs"
+    },
+    {
+      "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
+      "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
+      "published_at": "2026-03-21T22:22:00Z",
+      "description": "If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...",
+      "tags": [
+        "github",
+        "python",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
+      "source": "Dev.to",
+      "user": "Sahan"
+    },
+    {
+      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
+      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
+      "published_at": "2026-03-16T19:05:58Z",
+      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "tags": [
+        "ai",
+        "googleadk",
+        "fastapi",
+        "telegram"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "source": "Dev.to",
+      "user": "James Zhang"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -1437,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3123,
+      "stars": 3126,
       "user": "HKUDS"
     },
     {
@@ -1452,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1053,
       "user": "math-inc"
     },
     {
@@ -1482,23 +1460,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 691,
       "user": "leo-lilinxiao"
     },
     {
-      "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "url": "https://github.com/dou-jiang/codex-console",
-      "published_at": "2026-03-21T14:50:54Z",
-      "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "url": "https://github.com/wangziqi06/724-office",
+      "published_at": "2026-03-17T05:56:13Z",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 679,
-      "user": "dou-jiang"
+      "stars": 681,
+      "user": "wangziqi06"
     }
   ],
   "DevOps": [
@@ -1530,6 +1508,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
@@ -1654,21 +1647,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Recently Played: bringing back my Last.fm component",
-      "url": "https://dev.to/martinhicks/recently-played-bringing-back-my-lastfm-component-2ank",
-      "published_at": "2026-03-08T23:21:01Z",
-      "description": "How I rebuilt my old Last.fm widget as an Eleventy WebC component with server-rendered HTML, client-side polling, and localStorage caching.",
-      "tags": [
-        "devjournal",
-        "showdev",
-        "sideprojects",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv65ipqq33fd7h6hg1wfg.png",
-      "source": "Dev.to",
-      "user": "Martin Hicks"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1696,6 +1674,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
       "source": "Dev.to",
       "user": "Max"
+    },
+    {
+      "title": "TrackFlow: A Kotlin Multiplatform Analytics Router for Android and iOS",
+      "url": "https://dev.to/2_cranes/trackflow-a-kotlin-multiplatform-analytics-router-for-android-and-ios-2n6p",
+      "published_at": "2026-03-18T18:19:10Z",
+      "description": "Analytics is one of those things every app needs, but very few teams enjoy implementing.  A typical...",
+      "tags": [
+        "kotlin",
+        "android",
+        "ios",
+        "analytics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F55gowueiasjansu3w6jy.png",
+      "source": "Dev.to",
+      "user": "Lecrane"
     }
   ],
   "Cloud": [
@@ -1771,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "iflytek"
     }
   ],
@@ -1807,21 +1800,6 @@
       "user": "Ahmet Zeybek"
     },
     {
-      "title": "Data governance just became a conversation, not a workflow.",
-      "url": "https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998",
-      "published_at": "2026-03-20T14:22:04Z",
-      "description": "🤔 If you've ever tried to get a full picture of your governance posture, you know the drill -- run...",
-      "tags": [
-        "ai",
-        "data",
-        "database",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png",
-      "source": "Dev.to",
-      "user": "Dash"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1850,6 +1828,21 @@
       "user": "Brian Love"
     },
     {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
+    },
+    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -1876,21 +1869,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
       "user": "Kat Cosgrove"
-    },
-    {
-      "title": "Data governance just became a conversation, not a workflow.",
-      "url": "https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998",
-      "published_at": "2026-03-20T14:22:04Z",
-      "description": "🤔 If you've ever tried to get a full picture of your governance posture, you know the drill -- run...",
-      "tags": [
-        "ai",
-        "data",
-        "database",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png",
-      "source": "Dev.to",
-      "user": "Dash"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1994,6 +1972,46 @@
       "user": "Antonio Cardenas "
     },
     {
+      "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
+      "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
+      "published_at": "2026-03-21T22:22:00Z",
+      "description": "If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...",
+      "tags": [
+        "github",
+        "python",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
+      "source": "Dev.to",
+      "user": "Sahan"
+    },
+    {
+      "title": "I Built a CLI Tool That Writes My Commit Messages",
+      "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
+      "published_at": "2026-03-20T19:12:28Z",
+      "description": "Hello guys! We've all been there. You just finished a feature, you're ready to commit, and then you...",
+      "tags": [
+        "git",
+        "ai",
+        "cli",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png",
+      "source": "Dev.to",
+      "user": "Lucas Neves Pereira"
+    },
+    {
+      "title": "I Asked AI \"Why Do I Exist?\" — Here's What Happened",
+      "url": "https://dev.to/razbakov/i-asked-ai-why-do-i-exist-heres-what-happened-355a",
+      "published_at": "2026-03-20T20:52:01Z",
+      "description": "How a two-hour conversation with AI became my life operating system — from finding my ikigai to testing a business hypothesis at a dance festival.",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtageosa0szoqtqedh63.png",
+      "source": "Dev.to",
+      "user": "Aleksey Razbakov"
+    },
+    {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
       "url": "https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f",
       "published_at": "2026-03-18T16:26:53Z",
@@ -2039,36 +2057,6 @@
       "user": "Richard Oliver Bray"
     },
     {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
-    },
-    {
-      "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
-      "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
-      "published_at": "2026-03-18T13:42:46Z",
-      "description": "An important property of tests is that they should be composable.  Here is an example. Say you have a...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "testing",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg",
-      "source": "Dev.to",
-      "user": "Younes Jaaidi"
-    },
-    {
       "title": "eze-is/web-access - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
       "url": "https://github.com/eze-is/web-access",
       "published_at": "2026-03-18T05:54:57Z",
@@ -2080,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "eze-is"
     },
     {
@@ -2095,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "kulikov0"
     },
     {
@@ -2110,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "iflytek"
     },
     {
@@ -2125,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 179,
       "user": "SethGammon"
     },
     {
@@ -2155,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3123,
+      "stars": 3126,
       "user": "HKUDS"
     },
     {
@@ -2170,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1053,
       "user": "math-inc"
     },
     {
@@ -2200,23 +2188,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 691,
       "user": "leo-lilinxiao"
     },
     {
-      "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "url": "https://github.com/dou-jiang/codex-console",
-      "published_at": "2026-03-21T14:50:54Z",
-      "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "url": "https://github.com/wangziqi06/724-office",
+      "published_at": "2026-03-17T05:56:13Z",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 679,
-      "user": "dou-jiang"
+      "stars": 681,
+      "user": "wangziqi06"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -2230,7 +2218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 435,
       "user": "fastclaw-ai"
     },
     {
@@ -2245,7 +2233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 360,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2260,7 +2248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "phlx0"
     },
     {
@@ -2275,7 +2263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "openilink"
     },
     {
