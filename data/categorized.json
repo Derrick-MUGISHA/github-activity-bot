@@ -348,6 +348,34 @@
       "user": "Aleksey Razbakov"
     },
     {
+      "title": "AI Vocab 101",
+      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
+      "published_at": "2026-03-19T22:25:31Z",
+      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
+      "source": "Dev.to",
+      "user": "BekahHW"
+    },
+    {
+      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
+      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
+      "published_at": "2026-03-16T19:05:58Z",
+      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "tags": [
+        "ai",
+        "googleadk",
+        "fastapi",
+        "telegram"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "source": "Dev.to",
+      "user": "James Zhang"
+    },
+    {
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
       "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
       "published_at": "2026-03-19T01:45:21Z",
@@ -361,19 +389,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zngyitw8hg358akt1hx.png",
       "source": "Dev.to",
       "user": "SHIBATA Hiroshi"
-    },
-    {
-      "title": "AI Vocab 101",
-      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
-      "published_at": "2026-03-19T22:25:31Z",
-      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -759,21 +774,6 @@
       "user": "veesahni"
     },
     {
-      "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
-      "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-      "published_at": "2026-03-16T20:55:01Z",
-      "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
-      "source": "GitHub",
-      "stars": 249,
-      "user": "J-Pster"
-    },
-    {
       "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
       "url": "https://github.com/iflytek/astronclaw-tutorial",
       "published_at": "2026-03-19T02:40:44Z",
@@ -785,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 164,
       "user": "iflytek"
     },
     {
@@ -800,8 +800,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "SethGammon"
+    },
+    {
+      "title": "ShunsukeHayashi/agent-skill-bus - The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
+      "url": "https://github.com/ShunsukeHayashi/agent-skill-bus",
+      "published_at": "2026-03-17T23:43:59Z",
+      "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
+      "source": "GitHub",
+      "stars": 119,
+      "user": "ShunsukeHayashi"
     },
     {
       "title": "leo-lilinxiao/codex-autoresearch - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
@@ -817,6 +832,21 @@
       "source": "GitHub",
       "stars": 617,
       "user": "leo-lilinxiao"
+    },
+    {
+      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "url": "https://github.com/wangziqi06/724-office",
+      "published_at": "2026-03-17T05:56:13Z",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
+      "source": "GitHub",
+      "stars": 617,
+      "user": "wangziqi06"
     },
     {
       "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
@@ -847,6 +877,21 @@
       "source": "GitHub",
       "stars": 143,
       "user": "ShawnPana"
+    },
+    {
+      "title": "phronesis-io/eigenflux - EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
+      "url": "https://github.com/phronesis-io/eigenflux",
+      "published_at": "2026-03-17T13:37:00Z",
+      "description": "EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268868355?v=4",
+      "source": "GitHub",
+      "stars": 70,
+      "user": "phronesis-io"
     }
   ],
   "JavaScript": [
@@ -1059,21 +1104,6 @@
       "user": "Harsh "
     },
     {
-      "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
-      "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
-      "published_at": "2026-03-18T13:42:46Z",
-      "description": "An important property of tests is that they should be composable.  Here is an example. Say you have a...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "testing",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg",
-      "source": "Dev.to",
-      "user": "Younes Jaaidi"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1194,21 +1224,6 @@
       "user": "velmu"
     },
     {
-      "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
-      "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-      "published_at": "2026-03-16T20:55:01Z",
-      "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
-      "source": "GitHub",
-      "stars": 249,
-      "user": "J-Pster"
-    },
-    {
       "title": "kulikov0/whitelist-bypass - GitHub Repository",
       "url": "https://github.com/kulikov0/whitelist-bypass",
       "published_at": "2026-03-19T15:58:14Z",
@@ -1235,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 164,
       "user": "iflytek"
     },
     {
@@ -1250,23 +1265,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "SethGammon"
     },
     {
-      "title": "umbrellaDocumentation/Web-Data-Scraper - Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
-      "url": "https://github.com/umbrellaDocumentation/Web-Data-Scraper",
-      "published_at": "2026-03-16T17:45:29Z",
-      "description": "Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
+      "title": "ShunsukeHayashi/agent-skill-bus - The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
+      "url": "https://github.com/ShunsukeHayashi/agent-skill-bus",
+      "published_at": "2026-03-17T23:43:59Z",
+      "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 124,
-      "user": "umbrellaDocumentation"
+      "stars": 119,
+      "user": "ShunsukeHayashi"
+    },
+    {
+      "title": "rullerzhou-afk/clawd-on-desk - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing,  juggling, sleeping, and more.",
+      "url": "https://github.com/rullerzhou-afk/clawd-on-desk",
+      "published_at": "2026-03-18T09:04:20Z",
+      "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing,  juggling, sleeping, and more.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/228746293?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "rullerzhou-afk"
     }
   ],
   "Python": [
@@ -1284,6 +1314,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
       "source": "Dev.to",
       "user": "Sahan"
+    },
+    {
+      "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
+      "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
+      "published_at": "2026-03-16T19:05:58Z",
+      "description": "How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.",
+      "tags": [
+        "ai",
+        "googleadk",
+        "fastapi",
+        "telegram"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
+      "source": "Dev.to",
+      "user": "James Zhang"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -1432,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2803,
+      "stars": 2861,
       "user": "HKUDS"
     },
     {
@@ -1447,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1022,
       "user": "math-inc"
     },
     {
@@ -1462,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 985,
       "user": "lxf746"
     },
     {
@@ -1481,19 +1526,19 @@
       "user": "leo-lilinxiao"
     },
     {
-      "title": "nv-tlabs/kimodo - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
-      "url": "https://github.com/nv-tlabs/kimodo",
-      "published_at": "2026-03-16T20:19:30Z",
-      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "url": "https://github.com/wangziqi06/724-office",
+      "published_at": "2026-03-17T05:56:13Z",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 609,
-      "user": "nv-tlabs"
+      "stars": 617,
+      "user": "wangziqi06"
     }
   ],
   "DevOps": [
@@ -1706,7 +1751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 164,
       "user": "iflytek"
     }
   ],
@@ -2061,36 +2106,6 @@
       "user": "Denis Bakhoum"
     },
     {
-      "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
-      "url": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
-      "published_at": "2026-03-18T13:42:46Z",
-      "description": "An important property of tests is that they should be composable.  Here is an example. Say you have a...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "testing",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2nhy3oth7oht30a7shd.jpeg",
-      "source": "Dev.to",
-      "user": "Younes Jaaidi"
-    },
-    {
-      "title": "J-Pster/Psters_AI_Workflow - An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
-      "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-      "published_at": "2026-03-16T20:55:01Z",
-      "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57305252?v=4",
-      "source": "GitHub",
-      "stars": 249,
-      "user": "J-Pster"
-    },
-    {
       "title": "kulikov0/whitelist-bypass - GitHub Repository",
       "url": "https://github.com/kulikov0/whitelist-bypass",
       "published_at": "2026-03-19T15:58:14Z",
@@ -2117,7 +2132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 164,
       "user": "iflytek"
     },
     {
@@ -2132,23 +2147,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "SethGammon"
     },
     {
-      "title": "umbrellaDocumentation/Web-Data-Scraper - Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
-      "url": "https://github.com/umbrellaDocumentation/Web-Data-Scraper",
-      "published_at": "2026-03-16T17:45:29Z",
-      "description": "Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.",
+      "title": "ShunsukeHayashi/agent-skill-bus - The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
+      "url": "https://github.com/ShunsukeHayashi/agent-skill-bus",
+      "published_at": "2026-03-17T23:43:59Z",
+      "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142042128?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 124,
-      "user": "umbrellaDocumentation"
+      "stars": 119,
+      "user": "ShunsukeHayashi"
+    },
+    {
+      "title": "rullerzhou-afk/clawd-on-desk - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing,  juggling, sleeping, and more.",
+      "url": "https://github.com/rullerzhou-afk/clawd-on-desk",
+      "published_at": "2026-03-18T09:04:20Z",
+      "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing,  juggling, sleeping, and more.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/228746293?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "rullerzhou-afk"
     },
     {
       "title": "HKUDS/ClawTeam - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
@@ -2162,7 +2192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2803,
+      "stars": 2861,
       "user": "HKUDS"
     },
     {
@@ -2177,7 +2207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1022,
       "user": "math-inc"
     },
     {
@@ -2192,7 +2222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 985,
       "user": "lxf746"
     },
     {
@@ -2211,19 +2241,19 @@
       "user": "leo-lilinxiao"
     },
     {
-      "title": "nv-tlabs/kimodo - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
-      "url": "https://github.com/nv-tlabs/kimodo",
-      "published_at": "2026-03-16T20:19:30Z",
-      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "url": "https://github.com/wangziqi06/724-office",
+      "published_at": "2026-03-17T05:56:13Z",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 609,
-      "user": "nv-tlabs"
+      "stars": 617,
+      "user": "wangziqi06"
     },
     {
       "title": "xiaolajiaoyyds/regplatformm - GitHub Repository",
@@ -2237,7 +2267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 199,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2271,34 +2301,34 @@
       "user": "ShawnPana"
     },
     {
-      "title": "agi-bar/clawcolony - claw, claw and claw",
-      "url": "https://github.com/agi-bar/clawcolony",
-      "published_at": "2026-03-16T00:41:53Z",
-      "description": "claw, claw and claw",
+      "title": "phronesis-io/eigenflux - EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
+      "url": "https://github.com/phronesis-io/eigenflux",
+      "published_at": "2026-03-17T13:37:00Z",
+      "description": "EigenFlux is an open-source framework that enables AI agents to communicate and broadcast within a shared network.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237910789?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/268868355?v=4",
       "source": "GitHub",
-      "stars": 105,
-      "user": "agi-bar"
+      "stars": 70,
+      "user": "phronesis-io"
     },
     {
-      "title": "ASTRA-LabsHQ/Astra-AV-Engine - A simple AV Engine used for teaching how AV engines work and how malware evades detections",
-      "url": "https://github.com/ASTRA-LabsHQ/Astra-AV-Engine",
-      "published_at": "2026-03-16T14:18:48Z",
-      "description": "A simple AV Engine used for teaching how AV engines work and how malware evades detections",
+      "title": "openilink/openilink-hub - GitHub Repository",
+      "url": "https://github.com/openilink/openilink-hub",
+      "published_at": "2026-03-22T03:39:57Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/189537017?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 102,
-      "user": "ASTRA-LabsHQ"
+      "stars": 57,
+      "user": "openilink"
     }
   ]
 }
