@@ -12,9 +12,9 @@
     "DevOps": 4,
     "WebDev": 8,
     "Mobile": 1,
-    "Cloud": 3,
+    "Cloud": 4,
     "Database": 4,
-    "Security": 7,
+    "Security": 6,
     "Tools": 25
   },
   "by_language": {
@@ -26,10 +26,10 @@
     "Rust": 1
   },
   "by_date": {
-    "2026-03-23": 6,
+    "2026-03-23": 7,
     "2026-03-20": 9,
     "2026-03-22": 5,
-    "2026-03-19": 10,
+    "2026-03-19": 9,
     "2026-03-21": 6,
     "2026-03-17": 10,
     "2026-03-18": 8,
@@ -90,9 +90,9 @@
     "go": 5,
     "agents": 4,
     "devchallenge": 4,
-    "security": 4,
     "frontend": 3,
-    "tutorial": 3
+    "tutorial": 3,
+    "mcp": 3
   },
   "trending_topics": [],
   "language_percentages": {

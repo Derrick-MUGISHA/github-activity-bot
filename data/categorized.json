@@ -44,6 +44,21 @@
       "user": "Made Büro"
     },
     {
+      "title": "Introducing Aerostack: Workflows, MCPs, and Intelligent Bots on the Edge",
+      "url": "https://dev.to/aerostack/introducing-aerostack-workflows-mcps-and-intelligent-bots-on-the-edge-4pla",
+      "published_at": "2026-03-23T09:24:28Z",
+      "description": "The Problem   It starts with configuration sprawl.  I was building a project and kept...",
+      "tags": [
+        "ai",
+        "mcp",
+        "cloudflarechallenge",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd09ksjp0w5viiqpmey14.png",
+      "source": "Dev.to",
+      "user": "Aerostack"
+    },
+    {
       "title": "Stop JSON.parse From Crashing on LLM Responses",
       "url": "https://dev.to/ard/stop-jsonparse-from-crashing-on-llm-responses-4n53",
       "published_at": "2026-03-22T15:05:35Z",
@@ -230,21 +245,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwt2rijx7v2jzn65wiegl.png",
       "source": "Dev.to",
       "user": "Dennis Lemm"
-    },
-    {
-      "title": "I Scanned 100 AI Codebases - Here's What I Found",
-      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
-      "published_at": "2026-03-19T08:41:48Z",
-      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
-      "source": "Dev.to",
-      "user": "Mykola Kondratiuk"
     },
     {
       "title": "Confident and Wrong",
@@ -735,6 +735,21 @@
       "user": "iflytek"
     },
     {
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "SethGammon"
+    },
+    {
       "title": "ShunsukeHayashi/agent-skill-bus - The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
       "url": "https://github.com/ShunsukeHayashi/agent-skill-bus",
       "published_at": "2026-03-17T23:43:59Z",
@@ -750,21 +765,6 @@
       "user": "ShunsukeHayashi"
     },
     {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 136,
-      "user": "SethGammon"
-    },
-    {
       "title": "leo-lilinxiao/codex-autoresearch - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
       "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
       "published_at": "2026-03-18T02:20:03Z",
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 667,
       "user": "leo-lilinxiao"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 421,
       "user": "fastclaw-ai"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "phlx0"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "openilink"
     }
   ],
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 676,
       "user": "eze-is"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "kulikov0"
     },
     {
@@ -1275,6 +1275,21 @@
       "user": "iflytek"
     },
     {
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "SethGammon"
+    },
+    {
       "title": "ShunsukeHayashi/agent-skill-bus - The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
       "url": "https://github.com/ShunsukeHayashi/agent-skill-bus",
       "published_at": "2026-03-17T23:43:59Z",
@@ -1288,21 +1303,6 @@
       "source": "GitHub",
       "stars": 137,
       "user": "ShunsukeHayashi"
-    },
-    {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 136,
-      "user": "SethGammon"
     }
   ],
   "Python": [
@@ -1468,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3083,
+      "stars": 3092,
       "user": "HKUDS"
     },
     {
@@ -1498,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1024,
       "user": "lxf746"
     },
     {
@@ -1513,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 672,
       "user": "dou-jiang"
     },
     {
@@ -1528,7 +1528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 667,
       "user": "leo-lilinxiao"
     }
   ],
@@ -1731,6 +1731,21 @@
   ],
   "Cloud": [
     {
+      "title": "Introducing Aerostack: Workflows, MCPs, and Intelligent Bots on the Edge",
+      "url": "https://dev.to/aerostack/introducing-aerostack-workflows-mcps-and-intelligent-bots-on-the-edge-4pla",
+      "published_at": "2026-03-23T09:24:28Z",
+      "description": "The Problem   It starts with configuration sprawl.  I was building a project and kept...",
+      "tags": [
+        "ai",
+        "mcp",
+        "cloudflarechallenge",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd09ksjp0w5viiqpmey14.png",
+      "source": "Dev.to",
+      "user": "Aerostack"
+    },
+    {
       "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
       "url": "https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b",
       "published_at": "2026-03-22T22:31:46Z",
@@ -1849,21 +1864,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
-    },
-    {
-      "title": "I Scanned 100 AI Codebases - Here's What I Found",
-      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
-      "published_at": "2026-03-19T08:41:48Z",
-      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
-      "source": "Dev.to",
-      "user": "Mykola Kondratiuk"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -2096,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 676,
       "user": "eze-is"
     },
     {
@@ -2111,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "kulikov0"
     },
     {
@@ -2130,6 +2130,21 @@
       "user": "iflytek"
     },
     {
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "SethGammon"
+    },
+    {
       "title": "ShunsukeHayashi/agent-skill-bus - The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
       "url": "https://github.com/ShunsukeHayashi/agent-skill-bus",
       "published_at": "2026-03-17T23:43:59Z",
@@ -2145,21 +2160,6 @@
       "user": "ShunsukeHayashi"
     },
     {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 136,
-      "user": "SethGammon"
-    },
-    {
       "title": "HKUDS/ClawTeam - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
       "url": "https://github.com/HKUDS/ClawTeam",
       "published_at": "2026-03-17T14:42:46Z",
@@ -2171,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3083,
+      "stars": 3092,
       "user": "HKUDS"
     },
     {
@@ -2201,7 +2201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1024,
       "user": "lxf746"
     },
     {
@@ -2216,7 +2216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 672,
       "user": "dou-jiang"
     },
     {
@@ -2231,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 667,
       "user": "leo-lilinxiao"
     },
     {
@@ -2246,7 +2246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 421,
       "user": "fastclaw-ai"
     },
     {
@@ -2261,7 +2261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 332,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2276,7 +2276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "phlx0"
     },
     {
@@ -2306,7 +2306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "openilink"
     }
   ]
