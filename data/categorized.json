@@ -1,6 +1,19 @@
 {
   "AI": [
     {
+      "title": "Are you paying attention to your token use?",
+      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
+      "published_at": "2026-03-23T13:45:08Z",
+      "description": "Or do you just use AI tools freely?",
+      "tags": [
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
+      "source": "Dev.to",
+      "user": "Amara Graham"
+    },
+    {
       "title": "I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.",
       "url": "https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk",
       "published_at": "2026-03-23T13:12:28Z",
@@ -16,17 +29,34 @@
       "user": "Devesh Korde"
     },
     {
-      "title": "Are you paying attention to your token use?",
-      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
-      "published_at": "2026-03-23T13:45:08Z",
-      "description": "Or do you just use AI tools freely?",
+      "title": "AI context management across Claude, Cursor, Kiro, Gemini and custom agents",
+      "url": "https://dev.to/madeburo/ai-context-management-across-claude-cursor-kiro-gemini-and-custom-agents-2n1f",
+      "published_at": "2026-03-23T06:43:31Z",
+      "description": "If you use more than one AI coding agent, you've probably noticed that each one wants its own context...",
       "tags": [
         "ai",
-        "discuss"
+        "opensource",
+        "cli",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncw5bwzmeqylac89grps.png",
       "source": "Dev.to",
-      "user": "Amara Graham"
+      "user": "Made Büro"
+    },
+    {
+      "title": "Stop JSON.parse From Crashing on LLM Responses",
+      "url": "https://dev.to/ard/stop-jsonparse-from-crashing-on-llm-responses-4n53",
+      "published_at": "2026-03-22T15:05:35Z",
+      "description": "I want to show you every way an LLM can break your JSON.parse call, and how to handle all of them in...",
+      "tags": [
+        "ai",
+        "typescript",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kbicx2llfcmcfjr73tn.png",
+      "source": "Dev.to",
+      "user": "Aaron Decker"
     },
     {
       "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
@@ -247,6 +277,21 @@
       "user": "Amjad Abujamous"
     },
     {
+      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
+      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
+      "published_at": "2026-03-22T08:40:00Z",
+      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
+      "tags": [
+        "angular",
+        "webdev",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
+      "source": "Dev.to",
+      "user": "Antonio Cardenas "
+    },
+    {
       "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
       "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
       "published_at": "2026-03-19T17:48:19Z",
@@ -275,59 +320,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
       "source": "Dev.to",
       "user": "Paige Bailey"
-    },
-    {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
-    },
-    {
-      "title": "I Built a CLI Tool That Writes My Commit Messages",
-      "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
-      "published_at": "2026-03-20T19:12:28Z",
-      "description": "Hello guys! We've all been there. You just finished a feature, you're ready to commit, and then you...",
-      "tags": [
-        "git",
-        "ai",
-        "cli",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png",
-      "source": "Dev.to",
-      "user": "Lucas Neves Pereira"
-    },
-    {
-      "title": "I Asked AI \"Why Do I Exist?\" — Here's What Happened",
-      "url": "https://dev.to/razbakov/i-asked-ai-why-do-i-exist-heres-what-happened-355a",
-      "published_at": "2026-03-20T20:52:01Z",
-      "description": "How a two-hour conversation with AI became my life operating system — from finding my ikigai to testing a business hypothesis at a dance festival.",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtageosa0szoqtqedh63.png",
-      "source": "Dev.to",
-      "user": "Aleksey Razbakov"
-    },
-    {
-      "title": "AI Vocab 101",
-      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
-      "published_at": "2026-03-19T22:25:31Z",
-      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -739,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "iflytek"
     },
     {
@@ -754,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "ShunsukeHayashi"
     },
     {
@@ -769,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "SethGammon"
     },
     {
@@ -784,23 +776,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 664,
       "user": "leo-lilinxiao"
-    },
-    {
-      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "url": "https://github.com/wangziqi06/724-office",
-      "published_at": "2026-03-17T05:56:13Z",
-      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
-      "source": "GitHub",
-      "stars": 656,
-      "user": "wangziqi06"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -814,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 403,
       "user": "fastclaw-ai"
     },
     {
@@ -829,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "phlx0"
     },
     {
@@ -859,11 +836,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "openilink"
     }
   ],
   "JavaScript": [
+    {
+      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
+      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+      "published_at": "2026-03-23T05:48:13Z",
+      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "react",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
+      "source": "Dev.to",
+      "user": "Satish Gowda"
+    },
+    {
+      "title": "Stop JSON.parse From Crashing on LLM Responses",
+      "url": "https://dev.to/ard/stop-jsonparse-from-crashing-on-llm-responses-4n53",
+      "published_at": "2026-03-22T15:05:35Z",
+      "description": "I want to show you every way an LLM can break your JSON.parse call, and how to handle all of them in...",
+      "tags": [
+        "ai",
+        "typescript",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kbicx2llfcmcfjr73tn.png",
+      "source": "Dev.to",
+      "user": "Aaron Decker"
+    },
     {
       "title": "I Built a Doom Clone in One HTML File",
       "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
@@ -940,6 +947,21 @@
       "user": "Albert Alov"
     },
     {
+      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
+      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
+      "published_at": "2026-03-22T08:40:00Z",
+      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
+      "tags": [
+        "angular",
+        "webdev",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
+      "source": "Dev.to",
+      "user": "Antonio Cardenas "
+    },
+    {
       "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
       "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
       "published_at": "2026-03-20T15:44:30Z",
@@ -953,21 +975,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
       "source": "Dev.to",
       "user": "Paige Bailey"
-    },
-    {
-      "title": "Type-safe environment validation",
-      "url": "https://dev.to/madeburo/type-safe-environment-validation-3mdi",
-      "published_at": "2026-03-21T15:13:51Z",
-      "description": "Environment variables are one of those things that look simple until they start breaking...",
-      "tags": [
-        "opensource",
-        "node",
-        "typescript",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnou32jsw3sbd540zijm7.webp",
-      "source": "Dev.to",
-      "user": "Made Büro"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -1234,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 656,
       "user": "eze-is"
     },
     {
@@ -1249,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "kulikov0"
     },
     {
@@ -1264,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "iflytek"
     },
     {
@@ -1279,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "ShunsukeHayashi"
     },
     {
@@ -1294,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "SethGammon"
     }
   ],
@@ -1461,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3060,
+      "stars": 3083,
       "user": "HKUDS"
     },
     {
@@ -1476,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1045,
       "user": "math-inc"
     },
     {
@@ -1491,8 +1498,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1021,
+      "stars": 1023,
       "user": "lxf746"
+    },
+    {
+      "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+      "url": "https://github.com/dou-jiang/codex-console",
+      "published_at": "2026-03-21T14:50:54Z",
+      "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
+      "source": "GitHub",
+      "stars": 666,
+      "user": "dou-jiang"
     },
     {
       "title": "leo-lilinxiao/codex-autoresearch - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
@@ -1506,26 +1528,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 664,
       "user": "leo-lilinxiao"
-    },
-    {
-      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "url": "https://github.com/wangziqi06/724-office",
-      "published_at": "2026-03-17T05:56:13Z",
-      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
-      "source": "GitHub",
-      "stars": 656,
-      "user": "wangziqi06"
     }
   ],
   "DevOps": [
+    {
+      "title": "Duct tape enough services together and you can cache APT packages",
+      "url": "https://dev.to/dhandspikerwade/duct-tape-enough-services-together-and-you-can-cache-apt-packages-2iml",
+      "published_at": "2026-03-23T03:03:36Z",
+      "description": "APT repositories are just HTTP file servers, doesn't seem like something that should require a custom piece of software.",
+      "tags": [
+        "docker",
+        "debian",
+        "ubuntu",
+        "nginx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Fnerd_sniping.png",
+      "source": "Dev.to",
+      "user": "Devin H"
+    },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
       "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
@@ -1539,21 +1561,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
-    },
-    {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
     },
     {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
@@ -1587,6 +1594,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
+      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+      "published_at": "2026-03-23T05:48:13Z",
+      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "react",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
+      "source": "Dev.to",
+      "user": "Satish Gowda"
+    },
     {
       "title": "I Built a Doom Clone in One HTML File",
       "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
@@ -1709,6 +1731,21 @@
   ],
   "Cloud": [
     {
+      "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
+      "url": "https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b",
+      "published_at": "2026-03-22T22:31:46Z",
+      "description": "We wanted every employee in the company to use OpenClaw — not just engineers. Product managers...",
+      "tags": [
+        "opensource",
+        "openclaw",
+        "aws",
+        "cdk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png",
+      "source": "Dev.to",
+      "user": "C.K.Sun"
+    },
+    {
       "title": "My First Experience Creating Antigravity Skills",
       "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
       "published_at": "2026-03-20T15:23:02Z",
@@ -1735,7 +1772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "iflytek"
     }
   ],
@@ -1827,21 +1864,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
       "source": "Dev.to",
       "user": "Mykola Kondratiuk"
-    },
-    {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -1973,29 +1995,19 @@
       "user": "Brian Love"
     },
     {
-      "title": "I Built a CLI Tool That Writes My Commit Messages",
-      "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
-      "published_at": "2026-03-20T19:12:28Z",
-      "description": "Hello guys! We've all been there. You just finished a feature, you're ready to commit, and then you...",
+      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
+      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
+      "published_at": "2026-03-22T08:40:00Z",
+      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
       "tags": [
-        "git",
-        "ai",
-        "cli",
-        "productivity"
+        "angular",
+        "webdev",
+        "mcp",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fct48yn45kg1qnpaqxbqo.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
       "source": "Dev.to",
-      "user": "Lucas Neves Pereira"
-    },
-    {
-      "title": "I Asked AI \"Why Do I Exist?\" — Here's What Happened",
-      "url": "https://dev.to/razbakov/i-asked-ai-why-do-i-exist-heres-what-happened-355a",
-      "published_at": "2026-03-20T20:52:01Z",
-      "description": "How a two-hour conversation with AI became my life operating system — from finding my ikigai to testing a business hypothesis at a dance festival.",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtageosa0szoqtqedh63.png",
-      "source": "Dev.to",
-      "user": "Aleksey Razbakov"
+      "user": "Antonio Cardenas "
     },
     {
       "title": "🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro",
@@ -2084,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 656,
       "user": "eze-is"
     },
     {
@@ -2099,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "kulikov0"
     },
     {
@@ -2114,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "iflytek"
     },
     {
@@ -2129,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "ShunsukeHayashi"
     },
     {
@@ -2144,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "SethGammon"
     },
     {
@@ -2159,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3060,
+      "stars": 3083,
       "user": "HKUDS"
     },
     {
@@ -2174,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1045,
       "user": "math-inc"
     },
     {
@@ -2189,8 +2201,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1021,
+      "stars": 1023,
       "user": "lxf746"
+    },
+    {
+      "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+      "url": "https://github.com/dou-jiang/codex-console",
+      "published_at": "2026-03-21T14:50:54Z",
+      "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
+      "source": "GitHub",
+      "stars": 666,
+      "user": "dou-jiang"
     },
     {
       "title": "leo-lilinxiao/codex-autoresearch - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
@@ -2204,23 +2231,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 664,
       "user": "leo-lilinxiao"
-    },
-    {
-      "title": "wangziqi06/724-office - 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "url": "https://github.com/wangziqi06/724-office",
-      "published_at": "2026-03-17T05:56:13Z",
-      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
-      "source": "GitHub",
-      "stars": 656,
-      "user": "wangziqi06"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -2234,7 +2246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 403,
       "user": "fastclaw-ai"
     },
     {
@@ -2249,7 +2261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 327,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2264,7 +2276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "phlx0"
     },
     {
@@ -2294,7 +2306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "openilink"
     }
   ]
