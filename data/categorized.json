@@ -145,20 +145,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
-      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
-      "published_at": "2026-03-20T13:00:00Z",
-      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
-      "tags": [
-        "gemini",
-        "ai",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
       "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
       "published_at": "2026-03-17T16:00:00Z",
@@ -233,21 +219,6 @@
       "user": "Amjad Abujamous"
     },
     {
-      "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
-      "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
-      "published_at": "2026-03-20T15:44:30Z",
-      "description": "Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...",
-      "tags": [
-        "webdev",
-        "ai",
-        "javascript",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
-    {
       "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
       "url": "https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp",
       "published_at": "2026-03-19T17:48:19Z",
@@ -261,6 +232,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83tj2505h9p1ah3wmhm0.png",
       "source": "Dev.to",
       "user": "Guillaume Vernade"
+    },
+    {
+      "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
+      "url": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
+      "published_at": "2026-03-20T15:44:30Z",
+      "description": "Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...",
+      "tags": [
+        "webdev",
+        "ai",
+        "javascript",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqexbekq4ov3mu4amt5q0.jpg",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
     },
     {
       "title": "Anki On My Wrist",
@@ -361,18 +347,19 @@
       "user": "Dineshraj Anandan"
     },
     {
-      "title": "We've Seen This Movie Before",
-      "url": "https://dev.to/wynandpieters/weve-seen-this-movie-before-3719",
-      "published_at": "2026-03-19T08:54:35Z",
-      "description": "I've been sitting on this comparison for a while, trying to decide if it was too obvious to write...",
+      "title": "My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh",
+      "url": "https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7",
+      "published_at": "2026-03-20T15:02:04Z",
+      "description": "A post by Ben Halpern",
       "tags": [
+        "agents",
         "ai",
-        "gamedev",
-        "programming"
+        "algorithms",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjamddrosdvt0ita47pf.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0oxfssmey5ma0npbmqjm.png",
       "source": "Dev.to",
-      "user": "Wynand Pieters"
+      "user": "Ben Halpern"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -415,6 +402,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
       "source": "Dev.to",
       "user": "Faruk Durgut"
+    },
+    {
+      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
+      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
+      "published_at": "2026-03-20T13:00:00Z",
+      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
+      "tags": [
+        "gemini",
+        "ai",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
     },
     {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
@@ -567,6 +568,21 @@
       "user": "Harsh "
     },
     {
+      "title": "Data governance just became a conversation, not a workflow.",
+      "url": "https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998",
+      "published_at": "2026-03-20T14:22:04Z",
+      "description": "🤔 If you've ever tried to get a full picture of your governance posture, you know the drill -- run...",
+      "tags": [
+        "ai",
+        "data",
+        "database",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png",
+      "source": "Dev.to",
+      "user": "Dash"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -710,7 +726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 181,
       "user": "iflytek"
     },
     {
@@ -740,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "ShunsukeHayashi"
     },
     {
@@ -755,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 644,
       "user": "leo-lilinxiao"
     },
     {
@@ -770,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 641,
       "user": "wangziqi06"
     },
     {
@@ -785,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 287,
       "user": "fastclaw-ai"
     },
     {
@@ -800,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "phlx0"
     },
     {
@@ -817,6 +833,21 @@
       "source": "GitHub",
       "stars": 143,
       "user": "ShawnPana"
+    },
+    {
+      "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
+      "url": "https://github.com/openilink/openilink-hub",
+      "published_at": "2026-03-22T03:39:57Z",
+      "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
+      "source": "GitHub",
+      "stars": 121,
+      "user": "openilink"
     }
   ],
   "JavaScript": [
@@ -1175,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 494,
       "user": "eze-is"
     },
     {
@@ -1190,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "kulikov0"
     },
     {
@@ -1205,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 181,
       "user": "iflytek"
     },
     {
@@ -1235,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "ShunsukeHayashi"
     }
   ],
@@ -1417,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2995,
+      "stars": 3007,
       "user": "HKUDS"
     },
     {
@@ -1447,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1012,
       "user": "lxf746"
     },
     {
@@ -1462,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 644,
       "user": "leo-lilinxiao"
     },
     {
@@ -1477,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 641,
       "user": "wangziqi06"
     }
   ],
@@ -1706,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 181,
       "user": "iflytek"
     }
   ],
@@ -1740,6 +1771,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
       "source": "Dev.to",
       "user": "Ahmet Zeybek"
+    },
+    {
+      "title": "Data governance just became a conversation, not a workflow.",
+      "url": "https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998",
+      "published_at": "2026-03-20T14:22:04Z",
+      "description": "🤔 If you've ever tried to get a full picture of your governance posture, you know the drill -- run...",
+      "tags": [
+        "ai",
+        "data",
+        "database",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png",
+      "source": "Dev.to",
+      "user": "Dash"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1826,6 +1872,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkgg1qh4gznsxh19r392.png",
       "source": "Dev.to",
       "user": "Kat Cosgrove"
+    },
+    {
+      "title": "Data governance just became a conversation, not a workflow.",
+      "url": "https://dev.to/snowflake/data-governance-just-became-a-conversation-not-a-workflow-3998",
+      "published_at": "2026-03-20T14:22:04Z",
+      "description": "🤔 If you've ever tried to get a full picture of your governance posture, you know the drill -- run...",
+      "tags": [
+        "ai",
+        "data",
+        "database",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoqmcf7nt0p9fhtvob37.png",
+      "source": "Dev.to",
+      "user": "Dash"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2027,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 494,
       "user": "eze-is"
     },
     {
@@ -2042,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "kulikov0"
     },
     {
@@ -2057,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 181,
       "user": "iflytek"
     },
     {
@@ -2087,7 +2148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11504206?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "ShunsukeHayashi"
     },
     {
@@ -2102,7 +2163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2995,
+      "stars": 3007,
       "user": "HKUDS"
     },
     {
@@ -2132,7 +2193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1012,
       "user": "lxf746"
     },
     {
@@ -2147,7 +2208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 644,
       "user": "leo-lilinxiao"
     },
     {
@@ -2162,23 +2223,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193560727?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 641,
       "user": "wangziqi06"
-    },
-    {
-      "title": "xiaolajiaoyyds/regplatformm - GitHub Repository",
-      "url": "https://github.com/xiaolajiaoyyds/regplatformm",
-      "published_at": "2026-03-21T19:16:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
-      "source": "GitHub",
-      "stars": 268,
-      "user": "xiaolajiaoyyds"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -2192,8 +2238,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 287,
       "user": "fastclaw-ai"
+    },
+    {
+      "title": "xiaolajiaoyyds/regplatformm - GitHub Repository",
+      "url": "https://github.com/xiaolajiaoyyds/regplatformm",
+      "published_at": "2026-03-21T19:16:51Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "xiaolajiaoyyds"
     },
     {
       "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
@@ -2207,7 +2268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "phlx0"
     },
     {
@@ -2226,10 +2287,10 @@
       "user": "ShawnPana"
     },
     {
-      "title": "openilink/openilink-hub - GitHub Repository",
+      "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
       "url": "https://github.com/openilink/openilink-hub",
       "published_at": "2026-03-22T03:39:57Z",
-      "description": "Trending GitHub Repository",
+      "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
       "tags": [
         "go",
         "github",
@@ -2237,7 +2298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 121,
       "user": "openilink"
     }
   ]
