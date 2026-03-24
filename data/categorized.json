@@ -16,34 +16,6 @@
       "user": "Devesh Korde"
     },
     {
-      "title": "Are you paying attention to your token use?",
-      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
-      "published_at": "2026-03-23T13:45:08Z",
-      "description": "Or do you just use AI tools freely?",
-      "tags": [
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
-      "source": "Dev.to",
-      "user": "Amara Graham"
-    },
-    {
-      "title": "AI context management across Claude, Cursor, Kiro, Gemini and custom agents",
-      "url": "https://dev.to/madeburo/ai-context-management-across-claude-cursor-kiro-gemini-and-custom-agents-2n1f",
-      "published_at": "2026-03-23T06:43:31Z",
-      "description": "If you use more than one AI coding agent, you've probably noticed that each one wants its own context...",
-      "tags": [
-        "ai",
-        "opensource",
-        "cli",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncw5bwzmeqylac89grps.png",
-      "source": "Dev.to",
-      "user": "Made Büro"
-    },
-    {
       "title": "Testing Antigravity: Building a Data-Intensive POC at 300km/h",
       "url": "https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57",
       "published_at": "2026-03-22T19:18:05Z",
@@ -72,6 +44,34 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd09ksjp0w5viiqpmey14.png",
       "source": "Dev.to",
       "user": "Aerostack"
+    },
+    {
+      "title": "Are you paying attention to your token use?",
+      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
+      "published_at": "2026-03-23T13:45:08Z",
+      "description": "Or do you just use AI tools freely?",
+      "tags": [
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
+      "source": "Dev.to",
+      "user": "Amara Graham"
+    },
+    {
+      "title": "AI context management across Claude, Cursor, Kiro, Gemini and custom agents",
+      "url": "https://dev.to/madeburo/ai-context-management-across-claude-cursor-kiro-gemini-and-custom-agents-2n1f",
+      "published_at": "2026-03-23T06:43:31Z",
+      "description": "If you use more than one AI coding agent, you've probably noticed that each one wants its own context...",
+      "tags": [
+        "ai",
+        "opensource",
+        "cli",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncw5bwzmeqylac89grps.png",
+      "source": "Dev.to",
+      "user": "Made Büro"
     },
     {
       "title": "Stop JSON.parse From Crashing on LLM Responses",
@@ -171,21 +171,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
-    },
-    {
-      "title": "My First Experience Creating Antigravity Skills",
-      "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
-      "published_at": "2026-03-20T15:23:02Z",
-      "description": "Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...",
-      "tags": [
-        "antigravity",
-        "ai",
-        "googlecloud",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -322,19 +307,6 @@
       "user": "Lucas Neves Pereira"
     },
     {
-      "title": "AI Vocab 101",
-      "url": "https://dev.to/bekahhw/ai-vocab-101-eh2",
-      "published_at": "2026-03-19T22:25:31Z",
-      "description": "Smart, curious people keep hitting the same wall with AI: they don't have the words to name what they don't understand. Here are the terms that turn vague frustration into specific, solvable problems.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci18co4dqy2qz3z9luu8.png",
-      "source": "Dev.to",
-      "user": "BekahHW"
-    },
-    {
       "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
       "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
       "published_at": "2026-03-16T19:05:58Z",
@@ -407,19 +379,19 @@
       "user": "Mike Krop"
     },
     {
-      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
-      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
-      "published_at": "2026-03-16T14:42:02Z",
-      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
+      "title": "My First Experience Creating Antigravity Skills",
+      "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
+      "published_at": "2026-03-20T15:23:02Z",
+      "description": "Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...",
       "tags": [
-        "rust",
-        "postgres",
-        "opensource",
-        "showdev"
+        "antigravity",
+        "ai",
+        "googlecloud",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
       "source": "Dev.to",
-      "user": "Faruk Durgut"
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
@@ -436,6 +408,21 @@
       "user": "Greg Baugues"
     },
     {
+      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
+      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
+      "published_at": "2026-03-16T14:42:02Z",
+      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
+      "tags": [
+        "rust",
+        "postgres",
+        "opensource",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
+      "source": "Dev.to",
+      "user": "Faruk Durgut"
+    },
+    {
       "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
       "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
       "published_at": "2026-03-07T09:30:17Z",
@@ -449,21 +436,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
       "source": "Dev.to",
       "user": "Ahmet Zeybek"
-    },
-    {
-      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
-      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
-      "published_at": "2026-03-19T17:02:19Z",
-      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
-      "tags": [
-        "webdev",
-        "vite",
-        "frontend",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
     },
     {
       "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
@@ -511,21 +483,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
-      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
-      "published_at": "2026-03-12T02:26:38Z",
-      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
-      "source": "Dev.to",
-      "user": "ujja"
-    },
-    {
       "title": "I Scanned 100 AI Codebases - Here's What I Found",
       "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
       "published_at": "2026-03-19T08:41:48Z",
@@ -539,6 +496,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
       "source": "Dev.to",
       "user": "Mykola Kondratiuk"
+    },
+    {
+      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
+      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
+      "published_at": "2026-03-12T02:26:38Z",
+      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
+      "source": "Dev.to",
+      "user": "ujja"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -569,6 +541,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
       "source": "Dev.to",
       "user": "Martin Patino"
+    },
+    {
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+      "published_at": "2026-03-07T10:44:43Z",
+      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+      "tags": [
+        "webdev",
+        "ai",
+        "automation",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
+      "source": "Dev.to",
+      "user": "GrahamTheDev"
+    },
+    {
+      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
+      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
+      "published_at": "2026-03-21T12:23:06Z",
+      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
+      "tags": [
+        "javascript",
+        "ai",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
+      "source": "Dev.to",
+      "user": "rorie devine"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -714,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 238,
       "user": "SethGammon"
     },
     {
@@ -729,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 218,
       "user": "iflytek"
     },
     {
@@ -744,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 810,
       "user": "leo-lilinxiao"
     },
     {
@@ -759,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 507,
       "user": "fastclaw-ai"
     },
     {
@@ -774,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "phlx0"
     },
     {
@@ -789,23 +791,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 169,
       "user": "openilink"
-    },
-    {
-      "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
-      "url": "https://github.com/ShawnPana/aurl",
-      "published_at": "2026-03-19T03:03:33Z",
-      "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
-      "source": "GitHub",
-      "stars": 146,
-      "user": "ShawnPana"
     }
   ],
   "JavaScript": [
@@ -900,21 +887,6 @@
       "user": "Paige Bailey"
     },
     {
-      "title": "Type-safe environment validation",
-      "url": "https://dev.to/madeburo/type-safe-environment-validation-3mdi",
-      "published_at": "2026-03-21T15:13:51Z",
-      "description": "Environment variables are one of those things that look simple until they start breaking...",
-      "tags": [
-        "opensource",
-        "node",
-        "typescript",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnou32jsw3sbd540zijm7.webp",
-      "source": "Dev.to",
-      "user": "Made Büro"
-    },
-    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -926,21 +898,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
       "source": "Dev.to",
       "user": "Chioma Halim"
-    },
-    {
-      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
-      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
-      "published_at": "2026-03-19T17:02:19Z",
-      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
-      "tags": [
-        "webdev",
-        "vite",
-        "frontend",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
     },
     {
       "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
@@ -973,6 +930,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Type-safe environment validation",
+      "url": "https://dev.to/madeburo/type-safe-environment-validation-3mdi",
+      "published_at": "2026-03-21T15:13:51Z",
+      "description": "Environment variables are one of those things that look simple until they start breaking...",
+      "tags": [
+        "opensource",
+        "node",
+        "typescript",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnou32jsw3sbd540zijm7.webp",
+      "source": "Dev.to",
+      "user": "Made Büro"
+    },
+    {
       "title": "I Built a Doom Clone in One HTML File",
       "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
       "published_at": "2026-03-20T23:22:00Z",
@@ -986,6 +958,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
       "source": "Dev.to",
       "user": "Martin Patino"
+    },
+    {
+      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
+      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
+      "published_at": "2026-03-21T12:23:06Z",
+      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
+      "tags": [
+        "javascript",
+        "ai",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
+      "source": "Dev.to",
+      "user": "rorie devine"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1119,8 +1106,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 836,
       "user": "eze-is"
+    },
+    {
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
+      "source": "GitHub",
+      "stars": 238,
+      "user": "SethGammon"
     },
     {
       "title": "kulikov0/whitelist-bypass - GitHub Repository",
@@ -1138,21 +1140,6 @@
       "user": "kulikov0"
     },
     {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 222,
-      "user": "SethGammon"
-    },
-    {
       "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
       "url": "https://github.com/iflytek/astronclaw-tutorial",
       "published_at": "2026-03-19T02:40:44Z",
@@ -1164,7 +1151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 218,
       "user": "iflytek"
     },
     {
@@ -1179,7 +1166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228746293?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 118,
       "user": "rullerzhou-afk"
     }
   ],
@@ -1390,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1031,
+      "stars": 1039,
       "user": "lxf746"
     },
     {
@@ -1405,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 810,
       "user": "leo-lilinxiao"
     },
     {
@@ -1420,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 715,
       "user": "dou-jiang"
     },
     {
@@ -1435,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42172631?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 617,
       "user": "win4r"
     }
   ],
@@ -1532,21 +1519,6 @@
       "user": "Satish Gowda"
     },
     {
-      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
-      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
-      "published_at": "2026-03-19T17:02:19Z",
-      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
-      "tags": [
-        "webdev",
-        "vite",
-        "frontend",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
-    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -1590,6 +1562,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
       "source": "Dev.to",
       "user": "Martin Patino"
+    },
+    {
+      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
+      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
+      "published_at": "2026-03-21T12:23:06Z",
+      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
+      "tags": [
+        "javascript",
+        "ai",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
+      "source": "Dev.to",
+      "user": "rorie devine"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1709,7 +1696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 218,
       "user": "iflytek"
     }
   ],
@@ -1841,37 +1828,9 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
-      "url": "https://github.com/ShawnPana/aurl",
-      "published_at": "2026-03-19T03:03:33Z",
-      "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
-      "source": "GitHub",
-      "stars": 146,
-      "user": "ShawnPana"
     }
   ],
   "Tools": [
-    {
-      "title": "Are you paying attention to your token use?",
-      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
-      "published_at": "2026-03-23T13:45:08Z",
-      "description": "Or do you just use AI tools freely?",
-      "tags": [
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
-      "source": "Dev.to",
-      "user": "Amara Graham"
-    },
     {
       "title": "Testing Antigravity: Building a Data-Intensive POC at 300km/h",
       "url": "https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57",
@@ -1886,6 +1845,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyy88eoxqpt4vv0wjmg8.png",
       "source": "Dev.to",
       "user": "Patricio Navarro"
+    },
+    {
+      "title": "Are you paying attention to your token use?",
+      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
+      "published_at": "2026-03-23T13:45:08Z",
+      "description": "Or do you just use AI tools freely?",
+      "tags": [
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
+      "source": "Dev.to",
+      "user": "Amara Graham"
     },
     {
       "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
@@ -1992,21 +1964,6 @@
       "user": "Dineshraj Anandan"
     },
     {
-      "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
-      "url": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
-      "published_at": "2026-03-19T17:02:19Z",
-      "description": "If you're a frontend developer in 2026, you've probably had to deal with a lot of different tooling....",
-      "tags": [
-        "webdev",
-        "vite",
-        "frontend",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mpl2i0lk7p7dikh3upy.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
-    {
       "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
       "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
       "published_at": "2026-03-06T16:03:22Z",
@@ -2048,8 +2005,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 836,
       "user": "eze-is"
+    },
+    {
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
+      "source": "GitHub",
+      "stars": 238,
+      "user": "SethGammon"
     },
     {
       "title": "kulikov0/whitelist-bypass - GitHub Repository",
@@ -2067,21 +2039,6 @@
       "user": "kulikov0"
     },
     {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 222,
-      "user": "SethGammon"
-    },
-    {
       "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
       "url": "https://github.com/iflytek/astronclaw-tutorial",
       "published_at": "2026-03-19T02:40:44Z",
@@ -2093,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 218,
       "user": "iflytek"
     },
     {
@@ -2108,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228746293?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 118,
       "user": "rullerzhou-afk"
     },
     {
@@ -2138,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1031,
+      "stars": 1039,
       "user": "lxf746"
     },
     {
@@ -2153,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 810,
       "user": "leo-lilinxiao"
     },
     {
@@ -2168,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 715,
       "user": "dou-jiang"
     },
     {
@@ -2183,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42172631?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 617,
       "user": "win4r"
     },
     {
@@ -2198,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 507,
       "user": "fastclaw-ai"
     },
     {
@@ -2213,7 +2170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 374,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2228,7 +2185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "phlx0"
     },
     {
@@ -2243,23 +2200,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 169,
       "user": "openilink"
     },
     {
-      "title": "ShawnPana/aurl - A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
-      "url": "https://github.com/ShawnPana/aurl",
-      "published_at": "2026-03-19T03:03:33Z",
-      "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection.",
+      "title": "samber/cc-skills-golang - 🧑‍🎨 A collection of Golang agentic skills that works",
+      "url": "https://github.com/samber/cc-skills-golang",
+      "published_at": "2026-03-21T23:10:11Z",
+      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 146,
-      "user": "ShawnPana"
+      "stars": 149,
+      "user": "samber"
     }
   ]
 }
