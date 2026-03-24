@@ -46,6 +46,36 @@
       "user": "Glen Yu"
     },
     {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56",
+      "published_at": "2026-03-23T17:44:29Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googleadk",
+        "awslightsail",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Introducing Aerostack: Workflows, MCPs, and Intelligent Bots on the Edge",
       "url": "https://dev.to/aerostack/introducing-aerostack-workflows-mcps-and-intelligent-bots-on-the-edge-4pla",
       "published_at": "2026-03-23T09:24:28Z",
@@ -59,6 +89,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd09ksjp0w5viiqpmey14.png",
       "source": "Dev.to",
       "user": "Aerostack"
+    },
+    {
+      "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
+      "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
+      "published_at": "2026-03-23T23:19:39Z",
+      "description": "I want to tell you something that did not make it into the README.  I built...",
+      "tags": [
+        "ai",
+        "llm",
+        "monitoring",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
+      "source": "Dev.to",
+      "user": "Taiwrash"
+    },
+    {
+      "title": "I Put a Prompt Injection on My Resume",
+      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
+      "published_at": "2026-03-23T23:51:06Z",
+      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "tags": [
+        "ai",
+        "career",
+        "security",
+        "promptinjection"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "source": "Dev.to",
+      "user": "Fielding Johnston"
     },
     {
       "title": "Agentic Engineering: Lessons Learned Vol. 2",
@@ -219,62 +279,19 @@
       "user": "Dennis Lemm"
     },
     {
-      "title": "I was asked to delete my comments before committing",
-      "url": "https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437",
-      "published_at": "2026-03-22T01:20:22Z",
-      "description": "I was asked to delete my comments before committing   I've worked in IT for 12 years now —...",
-      "tags": [
-        "git",
-        "productivity",
-        "developer",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltopb4rrczp2qlq1rv08.png",
-      "source": "Dev.to",
-      "user": "Tual Maxime"
-    },
-    {
-      "title": "Vercel’s \"Agentic\" Shift: Is Your Proprietary Code Now Training AI?",
-      "url": "https://dev.to/matscode/vercels-agentic-shift-is-your-proprietary-code-now-training-ai-402h",
-      "published_at": "2026-03-23T16:33:54Z",
-      "description": "The deadline to protect your team’s data is March 31, 2026.  If you logged into Vercel this morning,...",
-      "tags": [
-        "webdev",
-        "ai",
-        "security",
-        "vercel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv05p0z8jlh3wq143ymwm.png",
-      "source": "Dev.to",
-      "user": "Michael Akanji"
-    },
-    {
-      "title": "Confident and Wrong",
-      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
-      "published_at": "2026-03-17T20:07:24Z",
-      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
+      "title": "February 2026 GDE AI Newsletter Mentions",
+      "url": "https://dev.to/gde/february-2026-gde-ai-newsletter-mentions-2f45",
+      "published_at": "2026-03-23T13:44:56Z",
+      "description": "Just got the February AI GDE summary in my inbox.  I got a few mentions for my recent...",
       "tags": [
         "ai",
-        "swift",
-        "programming",
-        "learning"
+        "gemini",
+        "mcp",
+        "news"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F088cimv7qnp1wda0t0sm.png",
       "source": "Dev.to",
-      "user": "Max"
-    },
-    {
-      "title": "Are you paying attention to your token use?",
-      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
-      "published_at": "2026-03-23T13:45:08Z",
-      "description": "Or do you just use AI tools freely?",
-      "tags": [
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
-      "source": "Dev.to",
-      "user": "Amara Graham"
+      "user": "xbill"
     },
     {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
@@ -717,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 250,
       "user": "iflytek"
     },
     {
@@ -747,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "fastclaw-ai"
     },
     {
@@ -762,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "phlx0"
     },
     {
@@ -1092,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 982,
       "user": "eze-is"
     },
     {
@@ -1107,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/698308?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 445,
       "user": "dashersw"
     },
     {
@@ -1137,7 +1154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "kulikov0"
     },
     {
@@ -1152,11 +1169,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 250,
       "user": "iflytek"
     }
   ],
   "Python": [
+    {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56",
+      "published_at": "2026-03-23T17:44:29Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googleadk",
+        "awslightsail",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
       "url": "https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd",
@@ -1399,21 +1446,6 @@
       "user": "Brian Love"
     },
     {
-      "title": "Duct tape enough services together and you can cache APT packages",
-      "url": "https://dev.to/dhandspikerwade/duct-tape-enough-services-together-and-you-can-cache-apt-packages-2iml",
-      "published_at": "2026-03-23T03:03:36Z",
-      "description": "APT repositories are just HTTP file servers, doesn't seem like something that should require a custom piece of software.",
-      "tags": [
-        "docker",
-        "debian",
-        "ubuntu",
-        "nginx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Fnerd_sniping.png",
-      "source": "Dev.to",
-      "user": "Devin H"
-    },
-    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -1535,19 +1567,19 @@
   ],
   "Mobile": [
     {
-      "title": "Confident and Wrong",
-      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
-      "published_at": "2026-03-17T20:07:24Z",
-      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
+      "title": "I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes",
+      "url": "https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he",
+      "published_at": "2026-03-24T11:06:02Z",
+      "description": "SystemeInternational uses phantom types, affine spaces, and zero-cost abstractions to make unit misuse a compile-time error. 306 tests, 8 bytes per quantity, and unit conversions at 3 ns/op in Release.",
       "tags": [
-        "ai",
         "swift",
         "programming",
-        "learning"
+        "opensource",
+        "types"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
       "source": "Dev.to",
-      "user": "Max"
+      "user": "Henrique Sasaki Yuya"
     },
     {
       "title": "TrackFlow: A Kotlin Multiplatform Analytics Router for Android and iOS",
@@ -1566,6 +1598,36 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56",
+      "published_at": "2026-03-23T17:44:29Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googleadk",
+        "awslightsail",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Introducing Aerostack: Workflows, MCPs, and Intelligent Bots on the Edge",
       "url": "https://dev.to/aerostack/introducing-aerostack-workflows-mcps-and-intelligent-bots-on-the-edge-4pla",
@@ -1623,7 +1685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 250,
       "user": "iflytek"
     }
   ],
@@ -1673,6 +1735,36 @@
   ],
   "Security": [
     {
+      "title": "I built a terminal-native Little Snitch alternative for macOS",
+      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
+      "published_at": "2026-03-24T11:49:08Z",
+      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
+      "tags": [
+        "go",
+        "macos",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
+      "source": "Dev.to",
+      "user": "Nick Ciolpan"
+    },
+    {
+      "title": "I Put a Prompt Injection on My Resume",
+      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
+      "published_at": "2026-03-23T23:51:06Z",
+      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "tags": [
+        "ai",
+        "career",
+        "security",
+        "promptinjection"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "source": "Dev.to",
+      "user": "Fielding Johnston"
+    },
+    {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
       "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
       "published_at": "2026-03-18T23:02:35Z",
@@ -1685,21 +1777,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
-    },
-    {
-      "title": "Vercel’s \"Agentic\" Shift: Is Your Proprietary Code Now Training AI?",
-      "url": "https://dev.to/matscode/vercels-agentic-shift-is-your-proprietary-code-now-training-ai-402h",
-      "published_at": "2026-03-23T16:33:54Z",
-      "description": "The deadline to protect your team’s data is March 31, 2026.  If you logged into Vercel this morning,...",
-      "tags": [
-        "webdev",
-        "ai",
-        "security",
-        "vercel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv05p0z8jlh3wq143ymwm.png",
-      "source": "Dev.to",
-      "user": "Michael Akanji"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -1818,34 +1895,6 @@
       "user": "Patricio Navarro"
     },
     {
-      "title": "I was asked to delete my comments before committing",
-      "url": "https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437",
-      "published_at": "2026-03-22T01:20:22Z",
-      "description": "I was asked to delete my comments before committing   I've worked in IT for 12 years now —...",
-      "tags": [
-        "git",
-        "productivity",
-        "developer",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltopb4rrczp2qlq1rv08.png",
-      "source": "Dev.to",
-      "user": "Tual Maxime"
-    },
-    {
-      "title": "Are you paying attention to your token use?",
-      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
-      "published_at": "2026-03-23T13:45:08Z",
-      "description": "Or do you just use AI tools freely?",
-      "tags": [
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
-      "source": "Dev.to",
-      "user": "Amara Graham"
-    },
-    {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
       "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
       "published_at": "2026-03-20T19:12:28Z",
@@ -1932,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 982,
       "user": "eze-is"
     },
     {
@@ -1947,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/698308?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 445,
       "user": "dashersw"
     },
     {
@@ -1977,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "kulikov0"
     },
     {
@@ -1992,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 250,
       "user": "iflytek"
     },
     {
@@ -2082,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "fastclaw-ai"
     },
     {
@@ -2112,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "samber"
     },
     {
@@ -2127,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "phlx0"
     },
     {
