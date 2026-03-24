@@ -31,21 +31,6 @@
       "user": "Helder Burato Berto"
     },
     {
-      "title": "I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.",
-      "url": "https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk",
-      "published_at": "2026-03-23T13:12:28Z",
-      "description": "I'll be honest. A year ago, if you told me I'd be having full conversations with an AI while building...",
-      "tags": [
-        "ai",
-        "programming",
-        "coding",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg45p37fkdyfvtgugcalk.png",
-      "source": "Dev.to",
-      "user": "Devesh Korde"
-    },
-    {
       "title": "Introducing Aerostack: Workflows, MCPs, and Intelligent Bots on the Edge",
       "url": "https://dev.to/aerostack/introducing-aerostack-workflows-mcps-and-intelligent-bots-on-the-edge-4pla",
       "published_at": "2026-03-23T09:24:28Z",
@@ -87,21 +72,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncw5bwzmeqylac89grps.png",
       "source": "Dev.to",
       "user": "Made Büro"
-    },
-    {
-      "title": "Stop JSON.parse From Crashing on LLM Responses",
-      "url": "https://dev.to/ard/stop-jsonparse-from-crashing-on-llm-responses-4n53",
-      "published_at": "2026-03-22T15:05:35Z",
-      "description": "I want to show you every way an LLM can break your JSON.parse call, and how to handle all of them in...",
-      "tags": [
-        "ai",
-        "typescript",
-        "javascript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kbicx2llfcmcfjr73tn.png",
-      "source": "Dev.to",
-      "user": "Aaron Decker"
     },
     {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
@@ -156,6 +126,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
+    },
+    {
+      "title": "I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.",
+      "url": "https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk",
+      "published_at": "2026-03-23T13:12:28Z",
+      "description": "I'll be honest. A year ago, if you told me I'd be having full conversations with an AI while building...",
+      "tags": [
+        "ai",
+        "programming",
+        "coding",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg45p37fkdyfvtgugcalk.png",
+      "source": "Dev.to",
+      "user": "Devesh Korde"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -262,19 +247,34 @@
       "user": "Amjad Abujamous"
     },
     {
-      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
-      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
-      "published_at": "2026-03-22T08:40:00Z",
-      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
+      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
+      "published_at": "2026-03-21T21:47:33Z",
+      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
       "tags": [
-        "angular",
-        "webdev",
-        "mcp",
-        "ai"
+        "ai",
+        "observability",
+        "typescript",
+        "opentelemetry"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
       "source": "Dev.to",
-      "user": "Antonio Cardenas "
+      "user": "Albert Alov"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
@@ -362,35 +362,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
       "source": "Dev.to",
       "user": "Mike Krop"
-    },
-    {
-      "title": "My First Experience Creating Antigravity Skills",
-      "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
-      "published_at": "2026-03-20T15:23:02Z",
-      "description": "Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...",
-      "tags": [
-        "antigravity",
-        "ai",
-        "googlecloud",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
-      "url": "https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf",
-      "published_at": "2026-03-20T13:00:00Z",
-      "description": "In Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode, we moved past the basics and into the...",
-      "tags": [
-        "gemini",
-        "ai",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqipo9s34gczqsvhkyfq.jpeg",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
     },
     {
       "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
@@ -496,6 +467,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
       "source": "Dev.to",
       "user": "ujja"
+    },
+    {
+      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
+      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
+      "published_at": "2026-03-22T08:40:00Z",
+      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
+      "tags": [
+        "angular",
+        "webdev",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
+      "source": "Dev.to",
+      "user": "Antonio Cardenas "
+    },
+    {
+      "title": "Stop JSON.parse From Crashing on LLM Responses",
+      "url": "https://dev.to/ard/stop-jsonparse-from-crashing-on-llm-responses-4n53",
+      "published_at": "2026-03-22T15:05:35Z",
+      "description": "I want to show you every way an LLM can break your JSON.parse call, and how to handle all of them in...",
+      "tags": [
+        "ai",
+        "typescript",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kbicx2llfcmcfjr73tn.png",
+      "source": "Dev.to",
+      "user": "Aaron Decker"
     },
     {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
@@ -701,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 287,
       "user": "SethGammon"
     },
     {
@@ -716,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 243,
       "user": "iflytek"
     },
     {
@@ -746,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 602,
       "user": "fastclaw-ai"
     },
     {
@@ -761,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "phlx0"
     },
     {
@@ -812,21 +813,6 @@
       "user": "Satish Gowda"
     },
     {
-      "title": "Stop JSON.parse From Crashing on LLM Responses",
-      "url": "https://dev.to/ard/stop-jsonparse-from-crashing-on-llm-responses-4n53",
-      "published_at": "2026-03-22T15:05:35Z",
-      "description": "I want to show you every way an LLM can break your JSON.parse call, and how to handle all of them in...",
-      "tags": [
-        "ai",
-        "typescript",
-        "javascript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kbicx2llfcmcfjr73tn.png",
-      "source": "Dev.to",
-      "user": "Aaron Decker"
-    },
-    {
       "title": "I Built a Claude Code Agent That Doesn't Need Me Anymore",
       "url": "https://dev.to/jkheadley/i-built-a-claude-code-agent-that-doesnt-need-me-anymore-dfm",
       "published_at": "2026-03-17T17:43:25Z",
@@ -857,19 +843,19 @@
       "user": "Paige Bailey"
     },
     {
-      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
-      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
-      "published_at": "2026-03-22T08:40:00Z",
-      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
+      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
+      "published_at": "2026-03-21T21:47:33Z",
+      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
       "tags": [
-        "angular",
-        "webdev",
-        "mcp",
-        "ai"
+        "ai",
+        "observability",
+        "typescript",
+        "opentelemetry"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
       "source": "Dev.to",
-      "user": "Antonio Cardenas "
+      "user": "Albert Alov"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -913,6 +899,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
+      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
+      "published_at": "2026-03-22T08:40:00Z",
+      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
+      "tags": [
+        "angular",
+        "webdev",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
+      "source": "Dev.to",
+      "user": "Antonio Cardenas "
+    },
+    {
+      "title": "Stop JSON.parse From Crashing on LLM Responses",
+      "url": "https://dev.to/ard/stop-jsonparse-from-crashing-on-llm-responses-4n53",
+      "published_at": "2026-03-22T15:05:35Z",
+      "description": "I want to show you every way an LLM can break your JSON.parse call, and how to handle all of them in...",
+      "tags": [
+        "ai",
+        "typescript",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kbicx2llfcmcfjr73tn.png",
+      "source": "Dev.to",
+      "user": "Aaron Decker"
     },
     {
       "title": "Type-safe environment validation",
@@ -1091,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 978,
       "user": "eze-is"
     },
     {
@@ -1106,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/698308?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 382,
       "user": "dashersw"
     },
     {
@@ -1121,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 287,
       "user": "SethGammon"
     },
     {
@@ -1136,7 +1152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "kulikov0"
     },
     {
@@ -1151,7 +1167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 243,
       "user": "iflytek"
     }
   ],
@@ -1377,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 798,
       "user": "dou-jiang"
     },
     {
@@ -1392,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42172631?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 668,
       "user": "win4r"
     },
     {
@@ -1413,6 +1429,20 @@
   ],
   "DevOps": [
     {
+      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
+      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
+      "published_at": "2026-03-18T23:02:35Z",
+      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
+      "tags": [
+        "ai",
+        "tooling",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
+      "source": "Dev.to",
+      "user": "Brian Love"
+    },
+    {
       "title": "Duct tape enough services together and you can cache APT packages",
       "url": "https://dev.to/dhandspikerwade/duct-tape-enough-services-together-and-you-can-cache-apt-packages-2iml",
       "published_at": "2026-03-23T03:03:36Z",
@@ -1428,18 +1458,19 @@
       "user": "Devin H"
     },
     {
-      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
-      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
-      "published_at": "2026-03-18T23:02:35Z",
-      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
       "tags": [
         "ai",
-        "tooling",
-        "devops"
+        "agents",
+        "logging",
+        "observability"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
       "source": "Dev.to",
-      "user": "Brian Love"
+      "user": "Michael Bogan"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1640,21 +1671,6 @@
       "user": "Patricio Navarro"
     },
     {
-      "title": "My First Experience Creating Antigravity Skills",
-      "url": "https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b",
-      "published_at": "2026-03-20T15:23:02Z",
-      "description": "Experimenting with Agent skills for the first time, feeling empowered!    Last week, I was at an...",
-      "tags": [
-        "antigravity",
-        "ai",
-        "googlecloud",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc06och30q6f6wl5asfe.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
       "url": "https://github.com/iflytek/astronclaw-tutorial",
       "published_at": "2026-03-19T02:40:44Z",
@@ -1666,7 +1682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 243,
       "user": "iflytek"
     }
   ],
@@ -1728,6 +1744,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -1844,21 +1875,6 @@
       "user": "Tual Maxime"
     },
     {
-      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
-      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
-      "published_at": "2026-03-22T08:40:00Z",
-      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
-      "tags": [
-        "angular",
-        "webdev",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
-      "source": "Dev.to",
-      "user": "Antonio Cardenas "
-    },
-    {
       "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
       "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
       "published_at": "2026-03-21T22:22:00Z",
@@ -1872,6 +1888,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
       "source": "Dev.to",
       "user": "Sahan"
+    },
+    {
+      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
+      "published_at": "2026-03-21T21:47:33Z",
+      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
+      "tags": [
+        "ai",
+        "observability",
+        "typescript",
+        "opentelemetry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
+      "source": "Dev.to",
+      "user": "Albert Alov"
     },
     {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
@@ -1919,6 +1950,21 @@
       "user": "Richard Oliver Bray"
     },
     {
+      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
+      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
+      "published_at": "2026-03-22T08:40:00Z",
+      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
+      "tags": [
+        "angular",
+        "webdev",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
+      "source": "Dev.to",
+      "user": "Antonio Cardenas "
+    },
+    {
       "title": "How Do You Actually Know If AI Is Working On Your Team?",
       "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
       "published_at": "2026-02-27T12:24:36Z",
@@ -1945,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 978,
       "user": "eze-is"
     },
     {
@@ -1960,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/698308?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 382,
       "user": "dashersw"
     },
     {
@@ -1975,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 287,
       "user": "SethGammon"
     },
     {
@@ -1990,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "kulikov0"
     },
     {
@@ -2005,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 243,
       "user": "iflytek"
     },
     {
@@ -2050,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 798,
       "user": "dou-jiang"
     },
     {
@@ -2065,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42172631?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 668,
       "user": "win4r"
     },
     {
@@ -2095,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 602,
       "user": "fastclaw-ai"
     },
     {
@@ -2110,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2125,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 221,
       "user": "samber"
     },
     {
@@ -2140,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "phlx0"
     },
     {
