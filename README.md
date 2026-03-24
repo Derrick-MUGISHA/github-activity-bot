@@ -288,7 +288,7 @@ MIT License - Feel free to use and modify!
 
 <p align="center">
   <b>Last automated update: Tue, 24 Mar 2026 01:49:31 GMT</b><br/>
-  <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
+  <sub>Powered by GitHub Actions</sub>
 </p>
 
 ---
