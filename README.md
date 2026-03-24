@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-24 16:00 CAT)
+## 📅 Latest Updates (2026-03-24 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -172,7 +172,7 @@ npm run test
   </td>
   <td align="center" width="33%">
     <a href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs1jnzzm36f5cmj6048c.gif" width="200" alt="Get Started on Dev.to! A Beginner's Guide to Engage with the Community!" />
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs1jnzzm36f5cmj6048c.gif" width="200" alt="Get Started on Dev.to! A Beginner's Guide to Engage with the Community! 💡" />
       <br/>
       <b>Get Started on Dev.to! A Beginner's Guide to Engag...</b>
     </a>
@@ -199,7 +199,7 @@ npm run test
 - [Building a Weather Station Using an Old Raspberry Pi](https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333) _[Dev.to]_
 - [Kigumi: Same components, any stack](https://dev.to/mischa/kigumi-same-components-any-stack-bn0) _[Dev.to]_
 - [I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.](https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk) _[Dev.to]_
-- [Get Started on Dev.to! A Beginner's Guide to Engage with the Community!](https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach) _[Dev.to]_
+- [Get Started on Dev.to! A Beginner's Guide to Engage with the Community! 💡](https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-35ja) _[Dev.to]_
 - [Introducing Aerostack: Workflows, MCPs, and Intelligent Bots on the Edge](https://dev.to/aerostack/introducing-aerostack-workflows-mcps-and-intelligent-bots-on-the-edge-4pla) _[Dev.to]_
 - [Are you paying attention to your token use?](https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Testing Antigravity: Building a Data-Intensive POC at 300km/h](https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57) _[Dev.to]_
 - [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 
-_Last automated update: Tue, 24 Mar 2026 16:03:58 CAT_
+_Last automated update: Tue, 24 Mar 2026 17:18:54 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 24 Mar 2026 16:03:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Mar 2026 14:03:58 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Mar 2026 15:18:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
