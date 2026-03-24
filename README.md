@@ -216,7 +216,7 @@ npm run test
 - [Jargon Doesn't Make You Senior](https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd) _[Dev.to]_
 - [How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos](https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b) _[Dev.to]_
 
-_Last automated update: Wed, 25 Mar 2026 00:27:16 CAT_
+_Last automated update: Wed, 25 Mar 2026 00:58:41 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 25 Mar 2026 00:27:16 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Mar 2026 22:27:16 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Mar 2026 22:58:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
