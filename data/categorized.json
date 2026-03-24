@@ -31,21 +31,6 @@
       "user": "Glen Yu"
     },
     {
-      "title": "Kigumi: Same components, any stack",
-      "url": "https://dev.to/mischa/kigumi-same-components-any-stack-bn0",
-      "published_at": "2026-03-24T12:33:32Z",
-      "description": "What if the same button component worked in React, Vue, Angular, and Svelte without changing a single...",
-      "tags": [
-        "webcomponents",
-        "ai",
-        "frontend",
-        "designsystem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febrcsuqjqqn1ox8qph9m.jpg",
-      "source": "Dev.to",
-      "user": "Mischa"
-    },
-    {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
       "published_at": "2026-03-23T17:53:10Z",
@@ -294,6 +279,124 @@
       "user": "xbill"
     },
     {
+      "title": "I was asked to delete my comments before committing",
+      "url": "https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437",
+      "published_at": "2026-03-22T01:20:22Z",
+      "description": "I was asked to delete my comments before committing   I've worked in IT for 12 years now —...",
+      "tags": [
+        "git",
+        "productivity",
+        "developer",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltopb4rrczp2qlq1rv08.png",
+      "source": "Dev.to",
+      "user": "Tual Maxime"
+    },
+    {
+      "title": "Vercel’s \"Agentic\" Shift: Is Your Proprietary Code Now Training AI?",
+      "url": "https://dev.to/matscode/vercels-agentic-shift-is-your-proprietary-code-now-training-ai-402h",
+      "published_at": "2026-03-23T16:33:54Z",
+      "description": "The deadline to protect your team’s data is March 31, 2026.  If you logged into Vercel this morning,...",
+      "tags": [
+        "webdev",
+        "ai",
+        "security",
+        "vercel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv05p0z8jlh3wq143ymwm.png",
+      "source": "Dev.to",
+      "user": "Michael Akanji"
+    },
+    {
+      "title": "Confident and Wrong",
+      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
+      "published_at": "2026-03-17T20:07:24Z",
+      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
+      "tags": [
+        "ai",
+        "swift",
+        "programming",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
+      "source": "Dev.to",
+      "user": "Max"
+    },
+    {
+      "title": "Are you paying attention to your token use?",
+      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
+      "published_at": "2026-03-23T13:45:08Z",
+      "description": "Or do you just use AI tools freely?",
+      "tags": [
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
+      "source": "Dev.to",
+      "user": "Amara Graham"
+    },
+    {
+      "title": "The Local AI Powerhouse",
+      "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
+      "published_at": "2026-03-13T18:25:54Z",
+      "description": "Introduction   Keeping up with everything AI-related in the recent months has got me...",
+      "tags": [
+        "ai",
+        "qwen",
+        "localllm",
+        "gptoss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
+      "source": "Dev.to",
+      "user": "Amjad Abujamous"
+    },
+    {
+      "title": "Kigumi: Same components, any stack",
+      "url": "https://dev.to/mischa/kigumi-same-components-any-stack-bn0",
+      "published_at": "2026-03-24T12:33:32Z",
+      "description": "What if the same button component worked in React, Vue, Angular, and Svelte without changing a single...",
+      "tags": [
+        "webcomponents",
+        "ai",
+        "frontend",
+        "designsystem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febrcsuqjqqn1ox8qph9m.jpg",
+      "source": "Dev.to",
+      "user": "Mischa"
+    },
+    {
+      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
+      "published_at": "2026-03-21T21:47:33Z",
+      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
+      "tags": [
+        "ai",
+        "observability",
+        "typescript",
+        "opentelemetry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
+      "source": "Dev.to",
+      "user": "Albert Alov"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
+    },
+    {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
       "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
       "published_at": "2026-03-20T19:12:28Z",
@@ -337,21 +440,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk0q8lof0d657pfo6tejn.jpg",
       "source": "Dev.to",
       "user": "Dineshraj Anandan"
-    },
-    {
-      "title": "My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh",
-      "url": "https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7",
-      "published_at": "2026-03-20T15:02:04Z",
-      "description": "A post by Ben Halpern",
-      "tags": [
-        "agents",
-        "ai",
-        "algorithms",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0oxfssmey5ma0npbmqjm.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -439,141 +527,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
-    },
-    {
-      "title": "I Scanned 100 AI Codebases - Here's What I Found",
-      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
-      "published_at": "2026-03-19T08:41:48Z",
-      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
-      "source": "Dev.to",
-      "user": "Mykola Kondratiuk"
-    },
-    {
-      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-      "published_at": "2026-03-12T10:51:33Z",
-      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "typescript",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
-      "url": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
-      "published_at": "2026-03-12T02:26:38Z",
-      "description": "This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04qzm8j2sklzgjboos0o.png",
-      "source": "Dev.to",
-      "user": "ujja"
-    },
-    {
-      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
-      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
-      "published_at": "2026-03-22T08:40:00Z",
-      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
-      "tags": [
-        "angular",
-        "webdev",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
-      "source": "Dev.to",
-      "user": "Antonio Cardenas "
-    },
-    {
-      "title": "Stop JSON.parse From Crashing on LLM Responses",
-      "url": "https://dev.to/ard/stop-jsonparse-from-crashing-on-llm-responses-4n53",
-      "published_at": "2026-03-22T15:05:35Z",
-      "description": "I want to show you every way an LLM can break your JSON.parse call, and how to handle all of them in...",
-      "tags": [
-        "ai",
-        "typescript",
-        "javascript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kbicx2llfcmcfjr73tn.png",
-      "source": "Dev.to",
-      "user": "Aaron Decker"
-    },
-    {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
-    },
-    {
-      "title": "I Built a Doom Clone in One HTML File",
-      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
-      "published_at": "2026-03-20T23:22:00Z",
-      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
-      "tags": [
-        "javascript",
-        "gamedev",
-        "sideprojects",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
-      "source": "Dev.to",
-      "user": "Martin Patino"
-    },
-    {
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
-      "published_at": "2026-03-07T10:44:43Z",
-      "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
-      "tags": [
-        "webdev",
-        "ai",
-        "automation",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqae975019rzwgg28572.png",
-      "source": "Dev.to",
-      "user": "GrahamTheDev"
-    },
-    {
-      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
-      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
-      "published_at": "2026-03-21T12:23:06Z",
-      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
-      "tags": [
-        "javascript",
-        "ai",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
-      "source": "Dev.to",
-      "user": "rorie devine"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -734,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "iflytek"
     },
     {
@@ -749,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 657,
       "user": "leo-lilinxiao"
     },
     {
@@ -764,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 610,
       "user": "fastclaw-ai"
     },
     {
@@ -794,26 +747,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 206,
       "user": "openilink"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Kigumi: Same components, any stack",
-      "url": "https://dev.to/mischa/kigumi-same-components-any-stack-bn0",
-      "published_at": "2026-03-24T12:33:32Z",
-      "description": "What if the same button component worked in React, Vue, Angular, and Svelte without changing a single...",
-      "tags": [
-        "webcomponents",
-        "ai",
-        "frontend",
-        "designsystem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febrcsuqjqqn1ox8qph9m.jpg",
-      "source": "Dev.to",
-      "user": "Mischa"
-    },
     {
       "title": "TypeScript deserved a real DDD framework - so I built one",
       "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
@@ -860,6 +798,36 @@
       "user": "Justin Headley"
     },
     {
+      "title": "Kigumi: Same components, any stack",
+      "url": "https://dev.to/mischa/kigumi-same-components-any-stack-bn0",
+      "published_at": "2026-03-24T12:33:32Z",
+      "description": "What if the same button component worked in React, Vue, Angular, and Svelte without changing a single...",
+      "tags": [
+        "webcomponents",
+        "ai",
+        "frontend",
+        "designsystem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febrcsuqjqqn1ox8qph9m.jpg",
+      "source": "Dev.to",
+      "user": "Mischa"
+    },
+    {
+      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
+      "published_at": "2026-03-21T21:47:33Z",
+      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
+      "tags": [
+        "ai",
+        "observability",
+        "typescript",
+        "opentelemetry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
+      "source": "Dev.to",
+      "user": "Albert Alov"
+    },
+    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -886,96 +854,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
       "source": "Dev.to",
       "user": "Christian Segovia"
-    },
-    {
-      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-      "url": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-      "published_at": "2026-03-12T10:51:33Z",
-      "description": "JavaScript has been the main language of the web for years. Its popularity probably surprised even...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "typescript",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh08eu2tusvx2fr1cavq0.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
-      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
-      "published_at": "2026-03-22T08:40:00Z",
-      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
-      "tags": [
-        "angular",
-        "webdev",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
-      "source": "Dev.to",
-      "user": "Antonio Cardenas "
-    },
-    {
-      "title": "Stop JSON.parse From Crashing on LLM Responses",
-      "url": "https://dev.to/ard/stop-jsonparse-from-crashing-on-llm-responses-4n53",
-      "published_at": "2026-03-22T15:05:35Z",
-      "description": "I want to show you every way an LLM can break your JSON.parse call, and how to handle all of them in...",
-      "tags": [
-        "ai",
-        "typescript",
-        "javascript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kbicx2llfcmcfjr73tn.png",
-      "source": "Dev.to",
-      "user": "Aaron Decker"
-    },
-    {
-      "title": "Type-safe environment validation",
-      "url": "https://dev.to/madeburo/type-safe-environment-validation-3mdi",
-      "published_at": "2026-03-21T15:13:51Z",
-      "description": "Environment variables are one of those things that look simple until they start breaking...",
-      "tags": [
-        "opensource",
-        "node",
-        "typescript",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnou32jsw3sbd540zijm7.webp",
-      "source": "Dev.to",
-      "user": "Made Büro"
-    },
-    {
-      "title": "I Built a Doom Clone in One HTML File",
-      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
-      "published_at": "2026-03-20T23:22:00Z",
-      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
-      "tags": [
-        "javascript",
-        "gamedev",
-        "sideprojects",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
-      "source": "Dev.to",
-      "user": "Martin Patino"
-    },
-    {
-      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
-      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
-      "published_at": "2026-03-21T12:23:06Z",
-      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
-      "tags": [
-        "javascript",
-        "ai",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
-      "source": "Dev.to",
-      "user": "rorie devine"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1109,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 984,
       "user": "eze-is"
     },
     {
@@ -1124,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/698308?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 457,
       "user": "dashersw"
     },
     {
@@ -1154,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "kulikov0"
     },
     {
@@ -1169,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "iflytek"
     }
   ],
@@ -1203,6 +1081,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
+      "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
+      "published_at": "2026-03-21T22:22:00Z",
+      "description": "If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...",
+      "tags": [
+        "github",
+        "python",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
+      "source": "Dev.to",
+      "user": "Sahan"
+    },
+    {
+      "title": "pyxclip: Cross-Platform Clipboard for Python, Backed by Rust",
+      "url": "https://dev.to/abbazs/pyxclip-cross-platform-clipboard-for-python-backed-by-rust-g37",
+      "published_at": "2026-03-22T09:41:22Z",
+      "description": "pyxclip: Cross-Platform Clipboard for Python, Backed by Rust   Most Python clipboard...",
+      "tags": [
+        "python",
+        "rust",
+        "clipboard"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0od1oc3mgofs4c18ou19.png",
+      "source": "Dev.to",
+      "user": "abbazs"
     },
     {
       "title": "Human-in-the-Loop AI Agents with Google ADK and Telegram",
@@ -1396,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 800,
       "user": "dou-jiang"
     },
     {
@@ -1426,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 657,
       "user": "leo-lilinxiao"
     }
   ],
@@ -1446,6 +1353,36 @@
       "user": "Brian Love"
     },
     {
+      "title": "Duct tape enough services together and you can cache APT packages",
+      "url": "https://dev.to/dhandspikerwade/duct-tape-enough-services-together-and-you-can-cache-apt-packages-2iml",
+      "published_at": "2026-03-23T03:03:36Z",
+      "description": "APT repositories are just HTTP file servers, doesn't seem like something that should require a custom piece of software.",
+      "tags": [
+        "docker",
+        "debian",
+        "ubuntu",
+        "nginx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Fnerd_sniping.png",
+      "source": "Dev.to",
+      "user": "Devin H"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
+    },
+    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -1463,21 +1400,6 @@
   ],
   "WebDev": [
     {
-      "title": "Kigumi: Same components, any stack",
-      "url": "https://dev.to/mischa/kigumi-same-components-any-stack-bn0",
-      "published_at": "2026-03-24T12:33:32Z",
-      "description": "What if the same button component worked in React, Vue, Angular, and Svelte without changing a single...",
-      "tags": [
-        "webcomponents",
-        "ai",
-        "frontend",
-        "designsystem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febrcsuqjqqn1ox8qph9m.jpg",
-      "source": "Dev.to",
-      "user": "Mischa"
-    },
-    {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
       "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
       "published_at": "2026-03-23T05:48:13Z",
@@ -1493,6 +1415,21 @@
       "user": "Satish Gowda"
     },
     {
+      "title": "Kigumi: Same components, any stack",
+      "url": "https://dev.to/mischa/kigumi-same-components-any-stack-bn0",
+      "published_at": "2026-03-24T12:33:32Z",
+      "description": "What if the same button component worked in React, Vue, Angular, and Svelte without changing a single...",
+      "tags": [
+        "webcomponents",
+        "ai",
+        "frontend",
+        "designsystem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febrcsuqjqqn1ox8qph9m.jpg",
+      "source": "Dev.to",
+      "user": "Mischa"
+    },
+    {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
       "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
       "published_at": "2026-03-05T20:29:52Z",
@@ -1506,51 +1443,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
       "source": "Dev.to",
       "user": "Sovereign Revenue Guard"
-    },
-    {
-      "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!",
-      "url": "https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828",
-      "published_at": "2026-03-06T16:10:33Z",
-      "description": "We’re excited to announce the launch of the 2026 WeCoded Challenge!  This year marks our ninth year...",
-      "tags": [
-        "devchallenge",
-        "wecoded",
-        "frontend",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fme5v0tp25315iv3lfe65.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "I Built a Doom Clone in One HTML File",
-      "url": "https://dev.to/thisguymartin/i-built-a-doom-clone-in-one-html-file-4603",
-      "published_at": "2026-03-20T23:22:00Z",
-      "description": "The first version of Cthulhu just walked into a wall and stayed there. Six tentacles flailing, third...",
-      "tags": [
-        "javascript",
-        "gamedev",
-        "sideprojects",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jra8qdgfccuzai640cx.png",
-      "source": "Dev.to",
-      "user": "Martin Patino"
-    },
-    {
-      "title": "I Added AI to Any Website With One Line of JavaScript — Here's How",
-      "url": "https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc",
-      "published_at": "2026-03-21T12:23:06Z",
-      "description": "How I built an embeddable AI assistant that reads your website and answers customer questions — with a single script tag. No API keys, no backend, no configuration.",
-      "tags": [
-        "javascript",
-        "ai",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fembedai.dev%2Fassets%2Fog-embedai.png",
-      "source": "Dev.to",
-      "user": "rorie devine"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1580,6 +1472,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
       "source": "Dev.to",
       "user": "Henrique Sasaki Yuya"
+    },
+    {
+      "title": "Confident and Wrong",
+      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
+      "published_at": "2026-03-17T20:07:24Z",
+      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
+      "tags": [
+        "ai",
+        "swift",
+        "programming",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
+      "source": "Dev.to",
+      "user": "Max"
     },
     {
       "title": "TrackFlow: A Kotlin Multiplatform Analytics Router for Android and iOS",
@@ -1685,7 +1592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "iflytek"
     }
   ],
@@ -1779,6 +1686,36 @@
       "user": "Brian Love"
     },
     {
+      "title": "Vercel’s \"Agentic\" Shift: Is Your Proprietary Code Now Training AI?",
+      "url": "https://dev.to/matscode/vercels-agentic-shift-is-your-proprietary-code-now-training-ai-402h",
+      "published_at": "2026-03-23T16:33:54Z",
+      "description": "The deadline to protect your team’s data is March 31, 2026.  If you logged into Vercel this morning,...",
+      "tags": [
+        "webdev",
+        "ai",
+        "security",
+        "vercel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv05p0z8jlh3wq143ymwm.png",
+      "source": "Dev.to",
+      "user": "Michael Akanji"
+    },
+    {
+      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
+      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
+      "published_at": "2026-03-18T14:57:43Z",
+      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
+      "tags": [
+        "ai",
+        "agents",
+        "logging",
+        "observability"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
+      "source": "Dev.to",
+      "user": "Michael Bogan"
+    },
+    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -1790,21 +1727,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
       "source": "Dev.to",
       "user": "Chioma Halim"
-    },
-    {
-      "title": "I Scanned 100 AI Codebases - Here's What I Found",
-      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
-      "published_at": "2026-03-19T08:41:48Z",
-      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
-      "source": "Dev.to",
-      "user": "Mykola Kondratiuk"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1895,6 +1817,64 @@
       "user": "Patricio Navarro"
     },
     {
+      "title": "I was asked to delete my comments before committing",
+      "url": "https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437",
+      "published_at": "2026-03-22T01:20:22Z",
+      "description": "I was asked to delete my comments before committing   I've worked in IT for 12 years now —...",
+      "tags": [
+        "git",
+        "productivity",
+        "developer",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltopb4rrczp2qlq1rv08.png",
+      "source": "Dev.to",
+      "user": "Tual Maxime"
+    },
+    {
+      "title": "Are you paying attention to your token use?",
+      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
+      "published_at": "2026-03-23T13:45:08Z",
+      "description": "Or do you just use AI tools freely?",
+      "tags": [
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
+      "source": "Dev.to",
+      "user": "Amara Graham"
+    },
+    {
+      "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
+      "url": "https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c",
+      "published_at": "2026-03-21T22:22:00Z",
+      "description": "If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...",
+      "tags": [
+        "github",
+        "python",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
+      "source": "Dev.to",
+      "user": "Sahan"
+    },
+    {
+      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
+      "published_at": "2026-03-21T21:47:33Z",
+      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
+      "tags": [
+        "ai",
+        "observability",
+        "typescript",
+        "opentelemetry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
+      "source": "Dev.to",
+      "user": "Albert Alov"
+    },
+    {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
       "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
       "published_at": "2026-03-20T19:12:28Z",
@@ -1940,36 +1920,6 @@
       "user": "Richard Oliver Bray"
     },
     {
-      "title": "MCP Skills vs MCP Tools: The Right Way to Configure Your Server",
-      "url": "https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c",
-      "published_at": "2026-03-22T08:40:00Z",
-      "description": "Skills and MCP tools are not the same thing — and confusing them costs you. Learn the real...",
-      "tags": [
-        "angular",
-        "webdev",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
-      "source": "Dev.to",
-      "user": "Antonio Cardenas "
-    },
-    {
-      "title": "How Do You Actually Know If AI Is Working On Your Team?",
-      "url": "https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02",
-      "published_at": "2026-02-27T12:24:36Z",
-      "description": "Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.",
-      "tags": [
-        "ai",
-        "engineering",
-        "productivity",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30vacmvfa2hccyogs4pk.png",
-      "source": "Dev.to",
-      "user": "Denis Bakhoum"
-    },
-    {
       "title": "eze-is/web-access - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
       "url": "https://github.com/eze-is/web-access",
       "published_at": "2026-03-18T05:54:57Z",
@@ -1981,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 984,
       "user": "eze-is"
     },
     {
@@ -1996,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/698308?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 457,
       "user": "dashersw"
     },
     {
@@ -2026,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "kulikov0"
     },
     {
@@ -2041,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "iflytek"
     },
     {
@@ -2086,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 800,
       "user": "dou-jiang"
     },
     {
@@ -2116,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 657,
       "user": "leo-lilinxiao"
     },
     {
@@ -2131,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 610,
       "user": "fastclaw-ai"
     },
     {
@@ -2161,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 235,
       "user": "samber"
     },
     {
@@ -2191,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 206,
       "user": "openilink"
     }
   ]
