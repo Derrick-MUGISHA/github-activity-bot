@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-24 9:00 CAT)
+## 📅 Latest Updates (2026-03-24 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 
-_Last automated update: Tue, 24 Mar 2026 09:42:04 CAT_
+_Last automated update: Tue, 24 Mar 2026 10:30:51 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 24 Mar 2026 09:42:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Mar 2026 07:42:04 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Mar 2026 08:30:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
