@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**Security**: 🟦🟦🟦 7 (6.7%)
 
 **Cloud**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦 4 (3.8%)
+
+**WebDev**: 🟦🟦 4 (3.8%)
+
+**Mobile**: 🟦 3 (2.9%)
 
 **Database**: 🟦 3 (2.9%)
-
-**DevOps**: 🟦 2 (1.9%)
-
-**Mobile**: 🟦 2 (1.9%)
 
 
 
@@ -60,32 +60,32 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.0 (29.0%)
-Java            ███████████████████████████ 25.8 (25.8%)
-Go              ██████████████████████ 21.5 (21.5%)
-Python          ████████████████████ 19.4 (19.4%)
-Swift           ██ 2.2 (2.2%)
+JavaScript      ██████████████████████████████ 25.0 (25.0%)
+Go              ███████████████████████████ 22.7 (22.7%)
+Python          ███████████████████████████ 22.7 (22.7%)
+Java            ███████████████████████████ 22.7 (22.7%)
+Swift           ████ 3.4 (3.4%)
+Rust            ███ 2.3 (2.3%)
 Kotlin          █ 1.1 (1.1%)
-Rust            █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 27
-    "Java" : 24
+    "JavaScript" : 22
     "Go" : 20
-    "Python" : 18
-    "Swift" : 2
+    "Python" : 20
+    "Java" : 20
+    "Swift" : 3
+    "Rust" : 2
     "Kotlin" : 1
-    "Rust" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-14-blue) ![javascript](https://img.shields.io/badge/javascript-12-blue) ![opensource](https://img.shields.io/badge/opensource-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) ![security](https://img.shields.io/badge/security-4-blue) 
 
 
 
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fjargon.png" width="200" alt="Jargon Doesn't Make You Senior" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F811ibf0nr3nts6hbg27b.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>Jargon Doesn't Make You Senior</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mischa/kigumi-same-components-any-stack-bn0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febrcsuqjqqn1ox8qph9m.jpg" width="200" alt="Kigumi: Same components, any stack" />
+    <a href="https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fjargon.png" width="200" alt="Jargon Doesn't Make You Senior" />
       <br/>
-      <b>Kigumi: Same components, any stack</b>
+      <b>Jargon Doesn't Make You Senior</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,8 +199,8 @@ npm run test
 - [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
 - [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0) _[Dev.to]_
 - [Implementing a RAG system: Crawl](https://dev.to/gde/implementing-a-rag-system-crawl-5li) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2) _[Dev.to]_
 - [Jargon Doesn't Make You Senior](https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd) _[Dev.to]_
-- [Kigumi: Same components, any stack](https://dev.to/mischa/kigumi-same-components-any-stack-bn0) _[Dev.to]_
 - [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56) _[Dev.to]_
 - [Building a Weather Station Using an Old Raspberry Pi](https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8) _[Dev.to]_
 - [How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos](https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b) _[Dev.to]_
 
-_Last automated update: Tue, 24 Mar 2026 23:02:36 CAT_
+_Last automated update: Tue, 24 Mar 2026 23:51:57 CAT_
 
 
 
@@ -224,29 +224,18 @@ _Last automated update: Tue, 24 Mar 2026 23:02:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-### 2. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 2. SystemDesign: How would you design a rate limiter?
 
 **Difficulty**: Medium | **Topics**: system design, algorithms
 
@@ -254,6 +243,17 @@ Heap, stack, garbage collection
 <summary>💡 Hint</summary>
 
 Token bucket, sliding window, distributed systems
+
+</details>
+
+### 3. DataStructures: Implement LRU Cache
+
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
+
+<details>
+<summary>💡 Hint</summary>
+
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Mar 2026 21:02:36 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Mar 2026 21:51:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
