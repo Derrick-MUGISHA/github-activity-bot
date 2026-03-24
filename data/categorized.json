@@ -16,6 +16,21 @@
       "user": "Mischa"
     },
     {
+      "title": "AI Writes Code. You Own Quality.",
+      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
+      "published_at": "2026-03-24T15:43:40Z",
+      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
+      "tags": [
+        "ai",
+        "software",
+        "development",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
+    },
+    {
       "title": "I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.",
       "url": "https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk",
       "published_at": "2026-03-23T13:12:28Z",
@@ -260,36 +275,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
       "source": "Dev.to",
       "user": "Antonio Cardenas "
-    },
-    {
-      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
-      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
-      "published_at": "2026-03-21T21:47:33Z",
-      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
-      "tags": [
-        "ai",
-        "observability",
-        "typescript",
-        "opentelemetry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
-      "source": "Dev.to",
-      "user": "Albert Alov"
-    },
-    {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
     },
     {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 284,
       "user": "SethGammon"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 650,
       "user": "leo-lilinxiao"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 597,
       "user": "fastclaw-ai"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 203,
       "user": "phlx0"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "openilink"
     }
   ],
@@ -885,21 +870,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5pzrw0tvtthzgxwunmy.png",
       "source": "Dev.to",
       "user": "Antonio Cardenas "
-    },
-    {
-      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
-      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
-      "published_at": "2026-03-21T21:47:33Z",
-      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
-      "tags": [
-        "ai",
-        "observability",
-        "typescript",
-        "opentelemetry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
-      "source": "Dev.to",
-      "user": "Albert Alov"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -1121,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 974,
       "user": "eze-is"
     },
     {
@@ -1136,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/698308?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "dashersw"
     },
     {
@@ -1151,7 +1121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 284,
       "user": "SethGammon"
     },
     {
@@ -1166,7 +1136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 247,
       "user": "kulikov0"
     },
     {
@@ -1377,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1073,
+      "stars": 1074,
       "user": "math-inc"
     },
     {
@@ -1392,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1063,
       "user": "lxf746"
     },
     {
@@ -1407,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 796,
       "user": "dou-jiang"
     },
     {
@@ -1422,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42172631?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 665,
       "user": "win4r"
     },
     {
@@ -1437,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 650,
       "user": "leo-lilinxiao"
     }
   ],
@@ -1470,21 +1440,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
-    },
-    {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
     },
     {
       "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
@@ -1775,21 +1730,6 @@
       "user": "Brian Love"
     },
     {
-      "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
-      "url": "https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02",
-      "published_at": "2026-03-18T14:57:43Z",
-      "description": "In the world of security and DevOps, AI agents are being pushed from demos into production quickly....",
-      "tags": [
-        "ai",
-        "agents",
-        "logging",
-        "observability"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
-      "source": "Dev.to",
-      "user": "Michael Bogan"
-    },
-    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -1831,6 +1771,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "AI Writes Code. You Own Quality.",
+      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
+      "published_at": "2026-03-24T15:43:40Z",
+      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
+      "tags": [
+        "ai",
+        "software",
+        "development",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
+    },
     {
       "title": "Are you paying attention to your token use?",
       "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
@@ -1919,21 +1874,6 @@
       "user": "Sahan"
     },
     {
-      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
-      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
-      "published_at": "2026-03-21T21:47:33Z",
-      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
-      "tags": [
-        "ai",
-        "observability",
-        "typescript",
-        "opentelemetry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
-      "source": "Dev.to",
-      "user": "Albert Alov"
-    },
-    {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
       "url": "https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf",
       "published_at": "2026-03-20T19:12:28Z",
@@ -2005,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 974,
       "user": "eze-is"
     },
     {
@@ -2020,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/698308?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "dashersw"
     },
     {
@@ -2035,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 284,
       "user": "SethGammon"
     },
     {
@@ -2050,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 247,
       "user": "kulikov0"
     },
     {
@@ -2080,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1073,
+      "stars": 1074,
       "user": "math-inc"
     },
     {
@@ -2095,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1063,
       "user": "lxf746"
     },
     {
@@ -2110,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 796,
       "user": "dou-jiang"
     },
     {
@@ -2125,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42172631?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 665,
       "user": "win4r"
     },
     {
@@ -2140,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 650,
       "user": "leo-lilinxiao"
     },
     {
@@ -2155,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 597,
       "user": "fastclaw-ai"
     },
     {
@@ -2170,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2185,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 216,
       "user": "samber"
     },
     {
@@ -2200,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 203,
       "user": "phlx0"
     },
     {
@@ -2215,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "openilink"
     }
   ]

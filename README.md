@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
@@ -40,9 +40,9 @@
 
 **Cloud**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦 4 (3.8%)
 
-**DevOps**: 🟦 4 (3.8%)
+**DevOps**: 🟦 3 (2.9%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 31.5 (31.5%)
-Java            ██████████████████████████ 27.0 (27.0%)
-Python          ███████████████████ 20.2 (20.2%)
-Go              ███████████████ 15.7 (15.7%)
+JavaScript      ██████████████████████████████ 30.3 (30.3%)
+Java            ███████████████████████████ 27.0 (27.0%)
+Python          ████████████████████ 20.2 (20.2%)
+Go              █████████████████ 16.9 (16.9%)
 Swift           ██ 2.2 (2.2%)
 Rust            ██ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
@@ -72,10 +72,10 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 28
+    "JavaScript" : 27
     "Java" : 24
     "Python" : 18
-    "Go" : 14
+    "Go" : 15
     "Swift" : 2
     "Rust" : 2
     "Kotlin" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-31-blue) ![github](https://img.shields.io/badge/github-16-blue) ![webdev](https://img.shields.io/badge/webdev-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![typescript](https://img.shields.io/badge/typescript-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-30-blue) ![webdev](https://img.shields.io/badge/webdev-16-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-13-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![cli](https://img.shields.io/badge/cli-4-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-24 17:00 CAT)
+## 📅 Latest Updates (2026-03-24 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -133,19 +133,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-1bec">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qjfogdpakkfthm50uxl.png" width="200" alt="Meme Monday" />
+    <a href="https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv9qyjrue94xqyq3ytp8n.jpg" width="200" alt="Building a Weather Station Using an Old Raspberry Pi" />
       <br/>
-      <b>Meme Monday</b>
+      <b>Building a Weather Station Using an Old Raspberry ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv9qyjrue94xqyq3ytp8n.jpg" width="200" alt="Building a Weather Station Using an Old Raspberry Pi" />
+    <a href="https://dev.to/ben/meme-monday-1bec">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qjfogdpakkfthm50uxl.png" width="200" alt="Meme Monday" />
       <br/>
-      <b>Building a Weather Station Using an Old Raspberry ...</b>
+      <b>Meme Monday</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -162,28 +162,28 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fjargon.png" width="200" alt="Jargon Doesn't Make You Senior" />
+      <br/>
+      <b>Jargon Doesn't Make You Senior</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png" width="200" alt="AI Writes Code. You Own Quality." />
+      <br/>
+      <b>AI Writes Code. You Own Quality.</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg45p37fkdyfvtgugcalk.png" width="200" alt="I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop." />
       <br/>
       <b>I Talk to AI While I Code. Here's What Works, What...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs1jnzzm36f5cmj6048c.gif" width="200" alt="Get Started on Dev.to! A Beginner's Guide to Engage with the Community! 💡" />
-      <br/>
-      <b>Get Started on Dev.to! A Beginner's Guide to Engag...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-35ja">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z61971hgbvh8jhd96b.jpg" width="200" alt="What was your win this week??" />
-      <br/>
-      <b>What was your win this week??</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,12 +195,13 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
 - [Building a Weather Station Using an Old Raspberry Pi](https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
 - [Kigumi: Same components, any stack](https://dev.to/mischa/kigumi-same-components-any-stack-bn0) _[Dev.to]_
+- [Jargon Doesn't Make You Senior](https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd) _[Dev.to]_
+- [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0) _[Dev.to]_
 - [I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.](https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk) _[Dev.to]_
 - [Get Started on Dev.to! A Beginner's Guide to Engage with the Community! 💡](https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach) _[Dev.to]_
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-35ja) _[Dev.to]_
 - [Introducing Aerostack: Workflows, MCPs, and Intelligent Bots on the Edge](https://dev.to/aerostack/introducing-aerostack-workflows-mcps-and-intelligent-bots-on-the-edge-4pla) _[Dev.to]_
 - [Are you paying attention to your token use?](https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n) _[Dev.to]_
 - [AI context management across Claude, Cursor, Kiro, Gemini and custom agents](https://dev.to/madeburo/ai-context-management-across-claude-cursor-kiro-gemini-and-custom-agents-2n1f) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [We Can't Code Anymore. AI Won't. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3) _[Dev.to]_
 - [Getting Started with Qwen3.5 Vision-Language Models](https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3) _[Dev.to]_
 - [Testing Antigravity: Building a Data-Intensive POC at 300km/h](https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57) _[Dev.to]_
-- [Ai-lone](https://dev.to/314rate/ai-lone-4ae9) _[Dev.to]_
 
-_Last automated update: Tue, 24 Mar 2026 17:18:54 CAT_
+_Last automated update: Tue, 24 Mar 2026 18:35:32 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 24 Mar 2026 17:18:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Mar 2026 15:18:54 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Mar 2026 16:35:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
