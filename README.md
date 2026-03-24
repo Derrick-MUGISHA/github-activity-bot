@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-24-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (50.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
 
 **Security**: 🟦🟦🟦 7 (6.7%)
 
-**Cloud**: 🟦🟦 6 (5.7%)
+**Cloud**: 🟦🟦 6 (5.8%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.0 (25.0%)
-Go              ███████████████████████████ 22.7 (22.7%)
-Python          ███████████████████████████ 22.7 (22.7%)
-Java            ███████████████████████████ 22.7 (22.7%)
+JavaScript      ██████████████████████████████ 24.1 (24.1%)
+Python          █████████████████████████████ 23.0 (23.0%)
+Go              █████████████████████████████ 23.0 (23.0%)
+Java            █████████████████████████████ 23.0 (23.0%)
 Swift           ████ 3.4 (3.4%)
 Rust            ███ 2.3 (2.3%)
 Kotlin          █ 1.1 (1.1%)
@@ -72,9 +72,9 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 22
-    "Go" : 20
+    "JavaScript" : 21
     "Python" : 20
+    "Go" : 20
     "Java" : 20
     "Swift" : 3
     "Rust" : 2
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) ![security](https://img.shields.io/badge/security-4-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) ![security](https://img.shields.io/badge/security-4-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-24 23:00 CAT)
+## 📅 Latest Updates (2026-03-25 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fjargon.png" width="200" alt="Jargon Doesn't Make You Senior" />
+    <a href="https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png" width="200" alt="Deploy a Multi Agent ADK Application to Google Cloud Run" />
       <br/>
-      <b>Jargon Doesn't Make You Senior</b>
+      <b>Deploy a Multi Agent ADK Application to Google Clo...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,7 +200,6 @@ npm run test
 - [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0) _[Dev.to]_
 - [Implementing a RAG system: Crawl](https://dev.to/gde/implementing-a-rag-system-crawl-5li) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2) _[Dev.to]_
-- [Jargon Doesn't Make You Senior](https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd) _[Dev.to]_
 - [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56) _[Dev.to]_
 - [Building a Weather Station Using an Old Raspberry Pi](https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333) _[Dev.to]_
@@ -214,9 +213,10 @@ npm run test
 - [AI context management across Claude, Cursor, Kiro, Gemini and custom agents](https://dev.to/madeburo/ai-context-management-across-claude-cursor-kiro-gemini-and-custom-agents-2n1f) _[Dev.to]_
 - [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 - [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8) _[Dev.to]_
+- [Jargon Doesn't Make You Senior](https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd) _[Dev.to]_
 - [How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos](https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b) _[Dev.to]_
 
-_Last automated update: Tue, 24 Mar 2026 23:51:57 CAT_
+_Last automated update: Wed, 25 Mar 2026 00:27:16 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 24 Mar 2026 23:51:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Heap, stack, garbage collection
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 24 Mar 2026 21:51:57 GMT</b><br/>
+  <b>Last automated update: Tue, 24 Mar 2026 22:27:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
