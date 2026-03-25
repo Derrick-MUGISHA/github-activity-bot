@@ -46,6 +46,20 @@
       "user": "xbill"
     },
     {
+      "title": "The software industry is ready to grow",
+      "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
+      "published_at": "2026-03-25T18:33:04Z",
+      "description": "I don't spend a lot of time on the X these days, but I think this perspective is worth...",
+      "tags": [
+        "ai",
+        "career",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "The Missing Link Between AI Agents and the Code They Modify",
       "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
       "published_at": "2026-03-25T12:07:47Z",
@@ -191,21 +205,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lhbf5ebf5jdyxnkk048.png",
       "source": "Dev.to",
       "user": "Dustin"
-    },
-    {
-      "title": "AI context management across Claude, Cursor, Kiro, Gemini and custom agents",
-      "url": "https://dev.to/madeburo/ai-context-management-across-claude-cursor-kiro-gemini-and-custom-agents-2n1f",
-      "published_at": "2026-03-23T06:43:31Z",
-      "description": "If you use more than one AI coding agent, you've probably noticed that each one wants its own context...",
-      "tags": [
-        "ai",
-        "opensource",
-        "cli",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncw5bwzmeqylac89grps.png",
-      "source": "Dev.to",
-      "user": "Made Büro"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -499,20 +498,6 @@
       "user": "Devesh Korde"
     },
     {
-      "title": "Ship Less, Measure More",
-      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
-      "published_at": "2026-03-06T22:07:43Z",
-      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
-      "tags": [
-        "ai",
-        "programming",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
-      "source": "Dev.to",
-      "user": "Mike Krop"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -686,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 737,
       "user": "GAIR-NLP"
     },
     {
@@ -701,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 701,
       "user": "fastclaw-ai"
     },
     {
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "openilink"
     },
     {
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "phlx0"
     }
   ],
@@ -971,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "kulikov0"
     },
     {
@@ -1016,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 145,
       "user": "mauriceboe"
     }
   ],
@@ -1271,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 919,
       "user": "dou-jiang"
     },
     {
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 846,
       "user": "facebookresearch"
     },
     {
@@ -1301,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 772,
       "user": "HKUDS"
     },
     {
@@ -1316,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 737,
       "user": "GAIR-NLP"
     }
   ],
@@ -1634,7 +1619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 772,
       "user": "HKUDS"
     }
   ],
@@ -2004,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "kulikov0"
     },
     {
@@ -2049,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 145,
       "user": "mauriceboe"
     },
     {
@@ -2079,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 919,
       "user": "dou-jiang"
     },
     {
@@ -2094,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 846,
       "user": "facebookresearch"
     },
     {
@@ -2109,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 772,
       "user": "HKUDS"
     },
     {
@@ -2124,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 737,
       "user": "GAIR-NLP"
     },
     {
@@ -2139,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 701,
       "user": "fastclaw-ai"
     },
     {
@@ -2169,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 294,
       "user": "samber"
     },
     {
@@ -2184,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "openilink"
     },
     {
@@ -2199,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "phlx0"
     }
   ]
