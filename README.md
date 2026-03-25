@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Security**: 🟦🟦🟦 9 (8.6%)
+**Security**: 🟦🟦🟦🟦 9 (8.6%)
 
 **DevOps**: 🟦🟦 6 (5.7%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 23.6 (23.6%)
-Go              ██████████████████████████████ 23.6 (23.6%)
-JavaScript      ██████████████████████████████ 23.6 (23.6%)
-Java            █████████████████████████████ 22.5 (22.5%)
-Swift           ████ 3.4 (3.4%)
+Go              ██████████████████████████████ 24.4 (24.4%)
+Python          █████████████████████████████ 23.3 (23.3%)
+JavaScript      █████████████████████████████ 23.3 (23.3%)
+Java            ███████████████████████████ 22.2 (22.2%)
+Swift           ████ 3.3 (3.3%)
 Rust            ███ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
 
@@ -72,8 +72,8 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
+    "Go" : 22
     "Python" : 21
-    "Go" : 21
     "JavaScript" : 21
     "Java" : 20
     "Swift" : 3
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![security](https://img.shields.io/badge/security-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-4-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![security](https://img.shields.io/badge/security-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-25 20:00 CAT)
+## 📅 Latest Updates (2026-03-25 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png" width="200" alt="Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI" />
+    <a href="https://dev.to/vonagedev/the-vonage-dev-discussion-open-source-ipb">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faw28rl0jviljb57s19gx.jpg" width="200" alt="The Vonage Dev Discussion: Open Source" />
       <br/>
-      <b>Building a Multimodal Cross Cloud Live Agent with ...</b>
+      <b>The Vonage Dev Discussion: Open Source</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,7 +200,9 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
 - [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0) _[Dev.to]_
+- [The Vonage Dev Discussion: Open Source](https://dev.to/vonagedev/the-vonage-dev-discussion-open-source-ipb) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56) _[Dev.to]_
+- [The software industry is ready to grow](https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4) _[Dev.to]_
 - [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501) _[Dev.to]_
 - [Generating an aerial view of your project with OpenRewrite](https://dev.to/onepoint/generating-an-aerial-view-of-your-project-with-openrewrite-49kk) _[Dev.to]_
 - [The Missing Link Between AI Agents and the Code They Modify](https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke) _[Dev.to]_
@@ -213,10 +215,8 @@ npm run test
 - [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on) _[Dev.to]_
 - [Engram: A new type of AI](https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd) _[Dev.to]_
 - [HTML Was a Miracle. Now It’s a Bottleneck. What if we started over?](https://dev.to/niklabh/html-was-a-miracle-now-its-a-bottleneck-what-if-we-started-over-43bp) _[Dev.to]_
-- [I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes](https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he) _[Dev.to]_
-- [Jargon Doesn't Make You Senior](https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd) _[Dev.to]_
 
-_Last automated update: Wed, 25 Mar 2026 20:01:51 CAT_
+_Last automated update: Wed, 25 Mar 2026 21:10:57 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 25 Mar 2026 20:01:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Execution timing, event loop phases
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Mar 2026 18:01:51 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Mar 2026 19:10:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
