@@ -16,21 +16,6 @@
       "user": "ghost"
     },
     {
-      "title": "AI Writes Code. You Own Quality.",
-      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
-      "published_at": "2026-03-24T15:43:40Z",
-      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
-      "tags": [
-        "ai",
-        "software",
-        "development",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56",
       "published_at": "2026-03-23T17:44:29Z",
@@ -177,36 +162,6 @@
       "user": "Taiwrash"
     },
     {
-      "title": "I Put a Prompt Injection on My Resume",
-      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
-      "published_at": "2026-03-23T23:51:06Z",
-      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
-      "tags": [
-        "ai",
-        "career",
-        "security",
-        "promptinjection"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
-      "source": "Dev.to",
-      "user": "Fielding Johnston"
-    },
-    {
-      "title": "Agentic Engineering: Lessons Learned Vol. 2",
-      "url": "https://dev.to/duske/agentic-engineering-lessons-learned-vol-2-7mh",
-      "published_at": "2026-03-23T20:15:59Z",
-      "description": "Six months ago, we shared our first lessons learned with agentic engineering. Since then, we've...",
-      "tags": [
-        "contextengineering",
-        "agentic",
-        "llm",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lhbf5ebf5jdyxnkk048.png",
-      "source": "Dev.to",
-      "user": "Dustin"
-    },
-    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -220,6 +175,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
       "source": "Dev.to",
       "user": "Ivan SZKIBA"
+    },
+    {
+      "title": "AI Writes Code. You Own Quality.",
+      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
+      "published_at": "2026-03-24T15:43:40Z",
+      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
+      "tags": [
+        "ai",
+        "software",
+        "development",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
     },
     {
       "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
@@ -320,6 +290,21 @@
       "user": "Tual Maxime"
     },
     {
+      "title": "I Put a Prompt Injection on My Resume",
+      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
+      "published_at": "2026-03-23T23:51:06Z",
+      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "tags": [
+        "ai",
+        "career",
+        "security",
+        "promptinjection"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "source": "Dev.to",
+      "user": "Fielding Johnston"
+    },
+    {
       "title": "Vercel’s \"Agentic\" Shift: Is Your Proprietary Code Now Training AI?",
       "url": "https://dev.to/matscode/vercels-agentic-shift-is-your-proprietary-code-now-training-ai-402h",
       "published_at": "2026-03-23T16:33:54Z",
@@ -333,6 +318,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv05p0z8jlh3wq143ymwm.png",
       "source": "Dev.to",
       "user": "Michael Akanji"
+    },
+    {
+      "title": "Agentic Engineering: Lessons Learned Vol. 2",
+      "url": "https://dev.to/duske/agentic-engineering-lessons-learned-vol-2-7mh",
+      "published_at": "2026-03-23T20:15:59Z",
+      "description": "Six months ago, we shared our first lessons learned with agentic engineering. Since then, we've...",
+      "tags": [
+        "contextengineering",
+        "agentic",
+        "llm",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lhbf5ebf5jdyxnkk048.png",
+      "source": "Dev.to",
+      "user": "Dustin"
     },
     {
       "title": "Confident and Wrong",
@@ -641,7 +641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "SethGammon"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 703,
       "user": "fastclaw-ai"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "phlx0"
     }
   ],
@@ -941,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "SethGammon"
     },
     {
@@ -956,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 280,
       "user": "kulikov0"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "htimesnine"
     },
     {
@@ -1001,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "mauriceboe"
     }
   ],
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 920,
       "user": "dou-jiang"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 854,
       "user": "facebookresearch"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 778,
       "user": "HKUDS"
     },
     {
@@ -1619,7 +1619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 778,
       "user": "HKUDS"
     }
   ],
@@ -1669,36 +1669,6 @@
       "user": "Ustun Ozgur"
     },
     {
-      "title": "I Put a Prompt Injection on My Resume",
-      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
-      "published_at": "2026-03-23T23:51:06Z",
-      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
-      "tags": [
-        "ai",
-        "career",
-        "security",
-        "promptinjection"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
-      "source": "Dev.to",
-      "user": "Fielding Johnston"
-    },
-    {
-      "title": "I built a terminal-native Little Snitch alternative for macOS",
-      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
-      "published_at": "2026-03-24T11:49:08Z",
-      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
-      "tags": [
-        "go",
-        "macos",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
-      "source": "Dev.to",
-      "user": "Nick Ciolpan"
-    },
-    {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
       "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
       "published_at": "2026-03-18T23:02:35Z",
@@ -1728,6 +1698,21 @@
       "user": "Johan Sydseter"
     },
     {
+      "title": "I Put a Prompt Injection on My Resume",
+      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
+      "published_at": "2026-03-23T23:51:06Z",
+      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "tags": [
+        "ai",
+        "career",
+        "security",
+        "promptinjection"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "source": "Dev.to",
+      "user": "Fielding Johnston"
+    },
+    {
       "title": "Vercel’s \"Agentic\" Shift: Is Your Proprietary Code Now Training AI?",
       "url": "https://dev.to/matscode/vercels-agentic-shift-is-your-proprietary-code-now-training-ai-402h",
       "published_at": "2026-03-23T16:33:54Z",
@@ -1741,6 +1726,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv05p0z8jlh3wq143ymwm.png",
       "source": "Dev.to",
       "user": "Michael Akanji"
+    },
+    {
+      "title": "I built a terminal-native Little Snitch alternative for macOS",
+      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
+      "published_at": "2026-03-24T11:49:08Z",
+      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
+      "tags": [
+        "go",
+        "macos",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
+      "source": "Dev.to",
+      "user": "Nick Ciolpan"
     },
     {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
@@ -1785,19 +1785,18 @@
   ],
   "Tools": [
     {
-      "title": "AI Writes Code. You Own Quality.",
-      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
-      "published_at": "2026-03-24T15:43:40Z",
-      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
+      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
+      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
+      "published_at": "2026-03-25T11:01:22Z",
+      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
       "tags": [
-        "ai",
-        "software",
-        "development",
-        "programming"
+        "vibecoding",
+        "python",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
       "source": "Dev.to",
-      "user": "Helder Burato Berto"
+      "user": "Leanne R"
     },
     {
       "title": "Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes",
@@ -1815,20 +1814,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
-      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
-      "published_at": "2026-03-25T11:01:22Z",
-      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
-      "tags": [
-        "vibecoding",
-        "python",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
-      "source": "Dev.to",
-      "user": "Leanne R"
-    },
-    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -1842,6 +1827,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
       "source": "Dev.to",
       "user": "Ivan SZKIBA"
+    },
+    {
+      "title": "AI Writes Code. You Own Quality.",
+      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
+      "published_at": "2026-03-24T15:43:40Z",
+      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
+      "tags": [
+        "ai",
+        "software",
+        "development",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
     },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "SethGammon"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 280,
       "user": "kulikov0"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "htimesnine"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "mauriceboe"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 920,
       "user": "dou-jiang"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 854,
       "user": "facebookresearch"
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 778,
       "user": "HKUDS"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 703,
       "user": "fastclaw-ai"
     },
     {
@@ -2154,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 299,
       "user": "samber"
     },
     {
@@ -2184,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "phlx0"
     }
   ]

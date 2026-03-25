@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![security](https://img.shields.io/badge/security-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![security](https://img.shields.io/badge/security-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) 
 
 
 
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png" width="200" alt="AI Writes Code. You Own Quality." />
+    <a href="https://dev.to/vonagedev/the-vonage-dev-discussion-open-source-ipb">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faw28rl0jviljb57s19gx.jpg" width="200" alt="The Vonage Dev Discussion: Open Source" />
       <br/>
-      <b>AI Writes Code. You Own Quality.</b>
+      <b>The Vonage Dev Discussion: Open Source</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/vonagedev/the-vonage-dev-discussion-open-source-ipb">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faw28rl0jviljb57s19gx.jpg" width="200" alt="The Vonage Dev Discussion: Open Source" />
+    <a href="https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png" width="200" alt="Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI" />
       <br/>
-      <b>The Vonage Dev Discussion: Open Source</b>
+      <b>Building a Multimodal Cross Cloud Live Agent with ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,24 +199,24 @@ npm run test
 - [Check Up with Each Other](https://dev.to/francistrdev/check-up-with-each-other-2ogc) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
-- [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0) _[Dev.to]_
 - [The Vonage Dev Discussion: Open Source](https://dev.to/vonagedev/the-vonage-dev-discussion-open-source-ipb) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56) _[Dev.to]_
 - [The software industry is ready to grow](https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4) _[Dev.to]_
 - [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501) _[Dev.to]_
-- [Generating an aerial view of your project with OpenRewrite](https://dev.to/onepoint/generating-an-aerial-view-of-your-project-with-openrewrite-49kk) _[Dev.to]_
 - [The Missing Link Between AI Agents and the Code They Modify](https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke) _[Dev.to]_
+- [Generating an aerial view of your project with OpenRewrite](https://dev.to/onepoint/generating-an-aerial-view-of-your-project-with-openrewrite-49kk) _[Dev.to]_
 - [AI Crash Course: Hallucinations](https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg) _[Dev.to]_
-- [Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes](https://dev.to/gde/mastering-google-apps-script-cicd-seamless-github-actions-integration-with-gas-fakes-4c6h) _[Dev.to]_
 - [A Small Hardening Trick for .env.local: dotenvx + OS Keychain](https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533) _[Dev.to]_
-- [Implementing a RAG system: Crawl](https://dev.to/gde/implementing-a-rag-system-crawl-5li) _[Dev.to]_
 - [PageSpeed 35 to 90: What I Got Wrong, Then Right](https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m) _[Dev.to]_
+- [Implementing a RAG system: Crawl](https://dev.to/gde/implementing-a-rag-system-crawl-5li) _[Dev.to]_
 - [I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a) _[Dev.to]_
 - [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on) _[Dev.to]_
+- [Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes](https://dev.to/gde/mastering-google-apps-script-cicd-seamless-github-actions-integration-with-gas-fakes-4c6h) _[Dev.to]_
 - [Engram: A new type of AI](https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd) _[Dev.to]_
 - [HTML Was a Miracle. Now It’s a Bottleneck. What if we started over?](https://dev.to/niklabh/html-was-a-miracle-now-its-a-bottleneck-what-if-we-started-over-43bp) _[Dev.to]_
+- [Jargon Doesn't Make You Senior](https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd) _[Dev.to]_
 
-_Last automated update: Wed, 25 Mar 2026 21:10:57 CAT_
+_Last automated update: Wed, 25 Mar 2026 21:53:31 CAT_
 
 
 
@@ -224,25 +224,25 @@ _Last automated update: Wed, 25 Mar 2026 21:10:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Mar 2026 19:10:57 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Mar 2026 19:53:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
