@@ -30,7 +30,7 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 23.9 (23.9%)
-JavaScript      ██████████████████████████████ 23.9 (23.9%)
-Go              ████████████████████████████ 22.7 (22.7%)
-Java            ████████████████████████████ 22.7 (22.7%)
+Python          ██████████████████████████████ 23.6 (23.6%)
+Go              ██████████████████████████████ 23.6 (23.6%)
+JavaScript      ██████████████████████████████ 23.6 (23.6%)
+Java            █████████████████████████████ 22.5 (22.5%)
 Swift           ████ 3.4 (3.4%)
-Rust            ███ 2.3 (2.3%)
+Rust            ███ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
@@ -73,8 +73,8 @@ Kotlin          █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "Python" : 21
+    "Go" : 21
     "JavaScript" : 21
-    "Go" : 20
     "Java" : 20
     "Swift" : 3
     "Rust" : 2
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![security](https://img.shields.io/badge/security-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-4-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![security](https://img.shields.io/badge/security-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-4-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-25 17:00 CAT)
+## 📅 Latest Updates (2026-03-25 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,6 +142,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png" width="200" alt="your agent can think. it can't remember." />
+      <br/>
+      <b>your agent can think. it can't remember.</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F811ibf0nr3nts6hbg27b.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
@@ -150,22 +159,13 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/meme-monday-1bec">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qjfogdpakkfthm50uxl.png" width="200" alt="Meme Monday" />
       <br/>
       <b>Meme Monday</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png" width="200" alt="your agent can think. it can't remember." />
-      <br/>
-      <b>your agent can think. it can't remember.</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,11 +196,12 @@ npm run test
 ### 📰 Top Headlines
 
 - [Check Up with Each Other](https://dev.to/francistrdev/check-up-with-each-other-2ogc) _[Dev.to]_
+- [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
-- [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
 - [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56) _[Dev.to]_
+- [I’m Learning AI in Public, and I Think Developers Need to Chill a Bit](https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2) _[Dev.to]_
 - [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501) _[Dev.to]_
 - [Generating an aerial view of your project with OpenRewrite](https://dev.to/onepoint/generating-an-aerial-view-of-your-project-with-openrewrite-49kk) _[Dev.to]_
 - [The Missing Link Between AI Agents and the Code They Modify](https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke) _[Dev.to]_
@@ -211,12 +212,11 @@ npm run test
 - [PageSpeed 35 to 90: What I Got Wrong, Then Right](https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m) _[Dev.to]_
 - [I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a) _[Dev.to]_
 - [Building a Weather Station Using an Old Raspberry Pi](https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333) _[Dev.to]_
-- [I’m Learning AI in Public, and I Think Developers Need to Chill a Bit](https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2) _[Dev.to]_
 - [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on) _[Dev.to]_
 - [Engram: A new type of AI](https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd) _[Dev.to]_
 - [HTML Was a Miracle. Now It’s a Bottleneck. What if we started over?](https://dev.to/niklabh/html-was-a-miracle-now-its-a-bottleneck-what-if-we-started-over-43bp) _[Dev.to]_
 
-_Last automated update: Wed, 25 Mar 2026 17:48:26 CAT_
+_Last automated update: Wed, 25 Mar 2026 18:58:44 CAT_
 
 
 
@@ -224,18 +224,29 @@ _Last automated update: Wed, 25 Mar 2026 17:48:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. JavaScript: Implement a debounce function from scratch
+
+**Difficulty**: Hard | **Topics**: functions, timing
+
+<details>
+<summary>💡 Hint</summary>
+
+setTimeout, clearTimeout, wrapper function
+
+</details>
+
+### 3. Java: What are Java Streams and how do they work?
 
 **Difficulty**: Medium | **Topics**: functional programming, collections
 
@@ -243,17 +254,6 @@ Diffing algorithm, reconciliation, efficiency
 <summary>💡 Hint</summary>
 
 Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-### 3. Database: Design a database schema for a social media platform
-
-**Difficulty**: Hard | **Topics**: design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Mar 2026 15:48:26 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Mar 2026 16:58:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
