@@ -1,12 +1,12 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 52,
+    "AI": 53,
     "JavaScript": 21,
     "Python": 21,
     "DevOps": 4,
@@ -14,7 +14,7 @@
     "Mobile": 3,
     "Cloud": 6,
     "Database": 3,
-    "Security": 7,
+    "Security": 8,
     "Tools": 27
   },
   "by_language": {
@@ -37,7 +37,7 @@
     "2026-03-13": 3,
     "2026-03-21": 6,
     "2026-03-06": 2,
-    "2026-03-19": 6,
+    "2026-03-19": 7,
     "2026-03-07": 1,
     "2026-03-05": 1,
     "2026-03-11": 1,
@@ -71,11 +71,11 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 25,
+    "ai": 26,
     "github": 16,
     "open-source": 15,
     "discuss": 12,
-    "webdev": 11,
+    "webdev": 12,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
@@ -84,8 +84,8 @@
     "javascript": 8,
     "opensource": 7,
     "go": 6,
+    "security": 5,
     "gemini": 4,
-    "security": 4,
     "productivity": 4,
     "career": 3,
     "watercooler": 3,
