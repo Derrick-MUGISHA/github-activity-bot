@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png" width="200" alt="The software industry is ready to grow" />
+    <a href="https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvupj0we5z1s5prn5dw4s.png" width="200" alt="The Missing Link Between AI Agents and the Code They Modify" />
       <br/>
-      <b>The software industry is ready to grow</b>
+      <b>The Missing Link Between AI Agents and the Code Th...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,23 +200,23 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2) _[Dev.to]_
 - [The Vonage Dev Discussion: Open Source](https://dev.to/vonagedev/the-vonage-dev-discussion-open-source-ipb) _[Dev.to]_
 - [Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i) _[Dev.to]_
+- [The Missing Link Between AI Agents and the Code They Modify](https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke) _[Dev.to]_
 - [The software industry is ready to grow](https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4) _[Dev.to]_
 - [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501) _[Dev.to]_
 - [Generating an aerial view of your project with OpenRewrite](https://dev.to/onepoint/generating-an-aerial-view-of-your-project-with-openrewrite-49kk) _[Dev.to]_
 - [AI Crash Course: Hallucinations](https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg) _[Dev.to]_
 - [A Small Hardening Trick for .env.local: dotenvx + OS Keychain](https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533) _[Dev.to]_
 - [PageSpeed 35 to 90: What I Got Wrong, Then Right](https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m) _[Dev.to]_
-- [The Missing Link Between AI Agents and the Code They Modify](https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke) _[Dev.to]_
 - [I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a) _[Dev.to]_
 - [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on) _[Dev.to]_
 - [Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes](https://dev.to/gde/mastering-google-apps-script-cicd-seamless-github-actions-integration-with-gas-fakes-4c6h) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
 - [Engram: A new type of AI](https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd) _[Dev.to]_
 - [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
-- [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 - [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0) _[Dev.to]_
+- [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 
-_Last automated update: Thu, 26 Mar 2026 00:00:38 CAT_
+_Last automated update: Thu, 26 Mar 2026 00:55:55 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 26 Mar 2026 00:00:38 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Mar 2026 22:00:38 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Mar 2026 22:55:55 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

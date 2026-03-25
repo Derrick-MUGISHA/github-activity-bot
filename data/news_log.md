@@ -969646,3 +969646,879 @@ Every LLM tool invents its own tracing format. Langfuse has one. Helicone has on
 
 ---
 
+
+
+## 📰 DevTech News — 2026-03-26 0:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (51 articles)
+
+#### 1. [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o)
+📅 Wed, 25 Mar 2026 15:01:56 GMT
+👤 By: ghost | 📌 Source: Dev.to
+
+![your agent can think. it can't remember.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png)
+
+TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...
+
+🏷️ Tags: `ai`, `mcp`, `postgres`, `agents`
+
+---
+
+#### 2. [Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i)
+📅 Tue, 24 Mar 2026 18:00:13 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...
+
+🏷️ Tags: `gemini`, `aws`, `agents`, `amazonlightsail`
+
+---
+
+#### 3. [The Missing Link Between AI Agents and the Code They Modify](https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke)
+📅 Wed, 25 Mar 2026 12:07:47 GMT
+👤 By: Jimmy Utterström | 📌 Source: Dev.to
+
+![The Missing Link Between AI Agents and the Code They Modify](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvupj0we5z1s5prn5dw4s.png)
+
+AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...
+
+🏷️ Tags: `ai`, `claudecode`, `specdriven`, `llm`
+
+---
+
+#### 4. [The software industry is ready to grow](https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4)
+📅 Wed, 25 Mar 2026 18:33:04 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![The software industry is ready to grow](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png)
+
+I don't spend a lot of time on the X these days, but I think this perspective is worth...
+
+🏷️ Tags: `ai`, `career`, `agents`
+
+---
+
+#### 5. [AI Crash Course: Hallucinations](https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg)
+📅 Wed, 25 Mar 2026 13:10:15 GMT
+👤 By: Kathryn Grayson Nanz | 📌 Source: Dev.to
+
+![AI Crash Course: Hallucinations](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbgiott8zjv8d2chdvkd.png)
+
+While we can’t eliminate hallucinations entirely, there are still things we can do to reduce the chances of hallucinations showing up in our model’s responses.
+
+🏷️ Tags: `ai`, `beginners`
+
+---
+
+#### 6. [A Small Hardening Trick for .env.local: dotenvx + OS Keychain](https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533)
+📅 Wed, 25 Mar 2026 08:53:02 GMT
+👤 By: Ustun Ozgur | 📌 Source: Dev.to
+
+![A Small Hardening Trick for .env.local: dotenvx + OS Keychain](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png)
+
+A defense layer against increasing supply chain attacks that read your .env files
+
+🏷️ Tags: `security`, `dotenv`, `dotenvx`, `secrets`
+
+---
+
+#### 7. [I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a)
+📅 Wed, 25 Mar 2026 11:01:22 GMT
+👤 By: Leanne R | 📌 Source: Dev.to
+
+![I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG)
+
+I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...
+
+🏷️ Tags: `vibecoding`, `python`, `ai`
+
+---
+
+#### 8. [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on)
+📅 Mon, 23 Mar 2026 17:53:10 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploy a Multi Agent ADK Application to Google Cloud Run](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...
+
+🏷️ Tags: `gemini`, `adkui`, `googlecloudrun`, `python`
+
+---
+
+#### 9. [Engram: A new type of AI](https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd)
+📅 Tue, 24 Mar 2026 21:05:54 GMT
+👤 By: chowderhead | 📌 Source: Dev.to
+
+![Engram: A new type of AI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7rra34vaay4gczhw78.png)
+
+From the author:  From my endless pursuit of getting LLM's to stop hallucinating I had a late night...
+
+🏷️ Tags: `ai`, `opensource`, `machinelearning`, `python`
+
+---
+
+#### 10. [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3)
+📅 Mon, 23 Mar 2026 23:19:39 GMT
+👤 By: Taiwrash | 📌 Source: Dev.to
+
+![I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png)
+
+I want to tell you something that did not make it into the README.  I built...
+
+🏷️ Tags: `ai`, `llm`, `monitoring`, `rag`
+
+---
+
+### 🏷️ JavaScript (21 articles)
+
+#### 1. [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501)
+📅 Wed, 25 Mar 2026 09:23:52 GMT
+👤 By: Daniel Schulz | 📌 Source: Dev.to
+
+![Tend (and about Vibe Coding)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg)
+
+It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...
+
+🏷️ Tags: `frontend`, `vue`, `docker`, `vibecoding`
+
+---
+
+#### 2. [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+📅 Mon, 23 Mar 2026 05:48:13 GMT
+👤 By: Satish Gowda | 📌 Source: Dev.to
+
+![How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png)
+
+How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...
+
+🏷️ Tags: `frontend`, `javascript`, `react`, `tutorial`
+
+---
+
+#### 3. [TypeScript deserved a real DDD framework - so I built one](https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf)
+📅 Tue, 24 Mar 2026 08:04:26 GMT
+👤 By: DOGGA Nidhal | 📌 Source: Dev.to
+
+![TypeScript deserved a real DDD framework - so I built one](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png)
+
+When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...
+
+🏷️ Tags: `typescript`, `ddd`, `cqrs`, `node`
+
+---
+
+#### 4. [Kigumi: Same components, any stack](https://dev.to/mischa/kigumi-same-components-any-stack-bn0)
+📅 Tue, 24 Mar 2026 12:33:32 GMT
+👤 By: Mischa | 📌 Source: Dev.to
+
+![Kigumi: Same components, any stack](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febrcsuqjqqn1ox8qph9m.jpg)
+
+What if the same button component worked in React, Vue, Angular, and Svelte without changing a single...
+
+🏷️ Tags: `webcomponents`, `ai`, `frontend`, `designsystem`
+
+---
+
+#### 5. [OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.](https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f)
+📅 Sat, 21 Mar 2026 21:47:33 GMT
+👤 By: Albert Alov | 📌 Source: Dev.to
+
+![OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png)
+
+Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...
+
+🏷️ Tags: `ai`, `observability`, `typescript`, `opentelemetry`
+
+---
+
+#### 6. [Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj)
+📅 Tue, 17 Mar 2026 23:55:52 GMT
+👤 By: Chioma Halim | 📌 Source: Dev.to
+
+![Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png)
+
+Embedding third-party content with an iframe is straightforward until it suddenly stops...
+
+🏷️ Tags: `javascript`, `security`
+
+---
+
+#### 7. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (22 articles)
+
+#### 1. [I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a)
+📅 Wed, 25 Mar 2026 11:01:22 GMT
+👤 By: Leanne R | 📌 Source: Dev.to
+
+![I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG)
+
+I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...
+
+🏷️ Tags: `vibecoding`, `python`, `ai`
+
+---
+
+#### 2. [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on)
+📅 Mon, 23 Mar 2026 17:53:10 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploy a Multi Agent ADK Application to Google Cloud Run](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...
+
+🏷️ Tags: `gemini`, `adkui`, `googlecloudrun`, `python`
+
+---
+
+#### 3. [Engram: A new type of AI](https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd)
+📅 Tue, 24 Mar 2026 21:05:54 GMT
+👤 By: chowderhead | 📌 Source: Dev.to
+
+![Engram: A new type of AI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7rra34vaay4gczhw78.png)
+
+From the author:  From my endless pursuit of getting LLM's to stop hallucinating I had a late night...
+
+🏷️ Tags: `ai`, `opensource`, `machinelearning`, `python`
+
+---
+
+#### 4. [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56)
+📅 Mon, 23 Mar 2026 17:44:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `googleadk`, `awslightsail`, `gemini`, `python`
+
+---
+
+#### 5. [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c)
+📅 Sat, 21 Mar 2026 22:22:00 GMT
+👤 By: Sahan | 📌 Source: Dev.to
+
+![Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg)
+
+If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...
+
+🏷️ Tags: `github`, `python`, `productivity`, `opensource`
+
+---
+
+#### 6. [pyxclip: Cross-Platform Clipboard for Python, Backed by Rust](https://dev.to/abbazs/pyxclip-cross-platform-clipboard-for-python-backed-by-rust-g37)
+📅 Sun, 22 Mar 2026 09:41:22 GMT
+👤 By: abbazs | 📌 Source: Dev.to
+
+![pyxclip: Cross-Platform Clipboard for Python, Backed by Rust](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0od1oc3mgofs4c18ou19.png)
+
+pyxclip: Cross-Platform Clipboard for Python, Backed by Rust   Most Python clipboard...
+
+🏷️ Tags: `python`, `rust`, `clipboard`
+
+---
+
+#### 7. [Human-in-the-Loop AI Agents with Google ADK and Telegram](https://dev.to/jameszh/human-in-the-loop-ai-agents-with-google-adk-and-telegram-5agd)
+📅 Mon, 16 Mar 2026 19:05:58 GMT
+👤 By: James Zhang | 📌 Source: Dev.to
+
+![Human-in-the-Loop AI Agents with Google ADK and Telegram](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png)
+
+How I took Google's ADK human-in-the-loop sample and made it more intuitive — a FastAPI service with a chat UI and real Telegram approval buttons, closer to how you'd actually use it.
+
+🏷️ Tags: `ai`, `googleadk`, `fastapi`, `telegram`
+
+---
+
+#### 8. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (6 articles)
+
+#### 1. [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501)
+📅 Wed, 25 Mar 2026 09:23:52 GMT
+👤 By: Daniel Schulz | 📌 Source: Dev.to
+
+![Tend (and about Vibe Coding)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg)
+
+It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...
+
+🏷️ Tags: `frontend`, `vue`, `docker`, `vibecoding`
+
+---
+
+#### 2. [Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes](https://dev.to/gde/mastering-google-apps-script-cicd-seamless-github-actions-integration-with-gas-fakes-4c6h)
+📅 Wed, 25 Mar 2026 07:20:29 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F073a3iy46a773q6c5dvh.png)
+
+Abstract   Discover how to seamlessly integrate Google Workspace with GitHub Actions using...
+
+🏷️ Tags: `googleappsscript`, `googleworkspace`, `github`, `cicd`
+
+---
+
+#### 3. [I’m Learning AI in Public, and I Think Developers Need to Chill a Bit](https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2)
+📅 Tue, 24 Mar 2026 14:53:30 GMT
+👤 By: Jonathan Murray | 📌 Source: Dev.to
+
+![I’m Learning AI in Public, and I Think Developers Need to Chill a Bit](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png)
+
+I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...
+
+🏷️ Tags: `ai`, `devops`, `devrel`, `programming`
+
+---
+
+#### 4. [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8)
+📅 Wed, 18 Mar 2026 23:02:35 GMT
+👤 By: Brian Love | 📌 Source: Dev.to
+
+![OpenClaw Setup, Configuration, and Key Takeaways](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png)
+
+How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.
+
+🏷️ Tags: `ai`, `tooling`, `devops`
+
+---
+
+#### 5. [Duct tape enough services together and you can cache APT packages](https://dev.to/dhandspikerwade/duct-tape-enough-services-together-and-you-can-cache-apt-packages-2iml)
+📅 Mon, 23 Mar 2026 03:03:36 GMT
+👤 By: Devin H | 📌 Source: Dev.to
+
+![Duct tape enough services together and you can cache APT packages](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Fnerd_sniping.png)
+
+APT repositories are just HTTP file servers, doesn't seem like something that should require a custom piece of software.
+
+🏷️ Tags: `docker`, `debian`, `ubuntu`, `nginx`
+
+---
+
+#### 6. [When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems](https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02)
+📅 Wed, 18 Mar 2026 14:57:43 GMT
+👤 By: Michael Bogan | 📌 Source: Dev.to
+
+![When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png)
+
+In the world of security and DevOps, AI agents are being pushed from demos into production quickly....
+
+🏷️ Tags: `ai`, `agents`, `logging`, `observability`
+
+---
+
+### 🏷️ WebDev (5 articles)
+
+#### 1. [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501)
+📅 Wed, 25 Mar 2026 09:23:52 GMT
+👤 By: Daniel Schulz | 📌 Source: Dev.to
+
+![Tend (and about Vibe Coding)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg)
+
+It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...
+
+🏷️ Tags: `frontend`, `vue`, `docker`, `vibecoding`
+
+---
+
+#### 2. [PageSpeed 35 to 90: What I Got Wrong, Then Right](https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m)
+📅 Wed, 25 Mar 2026 07:17:07 GMT
+👤 By: genuineswe | 📌 Source: Dev.to
+
+![PageSpeed 35 to 90: What I Got Wrong, Then Right](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvqc5cf2oga14cxnh7lq.png)
+
+How I Took My PageSpeed Score from 35 to 90 (And What I Got Wrong First)   Have you ever...
+
+🏷️ Tags: `performance`, `frontend`, `webdev`, `programming`
+
+---
+
+#### 3. [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+📅 Mon, 23 Mar 2026 05:48:13 GMT
+👤 By: Satish Gowda | 📌 Source: Dev.to
+
+![How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png)
+
+How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...
+
+🏷️ Tags: `frontend`, `javascript`, `react`, `tutorial`
+
+---
+
+#### 4. [Kigumi: Same components, any stack](https://dev.to/mischa/kigumi-same-components-any-stack-bn0)
+📅 Tue, 24 Mar 2026 12:33:32 GMT
+👤 By: Mischa | 📌 Source: Dev.to
+
+![Kigumi: Same components, any stack](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febrcsuqjqqn1ox8qph9m.jpg)
+
+What if the same button component worked in React, Vue, Angular, and Svelte without changing a single...
+
+🏷️ Tags: `webcomponents`, `ai`, `frontend`, `designsystem`
+
+---
+
+#### 5. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (3 articles)
+
+#### 1. [I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes](https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he)
+📅 Tue, 24 Mar 2026 11:06:02 GMT
+👤 By: Henrique Sasaki Yuya | 📌 Source: Dev.to
+
+![I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png)
+
+SystemeInternational uses phantom types, affine spaces, and zero-cost abstractions to make unit misuse a compile-time error. 306 tests, 8 bytes per quantity, and unit conversions at 3 ns/op in Release.
+
+🏷️ Tags: `swift`, `programming`, `opensource`, `types`
+
+---
+
+#### 2. [Confident and Wrong](https://dev.to/maxrimue/confident-and-wrong-107o)
+📅 Tue, 17 Mar 2026 20:07:24 GMT
+👤 By: Max | 📌 Source: Dev.to
+
+![Confident and Wrong](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png)
+
+For a long time, I have been seeing AI in coding as something that enables me, amplifies my...
+
+🏷️ Tags: `ai`, `swift`, `programming`, `learning`
+
+---
+
+#### 3. [TrackFlow: A Kotlin Multiplatform Analytics Router for Android and iOS](https://dev.to/2_cranes/trackflow-a-kotlin-multiplatform-analytics-router-for-android-and-ios-2n6p)
+📅 Wed, 18 Mar 2026 18:19:10 GMT
+👤 By: Lecrane | 📌 Source: Dev.to
+
+![TrackFlow: A Kotlin Multiplatform Analytics Router for Android and iOS](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F55gowueiasjansu3w6jy.png)
+
+Analytics is one of those things every app needs, but very few teams enjoy implementing.  A typical...
+
+🏷️ Tags: `kotlin`, `android`, `ios`, `analytics`
+
+---
+
+### 🏷️ Cloud (7 articles)
+
+#### 1. [Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i)
+📅 Tue, 24 Mar 2026 18:00:13 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...
+
+🏷️ Tags: `gemini`, `aws`, `agents`, `amazonlightsail`
+
+---
+
+#### 2. [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on)
+📅 Mon, 23 Mar 2026 17:53:10 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploy a Multi Agent ADK Application to Google Cloud Run](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...
+
+🏷️ Tags: `gemini`, `adkui`, `googlecloudrun`, `python`
+
+---
+
+#### 3. [How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos](https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b)
+📅 Sun, 22 Mar 2026 22:31:46 GMT
+👤 By: C.K.Sun | 📌 Source: Dev.to
+
+![How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png)
+
+We wanted every employee in the company to use OpenClaw — not just engineers. Product managers...
+
+🏷️ Tags: `opensource`, `openclaw`, `aws`, `cdk`
+
+---
+
+#### 4. [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56)
+📅 Mon, 23 Mar 2026 17:44:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `googleadk`, `awslightsail`, `gemini`, `python`
+
+---
+
+#### 5. [Introducing Aerostack: Workflows, MCPs, and Intelligent Bots on the Edge](https://dev.to/aerostack/introducing-aerostack-workflows-mcps-and-intelligent-bots-on-the-edge-4pla)
+📅 Mon, 23 Mar 2026 09:24:28 GMT
+👤 By: Aerostack | 📌 Source: Dev.to
+
+![Introducing Aerostack: Workflows, MCPs, and Intelligent Bots on the Edge](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd09ksjp0w5viiqpmey14.png)
+
+The Problem   It starts with configuration sprawl.  I was building a project and kept...
+
+🏷️ Tags: `ai`, `mcp`, `cloudflarechallenge`, `webdev`
+
+---
+
+#### 6. [iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)](https://github.com/iflytek/astronclaw-tutorial)
+📅 Thu, 19 Mar 2026 02:40:44 GMT
+👤 By: iflytek | 📌 Source: GitHub
+
+![iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)](https://avatars.githubusercontent.com/u/26786495?v=4)
+
+从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 271
+
+---
+
+#### 7. [HKUDS/OpenSpace - "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/](https://github.com/HKUDS/OpenSpace)
+📅 Tue, 24 Mar 2026 08:01:49 GMT
+👤 By: HKUDS | 📌 Source: GitHub
+
+![HKUDS/OpenSpace - "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/](https://avatars.githubusercontent.com/u/118165258?v=4)
+
+"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 816
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o)
+📅 Wed, 25 Mar 2026 15:01:56 GMT
+👤 By: ghost | 📌 Source: Dev.to
+
+![your agent can think. it can't remember.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png)
+
+TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...
+
+🏷️ Tags: `ai`, `mcp`, `postgres`, `agents`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (9 articles)
+
+#### 1. [A Small Hardening Trick for .env.local: dotenvx + OS Keychain](https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533)
+📅 Wed, 25 Mar 2026 08:53:02 GMT
+👤 By: Ustun Ozgur | 📌 Source: Dev.to
+
+![A Small Hardening Trick for .env.local: dotenvx + OS Keychain](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png)
+
+A defense layer against increasing supply chain attacks that read your .env files
+
+🏷️ Tags: `security`, `dotenv`, `dotenvx`, `secrets`
+
+---
+
+#### 2. [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8)
+📅 Wed, 18 Mar 2026 23:02:35 GMT
+👤 By: Brian Love | 📌 Source: Dev.to
+
+![OpenClaw Setup, Configuration, and Key Takeaways](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png)
+
+How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.
+
+🏷️ Tags: `ai`, `tooling`, `devops`
+
+---
+
+#### 3. [The Cornucopia of Gamified Threat Modeling](https://dev.to/owasp/the-cornucopia-of-gamified-threat-modeling-1c9k)
+📅 Tue, 24 Mar 2026 09:55:15 GMT
+👤 By: Johan Sydseter | 📌 Source: Dev.to
+
+![The Cornucopia of Gamified Threat Modeling](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flu3e9426c6p3w2r7l1lv.jpg)
+
+At the OWASP Cornucopia project, we are done with updating the cards and help pages for the Website...
+
+🏷️ Tags: `appsec`, `security`, `gamedev`, `cybersecurity`
+
+---
+
+#### 4. [I Put a Prompt Injection on My Resume](https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1)
+📅 Mon, 23 Mar 2026 23:51:06 GMT
+👤 By: Fielding Johnston | 📌 Source: Dev.to
+
+![I Put a Prompt Injection on My Resume](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png)
+
+I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...
+
+🏷️ Tags: `ai`, `career`, `security`, `promptinjection`
+
+---
+
+#### 5. [Vercel’s "Agentic" Shift: Is Your Proprietary Code Now Training AI?](https://dev.to/matscode/vercels-agentic-shift-is-your-proprietary-code-now-training-ai-402h)
+📅 Mon, 23 Mar 2026 16:33:54 GMT
+👤 By: Michael Akanji | 📌 Source: Dev.to
+
+![Vercel’s "Agentic" Shift: Is Your Proprietary Code Now Training AI?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv05p0z8jlh3wq143ymwm.png)
+
+The deadline to protect your team’s data is March 31, 2026.  If you logged into Vercel this morning,...
+
+🏷️ Tags: `webdev`, `ai`, `security`, `vercel`
+
+---
+
+#### 6. [I built a terminal-native Little Snitch alternative for macOS](https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807)
+📅 Tue, 24 Mar 2026 11:49:08 GMT
+👤 By: Nick Ciolpan | 📌 Source: Dev.to
+
+![I built a terminal-native Little Snitch alternative for macOS](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png)
+
+CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.
+
+🏷️ Tags: `go`, `macos`, `security`, `opensource`
+
+---
+
+#### 7. [When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems](https://dev.to/mbogan/when-ai-agents-get-it-wrong-the-accountability-crisis-in-multi-agent-systems-2l02)
+📅 Wed, 18 Mar 2026 14:57:43 GMT
+👤 By: Michael Bogan | 📌 Source: Dev.to
+
+![When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png)
+
+In the world of security and DevOps, AI agents are being pushed from demos into production quickly....
+
+🏷️ Tags: `ai`, `agents`, `logging`, `observability`
+
+---
+
+#### 8. [Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj)
+📅 Tue, 17 Mar 2026 23:55:52 GMT
+👤 By: Chioma Halim | 📌 Source: Dev.to
+
+![Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png)
+
+Embedding third-party content with an iframe is straightforward until it suddenly stops...
+
+🏷️ Tags: `javascript`, `security`
+
+---
+
+#### 9. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (27 articles)
+
+#### 1. [I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a)
+📅 Wed, 25 Mar 2026 11:01:22 GMT
+👤 By: Leanne R | 📌 Source: Dev.to
+
+![I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG)
+
+I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...
+
+🏷️ Tags: `vibecoding`, `python`, `ai`
+
+---
+
+#### 2. [Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes](https://dev.to/gde/mastering-google-apps-script-cicd-seamless-github-actions-integration-with-gas-fakes-4c6h)
+📅 Wed, 25 Mar 2026 07:20:29 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F073a3iy46a773q6c5dvh.png)
+
+Abstract   Discover how to seamlessly integrate Google Workspace with GitHub Actions using...
+
+🏷️ Tags: `googleappsscript`, `googleworkspace`, `github`, `cicd`
+
+---
+
+#### 3. [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0)
+📅 Tue, 24 Mar 2026 15:43:40 GMT
+👤 By: Helder Burato Berto | 📌 Source: Dev.to
+
+![AI Writes Code. You Own Quality.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png)
+
+The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...
+
+🏷️ Tags: `ai`, `software`, `development`, `programming`
+
+---
+
+#### 4. [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956)
+📅 Mon, 23 Mar 2026 18:05:03 GMT
+👤 By: Ivan SZKIBA | 📌 Source: Dev.to
+
+![Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png)
+
+This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...
+
+🏷️ Tags: `ai`, `agents`, `git`, `makerchecker`
+
+---
+
+#### 5. [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8)
+📅 Wed, 18 Mar 2026 23:02:35 GMT
+👤 By: Brian Love | 📌 Source: Dev.to
+
+![OpenClaw Setup, Configuration, and Key Takeaways](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png)
+
+How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.
+
+🏷️ Tags: `ai`, `tooling`, `devops`
+
+---
+
+#### 6. [TypeScript deserved a real DDD framework - so I built one](https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf)
+📅 Tue, 24 Mar 2026 08:04:26 GMT
+👤 By: DOGGA Nidhal | 📌 Source: Dev.to
+
+![TypeScript deserved a real DDD framework - so I built one](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png)
+
+When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...
+
+🏷️ Tags: `typescript`, `ddd`, `cqrs`, `node`
+
+---
+
+#### 7. [I was asked to delete my comments before committing](https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437)
+📅 Sun, 22 Mar 2026 01:20:22 GMT
+👤 By: Tual Maxime | 📌 Source: Dev.to
+
+![I was asked to delete my comments before committing](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltopb4rrczp2qlq1rv08.png)
+
+I was asked to delete my comments before committing   I've worked in IT for 12 years now —...
+
+🏷️ Tags: `git`, `productivity`, `developer`, `ai`
+
+---
+
+#### 8. [What are your goals for the week? #171](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-171-5232)
+📅 Mon, 23 Mar 2026 15:27:11 GMT
+👤 By: Chris Jarvis | 📌 Source: Dev.to
+
+![What are your goals for the week? #171](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nly92n428cqpuj1s0we.jpg)
+
+What are your goals for the week?    What are you building this week? What do you want to...
+
+🏷️ Tags: `career`, `devjournal`, `discuss`, `productivity`
+
+---
+
+#### 9. [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c)
+📅 Sat, 21 Mar 2026 22:22:00 GMT
+👤 By: Sahan | 📌 Source: Dev.to
+
+![Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg)
+
+If you are anything like me, you’ve probably spent a Friday afternoon trying to remember everything...
+
+🏷️ Tags: `github`, `python`, `productivity`, `opensource`
+
+---
+
+#### 10. [OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.](https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f)
+📅 Sat, 21 Mar 2026 21:47:33 GMT
+👤 By: Albert Alov | 📌 Source: Dev.to
+
+![OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png)
+
+Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...
+
+🏷️ Tags: `ai`, `observability`, `typescript`, `opentelemetry`
+
+---
+
