@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-25 10:00 CAT)
+## 📅 Latest Updates (2026-03-25 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,19 +142,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F811ibf0nr3nts6hbg27b.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/ben/meme-monday-1bec">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qjfogdpakkfthm50uxl.png" width="200" alt="Meme Monday" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>Meme Monday</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-1bec">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qjfogdpakkfthm50uxl.png" width="200" alt="Meme Monday" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F811ibf0nr3nts6hbg27b.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>Meme Monday</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,8 +196,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [Check Up with Each Other](https://dev.to/francistrdev/check-up-with-each-other-2ogc) _[Dev.to]_
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2) _[Dev.to]_
 - [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56) _[Dev.to]_
 - [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos](https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b) _[Dev.to]_
 - [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8) _[Dev.to]_
 
-_Last automated update: Wed, 25 Mar 2026 10:05:06 CAT_
+_Last automated update: Wed, 25 Mar 2026 11:08:01 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 25 Mar 2026 10:05:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Mar 2026 08:05:06 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Mar 2026 09:08:01 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
