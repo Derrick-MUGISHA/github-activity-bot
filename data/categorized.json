@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "SethGammon"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 663,
       "user": "GAIR-NLP"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 681,
       "user": "fastclaw-ai"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "openilink"
     },
     {
@@ -972,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "SethGammon"
     },
     {
@@ -1017,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "htimesnine"
     },
     {
@@ -1273,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 862,
       "user": "dou-jiang"
     },
     {
@@ -1288,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 768,
       "user": "facebookresearch"
     },
     {
@@ -1303,23 +1303,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 663,
       "user": "GAIR-NLP"
     },
     {
-      "title": "bramcohen/manyana - GitHub Repository",
-      "url": "https://github.com/bramcohen/manyana",
-      "published_at": "2026-03-22T00:39:59Z",
-      "description": "Trending GitHub Repository",
+      "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+      "url": "https://github.com/HKUDS/OpenSpace",
+      "published_at": "2026-03-24T08:01:49Z",
+      "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 406,
-      "user": "bramcohen"
+      "stars": 430,
+      "user": "HKUDS"
     }
   ],
   "DevOps": [
@@ -1579,6 +1579,21 @@
       "source": "GitHub",
       "stars": 268,
       "user": "iflytek"
+    },
+    {
+      "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+      "url": "https://github.com/HKUDS/OpenSpace",
+      "published_at": "2026-03-24T08:01:49Z",
+      "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "source": "GitHub",
+      "stars": 430,
+      "user": "HKUDS"
     }
   ],
   "Database": [
@@ -1627,21 +1642,6 @@
   ],
   "Security": [
     {
-      "title": "I built a terminal-native Little Snitch alternative for macOS",
-      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
-      "published_at": "2026-03-24T11:49:08Z",
-      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
-      "tags": [
-        "go",
-        "macos",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
-      "source": "Dev.to",
-      "user": "Nick Ciolpan"
-    },
-    {
       "title": "I Put a Prompt Injection on My Resume",
       "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
       "published_at": "2026-03-23T23:51:06Z",
@@ -1655,6 +1655,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
       "source": "Dev.to",
       "user": "Fielding Johnston"
+    },
+    {
+      "title": "I built a terminal-native Little Snitch alternative for macOS",
+      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
+      "published_at": "2026-03-24T11:49:08Z",
+      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
+      "tags": [
+        "go",
+        "macos",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
+      "source": "Dev.to",
+      "user": "Nick Ciolpan"
     },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
@@ -1931,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "SethGammon"
     },
     {
@@ -1976,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "htimesnine"
     },
     {
@@ -2021,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 862,
       "user": "dou-jiang"
     },
     {
@@ -2036,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 768,
       "user": "facebookresearch"
     },
     {
@@ -2051,23 +2066,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 663,
       "user": "GAIR-NLP"
     },
     {
-      "title": "bramcohen/manyana - GitHub Repository",
-      "url": "https://github.com/bramcohen/manyana",
-      "published_at": "2026-03-22T00:39:59Z",
-      "description": "Trending GitHub Repository",
+      "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+      "url": "https://github.com/HKUDS/OpenSpace",
+      "published_at": "2026-03-24T08:01:49Z",
+      "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 406,
-      "user": "bramcohen"
+      "stars": 430,
+      "user": "HKUDS"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -2081,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 681,
       "user": "fastclaw-ai"
     },
     {
@@ -2096,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 418,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2111,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 277,
       "user": "samber"
     },
     {
@@ -2126,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "openilink"
     },
     {
