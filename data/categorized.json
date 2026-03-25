@@ -31,6 +31,21 @@
       "user": "xbill"
     },
     {
+      "title": "The Missing Link Between AI Agents and the Code They Modify",
+      "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
+      "published_at": "2026-03-25T12:07:47Z",
+      "description": "AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...",
+      "tags": [
+        "ai",
+        "claudecode",
+        "specdriven",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvupj0we5z1s5prn5dw4s.png",
+      "source": "Dev.to",
+      "user": "Jimmy Utterström"
+    },
+    {
       "title": "The software industry is ready to grow",
       "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
       "published_at": "2026-03-25T18:33:04Z",
@@ -71,21 +86,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png",
       "source": "Dev.to",
       "user": "Ustun Ozgur"
-    },
-    {
-      "title": "The Missing Link Between AI Agents and the Code They Modify",
-      "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
-      "published_at": "2026-03-25T12:07:47Z",
-      "description": "AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...",
-      "tags": [
-        "ai",
-        "claudecode",
-        "specdriven",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvupj0we5z1s5prn5dw4s.png",
-      "source": "Dev.to",
-      "user": "Jimmy Utterström"
     },
     {
       "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
@@ -147,21 +147,6 @@
       "user": "Taiwrash"
     },
     {
-      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
-      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
-      "published_at": "2026-03-23T18:05:03Z",
-      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "makerchecker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
-      "source": "Dev.to",
-      "user": "Ivan SZKIBA"
-    },
-    {
       "title": "AI Writes Code. You Own Quality.",
       "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
       "published_at": "2026-03-24T15:43:40Z",
@@ -175,6 +160,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
       "source": "Dev.to",
       "user": "Helder Burato Berto"
+    },
+    {
+      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
+      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
+      "published_at": "2026-03-23T18:05:03Z",
+      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "makerchecker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
+      "source": "Dev.to",
+      "user": "Ivan SZKIBA"
     },
     {
       "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
@@ -641,7 +641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "SethGammon"
     },
     {
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 753,
       "user": "GAIR-NLP"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "fastclaw-ai"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 225,
       "user": "phlx0"
     }
   ],
@@ -941,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "SethGammon"
     },
     {
@@ -956,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 284,
       "user": "kulikov0"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 192,
       "user": "htimesnine"
     },
     {
@@ -1001,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 157,
       "user": "mauriceboe"
     }
   ],
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1085,
+      "stars": 1086,
       "user": "math-inc"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 925,
       "user": "dou-jiang"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 876,
+      "stars": 883,
       "user": "facebookresearch"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 816,
       "user": "HKUDS"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 753,
       "user": "GAIR-NLP"
     }
   ],
@@ -1620,7 +1620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 816,
       "user": "HKUDS"
     }
   ],
@@ -1815,21 +1815,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
-      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
-      "published_at": "2026-03-23T18:05:03Z",
-      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "makerchecker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
-      "source": "Dev.to",
-      "user": "Ivan SZKIBA"
-    },
-    {
       "title": "AI Writes Code. You Own Quality.",
       "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
       "published_at": "2026-03-24T15:43:40Z",
@@ -1843,6 +1828,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
       "source": "Dev.to",
       "user": "Helder Burato Berto"
+    },
+    {
+      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
+      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
+      "published_at": "2026-03-23T18:05:03Z",
+      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "makerchecker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
+      "source": "Dev.to",
+      "user": "Ivan SZKIBA"
     },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "SethGammon"
     },
     {
@@ -1990,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 284,
       "user": "kulikov0"
     },
     {
@@ -2020,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 192,
       "user": "htimesnine"
     },
     {
@@ -2035,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 157,
       "user": "mauriceboe"
     },
     {
@@ -2050,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1085,
+      "stars": 1086,
       "user": "math-inc"
     },
     {
@@ -2065,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 925,
       "user": "dou-jiang"
     },
     {
@@ -2080,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 876,
+      "stars": 883,
       "user": "facebookresearch"
     },
     {
@@ -2095,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 816,
       "user": "HKUDS"
     },
     {
@@ -2110,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 753,
       "user": "GAIR-NLP"
     },
     {
@@ -2125,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "fastclaw-ai"
     },
     {
@@ -2155,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "samber"
     },
     {
@@ -2185,7 +2185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 225,
       "user": "phlx0"
     }
   ]
