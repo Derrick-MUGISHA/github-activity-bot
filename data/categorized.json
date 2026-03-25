@@ -16,19 +16,17 @@
       "user": "Helder Burato Berto"
     },
     {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "title": "AI Crash Course: Hallucinations",
+      "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg",
+      "published_at": "2026-03-25T13:10:15Z",
+      "description": "While we can’t eliminate hallucinations entirely, there are still things we can do to reduce the chances of hallucinations showing up in our model’s responses.",
       "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
+        "ai",
+        "beginners"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbgiott8zjv8d2chdvkd.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Kathryn Grayson Nanz"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
@@ -59,6 +57,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felo7b8moqchuv6rc9ijs.png",
       "source": "Dev.to",
       "user": "Glen Yu"
+    },
+    {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -514,21 +527,6 @@
       "user": "Ahmet Zeybek"
     },
     {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -672,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "SethGammon"
     },
     {
@@ -702,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 688,
       "user": "GAIR-NLP"
     },
     {
@@ -717,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 688,
       "user": "fastclaw-ai"
     },
     {
@@ -732,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 233,
       "user": "openilink"
     },
     {
@@ -753,21 +751,6 @@
   ],
   "JavaScript": [
     {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
-    },
-    {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
       "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
       "published_at": "2026-03-23T05:48:13Z",
@@ -781,6 +764,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
+    },
+    {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
     },
     {
       "title": "Kigumi: Same components, any stack",
@@ -972,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "SethGammon"
     },
     {
@@ -1017,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 176,
       "user": "htimesnine"
     },
     {
@@ -1038,21 +1036,6 @@
   ],
   "Python": [
     {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56",
       "published_at": "2026-03-23T17:44:29Z",
@@ -1064,6 +1047,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1273,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 895,
       "user": "dou-jiang"
     },
     {
@@ -1288,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 795,
       "user": "facebookresearch"
     },
     {
@@ -1303,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 688,
       "user": "GAIR-NLP"
     },
     {
@@ -1318,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 608,
       "user": "HKUDS"
     }
   ],
@@ -1366,21 +1364,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fsh7s7hgfjfjqhmthhv.png",
       "source": "Dev.to",
       "user": "Michael Bogan"
-    },
-    {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
     }
   ],
   "WebDev": [
@@ -1413,21 +1396,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febrcsuqjqqn1ox8qph9m.jpg",
       "source": "Dev.to",
       "user": "Mischa"
-    },
-    {
-      "title": "The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics",
-      "url": "https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl",
-      "published_at": "2026-03-05T20:29:52Z",
-      "description": "The release of GPT-5.4 isn't just another incremental LLM update; it's a stark reminder of a...",
-      "tags": [
-        "observability",
-        "webdev",
-        "monitoring",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz5asq8pnb7z7716ch2ah.png",
-      "source": "Dev.to",
-      "user": "Sovereign Revenue Guard"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1491,21 +1459,6 @@
   ],
   "Cloud": [
     {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56",
       "published_at": "2026-03-23T17:44:29Z",
@@ -1517,6 +1470,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1592,7 +1560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 608,
       "user": "HKUDS"
     }
   ],
@@ -1788,21 +1756,6 @@
       "user": "Helder Burato Berto"
     },
     {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
-    },
-    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -1830,6 +1783,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
       "source": "Dev.to",
       "user": "Brian Love"
+    },
+    {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
     },
     {
       "title": "I was asked to delete my comments before committing",
@@ -1961,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "SethGammon"
     },
     {
@@ -2006,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 176,
       "user": "htimesnine"
     },
     {
@@ -2051,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 895,
       "user": "dou-jiang"
     },
     {
@@ -2066,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 795,
       "user": "facebookresearch"
     },
     {
@@ -2081,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 688,
       "user": "GAIR-NLP"
     },
     {
@@ -2096,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 608,
       "user": "HKUDS"
     },
     {
@@ -2111,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 688,
       "user": "fastclaw-ai"
     },
     {
@@ -2126,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 421,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2156,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 233,
       "user": "openilink"
     },
     {
