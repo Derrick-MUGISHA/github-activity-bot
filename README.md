@@ -38,11 +38,11 @@
 
 **Security**: 🟦🟦🟦🟦 9 (8.6%)
 
+**Cloud**: 🟦🟦🟦 7 (6.7%)
+
 **DevOps**: 🟦🟦 6 (5.7%)
 
 **WebDev**: 🟦🟦 6 (5.7%)
-
-**Cloud**: 🟦🟦 6 (5.7%)
 
 **Mobile**: 🟦 3 (2.9%)
 
@@ -61,8 +61,8 @@
 
 ```
 Go              ██████████████████████████████ 24.4 (24.4%)
-Python          █████████████████████████████ 23.3 (23.3%)
 JavaScript      █████████████████████████████ 23.3 (23.3%)
+Python          █████████████████████████████ 23.3 (23.3%)
 Java            ███████████████████████████ 22.2 (22.2%)
 Swift           ████ 3.3 (3.3%)
 Rust            ███ 2.2 (2.2%)
@@ -73,8 +73,8 @@ Kotlin          █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 22
-    "Python" : 21
     "JavaScript" : 21
+    "Python" : 21
     "Java" : 20
     "Swift" : 3
     "Rust" : 2
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![security](https://img.shields.io/badge/security-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![security](https://img.shields.io/badge/security-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-25 21:00 CAT)
+## 📅 Latest Updates (2026-03-25 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png" width="200" alt="Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI" />
+    <a href="https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png" width="200" alt="Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI" />
       <br/>
-      <b>Building a Multimodal Cross Cloud Live Agent with ...</b>
+      <b>Cross Cloud Comic Builder with ADK, Amazon Lightsa...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,7 +200,7 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
 - [The Vonage Dev Discussion: Open Source](https://dev.to/vonagedev/the-vonage-dev-discussion-open-source-ipb) _[Dev.to]_
-- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56) _[Dev.to]_
+- [Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i) _[Dev.to]_
 - [The software industry is ready to grow](https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4) _[Dev.to]_
 - [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501) _[Dev.to]_
 - [The Missing Link Between AI Agents and the Code They Modify](https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke) _[Dev.to]_
@@ -208,15 +208,15 @@ npm run test
 - [AI Crash Course: Hallucinations](https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg) _[Dev.to]_
 - [A Small Hardening Trick for .env.local: dotenvx + OS Keychain](https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533) _[Dev.to]_
 - [PageSpeed 35 to 90: What I Got Wrong, Then Right](https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m) _[Dev.to]_
-- [Implementing a RAG system: Crawl](https://dev.to/gde/implementing-a-rag-system-crawl-5li) _[Dev.to]_
 - [I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a) _[Dev.to]_
 - [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on) _[Dev.to]_
 - [Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes](https://dev.to/gde/mastering-google-apps-script-cicd-seamless-github-actions-integration-with-gas-fakes-4c6h) _[Dev.to]_
 - [Engram: A new type of AI](https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd) _[Dev.to]_
 - [HTML Was a Miracle. Now It’s a Bottleneck. What if we started over?](https://dev.to/niklabh/html-was-a-miracle-now-its-a-bottleneck-what-if-we-started-over-43bp) _[Dev.to]_
 - [Jargon Doesn't Make You Senior](https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd) _[Dev.to]_
+- [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
 
-_Last automated update: Wed, 25 Mar 2026 21:53:31 CAT_
+_Last automated update: Wed, 25 Mar 2026 22:34:55 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 25 Mar 2026 21:53:31 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Mar 2026 19:53:31 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Mar 2026 20:34:55 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
