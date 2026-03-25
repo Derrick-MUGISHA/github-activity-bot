@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "your agent can think. it can't remember.",
+      "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
+      "published_at": "2026-03-25T15:01:56Z",
+      "description": "TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...",
+      "tags": [
+        "ai",
+        "mcp",
+        "postgres",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
+      "source": "Dev.to",
+      "user": "ghost"
+    },
+    {
       "title": "AI Writes Code. You Own Quality.",
       "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
       "published_at": "2026-03-24T15:43:40Z",
@@ -14,19 +29,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
       "source": "Dev.to",
       "user": "Helder Burato Berto"
-    },
-    {
-      "title": "AI Crash Course: Hallucinations",
-      "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg",
-      "published_at": "2026-03-25T13:10:15Z",
-      "description": "While we can’t eliminate hallucinations entirely, there are still things we can do to reduce the chances of hallucinations showing up in our model’s responses.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbgiott8zjv8d2chdvkd.png",
-      "source": "Dev.to",
-      "user": "Kathryn Grayson Nanz"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
@@ -44,6 +46,49 @@
       "user": "xbill"
     },
     {
+      "title": "The Missing Link Between AI Agents and the Code They Modify",
+      "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
+      "published_at": "2026-03-25T12:07:47Z",
+      "description": "AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...",
+      "tags": [
+        "ai",
+        "claudecode",
+        "specdriven",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvupj0we5z1s5prn5dw4s.png",
+      "source": "Dev.to",
+      "user": "Jimmy Utterström"
+    },
+    {
+      "title": "AI Crash Course: Hallucinations",
+      "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg",
+      "published_at": "2026-03-25T13:10:15Z",
+      "description": "While we can’t eliminate hallucinations entirely, there are still things we can do to reduce the chances of hallucinations showing up in our model’s responses.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbgiott8zjv8d2chdvkd.png",
+      "source": "Dev.to",
+      "user": "Kathryn Grayson Nanz"
+    },
+    {
+      "title": "A Small Hardening Trick for .env.local: dotenvx + OS Keychain",
+      "url": "https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533",
+      "published_at": "2026-03-25T08:53:02Z",
+      "description": "A defense layer against increasing supply chain attacks that read your .env files",
+      "tags": [
+        "security",
+        "dotenv",
+        "dotenvx",
+        "secrets"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png",
+      "source": "Dev.to",
+      "user": "Ustun Ozgur"
+    },
+    {
       "title": "Implementing a RAG system: Crawl",
       "url": "https://dev.to/gde/implementing-a-rag-system-crawl-5li",
       "published_at": "2026-03-24T18:00:00Z",
@@ -59,6 +104,35 @@
       "user": "Glen Yu"
     },
     {
+      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
+      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
+      "published_at": "2026-03-25T11:01:22Z",
+      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
+      "tags": [
+        "vibecoding",
+        "python",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
+      "source": "Dev.to",
+      "user": "Leanne R"
+    },
+    {
+      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
+      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
+      "published_at": "2026-03-24T14:53:30Z",
+      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
+      "tags": [
+        "ai",
+        "devops",
+        "devrel",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
       "published_at": "2026-03-23T17:53:10Z",
@@ -72,6 +146,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Engram: A new type of AI",
+      "url": "https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd",
+      "published_at": "2026-03-24T21:05:54Z",
+      "description": "From the author:  From my endless pursuit of getting LLM's to stop hallucinating I had a late night...",
+      "tags": [
+        "ai",
+        "opensource",
+        "machinelearning",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7rra34vaay4gczhw78.png",
+      "source": "Dev.to",
+      "user": "chowderhead"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -173,21 +262,6 @@
       "user": "Typing Turtle"
     },
     {
-      "title": "I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.",
-      "url": "https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk",
-      "published_at": "2026-03-23T13:12:28Z",
-      "description": "I'll be honest. A year ago, if you told me I'd be having full conversations with an AI while building...",
-      "tags": [
-        "ai",
-        "programming",
-        "coding",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg45p37fkdyfvtgugcalk.png",
-      "source": "Dev.to",
-      "user": "Devesh Korde"
-    },
-    {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
       "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
       "published_at": "2026-03-18T19:29:59Z",
@@ -230,21 +304,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwt2rijx7v2jzn65wiegl.png",
       "source": "Dev.to",
       "user": "Dennis Lemm"
-    },
-    {
-      "title": "February 2026 GDE AI Newsletter Mentions",
-      "url": "https://dev.to/gde/february-2026-gde-ai-newsletter-mentions-2f45",
-      "published_at": "2026-03-23T13:44:56Z",
-      "description": "Just got the February AI GDE summary in my inbox.  I got a few mentions for my recent...",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F088cimv7qnp1wda0t0sm.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "I was asked to delete my comments before committing",
@@ -290,19 +349,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
       "source": "Dev.to",
       "user": "Max"
-    },
-    {
-      "title": "Are you paying attention to your token use?",
-      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
-      "published_at": "2026-03-23T13:45:08Z",
-      "description": "Or do you just use AI tools freely?",
-      "tags": [
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
-      "source": "Dev.to",
-      "user": "Amara Graham"
     },
     {
       "title": "The Local AI Powerhouse",
@@ -425,6 +471,21 @@
       "user": "Dineshraj Anandan"
     },
     {
+      "title": "I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.",
+      "url": "https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk",
+      "published_at": "2026-03-23T13:12:28Z",
+      "description": "I'll be honest. A year ago, if you told me I'd be having full conversations with an AI while building...",
+      "tags": [
+        "ai",
+        "programming",
+        "coding",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg45p37fkdyfvtgugcalk.png",
+      "source": "Dev.to",
+      "user": "Devesh Korde"
+    },
+    {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
       "url": "https://dev.to/audreyhal/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-3ifj",
       "published_at": "2026-03-17T23:55:52Z",
@@ -450,81 +511,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
       "source": "Dev.to",
       "user": "Mike Krop"
-    },
-    {
-      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
-      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
-      "published_at": "2026-03-16T14:42:02Z",
-      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
-      "tags": [
-        "rust",
-        "postgres",
-        "opensource",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
-      "source": "Dev.to",
-      "user": "Faruk Durgut"
-    },
-    {
-      "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
-      "url": "https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml",
-      "published_at": "2026-03-19T20:26:57Z",
-      "description": "It's time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...",
-      "tags": [
-        "ai",
-        "devchallenge",
-        "weekendchallenge",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmansxgv17pqu2jbwotxx.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "I Scanned 100 AI Codebases - Here's What I Found",
-      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
-      "published_at": "2026-03-19T08:41:48Z",
-      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
-      "source": "Dev.to",
-      "user": "Mykola Kondratiuk"
-    },
-    {
-      "title": "Testing Antigravity: Building a Data-Intensive POC at 300km/h",
-      "url": "https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57",
-      "published_at": "2026-03-22T19:18:05Z",
-      "description": "Introduction   Last week, I spent a few hours on a Frecciarossa train from Rome to Calabria....",
-      "tags": [
-        "antigravity",
-        "googlecloud",
-        "gemini",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyy88eoxqpt4vv0wjmg8.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
-    },
-    {
-      "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
-      "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
-      "published_at": "2026-03-07T09:30:17Z",
-      "description": "I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.",
-      "tags": [
-        "postgres",
-        "ai",
-        "machinelearning",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Ahmet Zeybek"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -700,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 704,
       "user": "GAIR-NLP"
     },
     {
@@ -715,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 693,
       "user": "fastclaw-ai"
     },
     {
@@ -745,11 +731,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 219,
       "user": "phlx0"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Tend (and about Vibe Coding)",
+      "url": "https://dev.to/iamschulz/tend-and-about-vibe-coding-2501",
+      "published_at": "2026-03-25T09:23:52Z",
+      "description": "It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...",
+      "tags": [
+        "frontend",
+        "vue",
+        "docker",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Schulz"
+    },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
       "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
@@ -822,21 +823,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
       "source": "Dev.to",
       "user": "Chioma Halim"
-    },
-    {
-      "title": "We built a video recording API at $0.01/min. Here's the tech that made it possible.",
-      "url": "https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872",
-      "published_at": "2026-03-13T04:17:57Z",
-      "description": "Most video recording APIs charge $0.02-0.03 per minute. We built one for $0.01/min — 62% cheaper —...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "saas",
-        "video"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgacpdirf0rsp3sl4hurp.jpeg",
-      "source": "Dev.to",
-      "user": "Christian Segovia"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -985,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "kulikov0"
     },
     {
@@ -1015,23 +1001,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 180,
       "user": "htimesnine"
     },
     {
-      "title": "WhatDreamsCost/WhatDreamsCost-ComfyUI - A variety of custom ComfyUI nodes and workflows",
-      "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI",
-      "published_at": "2026-03-20T07:26:23Z",
-      "description": "A variety of custom ComfyUI nodes and workflows",
+      "title": "mauriceboe/NOMAD - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "url": "https://github.com/mauriceboe/NOMAD",
+      "published_at": "2026-03-19T11:51:54Z",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
       "source": "GitHub",
-      "stars": 121,
-      "user": "WhatDreamsCost"
+      "stars": 127,
+      "user": "mauriceboe"
     }
   ],
   "Python": [
@@ -1051,6 +1037,20 @@
       "user": "xbill"
     },
     {
+      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
+      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
+      "published_at": "2026-03-25T11:01:22Z",
+      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
+      "tags": [
+        "vibecoding",
+        "python",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
+      "source": "Dev.to",
+      "user": "Leanne R"
+    },
+    {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
       "published_at": "2026-03-23T17:53:10Z",
@@ -1064,6 +1064,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Engram: A new type of AI",
+      "url": "https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd",
+      "published_at": "2026-03-24T21:05:54Z",
+      "description": "From the author:  From my endless pursuit of getting LLM's to stop hallucinating I had a late night...",
+      "tags": [
+        "ai",
+        "opensource",
+        "machinelearning",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7rra34vaay4gczhw78.png",
+      "source": "Dev.to",
+      "user": "chowderhead"
     },
     {
       "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
@@ -1108,21 +1123,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vkuwh3z98m4l0wxaqup.png",
       "source": "Dev.to",
       "user": "James Zhang"
-    },
-    {
-      "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
-      "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
-      "published_at": "2026-03-07T09:30:17Z",
-      "description": "I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.",
-      "tags": [
-        "postgres",
-        "ai",
-        "machinelearning",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
-      "source": "Dev.to",
-      "user": "Ahmet Zeybek"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 906,
       "user": "dou-jiang"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 809,
       "user": "facebookresearch"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 704,
       "user": "GAIR-NLP"
     },
     {
@@ -1316,11 +1316,56 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 674,
       "user": "HKUDS"
     }
   ],
   "DevOps": [
+    {
+      "title": "Tend (and about Vibe Coding)",
+      "url": "https://dev.to/iamschulz/tend-and-about-vibe-coding-2501",
+      "published_at": "2026-03-25T09:23:52Z",
+      "description": "It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...",
+      "tags": [
+        "frontend",
+        "vue",
+        "docker",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Schulz"
+    },
+    {
+      "title": "Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes",
+      "url": "https://dev.to/gde/mastering-google-apps-script-cicd-seamless-github-actions-integration-with-gas-fakes-4c6h",
+      "published_at": "2026-03-25T07:20:29Z",
+      "description": "Abstract   Discover how to seamlessly integrate Google Workspace with GitHub Actions using...",
+      "tags": [
+        "googleappsscript",
+        "googleworkspace",
+        "github",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F073a3iy46a773q6c5dvh.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
+      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
+      "published_at": "2026-03-24T14:53:30Z",
+      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
+      "tags": [
+        "ai",
+        "devops",
+        "devrel",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
       "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
@@ -1367,6 +1412,50 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "Tend (and about Vibe Coding)",
+      "url": "https://dev.to/iamschulz/tend-and-about-vibe-coding-2501",
+      "published_at": "2026-03-25T09:23:52Z",
+      "description": "It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...",
+      "tags": [
+        "frontend",
+        "vue",
+        "docker",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Schulz"
+    },
+    {
+      "title": "PageSpeed 35 to 90: What I Got Wrong, Then Right",
+      "url": "https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m",
+      "published_at": "2026-03-25T07:17:07Z",
+      "description": "How I Took My PageSpeed Score from 35 to 90 (And What I Got Wrong First)   Have you ever...",
+      "tags": [
+        "performance",
+        "frontend",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvqc5cf2oga14cxnh7lq.png",
+      "source": "Dev.to",
+      "user": "genuineswe"
+    },
+    {
+      "title": "HTML Was a Miracle. Now It’s a Bottleneck. What if we started over?",
+      "url": "https://dev.to/niklabh/html-was-a-miracle-now-its-a-bottleneck-what-if-we-started-over-43bp",
+      "published_at": "2026-03-24T19:24:39Z",
+      "description": "I built a browser that doesn’t understand HTML. Here’s why.     I’ve spent over a decade...",
+      "tags": [
+        "webassembly",
+        "rust",
+        "browser"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F094kd1sebrc310wnhfqz.png",
+      "source": "Dev.to",
+      "user": "Nikhil Ranjan"
+    },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
       "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
@@ -1519,21 +1608,6 @@
       "user": "Aerostack"
     },
     {
-      "title": "Testing Antigravity: Building a Data-Intensive POC at 300km/h",
-      "url": "https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57",
-      "published_at": "2026-03-22T19:18:05Z",
-      "description": "Introduction   Last week, I spent a few hours on a Frecciarossa train from Rome to Calabria....",
-      "tags": [
-        "antigravity",
-        "googlecloud",
-        "gemini",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyy88eoxqpt4vv0wjmg8.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
-    },
-    {
       "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
       "url": "https://github.com/iflytek/astronclaw-tutorial",
       "published_at": "2026-03-19T02:40:44Z",
@@ -1560,40 +1634,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 674,
       "user": "HKUDS"
     }
   ],
   "Database": [
     {
-      "title": "I built a PostgreSQL client in Rust because DBeaver was eating my RAM",
-      "url": "https://dev.to/frkdrgt/i-built-a-postgresql-client-in-rust-because-dbeaver-was-eating-my-ram-1eg1",
-      "published_at": "2026-03-16T14:42:02Z",
-      "description": "My daily laptop has 8GB of RAM. Not a lot by modern standards, but enough — until I open...",
+      "title": "your agent can think. it can't remember.",
+      "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
+      "published_at": "2026-03-25T15:01:56Z",
+      "description": "TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...",
       "tags": [
-        "rust",
-        "postgres",
-        "opensource",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyd89z1pp0op1tmar5zh.png",
-      "source": "Dev.to",
-      "user": "Faruk Durgut"
-    },
-    {
-      "title": "I Deleted Pinecone, Redis, and 400 Lines of Python. My RAG Pipeline Still Works.",
-      "url": "https://dev.to/zeybek/i-deleted-pinecone-redis-and-400-lines-of-python-my-rag-pipeline-still-works-5dh3",
-      "published_at": "2026-03-07T09:30:17Z",
-      "description": "I had 5 services running for a RAG pipeline. Turns out I only needed PostgreSQL. Here's the whole thing in SQL.",
-      "tags": [
-        "postgres",
         "ai",
-        "machinelearning",
-        "tutorial"
+        "mcp",
+        "postgres",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbook.zeybek.dev%2Fimages%2Fog-image.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
       "source": "Dev.to",
-      "user": "Ahmet Zeybek"
+      "user": "ghost"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1609,6 +1668,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "A Small Hardening Trick for .env.local: dotenvx + OS Keychain",
+      "url": "https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533",
+      "published_at": "2026-03-25T08:53:02Z",
+      "description": "A defense layer against increasing supply chain attacks that read your .env files",
+      "tags": [
+        "security",
+        "dotenv",
+        "dotenvx",
+        "secrets"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png",
+      "source": "Dev.to",
+      "user": "Ustun Ozgur"
+    },
     {
       "title": "I Put a Prompt Injection on My Resume",
       "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
@@ -1712,21 +1786,6 @@
       "user": "Chioma Halim"
     },
     {
-      "title": "I Scanned 100 AI Codebases - Here's What I Found",
-      "url": "https://dev.to/itskondrat/i-scanned-100-ai-codebases-heres-what-i-found-55be",
-      "published_at": "2026-03-19T08:41:48Z",
-      "description": "I've been building VibeCheck for the past few months - it's a security scanner specifically for...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8zaw92mvjsdi4x9te7y.png",
-      "source": "Dev.to",
-      "user": "Mykola Kondratiuk"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1754,6 +1813,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
       "source": "Dev.to",
       "user": "Helder Burato Berto"
+    },
+    {
+      "title": "Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes",
+      "url": "https://dev.to/gde/mastering-google-apps-script-cicd-seamless-github-actions-integration-with-gas-fakes-4c6h",
+      "published_at": "2026-03-25T07:20:29Z",
+      "description": "Abstract   Discover how to seamlessly integrate Google Workspace with GitHub Actions using...",
+      "tags": [
+        "googleappsscript",
+        "googleworkspace",
+        "github",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F073a3iy46a773q6c5dvh.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
+      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
+      "published_at": "2026-03-25T11:01:22Z",
+      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
+      "tags": [
+        "vibecoding",
+        "python",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
+      "source": "Dev.to",
+      "user": "Leanne R"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -1813,19 +1901,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltopb4rrczp2qlq1rv08.png",
       "source": "Dev.to",
       "user": "Tual Maxime"
-    },
-    {
-      "title": "Are you paying attention to your token use?",
-      "url": "https://dev.to/missamarakay/are-you-paying-attention-to-your-token-use-5h5n",
-      "published_at": "2026-03-23T13:45:08Z",
-      "description": "Or do you just use AI tools freely?",
-      "tags": [
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1586974710160-55f48f417990%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
-      "source": "Dev.to",
-      "user": "Amara Graham"
     },
     {
       "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
@@ -1888,36 +1963,6 @@
       "user": "Dineshraj Anandan"
     },
     {
-      "title": "Testing Antigravity: Building a Data-Intensive POC at 300km/h",
-      "url": "https://dev.to/gde/testing-antigravity-building-a-data-intensive-poc-at-300kmh-4c57",
-      "published_at": "2026-03-22T19:18:05Z",
-      "description": "Introduction   Last week, I spent a few hours on a Frecciarossa train from Rome to Calabria....",
-      "tags": [
-        "antigravity",
-        "googlecloud",
-        "gemini",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyy88eoxqpt4vv0wjmg8.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
-    },
-    {
-      "title": "Why Shift+Enter doesn't work in Claude Code (and how to fix it)",
-      "url": "https://dev.to/richardbray/why-shiftenter-doesnt-work-in-claude-code-and-how-to-fix-it-10f7",
-      "published_at": "2026-03-06T16:03:22Z",
-      "description": "TL;DR    Enable the Kitty keyboard protocol in your terminal (WezTerm: add...",
-      "tags": [
-        "claudecode",
-        "terminal",
-        "wezterm",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvor2ooqmwkv6vkstlqex.png",
-      "source": "Dev.to",
-      "user": "Richard Oliver Bray"
-    },
-    {
       "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
       "url": "https://github.com/SethGammon/Citadel",
       "published_at": "2026-03-20T05:42:54Z",
@@ -1944,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "kulikov0"
     },
     {
@@ -1974,23 +2019,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 180,
       "user": "htimesnine"
     },
     {
-      "title": "WhatDreamsCost/WhatDreamsCost-ComfyUI - A variety of custom ComfyUI nodes and workflows",
-      "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI",
-      "published_at": "2026-03-20T07:26:23Z",
-      "description": "A variety of custom ComfyUI nodes and workflows",
+      "title": "mauriceboe/NOMAD - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "url": "https://github.com/mauriceboe/NOMAD",
+      "published_at": "2026-03-19T11:51:54Z",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
       "source": "GitHub",
-      "stars": 121,
-      "user": "WhatDreamsCost"
+      "stars": 127,
+      "user": "mauriceboe"
     },
     {
       "title": "math-inc/OpenGauss - GitHub Repository",
@@ -2019,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 906,
       "user": "dou-jiang"
     },
     {
@@ -2034,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 809,
       "user": "facebookresearch"
     },
     {
@@ -2049,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 704,
       "user": "GAIR-NLP"
     },
     {
@@ -2064,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 674,
       "user": "HKUDS"
     },
     {
@@ -2079,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 693,
       "user": "fastclaw-ai"
     },
     {
@@ -2094,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2109,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 285,
       "user": "samber"
     },
     {
@@ -2139,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 219,
       "user": "phlx0"
     }
   ]
