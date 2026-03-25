@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "SethGammon"
     },
     {
@@ -672,23 +672,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "iflytek"
     },
     {
-      "title": "leo-lilinxiao/codex-autoresearch - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
-      "published_at": "2026-03-18T02:20:03Z",
-      "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
+      "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
+      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
+      "published_at": "2026-03-22T17:32:35Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 660,
-      "user": "leo-lilinxiao"
+      "stars": 398,
+      "user": "GAIR-NLP"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 210,
       "user": "openilink"
     },
     {
@@ -946,36 +946,6 @@
       "user": "velmu"
     },
     {
-      "title": "eze-is/web-access - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
-      "url": "https://github.com/eze-is/web-access",
-      "published_at": "2026-03-18T05:54:57Z",
-      "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
-      "source": "GitHub",
-      "stars": 988,
-      "user": "eze-is"
-    },
-    {
-      "title": "dashersw/gea - GitHub Repository",
-      "url": "https://github.com/dashersw/gea",
-      "published_at": "2026-03-18T08:21:45Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/698308?v=4",
-      "source": "GitHub",
-      "stars": 472,
-      "user": "dashersw"
-    },
-    {
       "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
       "url": "https://github.com/SethGammon/Citadel",
       "published_at": "2026-03-20T05:42:54Z",
@@ -987,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "SethGammon"
     },
     {
@@ -1002,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "iflytek"
     },
     {
@@ -1019,6 +989,36 @@
       "source": "GitHub",
       "stars": 256,
       "user": "kulikov0"
+    },
+    {
+      "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
+      "url": "https://github.com/htimesnine/DarkSword-RCE",
+      "published_at": "2026-03-21T18:58:44Z",
+      "description": "DarkSword webkit exploit captured ITW",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "htimesnine"
+    },
+    {
+      "title": "WhatDreamsCost/WhatDreamsCost-ComfyUI - A variety of custom ComfyUI nodes and workflows",
+      "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI",
+      "published_at": "2026-03-20T07:26:23Z",
+      "description": "A variety of custom ComfyUI nodes and workflows",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "WhatDreamsCost"
     }
   ],
   "Python": [
@@ -1247,21 +1247,6 @@
       "user": "math-inc"
     },
     {
-      "title": "lxf746/any-auto-register - GitHub Repository",
-      "url": "https://github.com/lxf746/any-auto-register",
-      "published_at": "2026-03-18T13:26:05Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
-      "source": "GitHub",
-      "stars": 1065,
-      "user": "lxf746"
-    },
-    {
       "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
       "url": "https://github.com/dou-jiang/codex-console",
       "published_at": "2026-03-21T14:50:54Z",
@@ -1277,34 +1262,49 @@
       "user": "dou-jiang"
     },
     {
-      "title": "win4r/ClawTeam-OpenClaw - ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
-      "url": "https://github.com/win4r/ClawTeam-OpenClaw",
-      "published_at": "2026-03-18T09:52:54Z",
-      "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
+      "title": "facebookresearch/HyperAgents - Self-referential self-improving agents that can optimize for any computable task",
+      "url": "https://github.com/facebookresearch/HyperAgents",
+      "published_at": "2026-03-19T17:24:07Z",
+      "description": "Self-referential self-improving agents that can optimize for any computable task",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42172631?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 681,
-      "user": "win4r"
+      "stars": 609,
+      "user": "facebookresearch"
     },
     {
-      "title": "leo-lilinxiao/codex-autoresearch - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
-      "published_at": "2026-03-18T02:20:03Z",
-      "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
+      "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
+      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
+      "published_at": "2026-03-22T17:32:35Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 660,
-      "user": "leo-lilinxiao"
+      "stars": 398,
+      "user": "GAIR-NLP"
+    },
+    {
+      "title": "bramcohen/manyana - GitHub Repository",
+      "url": "https://github.com/bramcohen/manyana",
+      "published_at": "2026-03-22T00:39:59Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
+      "source": "GitHub",
+      "stars": 394,
+      "user": "bramcohen"
     }
   ],
   "DevOps": [
@@ -1562,7 +1562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "iflytek"
     }
   ],
@@ -1890,36 +1890,6 @@
       "user": "Richard Oliver Bray"
     },
     {
-      "title": "eze-is/web-access - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
-      "url": "https://github.com/eze-is/web-access",
-      "published_at": "2026-03-18T05:54:57Z",
-      "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/53331888?v=4",
-      "source": "GitHub",
-      "stars": 988,
-      "user": "eze-is"
-    },
-    {
-      "title": "dashersw/gea - GitHub Repository",
-      "url": "https://github.com/dashersw/gea",
-      "published_at": "2026-03-18T08:21:45Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/698308?v=4",
-      "source": "GitHub",
-      "stars": 472,
-      "user": "dashersw"
-    },
-    {
       "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
       "url": "https://github.com/SethGammon/Citadel",
       "published_at": "2026-03-20T05:42:54Z",
@@ -1931,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "SethGammon"
     },
     {
@@ -1946,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "iflytek"
     },
     {
@@ -1965,6 +1935,36 @@
       "user": "kulikov0"
     },
     {
+      "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
+      "url": "https://github.com/htimesnine/DarkSword-RCE",
+      "published_at": "2026-03-21T18:58:44Z",
+      "description": "DarkSword webkit exploit captured ITW",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "htimesnine"
+    },
+    {
+      "title": "WhatDreamsCost/WhatDreamsCost-ComfyUI - A variety of custom ComfyUI nodes and workflows",
+      "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI",
+      "published_at": "2026-03-20T07:26:23Z",
+      "description": "A variety of custom ComfyUI nodes and workflows",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "WhatDreamsCost"
+    },
+    {
       "title": "math-inc/OpenGauss - GitHub Repository",
       "url": "https://github.com/math-inc/OpenGauss",
       "published_at": "2026-03-19T15:42:02Z",
@@ -1978,21 +1978,6 @@
       "source": "GitHub",
       "stars": 1076,
       "user": "math-inc"
-    },
-    {
-      "title": "lxf746/any-auto-register - GitHub Repository",
-      "url": "https://github.com/lxf746/any-auto-register",
-      "published_at": "2026-03-18T13:26:05Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
-      "source": "GitHub",
-      "stars": 1065,
-      "user": "lxf746"
     },
     {
       "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
@@ -2010,34 +1995,49 @@
       "user": "dou-jiang"
     },
     {
-      "title": "win4r/ClawTeam-OpenClaw - ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
-      "url": "https://github.com/win4r/ClawTeam-OpenClaw",
-      "published_at": "2026-03-18T09:52:54Z",
-      "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
+      "title": "facebookresearch/HyperAgents - Self-referential self-improving agents that can optimize for any computable task",
+      "url": "https://github.com/facebookresearch/HyperAgents",
+      "published_at": "2026-03-19T17:24:07Z",
+      "description": "Self-referential self-improving agents that can optimize for any computable task",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42172631?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 681,
-      "user": "win4r"
+      "stars": 609,
+      "user": "facebookresearch"
     },
     {
-      "title": "leo-lilinxiao/codex-autoresearch - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
-      "published_at": "2026-03-18T02:20:03Z",
-      "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
+      "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
+      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
+      "published_at": "2026-03-22T17:32:35Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36369803?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 660,
-      "user": "leo-lilinxiao"
+      "stars": 398,
+      "user": "GAIR-NLP"
+    },
+    {
+      "title": "bramcohen/manyana - GitHub Repository",
+      "url": "https://github.com/bramcohen/manyana",
+      "published_at": "2026-03-22T00:39:59Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
+      "source": "GitHub",
+      "stars": 394,
+      "user": "bramcohen"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -2081,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "samber"
     },
     {
@@ -2096,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 210,
       "user": "openilink"
     },
     {
