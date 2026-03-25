@@ -46,6 +46,21 @@
       "user": "xbill"
     },
     {
+      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
+      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
+      "published_at": "2026-03-24T14:53:30Z",
+      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
+      "tags": [
+        "ai",
+        "devops",
+        "devrel",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "The Missing Link Between AI Agents and the Code They Modify",
       "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
       "published_at": "2026-03-25T12:07:47Z",
@@ -116,21 +131,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
       "source": "Dev.to",
       "user": "Leanne R"
-    },
-    {
-      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
-      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
-      "published_at": "2026-03-24T14:53:30Z",
-      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
-      "tags": [
-        "ai",
-        "devops",
-        "devrel",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     },
     {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
@@ -656,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "SethGammon"
     },
     {
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "iflytek"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 724,
       "user": "GAIR-NLP"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 698,
       "user": "fastclaw-ai"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "phlx0"
     }
   ],
@@ -956,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "SethGammon"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "iflytek"
     },
     {
@@ -1016,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 137,
       "user": "mauriceboe"
     }
   ],
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 913,
       "user": "dou-jiang"
     },
     {
@@ -1286,23 +1286,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 822,
       "user": "facebookresearch"
-    },
-    {
-      "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
-      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
-      "published_at": "2026-03-22T17:32:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
-      "source": "GitHub",
-      "stars": 704,
-      "user": "GAIR-NLP"
     },
     {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
@@ -1316,11 +1301,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 726,
       "user": "HKUDS"
+    },
+    {
+      "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
+      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
+      "published_at": "2026-03-22T17:32:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
+      "source": "GitHub",
+      "stars": 724,
+      "user": "GAIR-NLP"
     }
   ],
   "DevOps": [
+    {
+      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
+      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
+      "published_at": "2026-03-24T14:53:30Z",
+      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
+      "tags": [
+        "ai",
+        "devops",
+        "devrel",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
     {
       "title": "Tend (and about Vibe Coding)",
       "url": "https://dev.to/iamschulz/tend-and-about-vibe-coding-2501",
@@ -1350,21 +1365,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F073a3iy46a773q6c5dvh.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
-      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
-      "published_at": "2026-03-24T14:53:30Z",
-      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
-      "tags": [
-        "ai",
-        "devops",
-        "devrel",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
@@ -1619,7 +1619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "iflytek"
     },
     {
@@ -1634,7 +1634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 726,
       "user": "HKUDS"
     }
   ],
@@ -1873,6 +1873,21 @@
       "user": "Brian Love"
     },
     {
+      "title": "What are your goals for the week? #171",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-171-5232",
+      "published_at": "2026-03-23T15:27:11Z",
+      "description": "What are your goals for the week?    What are you building this week? What do you want to...",
+      "tags": [
+        "career",
+        "devjournal",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nly92n428cqpuj1s0we.jpg",
+      "source": "Dev.to",
+      "user": "Chris Jarvis"
+    },
+    {
       "title": "TypeScript deserved a real DDD framework - so I built one",
       "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
       "published_at": "2026-03-24T08:04:26Z",
@@ -1974,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "SethGammon"
     },
     {
@@ -2004,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "iflytek"
     },
     {
@@ -2034,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 137,
       "user": "mauriceboe"
     },
     {
@@ -2064,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 913,
       "user": "dou-jiang"
     },
     {
@@ -2079,23 +2094,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 822,
       "user": "facebookresearch"
-    },
-    {
-      "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
-      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
-      "published_at": "2026-03-22T17:32:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
-      "source": "GitHub",
-      "stars": 704,
-      "user": "GAIR-NLP"
     },
     {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
@@ -2109,8 +2109,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 726,
       "user": "HKUDS"
+    },
+    {
+      "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
+      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
+      "published_at": "2026-03-22T17:32:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
+      "source": "GitHub",
+      "stars": 724,
+      "user": "GAIR-NLP"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -2124,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 698,
       "user": "fastclaw-ai"
     },
     {
@@ -2154,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 287,
       "user": "samber"
     },
     {
@@ -2184,7 +2199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "phlx0"
     }
   ]
