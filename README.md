@@ -40,9 +40,9 @@
 
 **Cloud**: 🟦🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦 3 (2.9%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦 3 (2.9%)
 
 **Mobile**: 🟦 3 (2.9%)
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![security](https://img.shields.io/badge/security-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![security](https://img.shields.io/badge/security-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-25 15:00 CAT)
+## 📅 Latest Updates (2026-03-25 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,19 +142,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-1bec">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qjfogdpakkfthm50uxl.png" width="200" alt="Meme Monday" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F811ibf0nr3nts6hbg27b.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>Meme Monday</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F811ibf0nr3nts6hbg27b.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/ben/meme-monday-1bec">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qjfogdpakkfthm50uxl.png" width="200" alt="Meme Monday" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>Meme Monday</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -171,10 +171,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png" width="200" alt="Deploy a Multi Agent ADK Application to Google Cloud Run" />
+    <a href="https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbgiott8zjv8d2chdvkd.png" width="200" alt="AI Crash Course: Hallucinations" />
       <br/>
-      <b>Deploy a Multi Agent ADK Application to Google Clo...</b>
+      <b>AI Crash Course: Hallucinations</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,27 +196,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Check Up with Each Other](https://dev.to/francistrdev/check-up-with-each-other-2ogc) _[Dev.to]_
-- [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-1bec) _[Dev.to]_
 - [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0) _[Dev.to]_
-- [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on) _[Dev.to]_
+- [AI Crash Course: Hallucinations](https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56) _[Dev.to]_
 - [Implementing a RAG system: Crawl](https://dev.to/gde/implementing-a-rag-system-crawl-5li) _[Dev.to]_
 - [Building a Weather Station Using an Old Raspberry Pi](https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333) _[Dev.to]_
-- [TypeScript deserved a real DDD framework - so I built one](https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf) _[Dev.to]_
+- [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on) _[Dev.to]_
 - [I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes](https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he) _[Dev.to]_
+- [Jargon Doesn't Make You Senior](https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd) _[Dev.to]_
 - [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
 - [I Put a Prompt Injection on My Resume](https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1) _[Dev.to]_
 - [I built a terminal-native Little Snitch alternative for macOS](https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807) _[Dev.to]_
 - [Agentic Engineering: Lessons Learned Vol. 2](https://dev.to/duske/agentic-engineering-lessons-learned-vol-2-7mh) _[Dev.to]_
 - [AI context management across Claude, Cursor, Kiro, Gemini and custom agents](https://dev.to/madeburo/ai-context-management-across-claude-cursor-kiro-gemini-and-custom-agents-2n1f) _[Dev.to]_
 - [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
-- [Jargon Doesn't Make You Senior](https://dev.to/jonoherrington/jargon-doesnt-make-you-senior-50fd) _[Dev.to]_
 - [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8) _[Dev.to]_
 - [How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos](https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b) _[Dev.to]_
 - [OpenClaw Setup, Configuration, and Key Takeaways](https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8) _[Dev.to]_
 
-_Last automated update: Wed, 25 Mar 2026 15:02:58 CAT_
+_Last automated update: Wed, 25 Mar 2026 16:36:37 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 25 Mar 2026 15:02:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Mar 2026 13:02:58 GMT</b><br/>
+  <b>Last automated update: Wed, 25 Mar 2026 14:36:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
