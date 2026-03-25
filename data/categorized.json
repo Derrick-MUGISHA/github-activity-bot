@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "AI Writes Code. You Own Quality.",
+      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
+      "published_at": "2026-03-24T15:43:40Z",
+      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
+      "tags": [
+        "ai",
+        "software",
+        "development",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
+    },
+    {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
       "published_at": "2026-03-23T17:53:10Z",
@@ -29,21 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "AI Writes Code. You Own Quality.",
-      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
-      "published_at": "2026-03-24T15:43:40Z",
-      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
-      "tags": [
-        "ai",
-        "software",
-        "development",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
     },
     {
       "title": "Implementing a RAG system: Crawl",
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 640,
       "user": "GAIR-NLP"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 677,
       "user": "fastclaw-ai"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "openilink"
     },
     {
@@ -987,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "kulikov0"
     },
     {
@@ -1017,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "htimesnine"
     },
     {
@@ -1032,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "WhatDreamsCost"
     }
   ],
@@ -1258,7 +1258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1083,
       "user": "math-inc"
     },
     {
@@ -1273,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 855,
       "user": "dou-jiang"
     },
     {
@@ -1288,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 738,
       "user": "facebookresearch"
     },
     {
@@ -1303,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 640,
       "user": "GAIR-NLP"
     },
     {
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "bramcohen"
     }
   ],
@@ -1946,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "kulikov0"
     },
     {
@@ -1976,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "htimesnine"
     },
     {
@@ -1991,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "WhatDreamsCost"
     },
     {
@@ -2006,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1083,
       "user": "math-inc"
     },
     {
@@ -2021,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 855,
       "user": "dou-jiang"
     },
     {
@@ -2036,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 738,
       "user": "facebookresearch"
     },
     {
@@ -2051,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 640,
       "user": "GAIR-NLP"
     },
     {
@@ -2066,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "bramcohen"
     },
     {
@@ -2081,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 677,
       "user": "fastclaw-ai"
     },
     {
@@ -2096,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2111,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 271,
       "user": "samber"
     },
     {
@@ -2126,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "openilink"
     },
     {
