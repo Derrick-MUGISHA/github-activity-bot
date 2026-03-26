@@ -90,19 +90,6 @@
       "user": "Carla Urrea Stabile"
     },
     {
-      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
-      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
-      "published_at": "2026-03-26T21:05:21Z",
-      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
-      "tags": [
-        "langchain",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
-      "source": "Dev.to",
-      "user": "Scarlett Attensil"
-    },
-    {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
       "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
       "published_at": "2026-03-26T13:53:03Z",
@@ -116,6 +103,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
       "source": "Dev.to",
       "user": "Nikoloz Turazashvili (@axrisi)"
+    },
+    {
+      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
+      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
+      "published_at": "2026-03-26T21:05:21Z",
+      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
+      "tags": [
+        "langchain",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
+      "source": "Dev.to",
+      "user": "Scarlett Attensil"
     },
     {
       "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
@@ -191,18 +191,19 @@
       "user": "Evidence Etinih Ekanem"
     },
     {
-      "title": "Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)",
-      "url": "https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61",
-      "published_at": "2026-03-26T04:15:01Z",
-      "description": "After running a Rails application in production for a while, you may encounter a phenomenon where...",
+      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
+      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
+      "published_at": "2026-03-26T07:06:06Z",
+      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
       "tags": [
-        "ruby",
-        "rails",
-        "performance"
+        "ai",
+        "agentskills",
+        "devtool",
+        "runnerhchallenge"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8zvqrcnfojue05b03qx6.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
       "source": "Dev.to",
-      "user": "Katz Sakai"
+      "user": "Octavian"
     },
     {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
@@ -220,21 +221,6 @@
       "user": "Yamashou"
     },
     {
-      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
-      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
-      "published_at": "2026-03-26T07:06:06Z",
-      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
-      "tags": [
-        "ai",
-        "agentskills",
-        "devtool",
-        "runnerhchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
-      "source": "Dev.to",
-      "user": "Octavian"
-    },
-    {
       "title": "Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness",
       "url": "https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic",
       "published_at": "2026-03-26T00:33:34Z",
@@ -248,6 +234,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpcvnrnu606ywn56pd1i.webp",
       "source": "Dev.to",
       "user": "Scarlett Attensil"
+    },
+    {
+      "title": "Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)",
+      "url": "https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61",
+      "published_at": "2026-03-26T04:15:01Z",
+      "description": "After running a Rails application in production for a while, you may encounter a phenomenon where...",
+      "tags": [
+        "ruby",
+        "rails",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8zvqrcnfojue05b03qx6.png",
+      "source": "Dev.to",
+      "user": "Katz Sakai"
     },
     {
       "title": "AI Didn't Break Your Culture. It Exposed It.",
@@ -654,7 +654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "SethGammon"
     },
     {
@@ -669,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 930,
       "user": "GAIR-NLP"
     },
     {
@@ -699,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "openilink"
     },
     {
@@ -971,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 460,
       "user": "magnum6actual"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "SethGammon"
     },
     {
@@ -1001,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "htimesnine"
     },
     {
@@ -1212,7 +1212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1263,
       "user": "HKUDS"
     },
     {
@@ -1227,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1041,
       "user": "dou-jiang"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 930,
       "user": "GAIR-NLP"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "AAAAAAAJ"
     }
   ],
@@ -1531,7 +1531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1263,
       "user": "HKUDS"
     }
   ],
@@ -1743,21 +1743,6 @@
       "user": "Martin Omander"
     },
     {
-      "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
-      "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
-      "published_at": "2026-03-26T05:12:54Z",
-      "description": "`rgql` is a CLI tool that renames GraphQL types, fields, and fragments across schema files and embedded TypeScript queries using full AST analysis. Because it's type-safe and deterministic, it's ideal for AI coding agents like Claude Code and Codex — they can invoke a single command instead of performing fragile find-and-replace across dozens of files.",
-      "tags": [
-        "graphql",
-        "ast",
-        "ts",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
-      "source": "Dev.to",
-      "user": "Yamashou"
-    },
-    {
       "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
       "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
       "published_at": "2026-03-26T07:06:06Z",
@@ -1771,6 +1756,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
       "source": "Dev.to",
       "user": "Octavian"
+    },
+    {
+      "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
+      "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
+      "published_at": "2026-03-26T05:12:54Z",
+      "description": "`rgql` is a CLI tool that renames GraphQL types, fields, and fragments across schema files and embedded TypeScript queries using full AST analysis. Because it's type-safe and deterministic, it's ideal for AI coding agents like Claude Code and Codex — they can invoke a single command instead of performing fragile find-and-replace across dozens of files.",
+      "tags": [
+        "graphql",
+        "ast",
+        "ts",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
+      "source": "Dev.to",
+      "user": "Yamashou"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -1888,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 460,
       "user": "magnum6actual"
     },
     {
@@ -1903,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "SethGammon"
     },
     {
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "htimesnine"
     },
     {
@@ -1963,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1263,
       "user": "HKUDS"
     },
     {
@@ -1978,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1041,
       "user": "dou-jiang"
     },
     {
@@ -1993,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 930,
       "user": "GAIR-NLP"
     },
     {
@@ -2023,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "AAAAAAAJ"
     },
     {
@@ -2068,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 362,
       "user": "samber"
     },
     {
@@ -2083,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "openilink"
     },
     {
