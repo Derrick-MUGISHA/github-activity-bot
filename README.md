@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-27 0:00 CAT)
+## 📅 Latest Updates (2026-03-27 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,8 +203,8 @@ npm run test
 - [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39) _[Dev.to]_
 - [I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy](https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e) _[Dev.to]_
 - [The Future of Coding is Communication, Not Just Code](https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p) _[Dev.to]_
-- [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
 - [Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0) _[Dev.to]_
+- [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
 - [I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.](https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od) _[Dev.to]_
 - [Build real-time conversational agents with Gemini 3.1 Flash Live](https://dev.to/googleai/build-real-time-conversational-agents-with-gemini-31-flash-live-27f6) _[Dev.to]_
 - [Take your vibe coding to the next level](https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea) _[Dev.to]_
@@ -212,13 +212,13 @@ npm run test
 - [Check Up with Each Other](https://dev.to/francistrdev/check-up-with-each-other-2ogc) _[Dev.to]_
 - [How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0) _[Dev.to]_
 - [Building a Error Library](https://dev.to/fafhrd91/building-a-error-library-3kda) _[Dev.to]_
-- [How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)](https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl) _[Dev.to]_
-- [Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)](https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61) _[Dev.to]_
 - [Scaling ID Generation with Redis](https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e) _[Dev.to]_
+- [How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)](https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl) _[Dev.to]_
 - [I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch](https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f) _[Dev.to]_
+- [Why most AI agent frameworks break in production (and what I’m doing differently)](https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i) _[Dev.to]_
 - [rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib) _[Dev.to]_
 
-_Last automated update: Fri, 27 Mar 2026 00:56:03 CAT_
+_Last automated update: Fri, 27 Mar 2026 01:31:49 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Mar 2026 00:56:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 26 Mar 2026 22:56:03 GMT</b><br/>
+  <b>Last automated update: Thu, 26 Mar 2026 23:31:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
