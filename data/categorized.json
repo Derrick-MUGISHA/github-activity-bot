@@ -105,6 +105,19 @@
       "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
+      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
+      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
+      "published_at": "2026-03-26T21:05:21Z",
+      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
+      "tags": [
+        "langchain",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
+      "source": "Dev.to",
+      "user": "Scarlett Attensil"
+    },
+    {
       "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
       "url": "https://dev.to/googleai/build-real-time-conversational-agents-with-gemini-31-flash-live-27f6",
       "published_at": "2026-03-26T15:25:51Z",
@@ -235,20 +248,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpcvnrnu606ywn56pd1i.webp",
       "source": "Dev.to",
       "user": "Scarlett Attensil"
-    },
-    {
-      "title": "The software industry is ready to grow",
-      "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
-      "published_at": "2026-03-25T18:33:04Z",
-      "description": "I don't spend a lot of time on the X these days, but I think this perspective is worth...",
-      "tags": [
-        "ai",
-        "career",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "AI Didn't Break Your Culture. It Exposed It.",
@@ -972,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 425,
       "user": "magnum6actual"
     },
     {
@@ -1213,7 +1212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1259,
       "user": "HKUDS"
     },
     {
@@ -1273,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "AAAAAAAJ"
     }
   ],
@@ -1339,21 +1338,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
       "source": "Dev.to",
       "user": "Saroj Poddar"
-    },
-    {
-      "title": "How I Personally Grasp the Essence of Concurrency in Go",
-      "url": "https://dev.to/yauritux/how-i-personally-grasp-the-essence-of-concurrency-in-go-238e",
-      "published_at": "2026-03-25T18:02:44Z",
-      "description": "Philosophy, Patterns &amp; The Power of Built-in Tools    Why Go says “Don’t communicate by...",
-      "tags": [
-        "go",
-        "goroutine",
-        "multithreading",
-        "backenddevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhg1xnxjl53vjq1nx0674.webp",
-      "source": "Dev.to",
-      "user": "M Yauri M Attamimi"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -1547,7 +1531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1259,
       "user": "HKUDS"
     }
   ],
@@ -1789,21 +1773,6 @@
       "user": "Octavian"
     },
     {
-      "title": "How I Personally Grasp the Essence of Concurrency in Go",
-      "url": "https://dev.to/yauritux/how-i-personally-grasp-the-essence-of-concurrency-in-go-238e",
-      "published_at": "2026-03-25T18:02:44Z",
-      "description": "Philosophy, Patterns &amp; The Power of Built-in Tools    Why Go says “Don’t communicate by...",
-      "tags": [
-        "go",
-        "goroutine",
-        "multithreading",
-        "backenddevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhg1xnxjl53vjq1nx0674.webp",
-      "source": "Dev.to",
-      "user": "M Yauri M Attamimi"
-    },
-    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -1919,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 425,
       "user": "magnum6actual"
     },
     {
@@ -1994,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1259,
       "user": "HKUDS"
     },
     {
@@ -2054,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "AAAAAAAJ"
     },
     {
@@ -2099,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "samber"
     },
     {
