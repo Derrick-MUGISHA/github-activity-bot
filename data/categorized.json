@@ -45,6 +45,21 @@
       "user": "marcosomma"
     },
     {
+      "title": "Speed vs smarts for coding agents?",
+      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
+      "published_at": "2026-03-26T15:58:22Z",
+      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
+      "tags": [
+        "agents",
+        "ai",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "AI Didn't Break Your Culture. It Exposed It.",
       "url": "https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729",
       "published_at": "2026-03-25T19:07:20Z",
@@ -58,6 +73,50 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fblindy-trust.png",
       "source": "Dev.to",
       "user": "Jono Herrington"
+    },
+    {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
+    },
+    {
+      "title": "The Future of Coding is Communication, Not Just Code",
+      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
+      "published_at": "2026-03-26T14:31:00Z",
+      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
+      "tags": [
+        "ai",
+        "mcp",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
+      "url": "https://dev.to/googleai/build-real-time-conversational-agents-with-gemini-31-flash-live-27f6",
+      "published_at": "2026-03-26T15:25:51Z",
+      "description": "Today, we’re launching Gemini 3.1 Flash Live via the Gemini Live API in Google AI Studio. Gemini 3.1...",
+      "tags": [
+        "ai",
+        "gemini",
+        "voice",
+        "multimodal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn70novhybyaxqxnxt5l4.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
@@ -148,20 +207,6 @@
       "user": "Jimmy Utterström"
     },
     {
-      "title": "Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)",
-      "url": "https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61",
-      "published_at": "2026-03-26T04:15:01Z",
-      "description": "After running a Rails application in production for a while, you may encounter a phenomenon where...",
-      "tags": [
-        "ruby",
-        "rails",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8zvqrcnfojue05b03qx6.png",
-      "source": "Dev.to",
-      "user": "Katz Sakai"
-    },
-    {
       "title": "Benchmark oriented development is a road to nowhere",
       "url": "https://dev.to/dmtrkovalenko/benchmark-oriented-development-is-a-road-to-nowhere-1518",
       "published_at": "2026-03-25T22:33:40Z",
@@ -234,35 +279,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
       "source": "Dev.to",
       "user": "Konark Sharma"
-    },
-    {
-      "title": "The software industry is ready to grow",
-      "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
-      "published_at": "2026-03-25T18:33:04Z",
-      "description": "I don't spend a lot of time on the X these days, but I think this perspective is worth...",
-      "tags": [
-        "ai",
-        "career",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness",
-      "url": "https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic",
-      "published_at": "2026-03-26T00:33:34Z",
-      "description": "Original article published on March 20, 2025  Hardcoded multi-agent orchestration is brittle:...",
-      "tags": [
-        "agents",
-        "ai",
-        "aiops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpcvnrnu606ywn56pd1i.webp",
-      "source": "Dev.to",
-      "user": "Scarlett Attensil"
     },
     {
       "title": "Building a Network of AI-Native CTOs",
@@ -670,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "SethGammon"
     },
     {
@@ -685,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 917,
       "user": "GAIR-NLP"
     },
     {
@@ -700,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 751,
       "user": "fastclaw-ai"
     },
     {
@@ -987,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "SethGammon"
     },
     {
@@ -1006,6 +1022,36 @@
       "user": "htimesnine"
     },
     {
+      "title": "npc-live/clawfirm - GitHub Repository",
+      "url": "https://github.com/npc-live/clawfirm",
+      "published_at": "2026-03-20T15:36:54Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266226598?v=4",
+      "source": "GitHub",
+      "stars": 185,
+      "user": "npc-live"
+    },
+    {
+      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "url": "https://github.com/magnum6actual/flipoff",
+      "published_at": "2026-03-26T12:46:35Z",
+      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "magnum6actual"
+    },
+    {
       "title": "WhatDreamsCost/WhatDreamsCost-ComfyUI - A variety of custom ComfyUI nodes and workflows",
       "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI",
       "published_at": "2026-03-20T07:26:23Z",
@@ -1019,36 +1065,6 @@
       "source": "GitHub",
       "stars": 130,
       "user": "WhatDreamsCost"
-    },
-    {
-      "title": "npc-live/clawfirm - GitHub Repository",
-      "url": "https://github.com/npc-live/clawfirm",
-      "published_at": "2026-03-20T15:36:54Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266226598?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "npc-live"
-    },
-    {
-      "title": "pandaboost/PhantomTrending - Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
-      "url": "https://github.com/pandaboost/PhantomTrending",
-      "published_at": "2026-03-22T18:28:34Z",
-      "description": "Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
-      "source": "GitHub",
-      "stars": 113,
-      "user": "pandaboost"
     }
   ],
   "Python": [
@@ -1243,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1232,
       "user": "HKUDS"
     },
     {
@@ -1258,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1030,
+      "stars": 1035,
       "user": "dou-jiang"
     },
     {
@@ -1273,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 917,
       "user": "GAIR-NLP"
     },
     {
@@ -1303,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 365,
       "user": "AAAAAAAJ"
     }
   ],
@@ -1505,6 +1521,20 @@
   ],
   "Cloud": [
     {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
+    },
+    {
       "title": "Scaling ID Generation with Redis",
       "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
       "published_at": "2026-03-26T08:05:32Z",
@@ -1606,7 +1636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1232,
       "user": "HKUDS"
     }
   ],
@@ -1655,6 +1685,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "The Future of Coding is Communication, Not Just Code",
+      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
+      "published_at": "2026-03-26T14:31:00Z",
+      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
+      "tags": [
+        "ai",
+        "mcp",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
+    },
     {
       "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
       "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
@@ -1771,6 +1816,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
       "source": "Dev.to",
       "user": "Ali Raza"
+    },
+    {
+      "title": "Speed vs smarts for coding agents?",
+      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
+      "published_at": "2026-03-26T15:58:22Z",
+      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
+      "tags": [
+        "agents",
+        "ai",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
     },
     {
       "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
@@ -1977,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "SethGammon"
     },
     {
@@ -1996,6 +2070,36 @@
       "user": "htimesnine"
     },
     {
+      "title": "npc-live/clawfirm - GitHub Repository",
+      "url": "https://github.com/npc-live/clawfirm",
+      "published_at": "2026-03-20T15:36:54Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266226598?v=4",
+      "source": "GitHub",
+      "stars": 185,
+      "user": "npc-live"
+    },
+    {
+      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "url": "https://github.com/magnum6actual/flipoff",
+      "published_at": "2026-03-26T12:46:35Z",
+      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "magnum6actual"
+    },
+    {
       "title": "WhatDreamsCost/WhatDreamsCost-ComfyUI - A variety of custom ComfyUI nodes and workflows",
       "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI",
       "published_at": "2026-03-20T07:26:23Z",
@@ -2011,36 +2115,6 @@
       "user": "WhatDreamsCost"
     },
     {
-      "title": "npc-live/clawfirm - GitHub Repository",
-      "url": "https://github.com/npc-live/clawfirm",
-      "published_at": "2026-03-20T15:36:54Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266226598?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "npc-live"
-    },
-    {
-      "title": "pandaboost/PhantomTrending - Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
-      "url": "https://github.com/pandaboost/PhantomTrending",
-      "published_at": "2026-03-22T18:28:34Z",
-      "description": "Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
-      "source": "GitHub",
-      "stars": 113,
-      "user": "pandaboost"
-    },
-    {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "url": "https://github.com/HKUDS/OpenSpace",
       "published_at": "2026-03-24T08:01:49Z",
@@ -2052,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1232,
       "user": "HKUDS"
     },
     {
@@ -2067,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1030,
+      "stars": 1035,
       "user": "dou-jiang"
     },
     {
@@ -2082,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 917,
       "user": "GAIR-NLP"
     },
     {
@@ -2112,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 365,
       "user": "AAAAAAAJ"
     },
     {
@@ -2127,7 +2201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 751,
       "user": "fastclaw-ai"
     },
     {
@@ -2142,7 +2216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 434,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2157,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 346,
       "user": "samber"
     },
     {
