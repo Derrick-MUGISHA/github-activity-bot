@@ -645,21 +645,6 @@
       "user": "SethGammon"
     },
     {
-      "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
-      "url": "https://github.com/iflytek/astronclaw-tutorial",
-      "published_at": "2026-03-19T02:40:44Z",
-      "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "iflytek"
-    },
-    {
       "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
       "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
       "published_at": "2026-03-22T17:32:35Z",
@@ -671,8 +656,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 762,
       "user": "GAIR-NLP"
+    },
+    {
+      "title": "joeseesun/markdown-proxy - Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
+      "url": "https://github.com/joeseesun/markdown-proxy",
+      "published_at": "2026-03-21T17:30:54Z",
+      "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 292,
+      "user": "joeseesun"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -705,19 +705,19 @@
       "user": "openilink"
     },
     {
-      "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
-      "url": "https://github.com/phlx0/drift",
-      "published_at": "2026-03-19T19:25:38Z",
-      "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
+      "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
+      "url": "https://github.com/tanviet12/chat-quality-agent",
+      "published_at": "2026-03-23T16:04:28Z",
+      "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 226,
-      "user": "phlx0"
+      "stars": 187,
+      "user": "tanviet12"
     }
   ],
   "JavaScript": [
@@ -945,36 +945,6 @@
       "user": "SethGammon"
     },
     {
-      "title": "kulikov0/whitelist-bypass - GitHub Repository",
-      "url": "https://github.com/kulikov0/whitelist-bypass",
-      "published_at": "2026-03-19T15:58:14Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
-      "source": "GitHub",
-      "stars": 284,
-      "user": "kulikov0"
-    },
-    {
-      "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
-      "url": "https://github.com/iflytek/astronclaw-tutorial",
-      "published_at": "2026-03-19T02:40:44Z",
-      "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "iflytek"
-    },
-    {
       "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
       "url": "https://github.com/htimesnine/DarkSword-RCE",
       "published_at": "2026-03-21T18:58:44Z",
@@ -990,19 +960,49 @@
       "user": "htimesnine"
     },
     {
-      "title": "mauriceboe/NOMAD - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "url": "https://github.com/mauriceboe/NOMAD",
-      "published_at": "2026-03-19T11:51:54Z",
-      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "title": "WhatDreamsCost/WhatDreamsCost-ComfyUI - A variety of custom ComfyUI nodes and workflows",
+      "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI",
+      "published_at": "2026-03-20T07:26:23Z",
+      "description": "A variety of custom ComfyUI nodes and workflows",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 160,
-      "user": "mauriceboe"
+      "stars": 124,
+      "user": "WhatDreamsCost"
+    },
+    {
+      "title": "pandaboost/PhantomTrending - Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
+      "url": "https://github.com/pandaboost/PhantomTrending",
+      "published_at": "2026-03-22T18:28:34Z",
+      "description": "Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "pandaboost"
+    },
+    {
+      "title": "pandaboost/PhantomChatTrending - Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
+      "url": "https://github.com/pandaboost/PhantomChatTrending",
+      "published_at": "2026-03-22T18:39:15Z",
+      "description": "Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "pandaboost"
     }
   ],
   "Python": [
@@ -1230,21 +1230,6 @@
       "user": "gilad"
     },
     {
-      "title": "math-inc/OpenGauss - GitHub Repository",
-      "url": "https://github.com/math-inc/OpenGauss",
-      "published_at": "2026-03-19T15:42:02Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
-      "source": "GitHub",
-      "stars": 1087,
-      "user": "math-inc"
-    },
-    {
       "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
       "url": "https://github.com/dou-jiang/codex-console",
       "published_at": "2026-03-21T14:50:54Z",
@@ -1260,21 +1245,6 @@
       "user": "dou-jiang"
     },
     {
-      "title": "facebookresearch/HyperAgents - Self-referential self-improving agents that can optimize for any computable task",
-      "url": "https://github.com/facebookresearch/HyperAgents",
-      "published_at": "2026-03-19T17:24:07Z",
-      "description": "Self-referential self-improving agents that can optimize for any computable task",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
-      "source": "GitHub",
-      "stars": 891,
-      "user": "facebookresearch"
-    },
-    {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "url": "https://github.com/HKUDS/OpenSpace",
       "published_at": "2026-03-24T08:01:49Z",
@@ -1286,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 834,
       "user": "HKUDS"
     },
     {
@@ -1301,8 +1271,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 762,
       "user": "GAIR-NLP"
+    },
+    {
+      "title": "bramcohen/manyana - GitHub Repository",
+      "url": "https://github.com/bramcohen/manyana",
+      "published_at": "2026-03-22T00:39:59Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
+      "source": "GitHub",
+      "stars": 412,
+      "user": "bramcohen"
+    },
+    {
+      "title": "joeseesun/markdown-proxy - Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
+      "url": "https://github.com/joeseesun/markdown-proxy",
+      "published_at": "2026-03-21T17:30:54Z",
+      "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 292,
+      "user": "joeseesun"
     }
   ],
   "DevOps": [
@@ -1594,21 +1594,6 @@
       "user": "Aerostack"
     },
     {
-      "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
-      "url": "https://github.com/iflytek/astronclaw-tutorial",
-      "published_at": "2026-03-19T02:40:44Z",
-      "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "iflytek"
-    },
-    {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "url": "https://github.com/HKUDS/OpenSpace",
       "published_at": "2026-03-24T08:01:49Z",
@@ -1620,7 +1605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 834,
       "user": "HKUDS"
     }
   ],
@@ -1979,36 +1964,6 @@
       "user": "SethGammon"
     },
     {
-      "title": "kulikov0/whitelist-bypass - GitHub Repository",
-      "url": "https://github.com/kulikov0/whitelist-bypass",
-      "published_at": "2026-03-19T15:58:14Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
-      "source": "GitHub",
-      "stars": 284,
-      "user": "kulikov0"
-    },
-    {
-      "title": "iflytek/astronclaw-tutorial - 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
-      "url": "https://github.com/iflytek/astronclaw-tutorial",
-      "published_at": "2026-03-19T02:40:44Z",
-      "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26786495?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "iflytek"
-    },
-    {
       "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
       "url": "https://github.com/htimesnine/DarkSword-RCE",
       "published_at": "2026-03-21T18:58:44Z",
@@ -2024,34 +1979,49 @@
       "user": "htimesnine"
     },
     {
-      "title": "mauriceboe/NOMAD - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "url": "https://github.com/mauriceboe/NOMAD",
-      "published_at": "2026-03-19T11:51:54Z",
-      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "title": "WhatDreamsCost/WhatDreamsCost-ComfyUI - A variety of custom ComfyUI nodes and workflows",
+      "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI",
+      "published_at": "2026-03-20T07:26:23Z",
+      "description": "A variety of custom ComfyUI nodes and workflows",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/61554723?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 160,
-      "user": "mauriceboe"
+      "stars": 124,
+      "user": "WhatDreamsCost"
     },
     {
-      "title": "math-inc/OpenGauss - GitHub Repository",
-      "url": "https://github.com/math-inc/OpenGauss",
-      "published_at": "2026-03-19T15:42:02Z",
-      "description": "Trending GitHub Repository",
+      "title": "pandaboost/PhantomTrending - Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
+      "url": "https://github.com/pandaboost/PhantomTrending",
+      "published_at": "2026-03-22T18:28:34Z",
+      "description": "Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230477222?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
       "source": "GitHub",
-      "stars": 1087,
-      "user": "math-inc"
+      "stars": 113,
+      "user": "pandaboost"
+    },
+    {
+      "title": "pandaboost/PhantomChatTrending - Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
+      "url": "https://github.com/pandaboost/PhantomChatTrending",
+      "published_at": "2026-03-22T18:39:15Z",
+      "description": "Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "pandaboost"
     },
     {
       "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
@@ -2069,21 +2039,6 @@
       "user": "dou-jiang"
     },
     {
-      "title": "facebookresearch/HyperAgents - Self-referential self-improving agents that can optimize for any computable task",
-      "url": "https://github.com/facebookresearch/HyperAgents",
-      "published_at": "2026-03-19T17:24:07Z",
-      "description": "Self-referential self-improving agents that can optimize for any computable task",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
-      "source": "GitHub",
-      "stars": 891,
-      "user": "facebookresearch"
-    },
-    {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "url": "https://github.com/HKUDS/OpenSpace",
       "published_at": "2026-03-24T08:01:49Z",
@@ -2095,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 834,
       "user": "HKUDS"
     },
     {
@@ -2110,8 +2065,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 762,
       "user": "GAIR-NLP"
+    },
+    {
+      "title": "bramcohen/manyana - GitHub Repository",
+      "url": "https://github.com/bramcohen/manyana",
+      "published_at": "2026-03-22T00:39:59Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
+      "source": "GitHub",
+      "stars": 412,
+      "user": "bramcohen"
+    },
+    {
+      "title": "joeseesun/markdown-proxy - Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
+      "url": "https://github.com/joeseesun/markdown-proxy",
+      "published_at": "2026-03-21T17:30:54Z",
+      "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 292,
+      "user": "joeseesun"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -2155,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "samber"
     },
     {
@@ -2174,19 +2159,19 @@
       "user": "openilink"
     },
     {
-      "title": "phlx0/drift - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
-      "url": "https://github.com/phlx0/drift",
-      "published_at": "2026-03-19T19:25:38Z",
-      "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.",
+      "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
+      "url": "https://github.com/tanviet12/chat-quality-agent",
+      "published_at": "2026-03-23T16:04:28Z",
+      "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/234970933?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 226,
-      "user": "phlx0"
+      "stars": 187,
+      "user": "tanviet12"
     }
   ]
 }
