@@ -31,21 +31,6 @@
       "user": "ghost"
     },
     {
-      "title": "The data engineer's Cortex Code cheat sheet",
-      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
-      "published_at": "2026-03-26T18:06:57Z",
-      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
-      "tags": [
-        "cortexcode",
-        "snowflake",
-        "ai",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
-      "source": "Dev.to",
-      "user": "Daniel Myers"
-    },
-    {
       "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
       "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
       "published_at": "2026-03-26T11:42:27Z",
@@ -133,6 +118,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn70novhybyaxqxnxt5l4.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "The data engineer's Cortex Code cheat sheet",
+      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
+      "published_at": "2026-03-26T18:06:57Z",
+      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
+      "tags": [
+        "cortexcode",
+        "snowflake",
+        "ai",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
+      "source": "Dev.to",
+      "user": "Daniel Myers"
     },
     {
       "title": "Take your vibe coding to the next level",
@@ -238,36 +238,6 @@
       "user": "Matt Cool"
     },
     {
-      "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
-      "published_at": "2026-03-24T18:00:13Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "aws",
-        "agents",
-        "amazonlightsail"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Small Prompt Tweaks That Saved Me Hours",
-      "url": "https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94",
-      "published_at": "2026-03-25T17:43:11Z",
-      "description": "I have been experimenting with AI these days and what I found from watching tutorials and prompting...",
-      "tags": [
-        "ai",
-        "productivity",
-        "promptengineering",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
-      "source": "Dev.to",
-      "user": "Konark Sharma"
-    },
-    {
       "title": "Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness",
       "url": "https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic",
       "published_at": "2026-03-26T00:33:34Z",
@@ -312,21 +282,6 @@
       "user": "Greg Lind"
     },
     {
-      "title": "Stop babysitting your AI agent!",
-      "url": "https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8",
-      "published_at": "2026-03-25T15:24:58Z",
-      "description": "Permission fatigue is real. You approve so many legitimate actions that the one dangerous action...",
-      "tags": [
-        "ai",
-        "security",
-        "programming",
-        "linux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
-      "source": "Dev.to",
-      "user": "Razvan"
-    },
-    {
       "title": "Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)",
       "url": "https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61",
       "published_at": "2026-03-26T04:15:01Z",
@@ -339,21 +294,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8zvqrcnfojue05b03qx6.png",
       "source": "Dev.to",
       "user": "Katz Sakai"
-    },
-    {
-      "title": "A Small Hardening Trick for .env.local: dotenvx + OS Keychain",
-      "url": "https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533",
-      "published_at": "2026-03-25T08:53:02Z",
-      "description": "A defense layer against increasing supply chain attacks that read your .env files",
-      "tags": [
-        "security",
-        "dotenv",
-        "dotenvx",
-        "secrets"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png",
-      "source": "Dev.to",
-      "user": "Ustun Ozgur"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -386,20 +326,6 @@
       "user": "Ivan SZKIBA"
     },
     {
-      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
-      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
-      "published_at": "2026-03-18T23:02:35Z",
-      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
-      "tags": [
-        "ai",
-        "tooling",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
-      "source": "Dev.to",
-      "user": "Brian Love"
-    },
-    {
       "title": "Implementing a RAG system: Crawl",
       "url": "https://dev.to/gde/implementing-a-rag-system-crawl-5li",
       "published_at": "2026-03-24T18:00:00Z",
@@ -415,16 +341,6 @@
       "user": "Glen Yu"
     },
     {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
-    },
-    {
       "title": "The Missing Link Between AI Agents and the Code They Modify",
       "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
       "published_at": "2026-03-25T12:07:47Z",
@@ -438,6 +354,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvupj0we5z1s5prn5dw4s.png",
       "source": "Dev.to",
       "user": "Jimmy Utterström"
+    },
+    {
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
+      "source": "Dev.to",
+      "user": "Typing Turtle"
     },
     {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
@@ -500,6 +426,36 @@
       "user": "xbill"
     },
     {
+      "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
+      "published_at": "2026-03-24T18:00:13Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "aws",
+        "agents",
+        "amazonlightsail"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Small Prompt Tweaks That Saved Me Hours",
+      "url": "https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94",
+      "published_at": "2026-03-25T17:43:11Z",
+      "description": "I have been experimenting with AI these days and what I found from watching tutorials and prompting...",
+      "tags": [
+        "ai",
+        "productivity",
+        "promptengineering",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
+      "source": "Dev.to",
+      "user": "Konark Sharma"
+    },
+    {
       "title": "Ai-lone",
       "url": "https://dev.to/314rate/ai-lone-4ae9",
       "published_at": "2026-03-17T00:00:00Z",
@@ -512,6 +468,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwt2rijx7v2jzn65wiegl.png",
       "source": "Dev.to",
       "user": "Dennis Lemm"
+    },
+    {
+      "title": "Stop babysitting your AI agent!",
+      "url": "https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8",
+      "published_at": "2026-03-25T15:24:58Z",
+      "description": "Permission fatigue is real. You approve so many legitimate actions that the one dangerous action...",
+      "tags": [
+        "ai",
+        "security",
+        "programming",
+        "linux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
+      "source": "Dev.to",
+      "user": "Razvan"
+    },
+    {
+      "title": "A Small Hardening Trick for .env.local: dotenvx + OS Keychain",
+      "url": "https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533",
+      "published_at": "2026-03-25T08:53:02Z",
+      "description": "A defense layer against increasing supply chain attacks that read your .env files",
+      "tags": [
+        "security",
+        "dotenv",
+        "dotenvx",
+        "secrets"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png",
+      "source": "Dev.to",
+      "user": "Ustun Ozgur"
     },
     {
       "title": "AI Crash Course: Hallucinations",
@@ -714,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 928,
       "user": "GAIR-NLP"
     },
     {
@@ -765,21 +751,6 @@
   ],
   "JavaScript": [
     {
-      "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
-      "url": "https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0",
-      "published_at": "2026-03-26T09:03:53Z",
-      "description": "Most tutorials either point you to a plugin or show you half the code. This is the complete version — HTML, CSS, JS, and WordPress setup — built from a real production theme, with every GDPR mistake already fixed.",
-      "tags": [
-        "cookies",
-        "wordpress",
-        "javascript",
-        "css"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
-      "source": "Dev.to",
-      "user": "Saroj Poddar"
-    },
-    {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
       "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
       "published_at": "2026-03-26T13:53:03Z",
@@ -793,6 +764,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
       "source": "Dev.to",
       "user": "Nikoloz Turazashvili (@axrisi)"
+    },
+    {
+      "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
+      "url": "https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0",
+      "published_at": "2026-03-26T09:03:53Z",
+      "description": "Most tutorials either point you to a plugin or show you half the code. This is the complete version — HTML, CSS, JS, and WordPress setup — built from a real production theme, with every GDPR mistake already fixed.",
+      "tags": [
+        "cookies",
+        "wordpress",
+        "javascript",
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
+      "source": "Dev.to",
+      "user": "Saroj Poddar"
     },
     {
       "title": "Tend (and about Vibe Coding)",
@@ -868,6 +854,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
+    },
+    {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1001,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 373,
       "user": "magnum6actual"
     },
     {
@@ -1031,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "htimesnine"
     },
     {
@@ -1257,7 +1258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1252,
       "user": "HKUDS"
     },
     {
@@ -1287,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 928,
       "user": "GAIR-NLP"
     },
     {
@@ -1366,20 +1367,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F073a3iy46a773q6c5dvh.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
-      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
-      "published_at": "2026-03-18T23:02:35Z",
-      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
-      "tags": [
-        "ai",
-        "tooling",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
-      "source": "Dev.to",
-      "user": "Brian Love"
     }
   ],
   "WebDev": [
@@ -1414,21 +1401,6 @@
       "user": "Daniel Schulz"
     },
     {
-      "title": "PageSpeed 35 to 90: What I Got Wrong, Then Right",
-      "url": "https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m",
-      "published_at": "2026-03-25T07:17:07Z",
-      "description": "How I Took My PageSpeed Score from 35 to 90 (And What I Got Wrong First)   Have you ever...",
-      "tags": [
-        "performance",
-        "frontend",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvqc5cf2oga14cxnh7lq.png",
-      "source": "Dev.to",
-      "user": "genuineswe"
-    },
-    {
       "title": "How I Personally Grasp the Essence of Concurrency in Go",
       "url": "https://dev.to/yauritux/how-i-personally-grasp-the-essence-of-concurrency-in-go-238e",
       "published_at": "2026-03-25T18:02:44Z",
@@ -1459,18 +1431,19 @@
       "user": "Satish Gowda"
     },
     {
-      "title": "HTML Was a Miracle. Now It’s a Bottleneck. What if we started over?",
-      "url": "https://dev.to/niklabh/html-was-a-miracle-now-its-a-bottleneck-what-if-we-started-over-43bp",
-      "published_at": "2026-03-24T19:24:39Z",
-      "description": "I built a browser that doesn’t understand HTML. Here’s why.     I’ve spent over a decade...",
+      "title": "PageSpeed 35 to 90: What I Got Wrong, Then Right",
+      "url": "https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m",
+      "published_at": "2026-03-25T07:17:07Z",
+      "description": "How I Took My PageSpeed Score from 35 to 90 (And What I Got Wrong First)   Have you ever...",
       "tags": [
-        "webassembly",
-        "rust",
-        "browser"
+        "performance",
+        "frontend",
+        "webdev",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F094kd1sebrc310wnhfqz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvqc5cf2oga14cxnh7lq.png",
       "source": "Dev.to",
-      "user": "Nikhil Ranjan"
+      "user": "genuineswe"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1504,21 +1477,6 @@
   ],
   "Cloud": [
     {
-      "title": "Scaling ID Generation with Redis",
-      "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
-      "published_at": "2026-03-26T08:05:32Z",
-      "description": "It Started with a Simple Counter   I work on a cloud-based document management platform used...",
-      "tags": [
-        "java",
-        "redis",
-        "software",
-        "distributedsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
-      "source": "Dev.to",
-      "user": "Krishna Tej Chalamalasetty"
-    },
-    {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
       "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
       "published_at": "2026-03-26T13:53:03Z",
@@ -1534,6 +1492,21 @@
       "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
+      "title": "Scaling ID Generation with Redis",
+      "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
+      "published_at": "2026-03-26T08:05:32Z",
+      "description": "It Started with a Simple Counter   I work on a cloud-based document management platform used...",
+      "tags": [
+        "java",
+        "redis",
+        "software",
+        "distributedsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
+      "source": "Dev.to",
+      "user": "Krishna Tej Chalamalasetty"
+    },
+    {
       "title": "Take your vibe coding to the next level",
       "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
       "published_at": "2026-03-26T16:11:25Z",
@@ -1546,21 +1519,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
       "source": "Dev.to",
       "user": "Martin Omander"
-    },
-    {
-      "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
-      "published_at": "2026-03-24T18:00:13Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "aws",
-        "agents",
-        "amazonlightsail"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
@@ -1608,6 +1566,21 @@
       "user": "xbill"
     },
     {
+      "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
+      "published_at": "2026-03-24T18:00:13Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "aws",
+        "agents",
+        "amazonlightsail"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "url": "https://github.com/HKUDS/OpenSpace",
       "published_at": "2026-03-24T08:01:49Z",
@@ -1619,7 +1592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1252,
       "user": "HKUDS"
     }
   ],
@@ -1699,6 +1672,21 @@
       "user": "Habib Jutt"
     },
     {
+      "title": "The Cornucopia of Gamified Threat Modeling",
+      "url": "https://dev.to/owasp/the-cornucopia-of-gamified-threat-modeling-1c9k",
+      "published_at": "2026-03-24T09:55:15Z",
+      "description": "At the OWASP Cornucopia project, we are done with updating the cards and help pages for the Website...",
+      "tags": [
+        "appsec",
+        "security",
+        "gamedev",
+        "cybersecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flu3e9426c6p3w2r7l1lv.jpg",
+      "source": "Dev.to",
+      "user": "Johan Sydseter"
+    },
+    {
       "title": "Stop babysitting your AI agent!",
       "url": "https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8",
       "published_at": "2026-03-25T15:24:58Z",
@@ -1727,35 +1715,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png",
       "source": "Dev.to",
       "user": "Ustun Ozgur"
-    },
-    {
-      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
-      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
-      "published_at": "2026-03-18T23:02:35Z",
-      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
-      "tags": [
-        "ai",
-        "tooling",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
-      "source": "Dev.to",
-      "user": "Brian Love"
-    },
-    {
-      "title": "The Cornucopia of Gamified Threat Modeling",
-      "url": "https://dev.to/owasp/the-cornucopia-of-gamified-threat-modeling-1c9k",
-      "published_at": "2026-03-24T09:55:15Z",
-      "description": "At the OWASP Cornucopia project, we are done with updating the cards and help pages for the Website...",
-      "tags": [
-        "appsec",
-        "security",
-        "gamedev",
-        "cybersecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flu3e9426c6p3w2r7l1lv.jpg",
-      "source": "Dev.to",
-      "user": "Johan Sydseter"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1875,36 +1834,6 @@
       "user": "M Yauri M Attamimi"
     },
     {
-      "title": "Small Prompt Tweaks That Saved Me Hours",
-      "url": "https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94",
-      "published_at": "2026-03-25T17:43:11Z",
-      "description": "I have been experimenting with AI these days and what I found from watching tutorials and prompting...",
-      "tags": [
-        "ai",
-        "productivity",
-        "promptengineering",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
-      "source": "Dev.to",
-      "user": "Konark Sharma"
-    },
-    {
-      "title": "Stop babysitting your AI agent!",
-      "url": "https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8",
-      "published_at": "2026-03-25T15:24:58Z",
-      "description": "Permission fatigue is real. You approve so many legitimate actions that the one dangerous action...",
-      "tags": [
-        "ai",
-        "security",
-        "programming",
-        "linux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
-      "source": "Dev.to",
-      "user": "Razvan"
-    },
-    {
       "title": "Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes",
       "url": "https://dev.to/gde/mastering-google-apps-script-cicd-seamless-github-actions-integration-with-gas-fakes-4c6h",
       "published_at": "2026-03-25T07:20:29Z",
@@ -1935,18 +1864,34 @@
       "user": "Ivan SZKIBA"
     },
     {
-      "title": "OpenClaw Setup, Configuration, and Key Takeaways",
-      "url": "https://dev.to/blove/openclaw-setup-configuration-and-key-takeaways-5ce8",
-      "published_at": "2026-03-18T23:02:35Z",
-      "description": "How I set up OpenClaw on macOS with Telegram, debugged pairing and health checks, and the security boundaries I now use by default.",
+      "title": "Small Prompt Tweaks That Saved Me Hours",
+      "url": "https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94",
+      "published_at": "2026-03-25T17:43:11Z",
+      "description": "I have been experimenting with AI these days and what I found from watching tutorials and prompting...",
       "tags": [
         "ai",
-        "tooling",
-        "devops"
+        "productivity",
+        "promptengineering",
+        "beginners"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5x4p8vupvdnnlw5zbaq.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
       "source": "Dev.to",
-      "user": "Brian Love"
+      "user": "Konark Sharma"
+    },
+    {
+      "title": "Stop babysitting your AI agent!",
+      "url": "https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8",
+      "published_at": "2026-03-25T15:24:58Z",
+      "description": "Permission fatigue is real. You approve so many legitimate actions that the one dangerous action...",
+      "tags": [
+        "ai",
+        "security",
+        "programming",
+        "linux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
+      "source": "Dev.to",
+      "user": "Razvan"
     },
     {
       "title": "What are your goals for the week? #171",
@@ -1978,6 +1923,21 @@
       "user": "Leanne R"
     },
     {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
+    },
+    {
       "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
       "url": "https://github.com/magnum6actual/flipoff",
       "published_at": "2026-03-26T12:46:35Z",
@@ -1989,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 373,
       "user": "magnum6actual"
     },
     {
@@ -2019,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "htimesnine"
     },
     {
@@ -2064,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1252,
       "user": "HKUDS"
     },
     {
@@ -2094,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 928,
       "user": "GAIR-NLP"
     },
     {
@@ -2169,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 352,
       "user": "samber"
     },
     {
