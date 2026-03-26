@@ -276,6 +276,21 @@
       "user": "DigitalOcean"
     },
     {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56",
       "published_at": "2026-03-23T17:44:29Z",
@@ -641,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 332,
       "user": "SethGammon"
     },
     {
@@ -656,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 851,
       "user": "GAIR-NLP"
     },
     {
@@ -671,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 726,
       "user": "fastclaw-ai"
     },
     {
@@ -701,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 218,
       "user": "tanviet12"
     }
   ],
@@ -911,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 332,
       "user": "SethGammon"
     },
     {
@@ -926,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 208,
       "user": "htimesnine"
     },
     {
@@ -941,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "WhatDreamsCost"
     },
     {
@@ -1004,6 +1019,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7rra34vaay4gczhw78.png",
       "source": "Dev.to",
       "user": "chowderhead"
+    },
+    {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
@@ -1196,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1083,
+      "stars": 1114,
       "user": "HKUDS"
     },
     {
@@ -1211,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 968,
       "user": "dou-jiang"
     },
     {
@@ -1226,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 851,
       "user": "GAIR-NLP"
     },
     {
@@ -1256,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269737090?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "bytedance-deerflow"
     }
   ],
@@ -1488,6 +1518,21 @@
       "user": "C.K.Sun"
     },
     {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56",
       "published_at": "2026-03-23T17:44:29Z",
@@ -1529,7 +1574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1083,
+      "stars": 1114,
       "user": "HKUDS"
     }
   ],
@@ -1884,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 332,
       "user": "SethGammon"
     },
     {
@@ -1899,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 208,
       "user": "htimesnine"
     },
     {
@@ -1914,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "WhatDreamsCost"
     },
     {
@@ -1959,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1083,
+      "stars": 1114,
       "user": "HKUDS"
     },
     {
@@ -1974,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 968,
       "user": "dou-jiang"
     },
     {
@@ -1989,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 851,
       "user": "GAIR-NLP"
     },
     {
@@ -2019,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269737090?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "bytedance-deerflow"
     },
     {
@@ -2034,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 726,
       "user": "fastclaw-ai"
     },
     {
@@ -2049,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 429,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2064,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 335,
       "user": "samber"
     },
     {
@@ -2094,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 218,
       "user": "tanviet12"
     }
   ]
