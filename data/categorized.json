@@ -46,20 +46,6 @@
       "user": "Scarlett Attensil"
     },
     {
-      "title": "The software industry is ready to grow",
-      "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
-      "published_at": "2026-03-25T18:33:04Z",
-      "description": "I don't spend a lot of time on the X these days, but I think this perspective is worth...",
-      "tags": [
-        "ai",
-        "career",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "AI Crash Course: Hallucinations",
       "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg",
       "published_at": "2026-03-25T13:10:15Z",
@@ -102,21 +88,6 @@
       "user": "Leanne R"
     },
     {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
       "published_at": "2026-03-24T18:00:13Z",
@@ -130,6 +101,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The software industry is ready to grow",
+      "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
+      "published_at": "2026-03-25T18:33:04Z",
+      "description": "I don't spend a lot of time on the X these days, but I think this perspective is worth...",
+      "tags": [
+        "ai",
+        "career",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "A Small Hardening Trick for .env.local: dotenvx + OS Keychain",
@@ -656,7 +641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "SethGammon"
     },
     {
@@ -671,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 836,
       "user": "GAIR-NLP"
     },
     {
@@ -686,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 720,
       "user": "fastclaw-ai"
     },
     {
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 215,
       "user": "tanviet12"
     }
   ],
@@ -926,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "SethGammon"
     },
     {
@@ -1004,21 +989,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
       "source": "Dev.to",
       "user": "Leanne R"
-    },
-    {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Engram: A new type of AI",
@@ -1226,7 +1196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1083,
       "user": "HKUDS"
     },
     {
@@ -1241,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 954,
+      "stars": 962,
       "user": "dou-jiang"
     },
     {
@@ -1256,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 836,
       "user": "GAIR-NLP"
     },
     {
@@ -1286,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269737090?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "bytedance-deerflow"
     }
   ],
@@ -1488,21 +1458,6 @@
   ],
   "Cloud": [
     {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
       "published_at": "2026-03-24T18:00:13Z",
@@ -1574,7 +1529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1083,
       "user": "HKUDS"
     }
   ],
@@ -1929,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "SethGammon"
     },
     {
@@ -2004,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1083,
       "user": "HKUDS"
     },
     {
@@ -2019,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 954,
+      "stars": 962,
       "user": "dou-jiang"
     },
     {
@@ -2034,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 836,
       "user": "GAIR-NLP"
     },
     {
@@ -2064,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269737090?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "bytedance-deerflow"
     },
     {
@@ -2079,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 720,
       "user": "fastclaw-ai"
     },
     {
@@ -2109,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 333,
       "user": "samber"
     },
     {
@@ -2139,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 215,
       "user": "tanviet12"
     }
   ]
