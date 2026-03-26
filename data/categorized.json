@@ -90,18 +90,34 @@
       "user": "Carla Urrea Stabile"
     },
     {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "title": "The data engineer's Cortex Code cheat sheet",
+      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
+      "published_at": "2026-03-26T18:06:57Z",
+      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
       "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
+        "cortexcode",
+        "snowflake",
+        "ai",
+        "dataengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
       "source": "Dev.to",
-      "user": "Martin Omander"
+      "user": "Daniel Myers"
+    },
+    {
+      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
+      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
+      "published_at": "2026-03-26T13:53:03Z",
+      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
+      "tags": [
+        "linux",
+        "devops",
+        "cloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
+      "source": "Dev.to",
+      "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
       "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
@@ -119,19 +135,18 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
       "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
+        "googlecloud",
+        "vibecoding",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
       "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
+      "user": "Martin Omander"
     },
     {
       "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
@@ -190,21 +205,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
       "source": "Dev.to",
       "user": "Octavian"
-    },
-    {
-      "title": "The Missing Link Between AI Agents and the Code They Modify",
-      "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
-      "published_at": "2026-03-25T12:07:47Z",
-      "description": "AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...",
-      "tags": [
-        "ai",
-        "claudecode",
-        "specdriven",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvupj0we5z1s5prn5dw4s.png",
-      "source": "Dev.to",
-      "user": "Jimmy Utterström"
     },
     {
       "title": "Benchmark oriented development is a road to nowhere",
@@ -284,7 +284,7 @@
       "title": "Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness",
       "url": "https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic",
       "published_at": "2026-03-26T00:33:34Z",
-      "description": "Original article published on March 20, 2025  Hardcoded multi-agent orchestration is brittle:...",
+      "description": "Build a multi-agent system with dynamic configuration in 20 minutes using LangGraph multi-agent workflows, RAG search, and LaunchDarkly AI Configs.",
       "tags": [
         "agents",
         "ai",
@@ -436,6 +436,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
       "source": "Dev.to",
       "user": "Typing Turtle"
+    },
+    {
+      "title": "The Missing Link Between AI Agents and the Code They Modify",
+      "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
+      "published_at": "2026-03-25T12:07:47Z",
+      "description": "AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...",
+      "tags": [
+        "ai",
+        "claudecode",
+        "specdriven",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvupj0we5z1s5prn5dw4s.png",
+      "source": "Dev.to",
+      "user": "Jimmy Utterström"
     },
     {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
@@ -699,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 922,
       "user": "GAIR-NLP"
     },
     {
@@ -810,21 +825,6 @@
       "user": "Yamashou"
     },
     {
-      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
-      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
-      "published_at": "2026-03-26T06:14:01Z",
-      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
-      "tags": [
-        "opensource",
-        "nextjs",
-        "react",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
-      "source": "Dev.to",
-      "user": "Habib Jutt"
-    },
-    {
       "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
       "url": "https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl",
       "published_at": "2026-03-25T21:57:51Z",
@@ -840,6 +840,21 @@
       "user": "Evidence Etinih Ekanem"
     },
     {
+      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+      "published_at": "2026-03-26T06:14:01Z",
+      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
+      "tags": [
+        "opensource",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
+      "source": "Dev.to",
+      "user": "Habib Jutt"
+    },
+    {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
       "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
       "published_at": "2026-03-23T05:48:13Z",
@@ -853,21 +868,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
-    },
-    {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1016,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 335,
       "user": "magnum6actual"
     },
     {
@@ -1031,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 220,
       "user": "htimesnine"
     },
     {
@@ -1061,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "WhatDreamsCost"
     }
   ],
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1245,
       "user": "HKUDS"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1038,
       "user": "dou-jiang"
     },
     {
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 922,
       "user": "GAIR-NLP"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "AAAAAAAJ"
     }
   ],
@@ -1519,20 +1519,6 @@
       "user": "Krishna Tej Chalamalasetty"
     },
     {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
-    },
-    {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
       "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
       "published_at": "2026-03-26T13:53:03Z",
@@ -1546,6 +1532,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
       "source": "Dev.to",
       "user": "Nikoloz Turazashvili (@axrisi)"
+    },
+    {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
     },
     {
       "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
@@ -1619,7 +1619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1245,
       "user": "HKUDS"
     }
   ],
@@ -1978,21 +1978,6 @@
       "user": "Leanne R"
     },
     {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
-    },
-    {
       "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
       "url": "https://github.com/SethGammon/Citadel",
       "published_at": "2026-03-20T05:42:54Z",
@@ -2019,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 335,
       "user": "magnum6actual"
     },
     {
@@ -2034,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 220,
       "user": "htimesnine"
     },
     {
@@ -2064,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "WhatDreamsCost"
     },
     {
@@ -2079,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1245,
       "user": "HKUDS"
     },
     {
@@ -2094,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1038,
       "user": "dou-jiang"
     },
     {
@@ -2109,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 922,
       "user": "GAIR-NLP"
     },
     {
@@ -2139,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "AAAAAAAJ"
     },
     {
@@ -2184,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "samber"
     },
     {
