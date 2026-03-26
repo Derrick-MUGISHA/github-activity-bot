@@ -31,18 +31,19 @@
       "user": "ghost"
     },
     {
-      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
-      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
-      "published_at": "2026-03-26T10:50:55Z",
-      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
+      "title": "The data engineer's Cortex Code cheat sheet",
+      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
+      "published_at": "2026-03-26T18:06:57Z",
+      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
       "tags": [
-        "opensource",
-        "go",
-        "webdev"
+        "cortexcode",
+        "snowflake",
+        "ai",
+        "dataengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
       "source": "Dev.to",
-      "user": "Ali Raza"
+      "user": "Daniel Myers"
     },
     {
       "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
@@ -58,6 +59,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
+      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
+      "published_at": "2026-03-26T10:50:55Z",
+      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
+      "tags": [
+        "opensource",
+        "go",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
+      "source": "Dev.to",
+      "user": "Ali Raza"
     },
     {
       "title": "AI Didn't Break Your Culture. It Exposed It.",
@@ -88,21 +103,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
       "source": "Dev.to",
       "user": "Carla Urrea Stabile"
-    },
-    {
-      "title": "The data engineer's Cortex Code cheat sheet",
-      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
-      "published_at": "2026-03-26T18:06:57Z",
-      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
-      "tags": [
-        "cortexcode",
-        "snowflake",
-        "ai",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
-      "source": "Dev.to",
-      "user": "Daniel Myers"
     },
     {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
@@ -177,19 +177,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
       "source": "Dev.to",
       "user": "Yamashou"
-    },
-    {
-      "title": "AI Crash Course: Hallucinations",
-      "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg",
-      "published_at": "2026-03-25T13:10:15Z",
-      "description": "While we can’t eliminate hallucinations entirely, there are still things we can do to reduce the chances of hallucinations showing up in our model’s responses.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbgiott8zjv8d2chdvkd.png",
-      "source": "Dev.to",
-      "user": "Kathryn Grayson Nanz"
     },
     {
       "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
@@ -527,6 +514,19 @@
       "user": "Dennis Lemm"
     },
     {
+      "title": "AI Crash Course: Hallucinations",
+      "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg",
+      "published_at": "2026-03-25T13:10:15Z",
+      "description": "While we can’t eliminate hallucinations entirely, there are still things we can do to reduce the chances of hallucinations showing up in our model’s responses.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbgiott8zjv8d2chdvkd.png",
+      "source": "Dev.to",
+      "user": "Kathryn Grayson Nanz"
+    },
+    {
       "title": "Engram: A new type of AI",
       "url": "https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd",
       "published_at": "2026-03-24T21:05:54Z",
@@ -699,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "SethGammon"
     },
     {
@@ -714,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 925,
       "user": "GAIR-NLP"
     },
     {
@@ -990,21 +990,6 @@
       "user": "velmu"
     },
     {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 340,
-      "user": "SethGammon"
-    },
-    {
       "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
       "url": "https://github.com/magnum6actual/flipoff",
       "published_at": "2026-03-26T12:46:35Z",
@@ -1016,8 +1001,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 359,
       "user": "magnum6actual"
+    },
+    {
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
+      "source": "GitHub",
+      "stars": 343,
+      "user": "SethGammon"
     },
     {
       "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
@@ -1061,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "WhatDreamsCost"
     }
   ],
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1246,
       "user": "HKUDS"
     },
     {
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 925,
       "user": "GAIR-NLP"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 374,
       "user": "AAAAAAAJ"
     }
   ],
@@ -1619,7 +1619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1246,
       "user": "HKUDS"
     }
   ],
@@ -1978,21 +1978,6 @@
       "user": "Leanne R"
     },
     {
-      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "url": "https://github.com/SethGammon/Citadel",
-      "published_at": "2026-03-20T05:42:54Z",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
-      "source": "GitHub",
-      "stars": 340,
-      "user": "SethGammon"
-    },
-    {
       "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
       "url": "https://github.com/magnum6actual/flipoff",
       "published_at": "2026-03-26T12:46:35Z",
@@ -2004,8 +1989,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 359,
       "user": "magnum6actual"
+    },
+    {
+      "title": "SethGammon/Citadel - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "url": "https://github.com/SethGammon/Citadel",
+      "published_at": "2026-03-20T05:42:54Z",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
+      "source": "GitHub",
+      "stars": 343,
+      "user": "SethGammon"
     },
     {
       "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "WhatDreamsCost"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1246,
       "user": "HKUDS"
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 925,
       "user": "GAIR-NLP"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 374,
       "user": "AAAAAAAJ"
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 349,
       "user": "samber"
     },
     {
