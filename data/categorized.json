@@ -31,6 +31,19 @@
       "user": "Jono Herrington"
     },
     {
+      "title": "AI Crash Course: Hallucinations",
+      "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg",
+      "published_at": "2026-03-25T13:10:15Z",
+      "description": "While we can’t eliminate hallucinations entirely, there are still things we can do to reduce the chances of hallucinations showing up in our model’s responses.",
+      "tags": [
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbgiott8zjv8d2chdvkd.png",
+      "source": "Dev.to",
+      "user": "Kathryn Grayson Nanz"
+    },
+    {
       "title": "Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness",
       "url": "https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic",
       "published_at": "2026-03-26T00:33:34Z",
@@ -44,19 +57,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpcvnrnu606ywn56pd1i.webp",
       "source": "Dev.to",
       "user": "Scarlett Attensil"
-    },
-    {
-      "title": "AI Crash Course: Hallucinations",
-      "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg",
-      "published_at": "2026-03-25T13:10:15Z",
-      "description": "While we can’t eliminate hallucinations entirely, there are still things we can do to reduce the chances of hallucinations showing up in our model’s responses.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbgiott8zjv8d2chdvkd.png",
-      "source": "Dev.to",
-      "user": "Kathryn Grayson Nanz"
     },
     {
       "title": "The Missing Link Between AI Agents and the Code They Modify",
@@ -147,21 +147,6 @@
       "user": "chowderhead"
     },
     {
-      "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
-      "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
-      "published_at": "2026-03-23T23:19:39Z",
-      "description": "I want to tell you something that did not make it into the README.  I built...",
-      "tags": [
-        "ai",
-        "llm",
-        "monitoring",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
-      "source": "Dev.to",
-      "user": "Taiwrash"
-    },
-    {
       "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
       "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
       "published_at": "2026-03-24T14:53:30Z",
@@ -175,6 +160,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
+    },
+    {
+      "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
+      "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
+      "published_at": "2026-03-23T23:19:39Z",
+      "description": "I want to tell you something that did not make it into the README.  I built...",
+      "tags": [
+        "ai",
+        "llm",
+        "monitoring",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
+      "source": "Dev.to",
+      "user": "Taiwrash"
     },
     {
       "title": "AI Writes Code. You Own Quality.",
@@ -656,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 334,
       "user": "SethGammon"
     },
     {
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 878,
       "user": "GAIR-NLP"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 728,
       "user": "fastclaw-ai"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "openilink"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "tanviet12"
     }
   ],
@@ -926,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 334,
       "user": "SethGammon"
     },
     {
@@ -941,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 211,
       "user": "htimesnine"
     },
     {
@@ -956,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "WhatDreamsCost"
     },
     {
@@ -1226,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1114,
+      "stars": 1131,
       "user": "HKUDS"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 984,
       "user": "dou-jiang"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 878,
       "user": "GAIR-NLP"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269737090?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 313,
       "user": "bytedance-deerflow"
     }
   ],
@@ -1574,7 +1574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1114,
+      "stars": 1131,
       "user": "HKUDS"
     }
   ],
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 334,
       "user": "SethGammon"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 211,
       "user": "htimesnine"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "WhatDreamsCost"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1114,
+      "stars": 1131,
       "user": "HKUDS"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 984,
       "user": "dou-jiang"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 878,
       "user": "GAIR-NLP"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269737090?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 313,
       "user": "bytedance-deerflow"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 728,
       "user": "fastclaw-ai"
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "samber"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "openilink"
     },
     {
@@ -2139,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "tanviet12"
     }
   ]
