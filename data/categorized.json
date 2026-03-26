@@ -132,21 +132,6 @@
       "user": "Ustun Ozgur"
     },
     {
-      "title": "Engram: A new type of AI",
-      "url": "https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd",
-      "published_at": "2026-03-24T21:05:54Z",
-      "description": "From the author:  From my endless pursuit of getting LLM's to stop hallucinating I had a late night...",
-      "tags": [
-        "ai",
-        "opensource",
-        "machinelearning",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7rra34vaay4gczhw78.png",
-      "source": "Dev.to",
-      "user": "chowderhead"
-    },
-    {
       "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
       "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
       "published_at": "2026-03-24T14:53:30Z",
@@ -162,21 +147,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
-      "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
-      "published_at": "2026-03-23T23:19:39Z",
-      "description": "I want to tell you something that did not make it into the README.  I built...",
-      "tags": [
-        "ai",
-        "llm",
-        "monitoring",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
-      "source": "Dev.to",
-      "user": "Taiwrash"
-    },
-    {
       "title": "AI Writes Code. You Own Quality.",
       "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
       "published_at": "2026-03-24T15:43:40Z",
@@ -190,6 +160,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
       "source": "Dev.to",
       "user": "Helder Burato Berto"
+    },
+    {
+      "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
+      "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
+      "published_at": "2026-03-23T23:19:39Z",
+      "description": "I want to tell you something that did not make it into the README.  I built...",
+      "tags": [
+        "ai",
+        "llm",
+        "monitoring",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
+      "source": "Dev.to",
+      "user": "Taiwrash"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -320,19 +305,19 @@
       "user": "Dennis Lemm"
     },
     {
-      "title": "I was asked to delete my comments before committing",
-      "url": "https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437",
-      "published_at": "2026-03-22T01:20:22Z",
-      "description": "I was asked to delete my comments before committing   I've worked in IT for 12 years now —...",
+      "title": "Engram: A new type of AI",
+      "url": "https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd",
+      "published_at": "2026-03-24T21:05:54Z",
+      "description": "From the author:  From my endless pursuit of getting LLM's to stop hallucinating I had a late night...",
       "tags": [
-        "git",
-        "productivity",
-        "developer",
-        "ai"
+        "ai",
+        "opensource",
+        "machinelearning",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltopb4rrczp2qlq1rv08.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7rra34vaay4gczhw78.png",
       "source": "Dev.to",
-      "user": "Tual Maxime"
+      "user": "chowderhead"
     },
     {
       "title": "I Put a Prompt Injection on My Resume",
@@ -408,21 +393,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
       "source": "Dev.to",
       "user": "Amjad Abujamous"
-    },
-    {
-      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
-      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
-      "published_at": "2026-03-21T21:47:33Z",
-      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
-      "tags": [
-        "ai",
-        "observability",
-        "typescript",
-        "opentelemetry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
-      "source": "Dev.to",
-      "user": "Albert Alov"
     },
     {
       "title": "When AI Agents Get It Wrong: The Accountability Crisis in Multi-Agent Systems",
@@ -511,6 +481,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhwtekg7klsnz9oawyx90.png",
       "source": "Dev.to",
       "user": "Chioma Halim"
+    },
+    {
+      "title": "I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.",
+      "url": "https://dev.to/sudodevesh/i-talk-to-ai-while-i-code-heres-what-works-what-fails-and-where-i-stop-22jk",
+      "published_at": "2026-03-23T13:12:28Z",
+      "description": "I'll be honest. A year ago, if you told me I'd be having full conversations with an AI while building...",
+      "tags": [
+        "ai",
+        "programming",
+        "coding",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg45p37fkdyfvtgugcalk.png",
+      "source": "Dev.to",
+      "user": "Devesh Korde"
+    },
+    {
+      "title": "Ship Less, Measure More",
+      "url": "https://dev.to/snowman647/ship-less-measure-more-58m4",
+      "published_at": "2026-03-06T22:07:43Z",
+      "description": "AI did not remove the engineering bottleneck. It moved it.  Code is cheaper than it has ever been....",
+      "tags": [
+        "ai",
+        "programming",
+        "management"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8isbvtb3clpasjdkqb86.png",
+      "source": "Dev.to",
+      "user": "Mike Krop"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -656,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "SethGammon"
     },
     {
@@ -671,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 895,
       "user": "GAIR-NLP"
     },
     {
@@ -686,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 735,
       "user": "fastclaw-ai"
     },
     {
@@ -701,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "openilink"
     },
     {
@@ -765,21 +764,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
       "source": "Dev.to",
       "user": "DOGGA Nidhal"
-    },
-    {
-      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
-      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
-      "published_at": "2026-03-21T21:47:33Z",
-      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
-      "tags": [
-        "ai",
-        "observability",
-        "typescript",
-        "opentelemetry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
-      "source": "Dev.to",
-      "user": "Albert Alov"
     },
     {
       "title": "Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)",
@@ -926,7 +910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "SethGammon"
     },
     {
@@ -1006,21 +990,6 @@
       "user": "Leanne R"
     },
     {
-      "title": "Engram: A new type of AI",
-      "url": "https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd",
-      "published_at": "2026-03-24T21:05:54Z",
-      "description": "From the author:  From my endless pursuit of getting LLM's to stop hallucinating I had a late night...",
-      "tags": [
-        "ai",
-        "opensource",
-        "machinelearning",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7rra34vaay4gczhw78.png",
-      "source": "Dev.to",
-      "user": "chowderhead"
-    },
-    {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
       "published_at": "2026-03-23T17:53:10Z",
@@ -1049,6 +1018,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Engram: A new type of AI",
+      "url": "https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd",
+      "published_at": "2026-03-24T21:05:54Z",
+      "description": "From the author:  From my endless pursuit of getting LLM's to stop hallucinating I had a late night...",
+      "tags": [
+        "ai",
+        "opensource",
+        "machinelearning",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7rra34vaay4gczhw78.png",
+      "source": "Dev.to",
+      "user": "chowderhead"
     },
     {
       "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
@@ -1226,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1179,
       "user": "HKUDS"
     },
     {
@@ -1241,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1006,
       "user": "dou-jiang"
     },
     {
@@ -1256,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 895,
       "user": "GAIR-NLP"
     },
     {
@@ -1271,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "bramcohen"
     },
     {
@@ -1286,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 324,
       "user": "AAAAAAAJ"
     }
   ],
@@ -1574,7 +1558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1179,
       "user": "HKUDS"
     }
   ],
@@ -1828,21 +1812,6 @@
       "user": "DOGGA Nidhal"
     },
     {
-      "title": "I was asked to delete my comments before committing",
-      "url": "https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437",
-      "published_at": "2026-03-22T01:20:22Z",
-      "description": "I was asked to delete my comments before committing   I've worked in IT for 12 years now —...",
-      "tags": [
-        "git",
-        "productivity",
-        "developer",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltopb4rrczp2qlq1rv08.png",
-      "source": "Dev.to",
-      "user": "Tual Maxime"
-    },
-    {
       "title": "What are your goals for the week? #171",
       "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-171-5232",
       "published_at": "2026-03-23T15:27:11Z",
@@ -1871,21 +1840,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2F7efde64ef8c2163a170b28d74b46347d%2F8db55%2Fintroducing-gh-weekly-updates.jpg",
       "source": "Dev.to",
       "user": "Sahan"
-    },
-    {
-      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
-      "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
-      "published_at": "2026-03-21T21:47:33Z",
-      "description": "Every LLM tool invents its own tracing format. Langfuse has one. Helicone has one. Arize has one. If...",
-      "tags": [
-        "ai",
-        "observability",
-        "typescript",
-        "opentelemetry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F71q10hso2j6x3d7crpi2.png",
-      "source": "Dev.to",
-      "user": "Albert Alov"
     },
     {
       "title": "I Built a CLI Tool That Writes My Commit Messages",
@@ -1929,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "SethGammon"
     },
     {
@@ -2004,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1179,
       "user": "HKUDS"
     },
     {
@@ -2019,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1006,
       "user": "dou-jiang"
     },
     {
@@ -2034,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 895,
       "user": "GAIR-NLP"
     },
     {
@@ -2049,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "bramcohen"
     },
     {
@@ -2064,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 324,
       "user": "AAAAAAAJ"
     },
     {
@@ -2079,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 735,
       "user": "fastclaw-ai"
     },
     {
@@ -2109,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "samber"
     },
     {
@@ -2124,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "openilink"
     },
     {
