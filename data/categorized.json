@@ -31,19 +31,19 @@
       "user": "ghost"
     },
     {
-      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
-      "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
-      "published_at": "2026-03-26T11:42:27Z",
-      "description": "There is a special genre of AI idea that sounds brilliant right up until you try to build it. It...",
+      "title": "The data engineer's Cortex Code cheat sheet",
+      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
+      "published_at": "2026-03-26T18:06:57Z",
+      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
       "tags": [
-        "agents",
+        "cortexcode",
+        "snowflake",
         "ai",
-        "architecture",
-        "softwareengineering"
+        "dataengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
       "source": "Dev.to",
-      "user": "marcosomma"
+      "user": "Daniel Myers"
     },
     {
       "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
@@ -58,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
       "source": "Dev.to",
       "user": "Ali Raza"
+    },
+    {
+      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
+      "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
+      "published_at": "2026-03-26T11:42:27Z",
+      "description": "There is a special genre of AI idea that sounds brilliant right up until you try to build it. It...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "The Future of Coding is Communication, Not Just Code",
@@ -105,21 +120,6 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "The data engineer's Cortex Code cheat sheet",
-      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
-      "published_at": "2026-03-26T18:06:57Z",
-      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
-      "tags": [
-        "cortexcode",
-        "snowflake",
-        "ai",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
-      "source": "Dev.to",
-      "user": "Daniel Myers"
-    },
-    {
       "title": "Take your vibe coding to the next level",
       "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
       "published_at": "2026-03-26T16:11:25Z",
@@ -147,21 +147,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
       "source": "Dev.to",
       "user": "Patrik Szewczyk"
-    },
-    {
-      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
-      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
-      "published_at": "2026-03-26T07:06:06Z",
-      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
-      "tags": [
-        "ai",
-        "agentskills",
-        "devtool",
-        "runnerhchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
-      "source": "Dev.to",
-      "user": "Octavian"
     },
     {
       "title": "Benchmark oriented development is a road to nowhere",
@@ -193,6 +178,20 @@
       "user": "Evidence Etinih Ekanem"
     },
     {
+      "title": "Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)",
+      "url": "https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61",
+      "published_at": "2026-03-26T04:15:01Z",
+      "description": "After running a Rails application in production for a while, you may encounter a phenomenon where...",
+      "tags": [
+        "ruby",
+        "rails",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8zvqrcnfojue05b03qx6.png",
+      "source": "Dev.to",
+      "user": "Katz Sakai"
+    },
+    {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
       "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
       "published_at": "2026-03-26T05:12:54Z",
@@ -208,33 +207,19 @@
       "user": "Yamashou"
     },
     {
-      "title": "Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)",
-      "url": "https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61",
-      "published_at": "2026-03-26T04:15:01Z",
-      "description": "After running a Rails application in production for a while, you may encounter a phenomenon where...",
-      "tags": [
-        "ruby",
-        "rails",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8zvqrcnfojue05b03qx6.png",
-      "source": "Dev.to",
-      "user": "Katz Sakai"
-    },
-    {
-      "title": "1st time at a big tech conference - GTC 2026",
-      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
-      "published_at": "2026-03-25T16:38:29Z",
-      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
+      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
+      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
+      "published_at": "2026-03-26T07:06:06Z",
+      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
       "tags": [
         "ai",
-        "techtalks",
-        "career",
-        "news"
+        "agentskills",
+        "devtool",
+        "runnerhchallenge"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
       "source": "Dev.to",
-      "user": "Matt Cool"
+      "user": "Octavian"
     },
     {
       "title": "Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness",
@@ -279,21 +264,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fblindy-trust.png",
       "source": "Dev.to",
       "user": "Jono Herrington"
-    },
-    {
-      "title": "Building a Network of AI-Native CTOs",
-      "url": "https://dev.to/glind/building-a-network-of-ai-native-ctos-1ffe",
-      "published_at": "2026-03-25T17:01:15Z",
-      "description": "Thinking through how the CTO role is evolving in smaller, AI-driven teams—and what we’re trying as an alternative.",
-      "tags": [
-        "ai",
-        "startup",
-        "opensource",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1519389950473-47ba0277781c",
-      "source": "Dev.to",
-      "user": "Greg Lind"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -730,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "openilink"
     },
     {
@@ -1002,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 409,
       "user": "magnum6actual"
     },
     {
@@ -1032,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "htimesnine"
     },
     {
@@ -1243,7 +1213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1256,
       "user": "HKUDS"
     },
     {
@@ -1303,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "AAAAAAAJ"
     }
   ],
@@ -1477,6 +1447,20 @@
       "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
+    },
+    {
       "title": "Scaling ID Generation with Redis",
       "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
       "published_at": "2026-03-26T08:05:32Z",
@@ -1490,20 +1474,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
       "source": "Dev.to",
       "user": "Krishna Tej Chalamalasetty"
-    },
-    {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
     },
     {
       "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
@@ -1577,7 +1547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1256,
       "user": "HKUDS"
     }
   ],
@@ -1789,21 +1759,6 @@
       "user": "Patrik Szewczyk"
     },
     {
-      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
-      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
-      "published_at": "2026-03-26T07:06:06Z",
-      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
-      "tags": [
-        "ai",
-        "agentskills",
-        "devtool",
-        "runnerhchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
-      "source": "Dev.to",
-      "user": "Octavian"
-    },
-    {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
       "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
       "published_at": "2026-03-26T05:12:54Z",
@@ -1817,6 +1772,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
       "source": "Dev.to",
       "user": "Yamashou"
+    },
+    {
+      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
+      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
+      "published_at": "2026-03-26T07:06:06Z",
+      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "devtool",
+        "runnerhchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
+      "source": "Dev.to",
+      "user": "Octavian"
     },
     {
       "title": "How I Personally Grasp the Essence of Concurrency in Go",
@@ -1949,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 409,
       "user": "magnum6actual"
     },
     {
@@ -1979,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "htimesnine"
     },
     {
@@ -2024,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1256,
       "user": "HKUDS"
     },
     {
@@ -2084,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "AAAAAAAJ"
     },
     {
@@ -2129,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 356,
       "user": "samber"
     },
     {
@@ -2144,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "openilink"
     },
     {
