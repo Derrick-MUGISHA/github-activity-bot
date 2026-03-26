@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **Cloud**: 🟦🟦🟦 8 (7.6%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦🟦🟦 7 (6.7%)
+**Security**: 🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦 4 (3.8%)
+**DevOps**: 🟦 3 (2.9%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.3 (25.3%)
-Java            ███████████████████████████ 23.0 (23.0%)
-Go              ██████████████████████████ 21.8 (21.8%)
-Python          ██████████████████████████ 21.8 (21.8%)
-Rust            █████ 4.6 (4.6%)
+JavaScript      ██████████████████████████████ 25.6 (25.6%)
+Go              ███████████████████████████ 23.3 (23.3%)
+Java            ███████████████████████████ 23.3 (23.3%)
+Python          █████████████████████████ 21.1 (21.1%)
+Rust            ████ 3.3 (3.3%)
 CSharp          █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -73,11 +73,11 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 22
-    "Java" : 20
-    "Go" : 19
+    "JavaScript" : 23
+    "Go" : 21
+    "Java" : 21
     "Python" : 19
-    "Rust" : 4
+    "Rust" : 3
     "CSharp" : 1
     "Ruby" : 1
     "Swift" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![career](https://img.shields.io/badge/career-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![career](https://img.shields.io/badge/career-5-blue) 
 
 
 
@@ -153,17 +153,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png" width="200" alt="The data engineer's Cortex Code cheat sheet" />
-      <br/>
-      <b>The data engineer's Cortex Code cheat sheet</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png" width="200" alt="I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy" />
       <br/>
@@ -172,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png" width="200" alt="I built a file transfer tool that can’t spy on you even if it wanted to" />
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png" width="200" alt="The Future of Coding is Communication, Not Just Code" />
+      <br/>
+      <b>The Future of Coding is Communication, Not Just Co...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -199,16 +199,16 @@ npm run test
 
 - [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
 - [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
-- [The data engineer's Cortex Code cheat sheet](https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60) _[Dev.to]_
 - [I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy](https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e) _[Dev.to]_
 - [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39) _[Dev.to]_
 - [AI Didn't Break Your Culture. It Exposed It.](https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729) _[Dev.to]_
 - [The Future of Coding is Communication, Not Just Code](https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p) _[Dev.to]_
 - [Building a Error Library](https://dev.to/fafhrd91/building-a-error-library-3kda) _[Dev.to]_
+- [Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0) _[Dev.to]_
 - [Scaling ID Generation with Redis](https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e) _[Dev.to]_
 - [How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0) _[Dev.to]_
-- [Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0) _[Dev.to]_
 - [Build real-time conversational agents with Gemini 3.1 Flash Live](https://dev.to/googleai/build-real-time-conversational-agents-with-gemini-31-flash-live-27f6) _[Dev.to]_
+- [The data engineer's Cortex Code cheat sheet](https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60) _[Dev.to]_
 - [Take your vibe coding to the next level](https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea) _[Dev.to]_
 - [I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.](https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od) _[Dev.to]_
 - [Zero-copy protobuf and ConnectRPC for Rust](https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e) _[Dev.to]_
@@ -216,9 +216,9 @@ npm run test
 - [rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib) _[Dev.to]_
 - [Check Up with Each Other](https://dev.to/francistrdev/check-up-with-each-other-2ogc) _[Dev.to]_
 - [Why most AI agent frameworks break in production (and what I’m doing differently)](https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i) _[Dev.to]_
-- [PageSpeed 35 to 90: What I Got Wrong, Then Right](https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m) _[Dev.to]_
+- [Benchmark oriented development is a road to nowhere](https://dev.to/dmtrkovalenko/benchmark-oriented-development-is-a-road-to-nowhere-1518) _[Dev.to]_
 
-_Last automated update: Thu, 26 Mar 2026 22:05:04 CAT_
+_Last automated update: Thu, 26 Mar 2026 22:50:44 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 26 Mar 2026 22:05:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Heap, stack, garbage collection
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 26 Mar 2026 20:05:04 GMT</b><br/>
+  <b>Last automated update: Thu, 26 Mar 2026 20:50:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
