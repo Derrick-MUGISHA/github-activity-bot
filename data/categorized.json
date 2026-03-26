@@ -90,6 +90,19 @@
       "user": "Carla Urrea Stabile"
     },
     {
+      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
+      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
+      "published_at": "2026-03-26T21:05:21Z",
+      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
+      "tags": [
+        "langchain",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
+      "source": "Dev.to",
+      "user": "Scarlett Attensil"
+    },
+    {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
       "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
       "published_at": "2026-03-26T13:53:03Z",
@@ -105,17 +118,19 @@
       "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
-      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
-      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
-      "published_at": "2026-03-26T21:05:21Z",
-      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
+      "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
+      "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
+      "published_at": "2026-03-26T14:57:20Z",
+      "description": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...",
       "tags": [
-        "langchain",
-        "agents"
+        "playwright",
+        "product",
+        "marketing",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
       "source": "Dev.to",
-      "user": "Scarlett Attensil"
+      "user": "Patrik Szewczyk"
     },
     {
       "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
@@ -145,21 +160,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
       "source": "Dev.to",
       "user": "Martin Omander"
-    },
-    {
-      "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
-      "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
-      "published_at": "2026-03-26T14:57:20Z",
-      "description": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...",
-      "tags": [
-        "playwright",
-        "product",
-        "marketing",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
-      "source": "Dev.to",
-      "user": "Patrik Szewczyk"
     },
     {
       "title": "Benchmark oriented development is a road to nowhere",
@@ -654,7 +654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "SethGammon"
     },
     {
@@ -765,21 +765,6 @@
       "user": "Evidence Etinih Ekanem"
     },
     {
-      "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
-      "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
-      "published_at": "2026-03-26T05:12:54Z",
-      "description": "`rgql` is a CLI tool that renames GraphQL types, fields, and fragments across schema files and embedded TypeScript queries using full AST analysis. Because it's type-safe and deterministic, it's ideal for AI coding agents like Claude Code and Codex — they can invoke a single command instead of performing fragile find-and-replace across dozens of files.",
-      "tags": [
-        "graphql",
-        "ast",
-        "ts",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
-      "source": "Dev.to",
-      "user": "Yamashou"
-    },
-    {
       "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
       "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
       "published_at": "2026-03-26T06:14:01Z",
@@ -793,6 +778,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
       "source": "Dev.to",
       "user": "Habib Jutt"
+    },
+    {
+      "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
+      "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
+      "published_at": "2026-03-26T05:12:54Z",
+      "description": "`rgql` is a CLI tool that renames GraphQL types, fields, and fragments across schema files and embedded TypeScript queries using full AST analysis. Because it's type-safe and deterministic, it's ideal for AI coding agents like Claude Code and Codex — they can invoke a single command instead of performing fragile find-and-replace across dozens of files.",
+      "tags": [
+        "graphql",
+        "ast",
+        "ts",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
+      "source": "Dev.to",
+      "user": "Yamashou"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -971,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 435,
       "user": "magnum6actual"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "SethGammon"
     },
     {
@@ -1001,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 221,
       "user": "htimesnine"
     },
     {
@@ -1031,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "WhatDreamsCost"
     }
   ],
@@ -1212,7 +1212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1261,
       "user": "HKUDS"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 418,
       "user": "bramcohen"
     },
     {
@@ -1531,7 +1531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1261,
       "user": "HKUDS"
     }
   ],
@@ -1714,20 +1714,6 @@
       "user": "Ali Raza"
     },
     {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
-    },
-    {
       "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
       "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
       "published_at": "2026-03-26T14:57:20Z",
@@ -1741,6 +1727,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
       "source": "Dev.to",
       "user": "Patrik Szewczyk"
+    },
+    {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
     },
     {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
@@ -1888,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 435,
       "user": "magnum6actual"
     },
     {
@@ -1903,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "SethGammon"
     },
     {
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 221,
       "user": "htimesnine"
     },
     {
@@ -1948,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "WhatDreamsCost"
     },
     {
@@ -1963,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1261,
       "user": "HKUDS"
     },
     {
@@ -2008,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 418,
       "user": "bramcohen"
     },
     {
@@ -2068,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "samber"
     },
     {
