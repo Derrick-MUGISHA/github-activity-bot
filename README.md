@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-25-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-26-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -38,9 +38,9 @@
 
 **Security**: 🟦🟦🟦🟦 9 (8.7%)
 
-**Cloud**: 🟦🟦🟦 7 (6.8%)
-
 **DevOps**: 🟦🟦 6 (5.8%)
+
+**Cloud**: 🟦🟦 6 (5.8%)
 
 **WebDev**: 🟦🟦 5 (4.9%)
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-26 1:00 CAT)
+## 📅 Latest Updates (2026-03-26 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0) _[Dev.to]_
 - [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 
-_Last automated update: Thu, 26 Mar 2026 01:33:01 CAT_
+_Last automated update: Thu, 26 Mar 2026 02:03:22 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 26 Mar 2026 01:33:01 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 25 Mar 2026 23:33:01 GMT</b><br/>
+  <b>Last automated update: Thu, 26 Mar 2026 00:03:22 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
