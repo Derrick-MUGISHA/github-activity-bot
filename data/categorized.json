@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Speed vs smarts for coding agents?",
+      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
+      "published_at": "2026-03-26T15:58:22Z",
+      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
+      "tags": [
+        "agents",
+        "ai",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "your agent can think. it can't remember.",
       "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
       "published_at": "2026-03-25T15:01:56Z",
@@ -45,21 +60,6 @@
       "user": "marcosomma"
     },
     {
-      "title": "Speed vs smarts for coding agents?",
-      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
-      "published_at": "2026-03-26T15:58:22Z",
-      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "AI Didn't Break Your Culture. It Exposed It.",
       "url": "https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729",
       "published_at": "2026-03-25T19:07:20Z",
@@ -75,20 +75,6 @@
       "user": "Jono Herrington"
     },
     {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
-    },
-    {
       "title": "The Future of Coding is Communication, Not Just Code",
       "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
       "published_at": "2026-03-26T14:31:00Z",
@@ -102,6 +88,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
       "source": "Dev.to",
       "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
     },
     {
       "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
@@ -281,6 +281,35 @@
       "user": "Konark Sharma"
     },
     {
+      "title": "Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness",
+      "url": "https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic",
+      "published_at": "2026-03-26T00:33:34Z",
+      "description": "Original article published on March 20, 2025  Hardcoded multi-agent orchestration is brittle:...",
+      "tags": [
+        "agents",
+        "ai",
+        "aiops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpcvnrnu606ywn56pd1i.webp",
+      "source": "Dev.to",
+      "user": "Scarlett Attensil"
+    },
+    {
+      "title": "The software industry is ready to grow",
+      "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
+      "published_at": "2026-03-25T18:33:04Z",
+      "description": "I don't spend a lot of time on the X these days, but I think this perspective is worth...",
+      "tags": [
+        "ai",
+        "career",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Building a Network of AI-Native CTOs",
       "url": "https://dev.to/glind/building-a-network-of-ai-native-ctos-1ffe",
       "published_at": "2026-03-25T17:01:15Z",
@@ -311,6 +340,20 @@
       "user": "Razvan"
     },
     {
+      "title": "Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)",
+      "url": "https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61",
+      "published_at": "2026-03-26T04:15:01Z",
+      "description": "After running a Rails application in production for a while, you may encounter a phenomenon where...",
+      "tags": [
+        "ruby",
+        "rails",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8zvqrcnfojue05b03qx6.png",
+      "source": "Dev.to",
+      "user": "Katz Sakai"
+    },
+    {
       "title": "A Small Hardening Trick for .env.local: dotenvx + OS Keychain",
       "url": "https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533",
       "published_at": "2026-03-25T08:53:02Z",
@@ -324,36 +367,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png",
       "source": "Dev.to",
       "user": "Ustun Ozgur"
-    },
-    {
-      "title": "AI Writes Code. You Own Quality.",
-      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
-      "published_at": "2026-03-24T15:43:40Z",
-      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
-      "tags": [
-        "ai",
-        "software",
-        "development",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
-    },
-    {
-      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
-      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
-      "published_at": "2026-03-24T14:53:30Z",
-      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
-      "tags": [
-        "ai",
-        "devops",
-        "devrel",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -528,21 +541,6 @@
       "user": "Leanne R"
     },
     {
-      "title": "I Put a Prompt Injection on My Resume",
-      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
-      "published_at": "2026-03-23T23:51:06Z",
-      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
-      "tags": [
-        "ai",
-        "career",
-        "security",
-        "promptinjection"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
-      "source": "Dev.to",
-      "user": "Fielding Johnston"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -686,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "SethGammon"
     },
     {
@@ -701,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 920,
       "user": "GAIR-NLP"
     },
     {
@@ -716,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 754,
       "user": "fastclaw-ai"
     },
     {
@@ -731,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "openilink"
     },
     {
@@ -746,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 222,
       "user": "tanviet12"
     }
   ],
@@ -1003,8 +1001,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "SethGammon"
+    },
+    {
+      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "url": "https://github.com/magnum6actual/flipoff",
+      "published_at": "2026-03-26T12:46:35Z",
+      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
+      "source": "GitHub",
+      "stars": 246,
+      "user": "magnum6actual"
     },
     {
       "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
@@ -1018,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "htimesnine"
     },
     {
@@ -1033,23 +1046,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266226598?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 200,
       "user": "npc-live"
-    },
-    {
-      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "url": "https://github.com/magnum6actual/flipoff",
-      "published_at": "2026-03-26T12:46:35Z",
-      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
-      "source": "GitHub",
-      "stars": 166,
-      "user": "magnum6actual"
     },
     {
       "title": "WhatDreamsCost/WhatDreamsCost-ComfyUI - A variety of custom ComfyUI nodes and workflows",
@@ -1063,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "WhatDreamsCost"
     }
   ],
@@ -1259,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1234,
       "user": "HKUDS"
     },
     {
@@ -1274,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1037,
       "user": "dou-jiang"
     },
     {
@@ -1289,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 920,
       "user": "GAIR-NLP"
     },
     {
@@ -1319,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "AAAAAAAJ"
     }
   ],
@@ -1368,21 +1366,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F073a3iy46a773q6c5dvh.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
-      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
-      "published_at": "2026-03-24T14:53:30Z",
-      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
-      "tags": [
-        "ai",
-        "devops",
-        "devrel",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     },
     {
       "title": "OpenClaw Setup, Configuration, and Key Takeaways",
@@ -1521,20 +1504,6 @@
   ],
   "Cloud": [
     {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
-    },
-    {
       "title": "Scaling ID Generation with Redis",
       "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
       "published_at": "2026-03-26T08:05:32Z",
@@ -1548,6 +1517,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
       "source": "Dev.to",
       "user": "Krishna Tej Chalamalasetty"
+    },
+    {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
     },
     {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
@@ -1636,7 +1619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1234,
       "user": "HKUDS"
     }
   ],
@@ -1775,21 +1758,6 @@
       "user": "Johan Sydseter"
     },
     {
-      "title": "I Put a Prompt Injection on My Resume",
-      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
-      "published_at": "2026-03-23T23:51:06Z",
-      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
-      "tags": [
-        "ai",
-        "career",
-        "security",
-        "promptinjection"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
-      "source": "Dev.to",
-      "user": "Fielding Johnston"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1804,20 +1772,6 @@
   ],
   "Tools": [
     {
-      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
-      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
-      "published_at": "2026-03-26T10:50:55Z",
-      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
-      "tags": [
-        "opensource",
-        "go",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
-      "source": "Dev.to",
-      "user": "Ali Raza"
-    },
-    {
       "title": "Speed vs smarts for coding agents?",
       "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
       "published_at": "2026-03-26T15:58:22Z",
@@ -1831,6 +1785,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
+      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
+      "published_at": "2026-03-26T10:50:55Z",
+      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
+      "tags": [
+        "opensource",
+        "go",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
+      "source": "Dev.to",
+      "user": "Ali Raza"
     },
     {
       "title": "Take your vibe coding to the next level",
@@ -1952,21 +1920,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "AI Writes Code. You Own Quality.",
-      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
-      "published_at": "2026-03-24T15:43:40Z",
-      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
-      "tags": [
-        "ai",
-        "software",
-        "development",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
-    },
-    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -1996,20 +1949,6 @@
       "user": "Brian Love"
     },
     {
-      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
-      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
-      "published_at": "2026-03-25T11:01:22Z",
-      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
-      "tags": [
-        "vibecoding",
-        "python",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
-      "source": "Dev.to",
-      "user": "Leanne R"
-    },
-    {
       "title": "What are your goals for the week? #171",
       "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-171-5232",
       "published_at": "2026-03-23T15:27:11Z",
@@ -2023,6 +1962,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nly92n428cqpuj1s0we.jpg",
       "source": "Dev.to",
       "user": "Chris Jarvis"
+    },
+    {
+      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
+      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
+      "published_at": "2026-03-25T11:01:22Z",
+      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
+      "tags": [
+        "vibecoding",
+        "python",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
+      "source": "Dev.to",
+      "user": "Leanne R"
     },
     {
       "title": "TypeScript deserved a real DDD framework - so I built one",
@@ -2051,8 +2004,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5523585?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "SethGammon"
+    },
+    {
+      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "url": "https://github.com/magnum6actual/flipoff",
+      "published_at": "2026-03-26T12:46:35Z",
+      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
+      "source": "GitHub",
+      "stars": 246,
+      "user": "magnum6actual"
     },
     {
       "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
@@ -2066,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "htimesnine"
     },
     {
@@ -2081,23 +2049,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266226598?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 200,
       "user": "npc-live"
-    },
-    {
-      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "url": "https://github.com/magnum6actual/flipoff",
-      "published_at": "2026-03-26T12:46:35Z",
-      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
-      "source": "GitHub",
-      "stars": 166,
-      "user": "magnum6actual"
     },
     {
       "title": "WhatDreamsCost/WhatDreamsCost-ComfyUI - A variety of custom ComfyUI nodes and workflows",
@@ -2111,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216600439?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "WhatDreamsCost"
     },
     {
@@ -2126,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1234,
       "user": "HKUDS"
     },
     {
@@ -2141,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1037,
       "user": "dou-jiang"
     },
     {
@@ -2156,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 920,
       "user": "GAIR-NLP"
     },
     {
@@ -2186,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "AAAAAAAJ"
     },
     {
@@ -2201,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 754,
       "user": "fastclaw-ai"
     },
     {
@@ -2231,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 347,
       "user": "samber"
     },
     {
@@ -2246,7 +2199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "openilink"
     },
     {
@@ -2261,7 +2214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 222,
       "user": "tanviet12"
     }
   ]
