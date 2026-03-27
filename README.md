@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-27 11:00 CAT)
+## 📅 Latest Updates (2026-03-27 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Take your vibe coding to the next level](https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea) _[Dev.to]_
 - [How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0) _[Dev.to]_
 
-_Last automated update: Fri, 27 Mar 2026 11:51:33 CAT_
+_Last automated update: Fri, 27 Mar 2026 12:43:21 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Mar 2026 11:51:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Mar 2026 09:51:33 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Mar 2026 10:43:21 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
