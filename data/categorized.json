@@ -75,21 +75,6 @@
       "user": "Ali Raza"
     },
     {
-      "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
-      "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
-      "published_at": "2026-03-26T14:57:20Z",
-      "description": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...",
-      "tags": [
-        "playwright",
-        "product",
-        "marketing",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
-      "source": "Dev.to",
-      "user": "Patrik Szewczyk"
-    },
-    {
       "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
       "url": "https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2",
       "published_at": "2026-03-26T21:49:41Z",
@@ -190,6 +175,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
       "source": "Dev.to",
       "user": "Yamashou"
+    },
+    {
+      "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
+      "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
+      "published_at": "2026-03-26T14:57:20Z",
+      "description": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...",
+      "tags": [
+        "playwright",
+        "product",
+        "marketing",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
+      "source": "Dev.to",
+      "user": "Patrik Szewczyk"
     },
     {
       "title": "The data engineer's Cortex Code cheat sheet",
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 984,
       "user": "GAIR-NLP"
     },
     {
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 820,
       "user": "fastclaw-ai"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "openilink"
     },
     {
@@ -1030,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 884,
       "user": "magnum6actual"
     },
     {
@@ -1045,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 438,
       "user": "NomaDamas"
     },
     {
@@ -1060,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 235,
       "user": "htimesnine"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1376,
+      "stars": 1381,
       "user": "HKUDS"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1105,
       "user": "dou-jiang"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 984,
       "user": "GAIR-NLP"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 468,
       "user": "jxnxts"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "AAAAAAAJ"
     }
   ],
@@ -1590,7 +1590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1376,
+      "stars": 1381,
       "user": "HKUDS"
     }
   ],
@@ -1743,21 +1743,6 @@
       "user": "Ali Raza"
     },
     {
-      "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
-      "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
-      "published_at": "2026-03-26T14:57:20Z",
-      "description": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...",
-      "tags": [
-        "playwright",
-        "product",
-        "marketing",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
-      "source": "Dev.to",
-      "user": "Patrik Szewczyk"
-    },
-    {
       "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
       "url": "https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2",
       "published_at": "2026-03-26T21:49:41Z",
@@ -1801,6 +1786,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
       "source": "Dev.to",
       "user": "Yamashou"
+    },
+    {
+      "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
+      "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
+      "published_at": "2026-03-26T14:57:20Z",
+      "description": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...",
+      "tags": [
+        "playwright",
+        "product",
+        "marketing",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
+      "source": "Dev.to",
+      "user": "Patrik Szewczyk"
     },
     {
       "title": "Take your vibe coding to the next level",
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 884,
       "user": "magnum6actual"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 438,
       "user": "NomaDamas"
     },
     {
@@ -1977,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 235,
       "user": "htimesnine"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1376,
+      "stars": 1381,
       "user": "HKUDS"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1105,
       "user": "dou-jiang"
     },
     {
@@ -2052,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 984,
       "user": "GAIR-NLP"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 468,
       "user": "jxnxts"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "AAAAAAAJ"
     },
     {
@@ -2097,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 820,
       "user": "fastclaw-ai"
     },
     {
@@ -2127,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "samber"
     },
     {
@@ -2142,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "openilink"
     },
     {
