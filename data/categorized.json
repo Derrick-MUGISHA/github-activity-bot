@@ -46,18 +46,19 @@
       "user": "marcosomma"
     },
     {
-      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
-      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
-      "published_at": "2026-03-26T10:50:55Z",
-      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
+      "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
+      "url": "https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0",
+      "published_at": "2026-03-27T04:13:12Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   I maintain a few open...",
       "tags": [
-        "opensource",
-        "go",
-        "webdev"
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8uz94x67y94e40c3ra0.png",
       "source": "Dev.to",
-      "user": "Ali Raza"
+      "user": "Souvik Biswas"
     },
     {
       "title": "The Future of Coding is Communication, Not Just Code",
@@ -118,6 +119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
       "source": "Dev.to",
       "user": "Yamashou"
+    },
+    {
+      "title": "AI Didn't Break Your Culture. It Exposed It.",
+      "url": "https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729",
+      "published_at": "2026-03-25T19:07:20Z",
+      "description": "An engineer pushes back on a decision. The response: \"ChatGPT recommended something else.\" The tell...",
+      "tags": [
+        "ai",
+        "webdev",
+        "leadership",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fblindy-trust.png",
+      "source": "Dev.to",
+      "user": "Jono Herrington"
     },
     {
       "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
@@ -221,19 +237,18 @@
       "user": "Katz Sakai"
     },
     {
-      "title": "AI Didn't Break Your Culture. It Exposed It.",
-      "url": "https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729",
-      "published_at": "2026-03-25T19:07:20Z",
-      "description": "An engineer pushes back on a decision. The response: \"ChatGPT recommended something else.\" The tell...",
+      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
+      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
+      "published_at": "2026-03-26T10:50:55Z",
+      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
       "tags": [
-        "ai",
-        "webdev",
-        "leadership",
-        "programming"
+        "opensource",
+        "go",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fblindy-trust.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
       "source": "Dev.to",
-      "user": "Jono Herrington"
+      "user": "Ali Raza"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -264,21 +279,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
       "source": "Dev.to",
       "user": "Ivan SZKIBA"
-    },
-    {
-      "title": "The Missing Link Between AI Agents and the Code They Modify",
-      "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
-      "published_at": "2026-03-25T12:07:47Z",
-      "description": "AI coding agents write code confidently, but they don't know why your code looks the way it does. DLD...",
-      "tags": [
-        "ai",
-        "claudecode",
-        "specdriven",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvupj0we5z1s5prn5dw4s.png",
-      "source": "Dev.to",
-      "user": "Jimmy Utterström"
     },
     {
       "title": "Benchmark oriented development is a road to nowhere",
@@ -363,6 +363,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
       "source": "Dev.to",
       "user": "Matt Cool"
+    },
+    {
+      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
+      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
+      "published_at": "2026-03-26T07:06:06Z",
+      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "devtool",
+        "runnerhchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
+      "source": "Dev.to",
+      "user": "Octavian"
     },
     {
       "title": "Stop babysitting your AI agent!",
@@ -555,6 +570,21 @@
       "user": "Helder Burato Berto"
     },
     {
+      "title": "I Put a Prompt Injection on My Resume",
+      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
+      "published_at": "2026-03-23T23:51:06Z",
+      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "tags": [
+        "ai",
+        "career",
+        "security",
+        "promptinjection"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "source": "Dev.to",
+      "user": "Fielding Johnston"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -698,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 994,
       "user": "GAIR-NLP"
     },
     {
@@ -713,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 460,
       "user": "oaker-io"
     },
     {
@@ -728,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 828,
       "user": "fastclaw-ai"
     },
     {
@@ -743,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 356,
       "user": "openilink"
     },
     {
@@ -1030,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 1009,
       "user": "magnum6actual"
     },
     {
@@ -1045,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 496,
       "user": "NomaDamas"
     },
     {
@@ -1060,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "htimesnine"
     },
     {
@@ -1271,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1403,
       "user": "HKUDS"
     },
     {
@@ -1286,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1118,
       "user": "dou-jiang"
     },
     {
@@ -1301,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 994,
       "user": "GAIR-NLP"
     },
     {
@@ -1316,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 569,
       "user": "jxnxts"
     },
     {
@@ -1331,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 460,
       "user": "oaker-io"
     }
   ],
@@ -1475,21 +1505,6 @@
   ],
   "Cloud": [
     {
-      "title": "Scaling ID Generation with Redis",
-      "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
-      "published_at": "2026-03-26T08:05:32Z",
-      "description": "It Started with a Simple Counter   I work on a cloud-based document management platform used...",
-      "tags": [
-        "java",
-        "redis",
-        "software",
-        "distributedsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
-      "source": "Dev.to",
-      "user": "Krishna Tej Chalamalasetty"
-    },
-    {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
       "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
       "published_at": "2026-03-26T13:53:03Z",
@@ -1532,6 +1547,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png",
       "source": "Dev.to",
       "user": "C.K.Sun"
+    },
+    {
+      "title": "Scaling ID Generation with Redis",
+      "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
+      "published_at": "2026-03-26T08:05:32Z",
+      "description": "It Started with a Simple Counter   I work on a cloud-based document management platform used...",
+      "tags": [
+        "java",
+        "redis",
+        "software",
+        "distributedsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
+      "source": "Dev.to",
+      "user": "Krishna Tej Chalamalasetty"
     },
     {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
@@ -1590,7 +1620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1403,
       "user": "HKUDS"
     }
   ],
@@ -1700,6 +1730,21 @@
       "user": "Ustun Ozgur"
     },
     {
+      "title": "I Put a Prompt Injection on My Resume",
+      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
+      "published_at": "2026-03-23T23:51:06Z",
+      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "tags": [
+        "ai",
+        "career",
+        "security",
+        "promptinjection"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "source": "Dev.to",
+      "user": "Fielding Johnston"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1727,20 +1772,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
-      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
-      "published_at": "2026-03-26T10:50:55Z",
-      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
-      "tags": [
-        "opensource",
-        "go",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
-      "source": "Dev.to",
-      "user": "Ali Raza"
     },
     {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
@@ -1802,6 +1833,20 @@
       "user": "Martin Omander"
     },
     {
+      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
+      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
+      "published_at": "2026-03-26T10:50:55Z",
+      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
+      "tags": [
+        "opensource",
+        "go",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
+      "source": "Dev.to",
+      "user": "Ali Raza"
+    },
+    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -1830,6 +1875,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhg1xnxjl53vjq1nx0674.webp",
       "source": "Dev.to",
       "user": "M Yauri M Attamimi"
+    },
+    {
+      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
+      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
+      "published_at": "2026-03-26T07:06:06Z",
+      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "devtool",
+        "runnerhchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
+      "source": "Dev.to",
+      "user": "Octavian"
     },
     {
       "title": "Stop babysitting your AI agent!",
@@ -1932,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 1009,
       "user": "magnum6actual"
     },
     {
@@ -1947,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 496,
       "user": "NomaDamas"
     },
     {
@@ -1962,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "htimesnine"
     },
     {
@@ -2007,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1403,
       "user": "HKUDS"
     },
     {
@@ -2022,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1118,
       "user": "dou-jiang"
     },
     {
@@ -2037,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 994,
       "user": "GAIR-NLP"
     },
     {
@@ -2052,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 569,
       "user": "jxnxts"
     },
     {
@@ -2067,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 460,
       "user": "oaker-io"
     },
     {
@@ -2082,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 828,
       "user": "fastclaw-ai"
     },
     {
@@ -2112,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "samber"
     },
     {
@@ -2127,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 356,
       "user": "openilink"
     },
     {
