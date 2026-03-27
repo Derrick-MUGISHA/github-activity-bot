@@ -15,24 +15,24 @@
     "Cloud": 12,
     "Database": 3,
     "Security": 4,
-    "Tools": 28
+    "Tools": 27
   },
   "by_language": {
     "Rust": 2,
     "JavaScript": 23,
     "Java": 20,
     "Python": 20,
-    "Go": 21,
+    "Go": 20,
     "Ruby": 1,
     "CSharp": 1,
     "Swift": 1
   },
   "by_date": {
-    "2026-03-27": 5,
+    "2026-03-27": 7,
     "2026-03-26": 27,
-    "2026-03-25": 15,
+    "2026-03-25": 14,
     "2026-03-24": 6,
-    "2026-03-23": 6,
+    "2026-03-23": 5,
     "2026-03-22": 6,
     "2026-03-17": 3,
     "2026-03-18": 1,
@@ -69,7 +69,7 @@
     "2026-03-21": 5
   },
   "top_tags": {
-    "ai": 26,
+    "ai": 25,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -83,20 +83,20 @@
     "opensource": 6,
     "go": 6,
     "webdev": 6,
-    "productivity": 5,
-    "career": 5,
+    "programming": 5,
+    "productivity": 4,
     "mcp": 4,
     "tutorial": 4,
     "vibecoding": 4,
-    "programming": 4
+    "career": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Rust": "2.2",
-    "JavaScript": "25.8",
-    "Java": "22.5",
-    "Python": "22.5",
-    "Go": "23.6",
+    "Rust": "2.3",
+    "JavaScript": "26.1",
+    "Java": "22.7",
+    "Python": "22.7",
+    "Go": "22.7",
     "Ruby": "1.1",
     "CSharp": "1.1",
     "Swift": "1.1"
