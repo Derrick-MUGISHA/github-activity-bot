@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-27 8:00 CAT)
+## 📅 Latest Updates (2026-03-27 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib) _[Dev.to]_
 - [Take your vibe coding to the next level](https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea) _[Dev.to]_
 
-_Last automated update: Fri, 27 Mar 2026 08:44:21 CAT_
+_Last automated update: Fri, 27 Mar 2026 09:46:48 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Mar 2026 08:44:21 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. React: How would you optimize a React app's performance?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Mar 2026 06:44:21 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Mar 2026 07:46:48 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
