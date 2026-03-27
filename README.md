@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Cloud**: 🟦🟦🟦 8 (7.6%)
+**Cloud**: 🟦🟦🟦 10 (9.5%)
 
 **WebDev**: 🟦🟦 6 (5.7%)
 
+**DevOps**: 🟦 4 (3.8%)
+
 **Security**: 🟦 4 (3.8%)
 
-**Database**: 🟦 3 (2.9%)
-
-**DevOps**: 🟦 2 (1.9%)
-
 **Mobile**: 🟦 2 (1.9%)
+
+**Database**: 🟦 2 (1.9%)
 
 
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.1 (26.1%)
-Go              ███████████████████████████ 23.9 (23.9%)
-Java            ██████████████████████████ 22.8 (22.8%)
-Python          ███████████████████████ 19.6 (19.6%)
-Rust            ████ 3.3 (3.3%)
+Go              ██████████████████████████████ 26.1 (26.1%)
+JavaScript      █████████████████████████████ 25.0 (25.0%)
+Python          █████████████████████████ 21.7 (21.7%)
+Java            ████████████████████████ 20.7 (20.7%)
+Rust            ███ 2.2 (2.2%)
 Swift           ███ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 CSharp          █ 1.1 (1.1%)
@@ -73,11 +73,11 @@ CSharp          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Go" : 22
-    "Java" : 21
-    "Python" : 18
-    "Rust" : 3
+    "Go" : 24
+    "JavaScript" : 23
+    "Python" : 20
+    "Java" : 19
+    "Rust" : 2
     "Swift" : 2
     "Ruby" : 1
     "CSharp" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-27 20:00 CAT)
+## 📅 Latest Updates (2026-03-27 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -135,10 +135,10 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png" width="200" alt="Speed vs smarts for coding agents?" />
+    <a href="https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr9h7gujl2nf3k6bv2t4r.png" width="200" alt="I'm so sick of my editor telling me how great I am. Not that I'm not great." />
       <br/>
-      <b>Speed vs smarts for coding agents?</b>
+      <b>I'm so sick of my editor telling me how great I am...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -153,10 +153,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr9h7gujl2nf3k6bv2t4r.png" width="200" alt="I'm so sick of my editor telling me how great I am. Not that I'm not great." />
+    <a href="https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png" width="200" alt="Speed vs smarts for coding agents?" />
       <br/>
-      <b>I'm so sick of my editor telling me how great I am...</b>
+      <b>Speed vs smarts for coding agents?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,28 +197,28 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
-- [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
+- [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m) _[Dev.to]_
+- [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
 - [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
 - [The Future of Coding is Communication, Not Just Code](https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p) _[Dev.to]_
 - [Ghost Maintainer — An AI Junior Partner for Open Source](https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0) _[Dev.to]_
+- [This is Cloud Run: Configuration](https://dev.to/gde/this-is-cloud-run-configuration-2gi2) _[Dev.to]_
 - [Build real-time conversational agents with Gemini 3.1 Flash Live](https://dev.to/googleai/build-real-time-conversational-agents-with-gemini-31-flash-live-27f6) _[Dev.to]_
 - [Check Up with Each Other](https://dev.to/francistrdev/check-up-with-each-other-2ogc) _[Dev.to]_
 - [Building a Error Library](https://dev.to/fafhrd91/building-a-error-library-3kda) _[Dev.to]_
+- [AI Writes Daily Without My Involvement](https://dev.to/maksugr/ai-writes-daily-without-my-involvement-4jfc) _[Dev.to]_
 - [rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib) _[Dev.to]_
+- [Cross Cloud ADK with Python, and the Azure App Service](https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47) _[Dev.to]_
+- [MCP Development with Python, and Azure Container Apps](https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f) _[Dev.to]_
+- [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
 - [AI Didn't Break Your Culture. It Exposed It.](https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729) _[Dev.to]_
 - [I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.](https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od) _[Dev.to]_
 - [The data engineer's Cortex Code cheat sheet](https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60) _[Dev.to]_
+- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi) _[Dev.to]_
 - [Scaling your productivity with spec docs in your IDE - Anti Gravity.](https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2) _[Dev.to]_
-- [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
-- [Take your vibe coding to the next level](https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea) _[Dev.to]_
-- [How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0) _[Dev.to]_
-- [Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness](https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic) _[Dev.to]_
-- [Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)](https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61) _[Dev.to]_
-- [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39) _[Dev.to]_
 
-_Last automated update: Fri, 27 Mar 2026 20:35:37 CAT_
+_Last automated update: Fri, 27 Mar 2026 21:28:44 CAT_
 
 
 
@@ -226,29 +226,18 @@ _Last automated update: Fri, 27 Mar 2026 20:35:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: functions, scope
-
-<details>
-<summary>💡 Hint</summary>
-
-Function + lexical environment, data privacy, callbacks
-
-</details>
-
-### 2. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 2. Database: What is database normalization and denormalization?
 
 **Difficulty**: Medium | **Topics**: design, optimization
 
@@ -256,6 +245,17 @@ Multiple inheritance, method implementation, use cases
 <summary>💡 Hint</summary>
 
 Normal forms, redundancy, performance trade-offs
+
+</details>
+
+### 3. Java: Explain the Java memory model
+
+**Difficulty**: Hard | **Topics**: memory, JVM
+
+<details>
+<summary>💡 Hint</summary>
+
+Heap, stack, garbage collection
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Mar 2026 18:35:37 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Mar 2026 19:28:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

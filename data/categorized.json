@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Speed vs smarts for coding agents?",
-      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
-      "published_at": "2026-03-26T15:58:22Z",
-      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
+    },
+    {
+      "title": "Speed vs smarts for coding agents?",
+      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
+      "published_at": "2026-03-26T15:58:22Z",
+      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
+      "tags": [
+        "agents",
+        "ai",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "your agent can think. it can't remember.",
@@ -91,6 +91,21 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
+      "title": "AI Writes Daily Without My Involvement",
+      "url": "https://dev.to/maksugr/ai-writes-daily-without-my-involvement-4jfc",
+      "published_at": "2026-03-26T17:37:00Z",
+      "description": "A naive dive into a multi-agent system with self-critique, diversity-aware curation, and weekly self-reflection to cover local cultural events",
+      "tags": [
+        "ai",
+        "claude",
+        "llm",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frej4lmcd8b0vy2b1niqi.png",
+      "source": "Dev.to",
+      "user": "Roman Ponomarev"
+    },
+    {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
       "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
       "published_at": "2026-03-26T05:12:54Z",
@@ -104,6 +119,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
       "source": "Dev.to",
       "user": "Yamashou"
+    },
+    {
+      "title": "Cross Cloud ADK with Python, and the Azure App Service",
+      "url": "https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47",
+      "published_at": "2026-03-25T18:48:13Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "python",
+        "azure",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ebih1lknlxfgs4tztwl.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "MCP Development with Python, and Azure Container Apps",
+      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f",
+      "published_at": "2026-03-25T18:47:10Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "gemini",
+        "aca",
+        "mcpserver",
+        "googlecloudplatform"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnnebxte1ey48ieexl15z.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
+      "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
+      "published_at": "2026-03-27T05:33:50Z",
+      "description": "Think about it. Your AI agent refactors code across 12 files, makes architectural decisions, tries...",
+      "tags": [
+        "anthropic",
+        "ai",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t3qjjyfhed329lyu81b.jpg",
+      "source": "Dev.to",
+      "user": "rpostulart"
     },
     {
       "title": "AI Didn't Break Your Culture. It Exposed It.",
@@ -151,6 +211,21 @@
       "user": "Daniel Myers"
     },
     {
+      "title": "Vibe Coding Needs Telemetry",
+      "url": "https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi",
+      "published_at": "2026-03-26T20:00:19Z",
+      "description": "AI can generate endpoints quickly, but telemetry reveals what your system is actually doing. A real-world look at the N+1 query problem.",
+      "tags": [
+        "backend",
+        "ai",
+        "observability",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aquilabdullah.com%2Fimages%2F876.jpg",
+      "source": "Dev.to",
+      "user": "Aquil Abdullah"
+    },
+    {
       "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
       "url": "https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2",
       "published_at": "2026-03-26T21:49:41Z",
@@ -177,6 +252,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
       "source": "Dev.to",
       "user": "Scarlett Attensil"
+    },
+    {
+      "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e",
+      "published_at": "2026-03-26T19:33:51Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googlecloudplatform",
+        "gemini",
+        "aws",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma-SRE: Self-Hosted vLLM Infrastructure Agent",
+      "url": "https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam",
+      "published_at": "2026-03-26T19:33:26Z",
+      "description": "Gemma-SRE is a high-performance, private DevOps and Site Reliability Engineering (SRE) assistant...",
+      "tags": [
+        "gemma",
+        "mcpserver",
+        "tpusprint",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymh2fgsbh945a2vc95vc.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Take your vibe coding to the next level",
@@ -264,50 +369,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
       "source": "Dev.to",
       "user": "Taiwrash"
-    },
-    {
-      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
-      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
-      "published_at": "2026-03-23T18:05:03Z",
-      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "makerchecker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
-      "source": "Dev.to",
-      "user": "Ivan SZKIBA"
-    },
-    {
-      "title": "Benchmark oriented development is a road to nowhere",
-      "url": "https://dev.to/dmtrkovalenko/benchmark-oriented-development-is-a-road-to-nowhere-1518",
-      "published_at": "2026-03-25T22:33:40Z",
-      "description": "Cursor just released this article and a ton of people started worshiping Cursor like they just made a...",
-      "tags": [
-        "cursor",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmykz7zu5q7yhxjddese.png",
-      "source": "Dev.to",
-      "user": "Dmitriy Kovalenko"
-    },
-    {
-      "title": "Implementing a RAG system: Crawl",
-      "url": "https://dev.to/gde/implementing-a-rag-system-crawl-5li",
-      "published_at": "2026-03-24T18:00:00Z",
-      "description": "I'm starting a \"Crawl, walk, run\" series of posts on various topics and decided to start with...",
-      "tags": [
-        "rag",
-        "genai",
-        "opensource",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felo7b8moqchuv6rc9ijs.png",
-      "source": "Dev.to",
-      "user": "Glen Yu"
     },
     {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
@@ -728,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1005,
+      "stars": 1006,
       "user": "GAIR-NLP"
     },
     {
@@ -743,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 516,
       "user": "oaker-io"
     },
     {
@@ -773,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 443,
       "user": "DingTalk-Real-AI"
     },
     {
@@ -837,21 +898,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
       "source": "Dev.to",
       "user": "Saroj Poddar"
-    },
-    {
-      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-      "published_at": "2026-03-23T05:48:13Z",
-      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
-      "source": "Dev.to",
-      "user": "Satish Gowda"
     },
     {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
@@ -1060,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1176,
       "user": "magnum6actual"
     },
     {
@@ -1125,6 +1171,36 @@
     }
   ],
   "Python": [
+    {
+      "title": "Cross Cloud ADK with Python, and the Azure App Service",
+      "url": "https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47",
+      "published_at": "2026-03-25T18:48:13Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "python",
+        "azure",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ebih1lknlxfgs4tztwl.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "MCP Development with Python, and Azure Container Apps",
+      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f",
+      "published_at": "2026-03-25T18:47:10Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "gemini",
+        "aca",
+        "mcpserver",
+        "googlecloudplatform"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnnebxte1ey48ieexl15z.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
@@ -1301,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1430,
+      "stars": 1436,
       "user": "HKUDS"
     },
     {
@@ -1316,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1135,
       "user": "dou-jiang"
     },
     {
@@ -1331,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1005,
+      "stars": 1006,
       "user": "GAIR-NLP"
     },
     {
@@ -1346,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 676,
       "user": "jxnxts"
     },
     {
@@ -1361,11 +1437,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 516,
       "user": "oaker-io"
     }
   ],
   "DevOps": [
+    {
+      "title": "This is Cloud Run: Configuration",
+      "url": "https://dev.to/gde/this-is-cloud-run-configuration-2gi2",
+      "published_at": "2026-03-27T10:23:13Z",
+      "description": "This is Part 3 of the \"This is Cloud Run\" series. In Part 1, we covered what Cloud Run is and when to...",
+      "tags": [
+        "devops",
+        "gcp",
+        "cloudrun",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yaui3lqdt41txv91un1.png",
+      "source": "Dev.to",
+      "user": "Daniel Gwerzman"
+    },
+    {
+      "title": "Gemma-SRE: Self-Hosted vLLM Infrastructure Agent",
+      "url": "https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam",
+      "published_at": "2026-03-26T19:33:26Z",
+      "description": "Gemma-SRE is a high-performance, private DevOps and Site Reliability Engineering (SRE) assistant...",
+      "tags": [
+        "gemma",
+        "mcpserver",
+        "tpusprint",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymh2fgsbh945a2vc95vc.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
       "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
@@ -1399,6 +1505,21 @@
   ],
   "WebDev": [
     {
+      "title": "Vibe Coding Needs Telemetry",
+      "url": "https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi",
+      "published_at": "2026-03-26T20:00:19Z",
+      "description": "AI can generate endpoints quickly, but telemetry reveals what your system is actually doing. A real-world look at the N+1 query problem.",
+      "tags": [
+        "backend",
+        "ai",
+        "observability",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aquilabdullah.com%2Fimages%2F876.jpg",
+      "source": "Dev.to",
+      "user": "Aquil Abdullah"
+    },
+    {
       "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
       "url": "https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0",
       "published_at": "2026-03-26T09:03:53Z",
@@ -1412,21 +1533,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
       "source": "Dev.to",
       "user": "Saroj Poddar"
-    },
-    {
-      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-      "published_at": "2026-03-23T05:48:13Z",
-      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
-      "source": "Dev.to",
-      "user": "Satish Gowda"
     },
     {
       "title": "How I Personally Grasp the Essence of Concurrency in Go",
@@ -1514,11 +1620,71 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 443,
       "user": "DingTalk-Real-AI"
     }
   ],
   "Cloud": [
+    {
+      "title": "This is Cloud Run: Configuration",
+      "url": "https://dev.to/gde/this-is-cloud-run-configuration-2gi2",
+      "published_at": "2026-03-27T10:23:13Z",
+      "description": "This is Part 3 of the \"This is Cloud Run\" series. In Part 1, we covered what Cloud Run is and when to...",
+      "tags": [
+        "devops",
+        "gcp",
+        "cloudrun",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yaui3lqdt41txv91un1.png",
+      "source": "Dev.to",
+      "user": "Daniel Gwerzman"
+    },
+    {
+      "title": "Cross Cloud ADK with Python, and the Azure App Service",
+      "url": "https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47",
+      "published_at": "2026-03-25T18:48:13Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "python",
+        "azure",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ebih1lknlxfgs4tztwl.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "MCP Development with Python, and Azure Container Apps",
+      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f",
+      "published_at": "2026-03-25T18:47:10Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "gemini",
+        "aca",
+        "mcpserver",
+        "googlecloudplatform"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnnebxte1ey48ieexl15z.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e",
+      "published_at": "2026-03-26T19:33:51Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googlecloudplatform",
+        "gemini",
+        "aws",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Take your vibe coding to the next level",
       "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
@@ -1532,36 +1698,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
       "source": "Dev.to",
       "user": "Martin Omander"
-    },
-    {
-      "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
-      "url": "https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b",
-      "published_at": "2026-03-22T22:31:46Z",
-      "description": "We wanted every employee in the company to use OpenClaw — not just engineers. Product managers...",
-      "tags": [
-        "opensource",
-        "openclaw",
-        "aws",
-        "cdk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png",
-      "source": "Dev.to",
-      "user": "C.K.Sun"
-    },
-    {
-      "title": "Scaling ID Generation with Redis",
-      "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
-      "published_at": "2026-03-26T08:05:32Z",
-      "description": "It Started with a Simple Counter   I work on a cloud-based document management platform used...",
-      "tags": [
-        "java",
-        "redis",
-        "software",
-        "distributedsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
-      "source": "Dev.to",
-      "user": "Krishna Tej Chalamalasetty"
     },
     {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
@@ -1635,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1430,
+      "stars": 1436,
       "user": "HKUDS"
     }
   ],
@@ -1654,21 +1790,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
       "source": "Dev.to",
       "user": "ghost"
-    },
-    {
-      "title": "Scaling ID Generation with Redis",
-      "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
-      "published_at": "2026-03-26T08:05:32Z",
-      "description": "It Started with a Simple Counter   I work on a cloud-based document management platform used...",
-      "tags": [
-        "java",
-        "redis",
-        "software",
-        "distributedsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
-      "source": "Dev.to",
-      "user": "Krishna Tej Chalamalasetty"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1744,21 +1865,6 @@
   ],
   "Tools": [
     {
-      "title": "Speed vs smarts for coding agents?",
-      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
-      "published_at": "2026-03-26T15:58:22Z",
-      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -1774,6 +1880,21 @@
       "user": "Jessica Temporal"
     },
     {
+      "title": "Speed vs smarts for coding agents?",
+      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
+      "published_at": "2026-03-26T15:58:22Z",
+      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
+      "tags": [
+        "agents",
+        "ai",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
       "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
       "published_at": "2026-03-26T05:12:54Z",
@@ -1787,6 +1908,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
       "source": "Dev.to",
       "user": "Yamashou"
+    },
+    {
+      "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
+      "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
+      "published_at": "2026-03-27T05:33:50Z",
+      "description": "Think about it. Your AI agent refactors code across 12 files, makes architectural decisions, tries...",
+      "tags": [
+        "anthropic",
+        "ai",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t3qjjyfhed329lyu81b.jpg",
+      "source": "Dev.to",
+      "user": "rpostulart"
     },
     {
       "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
@@ -1845,21 +1981,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
       "source": "Dev.to",
       "user": "Ali Raza"
-    },
-    {
-      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
-      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
-      "published_at": "2026-03-23T18:05:03Z",
-      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "makerchecker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
-      "source": "Dev.to",
-      "user": "Ivan SZKIBA"
     },
     {
       "title": "How I Personally Grasp the Essence of Concurrency in Go",
@@ -1977,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1176,
       "user": "magnum6actual"
     },
     {
@@ -2052,7 +2173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1430,
+      "stars": 1436,
       "user": "HKUDS"
     },
     {
@@ -2067,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1135,
       "user": "dou-jiang"
     },
     {
@@ -2082,7 +2203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1005,
+      "stars": 1006,
       "user": "GAIR-NLP"
     },
     {
@@ -2097,7 +2218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 676,
       "user": "jxnxts"
     },
     {
@@ -2112,7 +2233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 516,
       "user": "oaker-io"
     },
     {
@@ -2129,6 +2250,21 @@
       "source": "GitHub",
       "stars": 831,
       "user": "fastclaw-ai"
+    },
+    {
+      "title": "DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
+      "published_at": "2026-03-21T03:51:00Z",
+      "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
+      "source": "GitHub",
+      "stars": 443,
+      "user": "DingTalk-Real-AI"
     },
     {
       "title": "xiaolajiaoyyds/regplatformm - 样板演示请查看～ 不提供技术指导，自己研究，代码无删减",
@@ -2157,23 +2293,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 410,
       "user": "samber"
-    },
-    {
-      "title": "DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-      "published_at": "2026-03-21T03:51:00Z",
-      "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
-      "source": "GitHub",
-      "stars": 409,
-      "user": "DingTalk-Real-AI"
     },
     {
       "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
