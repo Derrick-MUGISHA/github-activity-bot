@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-27 22:00 CAT)
+## 📅 Latest Updates (2026-03-27 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
 - [Gemma-SRE: Self-Hosted vLLM Infrastructure Agent](https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam) _[Dev.to]_
 
-_Last automated update: Fri, 27 Mar 2026 22:55:08 CAT_
+_Last automated update: Fri, 27 Mar 2026 23:31:08 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Mar 2026 22:55:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Mar 2026 20:55:08 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Mar 2026 21:31:08 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
