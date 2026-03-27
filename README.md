@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-27 23:00 CAT)
+## 📅 Latest Updates (2026-03-28 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
 - [Gemma-SRE: Self-Hosted vLLM Infrastructure Agent](https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam) _[Dev.to]_
 
-_Last automated update: Fri, 27 Mar 2026 23:31:08 CAT_
+_Last automated update: Sat, 28 Mar 2026 00:01:23 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Mar 2026 23:31:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Mutability, performance, use cases
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Mar 2026 21:31:08 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Mar 2026 22:01:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
