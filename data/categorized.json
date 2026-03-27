@@ -31,21 +31,6 @@
       "user": "ghost"
     },
     {
-      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
-      "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
-      "published_at": "2026-03-26T11:42:27Z",
-      "description": "There is a special genre of AI idea that sounds brilliant right up until you try to build it. It...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
       "url": "https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0",
       "published_at": "2026-03-27T04:13:12Z",
@@ -251,6 +236,21 @@
       "user": "Ali Raza"
     },
     {
+      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
+      "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
+      "published_at": "2026-03-26T11:42:27Z",
+      "description": "There is a special genre of AI idea that sounds brilliant right up until you try to build it. It...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
       "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
       "published_at": "2026-03-23T23:19:39Z",
@@ -365,21 +365,6 @@
       "user": "Matt Cool"
     },
     {
-      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
-      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
-      "published_at": "2026-03-26T07:06:06Z",
-      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
-      "tags": [
-        "ai",
-        "agentskills",
-        "devtool",
-        "runnerhchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
-      "source": "Dev.to",
-      "user": "Octavian"
-    },
-    {
       "title": "Stop babysitting your AI agent!",
       "url": "https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8",
       "published_at": "2026-03-25T15:24:58Z",
@@ -393,6 +378,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
       "source": "Dev.to",
       "user": "Razvan"
+    },
+    {
+      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
+      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
+      "published_at": "2026-03-26T07:06:06Z",
+      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "devtool",
+        "runnerhchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
+      "source": "Dev.to",
+      "user": "Octavian"
     },
     {
       "title": "Small Prompt Tweaks That Saved Me Hours",
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 995,
       "user": "GAIR-NLP"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 475,
       "user": "oaker-io"
     },
     {
@@ -758,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 830,
       "user": "fastclaw-ai"
     },
     {
@@ -773,23 +773,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 368,
       "user": "openilink"
     },
     {
-      "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
-      "url": "https://github.com/tanviet12/chat-quality-agent",
-      "published_at": "2026-03-23T16:04:28Z",
-      "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
+      "title": "DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
+      "published_at": "2026-03-21T03:51:00Z",
+      "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 237,
-      "user": "tanviet12"
+      "stars": 261,
+      "user": "DingTalk-Real-AI"
     }
   ],
   "JavaScript": [
@@ -1060,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1047,
       "user": "magnum6actual"
     },
     {
@@ -1075,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 500,
       "user": "NomaDamas"
     },
     {
@@ -1090,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 247,
       "user": "htimesnine"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1415,
       "user": "HKUDS"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1123,
       "user": "dou-jiang"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 995,
       "user": "GAIR-NLP"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 594,
       "user": "jxnxts"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 475,
       "user": "oaker-io"
     }
   ],
@@ -1501,6 +1501,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
       "source": "Dev.to",
       "user": "Henrique Sasaki Yuya"
+    },
+    {
+      "title": "DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
+      "published_at": "2026-03-21T03:51:00Z",
+      "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
+      "source": "GitHub",
+      "stars": 261,
+      "user": "DingTalk-Real-AI"
     }
   ],
   "Cloud": [
@@ -1620,7 +1635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1415,
       "user": "HKUDS"
     }
   ],
@@ -1877,21 +1892,6 @@
       "user": "M Yauri M Attamimi"
     },
     {
-      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
-      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
-      "published_at": "2026-03-26T07:06:06Z",
-      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
-      "tags": [
-        "ai",
-        "agentskills",
-        "devtool",
-        "runnerhchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
-      "source": "Dev.to",
-      "user": "Octavian"
-    },
-    {
       "title": "Stop babysitting your AI agent!",
       "url": "https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8",
       "published_at": "2026-03-25T15:24:58Z",
@@ -1905,6 +1905,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
       "source": "Dev.to",
       "user": "Razvan"
+    },
+    {
+      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
+      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
+      "published_at": "2026-03-26T07:06:06Z",
+      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "devtool",
+        "runnerhchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
+      "source": "Dev.to",
+      "user": "Octavian"
     },
     {
       "title": "Small Prompt Tweaks That Saved Me Hours",
@@ -1992,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1047,
       "user": "magnum6actual"
     },
     {
@@ -2007,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 500,
       "user": "NomaDamas"
     },
     {
@@ -2022,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 247,
       "user": "htimesnine"
     },
     {
@@ -2067,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1415,
       "user": "HKUDS"
     },
     {
@@ -2082,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1123,
       "user": "dou-jiang"
     },
     {
@@ -2097,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 995,
       "user": "GAIR-NLP"
     },
     {
@@ -2112,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 594,
       "user": "jxnxts"
     },
     {
@@ -2127,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 475,
       "user": "oaker-io"
     },
     {
@@ -2142,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 830,
       "user": "fastclaw-ai"
     },
     {
@@ -2172,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 402,
       "user": "samber"
     },
     {
@@ -2187,23 +2202,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 368,
       "user": "openilink"
     },
     {
-      "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
-      "url": "https://github.com/tanviet12/chat-quality-agent",
-      "published_at": "2026-03-23T16:04:28Z",
-      "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
+      "title": "DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
+      "published_at": "2026-03-21T03:51:00Z",
+      "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 237,
-      "user": "tanviet12"
+      "stars": 261,
+      "user": "DingTalk-Real-AI"
     }
   ]
 }

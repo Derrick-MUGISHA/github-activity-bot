@@ -999456,3 +999456,817 @@ Permission fatigue is real. You approve so many legitimate actions that the one 
 
 ---
 
+
+
+## 📰 DevTech News — 2026-03-27 17:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (56 articles)
+
+#### 1. [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h)
+📅 Thu, 26 Mar 2026 15:58:22 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Speed vs smarts for coding agents?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png)
+
+I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...
+
+🏷️ Tags: `agents`, `ai`, `productivity`, `discuss`
+
+---
+
+#### 2. [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o)
+📅 Wed, 25 Mar 2026 15:01:56 GMT
+👤 By: ghost | 📌 Source: Dev.to
+
+![your agent can think. it can't remember.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png)
+
+TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...
+
+🏷️ Tags: `ai`, `mcp`, `postgres`, `agents`
+
+---
+
+#### 3. [Ghost Maintainer — An AI Junior Partner for Open Source](https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0)
+📅 Fri, 27 Mar 2026 04:13:12 GMT
+👤 By: Souvik Biswas | 📌 Source: Dev.to
+
+![Ghost Maintainer — An AI Junior Partner for Open Source](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8uz94x67y94e40c3ra0.png)
+
+This is a submission for the Notion MCP Challenge           What I Built   I maintain a few open...
+
+🏷️ Tags: `devchallenge`, `notionchallenge`, `mcp`, `ai`
+
+---
+
+#### 4. [The Future of Coding is Communication, Not Just Code](https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p)
+📅 Thu, 26 Mar 2026 14:31:00 GMT
+👤 By: Carla Urrea Stabile | 📌 Source: Dev.to
+
+![The Future of Coding is Communication, Not Just Code](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png)
+
+We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...
+
+🏷️ Tags: `ai`, `mcp`, `security`, `vibecoding`
+
+---
+
+#### 5. [Build real-time conversational agents with Gemini 3.1 Flash Live](https://dev.to/googleai/build-real-time-conversational-agents-with-gemini-31-flash-live-27f6)
+📅 Thu, 26 Mar 2026 15:25:51 GMT
+👤 By: Thor 雷神 Schaeff | 📌 Source: Dev.to
+
+![Build real-time conversational agents with Gemini 3.1 Flash Live](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn70novhybyaxqxnxt5l4.png)
+
+Today, we’re launching Gemini 3.1 Flash Live via the Gemini Live API in Google AI Studio. Gemini 3.1...
+
+🏷️ Tags: `ai`, `gemini`, `voice`, `multimodal`
+
+---
+
+#### 6. [Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0)
+📅 Thu, 26 Mar 2026 13:53:03 GMT
+👤 By: Nikoloz Turazashvili (@axrisi) | 📌 Source: Dev.to
+
+![Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png)
+
+A 4-node highly available cluster with distributed storage, software-defined networking, and...
+
+🏷️ Tags: `linux`, `devops`, `cloud`, `tutorial`
+
+---
+
+#### 7. [rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib)
+📅 Thu, 26 Mar 2026 05:12:54 GMT
+👤 By: Yamashou | 📌 Source: Dev.to
+
+![rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png)
+
+`rgql` is a CLI tool that renames GraphQL types, fields, and fragments across schema files and embedded TypeScript queries using full AST analysis. Because it's type-safe and deterministic, it's ideal for AI coding agents like Claude Code and Codex — they can invoke a single command instead of performing fragile find-and-replace across dozens of files.
+
+🏷️ Tags: `graphql`, `ast`, `ts`, `javascript`
+
+---
+
+#### 8. [AI Didn't Break Your Culture. It Exposed It.](https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729)
+📅 Wed, 25 Mar 2026 19:07:20 GMT
+👤 By: Jono Herrington | 📌 Source: Dev.to
+
+![AI Didn't Break Your Culture. It Exposed It.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fblindy-trust.png)
+
+An engineer pushes back on a decision. The response: "ChatGPT recommended something else." The tell...
+
+🏷️ Tags: `ai`, `webdev`, `leadership`, `programming`
+
+---
+
+#### 9. [I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.](https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od)
+📅 Thu, 26 Mar 2026 14:57:20 GMT
+👤 By: Patrik Szewczyk | 📌 Source: Dev.to
+
+![I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png)
+
+I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...
+
+🏷️ Tags: `playwright`, `product`, `marketing`, `ai`
+
+---
+
+#### 10. [The data engineer's Cortex Code cheat sheet](https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60)
+📅 Thu, 26 Mar 2026 18:06:57 GMT
+👤 By: Daniel Myers | 📌 Source: Dev.to
+
+![The data engineer's Cortex Code cheat sheet](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png)
+
+A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...
+
+🏷️ Tags: `cortexcode`, `snowflake`, `ai`, `dataengineering`
+
+---
+
+### 🏷️ JavaScript (24 articles)
+
+#### 1. [Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0)
+📅 Thu, 26 Mar 2026 13:53:03 GMT
+👤 By: Nikoloz Turazashvili (@axrisi) | 📌 Source: Dev.to
+
+![Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png)
+
+A 4-node highly available cluster with distributed storage, software-defined networking, and...
+
+🏷️ Tags: `linux`, `devops`, `cloud`, `tutorial`
+
+---
+
+#### 2. [I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch](https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f)
+📅 Thu, 26 Mar 2026 06:14:01 GMT
+👤 By: Habib Jutt | 📌 Source: Dev.to
+
+![I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png)
+
+Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...
+
+🏷️ Tags: `opensource`, `nextjs`, `react`, `typescript`
+
+---
+
+#### 3. [rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib)
+📅 Thu, 26 Mar 2026 05:12:54 GMT
+👤 By: Yamashou | 📌 Source: Dev.to
+
+![rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png)
+
+`rgql` is a CLI tool that renames GraphQL types, fields, and fragments across schema files and embedded TypeScript queries using full AST analysis. Because it's type-safe and deterministic, it's ideal for AI coding agents like Claude Code and Codex — they can invoke a single command instead of performing fragile find-and-replace across dozens of files.
+
+🏷️ Tags: `graphql`, `ast`, `ts`, `javascript`
+
+---
+
+#### 4. [Scaling your productivity with spec docs in your IDE - Anti Gravity.](https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2)
+📅 Thu, 26 Mar 2026 21:49:41 GMT
+👤 By: Matthew Christiansen | 📌 Source: Dev.to
+
+![Scaling your productivity with spec docs in your IDE - Anti Gravity.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyvzdqstgzm9uyi5tgga.png)
+
+Google’s Anti Gravity is built on a simple premise: remove friction so developers can stay in "the...
+
+🏷️ Tags: `ai`, `antigravity`, `angular`, `gdg`
+
+---
+
+#### 5. [How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0)
+📅 Thu, 26 Mar 2026 09:03:53 GMT
+👤 By: Saroj Poddar | 📌 Source: Dev.to
+
+![How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png)
+
+Most tutorials either point you to a plugin or show you half the code. This is the complete version — HTML, CSS, JS, and WordPress setup — built from a real production theme, with every GDPR mistake already fixed.
+
+🏷️ Tags: `cookies`, `wordpress`, `javascript`, `css`
+
+---
+
+#### 6. [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+📅 Mon, 23 Mar 2026 05:48:13 GMT
+👤 By: Satish Gowda | 📌 Source: Dev.to
+
+![How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png)
+
+How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...
+
+🏷️ Tags: `frontend`, `javascript`, `react`, `tutorial`
+
+---
+
+#### 7. [How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)](https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl)
+📅 Wed, 25 Mar 2026 21:57:51 GMT
+👤 By: Evidence Etinih Ekanem | 📌 Source: Dev.to
+
+![How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png)
+
+I purchased the domain evidenceekanem.me and hosting from GoDaddy on the same day in March 2024. By...
+
+🏷️ Tags: `webdev`, `dotnet`, `nuxt`, `vue`
+
+---
+
+#### 8. [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501)
+📅 Wed, 25 Mar 2026 09:23:52 GMT
+👤 By: Daniel Schulz | 📌 Source: Dev.to
+
+![Tend (and about Vibe Coding)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg)
+
+It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...
+
+🏷️ Tags: `frontend`, `vue`, `docker`, `vibecoding`
+
+---
+
+#### 9. [TypeScript deserved a real DDD framework - so I built one](https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf)
+📅 Tue, 24 Mar 2026 08:04:26 GMT
+👤 By: DOGGA Nidhal | 📌 Source: Dev.to
+
+![TypeScript deserved a real DDD framework - so I built one](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png)
+
+When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...
+
+🏷️ Tags: `typescript`, `ddd`, `cqrs`, `node`
+
+---
+
+#### 10. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (18 articles)
+
+#### 1. [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on)
+📅 Mon, 23 Mar 2026 17:53:10 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploy a Multi Agent ADK Application to Google Cloud Run](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...
+
+🏷️ Tags: `gemini`, `adkui`, `googlecloudrun`, `python`
+
+---
+
+#### 2. [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56)
+📅 Mon, 23 Mar 2026 17:44:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `googleadk`, `awslightsail`, `gemini`, `python`
+
+---
+
+#### 3. [I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a)
+📅 Wed, 25 Mar 2026 11:01:22 GMT
+👤 By: Leanne R | 📌 Source: Dev.to
+
+![I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG)
+
+I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...
+
+🏷️ Tags: `vibecoding`, `python`, `ai`
+
+---
+
+#### 4. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (2 articles)
+
+#### 1. [Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0)
+📅 Thu, 26 Mar 2026 13:53:03 GMT
+👤 By: Nikoloz Turazashvili (@axrisi) | 📌 Source: Dev.to
+
+![Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png)
+
+A 4-node highly available cluster with distributed storage, software-defined networking, and...
+
+🏷️ Tags: `linux`, `devops`, `cloud`, `tutorial`
+
+---
+
+#### 2. [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501)
+📅 Wed, 25 Mar 2026 09:23:52 GMT
+👤 By: Daniel Schulz | 📌 Source: Dev.to
+
+![Tend (and about Vibe Coding)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg)
+
+It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...
+
+🏷️ Tags: `frontend`, `vue`, `docker`, `vibecoding`
+
+---
+
+### 🏷️ WebDev (6 articles)
+
+#### 1. [How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0)
+📅 Thu, 26 Mar 2026 09:03:53 GMT
+👤 By: Saroj Poddar | 📌 Source: Dev.to
+
+![How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png)
+
+Most tutorials either point you to a plugin or show you half the code. This is the complete version — HTML, CSS, JS, and WordPress setup — built from a real production theme, with every GDPR mistake already fixed.
+
+🏷️ Tags: `cookies`, `wordpress`, `javascript`, `css`
+
+---
+
+#### 2. [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+📅 Mon, 23 Mar 2026 05:48:13 GMT
+👤 By: Satish Gowda | 📌 Source: Dev.to
+
+![How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png)
+
+How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...
+
+🏷️ Tags: `frontend`, `javascript`, `react`, `tutorial`
+
+---
+
+#### 3. [How I Personally Grasp the Essence of Concurrency in Go](https://dev.to/yauritux/how-i-personally-grasp-the-essence-of-concurrency-in-go-238e)
+📅 Wed, 25 Mar 2026 18:02:44 GMT
+👤 By: M Yauri M Attamimi | 📌 Source: Dev.to
+
+![How I Personally Grasp the Essence of Concurrency in Go](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhg1xnxjl53vjq1nx0674.webp)
+
+Philosophy, Patterns &amp; The Power of Built-in Tools    Why Go says “Don’t communicate by...
+
+🏷️ Tags: `go`, `goroutine`, `multithreading`, `backenddevelopment`
+
+---
+
+#### 4. [PageSpeed 35 to 90: What I Got Wrong, Then Right](https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m)
+📅 Wed, 25 Mar 2026 07:17:07 GMT
+👤 By: genuineswe | 📌 Source: Dev.to
+
+![PageSpeed 35 to 90: What I Got Wrong, Then Right](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvqc5cf2oga14cxnh7lq.png)
+
+How I Took My PageSpeed Score from 35 to 90 (And What I Got Wrong First)   Have you ever...
+
+🏷️ Tags: `performance`, `frontend`, `webdev`, `programming`
+
+---
+
+#### 5. [Tend (and about Vibe Coding)](https://dev.to/iamschulz/tend-and-about-vibe-coding-2501)
+📅 Wed, 25 Mar 2026 09:23:52 GMT
+👤 By: Daniel Schulz | 📌 Source: Dev.to
+
+![Tend (and about Vibe Coding)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg)
+
+It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...
+
+🏷️ Tags: `frontend`, `vue`, `docker`, `vibecoding`
+
+---
+
+#### 6. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (2 articles)
+
+#### 1. [I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes](https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he)
+📅 Tue, 24 Mar 2026 11:06:02 GMT
+👤 By: Henrique Sasaki Yuya | 📌 Source: Dev.to
+
+![I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png)
+
+SystemeInternational uses phantom types, affine spaces, and zero-cost abstractions to make unit misuse a compile-time error. 306 tests, 8 bytes per quantity, and unit conversions at 3 ns/op in Release.
+
+🏷️ Tags: `swift`, `programming`, `opensource`, `types`
+
+---
+
+#### 2. [DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli)
+📅 Sat, 21 Mar 2026 03:51:00 GMT
+👤 By: DingTalk-Real-AI | 📌 Source: GitHub
+
+![DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.](https://avatars.githubusercontent.com/u/257675475?v=4)
+
+DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 261
+
+---
+
+### 🏷️ Cloud (8 articles)
+
+#### 1. [Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0)
+📅 Thu, 26 Mar 2026 13:53:03 GMT
+👤 By: Nikoloz Turazashvili (@axrisi) | 📌 Source: Dev.to
+
+![Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png)
+
+A 4-node highly available cluster with distributed storage, software-defined networking, and...
+
+🏷️ Tags: `linux`, `devops`, `cloud`, `tutorial`
+
+---
+
+#### 2. [Take your vibe coding to the next level](https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea)
+📅 Thu, 26 Mar 2026 16:11:25 GMT
+👤 By: Martin Omander | 📌 Source: Dev.to
+
+![Take your vibe coding to the next level](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png)
+
+If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...
+
+🏷️ Tags: `googlecloud`, `vibecoding`, `productivity`
+
+---
+
+#### 3. [How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos](https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b)
+📅 Sun, 22 Mar 2026 22:31:46 GMT
+👤 By: C.K.Sun | 📌 Source: Dev.to
+
+![How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png)
+
+We wanted every employee in the company to use OpenClaw — not just engineers. Product managers...
+
+🏷️ Tags: `opensource`, `openclaw`, `aws`, `cdk`
+
+---
+
+#### 4. [Scaling ID Generation with Redis](https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e)
+📅 Thu, 26 Mar 2026 08:05:32 GMT
+👤 By: Krishna Tej Chalamalasetty | 📌 Source: Dev.to
+
+![Scaling ID Generation with Redis](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png)
+
+It Started with a Simple Counter   I work on a cloud-based document management platform used...
+
+🏷️ Tags: `java`, `redis`, `software`, `distributedsystems`
+
+---
+
+#### 5. [Deploy a Multi Agent ADK Application to Google Cloud Run](https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on)
+📅 Mon, 23 Mar 2026 17:53:10 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploy a Multi Agent ADK Application to Google Cloud Run](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...
+
+🏷️ Tags: `gemini`, `adkui`, `googlecloudrun`, `python`
+
+---
+
+#### 6. [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-4p56)
+📅 Mon, 23 Mar 2026 17:44:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7dakao9d7xqsh8iz98z.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `googleadk`, `awslightsail`, `gemini`, `python`
+
+---
+
+#### 7. [Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i)
+📅 Tue, 24 Mar 2026 18:00:13 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...
+
+🏷️ Tags: `gemini`, `aws`, `agents`, `amazonlightsail`
+
+---
+
+#### 8. [HKUDS/OpenSpace - "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/](https://github.com/HKUDS/OpenSpace)
+📅 Tue, 24 Mar 2026 08:01:49 GMT
+👤 By: HKUDS | 📌 Source: GitHub
+
+![HKUDS/OpenSpace - "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/](https://avatars.githubusercontent.com/u/118165258?v=4)
+
+"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 1,415
+
+---
+
+### 🏷️ Database (3 articles)
+
+#### 1. [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o)
+📅 Wed, 25 Mar 2026 15:01:56 GMT
+👤 By: ghost | 📌 Source: Dev.to
+
+![your agent can think. it can't remember.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png)
+
+TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...
+
+🏷️ Tags: `ai`, `mcp`, `postgres`, `agents`
+
+---
+
+#### 2. [Scaling ID Generation with Redis](https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e)
+📅 Thu, 26 Mar 2026 08:05:32 GMT
+👤 By: Krishna Tej Chalamalasetty | 📌 Source: Dev.to
+
+![Scaling ID Generation with Redis](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png)
+
+It Started with a Simple Counter   I work on a cloud-based document management platform used...
+
+🏷️ Tags: `java`, `redis`, `software`, `distributedsystems`
+
+---
+
+#### 3. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (6 articles)
+
+#### 1. [The Future of Coding is Communication, Not Just Code](https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p)
+📅 Thu, 26 Mar 2026 14:31:00 GMT
+👤 By: Carla Urrea Stabile | 📌 Source: Dev.to
+
+![The Future of Coding is Communication, Not Just Code](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png)
+
+We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...
+
+🏷️ Tags: `ai`, `mcp`, `security`, `vibecoding`
+
+---
+
+#### 2. [I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch](https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f)
+📅 Thu, 26 Mar 2026 06:14:01 GMT
+👤 By: Habib Jutt | 📌 Source: Dev.to
+
+![I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png)
+
+Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...
+
+🏷️ Tags: `opensource`, `nextjs`, `react`, `typescript`
+
+---
+
+#### 3. [Stop babysitting your AI agent!](https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8)
+📅 Wed, 25 Mar 2026 15:24:58 GMT
+👤 By: Razvan | 📌 Source: Dev.to
+
+![Stop babysitting your AI agent!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png)
+
+Permission fatigue is real. You approve so many legitimate actions that the one dangerous action...
+
+🏷️ Tags: `ai`, `security`, `programming`, `linux`
+
+---
+
+#### 4. [A Small Hardening Trick for .env.local: dotenvx + OS Keychain](https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533)
+📅 Wed, 25 Mar 2026 08:53:02 GMT
+👤 By: Ustun Ozgur | 📌 Source: Dev.to
+
+![A Small Hardening Trick for .env.local: dotenvx + OS Keychain](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png)
+
+A defense layer against increasing supply chain attacks that read your .env files
+
+🏷️ Tags: `security`, `dotenv`, `dotenvx`, `secrets`
+
+---
+
+#### 5. [I Put a Prompt Injection on My Resume](https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1)
+📅 Mon, 23 Mar 2026 23:51:06 GMT
+👤 By: Fielding Johnston | 📌 Source: Dev.to
+
+![I Put a Prompt Injection on My Resume](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png)
+
+I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...
+
+🏷️ Tags: `ai`, `career`, `security`, `promptinjection`
+
+---
+
+#### 6. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (30 articles)
+
+#### 1. [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h)
+📅 Thu, 26 Mar 2026 15:58:22 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Speed vs smarts for coding agents?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png)
+
+I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...
+
+🏷️ Tags: `agents`, `ai`, `productivity`, `discuss`
+
+---
+
+#### 2. [rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib)
+📅 Thu, 26 Mar 2026 05:12:54 GMT
+👤 By: Yamashou | 📌 Source: Dev.to
+
+![rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png)
+
+`rgql` is a CLI tool that renames GraphQL types, fields, and fragments across schema files and embedded TypeScript queries using full AST analysis. Because it's type-safe and deterministic, it's ideal for AI coding agents like Claude Code and Codex — they can invoke a single command instead of performing fragile find-and-replace across dozens of files.
+
+🏷️ Tags: `graphql`, `ast`, `ts`, `javascript`
+
+---
+
+#### 3. [I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.](https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od)
+📅 Thu, 26 Mar 2026 14:57:20 GMT
+👤 By: Patrik Szewczyk | 📌 Source: Dev.to
+
+![I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png)
+
+I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...
+
+🏷️ Tags: `playwright`, `product`, `marketing`, `ai`
+
+---
+
+#### 4. [Scaling your productivity with spec docs in your IDE - Anti Gravity.](https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2)
+📅 Thu, 26 Mar 2026 21:49:41 GMT
+👤 By: Matthew Christiansen | 📌 Source: Dev.to
+
+![Scaling your productivity with spec docs in your IDE - Anti Gravity.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyvzdqstgzm9uyi5tgga.png)
+
+Google’s Anti Gravity is built on a simple premise: remove friction so developers can stay in "the...
+
+🏷️ Tags: `ai`, `antigravity`, `angular`, `gdg`
+
+---
+
+#### 5. [Take your vibe coding to the next level](https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea)
+📅 Thu, 26 Mar 2026 16:11:25 GMT
+👤 By: Martin Omander | 📌 Source: Dev.to
+
+![Take your vibe coding to the next level](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png)
+
+If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...
+
+🏷️ Tags: `googlecloud`, `vibecoding`, `productivity`
+
+---
+
+#### 6. [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39)
+📅 Thu, 26 Mar 2026 10:50:55 GMT
+👤 By: Ali Raza | 📌 Source: Dev.to
+
+![I built a file transfer tool that can’t spy on you even if it wanted to](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png)
+
+I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...
+
+🏷️ Tags: `opensource`, `go`, `webdev`
+
+---
+
+#### 7. [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956)
+📅 Mon, 23 Mar 2026 18:05:03 GMT
+👤 By: Ivan SZKIBA | 📌 Source: Dev.to
+
+![Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png)
+
+This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...
+
+🏷️ Tags: `ai`, `agents`, `git`, `makerchecker`
+
+---
+
+#### 8. [How I Personally Grasp the Essence of Concurrency in Go](https://dev.to/yauritux/how-i-personally-grasp-the-essence-of-concurrency-in-go-238e)
+📅 Wed, 25 Mar 2026 18:02:44 GMT
+👤 By: M Yauri M Attamimi | 📌 Source: Dev.to
+
+![How I Personally Grasp the Essence of Concurrency in Go](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhg1xnxjl53vjq1nx0674.webp)
+
+Philosophy, Patterns &amp; The Power of Built-in Tools    Why Go says “Don’t communicate by...
+
+🏷️ Tags: `go`, `goroutine`, `multithreading`, `backenddevelopment`
+
+---
+
+#### 9. [Stop babysitting your AI agent!](https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8)
+📅 Wed, 25 Mar 2026 15:24:58 GMT
+👤 By: Razvan | 📌 Source: Dev.to
+
+![Stop babysitting your AI agent!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png)
+
+Permission fatigue is real. You approve so many legitimate actions that the one dangerous action...
+
+🏷️ Tags: `ai`, `security`, `programming`, `linux`
+
+---
+
+#### 10. [Why most AI agent frameworks break in production (and what I’m doing differently)](https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i)
+📅 Thu, 26 Mar 2026 07:06:06 GMT
+👤 By: Octavian | 📌 Source: Dev.to
+
+![Why most AI agent frameworks break in production (and what I’m doing differently)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png)
+
+Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...
+
+🏷️ Tags: `ai`, `agentskills`, `devtool`, `runnerhchallenge`
+
+---
+
