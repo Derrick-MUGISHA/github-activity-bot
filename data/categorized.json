@@ -76,21 +76,6 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
-      "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
-    },
-    {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
       "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
       "published_at": "2026-03-26T05:12:54Z",
@@ -308,6 +293,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felo7b8moqchuv6rc9ijs.png",
       "source": "Dev.to",
       "user": "Glen Yu"
+    },
+    {
+      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
+      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
+      "published_at": "2026-03-26T13:53:03Z",
+      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
+      "tags": [
+        "linux",
+        "devops",
+        "cloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
+      "source": "Dev.to",
+      "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 1002,
       "user": "GAIR-NLP"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 493,
       "user": "oaker-io"
     },
     {
@@ -758,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 832,
       "user": "fastclaw-ai"
     },
     {
@@ -788,41 +788,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 323,
       "user": "DingTalk-Real-AI"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
-      "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
-    },
-    {
-      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
-      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
-      "published_at": "2026-03-26T06:14:01Z",
-      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
-      "tags": [
-        "opensource",
-        "nextjs",
-        "react",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
-      "source": "Dev.to",
-      "user": "Habib Jutt"
-    },
     {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
       "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
@@ -882,6 +852,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
+    },
+    {
+      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
+      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
+      "published_at": "2026-03-26T13:53:03Z",
+      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
+      "tags": [
+        "linux",
+        "devops",
+        "cloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
+      "source": "Dev.to",
+      "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
       "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
@@ -1060,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1086,
       "user": "magnum6actual"
     },
     {
@@ -1075,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 507,
       "user": "NomaDamas"
     },
     {
@@ -1090,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 251,
       "user": "htimesnine"
     },
     {
@@ -1301,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1422,
       "user": "HKUDS"
     },
     {
@@ -1316,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1128,
       "user": "dou-jiang"
     },
     {
@@ -1331,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 1002,
       "user": "GAIR-NLP"
     },
     {
@@ -1346,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 621,
       "user": "jxnxts"
     },
     {
@@ -1361,13 +1346,13 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 493,
       "user": "oaker-io"
     }
   ],
   "DevOps": [
     {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
+      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
       "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
       "published_at": "2026-03-26T13:53:03Z",
       "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
@@ -1377,7 +1362,7 @@
         "cloud",
         "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
       "source": "Dev.to",
       "user": "Nikoloz Turazashvili (@axrisi)"
     },
@@ -1514,26 +1499,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 323,
       "user": "DingTalk-Real-AI"
     }
   ],
   "Cloud": [
-    {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
-      "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
-    },
     {
       "title": "Take your vibe coding to the next level",
       "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
@@ -1577,6 +1547,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
       "source": "Dev.to",
       "user": "Krishna Tej Chalamalasetty"
+    },
+    {
+      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
+      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
+      "published_at": "2026-03-26T13:53:03Z",
+      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
+      "tags": [
+        "linux",
+        "devops",
+        "cloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
+      "source": "Dev.to",
+      "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
@@ -1635,7 +1620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1422,
       "user": "HKUDS"
     }
   ],
@@ -1698,21 +1683,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
       "source": "Dev.to",
       "user": "Carla Urrea Stabile"
-    },
-    {
-      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
-      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
-      "published_at": "2026-03-26T06:14:01Z",
-      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
-      "tags": [
-        "opensource",
-        "nextjs",
-        "react",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
-      "source": "Dev.to",
-      "user": "Habib Jutt"
     },
     {
       "title": "Stop babysitting your AI agent!",
@@ -2007,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1086,
       "user": "magnum6actual"
     },
     {
@@ -2022,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 507,
       "user": "NomaDamas"
     },
     {
@@ -2037,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 251,
       "user": "htimesnine"
     },
     {
@@ -2082,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1422,
       "user": "HKUDS"
     },
     {
@@ -2097,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1128,
       "user": "dou-jiang"
     },
     {
@@ -2112,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 1002,
       "user": "GAIR-NLP"
     },
     {
@@ -2127,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 621,
       "user": "jxnxts"
     },
     {
@@ -2142,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 493,
       "user": "oaker-io"
     },
     {
@@ -2157,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 832,
       "user": "fastclaw-ai"
     },
     {
@@ -2172,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 442,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2187,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 408,
       "user": "samber"
     },
     {
@@ -2217,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 323,
       "user": "DingTalk-Real-AI"
     }
   ]
