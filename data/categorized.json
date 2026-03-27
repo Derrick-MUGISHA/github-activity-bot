@@ -31,19 +31,19 @@
       "user": "ghost"
     },
     {
-      "title": "The data engineer's Cortex Code cheat sheet",
-      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
-      "published_at": "2026-03-26T18:06:57Z",
-      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
+      "title": "The Future of Coding is Communication, Not Just Code",
+      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
+      "published_at": "2026-03-26T14:31:00Z",
+      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
       "tags": [
-        "cortexcode",
-        "snowflake",
         "ai",
-        "dataengineering"
+        "mcp",
+        "security",
+        "vibecoding"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
       "source": "Dev.to",
-      "user": "Daniel Myers"
+      "user": "Carla Urrea Stabile"
     },
     {
       "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
@@ -75,34 +75,34 @@
       "user": "marcosomma"
     },
     {
-      "title": "The Future of Coding is Communication, Not Just Code",
-      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
-      "published_at": "2026-03-26T14:31:00Z",
-      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
+      "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
+      "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
+      "published_at": "2026-03-26T14:57:20Z",
+      "description": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...",
       "tags": [
-        "ai",
-        "mcp",
-        "security",
-        "vibecoding"
+        "playwright",
+        "product",
+        "marketing",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
       "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
+      "user": "Patrik Szewczyk"
     },
     {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
+      "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
+      "url": "https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2",
+      "published_at": "2026-03-26T21:49:41Z",
+      "description": "Google’s Anti Gravity is built on a simple premise: remove friction so developers can stay in \"the...",
       "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
+        "ai",
+        "antigravity",
+        "angular",
+        "gdg"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyvzdqstgzm9uyi5tgga.png",
       "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
+      "user": "Matthew Christiansen"
     },
     {
       "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
@@ -118,19 +118,33 @@
       "user": "Scarlett Attensil"
     },
     {
-      "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
-      "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
-      "published_at": "2026-03-26T14:57:20Z",
-      "description": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...",
+      "title": "The data engineer's Cortex Code cheat sheet",
+      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
+      "published_at": "2026-03-26T18:06:57Z",
+      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
       "tags": [
-        "playwright",
-        "product",
-        "marketing",
-        "ai"
+        "cortexcode",
+        "snowflake",
+        "ai",
+        "dataengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
       "source": "Dev.to",
-      "user": "Patrik Szewczyk"
+      "user": "Daniel Myers"
+    },
+    {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
     },
     {
       "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
@@ -148,20 +162,6 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
-    },
-    {
       "title": "Benchmark oriented development is a road to nowhere",
       "url": "https://dev.to/dmtrkovalenko/benchmark-oriented-development-is-a-road-to-nowhere-1518",
       "published_at": "2026-03-25T22:33:40Z",
@@ -174,6 +174,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmykz7zu5q7yhxjddese.png",
       "source": "Dev.to",
       "user": "Dmitriy Kovalenko"
+    },
+    {
+      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
+      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
+      "published_at": "2026-03-26T13:53:03Z",
+      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
+      "tags": [
+        "linux",
+        "devops",
+        "cloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
+      "source": "Dev.to",
+      "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
       "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
@@ -295,21 +310,6 @@
       "user": "Ivan SZKIBA"
     },
     {
-      "title": "Implementing a RAG system: Crawl",
-      "url": "https://dev.to/gde/implementing-a-rag-system-crawl-5li",
-      "published_at": "2026-03-24T18:00:00Z",
-      "description": "I'm starting a \"Crawl, walk, run\" series of posts on various topics and decided to start with...",
-      "tags": [
-        "rag",
-        "genai",
-        "opensource",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felo7b8moqchuv6rc9ijs.png",
-      "source": "Dev.to",
-      "user": "Glen Yu"
-    },
-    {
       "title": "The Missing Link Between AI Agents and the Code They Modify",
       "url": "https://dev.to/jimutt/the-missing-link-between-ai-agents-and-the-code-they-modify-kke",
       "published_at": "2026-03-25T12:07:47Z",
@@ -323,6 +323,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvupj0we5z1s5prn5dw4s.png",
       "source": "Dev.to",
       "user": "Jimmy Utterström"
+    },
+    {
+      "title": "Implementing a RAG system: Crawl",
+      "url": "https://dev.to/gde/implementing-a-rag-system-crawl-5li",
+      "published_at": "2026-03-24T18:00:00Z",
+      "description": "I'm starting a \"Crawl, walk, run\" series of posts on various topics and decided to start with...",
+      "tags": [
+        "rag",
+        "genai",
+        "opensource",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felo7b8moqchuv6rc9ijs.png",
+      "source": "Dev.to",
+      "user": "Glen Yu"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -350,19 +365,19 @@
       "user": "Patric Green"
     },
     {
-      "title": "Small Prompt Tweaks That Saved Me Hours",
-      "url": "https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94",
-      "published_at": "2026-03-25T17:43:11Z",
-      "description": "I have been experimenting with AI these days and what I found from watching tutorials and prompting...",
+      "title": "1st time at a big tech conference - GTC 2026",
+      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
+      "published_at": "2026-03-25T16:38:29Z",
+      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
       "tags": [
         "ai",
-        "productivity",
-        "promptengineering",
-        "beginners"
+        "techtalks",
+        "career",
+        "news"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
       "source": "Dev.to",
-      "user": "Konark Sharma"
+      "user": "Matt Cool"
     },
     {
       "title": "Stop babysitting your AI agent!",
@@ -378,6 +393,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
       "source": "Dev.to",
       "user": "Razvan"
+    },
+    {
+      "title": "Small Prompt Tweaks That Saved Me Hours",
+      "url": "https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94",
+      "published_at": "2026-03-25T17:43:11Z",
+      "description": "I have been experimenting with AI these days and what I found from watching tutorials and prompting...",
+      "tags": [
+        "ai",
+        "productivity",
+        "promptengineering",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
+      "source": "Dev.to",
+      "user": "Konark Sharma"
+    },
+    {
+      "title": "Building a Network of AI-Native CTOs",
+      "url": "https://dev.to/glind/building-a-network-of-ai-native-ctos-1ffe",
+      "published_at": "2026-03-25T17:01:15Z",
+      "description": "Thinking through how the CTO role is evolving in smaller, AI-driven teams—and what we’re trying as an alternative.",
+      "tags": [
+        "ai",
+        "startup",
+        "opensource",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1519389950473-47ba0277781c",
+      "source": "Dev.to",
+      "user": "Greg Lind"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -440,6 +485,20 @@
       "user": "xbill"
     },
     {
+      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
+      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
+      "published_at": "2026-03-25T11:01:22Z",
+      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
+      "tags": [
+        "vibecoding",
+        "python",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
+      "source": "Dev.to",
+      "user": "Leanne R"
+    },
+    {
       "title": "Ai-lone",
       "url": "https://dev.to/314rate/ai-lone-4ae9",
       "published_at": "2026-03-17T00:00:00Z",
@@ -469,6 +528,20 @@
       "user": "Ustun Ozgur"
     },
     {
+      "title": "The software industry is ready to grow",
+      "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
+      "published_at": "2026-03-25T18:33:04Z",
+      "description": "I don't spend a lot of time on the X these days, but I think this perspective is worth...",
+      "tags": [
+        "ai",
+        "career",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "AI Crash Course: Hallucinations",
       "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg",
       "published_at": "2026-03-25T13:10:15Z",
@@ -482,33 +555,19 @@
       "user": "Kathryn Grayson Nanz"
     },
     {
-      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
-      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
-      "published_at": "2026-03-25T11:01:22Z",
-      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
-      "tags": [
-        "vibecoding",
-        "python",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
-      "source": "Dev.to",
-      "user": "Leanne R"
-    },
-    {
-      "title": "I Put a Prompt Injection on My Resume",
-      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
-      "published_at": "2026-03-23T23:51:06Z",
-      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "title": "AI Writes Code. You Own Quality.",
+      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
+      "published_at": "2026-03-24T15:43:40Z",
+      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
       "tags": [
         "ai",
-        "career",
-        "security",
-        "promptinjection"
+        "software",
+        "development",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
       "source": "Dev.to",
-      "user": "Fielding Johnston"
+      "user": "Helder Burato Berto"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -643,21 +702,6 @@
       "user": "veesahni"
     },
     {
-      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
-      "url": "https://github.com/ghh-jb/DarkSword",
-      "published_at": "2026-03-22T19:22:41Z",
-      "description": "DarkSword exploit chain dump.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "ghh-jb"
-    },
-    {
       "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
       "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
       "published_at": "2026-03-22T17:32:35Z",
@@ -669,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 948,
       "user": "GAIR-NLP"
     },
     {
@@ -684,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 780,
       "user": "fastclaw-ai"
     },
     {
@@ -699,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "openilink"
     },
     {
@@ -720,6 +764,21 @@
   ],
   "JavaScript": [
     {
+      "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
+      "url": "https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2",
+      "published_at": "2026-03-26T21:49:41Z",
+      "description": "Google’s Anti Gravity is built on a simple premise: remove friction so developers can stay in \"the...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "angular",
+        "gdg"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyvzdqstgzm9uyi5tgga.png",
+      "source": "Dev.to",
+      "user": "Matthew Christiansen"
+    },
+    {
       "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
       "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
       "published_at": "2026-03-26T13:53:03Z",
@@ -733,21 +792,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
       "source": "Dev.to",
       "user": "Nikoloz Turazashvili (@axrisi)"
-    },
-    {
-      "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
-      "url": "https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0",
-      "published_at": "2026-03-26T09:03:53Z",
-      "description": "Most tutorials either point you to a plugin or show you half the code. This is the complete version — HTML, CSS, JS, and WordPress setup — built from a real production theme, with every GDPR mistake already fixed.",
-      "tags": [
-        "cookies",
-        "wordpress",
-        "javascript",
-        "css"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
-      "source": "Dev.to",
-      "user": "Saroj Poddar"
     },
     {
       "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
@@ -793,6 +837,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
       "source": "Dev.to",
       "user": "Yamashou"
+    },
+    {
+      "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
+      "url": "https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0",
+      "published_at": "2026-03-26T09:03:53Z",
+      "description": "Most tutorials either point you to a plugin or show you half the code. This is the complete version — HTML, CSS, JS, and WordPress setup — built from a real production theme, with every GDPR mistake already fixed.",
+      "tags": [
+        "cookies",
+        "wordpress",
+        "javascript",
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
+      "source": "Dev.to",
+      "user": "Saroj Poddar"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -971,8 +1030,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 597,
       "user": "magnum6actual"
+    },
+    {
+      "title": "NomaDamas/k-skill - 한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등...",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "published_at": "2026-03-24T16:39:30Z",
+      "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등...",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
+      "source": "GitHub",
+      "stars": 235,
+      "user": "NomaDamas"
     },
     {
       "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
@@ -986,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 224,
       "user": "htimesnine"
     },
     {
@@ -1018,21 +1092,6 @@
       "source": "GitHub",
       "stars": 107,
       "user": "pandaboost"
-    },
-    {
-      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
-      "url": "https://github.com/ghh-jb/DarkSword",
-      "published_at": "2026-03-22T19:22:41Z",
-      "description": "DarkSword exploit chain dump.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "ghh-jb"
     }
   ],
   "Python": [
@@ -1212,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1312,
       "user": "HKUDS"
     },
     {
@@ -1227,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1057,
       "user": "dou-jiang"
     },
     {
@@ -1242,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 948,
       "user": "GAIR-NLP"
     },
     {
@@ -1257,23 +1316,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 421,
       "user": "bramcohen"
     },
     {
-      "title": "AAAAAAAJ/slides - slides generates prompts for various expression styles",
-      "url": "https://github.com/AAAAAAAJ/slides",
-      "published_at": "2026-03-24T03:33:22Z",
-      "description": "slides generates prompts for various expression styles",
+      "title": "jxnxts/mcp-brasil - MCP Server para 27 APIs públicas brasileiras",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "published_at": "2026-03-26T00:38:54Z",
+      "description": "MCP Server para 27 APIs públicas brasileiras",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 378,
-      "user": "AAAAAAAJ"
+      "stars": 403,
+      "user": "jxnxts"
     }
   ],
   "DevOps": [
@@ -1355,6 +1414,21 @@
       "user": "Satish Gowda"
     },
     {
+      "title": "How I Personally Grasp the Essence of Concurrency in Go",
+      "url": "https://dev.to/yauritux/how-i-personally-grasp-the-essence-of-concurrency-in-go-238e",
+      "published_at": "2026-03-25T18:02:44Z",
+      "description": "Philosophy, Patterns &amp; The Power of Built-in Tools    Why Go says “Don’t communicate by...",
+      "tags": [
+        "go",
+        "goroutine",
+        "multithreading",
+        "backenddevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhg1xnxjl53vjq1nx0674.webp",
+      "source": "Dev.to",
+      "user": "M Yauri M Attamimi"
+    },
+    {
       "title": "PageSpeed 35 to 90: What I Got Wrong, Then Right",
       "url": "https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m",
       "published_at": "2026-03-25T07:17:07Z",
@@ -1416,21 +1490,6 @@
   ],
   "Cloud": [
     {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
-      "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
-    },
-    {
       "title": "Take your vibe coding to the next level",
       "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
       "published_at": "2026-03-26T16:11:25Z",
@@ -1458,6 +1517,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
       "source": "Dev.to",
       "user": "Krishna Tej Chalamalasetty"
+    },
+    {
+      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes",
+      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
+      "published_at": "2026-03-26T13:53:03Z",
+      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
+      "tags": [
+        "linux",
+        "devops",
+        "cloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3i0d3r7qh8zt2xuhyq.png",
+      "source": "Dev.to",
+      "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
       "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
@@ -1531,7 +1605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1312,
       "user": "HKUDS"
     }
   ],
@@ -1626,21 +1700,6 @@
       "user": "Razvan"
     },
     {
-      "title": "The Cornucopia of Gamified Threat Modeling",
-      "url": "https://dev.to/owasp/the-cornucopia-of-gamified-threat-modeling-1c9k",
-      "published_at": "2026-03-24T09:55:15Z",
-      "description": "At the OWASP Cornucopia project, we are done with updating the cards and help pages for the Website...",
-      "tags": [
-        "appsec",
-        "security",
-        "gamedev",
-        "cybersecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flu3e9426c6p3w2r7l1lv.jpg",
-      "source": "Dev.to",
-      "user": "Johan Sydseter"
-    },
-    {
       "title": "A Small Hardening Trick for .env.local: dotenvx + OS Keychain",
       "url": "https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533",
       "published_at": "2026-03-25T08:53:02Z",
@@ -1654,21 +1713,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png",
       "source": "Dev.to",
       "user": "Ustun Ozgur"
-    },
-    {
-      "title": "I Put a Prompt Injection on My Resume",
-      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
-      "published_at": "2026-03-23T23:51:06Z",
-      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
-      "tags": [
-        "ai",
-        "career",
-        "security",
-        "promptinjection"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
-      "source": "Dev.to",
-      "user": "Fielding Johnston"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1727,6 +1771,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
       "source": "Dev.to",
       "user": "Patrik Szewczyk"
+    },
+    {
+      "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
+      "url": "https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2",
+      "published_at": "2026-03-26T21:49:41Z",
+      "description": "Google’s Anti Gravity is built on a simple premise: remove friction so developers can stay in \"the...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "angular",
+        "gdg"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyvzdqstgzm9uyi5tgga.png",
+      "source": "Dev.to",
+      "user": "Matthew Christiansen"
     },
     {
       "title": "Take your vibe coding to the next level",
@@ -1788,19 +1847,19 @@
       "user": "Ivan SZKIBA"
     },
     {
-      "title": "Small Prompt Tweaks That Saved Me Hours",
-      "url": "https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94",
-      "published_at": "2026-03-25T17:43:11Z",
-      "description": "I have been experimenting with AI these days and what I found from watching tutorials and prompting...",
+      "title": "How I Personally Grasp the Essence of Concurrency in Go",
+      "url": "https://dev.to/yauritux/how-i-personally-grasp-the-essence-of-concurrency-in-go-238e",
+      "published_at": "2026-03-25T18:02:44Z",
+      "description": "Philosophy, Patterns &amp; The Power of Built-in Tools    Why Go says “Don’t communicate by...",
       "tags": [
-        "ai",
-        "productivity",
-        "promptengineering",
-        "beginners"
+        "go",
+        "goroutine",
+        "multithreading",
+        "backenddevelopment"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhg1xnxjl53vjq1nx0674.webp",
       "source": "Dev.to",
-      "user": "Konark Sharma"
+      "user": "M Yauri M Attamimi"
     },
     {
       "title": "Stop babysitting your AI agent!",
@@ -1816,6 +1875,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
       "source": "Dev.to",
       "user": "Razvan"
+    },
+    {
+      "title": "Small Prompt Tweaks That Saved Me Hours",
+      "url": "https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94",
+      "published_at": "2026-03-25T17:43:11Z",
+      "description": "I have been experimenting with AI these days and what I found from watching tutorials and prompting...",
+      "tags": [
+        "ai",
+        "productivity",
+        "promptengineering",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
+      "source": "Dev.to",
+      "user": "Konark Sharma"
+    },
+    {
+      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
+      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
+      "published_at": "2026-03-25T11:01:22Z",
+      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
+      "tags": [
+        "vibecoding",
+        "python",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
+      "source": "Dev.to",
+      "user": "Leanne R"
     },
     {
       "title": "What are your goals for the week? #171",
@@ -1848,20 +1936,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
-      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
-      "published_at": "2026-03-25T11:01:22Z",
-      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
-      "tags": [
-        "vibecoding",
-        "python",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
-      "source": "Dev.to",
-      "user": "Leanne R"
-    },
-    {
       "title": "TypeScript deserved a real DDD framework - so I built one",
       "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
       "published_at": "2026-03-24T08:04:26Z",
@@ -1877,6 +1951,21 @@
       "user": "DOGGA Nidhal"
     },
     {
+      "title": "AI Writes Code. You Own Quality.",
+      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
+      "published_at": "2026-03-24T15:43:40Z",
+      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
+      "tags": [
+        "ai",
+        "software",
+        "development",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
+    },
+    {
       "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
       "url": "https://github.com/magnum6actual/flipoff",
       "published_at": "2026-03-26T12:46:35Z",
@@ -1888,8 +1977,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 597,
       "user": "magnum6actual"
+    },
+    {
+      "title": "NomaDamas/k-skill - 한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등...",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "published_at": "2026-03-24T16:39:30Z",
+      "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등...",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
+      "source": "GitHub",
+      "stars": 235,
+      "user": "NomaDamas"
     },
     {
       "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
@@ -1903,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 224,
       "user": "htimesnine"
     },
     {
@@ -1937,21 +2041,6 @@
       "user": "pandaboost"
     },
     {
-      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
-      "url": "https://github.com/ghh-jb/DarkSword",
-      "published_at": "2026-03-22T19:22:41Z",
-      "description": "DarkSword exploit chain dump.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "ghh-jb"
-    },
-    {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "url": "https://github.com/HKUDS/OpenSpace",
       "published_at": "2026-03-24T08:01:49Z",
@@ -1963,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1312,
       "user": "HKUDS"
     },
     {
@@ -1978,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1057,
       "user": "dou-jiang"
     },
     {
@@ -1993,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 948,
       "user": "GAIR-NLP"
     },
     {
@@ -2008,23 +2097,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/686990?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 421,
       "user": "bramcohen"
     },
     {
-      "title": "AAAAAAAJ/slides - slides generates prompts for various expression styles",
-      "url": "https://github.com/AAAAAAAJ/slides",
-      "published_at": "2026-03-24T03:33:22Z",
-      "description": "slides generates prompts for various expression styles",
+      "title": "jxnxts/mcp-brasil - MCP Server para 27 APIs públicas brasileiras",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "published_at": "2026-03-26T00:38:54Z",
+      "description": "MCP Server para 27 APIs públicas brasileiras",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/130558153?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 378,
-      "user": "AAAAAAAJ"
+      "stars": 403,
+      "user": "jxnxts"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -2038,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 780,
       "user": "fastclaw-ai"
     },
     {
@@ -2053,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "xiaolajiaoyyds"
     },
     {
@@ -2068,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 375,
       "user": "samber"
     },
     {
@@ -2083,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "openilink"
     },
     {
