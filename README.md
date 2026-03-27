@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -40,7 +40,7 @@
 
 **WebDev**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦 4 (3.8%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.3 (25.3%)
-Go              █████████████████████████████ 24.2 (24.2%)
-Java            ███████████████████████████ 23.1 (23.1%)
-Python          ███████████████████████ 19.8 (19.8%)
+JavaScript      ██████████████████████████████ 26.1 (26.1%)
+Go              ███████████████████████████ 23.9 (23.9%)
+Java            ██████████████████████████ 22.8 (22.8%)
+Python          ███████████████████████ 19.6 (19.6%)
 Rust            ████ 3.3 (3.3%)
 Swift           ███ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
@@ -73,7 +73,7 @@ CSharp          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
+    "JavaScript" : 24
     "Go" : 22
     "Java" : 21
     "Python" : 18
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-27 19:00 CAT)
+## 📅 Latest Updates (2026-03-27 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,6 +153,17 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr9h7gujl2nf3k6bv2t4r.png" width="200" alt="I'm so sick of my editor telling me how great I am. Not that I'm not great." />
+      <br/>
+      <b>I'm so sick of my editor telling me how great I am...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png" width="200" alt="your agent can think. it can't remember." />
       <br/>
@@ -161,8 +172,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png" width="200" alt="The Future of Coding is Communication, Not Just Code" />
@@ -181,15 +190,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/build-real-time-conversational-agents-with-gemini-31-flash-live-27f6">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn70novhybyaxqxnxt5l4.png" width="200" alt="Build real-time conversational agents with Gemini 3.1 Flash Live" />
-      <br/>
-      <b>Build real-time conversational agents with Gemini ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -199,6 +199,7 @@ npm run test
 
 - [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
 - [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m) _[Dev.to]_
+- [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
 - [The Future of Coding is Communication, Not Just Code](https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p) _[Dev.to]_
 - [Ghost Maintainer — An AI Junior Partner for Open Source](https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0) _[Dev.to]_
@@ -216,9 +217,8 @@ npm run test
 - [Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness](https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic) _[Dev.to]_
 - [Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)](https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61) _[Dev.to]_
 - [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39) _[Dev.to]_
-- [I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy](https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e) _[Dev.to]_
 
-_Last automated update: Fri, 27 Mar 2026 19:34:43 CAT_
+_Last automated update: Fri, 27 Mar 2026 20:35:37 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Mar 2026 19:34:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Mar 2026 17:34:43 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Mar 2026 18:35:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

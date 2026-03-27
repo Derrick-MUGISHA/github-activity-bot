@@ -380,21 +380,6 @@
       "user": "Matt Cool"
     },
     {
-      "title": "Stop babysitting your AI agent!",
-      "url": "https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8",
-      "published_at": "2026-03-25T15:24:58Z",
-      "description": "Permission fatigue is real. You approve so many legitimate actions that the one dangerous action...",
-      "tags": [
-        "ai",
-        "security",
-        "programming",
-        "linux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
-      "source": "Dev.to",
-      "user": "Razvan"
-    },
-    {
       "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
       "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
       "published_at": "2026-03-26T07:06:06Z",
@@ -526,21 +511,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwt2rijx7v2jzn65wiegl.png",
       "source": "Dev.to",
       "user": "Dennis Lemm"
-    },
-    {
-      "title": "A Small Hardening Trick for .env.local: dotenvx + OS Keychain",
-      "url": "https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533",
-      "published_at": "2026-03-25T08:53:02Z",
-      "description": "A defense layer against increasing supply chain attacks that read your .env files",
-      "tags": [
-        "security",
-        "dotenv",
-        "dotenvx",
-        "secrets"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png",
-      "source": "Dev.to",
-      "user": "Ustun Ozgur"
     },
     {
       "title": "The software industry is ready to grow",
@@ -732,6 +702,21 @@
       "user": "veesahni"
     },
     {
+      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
+      "url": "https://github.com/ghh-jb/DarkSword",
+      "published_at": "2026-03-22T19:22:41Z",
+      "description": "DarkSword exploit chain dump.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
+      "source": "GitHub",
+      "stars": 108,
+      "user": "ghh-jb"
+    },
+    {
       "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
       "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
       "published_at": "2026-03-22T17:32:35Z",
@@ -743,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1005,
       "user": "GAIR-NLP"
     },
     {
@@ -758,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 512,
       "user": "oaker-io"
     },
     {
@@ -773,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 831,
       "user": "fastclaw-ai"
     },
     {
@@ -788,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 409,
       "user": "DingTalk-Real-AI"
     },
     {
@@ -803,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "openilink"
     }
   ],
@@ -897,6 +882,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
       "source": "Dev.to",
       "user": "Evidence Etinih Ekanem"
+    },
+    {
+      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+      "published_at": "2026-03-26T06:14:01Z",
+      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
+      "tags": [
+        "opensource",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
+      "source": "Dev.to",
+      "user": "Habib Jutt"
     },
     {
       "title": "Tend (and about Vibe Coding)",
@@ -1060,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1148,
       "user": "magnum6actual"
     },
     {
@@ -1075,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 516,
       "user": "NomaDamas"
     },
     {
@@ -1090,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 254,
       "user": "htimesnine"
     },
     {
@@ -1109,19 +1109,19 @@
       "user": "pandaboost"
     },
     {
-      "title": "pandaboost/PhantomChatTrending - Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
-      "url": "https://github.com/pandaboost/PhantomChatTrending",
-      "published_at": "2026-03-22T18:39:15Z",
-      "description": "Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
+      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
+      "url": "https://github.com/ghh-jb/DarkSword",
+      "published_at": "2026-03-22T19:22:41Z",
+      "description": "DarkSword exploit chain dump.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "pandaboost"
+      "stars": 108,
+      "user": "ghh-jb"
     }
   ],
   "Python": [
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1430,
       "user": "HKUDS"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1005,
       "user": "GAIR-NLP"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 658,
       "user": "jxnxts"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 512,
       "user": "oaker-io"
     }
   ],
@@ -1514,7 +1514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 409,
       "user": "DingTalk-Real-AI"
     }
   ],
@@ -1635,7 +1635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1430,
       "user": "HKUDS"
     }
   ],
@@ -1700,34 +1700,19 @@
       "user": "Carla Urrea Stabile"
     },
     {
-      "title": "Stop babysitting your AI agent!",
-      "url": "https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8",
-      "published_at": "2026-03-25T15:24:58Z",
-      "description": "Permission fatigue is real. You approve so many legitimate actions that the one dangerous action...",
+      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+      "published_at": "2026-03-26T06:14:01Z",
+      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
       "tags": [
-        "ai",
-        "security",
-        "programming",
-        "linux"
+        "opensource",
+        "nextjs",
+        "react",
+        "typescript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
       "source": "Dev.to",
-      "user": "Razvan"
-    },
-    {
-      "title": "A Small Hardening Trick for .env.local: dotenvx + OS Keychain",
-      "url": "https://dev.to/ustun/a-small-hardening-trick-for-envlocal-dotenvx-os-keychain-2533",
-      "published_at": "2026-03-25T08:53:02Z",
-      "description": "A defense layer against increasing supply chain attacks that read your .env files",
-      "tags": [
-        "security",
-        "dotenv",
-        "dotenvx",
-        "secrets"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo08knhsrnxihjclggbem.png",
-      "source": "Dev.to",
-      "user": "Ustun Ozgur"
+      "user": "Habib Jutt"
     },
     {
       "title": "I Put a Prompt Injection on My Resume",
@@ -1892,21 +1877,6 @@
       "user": "M Yauri M Attamimi"
     },
     {
-      "title": "Stop babysitting your AI agent!",
-      "url": "https://dev.to/razvanz/stop-babysitting-your-ai-agent-14l8",
-      "published_at": "2026-03-25T15:24:58Z",
-      "description": "Permission fatigue is real. You approve so many legitimate actions that the one dangerous action...",
-      "tags": [
-        "ai",
-        "security",
-        "programming",
-        "linux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cqdbezbbu41xm050nfm.png",
-      "source": "Dev.to",
-      "user": "Razvan"
-    },
-    {
       "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
       "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
       "published_at": "2026-03-26T07:06:06Z",
@@ -2007,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1148,
       "user": "magnum6actual"
     },
     {
@@ -2022,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 516,
       "user": "NomaDamas"
     },
     {
@@ -2037,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 254,
       "user": "htimesnine"
     },
     {
@@ -2056,19 +2026,19 @@
       "user": "pandaboost"
     },
     {
-      "title": "pandaboost/PhantomChatTrending - Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
-      "url": "https://github.com/pandaboost/PhantomChatTrending",
-      "published_at": "2026-03-22T18:39:15Z",
-      "description": "Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
+      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
+      "url": "https://github.com/ghh-jb/DarkSword",
+      "published_at": "2026-03-22T19:22:41Z",
+      "description": "DarkSword exploit chain dump.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "pandaboost"
+      "stars": 108,
+      "user": "ghh-jb"
     },
     {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
@@ -2082,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1430,
       "user": "HKUDS"
     },
     {
@@ -2112,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1005,
       "user": "GAIR-NLP"
     },
     {
@@ -2127,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 658,
       "user": "jxnxts"
     },
     {
@@ -2142,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 512,
       "user": "oaker-io"
     },
     {
@@ -2157,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 831,
       "user": "fastclaw-ai"
     },
     {
@@ -2187,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "samber"
     },
     {
@@ -2202,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 409,
       "user": "DingTalk-Real-AI"
     },
     {
@@ -2217,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "openilink"
     }
   ]
