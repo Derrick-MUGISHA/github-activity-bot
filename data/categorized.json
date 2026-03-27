@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
+      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
+      "published_at": "2026-03-27T21:33:31Z",
+      "description": "We're back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...",
+      "tags": [
+        "weekendchallenge",
+        "devchallenge",
+        "hackathon",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Speed vs smarts for coding agents?",
       "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
       "published_at": "2026-03-26T15:58:22Z",
@@ -149,21 +164,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t3qjjyfhed329lyu81b.jpg",
       "source": "Dev.to",
       "user": "rpostulart"
-    },
-    {
-      "title": "The data engineer's Cortex Code cheat sheet",
-      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
-      "published_at": "2026-03-26T18:06:57Z",
-      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
-      "tags": [
-        "cortexcode",
-        "snowflake",
-        "ai",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
-      "source": "Dev.to",
-      "user": "Daniel Myers"
     },
     {
       "title": "Vibe Coding Needs Telemetry",
@@ -485,19 +485,19 @@
       "user": "Patrik Szewczyk"
     },
     {
-      "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
-      "url": "https://dev.to/googleai/build-real-time-conversational-agents-with-gemini-31-flash-live-27f6",
-      "published_at": "2026-03-26T15:25:51Z",
-      "description": "Today, we’re launching Gemini 3.1 Flash Live via the Gemini Live API in Google AI Studio. Gemini 3.1...",
+      "title": "The data engineer's Cortex Code cheat sheet",
+      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
+      "published_at": "2026-03-26T18:06:57Z",
+      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
       "tags": [
+        "cortexcode",
+        "snowflake",
         "ai",
-        "gemini",
-        "voice",
-        "multimodal"
+        "dataengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn70novhybyaxqxnxt5l4.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
       "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
+      "user": "Daniel Myers"
     },
     {
       "title": "AI Didn't Break Your Culture. It Exposed It.",
@@ -513,6 +513,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fblindy-trust.png",
       "source": "Dev.to",
       "user": "Jono Herrington"
+    },
+    {
+      "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
+      "url": "https://dev.to/googleai/build-real-time-conversational-agents-with-gemini-31-flash-live-27f6",
+      "published_at": "2026-03-26T15:25:51Z",
+      "description": "Today, we’re launching Gemini 3.1 Flash Live via the Gemini Live API in Google AI Studio. Gemini 3.1...",
+      "tags": [
+        "ai",
+        "gemini",
+        "voice",
+        "multimodal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn70novhybyaxqxnxt5l4.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Getting Started with Qwen3.5 Vision-Language Models",
@@ -615,19 +630,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "AI Crash Course: Hallucinations",
-      "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg",
-      "published_at": "2026-03-25T13:10:15Z",
-      "description": "While we can’t eliminate hallucinations entirely, there are still things we can do to reduce the chances of hallucinations showing up in our model’s responses.",
-      "tags": [
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbgiott8zjv8d2chdvkd.png",
-      "source": "Dev.to",
-      "user": "Kathryn Grayson Nanz"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -803,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 528,
       "user": "oaker-io"
     },
     {
@@ -833,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 584,
       "user": "DingTalk-Real-AI"
     },
     {
@@ -848,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "openilink"
     }
   ],
@@ -1105,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1280,
       "user": "magnum6actual"
     },
     {
@@ -1120,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 524,
       "user": "NomaDamas"
     },
     {
@@ -1135,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 260,
       "user": "htimesnine"
     },
     {
@@ -1376,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1447,
+      "stars": 1453,
       "user": "HKUDS"
     },
     {
@@ -1421,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 739,
       "user": "jxnxts"
     },
     {
@@ -1436,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 528,
       "user": "oaker-io"
     }
   ],
@@ -1604,7 +1606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 584,
       "user": "DingTalk-Real-AI"
     }
   ],
@@ -1785,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1447,
+      "stars": 1453,
       "user": "HKUDS"
     }
   ],
@@ -2071,21 +2073,6 @@
       "user": "Leanne R"
     },
     {
-      "title": "What are your goals for the week? #171",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-171-5232",
-      "published_at": "2026-03-23T15:27:11Z",
-      "description": "What are your goals for the week?    What are you building this week? What do you want to...",
-      "tags": [
-        "career",
-        "devjournal",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nly92n428cqpuj1s0we.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
       "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
       "url": "https://github.com/magnum6actual/flipoff",
       "published_at": "2026-03-26T12:46:35Z",
@@ -2097,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1280,
       "user": "magnum6actual"
     },
     {
@@ -2112,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 524,
       "user": "NomaDamas"
     },
     {
@@ -2127,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 260,
       "user": "htimesnine"
     },
     {
@@ -2172,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1447,
+      "stars": 1453,
       "user": "HKUDS"
     },
     {
@@ -2217,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 739,
       "user": "jxnxts"
     },
     {
@@ -2232,7 +2219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 528,
       "user": "oaker-io"
     },
     {
@@ -2262,7 +2249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 584,
       "user": "DingTalk-Real-AI"
     },
     {
@@ -2307,7 +2294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "openilink"
     }
   ]
