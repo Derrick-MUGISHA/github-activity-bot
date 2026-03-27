@@ -6,21 +6,21 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 57,
-    "JavaScript": 23,
+    "AI": 56,
+    "JavaScript": 24,
     "Python": 18,
     "DevOps": 2,
     "WebDev": 6,
     "Mobile": 2,
     "Cloud": 8,
     "Database": 3,
-    "Security": 5,
-    "Tools": 31
+    "Security": 4,
+    "Tools": 30
   },
   "by_language": {
     "Go": 22,
     "Rust": 3,
-    "JavaScript": 23,
+    "JavaScript": 24,
     "Java": 21,
     "Ruby": 1,
     "CSharp": 1,
@@ -28,9 +28,9 @@
     "Swift": 2
   },
   "by_date": {
-    "2026-03-26": 21,
-    "2026-03-27": 2,
-    "2026-03-25": 18,
+    "2026-03-26": 22,
+    "2026-03-27": 3,
+    "2026-03-25": 16,
     "2026-03-24": 9,
     "2026-03-23": 9,
     "2026-03-22": 6,
@@ -69,7 +69,7 @@
     "2026-03-21": 5
   },
   "top_tags": {
-    "ai": 27,
+    "ai": 26,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -79,26 +79,26 @@
     "javascript": 8,
     "python": 8,
     "discuss": 7,
-    "programming": 7,
+    "opensource": 7,
     "go": 7,
     "career": 6,
     "webdev": 6,
-    "opensource": 6,
+    "programming": 6,
     "productivity": 4,
     "mcp": 4,
     "tutorial": 4,
-    "security": 4,
-    "vibecoding": 4
+    "vibecoding": 4,
+    "gemini": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "24.2",
+    "Go": "23.9",
     "Rust": "3.3",
-    "JavaScript": "25.3",
-    "Java": "23.1",
+    "JavaScript": "26.1",
+    "Java": "22.8",
     "Ruby": "1.1",
     "CSharp": "1.1",
-    "Python": "19.8",
+    "Python": "19.6",
     "Swift": "2.2"
   }
 }
