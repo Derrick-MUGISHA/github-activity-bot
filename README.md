@@ -46,7 +46,7 @@
 
 **DevOps**: 🟦 2 (1.9%)
 
-**Mobile**:  1 (1.0%)
+**Mobile**: 🟦 2 (1.9%)
 
 
 
@@ -60,14 +60,14 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.4 (26.4%)
-Go              ████████████████████████████ 24.2 (24.2%)
-Java            ██████████████████████████ 23.1 (23.1%)
-Python          ███████████████████████ 19.8 (19.8%)
+JavaScript      ██████████████████████████████ 26.1 (26.1%)
+Go              ███████████████████████████ 23.9 (23.9%)
+Java            ██████████████████████████ 22.8 (22.8%)
+Python          ███████████████████████ 19.6 (19.6%)
 Rust            ████ 3.3 (3.3%)
+Swift           ███ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 CSharp          █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
 
 ```
 
@@ -78,9 +78,9 @@ pie title Programming Languages Distribution
     "Java" : 21
     "Python" : 18
     "Rust" : 3
+    "Swift" : 2
     "Ruby" : 1
     "CSharp" : 1
-    "Swift" : 1
 ```
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-27 16:00 CAT)
+## 📅 Latest Updates (2026-03-27 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,17 +153,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png" width="200" alt="I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy" />
-      <br/>
-      <b>I Tried to Turn Agent Memory Into Plumbing Instead...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8uz94x67y94e40c3ra0.png" width="200" alt="Ghost Maintainer — An AI Junior Partner for Open Source" />
       <br/>
@@ -172,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png" width="200" alt="The Future of Coding is Communication, Not Just Code" />
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/francistrdev/check-up-with-each-other-2ogc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr36y0i56m7lzl3meowb3.gif" width="200" alt="Check Up with Each Other" />
+      <br/>
+      <b>Check Up with Each Other</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -199,7 +199,6 @@ npm run test
 
 - [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
 - [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
-- [I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy](https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e) _[Dev.to]_
 - [Ghost Maintainer — An AI Junior Partner for Open Source](https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0) _[Dev.to]_
 - [The Future of Coding is Communication, Not Just Code](https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p) _[Dev.to]_
 - [Build real-time conversational agents with Gemini 3.1 Flash Live](https://dev.to/googleai/build-real-time-conversational-agents-with-gemini-31-flash-live-27f6) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0) _[Dev.to]_
 - [Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness](https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic) _[Dev.to]_
 - [Why Rails App Memory Bloat Happens: Causes and Solutions (2025 Edition)](https://dev.to/katz/why-rails-app-memory-bloat-happens-causes-and-solutions-2025-edition-3g61) _[Dev.to]_
+- [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39) _[Dev.to]_
 
-_Last automated update: Fri, 27 Mar 2026 16:37:04 CAT_
+_Last automated update: Fri, 27 Mar 2026 17:31:46 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 27 Mar 2026 16:37:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 27 Mar 2026 14:37:04 GMT</b><br/>
+  <b>Last automated update: Fri, 27 Mar 2026 15:31:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
