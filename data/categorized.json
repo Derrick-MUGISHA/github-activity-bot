@@ -16,6 +16,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Auth0 MCP Server Extension for Gemini CLI",
+      "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
+      "published_at": "2026-03-27T11:00:00Z",
+      "description": "The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...",
+      "tags": [
+        "ai",
+        "mcp",
+        "tutorial",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
+      "source": "Dev.to",
+      "user": "Jessica Temporal"
+    },
+    {
       "title": "your agent can think. it can't remember.",
       "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
       "published_at": "2026-03-25T15:01:56Z",
@@ -31,21 +46,6 @@
       "user": "ghost"
     },
     {
-      "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
-      "url": "https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0",
-      "published_at": "2026-03-27T04:13:12Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   I maintain a few open...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8uz94x67y94e40c3ra0.png",
-      "source": "Dev.to",
-      "user": "Souvik Biswas"
-    },
-    {
       "title": "The Future of Coding is Communication, Not Just Code",
       "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
       "published_at": "2026-03-26T14:31:00Z",
@@ -59,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
       "source": "Dev.to",
       "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
+      "url": "https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0",
+      "published_at": "2026-03-27T04:13:12Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   I maintain a few open...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8uz94x67y94e40c3ra0.png",
+      "source": "Dev.to",
+      "user": "Souvik Biswas"
     },
     {
       "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
@@ -728,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1004,
       "user": "GAIR-NLP"
     },
     {
@@ -743,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 507,
       "user": "oaker-io"
     },
     {
@@ -762,21 +777,6 @@
       "user": "fastclaw-ai"
     },
     {
-      "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
-      "url": "https://github.com/openilink/openilink-hub",
-      "published_at": "2026-03-22T03:39:57Z",
-      "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
-      "source": "GitHub",
-      "stars": 368,
-      "user": "openilink"
-    },
-    {
       "title": "DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
       "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
       "published_at": "2026-03-21T03:51:00Z",
@@ -788,8 +788,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 372,
       "user": "DingTalk-Real-AI"
+    },
+    {
+      "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
+      "url": "https://github.com/openilink/openilink-hub",
+      "published_at": "2026-03-22T03:39:57Z",
+      "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
+      "source": "GitHub",
+      "stars": 372,
+      "user": "openilink"
     }
   ],
   "JavaScript": [
@@ -1045,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1117,
       "user": "magnum6actual"
     },
     {
@@ -1060,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 512,
       "user": "NomaDamas"
     },
     {
@@ -1075,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "htimesnine"
     },
     {
@@ -1286,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1424,
       "user": "HKUDS"
     },
     {
@@ -1301,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1128,
+      "stars": 1131,
       "user": "dou-jiang"
     },
     {
@@ -1316,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1004,
       "user": "GAIR-NLP"
     },
     {
@@ -1331,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 641,
       "user": "jxnxts"
     },
     {
@@ -1346,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 507,
       "user": "oaker-io"
     }
   ],
@@ -1499,7 +1514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 372,
       "user": "DingTalk-Real-AI"
     }
   ],
@@ -1620,7 +1635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1424,
       "user": "HKUDS"
     }
   ],
@@ -1757,6 +1772,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Auth0 MCP Server Extension for Gemini CLI",
+      "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
+      "published_at": "2026-03-27T11:00:00Z",
+      "description": "The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...",
+      "tags": [
+        "ai",
+        "mcp",
+        "tutorial",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
+      "source": "Dev.to",
+      "user": "Jessica Temporal"
     },
     {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
@@ -1977,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1117,
       "user": "magnum6actual"
     },
     {
@@ -1992,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 512,
       "user": "NomaDamas"
     },
     {
@@ -2007,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "htimesnine"
     },
     {
@@ -2052,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1424,
       "user": "HKUDS"
     },
     {
@@ -2067,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
       "source": "GitHub",
-      "stars": 1128,
+      "stars": 1131,
       "user": "dou-jiang"
     },
     {
@@ -2082,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1004,
       "user": "GAIR-NLP"
     },
     {
@@ -2097,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 641,
       "user": "jxnxts"
     },
     {
@@ -2112,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 507,
       "user": "oaker-io"
     },
     {
@@ -2161,21 +2191,6 @@
       "user": "samber"
     },
     {
-      "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
-      "url": "https://github.com/openilink/openilink-hub",
-      "published_at": "2026-03-22T03:39:57Z",
-      "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
-      "source": "GitHub",
-      "stars": 368,
-      "user": "openilink"
-    },
-    {
       "title": "DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
       "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
       "published_at": "2026-03-21T03:51:00Z",
@@ -2187,8 +2202,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 372,
       "user": "DingTalk-Real-AI"
+    },
+    {
+      "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
+      "url": "https://github.com/openilink/openilink-hub",
+      "published_at": "2026-03-22T03:39:57Z",
+      "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
+      "source": "GitHub",
+      "stars": 372,
+      "user": "openilink"
     }
   ]
 }

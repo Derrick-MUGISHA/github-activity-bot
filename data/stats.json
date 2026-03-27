@@ -1,12 +1,12 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 56,
+    "AI": 57,
     "JavaScript": 23,
     "Python": 18,
     "DevOps": 2,
@@ -15,7 +15,7 @@
     "Cloud": 8,
     "Database": 3,
     "Security": 5,
-    "Tools": 30
+    "Tools": 31
   },
   "by_language": {
     "Go": 22,
@@ -29,8 +29,8 @@
   },
   "by_date": {
     "2026-03-26": 21,
+    "2026-03-27": 2,
     "2026-03-25": 18,
-    "2026-03-27": 1,
     "2026-03-24": 9,
     "2026-03-23": 9,
     "2026-03-22": 6,
@@ -69,7 +69,7 @@
     "2026-03-21": 5
   },
   "top_tags": {
-    "ai": 26,
+    "ai": 27,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -85,10 +85,10 @@
     "webdev": 6,
     "opensource": 6,
     "productivity": 4,
+    "mcp": 4,
+    "tutorial": 4,
     "security": 4,
-    "vibecoding": 4,
-    "gemini": 4,
-    "mcp": 3
+    "vibecoding": 4
   },
   "trending_topics": [],
   "language_percentages": {
