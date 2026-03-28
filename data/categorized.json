@@ -61,21 +61,6 @@
       "user": "ghost"
     },
     {
-      "title": "The Future of Coding is Communication, Not Just Code",
-      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
-      "published_at": "2026-03-26T14:31:00Z",
-      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
-      "tags": [
-        "ai",
-        "mcp",
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
-    },
-    {
       "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
       "url": "https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0",
       "published_at": "2026-03-27T04:13:12Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8uz94x67y94e40c3ra0.png",
       "source": "Dev.to",
       "user": "Souvik Biswas"
+    },
+    {
+      "title": "The Future of Coding is Communication, Not Just Code",
+      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
+      "published_at": "2026-03-26T14:31:00Z",
+      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
+      "tags": [
+        "ai",
+        "mcp",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
     },
     {
       "title": "AI Writes Daily Without My Involvement",
@@ -237,20 +237,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymh2fgsbh945a2vc95vc.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
     },
     {
       "title": "Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness",
@@ -575,6 +561,20 @@
       "user": "xbill"
     },
     {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
+    },
+    {
       "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
       "published_at": "2026-03-24T18:00:13Z",
@@ -764,6 +764,21 @@
       "user": "veesahni"
     },
     {
+      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
+      "url": "https://github.com/ghh-jb/DarkSword",
+      "published_at": "2026-03-22T19:22:41Z",
+      "description": "DarkSword exploit chain dump.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "ghh-jb"
+    },
+    {
       "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
       "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
       "published_at": "2026-03-22T17:32:35Z",
@@ -775,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1018,
       "user": "GAIR-NLP"
     },
     {
@@ -790,8 +805,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 555,
       "user": "oaker-io"
+    },
+    {
+      "title": "tonbistudio/turboquant-pytorch - From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "url": "https://github.com/tonbistudio/turboquant-pytorch",
+      "published_at": "2026-03-25T08:03:23Z",
+      "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
+      "source": "GitHub",
+      "stars": 444,
+      "user": "tonbistudio"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -805,23 +835,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 835,
       "user": "fastclaw-ai"
-    },
-    {
-      "title": "DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-      "published_at": "2026-03-21T03:51:00Z",
-      "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
-      "source": "GitHub",
-      "stars": 610,
-      "user": "DingTalk-Real-AI"
     },
     {
       "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
@@ -835,8 +850,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 392,
       "user": "openilink"
+    },
+    {
+      "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
+      "url": "https://github.com/tanviet12/chat-quality-agent",
+      "published_at": "2026-03-23T16:04:28Z",
+      "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
+      "source": "GitHub",
+      "stars": 241,
+      "user": "tanviet12"
     }
   ],
   "JavaScript": [
@@ -1092,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1310,
+      "stars": 1349,
       "user": "magnum6actual"
     },
     {
@@ -1107,23 +1137,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 554,
       "user": "NomaDamas"
-    },
-    {
-      "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
-      "url": "https://github.com/htimesnine/DarkSword-RCE",
-      "published_at": "2026-03-21T18:58:44Z",
-      "description": "DarkSword webkit exploit captured ITW",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
-      "source": "GitHub",
-      "stars": 263,
-      "user": "htimesnine"
     },
     {
       "title": "pandaboost/PhantomTrending - Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
@@ -1139,6 +1154,21 @@
       "source": "GitHub",
       "stars": 113,
       "user": "pandaboost"
+    },
+    {
+      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
+      "url": "https://github.com/ghh-jb/DarkSword",
+      "published_at": "2026-03-22T19:22:41Z",
+      "description": "DarkSword exploit chain dump.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "ghh-jb"
     },
     {
       "title": "pandaboost/PhantomChatTrending - Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
@@ -1363,23 +1393,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1459,
+      "stars": 1478,
       "user": "HKUDS"
-    },
-    {
-      "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "url": "https://github.com/dou-jiang/codex-console",
-      "published_at": "2026-03-21T14:50:54Z",
-      "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
-      "source": "GitHub",
-      "stars": 1142,
-      "user": "dou-jiang"
     },
     {
       "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
@@ -1393,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1018,
       "user": "GAIR-NLP"
     },
     {
@@ -1408,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 763,
       "user": "jxnxts"
     },
     {
@@ -1423,8 +1438,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 555,
       "user": "oaker-io"
+    },
+    {
+      "title": "tonbistudio/turboquant-pytorch - From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "url": "https://github.com/tonbistudio/turboquant-pytorch",
+      "published_at": "2026-03-25T08:03:23Z",
+      "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
+      "source": "GitHub",
+      "stars": 444,
+      "user": "tonbistudio"
     }
   ],
   "DevOps": [
@@ -1578,23 +1608,7 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [
-    {
-      "title": "DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-      "published_at": "2026-03-21T03:51:00Z",
-      "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
-      "source": "GitHub",
-      "stars": 610,
-      "user": "DingTalk-Real-AI"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
     {
       "title": "This is Cloud Run: Configuration",
@@ -1655,20 +1669,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
     },
     {
       "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
@@ -1746,6 +1746,20 @@
       "user": "xbill"
     },
     {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
+    },
+    {
       "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
       "published_at": "2026-03-24T18:00:13Z",
@@ -1772,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1459,
+      "stars": 1478,
       "user": "HKUDS"
     }
   ],
@@ -1956,20 +1970,6 @@
       "user": "Matthew Christiansen"
     },
     {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
-    },
-    {
       "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
       "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
       "published_at": "2026-03-26T10:50:55Z",
@@ -2044,6 +2044,20 @@
       "user": "Patrik Szewczyk"
     },
     {
+      "title": "Take your vibe coding to the next level",
+      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
+      "published_at": "2026-03-26T16:11:25Z",
+      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
+      "tags": [
+        "googlecloud",
+        "vibecoding",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
+    },
+    {
       "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
       "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
       "published_at": "2026-03-25T11:01:22Z",
@@ -2069,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1310,
+      "stars": 1349,
       "user": "magnum6actual"
     },
     {
@@ -2084,23 +2098,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 554,
       "user": "NomaDamas"
-    },
-    {
-      "title": "htimesnine/DarkSword-RCE - DarkSword webkit exploit captured ITW",
-      "url": "https://github.com/htimesnine/DarkSword-RCE",
-      "published_at": "2026-03-21T18:58:44Z",
-      "description": "DarkSword webkit exploit captured ITW",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235466405?v=4",
-      "source": "GitHub",
-      "stars": 263,
-      "user": "htimesnine"
     },
     {
       "title": "pandaboost/PhantomTrending - Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
@@ -2116,6 +2115,21 @@
       "source": "GitHub",
       "stars": 113,
       "user": "pandaboost"
+    },
+    {
+      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
+      "url": "https://github.com/ghh-jb/DarkSword",
+      "published_at": "2026-03-22T19:22:41Z",
+      "description": "DarkSword exploit chain dump.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "ghh-jb"
     },
     {
       "title": "pandaboost/PhantomChatTrending - Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
@@ -2144,23 +2158,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1459,
+      "stars": 1478,
       "user": "HKUDS"
-    },
-    {
-      "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "url": "https://github.com/dou-jiang/codex-console",
-      "published_at": "2026-03-21T14:50:54Z",
-      "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155128942?v=4",
-      "source": "GitHub",
-      "stars": 1142,
-      "user": "dou-jiang"
     },
     {
       "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
@@ -2174,7 +2173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1018,
       "user": "GAIR-NLP"
     },
     {
@@ -2189,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 763,
       "user": "jxnxts"
     },
     {
@@ -2204,8 +2203,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 555,
       "user": "oaker-io"
+    },
+    {
+      "title": "tonbistudio/turboquant-pytorch - From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "url": "https://github.com/tonbistudio/turboquant-pytorch",
+      "published_at": "2026-03-25T08:03:23Z",
+      "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
+      "source": "GitHub",
+      "stars": 444,
+      "user": "tonbistudio"
     },
     {
       "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
@@ -2219,53 +2233,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 835,
       "user": "fastclaw-ai"
-    },
-    {
-      "title": "DingTalk-Real-AI/dingtalk-workspace-cli - DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-      "published_at": "2026-03-21T03:51:00Z",
-      "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257675475?v=4",
-      "source": "GitHub",
-      "stars": 610,
-      "user": "DingTalk-Real-AI"
-    },
-    {
-      "title": "xiaolajiaoyyds/regplatformm - 样板演示请查看～ 不提供技术指导，自己研究，代码无删减",
-      "url": "https://github.com/xiaolajiaoyyds/regplatformm",
-      "published_at": "2026-03-21T19:16:51Z",
-      "description": "样板演示请查看～ 不提供技术指导，自己研究，代码无删减",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219141599?v=4",
-      "source": "GitHub",
-      "stars": 442,
-      "user": "xiaolajiaoyyds"
-    },
-    {
-      "title": "samber/cc-skills-golang - 🧑‍🎨 A collection of Golang agentic skills that works",
-      "url": "https://github.com/samber/cc-skills-golang",
-      "published_at": "2026-03-21T23:10:11Z",
-      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2951285?v=4",
-      "source": "GitHub",
-      "stars": 419,
-      "user": "samber"
     },
     {
       "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
@@ -2279,8 +2248,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 392,
       "user": "openilink"
+    },
+    {
+      "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
+      "url": "https://github.com/tanviet12/chat-quality-agent",
+      "published_at": "2026-03-23T16:04:28Z",
+      "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
+      "source": "GitHub",
+      "stars": 241,
+      "user": "tanviet12"
+    },
+    {
+      "title": "james-6-23/codex2api - GitHub Repository",
+      "url": "https://github.com/james-6-23/codex2api",
+      "published_at": "2026-03-24T00:07:29Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
+      "source": "GitHub",
+      "stars": 199,
+      "user": "james-6-23"
+    },
+    {
+      "title": "lich0821/wcfLink - GitHub Repository",
+      "url": "https://github.com/lich0821/wcfLink",
+      "published_at": "2026-03-24T12:37:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/87742696?v=4",
+      "source": "GitHub",
+      "stars": 126,
+      "user": "lich0821"
     }
   ]
 }
