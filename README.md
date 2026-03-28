@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-28-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (56.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.3%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.4%)
 
-**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
+**Cloud**: 🟦🟦🟦🟦 12 (11.7%)
 
-**WebDev**: 🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦 6 (5.8%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**Security**: 🟦🟦 6 (5.8%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦 5 (4.9%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.5 (27.5%)
-JavaScript      ████████████████████████████ 25.3 (25.3%)
-Python          ████████████████████████ 22.0 (22.0%)
-Java            ████████████████████████ 22.0 (22.0%)
+Go              ██████████████████████████████ 26.7 (26.7%)
+JavaScript      █████████████████████████████ 25.6 (25.6%)
+Python          █████████████████████████ 22.2 (22.2%)
+Java            █████████████████████████ 22.2 (22.2%)
 Rust            █ 1.1 (1.1%)
 CSharp          █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -72,7 +72,7 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
+    "Go" : 24
     "JavaScript" : 23
     "Python" : 20
     "Java" : 20
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![mcp](https://img.shields.io/badge/mcp-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-28 14:00 CAT)
+## 📅 Latest Updates (2026-03-28 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,6 +142,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png" width="200" alt="Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to" />
+      <br/>
+      <b>Turning Weekly GitHub Activity Into Blog Posts on ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png" width="200" alt="The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!" />
       <br/>
@@ -150,6 +159,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png" width="200" alt="your agent can think. it can't remember." />
@@ -159,8 +170,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr9h7gujl2nf3k6bv2t4r.png" width="200" alt="I'm so sick of my editor telling me how great I am. Not that I'm not great." />
@@ -179,15 +188,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/fafhrd91/building-a-error-library-3kda">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqw27m0sp1r9i2trsdqca.png" width="200" alt="Building a Error Library" />
-      <br/>
-      <b>Building a Error Library</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -196,6 +196,7 @@ npm run test
 ### 📰 Top Headlines
 
 - [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
+- [Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to](https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn) _[Dev.to]_
 - [The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd) _[Dev.to]_
 - [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
@@ -206,17 +207,16 @@ npm run test
 - [Cross Cloud ADK with Python, and the Azure App Service](https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47) _[Dev.to]_
 - [MCP Development with Python, and Azure Container Apps](https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f) _[Dev.to]_
 - [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4e2p) _[Dev.to]_
 - [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m) _[Dev.to]_
 - [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi) _[Dev.to]_
 - [Scaling your productivity with spec docs in your IDE - Anti Gravity.](https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2) _[Dev.to]_
 - [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
 - [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
 - [Gemma-SRE: Self-Hosted vLLM Infrastructure Agent](https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam) _[Dev.to]_
-- [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39) _[Dev.to]_
-- [I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy](https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e) _[Dev.to]_
+- [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
+- [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 
-_Last automated update: Sat, 28 Mar 2026 14:47:12 CAT_
+_Last automated update: Sat, 28 Mar 2026 15:48:39 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 28 Mar 2026 14:47:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 12:47:12 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 13:48:39 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
