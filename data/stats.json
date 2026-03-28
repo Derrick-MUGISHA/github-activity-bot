@@ -1,12 +1,12 @@
 {
-  "total": 103,
+  "total": 105,
   "by_source": {
-    "Dev.to": 58,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 58,
+    "AI": 60,
     "JavaScript": 23,
     "Python": 20,
     "DevOps": 5,
@@ -15,7 +15,7 @@
     "Cloud": 12,
     "Database": 3,
     "Security": 6,
-    "Tools": 27
+    "Tools": 28
   },
   "by_language": {
     "Rust": 1,
@@ -27,9 +27,9 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-03-26": 22,
-    "2026-03-27": 7,
-    "2026-03-25": 14,
+    "2026-03-27": 8,
+    "2026-03-26": 24,
+    "2026-03-25": 13,
     "2026-03-24": 11,
     "2026-03-23": 7,
     "2026-03-22": 7,
@@ -67,23 +67,23 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 25,
+    "ai": 26,
     "github": 15,
     "open-source": 15,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "python": 9,
-    "agents": 7,
+    "agents": 8,
     "programming": 7,
     "gemini": 7,
     "javascript": 7,
+    "go": 7,
     "opensource": 6,
-    "go": 6,
-    "discuss": 5,
+    "webdev": 6,
     "mcp": 5,
+    "discuss": 5,
     "career": 5,
-    "webdev": 5,
     "devchallenge": 4,
     "tutorial": 4,
     "security": 4
