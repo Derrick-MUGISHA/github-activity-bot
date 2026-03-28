@@ -212,7 +212,7 @@ npm run test
 - [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 - [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 01:28:43 CAT_
+_Last automated update: Sun, 29 Mar 2026 01:56:43 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Sun, 29 Mar 2026 01:28:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 23:28:43 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 23:56:43 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
