@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-29 0:00 CAT)
+## 📅 Latest Updates (2026-03-29 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 - [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 00:55:52 CAT_
+_Last automated update: Sun, 29 Mar 2026 01:28:43 CAT_
 
 
 
@@ -220,7 +220,29 @@ _Last automated update: Sun, 29 Mar 2026 00:55:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Java: Explain the Java memory model
+
+**Difficulty**: Hard | **Topics**: memory, JVM
+
+<details>
+<summary>💡 Hint</summary>
+
+Heap, stack, garbage collection
+
+</details>
+
+### 2. Python: Implement a context manager using __enter__ and __exit__
+
+**Difficulty**: Hard | **Topics**: context managers, resource management
+
+<details>
+<summary>💡 Hint</summary>
+
+with statement, setup/teardown, exception handling
+
+</details>
+
+### 3. SystemDesign: How would you design a rate limiter?
 
 **Difficulty**: Medium | **Topics**: system design, algorithms
 
@@ -228,28 +250,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Token bucket, sliding window, distributed systems
-
-</details>
-
-### 2. JavaScript: Implement a debounce function from scratch
-
-**Difficulty**: Hard | **Topics**: functions, timing
-
-<details>
-<summary>💡 Hint</summary>
-
-setTimeout, clearTimeout, wrapper function
-
-</details>
-
-### 3. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 22:55:52 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 23:28:43 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
