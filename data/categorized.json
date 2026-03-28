@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
-      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
-      "published_at": "2026-03-27T21:33:31Z",
-      "description": "We're back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...",
-      "tags": [
-        "weekendchallenge",
-        "devchallenge",
-        "hackathon",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Speed vs smarts for coding agents?",
       "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
       "published_at": "2026-03-26T15:58:22Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
+      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
+      "published_at": "2026-03-27T21:33:31Z",
+      "description": "We're back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...",
+      "tags": [
+        "weekendchallenge",
+        "devchallenge",
+        "hackathon",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "your agent can think. it can't remember.",
@@ -308,35 +308,6 @@
       "user": "Typing Turtle"
     },
     {
-      "title": "Benchmark oriented development is a road to nowhere",
-      "url": "https://dev.to/dmtrkovalenko/benchmark-oriented-development-is-a-road-to-nowhere-1518",
-      "published_at": "2026-03-25T22:33:40Z",
-      "description": "Cursor just released this article and a ton of people started worshiping Cursor like they just made a...",
-      "tags": [
-        "cursor",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmykz7zu5q7yhxjddese.png",
-      "source": "Dev.to",
-      "user": "Dmitriy Kovalenko"
-    },
-    {
-      "title": "Implementing a RAG system: Crawl",
-      "url": "https://dev.to/gde/implementing-a-rag-system-crawl-5li",
-      "published_at": "2026-03-24T18:00:00Z",
-      "description": "I'm starting a \"Crawl, walk, run\" series of posts on various topics and decided to start with...",
-      "tags": [
-        "rag",
-        "genai",
-        "opensource",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felo7b8moqchuv6rc9ijs.png",
-      "source": "Dev.to",
-      "user": "Glen Yu"
-    },
-    {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
       "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
       "published_at": "2026-03-18T19:29:59Z",
@@ -395,21 +366,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
       "source": "Dev.to",
       "user": "Octavian"
-    },
-    {
-      "title": "Small Prompt Tweaks That Saved Me Hours",
-      "url": "https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94",
-      "published_at": "2026-03-25T17:43:11Z",
-      "description": "I have been experimenting with AI these days and what I found from watching tutorials and prompting...",
-      "tags": [
-        "ai",
-        "productivity",
-        "promptengineering",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
-      "source": "Dev.to",
-      "user": "Konark Sharma"
     },
     {
       "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
@@ -588,6 +544,51 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "AI Writes Code. You Own Quality.",
+      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
+      "published_at": "2026-03-24T15:43:40Z",
+      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
+      "tags": [
+        "ai",
+        "software",
+        "development",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
+    },
+    {
+      "title": "I Put a Prompt Injection on My Resume",
+      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
+      "published_at": "2026-03-23T23:51:06Z",
+      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "tags": [
+        "ai",
+        "career",
+        "security",
+        "promptinjection"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "source": "Dev.to",
+      "user": "Fielding Johnston"
+    },
+    {
+      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
+      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
+      "published_at": "2026-03-24T14:53:30Z",
+      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
+      "tags": [
+        "ai",
+        "devops",
+        "devrel",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -731,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "ghh-jb"
     },
     {
@@ -746,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1047,
       "user": "GAIR-NLP"
     },
     {
@@ -761,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 633,
       "user": "oaker-io"
     },
     {
@@ -776,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 475,
       "user": "tonbistudio"
     },
     {
@@ -791,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 1003,
       "user": "larksuite"
     },
     {
@@ -806,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 857,
       "user": "fastclaw-ai"
     },
     {
@@ -836,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 246,
       "user": "tanviet12"
     }
   ],
@@ -945,6 +946,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
       "source": "Dev.to",
       "user": "Saroj Poddar"
+    },
+    {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1078,7 +1094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1525,
+      "stars": 1570,
       "user": "magnum6actual"
     },
     {
@@ -1093,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 619,
       "user": "NomaDamas"
     },
     {
@@ -1108,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "ghh-jb"
     },
     {
@@ -1349,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1647,
       "user": "HKUDS"
     },
     {
@@ -1364,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1047,
       "user": "GAIR-NLP"
     },
     {
@@ -1379,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 781,
       "user": "jxnxts"
     },
     {
@@ -1394,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 633,
       "user": "oaker-io"
     },
     {
@@ -1409,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 475,
       "user": "tonbistudio"
     }
   ],
@@ -1473,6 +1489,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg",
       "source": "Dev.to",
       "user": "Daniel Schulz"
+    },
+    {
+      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
+      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
+      "published_at": "2026-03-24T14:53:30Z",
+      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
+      "tags": [
+        "ai",
+        "devops",
+        "devrel",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     }
   ],
   "WebDev": [
@@ -1564,7 +1595,23 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes",
+      "url": "https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he",
+      "published_at": "2026-03-24T11:06:02Z",
+      "description": "SystemeInternational uses phantom types, affine spaces, and zero-cost abstractions to make unit misuse a compile-time error. 306 tests, 8 bytes per quantity, and unit conversions at 3 ns/op in Release.",
+      "tags": [
+        "swift",
+        "programming",
+        "opensource",
+        "types"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
+      "source": "Dev.to",
+      "user": "Henrique Sasaki Yuya"
+    }
+  ],
   "Cloud": [
     {
       "title": "This is Cloud Run: Configuration",
@@ -1742,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1647,
       "user": "HKUDS"
     }
   ],
@@ -1835,6 +1882,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qp2a5bgdrnmn0ymar2g.png",
       "source": "Dev.to",
       "user": "Kevin Bridges"
+    },
+    {
+      "title": "I Put a Prompt Injection on My Resume",
+      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
+      "published_at": "2026-03-23T23:51:06Z",
+      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "tags": [
+        "ai",
+        "career",
+        "security",
+        "promptinjection"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "source": "Dev.to",
+      "user": "Fielding Johnston"
+    },
+    {
+      "title": "I built a terminal-native Little Snitch alternative for macOS",
+      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
+      "published_at": "2026-03-24T11:49:08Z",
+      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
+      "tags": [
+        "go",
+        "macos",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
+      "source": "Dev.to",
+      "user": "Nick Ciolpan"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1955,21 +2032,6 @@
       "user": "Octavian"
     },
     {
-      "title": "Small Prompt Tweaks That Saved Me Hours",
-      "url": "https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94",
-      "published_at": "2026-03-25T17:43:11Z",
-      "description": "I have been experimenting with AI these days and what I found from watching tutorials and prompting...",
-      "tags": [
-        "ai",
-        "productivity",
-        "promptengineering",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpv1w8ktzvan6joft46ru.png",
-      "source": "Dev.to",
-      "user": "Konark Sharma"
-    },
-    {
       "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
       "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
       "published_at": "2026-03-26T14:57:20Z",
@@ -2013,6 +2075,36 @@
       "user": "Leanne R"
     },
     {
+      "title": "AI Writes Code. You Own Quality.",
+      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
+      "published_at": "2026-03-24T15:43:40Z",
+      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
+      "tags": [
+        "ai",
+        "software",
+        "development",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
+    },
+    {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
+    },
+    {
       "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
       "url": "https://github.com/magnum6actual/flipoff",
       "published_at": "2026-03-26T12:46:35Z",
@@ -2024,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1525,
+      "stars": 1570,
       "user": "magnum6actual"
     },
     {
@@ -2039,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 619,
       "user": "NomaDamas"
     },
     {
@@ -2054,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "ghh-jb"
     },
     {
@@ -2099,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1647,
       "user": "HKUDS"
     },
     {
@@ -2114,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1047,
       "user": "GAIR-NLP"
     },
     {
@@ -2129,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 781,
       "user": "jxnxts"
     },
     {
@@ -2144,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 633,
       "user": "oaker-io"
     },
     {
@@ -2159,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 475,
       "user": "tonbistudio"
     },
     {
@@ -2174,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 1003,
       "user": "larksuite"
     },
     {
@@ -2189,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 857,
       "user": "fastclaw-ai"
     },
     {
@@ -2219,7 +2311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 246,
       "user": "tanviet12"
     },
     {
@@ -2234,7 +2326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "james-6-23"
     }
   ]
