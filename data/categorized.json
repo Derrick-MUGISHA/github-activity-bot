@@ -16,6 +16,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
+      "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
+      "published_at": "2026-03-27T19:07:08Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
+      "source": "Dev.to",
+      "user": "Yash Kumar Saini"
+    },
+    {
       "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
       "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
       "published_at": "2026-03-27T21:33:31Z",
@@ -192,35 +207,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymh2fgsbh945a2vc95vc.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
-      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
-      "published_at": "2026-03-26T10:50:55Z",
-      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
-      "tags": [
-        "opensource",
-        "go",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
-      "source": "Dev.to",
-      "user": "Ali Raza"
-    },
-    {
-      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
-      "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
-      "published_at": "2026-03-26T11:42:27Z",
-      "description": "There is a special genre of AI idea that sounds brilliant right up until you try to build it. It...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -747,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1048,
       "user": "GAIR-NLP"
     },
     {
@@ -762,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 647,
       "user": "oaker-io"
     },
     {
@@ -777,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 481,
       "user": "tonbistudio"
     },
     {
@@ -792,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1122,
       "user": "larksuite"
     },
     {
@@ -807,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 863,
       "user": "fastclaw-ai"
     },
     {
@@ -822,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 422,
       "user": "openilink"
     },
     {
@@ -1094,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1570,
+      "stars": 1613,
       "user": "magnum6actual"
     },
     {
@@ -1109,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 627,
       "user": "NomaDamas"
     },
     {
@@ -1365,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1667,
       "user": "HKUDS"
     },
     {
@@ -1380,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1048,
       "user": "GAIR-NLP"
     },
     {
@@ -1395,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 787,
       "user": "jxnxts"
     },
     {
@@ -1410,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 647,
       "user": "oaker-io"
     },
     {
@@ -1425,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 481,
       "user": "tonbistudio"
     }
   ],
@@ -1789,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1667,
       "user": "HKUDS"
     }
   ],
@@ -1943,6 +1929,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
+      "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
+      "published_at": "2026-03-27T19:07:08Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
+      "source": "Dev.to",
+      "user": "Yash Kumar Saini"
+    },
+    {
       "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
       "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
       "published_at": "2026-03-27T05:33:50Z",
@@ -1986,20 +1987,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyvzdqstgzm9uyi5tgga.png",
       "source": "Dev.to",
       "user": "Matthew Christiansen"
-    },
-    {
-      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
-      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
-      "published_at": "2026-03-26T10:50:55Z",
-      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
-      "tags": [
-        "opensource",
-        "go",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
-      "source": "Dev.to",
-      "user": "Ali Raza"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -2116,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1570,
+      "stars": 1613,
       "user": "magnum6actual"
     },
     {
@@ -2131,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 627,
       "user": "NomaDamas"
     },
     {
@@ -2191,7 +2178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1667,
       "user": "HKUDS"
     },
     {
@@ -2206,7 +2193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1048,
       "user": "GAIR-NLP"
     },
     {
@@ -2221,7 +2208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 787,
       "user": "jxnxts"
     },
     {
@@ -2236,7 +2223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 647,
       "user": "oaker-io"
     },
     {
@@ -2251,7 +2238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 481,
       "user": "tonbistudio"
     },
     {
@@ -2266,7 +2253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1122,
       "user": "larksuite"
     },
     {
@@ -2281,7 +2268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 863,
       "user": "fastclaw-ai"
     },
     {
@@ -2296,7 +2283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 422,
       "user": "openilink"
     },
     {
@@ -2326,7 +2313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "james-6-23"
     }
   ]
