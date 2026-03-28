@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 61 (58.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
 
 **Security**: 🟦🟦 6 (5.7%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.5 (27.5%)
-JavaScript      ██████████████████████████ 24.2 (24.2%)
-Python          ████████████████████████ 22.0 (22.0%)
-Java            ████████████████████████ 22.0 (22.0%)
-Swift           ██ 2.2 (2.2%)
+Go              ██████████████████████████████ 26.1 (26.1%)
+JavaScript      █████████████████████████████ 25.0 (25.0%)
+Java            ██████████████████████████ 22.7 (22.7%)
+Python          █████████████████████████ 21.6 (21.6%)
+Swift           ███ 2.3 (2.3%)
 Rust            █ 1.1 (1.1%)
 CSharp          █ 1.1 (1.1%)
 
@@ -72,10 +72,10 @@ CSharp          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
+    "Go" : 23
     "JavaScript" : 22
-    "Python" : 20
     "Java" : 20
+    "Python" : 19
     "Swift" : 2
     "Rust" : 1
     "CSharp" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![mcp](https://img.shields.io/badge/mcp-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![mcp](https://img.shields.io/badge/mcp-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-28 19:00 CAT)
+## 📅 Latest Updates (2026-03-28 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,15 +142,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png" width="200" alt="Speed vs smarts for coding agents?" />
-      <br/>
-      <b>Speed vs smarts for coding agents?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png" width="200" alt="The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!" />
       <br/>
@@ -159,8 +150,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png" width="200" alt="your agent can think. it can't remember." />
@@ -170,6 +159,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr9h7gujl2nf3k6bv2t4r.png" width="200" alt="I'm so sick of my editor telling me how great I am. Not that I'm not great." />
@@ -188,6 +179,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/fafhrd91/building-a-error-library-3kda">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqw27m0sp1r9i2trsdqca.png" width="200" alt="Building a Error Library" />
+      <br/>
+      <b>Building a Error Library</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -196,7 +196,6 @@ npm run test
 ### 📰 Top Headlines
 
 - [Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to](https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn) _[Dev.to]_
-- [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
 - [The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd) _[Dev.to]_
 - [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
@@ -213,10 +212,11 @@ npm run test
 - [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
 - [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
 - [Gemma-SRE: Self-Hosted vLLM Infrastructure Agent](https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam) _[Dev.to]_
+- [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
 - [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
 - [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 
-_Last automated update: Sat, 28 Mar 2026 19:54:05 CAT_
+_Last automated update: Sat, 28 Mar 2026 20:35:51 CAT_
 
 
 
@@ -224,7 +224,29 @@ _Last automated update: Sat, 28 Mar 2026 19:54:05 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. JavaScript: Implement a debounce function from scratch
+
+**Difficulty**: Hard | **Topics**: functions, timing
+
+<details>
+<summary>💡 Hint</summary>
+
+setTimeout, clearTimeout, wrapper function
+
+</details>
+
+### 2. Python: Explain GIL and its implications for multithreading
+
+**Difficulty**: Hard | **Topics**: concurrency, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Global Interpreter Lock, multiprocessing alternatives
+
+</details>
+
+### 3. NodeJS: Explain middleware in Express.js
 
 **Difficulty**: Easy | **Topics**: express, architecture
 
@@ -232,28 +254,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Request/response cycle, next(), chain of functions
-
-</details>
-
-### 2. Python: What are generators and when would you use them?
-
-**Difficulty**: Medium | **Topics**: iterators, memory
-
-<details>
-<summary>💡 Hint</summary>
-
-yield keyword, lazy evaluation, memory efficiency
-
-</details>
-
-### 3. Python: Explain decorators in Python with an example
-
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
-
-<details>
-<summary>💡 Hint</summary>
-
-Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 17:54:05 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 18:35:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
