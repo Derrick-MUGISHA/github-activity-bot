@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-93-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-28-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,31 +28,29 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (56.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (57.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (28.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.4%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (22.6%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.4%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (20.4%)
 
-**Cloud**: 🟦🟦🟦🟦 11 (10.7%)
+**Cloud**: 🟦🟦🟦🟦 11 (11.8%)
 
-**WebDev**: 🟦🟦 5 (4.9%)
+**WebDev**: 🟦🟦 5 (5.4%)
 
-**Security**: 🟦🟦 5 (4.9%)
+**DevOps**: 🟦 3 (3.2%)
 
-**DevOps**: 🟦 3 (2.9%)
+**Database**: 🟦 3 (3.2%)
 
-**Database**: 🟦 3 (2.9%)
-
-**Mobile**: 🟦 2 (1.9%)
+**Security**: 🟦 3 (3.2%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 48 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,23 +58,21 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.1 (26.1%)
-JavaScript      █████████████████████████████ 25.0 (25.0%)
-Java            ██████████████████████████ 22.7 (22.7%)
-Python          █████████████████████████ 21.6 (21.6%)
-Swift           ███ 2.3 (2.3%)
-Rust            █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 26.6 (26.6%)
+Python          ███████████████████████████ 24.1 (24.1%)
+Java            ███████████████████████████ 24.1 (24.1%)
+Go              ██████████████████████████ 22.8 (22.8%)
+Rust            █ 1.3 (1.3%)
+CSharp          █ 1.3 (1.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 23
-    "JavaScript" : 22
-    "Java" : 20
+    "JavaScript" : 21
     "Python" : 19
-    "Swift" : 2
+    "Java" : 19
+    "Go" : 18
     "Rust" : 1
     "CSharp" : 1
 ```
@@ -85,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-4-blue) ![programming](https://img.shields.io/badge/programming-4-blue) ![mcp](https://img.shields.io/badge/mcp-4-blue) 
 
 
 
@@ -216,7 +212,7 @@ npm run test
 - [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 - [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 00:25:33 CAT_
+_Last automated update: Sun, 29 Mar 2026 00:55:52 CAT_
 
 
 
@@ -224,36 +220,36 @@ _Last automated update: Sun, 29 Mar 2026 00:25:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -287,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 22:25:33 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 22:55:52 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

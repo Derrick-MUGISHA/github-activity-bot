@@ -499,81 +499,6 @@
       "user": "Ali Raza"
     },
     {
-      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
-      "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
-      "published_at": "2026-03-26T11:42:27Z",
-      "description": "There is a special genre of AI idea that sounds brilliant right up until you try to build it. It...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
-      "title": "I Put a Prompt Injection on My Resume",
-      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
-      "published_at": "2026-03-23T23:51:06Z",
-      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
-      "tags": [
-        "ai",
-        "career",
-        "security",
-        "promptinjection"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
-      "source": "Dev.to",
-      "user": "Fielding Johnston"
-    },
-    {
-      "title": "Agentic Engineering: Lessons Learned Vol. 2",
-      "url": "https://dev.to/duske/agentic-engineering-lessons-learned-vol-2-7mh",
-      "published_at": "2026-03-23T20:15:59Z",
-      "description": "Six months ago, we shared our first lessons learned with agentic engineering. Since then, we've...",
-      "tags": [
-        "contextengineering",
-        "agentic",
-        "llm",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lhbf5ebf5jdyxnkk048.png",
-      "source": "Dev.to",
-      "user": "Dustin"
-    },
-    {
-      "title": "Confident and Wrong",
-      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
-      "published_at": "2026-03-17T20:07:24Z",
-      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
-      "tags": [
-        "ai",
-        "swift",
-        "programming",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
-      "source": "Dev.to",
-      "user": "Max"
-    },
-    {
-      "title": "The Local AI Powerhouse",
-      "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
-      "published_at": "2026-03-13T18:25:54Z",
-      "description": "Introduction   Keeping up with everything AI-related in the recent months has got me...",
-      "tags": [
-        "ai",
-        "qwen",
-        "localllm",
-        "gptoss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
-      "source": "Dev.to",
-      "user": "Amjad Abujamous"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -747,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 693,
       "user": "oaker-io"
     },
     {
@@ -762,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 512,
       "user": "tonbistudio"
     },
     {
@@ -777,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1584,
+      "stars": 1588,
       "user": "larksuite"
     },
     {
@@ -918,21 +843,6 @@
       "user": "Saroj Poddar"
     },
     {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1064,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1983,
+      "stars": 1997,
       "user": "magnum6actual"
     },
     {
@@ -1320,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1862,
+      "stars": 1874,
       "user": "HKUDS"
     },
     {
@@ -1350,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 822,
       "user": "jxnxts"
     },
     {
@@ -1365,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 693,
       "user": "oaker-io"
     },
     {
@@ -1380,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 512,
       "user": "tonbistudio"
     }
   ],
@@ -1505,38 +1415,7 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [
-    {
-      "title": "I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes",
-      "url": "https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he",
-      "published_at": "2026-03-24T11:06:02Z",
-      "description": "SystemeInternational uses phantom types, affine spaces, and zero-cost abstractions to make unit misuse a compile-time error. 306 tests, 8 bytes per quantity, and unit conversions at 3 ns/op in Release.",
-      "tags": [
-        "swift",
-        "programming",
-        "opensource",
-        "types"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
-      "source": "Dev.to",
-      "user": "Henrique Sasaki Yuya"
-    },
-    {
-      "title": "Confident and Wrong",
-      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
-      "published_at": "2026-03-17T20:07:24Z",
-      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
-      "tags": [
-        "ai",
-        "swift",
-        "programming",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
-      "source": "Dev.to",
-      "user": "Max"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
     {
       "title": "This is Cloud Run: Configuration",
@@ -1699,7 +1578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1862,
+      "stars": 1874,
       "user": "HKUDS"
     }
   ],
@@ -1777,36 +1656,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qp2a5bgdrnmn0ymar2g.png",
       "source": "Dev.to",
       "user": "Kevin Bridges"
-    },
-    {
-      "title": "I Put a Prompt Injection on My Resume",
-      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
-      "published_at": "2026-03-23T23:51:06Z",
-      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
-      "tags": [
-        "ai",
-        "career",
-        "security",
-        "promptinjection"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
-      "source": "Dev.to",
-      "user": "Fielding Johnston"
-    },
-    {
-      "title": "I built a terminal-native Little Snitch alternative for macOS",
-      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
-      "published_at": "2026-03-24T11:49:08Z",
-      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
-      "tags": [
-        "go",
-        "macos",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
-      "source": "Dev.to",
-      "user": "Nick Ciolpan"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1985,21 +1834,6 @@
       "user": "Ali Raza"
     },
     {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
-    },
-    {
       "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
       "url": "https://github.com/magnum6actual/flipoff",
       "published_at": "2026-03-26T12:46:35Z",
@@ -2011,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1983,
+      "stars": 1997,
       "user": "magnum6actual"
     },
     {
@@ -2086,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1862,
+      "stars": 1874,
       "user": "HKUDS"
     },
     {
@@ -2116,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 822,
       "user": "jxnxts"
     },
     {
@@ -2131,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 693,
       "user": "oaker-io"
     },
     {
@@ -2146,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 512,
       "user": "tonbistudio"
     },
     {
@@ -2161,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1584,
+      "stars": 1588,
       "user": "larksuite"
     },
     {
@@ -2221,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "james-6-23"
     }
   ]
