@@ -559,21 +559,6 @@
       "user": "marcosomma"
     },
     {
-      "title": "AI Writes Code. You Own Quality.",
-      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
-      "published_at": "2026-03-24T15:43:40Z",
-      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
-      "tags": [
-        "ai",
-        "software",
-        "development",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
-    },
-    {
       "title": "I Put a Prompt Injection on My Resume",
       "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
       "published_at": "2026-03-23T23:51:06Z",
@@ -617,6 +602,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lhbf5ebf5jdyxnkk048.png",
       "source": "Dev.to",
       "user": "Dustin"
+    },
+    {
+      "title": "Confident and Wrong",
+      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
+      "published_at": "2026-03-17T20:07:24Z",
+      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
+      "tags": [
+        "ai",
+        "swift",
+        "programming",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
+      "source": "Dev.to",
+      "user": "Max"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1060,
       "user": "GAIR-NLP"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 675,
       "user": "oaker-io"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "tonbistudio"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1348,
+      "stars": 1393,
       "user": "larksuite"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 868,
       "user": "fastclaw-ai"
     },
     {
@@ -1109,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1718,
+      "stars": 1736,
       "user": "magnum6actual"
     },
     {
@@ -1124,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "NomaDamas"
     },
     {
@@ -1380,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1704,
+      "stars": 1714,
       "user": "HKUDS"
     },
     {
@@ -1395,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1060,
       "user": "GAIR-NLP"
     },
     {
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 799,
       "user": "jxnxts"
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 675,
       "user": "oaker-io"
     },
     {
@@ -1440,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "tonbistudio"
     }
   ],
@@ -1595,6 +1595,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
       "source": "Dev.to",
       "user": "Henrique Sasaki Yuya"
+    },
+    {
+      "title": "Confident and Wrong",
+      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
+      "published_at": "2026-03-17T20:07:24Z",
+      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
+      "tags": [
+        "ai",
+        "swift",
+        "programming",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
+      "source": "Dev.to",
+      "user": "Max"
     }
   ],
   "Cloud": [
@@ -1774,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1704,
+      "stars": 1714,
       "user": "HKUDS"
     }
   ],
@@ -2075,21 +2090,6 @@
       "user": "Ali Raza"
     },
     {
-      "title": "AI Writes Code. You Own Quality.",
-      "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
-      "published_at": "2026-03-24T15:43:40Z",
-      "description": "The more I use AI tools like Claude Code, the clearer it becomes: engineering skills are what make AI...",
-      "tags": [
-        "ai",
-        "software",
-        "development",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3izkesfz1oxoasrw59y.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
-    },
-    {
       "title": "TypeScript deserved a real DDD framework - so I built one",
       "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
       "published_at": "2026-03-24T08:04:26Z",
@@ -2116,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1718,
+      "stars": 1736,
       "user": "magnum6actual"
     },
     {
@@ -2131,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "NomaDamas"
     },
     {
@@ -2191,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1704,
+      "stars": 1714,
       "user": "HKUDS"
     },
     {
@@ -2206,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1060,
       "user": "GAIR-NLP"
     },
     {
@@ -2221,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 799,
       "user": "jxnxts"
     },
     {
@@ -2236,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 675,
       "user": "oaker-io"
     },
     {
@@ -2251,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "tonbistudio"
     },
     {
@@ -2266,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1348,
+      "stars": 1393,
       "user": "larksuite"
     },
     {
@@ -2281,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 868,
       "user": "fastclaw-ai"
     },
     {

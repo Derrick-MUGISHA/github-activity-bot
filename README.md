@@ -30,7 +30,7 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 61 (58.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
@@ -46,7 +46,7 @@
 
 **Database**: 🟦 3 (2.9%)
 
-**Mobile**:  1 (1.0%)
+**Mobile**: 🟦 2 (1.9%)
 
 
 
@@ -60,13 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.8 (27.8%)
-JavaScript      ██████████████████████████ 24.4 (24.4%)
-Python          ████████████████████████ 22.2 (22.2%)
-Java            ████████████████████████ 22.2 (22.2%)
+Go              ██████████████████████████████ 27.5 (27.5%)
+JavaScript      ██████████████████████████ 24.2 (24.2%)
+Python          ████████████████████████ 22.0 (22.0%)
+Java            ████████████████████████ 22.0 (22.0%)
+Swift           ██ 2.2 (2.2%)
 Rust            █ 1.1 (1.1%)
 CSharp          █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
 
 ```
 
@@ -76,9 +76,9 @@ pie title Programming Languages Distribution
     "JavaScript" : 22
     "Python" : 20
     "Java" : 20
+    "Swift" : 2
     "Rust" : 1
     "CSharp" : 1
-    "Swift" : 1
 ```
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-28 17:00 CAT)
+## 📅 Latest Updates (2026-03-28 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
 - [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 
-_Last automated update: Sat, 28 Mar 2026 17:37:43 CAT_
+_Last automated update: Sat, 28 Mar 2026 18:01:25 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Sat, 28 Mar 2026 17:37:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
-
-**Difficulty**: Medium | **Topics**: iterators, memory
-
-<details>
-<summary>💡 Hint</summary>
-
-yield keyword, lazy evaluation, memory efficiency
-
-</details>
-
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
 **Difficulty**: Easy | **Topics**: variables, scope
 
@@ -246,14 +235,25 @@ Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. JavaScript: Implement a debounce function from scratch
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Event bubbling, single listener for multiple elements
+
+</details>
+
+### 3. DataStructures: Implement LRU Cache
+
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
+
+<details>
+<summary>💡 Hint</summary>
+
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 15:37:43 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 16:01:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
