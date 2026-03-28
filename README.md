@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 61 (58.1%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
 **Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
-**WebDev**: 🟦🟦 6 (5.7%)
-
 **Security**: 🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 5 (4.8%)
+
+**DevOps**: 🟦 4 (3.8%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.7 (26.7%)
-JavaScript      █████████████████████████████ 25.6 (25.6%)
-Python          █████████████████████████ 22.2 (22.2%)
-Java            █████████████████████████ 22.2 (22.2%)
+Go              ██████████████████████████████ 27.8 (27.8%)
+JavaScript      ██████████████████████████ 24.4 (24.4%)
+Python          ████████████████████████ 22.2 (22.2%)
+Java            ████████████████████████ 22.2 (22.2%)
 Rust            █ 1.1 (1.1%)
 CSharp          █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -72,8 +72,8 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 24
-    "JavaScript" : 23
+    "Go" : 25
+    "JavaScript" : 22
     "Python" : 20
     "Java" : 20
     "Rust" : 1
@@ -216,7 +216,7 @@ npm run test
 - [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
 - [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 
-_Last automated update: Sat, 28 Mar 2026 16:28:36 CAT_
+_Last automated update: Sat, 28 Mar 2026 16:59:09 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 28 Mar 2026 16:28:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 14:28:36 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 14:59:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
