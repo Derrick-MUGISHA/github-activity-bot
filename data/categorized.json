@@ -324,21 +324,6 @@
       "user": "Evidence Etinih Ekanem"
     },
     {
-      "title": "1st time at a big tech conference - GTC 2026",
-      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
-      "published_at": "2026-03-25T16:38:29Z",
-      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
-      "tags": [
-        "ai",
-        "techtalks",
-        "career",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
-      "source": "Dev.to",
-      "user": "Matt Cool"
-    },
-    {
       "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
       "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
       "published_at": "2026-03-26T07:06:06Z",
@@ -544,21 +529,6 @@
       "user": "Fielding Johnston"
     },
     {
-      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
-      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
-      "published_at": "2026-03-24T14:53:30Z",
-      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
-      "tags": [
-        "ai",
-        "devops",
-        "devrel",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "Agentic Engineering: Lessons Learned Vol. 2",
       "url": "https://dev.to/duske/agentic-engineering-lessons-learned-vol-2-7mh",
       "published_at": "2026-03-23T20:15:59Z",
@@ -587,6 +557,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
       "source": "Dev.to",
       "user": "Max"
+    },
+    {
+      "title": "The Local AI Powerhouse",
+      "url": "https://dev.to/amjadmh73/the-local-ai-powerhouse-28j",
+      "published_at": "2026-03-13T18:25:54Z",
+      "description": "Introduction   Keeping up with everything AI-related in the recent months has got me...",
+      "tags": [
+        "ai",
+        "qwen",
+        "localllm",
+        "gptoss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq655ea3bx76qojrhcjeq.png",
+      "source": "Dev.to",
+      "user": "Amjad Abujamous"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -762,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "oaker-io"
     },
     {
@@ -777,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 507,
       "user": "tonbistudio"
     },
     {
@@ -792,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1563,
       "user": "larksuite"
     },
     {
@@ -822,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 435,
       "user": "openilink"
     },
     {
@@ -1079,7 +1064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1899,
+      "stars": 1919,
       "user": "magnum6actual"
     },
     {
@@ -1094,7 +1079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 655,
       "user": "NomaDamas"
     },
     {
@@ -1335,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1786,
+      "stars": 1798,
       "user": "HKUDS"
     },
     {
@@ -1365,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 813,
       "user": "jxnxts"
     },
     {
@@ -1380,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "oaker-io"
     },
     {
@@ -1395,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 507,
       "user": "tonbistudio"
     }
   ],
@@ -1444,21 +1429,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
       "source": "Dev.to",
       "user": "Nikoloz Turazashvili (@axrisi)"
-    },
-    {
-      "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
-      "url": "https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2",
-      "published_at": "2026-03-24T14:53:30Z",
-      "description": "I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...",
-      "tags": [
-        "ai",
-        "devops",
-        "devrel",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzkfwxiqxa452zqf89t0.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     }
   ],
   "WebDev": [
@@ -1729,7 +1699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1786,
+      "stars": 1798,
       "user": "HKUDS"
     }
   ],
@@ -2056,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1899,
+      "stars": 1919,
       "user": "magnum6actual"
     },
     {
@@ -2071,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 655,
       "user": "NomaDamas"
     },
     {
@@ -2131,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1786,
+      "stars": 1798,
       "user": "HKUDS"
     },
     {
@@ -2161,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 813,
       "user": "jxnxts"
     },
     {
@@ -2176,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "oaker-io"
     },
     {
@@ -2191,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 507,
       "user": "tonbistudio"
     },
     {
@@ -2206,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1563,
       "user": "larksuite"
     },
     {
@@ -2236,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 435,
       "user": "openilink"
     },
     {
@@ -2266,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 221,
       "user": "james-6-23"
     }
   ]
