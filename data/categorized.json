@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Speed vs smarts for coding agents?",
-      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
-      "published_at": "2026-03-26T15:58:22Z",
-      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
       "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
       "published_at": "2026-03-27T19:07:08Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
       "source": "Dev.to",
       "user": "Yash Kumar Saini"
+    },
+    {
+      "title": "Speed vs smarts for coding agents?",
+      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
+      "published_at": "2026-03-26T15:58:22Z",
+      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
+      "tags": [
+        "agents",
+        "ai",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
@@ -369,21 +369,6 @@
       "user": "Patrik Szewczyk"
     },
     {
-      "title": "The data engineer's Cortex Code cheat sheet",
-      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
-      "published_at": "2026-03-26T18:06:57Z",
-      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
-      "tags": [
-        "cortexcode",
-        "snowflake",
-        "ai",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
-      "source": "Dev.to",
-      "user": "Daniel Myers"
-    },
-    {
       "title": "AI Didn't Break Your Culture. It Exposed It.",
       "url": "https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729",
       "published_at": "2026-03-25T19:07:20Z",
@@ -397,6 +382,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fblindy-trust.png",
       "source": "Dev.to",
       "user": "Jono Herrington"
+    },
+    {
+      "title": "The data engineer's Cortex Code cheat sheet",
+      "url": "https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60",
+      "published_at": "2026-03-26T18:06:57Z",
+      "description": "A practical guide to the commands, prompts, patterns, and habits that make Cortex Code useful in real...",
+      "tags": [
+        "cortexcode",
+        "snowflake",
+        "ai",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forjnbc2oo1qbrjreou4v.png",
+      "source": "Dev.to",
+      "user": "Daniel Myers"
     },
     {
       "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
@@ -528,6 +528,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
+      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
+      "published_at": "2026-03-26T10:50:55Z",
+      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
+      "tags": [
+        "opensource",
+        "go",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
+      "source": "Dev.to",
+      "user": "Ali Raza"
+    },
+    {
+      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
+      "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
+      "published_at": "2026-03-26T11:42:27Z",
+      "description": "There is a special genre of AI idea that sounds brilliant right up until you try to build it. It...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "AI Writes Code. You Own Quality.",
@@ -733,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1052,
       "user": "GAIR-NLP"
     },
     {
@@ -748,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 657,
       "user": "oaker-io"
     },
     {
@@ -763,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "tonbistudio"
     },
     {
@@ -778,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1122,
+      "stars": 1207,
       "user": "larksuite"
     },
     {
@@ -793,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 864,
       "user": "fastclaw-ai"
     },
     {
@@ -808,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 424,
       "user": "openilink"
     },
     {
@@ -1080,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1651,
       "user": "magnum6actual"
     },
     {
@@ -1095,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 630,
       "user": "NomaDamas"
     },
     {
@@ -1351,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1667,
+      "stars": 1681,
       "user": "HKUDS"
     },
     {
@@ -1366,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1052,
       "user": "GAIR-NLP"
     },
     {
@@ -1381,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 790,
       "user": "jxnxts"
     },
     {
@@ -1396,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 657,
       "user": "oaker-io"
     },
     {
@@ -1411,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "tonbistudio"
     }
   ],
@@ -1775,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1667,
+      "stars": 1681,
       "user": "HKUDS"
     }
   ],
@@ -1914,21 +1943,6 @@
   ],
   "Tools": [
     {
-      "title": "Speed vs smarts for coding agents?",
-      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
-      "published_at": "2026-03-26T15:58:22Z",
-      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
       "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
       "published_at": "2026-03-27T19:07:08Z",
@@ -1942,6 +1956,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
       "source": "Dev.to",
       "user": "Yash Kumar Saini"
+    },
+    {
+      "title": "Speed vs smarts for coding agents?",
+      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
+      "published_at": "2026-03-26T15:58:22Z",
+      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
+      "tags": [
+        "agents",
+        "ai",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
@@ -2062,6 +2091,20 @@
       "user": "Leanne R"
     },
     {
+      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
+      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
+      "published_at": "2026-03-26T10:50:55Z",
+      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
+      "tags": [
+        "opensource",
+        "go",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
+      "source": "Dev.to",
+      "user": "Ali Raza"
+    },
+    {
       "title": "AI Writes Code. You Own Quality.",
       "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0",
       "published_at": "2026-03-24T15:43:40Z",
@@ -2103,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1651,
       "user": "magnum6actual"
     },
     {
@@ -2118,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 630,
       "user": "NomaDamas"
     },
     {
@@ -2178,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1667,
+      "stars": 1681,
       "user": "HKUDS"
     },
     {
@@ -2193,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1052,
       "user": "GAIR-NLP"
     },
     {
@@ -2208,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 790,
       "user": "jxnxts"
     },
     {
@@ -2223,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 657,
       "user": "oaker-io"
     },
     {
@@ -2238,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "tonbistudio"
     },
     {
@@ -2253,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1122,
+      "stars": 1207,
       "user": "larksuite"
     },
     {
@@ -2268,7 +2311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 864,
       "user": "fastclaw-ai"
     },
     {
@@ -2283,7 +2326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 424,
       "user": "openilink"
     },
     {
