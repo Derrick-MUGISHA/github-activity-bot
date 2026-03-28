@@ -31,36 +31,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Auth0 MCP Server Extension for Gemini CLI",
-      "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
-      "published_at": "2026-03-27T11:00:00Z",
-      "description": "The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...",
-      "tags": [
-        "ai",
-        "mcp",
-        "tutorial",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
-      "source": "Dev.to",
-      "user": "Jessica Temporal"
-    },
-    {
-      "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
-      "url": "https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0",
-      "published_at": "2026-03-27T04:13:12Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   I maintain a few open...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8uz94x67y94e40c3ra0.png",
-      "source": "Dev.to",
-      "user": "Souvik Biswas"
-    },
-    {
       "title": "your agent can think. it can't remember.",
       "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
       "published_at": "2026-03-25T15:01:56Z",
@@ -149,6 +119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t3qjjyfhed329lyu81b.jpg",
       "source": "Dev.to",
       "user": "rpostulart"
+    },
+    {
+      "title": "Auth0 MCP Server Extension for Gemini CLI",
+      "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
+      "published_at": "2026-03-27T11:00:00Z",
+      "description": "The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...",
+      "tags": [
+        "ai",
+        "mcp",
+        "tutorial",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
+      "source": "Dev.to",
+      "user": "Jessica Temporal"
     },
     {
       "title": "Vibe Coding Needs Telemetry",
@@ -311,6 +296,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
       "source": "Dev.to",
       "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
+      "url": "https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0",
+      "published_at": "2026-03-27T04:13:12Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   I maintain a few open...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8uz94x67y94e40c3ra0.png",
+      "source": "Dev.to",
+      "user": "Souvik Biswas"
     },
     {
       "title": "Benchmark oriented development is a road to nowhere",
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "ghh-jb"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1036,
       "user": "GAIR-NLP"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 611,
       "user": "oaker-io"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 465,
       "user": "tonbistudio"
     },
     {
@@ -825,6 +825,21 @@
       "user": "fastclaw-ai"
     },
     {
+      "title": "larksuite/cli - A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+      "url": "https://github.com/larksuite/cli",
+      "published_at": "2026-03-25T07:13:30Z",
+      "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
+      "source": "GitHub",
+      "stars": 527,
+      "user": "larksuite"
+    },
+    {
       "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
       "url": "https://github.com/openilink/openilink-hub",
       "published_at": "2026-03-22T03:39:57Z",
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 417,
       "user": "openilink"
     },
     {
@@ -1108,7 +1123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1443,
+      "stars": 1455,
       "user": "magnum6actual"
     },
     {
@@ -1123,8 +1138,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 611,
       "user": "NomaDamas"
+    },
+    {
+      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
+      "url": "https://github.com/ghh-jb/DarkSword",
+      "published_at": "2026-03-22T19:22:41Z",
+      "description": "DarkSword exploit chain dump.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
+      "source": "GitHub",
+      "stars": 114,
+      "user": "ghh-jb"
     },
     {
       "title": "pandaboost/PhantomTrending - Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
@@ -1140,21 +1170,6 @@
       "source": "GitHub",
       "stars": 113,
       "user": "pandaboost"
-    },
-    {
-      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
-      "url": "https://github.com/ghh-jb/DarkSword",
-      "published_at": "2026-03-22T19:22:41Z",
-      "description": "DarkSword exploit chain dump.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
-      "source": "GitHub",
-      "stars": 112,
-      "user": "ghh-jb"
     },
     {
       "title": "pandaboost/PhantomChatTrending - Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
@@ -1379,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1576,
       "user": "HKUDS"
     },
     {
@@ -1394,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1036,
       "user": "GAIR-NLP"
     },
     {
@@ -1409,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 772,
       "user": "jxnxts"
     },
     {
@@ -1424,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 611,
       "user": "oaker-io"
     },
     {
@@ -1439,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 465,
       "user": "tonbistudio"
     }
   ],
@@ -1772,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1576,
       "user": "HKUDS"
     }
   ],
@@ -1896,21 +1911,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Auth0 MCP Server Extension for Gemini CLI",
-      "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
-      "published_at": "2026-03-27T11:00:00Z",
-      "description": "The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...",
-      "tags": [
-        "ai",
-        "mcp",
-        "tutorial",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
-      "source": "Dev.to",
-      "user": "Jessica Temporal"
-    },
-    {
       "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
       "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
       "published_at": "2026-03-26T05:12:54Z",
@@ -1939,6 +1939,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t3qjjyfhed329lyu81b.jpg",
       "source": "Dev.to",
       "user": "rpostulart"
+    },
+    {
+      "title": "Auth0 MCP Server Extension for Gemini CLI",
+      "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
+      "published_at": "2026-03-27T11:00:00Z",
+      "description": "The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...",
+      "tags": [
+        "ai",
+        "mcp",
+        "tutorial",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
+      "source": "Dev.to",
+      "user": "Jessica Temporal"
     },
     {
       "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
@@ -2069,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1443,
+      "stars": 1455,
       "user": "magnum6actual"
     },
     {
@@ -2084,8 +2099,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 611,
       "user": "NomaDamas"
+    },
+    {
+      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
+      "url": "https://github.com/ghh-jb/DarkSword",
+      "published_at": "2026-03-22T19:22:41Z",
+      "description": "DarkSword exploit chain dump.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
+      "source": "GitHub",
+      "stars": 114,
+      "user": "ghh-jb"
     },
     {
       "title": "pandaboost/PhantomTrending - Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
@@ -2101,21 +2131,6 @@
       "source": "GitHub",
       "stars": 113,
       "user": "pandaboost"
-    },
-    {
-      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
-      "url": "https://github.com/ghh-jb/DarkSword",
-      "published_at": "2026-03-22T19:22:41Z",
-      "description": "DarkSword exploit chain dump.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
-      "source": "GitHub",
-      "stars": 112,
-      "user": "ghh-jb"
     },
     {
       "title": "pandaboost/PhantomChatTrending - Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
@@ -2144,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1576,
       "user": "HKUDS"
     },
     {
@@ -2159,7 +2174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1036,
       "user": "GAIR-NLP"
     },
     {
@@ -2174,7 +2189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 772,
       "user": "jxnxts"
     },
     {
@@ -2189,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 611,
       "user": "oaker-io"
     },
     {
@@ -2204,7 +2219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 465,
       "user": "tonbistudio"
     },
     {
@@ -2223,10 +2238,10 @@
       "user": "fastclaw-ai"
     },
     {
-      "title": "larksuite/cli - GitHub Repository",
+      "title": "larksuite/cli - A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
       "url": "https://github.com/larksuite/cli",
       "published_at": "2026-03-25T07:13:30Z",
-      "description": "Trending GitHub Repository",
+      "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
       "tags": [
         "go",
         "github",
@@ -2234,7 +2249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 527,
       "user": "larksuite"
     },
     {
@@ -2249,7 +2264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 417,
       "user": "openilink"
     },
     {
