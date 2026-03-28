@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-6-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-28-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,29 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (57.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.6%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Cloud**: 🟦🟦🟦🟦 12 (11.8%)
+**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
-**WebDev**: 🟦🟦 6 (5.9%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦 4 (3.9%)
+**Security**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦 4 (3.9%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
 **Database**: 🟦 3 (2.9%)
+
+**Mobile**:  1 (1.0%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 57 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,30 +60,32 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.2 (26.2%)
-Go              █████████████████████████████ 25.0 (25.0%)
-Python          ███████████████████████████ 23.8 (23.8%)
-Java            ██████████████████████████ 22.6 (22.6%)
-Rust            █ 1.2 (1.2%)
-CSharp          █ 1.2 (1.2%)
+Go              ██████████████████████████████ 27.5 (27.5%)
+JavaScript      ████████████████████████████ 25.3 (25.3%)
+Python          ████████████████████████ 22.0 (22.0%)
+Java            ████████████████████████ 22.0 (22.0%)
+Rust            █ 1.1 (1.1%)
+CSharp          █ 1.1 (1.1%)
+Swift           █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 22
-    "Go" : 21
+    "Go" : 25
+    "JavaScript" : 23
     "Python" : 20
-    "Java" : 19
+    "Java" : 20
     "Rust" : 1
     "CSharp" : 1
+    "Swift" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) 
 
 
 
@@ -121,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-28 13:00 CAT)
+## 📅 Latest Updates (2026-03-28 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -129,19 +133,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png" width="200" alt="The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!" />
+    <a href="https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png" width="200" alt="Speed vs smarts for coding agents?" />
       <br/>
-      <b>The Next DEV Weekend Challenge Launches on April 1...</b>
+      <b>Speed vs smarts for coding agents?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png" width="200" alt="Speed vs smarts for coding agents?" />
+    <a href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png" width="200" alt="The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!" />
       <br/>
-      <b>Speed vs smarts for coding agents?</b>
+      <b>The Next DEV Weekend Challenge Launches on April 1...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -191,8 +195,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd) _[Dev.to]_
 - [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
+- [The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd) _[Dev.to]_
 - [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [Check Up with Each Other](https://dev.to/francistrdev/check-up-with-each-other-2ogc) _[Dev.to]_
@@ -212,7 +216,7 @@ npm run test
 - [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39) _[Dev.to]_
 - [I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy](https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e) _[Dev.to]_
 
-_Last automated update: Sat, 28 Mar 2026 13:50:48 CAT_
+_Last automated update: Sat, 28 Mar 2026 14:47:12 CAT_
 
 
 
@@ -220,36 +224,36 @@ _Last automated update: Sat, 28 Mar 2026 13:50:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Execution timing, event loop phases
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -283,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 11:50:48 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 12:47:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
