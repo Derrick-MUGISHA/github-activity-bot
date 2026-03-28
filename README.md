@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-28 9:00 CAT)
+## 📅 Latest Updates (2026-03-28 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
 - [Gemma-SRE: Self-Hosted vLLM Infrastructure Agent](https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam) _[Dev.to]_
 
-_Last automated update: Sat, 28 Mar 2026 09:33:25 CAT_
+_Last automated update: Sat, 28 Mar 2026 10:05:57 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Sat, 28 Mar 2026 09:33:25 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 07:33:25 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 08:05:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
