@@ -604,6 +604,21 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "Agentic Engineering: Lessons Learned Vol. 2",
+      "url": "https://dev.to/duske/agentic-engineering-lessons-learned-vol-2-7mh",
+      "published_at": "2026-03-23T20:15:59Z",
+      "description": "Six months ago, we shared our first lessons learned with agentic engineering. Since then, we've...",
+      "tags": [
+        "contextengineering",
+        "agentic",
+        "llm",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lhbf5ebf5jdyxnkk048.png",
+      "source": "Dev.to",
+      "user": "Dustin"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -762,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1054,
       "user": "GAIR-NLP"
     },
     {
@@ -777,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 663,
       "user": "oaker-io"
     },
     {
@@ -792,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 484,
       "user": "tonbistudio"
     },
     {
@@ -807,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1207,
+      "stars": 1271,
       "user": "larksuite"
     },
     {
@@ -822,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 865,
       "user": "fastclaw-ai"
     },
     {
@@ -931,21 +946,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
       "source": "Dev.to",
       "user": "Habib Jutt"
-    },
-    {
-      "title": "Tend (and about Vibe Coding)",
-      "url": "https://dev.to/iamschulz/tend-and-about-vibe-coding-2501",
-      "published_at": "2026-03-25T09:23:52Z",
-      "description": "It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...",
-      "tags": [
-        "frontend",
-        "vue",
-        "docker",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Schulz"
     },
     {
       "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
@@ -1109,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1651,
+      "stars": 1679,
       "user": "magnum6actual"
     },
     {
@@ -1124,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 635,
       "user": "NomaDamas"
     },
     {
@@ -1380,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1681,
+      "stars": 1689,
       "user": "HKUDS"
     },
     {
@@ -1395,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1054,
       "user": "GAIR-NLP"
     },
     {
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 794,
       "user": "jxnxts"
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 663,
       "user": "oaker-io"
     },
     {
@@ -1440,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 484,
       "user": "tonbistudio"
     }
   ],
@@ -1489,21 +1489,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
       "source": "Dev.to",
       "user": "Nikoloz Turazashvili (@axrisi)"
-    },
-    {
-      "title": "Tend (and about Vibe Coding)",
-      "url": "https://dev.to/iamschulz/tend-and-about-vibe-coding-2501",
-      "published_at": "2026-03-25T09:23:52Z",
-      "description": "It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...",
-      "tags": [
-        "frontend",
-        "vue",
-        "docker",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Schulz"
     },
     {
       "title": "I’m Learning AI in Public, and I Think Developers Need to Chill a Bit",
@@ -1566,21 +1551,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvqc5cf2oga14cxnh7lq.png",
       "source": "Dev.to",
       "user": "genuineswe"
-    },
-    {
-      "title": "Tend (and about Vibe Coding)",
-      "url": "https://dev.to/iamschulz/tend-and-about-vibe-coding-2501",
-      "published_at": "2026-03-25T09:23:52Z",
-      "description": "It’s been a while since I’ve coded for myself. I did push an update on Ssstyles and JSSynth every now...",
-      "tags": [
-        "frontend",
-        "vue",
-        "docker",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faf0belaoxy6ojsepqfvg.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Schulz"
     },
     {
       "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
@@ -1804,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1681,
+      "stars": 1689,
       "user": "HKUDS"
     }
   ],
@@ -2146,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1651,
+      "stars": 1679,
       "user": "magnum6actual"
     },
     {
@@ -2161,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 635,
       "user": "NomaDamas"
     },
     {
@@ -2221,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1681,
+      "stars": 1689,
       "user": "HKUDS"
     },
     {
@@ -2236,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1054,
       "user": "GAIR-NLP"
     },
     {
@@ -2251,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 794,
       "user": "jxnxts"
     },
     {
@@ -2266,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 663,
       "user": "oaker-io"
     },
     {
@@ -2281,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 484,
       "user": "tonbistudio"
     },
     {
@@ -2296,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1207,
+      "stars": 1271,
       "user": "larksuite"
     },
     {
@@ -2311,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 865,
       "user": "fastclaw-ai"
     },
     {
