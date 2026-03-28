@@ -61,21 +61,6 @@
       "user": "Roman Ponomarev"
     },
     {
-      "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
-      "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
-      "published_at": "2026-03-26T05:12:54Z",
-      "description": "`rgql` is a CLI tool that renames GraphQL types, fields, and fragments across schema files and embedded TypeScript queries using full AST analysis. Because it's type-safe and deterministic, it's ideal for AI coding agents like Claude Code and Codex — they can invoke a single command instead of performing fragile find-and-replace across dozens of files.",
-      "tags": [
-        "graphql",
-        "ast",
-        "ts",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
-      "source": "Dev.to",
-      "user": "Yamashou"
-    },
-    {
       "title": "Cross Cloud ADK with Python, and the Azure App Service",
       "url": "https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47",
       "published_at": "2026-03-25T18:48:13Z",
@@ -209,21 +194,6 @@
       "user": "xbill"
     },
     {
-      "title": "Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness",
-      "url": "https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic",
-      "published_at": "2026-03-26T00:33:34Z",
-      "description": "Build a multi-agent system with dynamic configuration in 20 minutes using LangGraph multi-agent workflows, RAG search, and LaunchDarkly AI Configs.",
-      "tags": [
-        "agents",
-        "ai",
-        "aiops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpcvnrnu606ywn56pd1i.webp",
-      "source": "Dev.to",
-      "user": "Scarlett Attensil"
-    },
-    {
       "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
       "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
       "published_at": "2026-03-26T10:50:55Z",
@@ -313,6 +283,31 @@
       "user": "Souvik Biswas"
     },
     {
+      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
+      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
+      "published_at": "2026-03-26T13:53:03Z",
+      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
+      "tags": [
+        "linux",
+        "devops",
+        "cloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
+      "source": "Dev.to",
+      "user": "Nikoloz Turazashvili (@axrisi)"
+    },
+    {
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
+      "source": "Dev.to",
+      "user": "Typing Turtle"
+    },
+    {
       "title": "Benchmark oriented development is a road to nowhere",
       "url": "https://dev.to/dmtrkovalenko/benchmark-oriented-development-is-a-road-to-nowhere-1518",
       "published_at": "2026-03-25T22:33:40Z",
@@ -340,31 +335,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felo7b8moqchuv6rc9ijs.png",
       "source": "Dev.to",
       "user": "Glen Yu"
-    },
-    {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
-      "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
-    },
-    {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
     },
     {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
@@ -791,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "oaker-io"
     },
     {
@@ -806,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 468,
       "user": "tonbistudio"
     },
     {
@@ -821,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 848,
       "user": "fastclaw-ai"
     },
     {
@@ -836,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 776,
       "user": "larksuite"
     },
     {
@@ -851,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 419,
       "user": "openilink"
     },
     {
@@ -866,26 +836,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 245,
       "user": "tanviet12"
     }
   ],
   "JavaScript": [
-    {
-      "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
-      "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
-      "published_at": "2026-03-26T05:12:54Z",
-      "description": "`rgql` is a CLI tool that renames GraphQL types, fields, and fragments across schema files and embedded TypeScript queries using full AST analysis. Because it's type-safe and deterministic, it's ideal for AI coding agents like Claude Code and Codex — they can invoke a single command instead of performing fragile find-and-replace across dozens of files.",
-      "tags": [
-        "graphql",
-        "ast",
-        "ts",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
-      "source": "Dev.to",
-      "user": "Yamashou"
-    },
     {
       "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
       "url": "https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2",
@@ -1123,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1469,
+      "stars": 1481,
       "user": "magnum6actual"
     },
     {
@@ -1394,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1594,
+      "stars": 1604,
       "user": "HKUDS"
     },
     {
@@ -1424,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 775,
       "user": "jxnxts"
     },
     {
@@ -1439,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "oaker-io"
     },
     {
@@ -1454,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 468,
       "user": "tonbistudio"
     }
   ],
@@ -1787,7 +1742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1594,
+      "stars": 1604,
       "user": "HKUDS"
     }
   ],
@@ -1909,21 +1864,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
-      "url": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
-      "published_at": "2026-03-26T05:12:54Z",
-      "description": "`rgql` is a CLI tool that renames GraphQL types, fields, and fragments across schema files and embedded TypeScript queries using full AST analysis. Because it's type-safe and deterministic, it's ideal for AI coding agents like Claude Code and Codex — they can invoke a single command instead of performing fragile find-and-replace across dozens of files.",
-      "tags": [
-        "graphql",
-        "ast",
-        "ts",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxp8k6a71xdjyvzr31l1w.png",
-      "source": "Dev.to",
-      "user": "Yamashou"
     },
     {
       "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
@@ -2084,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 1469,
+      "stars": 1481,
       "user": "magnum6actual"
     },
     {
@@ -2159,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1594,
+      "stars": 1604,
       "user": "HKUDS"
     },
     {
@@ -2189,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 775,
       "user": "jxnxts"
     },
     {
@@ -2204,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "oaker-io"
     },
     {
@@ -2219,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 468,
       "user": "tonbistudio"
     },
     {
@@ -2234,7 +2174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 848,
       "user": "fastclaw-ai"
     },
     {
@@ -2249,7 +2189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 776,
       "user": "larksuite"
     },
     {
@@ -2264,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 419,
       "user": "openilink"
     },
     {
@@ -2279,7 +2219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 245,
       "user": "tanviet12"
     },
     {
