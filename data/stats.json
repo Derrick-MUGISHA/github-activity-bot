@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 61,
+    "AI": 60,
     "JavaScript": 23,
     "Python": 20,
     "DevOps": 4,
@@ -23,12 +23,11 @@
     "Java": 20,
     "Python": 20,
     "Go": 21,
-    "Ruby": 1,
     "CSharp": 1
   },
   "by_date": {
     "2026-03-27": 7,
-    "2026-03-26": 27,
+    "2026-03-26": 26,
     "2026-03-25": 15,
     "2026-03-24": 8,
     "2026-03-23": 6,
@@ -85,17 +84,16 @@
     "productivity": 4,
     "mcp": 4,
     "tutorial": 4,
-    "vibecoding": 4,
-    "career": 4
+    "career": 4,
+    "vibecoding": 4
   },
   "trending_topics": [],
   "language_percentages": {
     "Rust": "2.3",
-    "JavaScript": "26.1",
-    "Java": "22.7",
-    "Python": "22.7",
-    "Go": "23.9",
-    "Ruby": "1.1",
+    "JavaScript": "26.4",
+    "Java": "23.0",
+    "Python": "23.0",
+    "Go": "24.1",
     "CSharp": "1.1"
   }
 }
