@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-28 8:00 CAT)
+## 📅 Latest Updates (2026-03-28 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
 - [Gemma-SRE: Self-Hosted vLLM Infrastructure Agent](https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam) _[Dev.to]_
 
-_Last automated update: Sat, 28 Mar 2026 08:39:29 CAT_
+_Last automated update: Sat, 28 Mar 2026 09:33:25 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Sat, 28 Mar 2026 08:39:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 06:39:29 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 07:33:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
