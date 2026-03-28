@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-28 20:00 CAT)
+## 📅 Latest Updates (2026-03-28 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
 - [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
 
-_Last automated update: Sat, 28 Mar 2026 20:35:51 CAT_
+_Last automated update: Sat, 28 Mar 2026 21:18:53 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 28 Mar 2026 20:35:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 18:35:51 GMT</b><br/>
+  <b>Last automated update: Sat, 28 Mar 2026 19:18:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
