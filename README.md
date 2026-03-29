@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
 
 **WebDev**: 🟦🟦 6 (5.7%)
 
 **Database**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦 4 (3.8%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 24.2 (24.2%)
-JavaScript      █████████████████████████████ 23.1 (23.1%)
-Java            █████████████████████████████ 23.1 (23.1%)
-Python          █████████████████████████████ 23.1 (23.1%)
-CSharp          ███ 2.2 (2.2%)
-Rust            ███ 2.2 (2.2%)
+Go              ██████████████████████████████ 24.5 (24.5%)
+JavaScript      █████████████████████████████ 23.4 (23.4%)
+Java            █████████████████████████████ 23.4 (23.4%)
+Python          ███████████████████████████ 22.3 (22.3%)
+CSharp          ███ 2.1 (2.1%)
+Rust            ███ 2.1 (2.1%)
 PHP             █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
 
@@ -73,9 +73,9 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 22
-    "JavaScript" : 21
-    "Java" : 21
+    "Go" : 23
+    "JavaScript" : 22
+    "Java" : 22
     "Python" : 21
     "CSharp" : 2
     "Rust" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-29 6:00 CAT)
+## 📅 Latest Updates (2026-03-29 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,15 +144,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg" width="200" alt="Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets" />
-      <br/>
-      <b>Decoding Bronze Age Paperwork: Modern AI vs. Ancie...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdlermncultjao4oomuh.png" width="200" alt="Why Daily Standups Are Becoming Useless in the AI Era" />
       <br/>
@@ -161,13 +152,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png" width="200" alt="How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)" />
       <br/>
       <b>How to Store Secrets in the Mac Keychain (and Use ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png" width="200" alt="your agent can think. it can't remember." />
+      <br/>
+      <b>your agent can think. it can't remember.</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,15 +198,14 @@ npm run test
 ### 📰 Top Headlines
 
 - [How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c) _[Dev.to]_
-- [Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets](https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf) _[Dev.to]_
 - [Why Daily Standups Are Becoming Useless in the AI Era](https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao) _[Dev.to]_
 - [How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)](https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7) _[Dev.to]_
+- [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
 - [Stop Writing Custom Importers: Import Multilingual Data in Drupal with Migrate API](https://dev.to/baikho/stop-writing-custom-importers-import-multilingual-data-in-drupal-with-migrate-api-m35) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9) _[Dev.to]_
-- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e) _[Dev.to]_
-- [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
+- [Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets](https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf) _[Dev.to]_
 - [Modular Monolith Architecture in .NET: The Pragmatic Middle Ground](https://dev.to/aldacosta/modular-monolith-architecture-in-net-the-pragmatic-middle-ground-2fm5) _[Dev.to]_
-- [Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI](https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk) _[Dev.to]_
+- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [Building a Error Library](https://dev.to/fafhrd91/building-a-error-library-3kda) _[Dev.to]_
 - [This is Cloud Run: Configuration](https://dev.to/gde/this-is-cloud-run-configuration-2gi2) _[Dev.to]_
@@ -214,11 +213,12 @@ npm run test
 - [Finding Slow Queries in PostgreSQL (Without Guessing)](https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j) _[Dev.to]_
 - [Reflections on my Trainings: Gemini for Google Workspace](https://dev.to/gde/reflections-on-my-trainings-gemini-for-google-workspace-4fj3) _[Dev.to]_
 - [AI Writes Daily Without My Involvement](https://dev.to/maksugr/ai-writes-daily-without-my-involvement-4jfc) _[Dev.to]_
+- [Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to](https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn) _[Dev.to]_
 - [Cross Cloud ADK with Python, and the Azure App Service](https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47) _[Dev.to]_
 - [MCP Development with Python, and Azure Container Apps](https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f) _[Dev.to]_
 - [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 06:59:49 CAT_
+_Last automated update: Sun, 29 Mar 2026 08:14:17 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 29 Mar 2026 06:59:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Execution timing, event loop phases
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 29 Mar 2026 04:59:49 GMT</b><br/>
+  <b>Last automated update: Sun, 29 Mar 2026 06:14:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
-      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
-      "published_at": "2026-03-28T12:17:54Z",
-      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
-      "tags": [
-        "ai",
-        "kaggle",
-        "gemini",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
-    },
-    {
       "title": "Why Daily Standups Are Becoming Useless in the AI Era",
       "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
       "published_at": "2026-03-28T22:00:14Z",
@@ -46,21 +31,6 @@
       "user": "Ayomide Adebisi"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
-      "published_at": "2026-03-28T17:14:30Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "googlecloudplatform",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "your agent can think. it can't remember.",
       "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
       "published_at": "2026-03-25T15:01:56Z",
@@ -76,19 +46,34 @@
       "user": "ghost"
     },
     {
-      "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
-      "url": "https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk",
-      "published_at": "2026-03-28T01:59:54Z",
-      "description": "Welcome to your first job, freshers. You've probably already used ChatGPT or Copilot to get through...",
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
       "tags": [
-        "beginners",
-        "career",
-        "ai",
-        "programming"
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs13ke9vghvr3ycti3eg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
       "source": "Dev.to",
-      "user": "Rick Cogley"
+      "user": "xbill"
+    },
+    {
+      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
+      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
+      "published_at": "2026-03-28T12:17:54Z",
+      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
+      "tags": [
+        "ai",
+        "kaggle",
+        "gemini",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
+      "source": "Dev.to",
+      "user": "Ertuğrul Demir"
     },
     {
       "title": "Self-improving Coding Agents",
@@ -136,6 +121,21 @@
       "user": "Roman Ponomarev"
     },
     {
+      "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
+      "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
+      "published_at": "2026-03-27T19:07:08Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
+      "source": "Dev.to",
+      "user": "Yash Kumar Saini"
+    },
+    {
       "title": "Cross Cloud ADK with Python, and the Azure App Service",
       "url": "https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47",
       "published_at": "2026-03-25T18:48:13Z",
@@ -179,21 +179,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t3qjjyfhed329lyu81b.jpg",
       "source": "Dev.to",
       "user": "rpostulart"
-    },
-    {
-      "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
-      "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
-      "published_at": "2026-03-27T19:07:08Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
-      "source": "Dev.to",
-      "user": "Yash Kumar Saini"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -329,19 +314,19 @@
       "user": "Ivan SZKIBA"
     },
     {
-      "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
-      "url": "https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0",
-      "published_at": "2026-03-27T04:13:12Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   I maintain a few open...",
+      "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
+      "url": "https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk",
+      "published_at": "2026-03-28T01:59:54Z",
+      "description": "Welcome to your first job, freshers. You've probably already used ChatGPT or Copilot to get through...",
       "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
+        "beginners",
+        "career",
+        "ai",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8uz94x67y94e40c3ra0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs13ke9vghvr3ycti3eg.png",
       "source": "Dev.to",
-      "user": "Souvik Biswas"
+      "user": "Rick Cogley"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -489,20 +474,6 @@
       "user": "xbill"
     },
     {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
-    },
-    {
       "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
       "published_at": "2026-03-24T18:00:13Z",
@@ -587,6 +558,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "I Put a Prompt Injection on My Resume",
+      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
+      "published_at": "2026-03-23T23:51:06Z",
+      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "tags": [
+        "ai",
+        "career",
+        "security",
+        "promptinjection"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "source": "Dev.to",
+      "user": "Fielding Johnston"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -747,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 735,
       "user": "oaker-io"
     },
     {
@@ -762,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 531,
       "user": "tonbistudio"
     },
     {
@@ -777,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2024,
+      "stars": 2122,
       "user": "larksuite"
     },
     {
@@ -792,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "tanviet12"
     },
     {
@@ -807,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "bhope"
     }
   ],
@@ -901,6 +887,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
       "source": "Dev.to",
       "user": "Saroj Poddar"
+    },
+    {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1034,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2135,
+      "stars": 2158,
       "user": "magnum6actual"
     },
     {
@@ -1049,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 681,
       "user": "NomaDamas"
     },
     {
@@ -1320,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2068,
       "user": "HKUDS"
     },
     {
@@ -1335,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 835,
       "user": "jxnxts"
     },
     {
@@ -1350,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 735,
       "user": "oaker-io"
     },
     {
@@ -1365,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 531,
       "user": "tonbistudio"
     },
     {
@@ -1380,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 485,
       "user": "TheTom"
     }
   ],
@@ -1658,20 +1659,6 @@
       "user": "xbill"
     },
     {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
-    },
-    {
       "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
       "published_at": "2026-03-24T18:00:13Z",
@@ -1698,7 +1685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2068,
       "user": "HKUDS"
     }
   ],
@@ -1822,6 +1809,21 @@
       "user": "Kevin Bridges"
     },
     {
+      "title": "I Put a Prompt Injection on My Resume",
+      "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
+      "published_at": "2026-03-23T23:51:06Z",
+      "description": "I got tired of updating my resume in multiple places, so I rebuilt the whole thing around a single...",
+      "tags": [
+        "ai",
+        "career",
+        "security",
+        "promptinjection"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
+      "source": "Dev.to",
+      "user": "Fielding Johnston"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1865,21 +1867,6 @@
       "user": "Labeeb Ahmad"
     },
     {
-      "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
-      "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
-      "published_at": "2026-03-27T05:33:50Z",
-      "description": "Think about it. Your AI agent refactors code across 12 files, makes architectural decisions, tries...",
-      "tags": [
-        "anthropic",
-        "ai",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t3qjjyfhed329lyu81b.jpg",
-      "source": "Dev.to",
-      "user": "rpostulart"
-    },
-    {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
       "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
       "published_at": "2026-03-27T19:07:08Z",
@@ -1893,6 +1880,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
       "source": "Dev.to",
       "user": "Yash Kumar Saini"
+    },
+    {
+      "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
+      "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
+      "published_at": "2026-03-27T05:33:50Z",
+      "description": "Think about it. Your AI agent refactors code across 12 files, makes architectural decisions, tries...",
+      "tags": [
+        "anthropic",
+        "ai",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t3qjjyfhed329lyu81b.jpg",
+      "source": "Dev.to",
+      "user": "rpostulart"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -1970,20 +1972,6 @@
       "user": "Patrik Szewczyk"
     },
     {
-      "title": "Take your vibe coding to the next level",
-      "url": "https://dev.to/googleai/take-your-vibe-coding-to-the-next-level-1ea",
-      "published_at": "2026-03-26T16:11:25Z",
-      "description": "If you’ve been following this series, you know that Cloud Run makes deployment easy and AI tools make...",
-      "tags": [
-        "googlecloud",
-        "vibecoding",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzawgtk6bl61bta22tvjx.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
-    },
-    {
       "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
       "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
       "published_at": "2026-03-25T11:01:22Z",
@@ -2012,6 +2000,21 @@
       "user": "Ali Raza"
     },
     {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
+    },
+    {
       "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
       "url": "https://github.com/magnum6actual/flipoff",
       "published_at": "2026-03-26T12:46:35Z",
@@ -2023,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2135,
+      "stars": 2158,
       "user": "magnum6actual"
     },
     {
@@ -2038,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 681,
       "user": "NomaDamas"
     },
     {
@@ -2098,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2068,
       "user": "HKUDS"
     },
     {
@@ -2113,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 835,
       "user": "jxnxts"
     },
     {
@@ -2128,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 735,
       "user": "oaker-io"
     },
     {
@@ -2143,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 531,
       "user": "tonbistudio"
     },
     {
@@ -2158,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 485,
       "user": "TheTom"
     },
     {
@@ -2173,23 +2176,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2024,
+      "stars": 2122,
       "user": "larksuite"
-    },
-    {
-      "title": "james-6-23/codex2api - GitHub Repository",
-      "url": "https://github.com/james-6-23/codex2api",
-      "published_at": "2026-03-24T00:07:29Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
-      "source": "GitHub",
-      "stars": 249,
-      "user": "james-6-23"
     },
     {
       "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
@@ -2203,8 +2191,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "tanviet12"
+    },
+    {
+      "title": "james-6-23/codex2api - GitHub Repository",
+      "url": "https://github.com/james-6-23/codex2api",
+      "published_at": "2026-03-24T00:07:29Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "james-6-23"
     },
     {
       "title": "bhope/hedge - Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
@@ -2218,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "bhope"
     },
     {
