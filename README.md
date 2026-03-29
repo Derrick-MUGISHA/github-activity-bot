@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-29 12:00 CAT)
+## 📅 Latest Updates (2026-03-29 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [MCP Development with Python, and Azure Container Apps](https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f) _[Dev.to]_
 - [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 12:53:15 CAT_
+_Last automated update: Sun, 29 Mar 2026 13:25:55 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 29 Mar 2026 12:53:15 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 29 Mar 2026 10:53:15 GMT</b><br/>
+  <b>Last automated update: Sun, 29 Mar 2026 11:25:55 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
