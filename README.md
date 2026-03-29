@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-29 9:00 CAT)
+## 📅 Latest Updates (2026-03-29 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/baikho/stop-writing-custom-importers-import-multilingual-data-in-drupal-with-migrate-api-m35">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk7mykuxx011xw3w1fo9a.png" width="200" alt="Stop Writing Custom Importers: Import Multilingual Data in Drupal with Migrate API" />
+    <a href="https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png" width="200" alt="Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI" />
       <br/>
-      <b>Stop Writing Custom Importers: Import Multilingual...</b>
+      <b>Cross Cloud Multi Agent Comic Builder with ADK, Am...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,11 +202,11 @@ npm run test
 - [Why Daily Standups Are Becoming Useless in the AI Era](https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao) _[Dev.to]_
 - [How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)](https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7) _[Dev.to]_
 - [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
-- [Stop Writing Custom Importers: Import Multilingual Data in Drupal with Migrate API](https://dev.to/baikho/stop-writing-custom-importers-import-multilingual-data-in-drupal-with-migrate-api-m35) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9) _[Dev.to]_
 - [Understanding Object-Oriented Programming in JavaScript](https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [Building a Error Library](https://dev.to/fafhrd91/building-a-error-library-3kda) _[Dev.to]_
+- [Stop Writing Custom Importers: Import Multilingual Data in Drupal with Migrate API](https://dev.to/baikho/stop-writing-custom-importers-import-multilingual-data-in-drupal-with-migrate-api-m35) _[Dev.to]_
 - [This is Cloud Run: Configuration](https://dev.to/gde/this-is-cloud-run-configuration-2gi2) _[Dev.to]_
 - [Modular Monolith Architecture in .NET: The Pragmatic Middle Ground](https://dev.to/aldacosta/modular-monolith-architecture-in-net-the-pragmatic-middle-ground-2fm5) _[Dev.to]_
 - [Self-improving Coding Agents](https://dev.to/raphaelpor/self-improving-coding-agents-435l) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [MCP Development with Python, and Azure Container Apps](https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f) _[Dev.to]_
 - [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 09:29:26 CAT_
+_Last automated update: Sun, 29 Mar 2026 10:02:57 CAT_
 
 
 
@@ -226,29 +226,7 @@ _Last automated update: Sun, 29 Mar 2026 09:29:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
-
-**Difficulty**: Hard | **Topics**: design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Users, posts, relationships, indexes, partitioning
-
-</details>
-
-### 2. React: How would you optimize a React app's performance?
-
-**Difficulty**: Hard | **Topics**: optimization, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-React.memo, useMemo, useCallback, code splitting, lazy loading
-
-</details>
-
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
 **Difficulty**: Medium | **Topics**: event loop, async
 
@@ -256,6 +234,28 @@ React.memo, useMemo, useCallback, code splitting, lazy loading
 <summary>💡 Hint</summary>
 
 Execution timing, event loop phases
+
+</details>
+
+### 2. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 3. JavaScript: What are closures and provide a practical example?
+
+**Difficulty**: Medium | **Topics**: functions, scope
+
+<details>
+<summary>💡 Hint</summary>
+
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 29 Mar 2026 07:29:26 GMT</b><br/>
+  <b>Last automated update: Sun, 29 Mar 2026 08:02:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
