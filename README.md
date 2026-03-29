@@ -30,23 +30,23 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
 
-**Cloud**: 🟦🟦🟦🟦 11 (10.6%)
+**Cloud**: 🟦🟦🟦🟦 10 (9.6%)
+
+**Security**: 🟦🟦 6 (5.8%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦🟦 5 (4.8%)
-
-**Security**: 🟦🟦 5 (4.8%)
+**Database**: 🟦 4 (3.8%)
 
 **DevOps**: 🟦 2 (1.9%)
 
-**Mobile**:  1 (1.0%)
+**Mobile**: 🟦 2 (1.9%)
 
 
 
@@ -60,34 +60,34 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 23.7 (23.7%)
-Java            ██████████████████████████████ 23.7 (23.7%)
-Go              ██████████████████████████████ 23.7 (23.7%)
-Python          █████████████████████████████ 22.6 (22.6%)
-Rust            ███ 2.2 (2.2%)
-CSharp          ███ 2.2 (2.2%)
+Go              ██████████████████████████████ 25.3 (25.3%)
+JavaScript      ████████████████████████████ 23.2 (23.2%)
+Java            ██████████████████████████ 22.1 (22.1%)
+Python          ██████████████████████████ 22.1 (22.1%)
+Rust            ██ 2.1 (2.1%)
+CSharp          ██ 2.1 (2.1%)
+Swift           ██ 2.1 (2.1%)
 PHP             █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
+    "Go" : 24
     "JavaScript" : 22
-    "Java" : 22
-    "Go" : 22
+    "Java" : 21
     "Python" : 21
     "Rust" : 2
     "CSharp" : 2
+    "Swift" : 2
     "PHP" : 1
-    "Swift" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
 
 
 
@@ -218,7 +218,7 @@ npm run test
 - [MCP Development with Python, and Azure Container Apps](https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f) _[Dev.to]_
 - [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 12:05:50 CAT_
+_Last automated update: Sun, 29 Mar 2026 12:53:15 CAT_
 
 
 
@@ -226,29 +226,7 @@ _Last automated update: Sun, 29 Mar 2026 12:05:50 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
-
-<details>
-<summary>💡 Hint</summary>
-
-Heap, stack, garbage collection
-
-</details>
-
-### 2. NodeJS: Implement rate limiting for an API
-
-**Difficulty**: Hard | **Topics**: security, middleware
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, Redis
-
-</details>
-
-### 3. NodeJS: Explain middleware in Express.js
+### 1. NodeJS: Explain middleware in Express.js
 
 **Difficulty**: Easy | **Topics**: express, architecture
 
@@ -256,6 +234,28 @@ Token bucket, sliding window, Redis
 <summary>💡 Hint</summary>
 
 Request/response cycle, next(), chain of functions
+
+</details>
+
+### 2. SystemDesign: Design a URL shortening service like bit.ly
+
+**Difficulty**: Medium | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Hash function, database design, caching, analytics
+
+</details>
+
+### 3. SystemDesign: How would you design a rate limiter?
+
+**Difficulty**: Medium | **Topics**: system design, algorithms
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 29 Mar 2026 10:05:50 GMT</b><br/>
+  <b>Last automated update: Sun, 29 Mar 2026 10:53:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
