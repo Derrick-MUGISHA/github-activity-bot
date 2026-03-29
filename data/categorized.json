@@ -1,19 +1,64 @@
 {
   "AI": [
     {
-      "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
-      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
-      "published_at": "2026-03-27T21:33:31Z",
-      "description": "We're back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...",
+      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
+      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
+      "published_at": "2026-03-28T12:17:54Z",
+      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
       "tags": [
-        "weekendchallenge",
-        "devchallenge",
-        "hackathon",
-        "programming"
+        "ai",
+        "kaggle",
+        "gemini",
+        "vertexai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
       "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "Ertuğrul Demir"
+    },
+    {
+      "title": "Why Daily Standups Are Becoming Useless in the AI Era",
+      "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
+      "published_at": "2026-03-28T22:00:14Z",
+      "description": "Daily standups used to be a coordination tool. Today, with better async workflows and AI-assisted status sharing, they often waste engineering time at scale.",
+      "tags": [
+        "agile",
+        "standup",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdlermncultjao4oomuh.png",
+      "source": "Dev.to",
+      "user": "Rodrigo Oler"
+    },
+    {
+      "title": "How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)",
+      "url": "https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7",
+      "published_at": "2026-03-28T17:27:11Z",
+      "description": "I used to keep API keys in .env because it was fast. Then I caught myself grepping my home folder for...",
+      "tags": [
+        "macos",
+        "security",
+        "keychain",
+        "bash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png",
+      "source": "Dev.to",
+      "user": "Ayomide Adebisi"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "your agent can think. it can't remember.",
@@ -29,6 +74,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
       "source": "Dev.to",
       "user": "ghost"
+    },
+    {
+      "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
+      "url": "https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk",
+      "published_at": "2026-03-28T01:59:54Z",
+      "description": "Welcome to your first job, freshers. You've probably already used ChatGPT or Copilot to get through...",
+      "tags": [
+        "beginners",
+        "career",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs13ke9vghvr3ycti3eg.png",
+      "source": "Dev.to",
+      "user": "Rick Cogley"
+    },
+    {
+      "title": "Self-improving Coding Agents",
+      "url": "https://dev.to/raphaelpor/self-improving-coding-agents-435l",
+      "published_at": "2026-03-27T23:51:31Z",
+      "description": "In this article, I demonstrate how a more capable coding agent (Codex/GPT-5.4) successfully refined...",
+      "tags": [
+        "agents",
+        "harness",
+        "ai",
+        "evals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2n6fwc3z8rtoi721lf7a.png",
+      "source": "Dev.to",
+      "user": "Raphael Porto"
+    },
+    {
+      "title": "Reflections on my Trainings: Gemini for Google Workspace",
+      "url": "https://dev.to/gde/reflections-on-my-trainings-gemini-for-google-workspace-4fj3",
+      "published_at": "2026-03-28T02:42:46Z",
+      "description": "It's always an incredibly rewarding experience to engage with professionals eager to embrace new...",
+      "tags": [
+        "gemini",
+        "googleworkspace",
+        "livetraining",
+        "googleappsscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa30hb1cmpxo1m9m0aagu.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "AI Writes Daily Without My Involvement",
@@ -136,21 +226,6 @@
       "user": "Aquil Abdullah"
     },
     {
-      "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
-      "url": "https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2",
-      "published_at": "2026-03-26T21:49:41Z",
-      "description": "Google’s Anti Gravity is built on a simple premise: remove friction so developers can stay in \"the...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "angular",
-        "gdg"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyvzdqstgzm9uyi5tgga.png",
-      "source": "Dev.to",
-      "user": "Matthew Christiansen"
-    },
-    {
       "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
       "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
       "published_at": "2026-03-26T21:05:21Z",
@@ -209,6 +284,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
+      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
+      "published_at": "2026-03-27T21:33:31Z",
+      "description": "We're back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...",
+      "tags": [
+        "weekendchallenge",
+        "devchallenge",
+        "hackathon",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
       "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
       "published_at": "2026-03-23T23:19:39Z",
@@ -252,21 +342,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8uz94x67y94e40c3ra0.png",
       "source": "Dev.to",
       "user": "Souvik Biswas"
-    },
-    {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
-      "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -499,6 +574,21 @@
       "user": "Ali Raza"
     },
     {
+      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
+      "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
+      "published_at": "2026-03-26T11:42:27Z",
+      "description": "There is a special genre of AI idea that sounds brilliant right up until you try to build it. It...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -631,34 +721,19 @@
       "user": "veesahni"
     },
     {
-      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
-      "url": "https://github.com/ghh-jb/DarkSword",
-      "published_at": "2026-03-22T19:22:41Z",
-      "description": "DarkSword exploit chain dump.",
+      "title": "wringiron6693/PolyFlash - PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
+      "url": "https://github.com/wringiron6693/PolyFlash",
+      "published_at": "2026-03-24T11:09:40Z",
+      "description": "PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/270180989?v=4",
       "source": "GitHub",
-      "stars": 117,
-      "user": "ghh-jb"
-    },
-    {
-      "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
-      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
-      "published_at": "2026-03-22T17:32:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
-      "source": "GitHub",
-      "stars": 1075,
-      "user": "GAIR-NLP"
+      "stars": 73,
+      "user": "wringiron6693"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -672,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 716,
       "user": "oaker-io"
     },
     {
@@ -687,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 519,
       "user": "tonbistudio"
     },
     {
@@ -702,38 +777,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1620,
+      "stars": 1810,
       "user": "larksuite"
-    },
-    {
-      "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
-      "url": "https://github.com/fastclaw-ai/weclaw",
-      "published_at": "2026-03-22T14:52:35Z",
-      "description": "Connect to any agents with WeChat ClawBot.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
-      "source": "GitHub",
-      "stars": 872,
-      "user": "fastclaw-ai"
-    },
-    {
-      "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
-      "url": "https://github.com/openilink/openilink-hub",
-      "published_at": "2026-03-22T03:39:57Z",
-      "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
-      "source": "GitHub",
-      "stars": 437,
-      "user": "openilink"
     },
     {
       "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
@@ -747,25 +792,55 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "tanviet12"
+    },
+    {
+      "title": "bhope/hedge - Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
+      "url": "https://github.com/bhope/hedge",
+      "published_at": "2026-03-25T07:54:54Z",
+      "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "bhope"
     }
   ],
   "JavaScript": [
     {
-      "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
-      "url": "https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2",
-      "published_at": "2026-03-26T21:49:41Z",
-      "description": "Google’s Anti Gravity is built on a simple premise: remove friction so developers can stay in \"the...",
+      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
+      "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
+      "published_at": "2026-03-28T19:39:32Z",
+      "description": "So, one of my favourite games lately, Timberborn, has released its 1.0 version and finally left early...",
       "tags": [
-        "ai",
-        "antigravity",
-        "angular",
-        "gdg"
+        "webdev",
+        "programming",
+        "javascript",
+        "donttrythisathome"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyvzdqstgzm9uyi5tgga.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
       "source": "Dev.to",
-      "user": "Matthew Christiansen"
+      "user": "Pascal Thormeier"
+    },
+    {
+      "title": "Understanding Object-Oriented Programming in JavaScript",
+      "url": "https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e",
+      "published_at": "2026-03-28T20:37:29Z",
+      "description": "Introduction   Hey there, fellow developer!   Imagine building a massive web app where your...",
+      "tags": [
+        "javascript",
+        "programming",
+        "backend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
+      "source": "Dev.to",
+      "user": "Ritam Saha"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -781,21 +856,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
-    },
-    {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
-      "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
     },
     {
       "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
@@ -974,7 +1034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2023,
+      "stars": 2089,
       "user": "magnum6actual"
     },
     {
@@ -989,56 +1049,71 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 670,
       "user": "NomaDamas"
     },
     {
-      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
-      "url": "https://github.com/ghh-jb/DarkSword",
-      "published_at": "2026-03-22T19:22:41Z",
-      "description": "DarkSword exploit chain dump.",
+      "title": "mrdoob/Starter-Kit-Racing - Basic template for a racing game.",
+      "url": "https://github.com/mrdoob/Starter-Kit-Racing",
+      "published_at": "2026-03-24T02:33:34Z",
+      "description": "Basic template for a racing game.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 117,
-      "user": "ghh-jb"
+      "stars": 94,
+      "user": "mrdoob"
     },
     {
-      "title": "pandaboost/PhantomTrending - Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
-      "url": "https://github.com/pandaboost/PhantomTrending",
-      "published_at": "2026-03-22T18:28:34Z",
-      "description": "Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
+      "title": "SeifBenayed/claude-code-sdk - Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use your Pro/Max subscription directly. No binary dependency.",
+      "url": "https://github.com/SeifBenayed/claude-code-sdk",
+      "published_at": "2026-03-23T22:33:26Z",
+      "description": "Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use your Pro/Max subscription directly. No binary dependency.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 113,
-      "user": "pandaboost"
+      "stars": 81,
+      "user": "SeifBenayed"
     },
     {
-      "title": "pandaboost/PhantomChatTrending - Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
-      "url": "https://github.com/pandaboost/PhantomChatTrending",
-      "published_at": "2026-03-22T18:39:15Z",
-      "description": "Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
+      "title": "wringiron6693/PolyFlash - PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
+      "url": "https://github.com/wringiron6693/PolyFlash",
+      "published_at": "2026-03-24T11:09:40Z",
+      "description": "PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/270180989?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "pandaboost"
+      "stars": 73,
+      "user": "wringiron6693"
     }
   ],
   "Python": [
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Cross Cloud ADK with Python, and the Azure App Service",
       "url": "https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47",
@@ -1219,6 +1294,21 @@
       "user": "gilad"
     },
     {
+      "title": "SeifBenayed/claude-code-sdk - Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use your Pro/Max subscription directly. No binary dependency.",
+      "url": "https://github.com/SeifBenayed/claude-code-sdk",
+      "published_at": "2026-03-23T22:33:26Z",
+      "description": "Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use your Pro/Max subscription directly. No binary dependency.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
+      "source": "GitHub",
+      "stars": 81,
+      "user": "SeifBenayed"
+    },
+    {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "url": "https://github.com/HKUDS/OpenSpace",
       "published_at": "2026-03-24T08:01:49Z",
@@ -1230,29 +1320,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1897,
+      "stars": 1975,
       "user": "HKUDS"
     },
     {
-      "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
-      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
-      "published_at": "2026-03-22T17:32:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
-      "source": "GitHub",
-      "stars": 1075,
-      "user": "GAIR-NLP"
-    },
-    {
-      "title": "jxnxts/mcp-brasil - MCP Server para 27 APIs públicas brasileiras",
+      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
       "url": "https://github.com/jxnxts/mcp-brasil",
       "published_at": "2026-03-26T00:38:54Z",
-      "description": "MCP Server para 27 APIs públicas brasileiras",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
       "tags": [
         "python",
         "github",
@@ -1260,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 831,
       "user": "jxnxts"
     },
     {
@@ -1275,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 716,
       "user": "oaker-io"
     },
     {
@@ -1290,8 +1365,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 519,
       "user": "tonbistudio"
+    },
+    {
+      "title": "TheTom/turboquant_plus - GitHub Repository",
+      "url": "https://github.com/TheTom/turboquant_plus",
+      "published_at": "2026-03-25T01:35:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
+      "source": "GitHub",
+      "stars": 475,
+      "user": "TheTom"
     }
   ],
   "DevOps": [
@@ -1324,24 +1414,24 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymh2fgsbh945a2vc95vc.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
-      "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
     }
   ],
   "WebDev": [
+    {
+      "title": "Understanding Object-Oriented Programming in JavaScript",
+      "url": "https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e",
+      "published_at": "2026-03-28T20:37:29Z",
+      "description": "Introduction   Hey there, fellow developer!   Imagine building a massive web app where your...",
+      "tags": [
+        "javascript",
+        "programming",
+        "backend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
+      "source": "Dev.to",
+      "user": "Ritam Saha"
+    },
     {
       "title": "Vibe Coding Needs Telemetry",
       "url": "https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi",
@@ -1415,8 +1505,39 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes",
+      "url": "https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he",
+      "published_at": "2026-03-24T11:06:02Z",
+      "description": "SystemeInternational uses phantom types, affine spaces, and zero-cost abstractions to make unit misuse a compile-time error. 306 tests, 8 bytes per quantity, and unit conversions at 3 ns/op in Release.",
+      "tags": [
+        "swift",
+        "programming",
+        "opensource",
+        "types"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
+      "source": "Dev.to",
+      "user": "Henrique Sasaki Yuya"
+    }
+  ],
   "Cloud": [
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "This is Cloud Run: Configuration",
       "url": "https://dev.to/gde/this-is-cloud-run-configuration-2gi2",
@@ -1431,6 +1552,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yaui3lqdt41txv91un1.png",
       "source": "Dev.to",
       "user": "Daniel Gwerzman"
+    },
+    {
+      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
+      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
+      "published_at": "2026-03-28T02:34:47Z",
+      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
+      "tags": [
+        "sql",
+        "postgressql",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
+      "source": "Dev.to",
+      "user": "Labeeb Ahmad"
     },
     {
       "title": "Cross Cloud ADK with Python, and the Azure App Service",
@@ -1508,21 +1643,6 @@
       "user": "Krishna Tej Chalamalasetty"
     },
     {
-      "title": "Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes | MicroCloud",
-      "url": "https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0",
-      "published_at": "2026-03-26T13:53:03Z",
-      "description": "A 4-node highly available cluster with distributed storage, software-defined networking, and...",
-      "tags": [
-        "linux",
-        "devops",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqag6g8n5xq0ds886ab6.png",
-      "source": "Dev.to",
-      "user": "Nikoloz Turazashvili (@axrisi)"
-    },
-    {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
       "published_at": "2026-03-23T17:53:10Z",
@@ -1578,11 +1698,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1897,
+      "stars": 1975,
       "user": "HKUDS"
     }
   ],
   "Database": [
+    {
+      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
+      "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
+      "published_at": "2026-03-28T19:39:32Z",
+      "description": "So, one of my favourite games lately, Timberborn, has released its 1.0 version and finally left early...",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript",
+        "donttrythisathome"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
+      "source": "Dev.to",
+      "user": "Pascal Thormeier"
+    },
     {
       "title": "your agent can think. it can't remember.",
       "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
@@ -1597,6 +1732,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
       "source": "Dev.to",
       "user": "ghost"
+    },
+    {
+      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
+      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
+      "published_at": "2026-03-28T02:34:47Z",
+      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
+      "tags": [
+        "sql",
+        "postgressql",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
+      "source": "Dev.to",
+      "user": "Labeeb Ahmad"
     },
     {
       "title": "Scaling ID Generation with Redis",
@@ -1627,6 +1776,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)",
+      "url": "https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7",
+      "published_at": "2026-03-28T17:27:11Z",
+      "description": "I used to keep API keys in .env because it was fast. Then I caught myself grepping my home folder for...",
+      "tags": [
+        "macos",
+        "security",
+        "keychain",
+        "bash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png",
+      "source": "Dev.to",
+      "user": "Ayomide Adebisi"
+    },
     {
       "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
       "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
@@ -1672,6 +1836,35 @@
   ],
   "Tools": [
     {
+      "title": "Why Daily Standups Are Becoming Useless in the AI Era",
+      "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
+      "published_at": "2026-03-28T22:00:14Z",
+      "description": "Daily standups used to be a coordination tool. Today, with better async workflows and AI-assisted status sharing, they often waste engineering time at scale.",
+      "tags": [
+        "agile",
+        "standup",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdlermncultjao4oomuh.png",
+      "source": "Dev.to",
+      "user": "Rodrigo Oler"
+    },
+    {
+      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
+      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
+      "published_at": "2026-03-28T02:34:47Z",
+      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
+      "tags": [
+        "sql",
+        "postgressql",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
+      "source": "Dev.to",
+      "user": "Labeeb Ahmad"
+    },
+    {
       "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
       "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
       "published_at": "2026-03-27T05:33:50Z",
@@ -1715,21 +1908,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
-    },
-    {
-      "title": "Scaling your productivity with spec docs in your IDE - Anti Gravity.",
-      "url": "https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2",
-      "published_at": "2026-03-26T21:49:41Z",
-      "description": "Google’s Anti Gravity is built on a simple premise: remove friction so developers can stay in \"the...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "angular",
-        "gdg"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyvzdqstgzm9uyi5tgga.png",
-      "source": "Dev.to",
-      "user": "Matthew Christiansen"
     },
     {
       "title": "Speed vs smarts for coding agents?",
@@ -1845,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2023,
+      "stars": 2089,
       "user": "magnum6actual"
     },
     {
@@ -1860,53 +2038,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 670,
       "user": "NomaDamas"
     },
     {
-      "title": "ghh-jb/DarkSword - DarkSword exploit chain dump.",
-      "url": "https://github.com/ghh-jb/DarkSword",
-      "published_at": "2026-03-22T19:22:41Z",
-      "description": "DarkSword exploit chain dump.",
+      "title": "mrdoob/Starter-Kit-Racing - Basic template for a racing game.",
+      "url": "https://github.com/mrdoob/Starter-Kit-Racing",
+      "published_at": "2026-03-24T02:33:34Z",
+      "description": "Basic template for a racing game.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138157456?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 117,
-      "user": "ghh-jb"
+      "stars": 94,
+      "user": "mrdoob"
     },
     {
-      "title": "pandaboost/PhantomTrending - Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
-      "url": "https://github.com/pandaboost/PhantomTrending",
-      "published_at": "2026-03-22T18:28:34Z",
-      "description": "Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API.",
+      "title": "SeifBenayed/claude-code-sdk - Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use your Pro/Max subscription directly. No binary dependency.",
+      "url": "https://github.com/SeifBenayed/claude-code-sdk",
+      "published_at": "2026-03-23T22:33:26Z",
+      "description": "Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use your Pro/Max subscription directly. No binary dependency.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 113,
-      "user": "pandaboost"
+      "stars": 81,
+      "user": "SeifBenayed"
     },
     {
-      "title": "pandaboost/PhantomChatTrending - Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
-      "url": "https://github.com/pandaboost/PhantomChatTrending",
-      "published_at": "2026-03-22T18:39:15Z",
-      "description": "Phantom Chat Trending for your Solana token — reach active traders in Phantom chat. From $500/6h. Instant delivery via PandaBoost API.",
+      "title": "wringiron6693/PolyFlash - PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
+      "url": "https://github.com/wringiron6693/PolyFlash",
+      "published_at": "2026-03-24T11:09:40Z",
+      "description": "PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265374360?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/270180989?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "pandaboost"
+      "stars": 73,
+      "user": "wringiron6693"
     },
     {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
@@ -1920,29 +2098,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1897,
+      "stars": 1975,
       "user": "HKUDS"
     },
     {
-      "title": "GAIR-NLP/daVinci-MagiHuman - GitHub Repository",
-      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
-      "published_at": "2026-03-22T17:32:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121574224?v=4",
-      "source": "GitHub",
-      "stars": 1075,
-      "user": "GAIR-NLP"
-    },
-    {
-      "title": "jxnxts/mcp-brasil - MCP Server para 27 APIs públicas brasileiras",
+      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
       "url": "https://github.com/jxnxts/mcp-brasil",
       "published_at": "2026-03-26T00:38:54Z",
-      "description": "MCP Server para 27 APIs públicas brasileiras",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
       "tags": [
         "python",
         "github",
@@ -1950,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 831,
       "user": "jxnxts"
     },
     {
@@ -1965,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 716,
       "user": "oaker-io"
     },
     {
@@ -1980,8 +2143,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 519,
       "user": "tonbistudio"
+    },
+    {
+      "title": "TheTom/turboquant_plus - GitHub Repository",
+      "url": "https://github.com/TheTom/turboquant_plus",
+      "published_at": "2026-03-25T01:35:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
+      "source": "GitHub",
+      "stars": 475,
+      "user": "TheTom"
     },
     {
       "title": "larksuite/cli - A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
@@ -1995,38 +2173,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 1620,
+      "stars": 1810,
       "user": "larksuite"
-    },
-    {
-      "title": "fastclaw-ai/weclaw - Connect to any agents with WeChat ClawBot.",
-      "url": "https://github.com/fastclaw-ai/weclaw",
-      "published_at": "2026-03-22T14:52:35Z",
-      "description": "Connect to any agents with WeChat ClawBot.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260873402?v=4",
-      "source": "GitHub",
-      "stars": 872,
-      "user": "fastclaw-ai"
-    },
-    {
-      "title": "openilink/openilink-hub - 开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
-      "url": "https://github.com/openilink/openilink-hub",
-      "published_at": "2026-03-22T03:39:57Z",
-      "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270050004?v=4",
-      "source": "GitHub",
-      "stars": 437,
-      "user": "openilink"
     },
     {
       "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
@@ -2040,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "tanviet12"
     },
     {
@@ -2055,8 +2203,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 241,
       "user": "james-6-23"
+    },
+    {
+      "title": "bhope/hedge - Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
+      "url": "https://github.com/bhope/hedge",
+      "published_at": "2026-03-25T07:54:54Z",
+      "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "bhope"
+    },
+    {
+      "title": "lich0821/wcfLink - GitHub Repository",
+      "url": "https://github.com/lich0821/wcfLink",
+      "published_at": "2026-03-24T12:37:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/87742696?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "lich0821"
     }
   ]
 }
