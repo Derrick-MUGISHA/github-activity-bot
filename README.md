@@ -218,7 +218,7 @@ npm run test
 - [MCP Development with Python, and Azure Container Apps](https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f) _[Dev.to]_
 - [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 13:25:55 CAT_
+_Last automated update: Sun, 29 Mar 2026 13:51:45 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 29 Mar 2026 13:25:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Heap, stack, garbage collection
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 29 Mar 2026 11:25:55 GMT</b><br/>
+  <b>Last automated update: Sun, 29 Mar 2026 11:51:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
