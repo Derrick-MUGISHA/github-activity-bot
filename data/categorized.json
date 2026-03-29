@@ -45,21 +45,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
-      "published_at": "2026-03-28T17:14:30Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "googlecloudplatform",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Vibe with Code: Plan First, Build Second",
       "url": "https://dev.to/abarron/vibe-with-code-plan-first-build-second-3n8o",
       "published_at": "2026-03-29T03:18:42Z",
@@ -103,19 +88,19 @@
       "user": "An Pham"
     },
     {
-      "title": "Self-improving Coding Agents",
-      "url": "https://dev.to/raphaelpor/self-improving-coding-agents-435l",
-      "published_at": "2026-03-27T23:51:31Z",
-      "description": "In this article, I demonstrate how a more capable coding agent (Codex/GPT-5.4) successfully refined...",
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
       "tags": [
-        "agents",
-        "harness",
-        "ai",
-        "evals"
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2n6fwc3z8rtoi721lf7a.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
       "source": "Dev.to",
-      "user": "Raphael Porto"
+      "user": "xbill"
     },
     {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
@@ -131,21 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
       "source": "Dev.to",
       "user": "Yash Kumar Saini"
-    },
-    {
-      "title": "Reflections on my Trainings: Gemini for Google Workspace",
-      "url": "https://dev.to/gde/reflections-on-my-trainings-gemini-for-google-workspace-4fj3",
-      "published_at": "2026-03-28T02:42:46Z",
-      "description": "It's always an incredibly rewarding experience to engage with professionals eager to embrace new...",
-      "tags": [
-        "gemini",
-        "googleworkspace",
-        "livetraining",
-        "googleappsscript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa30hb1cmpxo1m9m0aagu.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
     },
     {
       "title": "Cross Cloud ADK with Python, and the Azure App Service",
@@ -193,19 +163,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
-      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
-      "published_at": "2026-03-26T21:05:21Z",
-      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
-      "tags": [
-        "langchain",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
-      "source": "Dev.to",
-      "user": "Scarlett Attensil"
-    },
-    {
       "title": "Speed vs smarts for coding agents?",
       "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
       "published_at": "2026-03-26T15:58:22Z",
@@ -219,6 +176,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
+      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
+      "published_at": "2026-03-26T21:05:21Z",
+      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
+      "tags": [
+        "langchain",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
+      "source": "Dev.to",
+      "user": "Scarlett Attensil"
     },
     {
       "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
@@ -294,6 +264,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
       "source": "Dev.to",
       "user": "Taiwrash"
+    },
+    {
+      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
+      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
+      "published_at": "2026-03-23T18:05:03Z",
+      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "makerchecker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
+      "source": "Dev.to",
+      "user": "Ivan SZKIBA"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -715,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 188,
       "user": "meodai"
     },
     {
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 831,
       "user": "oaker-io"
     },
     {
@@ -745,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 558,
       "user": "tonbistudio"
     },
     {
@@ -760,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2873,
+      "stars": 2885,
       "user": "larksuite"
     },
     {
@@ -824,6 +809,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
+    },
+    {
+      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
+      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+      "published_at": "2026-03-23T05:48:13Z",
+      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "react",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
+      "source": "Dev.to",
+      "user": "Satish Gowda"
     },
     {
       "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
@@ -1017,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2348,
+      "stars": 2359,
       "user": "magnum6actual"
     },
     {
@@ -1047,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 188,
       "user": "meodai"
     },
     {
@@ -1303,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2366,
+      "stars": 2374,
       "user": "HKUDS"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 831,
       "user": "oaker-io"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 558,
       "user": "tonbistudio"
     },
     {
@@ -1363,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 555,
       "user": "TheTom"
     }
   ],
@@ -1430,6 +1430,21 @@
       "user": "Ritam Saha"
     },
     {
+      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
+      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+      "published_at": "2026-03-23T05:48:13Z",
+      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "react",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
+      "source": "Dev.to",
+      "user": "Satish Gowda"
+    },
+    {
       "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
       "url": "https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0",
       "published_at": "2026-03-26T09:03:53Z",
@@ -1491,21 +1506,6 @@
   ],
   "Cloud": [
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
-      "published_at": "2026-03-28T17:14:30Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "googlecloudplatform",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
       "published_at": "2026-03-29T04:13:52Z",
@@ -1520,18 +1520,19 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
-      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
-      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
-      "published_at": "2026-03-28T02:34:47Z",
-      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
       "tags": [
-        "sql",
-        "postgressql",
-        "database"
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
       "source": "Dev.to",
-      "user": "Labeeb Ahmad"
+      "user": "xbill"
     },
     {
       "title": "Cross Cloud ADK with Python, and the Azure App Service",
@@ -1562,6 +1563,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
+      "url": "https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b",
+      "published_at": "2026-03-22T22:31:46Z",
+      "description": "We wanted every employee in the company to use OpenClaw — not just engineers. Product managers...",
+      "tags": [
+        "opensource",
+        "openclaw",
+        "aws",
+        "cdk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png",
+      "source": "Dev.to",
+      "user": "C.K.Sun"
     },
     {
       "title": "Scaling ID Generation with Redis",
@@ -1635,7 +1651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2366,
+      "stars": 2374,
       "user": "HKUDS"
     }
   ],
@@ -1654,20 +1670,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
       "source": "Dev.to",
       "user": "Pascal Thormeier"
-    },
-    {
-      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
-      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
-      "published_at": "2026-03-28T02:34:47Z",
-      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
-      "tags": [
-        "sql",
-        "postgressql",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
-      "source": "Dev.to",
-      "user": "Labeeb Ahmad"
     },
     {
       "title": "Scaling ID Generation with Redis",
@@ -1828,20 +1830,6 @@
       "user": "Yash Kumar Saini"
     },
     {
-      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
-      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
-      "published_at": "2026-03-28T02:34:47Z",
-      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
-      "tags": [
-        "sql",
-        "postgressql",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
-      "source": "Dev.to",
-      "user": "Labeeb Ahmad"
-    },
-    {
       "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
       "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
       "published_at": "2026-03-27T05:33:50Z",
@@ -1885,6 +1873,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
+      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
+      "published_at": "2026-03-23T18:05:03Z",
+      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "makerchecker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
+      "source": "Dev.to",
+      "user": "Ivan SZKIBA"
     },
     {
       "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
@@ -1956,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2348,
+      "stars": 2359,
       "user": "magnum6actual"
     },
     {
@@ -1986,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 188,
       "user": "meodai"
     },
     {
@@ -2031,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2366,
+      "stars": 2374,
       "user": "HKUDS"
     },
     {
@@ -2061,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 831,
       "user": "oaker-io"
     },
     {
@@ -2076,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 558,
       "user": "tonbistudio"
     },
     {
@@ -2091,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 555,
       "user": "TheTom"
     },
     {
@@ -2106,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2873,
+      "stars": 2885,
       "user": "larksuite"
     },
     {
@@ -2121,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 268,
       "user": "james-6-23"
     },
     {
@@ -2166,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87742696?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "lich0821"
     }
   ]
