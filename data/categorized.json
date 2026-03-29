@@ -299,31 +299,6 @@
       "user": "Ivan SZKIBA"
     },
     {
-      "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
-      "url": "https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk",
-      "published_at": "2026-03-28T01:59:54Z",
-      "description": "Welcome to your first job, freshers. You've probably already used ChatGPT or Copilot to get through...",
-      "tags": [
-        "beginners",
-        "career",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs13ke9vghvr3ycti3eg.png",
-      "source": "Dev.to",
-      "user": "Rick Cogley"
-    },
-    {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
-    },
-    {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
       "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
       "published_at": "2026-03-18T19:29:59Z",
@@ -382,21 +357,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
       "source": "Dev.to",
       "user": "Octavian"
-    },
-    {
-      "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
-      "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
-      "published_at": "2026-03-26T14:57:20Z",
-      "description": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...",
-      "tags": [
-        "playwright",
-        "product",
-        "marketing",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
-      "source": "Dev.to",
-      "user": "Patrik Szewczyk"
     },
     {
       "title": "AI Didn't Break Your Culture. It Exposed It.",
@@ -560,6 +520,51 @@
       "user": "Fielding Johnston"
     },
     {
+      "title": "Agentic Engineering: Lessons Learned Vol. 2",
+      "url": "https://dev.to/duske/agentic-engineering-lessons-learned-vol-2-7mh",
+      "published_at": "2026-03-23T20:15:59Z",
+      "description": "Six months ago, we shared our first lessons learned with agentic engineering. Since then, we've...",
+      "tags": [
+        "contextengineering",
+        "agentic",
+        "llm",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lhbf5ebf5jdyxnkk048.png",
+      "source": "Dev.to",
+      "user": "Dustin"
+    },
+    {
+      "title": "Confident and Wrong",
+      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
+      "published_at": "2026-03-17T20:07:24Z",
+      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
+      "tags": [
+        "ai",
+        "swift",
+        "programming",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
+      "source": "Dev.to",
+      "user": "Max"
+    },
+    {
+      "title": "The Future of Coding is Communication, Not Just Code",
+      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
+      "published_at": "2026-03-26T14:31:00Z",
+      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
+      "tags": [
+        "ai",
+        "mcp",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -703,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 118,
       "user": "meodai"
     },
     {
@@ -718,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 760,
       "user": "oaker-io"
     },
     {
@@ -748,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2430,
+      "stars": 2472,
       "user": "larksuite"
     },
     {
@@ -1020,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2258,
+      "stars": 2284,
       "user": "magnum6actual"
     },
     {
@@ -1035,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 704,
       "user": "NomaDamas"
     },
     {
@@ -1050,7 +1055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 118,
       "user": "meodai"
     },
     {
@@ -1306,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2152,
+      "stars": 2173,
       "user": "HKUDS"
     },
     {
@@ -1336,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 760,
       "user": "oaker-io"
     },
     {
@@ -1366,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "TheTom"
     }
   ],
@@ -1491,6 +1496,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
       "source": "Dev.to",
       "user": "Henrique Sasaki Yuya"
+    },
+    {
+      "title": "Confident and Wrong",
+      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
+      "published_at": "2026-03-17T20:07:24Z",
+      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
+      "tags": [
+        "ai",
+        "swift",
+        "programming",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
+      "source": "Dev.to",
+      "user": "Max"
     }
   ],
   "Cloud": [
@@ -1599,21 +1619,6 @@
       "user": "C.K.Sun"
     },
     {
-      "title": "Scaling ID Generation with Redis",
-      "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
-      "published_at": "2026-03-26T08:05:32Z",
-      "description": "It Started with a Simple Counter   I work on a cloud-based document management platform used...",
-      "tags": [
-        "java",
-        "redis",
-        "software",
-        "distributedsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
-      "source": "Dev.to",
-      "user": "Krishna Tej Chalamalasetty"
-    },
-    {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
       "published_at": "2026-03-23T17:53:10Z",
@@ -1655,7 +1660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2152,
+      "stars": 2173,
       "user": "HKUDS"
     }
   ],
@@ -1705,21 +1710,6 @@
       "user": "Labeeb Ahmad"
     },
     {
-      "title": "Scaling ID Generation with Redis",
-      "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
-      "published_at": "2026-03-26T08:05:32Z",
-      "description": "It Started with a Simple Counter   I work on a cloud-based document management platform used...",
-      "tags": [
-        "java",
-        "redis",
-        "software",
-        "distributedsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
-      "source": "Dev.to",
-      "user": "Krishna Tej Chalamalasetty"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1764,21 +1754,6 @@
       "user": "Habib Jutt"
     },
     {
-      "title": "We Solved HTTPS. Why Haven’t We Solved Age Verification?",
-      "url": "https://dev.to/kevinbridges/we-solved-https-why-havent-we-solved-age-verification-2g9o",
-      "published_at": "2026-03-26T15:54:57Z",
-      "description": "There’s something fundamentally broken about how the internet handles age verification.  Right now,...",
-      "tags": [
-        "webdev",
-        "dis",
-        "architecture",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qp2a5bgdrnmn0ymar2g.png",
-      "source": "Dev.to",
-      "user": "Kevin Bridges"
-    },
-    {
       "title": "I Put a Prompt Injection on My Resume",
       "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
       "published_at": "2026-03-23T23:51:06Z",
@@ -1792,6 +1767,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
       "source": "Dev.to",
       "user": "Fielding Johnston"
+    },
+    {
+      "title": "I built a terminal-native Little Snitch alternative for macOS",
+      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
+      "published_at": "2026-03-24T11:49:08Z",
+      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
+      "tags": [
+        "go",
+        "macos",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
+      "source": "Dev.to",
+      "user": "Nick Ciolpan"
+    },
+    {
+      "title": "The Future of Coding is Communication, Not Just Code",
+      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
+      "published_at": "2026-03-26T14:31:00Z",
+      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
+      "tags": [
+        "ai",
+        "mcp",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1927,21 +1932,6 @@
       "user": "Octavian"
     },
     {
-      "title": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns Playwright Tests Into Videos.",
-      "url": "https://dev.to/thepatriczek/i-was-tired-of-re-recording-product-demos-every-sprint-so-i-built-a-tool-that-turns-playwright-21od",
-      "published_at": "2026-03-26T14:57:20Z",
-      "description": "I Was Tired of Re-Recording Product Demos Every Sprint. So I Built a Tool That Turns...",
-      "tags": [
-        "playwright",
-        "product",
-        "marketing",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxf9h78v3a0ou8f1egr6t.png",
-      "source": "Dev.to",
-      "user": "Patrik Szewczyk"
-    },
-    {
       "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
       "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
       "published_at": "2026-03-25T11:01:22Z",
@@ -1996,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2258,
+      "stars": 2284,
       "user": "magnum6actual"
     },
     {
@@ -2011,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 704,
       "user": "NomaDamas"
     },
     {
@@ -2026,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 118,
       "user": "meodai"
     },
     {
@@ -2071,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2152,
+      "stars": 2173,
       "user": "HKUDS"
     },
     {
@@ -2101,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 760,
       "user": "oaker-io"
     },
     {
@@ -2131,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "TheTom"
     },
     {
@@ -2146,7 +2136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2430,
+      "stars": 2472,
       "user": "larksuite"
     },
     {
