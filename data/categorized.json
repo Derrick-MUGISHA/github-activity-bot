@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
+      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
+      "published_at": "2026-03-28T12:17:54Z",
+      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
+      "tags": [
+        "ai",
+        "kaggle",
+        "gemini",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
+      "source": "Dev.to",
+      "user": "Ertuğrul Demir"
+    },
+    {
       "title": "Why Daily Standups Are Becoming Useless in the AI Era",
       "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
       "published_at": "2026-03-28T22:00:14Z",
@@ -59,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
-      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
-      "published_at": "2026-03-28T12:17:54Z",
-      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
-      "tags": [
-        "ai",
-        "kaggle",
-        "gemini",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
     },
     {
       "title": "Self-improving Coding Agents",
@@ -194,21 +194,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
-    },
-    {
-      "title": "Vibe Coding Needs Telemetry",
-      "url": "https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi",
-      "published_at": "2026-03-26T20:00:19Z",
-      "description": "AI can generate endpoints quickly, but telemetry reveals what your system is actually doing. A real-world look at the N+1 query problem.",
-      "tags": [
-        "backend",
-        "ai",
-        "observability",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aquilabdullah.com%2Fimages%2F876.jpg",
-      "source": "Dev.to",
-      "user": "Aquil Abdullah"
     },
     {
       "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
@@ -707,19 +692,19 @@
       "user": "veesahni"
     },
     {
-      "title": "wringiron6693/PolyFlash - PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
-      "url": "https://github.com/wringiron6693/PolyFlash",
-      "published_at": "2026-03-24T11:09:40Z",
-      "description": "PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270180989?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 73,
-      "user": "wringiron6693"
+      "stars": 81,
+      "user": "meodai"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -733,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 743,
       "user": "oaker-io"
     },
     {
@@ -748,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 533,
       "user": "tonbistudio"
     },
     {
@@ -763,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2122,
+      "stars": 2231,
       "user": "larksuite"
     },
     {
@@ -1035,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2158,
+      "stars": 2187,
       "user": "magnum6actual"
     },
     {
@@ -1050,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 692,
       "user": "NomaDamas"
     },
     {
@@ -1065,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "mrdoob"
     },
     {
@@ -1080,23 +1065,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 84,
       "user": "SeifBenayed"
     },
     {
-      "title": "wringiron6693/PolyFlash - PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
-      "url": "https://github.com/wringiron6693/PolyFlash",
-      "published_at": "2026-03-24T11:09:40Z",
-      "description": "PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270180989?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 73,
-      "user": "wringiron6693"
+      "stars": 81,
+      "user": "meodai"
     }
   ],
   "Python": [
@@ -1306,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 84,
       "user": "SeifBenayed"
     },
     {
@@ -1321,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2068,
+      "stars": 2093,
       "user": "HKUDS"
     },
     {
@@ -1336,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 837,
       "user": "jxnxts"
     },
     {
@@ -1351,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 743,
       "user": "oaker-io"
     },
     {
@@ -1366,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 533,
       "user": "tonbistudio"
     },
     {
@@ -1381,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 491,
       "user": "TheTom"
     }
   ],
@@ -1432,21 +1417,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
-    },
-    {
-      "title": "Vibe Coding Needs Telemetry",
-      "url": "https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi",
-      "published_at": "2026-03-26T20:00:19Z",
-      "description": "AI can generate endpoints quickly, but telemetry reveals what your system is actually doing. A real-world look at the N+1 query problem.",
-      "tags": [
-        "backend",
-        "ai",
-        "observability",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aquilabdullah.com%2Fimages%2F876.jpg",
-      "source": "Dev.to",
-      "user": "Aquil Abdullah"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -1685,7 +1655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2068,
+      "stars": 2093,
       "user": "HKUDS"
     }
   ],
@@ -2026,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2158,
+      "stars": 2187,
       "user": "magnum6actual"
     },
     {
@@ -2041,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 692,
       "user": "NomaDamas"
     },
     {
@@ -2056,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "mrdoob"
     },
     {
@@ -2071,23 +2041,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 84,
       "user": "SeifBenayed"
     },
     {
-      "title": "wringiron6693/PolyFlash - PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
-      "url": "https://github.com/wringiron6693/PolyFlash",
-      "published_at": "2026-03-24T11:09:40Z",
-      "description": "PolyFlash (2026) — Open-Source Polymarket Trading Bot. Features High-Frequency Order Execution, Arbitrage Detection between Centralized Exchanges and Polymarket, and AI-Driven News Sentiment Analysis. Optimized for Polygon (MATIC) Network.",
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270180989?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 73,
-      "user": "wringiron6693"
+      "stars": 81,
+      "user": "meodai"
     },
     {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
@@ -2101,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2068,
+      "stars": 2093,
       "user": "HKUDS"
     },
     {
@@ -2116,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 837,
       "user": "jxnxts"
     },
     {
@@ -2131,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 743,
       "user": "oaker-io"
     },
     {
@@ -2146,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 533,
       "user": "tonbistudio"
     },
     {
@@ -2161,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 491,
       "user": "TheTom"
     },
     {
@@ -2176,8 +2146,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2122,
+      "stars": 2231,
       "user": "larksuite"
+    },
+    {
+      "title": "james-6-23/codex2api - GitHub Repository",
+      "url": "https://github.com/james-6-23/codex2api",
+      "published_at": "2026-03-24T00:07:29Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
+      "source": "GitHub",
+      "stars": 251,
+      "user": "james-6-23"
     },
     {
       "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
@@ -2193,21 +2178,6 @@
       "source": "GitHub",
       "stars": 251,
       "user": "tanviet12"
-    },
-    {
-      "title": "james-6-23/codex2api - GitHub Repository",
-      "url": "https://github.com/james-6-23/codex2api",
-      "published_at": "2026-03-24T00:07:29Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
-      "source": "GitHub",
-      "stars": 250,
-      "user": "james-6-23"
     },
     {
       "title": "bhope/hedge - Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
