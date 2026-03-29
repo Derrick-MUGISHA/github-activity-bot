@@ -219,7 +219,7 @@ npm run test
 - [Finding Slow Queries in PostgreSQL (Without Guessing)](https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j) _[Dev.to]_
 - [Reflections on my Trainings: Gemini for Google Workspace](https://dev.to/gde/reflections-on-my-trainings-gemini-for-google-workspace-4fj3) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 19:04:55 CAT_
+_Last automated update: Sun, 29 Mar 2026 19:47:40 CAT_
 
 
 
@@ -238,25 +238,25 @@ Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 29 Mar 2026 17:04:55 GMT</b><br/>
+  <b>Last automated update: Sun, 29 Mar 2026 17:47:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
