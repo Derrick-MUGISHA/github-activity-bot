@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-29-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Cloud**: 🟦🟦🟦🟦 10 (9.6%)
+**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
 
-**Security**: 🟦🟦 6 (5.8%)
+**Security**: 🟦🟦 6 (5.7%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦 4 (3.8%)
+**Database**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,23 +60,23 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.3 (25.3%)
-JavaScript      ████████████████████████████ 23.2 (23.2%)
-Java            ██████████████████████████ 22.1 (22.1%)
-Python          ██████████████████████████ 22.1 (22.1%)
-Rust            ██ 2.1 (2.1%)
-CSharp          ██ 2.1 (2.1%)
-Swift           ██ 2.1 (2.1%)
+Go              ██████████████████████████████ 24.5 (24.5%)
+JavaScript      █████████████████████████████ 23.4 (23.4%)
+Java            █████████████████████████████ 23.4 (23.4%)
+Python          ██████████████████████████ 21.3 (21.3%)
+Rust            ███ 2.1 (2.1%)
+CSharp          ███ 2.1 (2.1%)
+Swift           ███ 2.1 (2.1%)
 PHP             █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 24
+    "Go" : 23
     "JavaScript" : 22
-    "Java" : 21
-    "Python" : 21
+    "Java" : 22
+    "Python" : 20
     "Rust" : 2
     "CSharp" : 2
     "Swift" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![career](https://img.shields.io/badge/career-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-29 13:00 CAT)
+## 📅 Latest Updates (2026-03-29 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -207,18 +207,18 @@ npm run test
 - [Building a Error Library](https://dev.to/fafhrd91/building-a-error-library-3kda) _[Dev.to]_
 - [How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)](https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7) _[Dev.to]_
 - [Stop Writing Custom Importers: Import Multilingual Data in Drupal with Migrate API](https://dev.to/baikho/stop-writing-custom-importers-import-multilingual-data-in-drupal-with-migrate-api-m35) _[Dev.to]_
-- [This is Cloud Run: Configuration](https://dev.to/gde/this-is-cloud-run-configuration-2gi2) _[Dev.to]_
 - [Modular Monolith Architecture in .NET: The Pragmatic Middle Ground](https://dev.to/aldacosta/modular-monolith-architecture-in-net-the-pragmatic-middle-ground-2fm5) _[Dev.to]_
 - [Self-improving Coding Agents](https://dev.to/raphaelpor/self-improving-coding-agents-435l) _[Dev.to]_
 - [Finding Slow Queries in PostgreSQL (Without Guessing)](https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j) _[Dev.to]_
 - [Reflections on my Trainings: Gemini for Google Workspace](https://dev.to/gde/reflections-on-my-trainings-gemini-for-google-workspace-4fj3) _[Dev.to]_
-- [AI Writes Daily Without My Involvement](https://dev.to/maksugr/ai-writes-daily-without-my-involvement-4jfc) _[Dev.to]_
 - [Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to](https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn) _[Dev.to]_
 - [Cross Cloud ADK with Python, and the Azure App Service](https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47) _[Dev.to]_
-- [MCP Development with Python, and Azure Container Apps](https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f) _[Dev.to]_
 - [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
+- [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m) _[Dev.to]_
+- [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
+- [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 13:51:45 CAT_
+_Last automated update: Sun, 29 Mar 2026 14:47:40 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 29 Mar 2026 13:51:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 29 Mar 2026 11:51:45 GMT</b><br/>
+  <b>Last automated update: Sun, 29 Mar 2026 12:47:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
