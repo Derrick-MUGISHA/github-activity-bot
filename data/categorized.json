@@ -106,21 +106,6 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "AI Writes Daily Without My Involvement",
-      "url": "https://dev.to/maksugr/ai-writes-daily-without-my-involvement-4jfc",
-      "published_at": "2026-03-26T17:37:00Z",
-      "description": "A naive dive into a multi-agent system with self-critique, diversity-aware curation, and weekly self-reflection to cover local cultural events",
-      "tags": [
-        "ai",
-        "claude",
-        "llm",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frej4lmcd8b0vy2b1niqi.png",
-      "source": "Dev.to",
-      "user": "Roman Ponomarev"
-    },
-    {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
       "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
       "published_at": "2026-03-27T19:07:08Z",
@@ -147,21 +132,6 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ebih1lknlxfgs4tztwl.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "MCP Development with Python, and Azure Container Apps",
-      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f",
-      "published_at": "2026-03-25T18:47:10Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "gemini",
-        "aca",
-        "mcpserver",
-        "googlecloudplatform"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnnebxte1ey48ieexl15z.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -297,6 +267,31 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
       "source": "Dev.to",
       "user": "Ivan SZKIBA"
+    },
+    {
+      "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
+      "url": "https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk",
+      "published_at": "2026-03-28T01:59:54Z",
+      "description": "Welcome to your first job, freshers. You've probably already used ChatGPT or Copilot to get through...",
+      "tags": [
+        "beginners",
+        "career",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs13ke9vghvr3ycti3eg.png",
+      "source": "Dev.to",
+      "user": "Rick Cogley"
+    },
+    {
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
+      "source": "Dev.to",
+      "user": "Typing Turtle"
     },
     {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
@@ -708,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 138,
       "user": "meodai"
     },
     {
@@ -723,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 777,
       "user": "oaker-io"
     },
     {
@@ -738,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "tonbistudio"
     },
     {
@@ -753,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2528,
+      "stars": 2580,
       "user": "larksuite"
     },
     {
@@ -768,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "tanviet12"
     },
     {
@@ -1025,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2292,
+      "stars": 2305,
       "user": "magnum6actual"
     },
     {
@@ -1040,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 712,
       "user": "NomaDamas"
     },
     {
@@ -1055,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 138,
       "user": "meodai"
     },
     {
@@ -1085,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "SeifBenayed"
     }
   ],
@@ -1117,21 +1112,6 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ebih1lknlxfgs4tztwl.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "MCP Development with Python, and Azure Container Apps",
-      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f",
-      "published_at": "2026-03-25T18:47:10Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "gemini",
-        "aca",
-        "mcpserver",
-        "googlecloudplatform"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnnebxte1ey48ieexl15z.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1296,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "SeifBenayed"
     },
     {
@@ -1311,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2206,
+      "stars": 2234,
       "user": "HKUDS"
     },
     {
@@ -1341,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 777,
       "user": "oaker-io"
     },
     {
@@ -1356,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "tonbistudio"
     },
     {
@@ -1371,26 +1351,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 504,
       "user": "TheTom"
     }
   ],
   "DevOps": [
-    {
-      "title": "This is Cloud Run: Configuration",
-      "url": "https://dev.to/gde/this-is-cloud-run-configuration-2gi2",
-      "published_at": "2026-03-27T10:23:13Z",
-      "description": "This is Part 3 of the \"This is Cloud Run\" series. In Part 1, we covered what Cloud Run is and when to...",
-      "tags": [
-        "devops",
-        "gcp",
-        "cloudrun",
-        "serverless"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yaui3lqdt41txv91un1.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
     {
       "title": "Gemma-SRE: Self-Hosted vLLM Infrastructure Agent",
       "url": "https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam",
@@ -1405,6 +1370,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymh2fgsbh945a2vc95vc.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "This is Cloud Run: Configuration",
+      "url": "https://dev.to/gde/this-is-cloud-run-configuration-2gi2",
+      "published_at": "2026-03-27T10:23:13Z",
+      "description": "This is Part 3 of the \"This is Cloud Run\" series. In Part 1, we covered what Cloud Run is and when to...",
+      "tags": [
+        "devops",
+        "gcp",
+        "cloudrun",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yaui3lqdt41txv91un1.png",
+      "source": "Dev.to",
+      "user": "Daniel Gwerzman"
     }
   ],
   "WebDev": [
@@ -1530,21 +1510,6 @@
       "user": "xbill"
     },
     {
-      "title": "This is Cloud Run: Configuration",
-      "url": "https://dev.to/gde/this-is-cloud-run-configuration-2gi2",
-      "published_at": "2026-03-27T10:23:13Z",
-      "description": "This is Part 3 of the \"This is Cloud Run\" series. In Part 1, we covered what Cloud Run is and when to...",
-      "tags": [
-        "devops",
-        "gcp",
-        "cloudrun",
-        "serverless"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yaui3lqdt41txv91un1.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
-    {
       "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
       "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
       "published_at": "2026-03-28T02:34:47Z",
@@ -1570,21 +1535,6 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ebih1lknlxfgs4tztwl.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "MCP Development with Python, and Azure Container Apps",
-      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f",
-      "published_at": "2026-03-25T18:47:10Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "gemini",
-        "aca",
-        "mcpserver",
-        "googlecloudplatform"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnnebxte1ey48ieexl15z.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1617,6 +1567,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png",
       "source": "Dev.to",
       "user": "C.K.Sun"
+    },
+    {
+      "title": "Scaling ID Generation with Redis",
+      "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
+      "published_at": "2026-03-26T08:05:32Z",
+      "description": "It Started with a Simple Counter   I work on a cloud-based document management platform used...",
+      "tags": [
+        "java",
+        "redis",
+        "software",
+        "distributedsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
+      "source": "Dev.to",
+      "user": "Krishna Tej Chalamalasetty"
+    },
+    {
+      "title": "This is Cloud Run: Configuration",
+      "url": "https://dev.to/gde/this-is-cloud-run-configuration-2gi2",
+      "published_at": "2026-03-27T10:23:13Z",
+      "description": "This is Part 3 of the \"This is Cloud Run\" series. In Part 1, we covered what Cloud Run is and when to...",
+      "tags": [
+        "devops",
+        "gcp",
+        "cloudrun",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yaui3lqdt41txv91un1.png",
+      "source": "Dev.to",
+      "user": "Daniel Gwerzman"
     },
     {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
@@ -1660,7 +1640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2206,
+      "stars": 2234,
       "user": "HKUDS"
     }
   ],
@@ -1708,6 +1688,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
       "source": "Dev.to",
       "user": "Labeeb Ahmad"
+    },
+    {
+      "title": "Scaling ID Generation with Redis",
+      "url": "https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e",
+      "published_at": "2026-03-26T08:05:32Z",
+      "description": "It Started with a Simple Counter   I work on a cloud-based document management platform used...",
+      "tags": [
+        "java",
+        "redis",
+        "software",
+        "distributedsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys5fzzrvu4ggoe3wpmpf.png",
+      "source": "Dev.to",
+      "user": "Krishna Tej Chalamalasetty"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1986,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2292,
+      "stars": 2305,
       "user": "magnum6actual"
     },
     {
@@ -2001,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 712,
       "user": "NomaDamas"
     },
     {
@@ -2016,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 138,
       "user": "meodai"
     },
     {
@@ -2046,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "SeifBenayed"
     },
     {
@@ -2061,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2206,
+      "stars": 2234,
       "user": "HKUDS"
     },
     {
@@ -2091,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 777,
       "user": "oaker-io"
     },
     {
@@ -2106,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "tonbistudio"
     },
     {
@@ -2121,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 504,
       "user": "TheTom"
     },
     {
@@ -2136,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2528,
+      "stars": 2580,
       "user": "larksuite"
     },
     {
@@ -2151,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "james-6-23"
     },
     {
@@ -2166,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "tanviet12"
     },
     {
