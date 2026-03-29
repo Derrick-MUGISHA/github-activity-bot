@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
-      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
-      "published_at": "2026-03-28T12:17:54Z",
-      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
-      "tags": [
-        "ai",
-        "kaggle",
-        "gemini",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
-    },
-    {
       "title": "Why Daily Standups Are Becoming Useless in the AI Era",
       "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
       "published_at": "2026-03-28T22:00:14Z",
@@ -46,21 +31,6 @@
       "user": "ghost"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
-      "published_at": "2026-03-28T17:14:30Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "googlecloudplatform",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You",
       "url": "https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o",
       "published_at": "2026-03-29T02:07:26Z",
@@ -76,6 +46,34 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Vibe with Code: Plan First, Build Second",
+      "url": "https://dev.to/abarron/vibe-with-code-plan-first-build-second-3n8o",
+      "published_at": "2026-03-29T03:18:42Z",
+      "description": "The most expensive mistake engineers make with AI isn't the code. It's skipping the plan.  Software...",
+      "tags": [
+        "ai",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw13w4i0cx5504ale5vbw.png",
+      "source": "Dev.to",
+      "user": "Ava Barron"
+    },
+    {
       "title": "How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)",
       "url": "https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7",
       "published_at": "2026-03-28T17:27:11Z",
@@ -89,6 +87,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png",
       "source": "Dev.to",
       "user": "Ayomide Adebisi"
+    },
+    {
+      "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
+      "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
+      "published_at": "2026-03-29T02:34:36Z",
+      "description": "Claude Code has WebFetch. Every AI coding agent has some way to grab a webpage.  They all hit the...",
+      "tags": [
+        "zig",
+        "opensource",
+        "cli",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
+      "source": "Dev.to",
+      "user": "An Pham"
     },
     {
       "title": "Self-improving Coding Agents",
@@ -194,6 +207,21 @@
       "user": "Scarlett Attensil"
     },
     {
+      "title": "Speed vs smarts for coding agents?",
+      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
+      "published_at": "2026-03-26T15:58:22Z",
+      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
+      "tags": [
+        "agents",
+        "ai",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e",
       "published_at": "2026-03-26T19:33:51Z",
@@ -239,19 +267,19 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Speed vs smarts for coding agents?",
-      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
-      "published_at": "2026-03-26T15:58:22Z",
-      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
+      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
+      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
+      "published_at": "2026-03-28T12:17:54Z",
+      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
       "tags": [
-        "agents",
         "ai",
-        "productivity",
-        "discuss"
+        "kaggle",
+        "gemini",
+        "vertexai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
       "source": "Dev.to",
-      "user": "Ben Halpern"
+      "user": "Ertuğrul Demir"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -282,21 +310,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
       "source": "Dev.to",
       "user": "Ivan SZKIBA"
-    },
-    {
-      "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
-      "url": "https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk",
-      "published_at": "2026-03-28T01:59:54Z",
-      "description": "Welcome to your first job, freshers. You've probably already used ChatGPT or Copilot to get through...",
-      "tags": [
-        "beginners",
-        "career",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs13ke9vghvr3ycti3eg.png",
-      "source": "Dev.to",
-      "user": "Rick Cogley"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -718,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 165,
       "user": "meodai"
     },
     {
@@ -733,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 814,
       "user": "oaker-io"
     },
     {
@@ -748,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 555,
       "user": "tonbistudio"
     },
     {
@@ -763,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2750,
+      "stars": 2801,
       "user": "larksuite"
     },
     {
@@ -827,21 +840,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
-    },
-    {
-      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-      "published_at": "2026-03-23T05:48:13Z",
-      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
-      "source": "Dev.to",
-      "user": "Satish Gowda"
     },
     {
       "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
@@ -1035,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2319,
+      "stars": 2327,
       "user": "magnum6actual"
     },
     {
@@ -1065,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 165,
       "user": "meodai"
     },
     {
@@ -1095,26 +1093,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "SeifBenayed"
     }
   ],
   "Python": [
-    {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
-      "published_at": "2026-03-28T17:14:30Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "googlecloudplatform",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You",
       "url": "https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o",
@@ -1129,6 +1112,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fal3uz3ais1bhoa46em0p.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Cross Cloud ADK with Python, and the Azure App Service",
@@ -1306,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "SeifBenayed"
     },
     {
@@ -1321,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2302,
+      "stars": 2324,
       "user": "HKUDS"
     },
     {
@@ -1336,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 853,
       "user": "jxnxts"
     },
     {
@@ -1351,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 814,
       "user": "oaker-io"
     },
     {
@@ -1366,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 555,
       "user": "tonbistudio"
     },
     {
@@ -1381,11 +1379,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 535,
       "user": "TheTom"
     }
   ],
   "DevOps": [
+    {
+      "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
+      "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
+      "published_at": "2026-03-29T04:13:52Z",
+      "description": "Introduction  In the early stages of learning cloud development, it’s tempting to just \"make it work\"...",
+      "tags": [
+        "devops",
+        "cloud",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
+      "source": "Dev.to",
+      "user": "Ajadi Olalekan Jamiu"
+    },
     {
       "title": "Gemma-SRE: Self-Hosted vLLM Infrastructure Agent",
       "url": "https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam",
@@ -1432,21 +1444,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
-    },
-    {
-      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-      "published_at": "2026-03-23T05:48:13Z",
-      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
-      "source": "Dev.to",
-      "user": "Satish Gowda"
     },
     {
       "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
@@ -1525,6 +1522,20 @@
       "user": "xbill"
     },
     {
+      "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
+      "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
+      "published_at": "2026-03-29T04:13:52Z",
+      "description": "Introduction  In the early stages of learning cloud development, it’s tempting to just \"make it work\"...",
+      "tags": [
+        "devops",
+        "cloud",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
+      "source": "Dev.to",
+      "user": "Ajadi Olalekan Jamiu"
+    },
+    {
       "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
       "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
       "published_at": "2026-03-28T02:34:47Z",
@@ -1567,21 +1578,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
-      "url": "https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b",
-      "published_at": "2026-03-22T22:31:46Z",
-      "description": "We wanted every employee in the company to use OpenClaw — not just engineers. Product managers...",
-      "tags": [
-        "opensource",
-        "openclaw",
-        "aws",
-        "cdk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png",
-      "source": "Dev.to",
-      "user": "C.K.Sun"
     },
     {
       "title": "Scaling ID Generation with Redis",
@@ -1655,7 +1651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2302,
+      "stars": 2324,
       "user": "HKUDS"
     }
   ],
@@ -2006,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2319,
+      "stars": 2327,
       "user": "magnum6actual"
     },
     {
@@ -2036,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 165,
       "user": "meodai"
     },
     {
@@ -2066,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "SeifBenayed"
     },
     {
@@ -2081,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2302,
+      "stars": 2324,
       "user": "HKUDS"
     },
     {
@@ -2096,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 853,
       "user": "jxnxts"
     },
     {
@@ -2111,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 814,
       "user": "oaker-io"
     },
     {
@@ -2126,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 555,
       "user": "tonbistudio"
     },
     {
@@ -2141,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 535,
       "user": "TheTom"
     },
     {
@@ -2156,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2750,
+      "stars": 2801,
       "user": "larksuite"
     },
     {
@@ -2171,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 265,
       "user": "james-6-23"
     },
     {
