@@ -1,9 +1,9 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-93-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-6-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-28-orange)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-29-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,29 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (57.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (28.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (22.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (20.4%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Cloud**: 🟦🟦🟦🟦 11 (11.8%)
+**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
-**WebDev**: 🟦🟦 5 (5.4%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦 3 (3.2%)
+**Database**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦 3 (3.2%)
+**Security**: 🟦 4 (3.8%)
 
-**Security**: 🟦 3 (3.2%)
+**DevOps**: 🟦 2 (1.9%)
+
+**Mobile**:  1 (1.0%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 48 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,30 +60,34 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.6 (26.6%)
-Python          ███████████████████████████ 24.1 (24.1%)
-Java            ███████████████████████████ 24.1 (24.1%)
-Go              ██████████████████████████ 22.8 (22.8%)
-Rust            █ 1.3 (1.3%)
-CSharp          █ 1.3 (1.3%)
+Go              ██████████████████████████████ 24.2 (24.2%)
+JavaScript      █████████████████████████████ 23.1 (23.1%)
+Java            █████████████████████████████ 23.1 (23.1%)
+Python          █████████████████████████████ 23.1 (23.1%)
+CSharp          ███ 2.2 (2.2%)
+Rust            ███ 2.2 (2.2%)
+PHP             █ 1.1 (1.1%)
+Swift           █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
+    "Go" : 22
     "JavaScript" : 21
-    "Python" : 19
-    "Java" : 19
-    "Go" : 18
-    "Rust" : 1
-    "CSharp" : 1
+    "Java" : 21
+    "Python" : 21
+    "CSharp" : 2
+    "Rust" : 2
+    "PHP" : 1
+    "Swift" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-4-blue) ![programming](https://img.shields.io/badge/programming-4-blue) ![mcp](https://img.shields.io/badge/mcp-4-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) 
 
 
 
@@ -121,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-29 1:00 CAT)
+## 📅 Latest Updates (2026-03-29 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -129,28 +135,28 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png" width="200" alt="The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!" />
+    <a href="https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png" width="200" alt="How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾" />
       <br/>
-      <b>The Next DEV Weekend Challenge Launches on April 1...</b>
+      <b>How to use Timberborn 🦫 (yes, the beaver city-bui...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png" width="200" alt="your agent can think. it can't remember." />
+    <a href="https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg" width="200" alt="Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets" />
       <br/>
-      <b>your agent can think. it can't remember.</b>
+      <b>Decoding Bronze Age Paperwork: Modern AI vs. Ancie...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr9h7gujl2nf3k6bv2t4r.png" width="200" alt="I'm so sick of my editor telling me how great I am. Not that I'm not great." />
+    <a href="https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdlermncultjao4oomuh.png" width="200" alt="Why Daily Standups Are Becoming Useless in the AI Era" />
       <br/>
-      <b>I'm so sick of my editor telling me how great I am...</b>
+      <b>Why Daily Standups Are Becoming Useless in the AI ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -158,28 +164,28 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/fafhrd91/building-a-error-library-3kda">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqw27m0sp1r9i2trsdqca.png" width="200" alt="Building a Error Library" />
+    <a href="https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png" width="200" alt="How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)" />
       <br/>
-      <b>Building a Error Library</b>
+      <b>How to Store Secrets in the Mac Keychain (and Use ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/this-is-cloud-run-configuration-2gi2">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yaui3lqdt41txv91un1.png" width="200" alt="This is Cloud Run: Configuration" />
+    <a href="https://dev.to/baikho/stop-writing-custom-importers-import-multilingual-data-in-drupal-with-migrate-api-m35">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk7mykuxx011xw3w1fo9a.png" width="200" alt="Stop Writing Custom Importers: Import Multilingual Data in Drupal with Migrate API" />
       <br/>
-      <b>This is Cloud Run: Configuration</b>
+      <b>Stop Writing Custom Importers: Import Multilingual...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/maksugr/ai-writes-daily-without-my-involvement-4jfc">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frej4lmcd8b0vy2b1niqi.png" width="200" alt="AI Writes Daily Without My Involvement" />
+    <a href="https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png" width="200" alt="Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI" />
       <br/>
-      <b>AI Writes Daily Without My Involvement</b>
+      <b>Cross Cloud Multi Agent Comic Builder with ADK, Am...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -191,28 +197,28 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd) _[Dev.to]_
+- [How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c) _[Dev.to]_
+- [Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets](https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf) _[Dev.to]_
+- [Why Daily Standups Are Becoming Useless in the AI Era](https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao) _[Dev.to]_
+- [How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)](https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7) _[Dev.to]_
+- [Stop Writing Custom Importers: Import Multilingual Data in Drupal with Migrate API](https://dev.to/baikho/stop-writing-custom-importers-import-multilingual-data-in-drupal-with-migrate-api-m35) _[Dev.to]_
+- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9) _[Dev.to]_
+- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e) _[Dev.to]_
 - [your agent can think. it can't remember.](https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o) _[Dev.to]_
+- [Modular Monolith Architecture in .NET: The Pragmatic Middle Ground](https://dev.to/aldacosta/modular-monolith-architecture-in-net-the-pragmatic-middle-ground-2fm5) _[Dev.to]_
+- [Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI](https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [Building a Error Library](https://dev.to/fafhrd91/building-a-error-library-3kda) _[Dev.to]_
 - [This is Cloud Run: Configuration](https://dev.to/gde/this-is-cloud-run-configuration-2gi2) _[Dev.to]_
+- [Self-improving Coding Agents](https://dev.to/raphaelpor/self-improving-coding-agents-435l) _[Dev.to]_
+- [Finding Slow Queries in PostgreSQL (Without Guessing)](https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j) _[Dev.to]_
+- [Reflections on my Trainings: Gemini for Google Workspace](https://dev.to/gde/reflections-on-my-trainings-gemini-for-google-workspace-4fj3) _[Dev.to]_
 - [AI Writes Daily Without My Involvement](https://dev.to/maksugr/ai-writes-daily-without-my-involvement-4jfc) _[Dev.to]_
 - [Cross Cloud ADK with Python, and the Azure App Service](https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47) _[Dev.to]_
 - [MCP Development with Python, and Azure Container Apps](https://dev.to/gde/mcp-development-with-python-and-azure-container-apps-448f) _[Dev.to]_
 - [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
-- [Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to](https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn) _[Dev.to]_
-- [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m) _[Dev.to]_
-- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi) _[Dev.to]_
-- [Scaling your productivity with spec docs in your IDE - Anti Gravity.](https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2) _[Dev.to]_
-- [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
-- [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
-- [Gemma-SRE: Self-Hosted vLLM Infrastructure Agent](https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam) _[Dev.to]_
-- [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
-- [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
-- [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956) _[Dev.to]_
-- [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8) _[Dev.to]_
 
-_Last automated update: Sun, 29 Mar 2026 01:56:43 CAT_
+_Last automated update: Sun, 29 Mar 2026 04:30:06 CAT_
 
 
 
@@ -220,36 +226,36 @@ _Last automated update: Sun, 29 Mar 2026 01:56:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Heap, stack, garbage collection
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -283,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 28 Mar 2026 23:56:43 GMT</b><br/>
+  <b>Last automated update: Sun, 29 Mar 2026 02:30:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
