@@ -31,21 +31,6 @@
       "user": "Rodrigo Oler"
     },
     {
-      "title": "How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)",
-      "url": "https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7",
-      "published_at": "2026-03-28T17:27:11Z",
-      "description": "I used to keep API keys in .env because it was fast. Then I caught myself grepping my home folder for...",
-      "tags": [
-        "macos",
-        "security",
-        "keychain",
-        "bash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png",
-      "source": "Dev.to",
-      "user": "Ayomide Adebisi"
-    },
-    {
       "title": "your agent can think. it can't remember.",
       "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
       "published_at": "2026-03-25T15:01:56Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)",
+      "url": "https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7",
+      "published_at": "2026-03-28T17:27:11Z",
+      "description": "I used to keep API keys in .env because it was fast. Then I caught myself grepping my home folder for...",
+      "tags": [
+        "macos",
+        "security",
+        "keychain",
+        "bash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png",
+      "source": "Dev.to",
+      "user": "Ayomide Adebisi"
     },
     {
       "title": "Self-improving Coding Agents",
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 98,
       "user": "meodai"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 751,
       "user": "oaker-io"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2270,
+      "stars": 2352,
       "user": "larksuite"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 254,
       "user": "tanviet12"
     },
     {
@@ -1020,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2200,
+      "stars": 2224,
       "user": "magnum6actual"
     },
     {
@@ -1035,8 +1035,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 698,
       "user": "NomaDamas"
+    },
+    {
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "meodai"
     },
     {
       "title": "mrdoob/Starter-Kit-Racing - Basic template for a racing game.",
@@ -1052,21 +1067,6 @@
       "source": "GitHub",
       "stars": 96,
       "user": "mrdoob"
-    },
-    {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
-      "source": "GitHub",
-      "stars": 88,
-      "user": "meodai"
     },
     {
       "title": "SeifBenayed/claude-code-sdk - Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use your Pro/Max subscription directly. No binary dependency.",
@@ -1306,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2107,
+      "stars": 2136,
       "user": "HKUDS"
     },
     {
@@ -1321,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 838,
       "user": "jxnxts"
     },
     {
@@ -1336,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 751,
       "user": "oaker-io"
     },
     {
@@ -1366,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 493,
       "user": "TheTom"
     }
   ],
@@ -1655,7 +1655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2107,
+      "stars": 2136,
       "user": "HKUDS"
     }
   ],
@@ -1996,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2200,
+      "stars": 2224,
       "user": "magnum6actual"
     },
     {
@@ -2011,8 +2011,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 698,
       "user": "NomaDamas"
+    },
+    {
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "meodai"
     },
     {
       "title": "mrdoob/Starter-Kit-Racing - Basic template for a racing game.",
@@ -2028,21 +2043,6 @@
       "source": "GitHub",
       "stars": 96,
       "user": "mrdoob"
-    },
-    {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
-      "source": "GitHub",
-      "stars": 88,
-      "user": "meodai"
     },
     {
       "title": "SeifBenayed/claude-code-sdk - Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use your Pro/Max subscription directly. No binary dependency.",
@@ -2071,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2107,
+      "stars": 2136,
       "user": "HKUDS"
     },
     {
@@ -2086,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 838,
       "user": "jxnxts"
     },
     {
@@ -2101,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 751,
       "user": "oaker-io"
     },
     {
@@ -2131,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 493,
       "user": "TheTom"
     },
     {
@@ -2146,8 +2146,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2270,
+      "stars": 2352,
       "user": "larksuite"
+    },
+    {
+      "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
+      "url": "https://github.com/tanviet12/chat-quality-agent",
+      "published_at": "2026-03-23T16:04:28Z",
+      "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
+      "source": "GitHub",
+      "stars": 254,
+      "user": "tanviet12"
     },
     {
       "title": "james-6-23/codex2api - GitHub Repository",
@@ -2163,21 +2178,6 @@
       "source": "GitHub",
       "stars": 253,
       "user": "james-6-23"
-    },
-    {
-      "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
-      "url": "https://github.com/tanviet12/chat-quality-agent",
-      "published_at": "2026-03-23T16:04:28Z",
-      "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "tanviet12"
     },
     {
       "title": "bhope/hedge - Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
