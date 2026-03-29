@@ -61,6 +61,21 @@
       "user": "xbill"
     },
     {
+      "title": "Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You",
+      "url": "https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o",
+      "published_at": "2026-03-29T02:07:26Z",
+      "description": "Background   Google released Gemini 3.1 Flash Live at the end of March 2026 March,...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fal3uz3ais1bhoa46em0p.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)",
       "url": "https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7",
       "published_at": "2026-03-28T17:27:11Z",
@@ -91,21 +106,6 @@
       "user": "Raphael Porto"
     },
     {
-      "title": "Reflections on my Trainings: Gemini for Google Workspace",
-      "url": "https://dev.to/gde/reflections-on-my-trainings-gemini-for-google-workspace-4fj3",
-      "published_at": "2026-03-28T02:42:46Z",
-      "description": "It's always an incredibly rewarding experience to engage with professionals eager to embrace new...",
-      "tags": [
-        "gemini",
-        "googleworkspace",
-        "livetraining",
-        "googleappsscript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa30hb1cmpxo1m9m0aagu.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
       "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
       "published_at": "2026-03-27T19:07:08Z",
@@ -119,6 +119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
       "source": "Dev.to",
       "user": "Yash Kumar Saini"
+    },
+    {
+      "title": "Reflections on my Trainings: Gemini for Google Workspace",
+      "url": "https://dev.to/gde/reflections-on-my-trainings-gemini-for-google-workspace-4fj3",
+      "published_at": "2026-03-28T02:42:46Z",
+      "description": "It's always an incredibly rewarding experience to engage with professionals eager to embrace new...",
+      "tags": [
+        "gemini",
+        "googleworkspace",
+        "livetraining",
+        "googleappsscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa30hb1cmpxo1m9m0aagu.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "Cross Cloud ADK with Python, and the Azure App Service",
@@ -209,21 +224,6 @@
       "user": "xbill"
     },
     {
-      "title": "Speed vs smarts for coding agents?",
-      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
-      "published_at": "2026-03-26T15:58:22Z",
-      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
       "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
       "published_at": "2026-03-27T21:33:31Z",
@@ -237,6 +237,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Speed vs smarts for coding agents?",
+      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
+      "published_at": "2026-03-26T15:58:22Z",
+      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
+      "tags": [
+        "agents",
+        "ai",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -545,21 +560,6 @@
       "user": "Max"
     },
     {
-      "title": "The Future of Coding is Communication, Not Just Code",
-      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
-      "published_at": "2026-03-26T14:31:00Z",
-      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
-      "tags": [
-        "ai",
-        "mcp",
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 150,
       "user": "meodai"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 787,
       "user": "oaker-io"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 549,
       "user": "tonbistudio"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2701,
       "user": "larksuite"
     },
     {
@@ -1020,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2310,
+      "stars": 2316,
       "user": "magnum6actual"
     },
     {
@@ -1035,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 721,
       "user": "NomaDamas"
     },
     {
@@ -1050,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 150,
       "user": "meodai"
     },
     {
@@ -1099,6 +1099,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You",
+      "url": "https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o",
+      "published_at": "2026-03-29T02:07:26Z",
+      "description": "Background   Google released Gemini 3.1 Flash Live at the end of March 2026 March,...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fal3uz3ais1bhoa46em0p.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Cross Cloud ADK with Python, and the Azure App Service",
@@ -1291,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2264,
+      "stars": 2285,
       "user": "HKUDS"
     },
     {
@@ -1306,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 848,
       "user": "jxnxts"
     },
     {
@@ -1321,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 787,
       "user": "oaker-io"
     },
     {
@@ -1336,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 549,
       "user": "tonbistudio"
     },
     {
@@ -1351,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 522,
       "user": "TheTom"
     }
   ],
@@ -1417,21 +1432,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
-    },
-    {
-      "title": "PageSpeed 35 to 90: What I Got Wrong, Then Right",
-      "url": "https://dev.to/genuineswe/pagespeed-35-to-90-what-i-got-wrong-then-right-1o2m",
-      "published_at": "2026-03-25T07:17:07Z",
-      "description": "How I Took My PageSpeed Score from 35 to 90 (And What I Got Wrong First)   Have you ever...",
-      "tags": [
-        "performance",
-        "frontend",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvqc5cf2oga14cxnh7lq.png",
-      "source": "Dev.to",
-      "user": "genuineswe"
     },
     {
       "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
@@ -1640,7 +1640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2264,
+      "stars": 2285,
       "user": "HKUDS"
     }
   ],
@@ -1779,21 +1779,6 @@
       "user": "Nick Ciolpan"
     },
     {
-      "title": "The Future of Coding is Communication, Not Just Code",
-      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
-      "published_at": "2026-03-26T14:31:00Z",
-      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
-      "tags": [
-        "ai",
-        "mcp",
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1823,18 +1808,14 @@
       "user": "Rodrigo Oler"
     },
     {
-      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
-      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
-      "published_at": "2026-03-28T02:34:47Z",
-      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
-      "tags": [
-        "sql",
-        "postgressql",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
+      "title": "Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API Call",
+      "url": "https://dev.to/gde/gemini-tool-combo-building-a-line-meetup-helper-with-maps-grounding-and-places-api-in-a-single-api-3ppd",
+      "published_at": "2026-03-29T02:07:59Z",
+      "description": "Reference articles:     Gemini API tooling updates: context circulation, tool combos and Maps...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppvck2ze2f1q3hc4o4ry.png",
       "source": "Dev.to",
-      "user": "Labeeb Ahmad"
+      "user": "Evan Lin"
     },
     {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
@@ -1850,6 +1831,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
       "source": "Dev.to",
       "user": "Yash Kumar Saini"
+    },
+    {
+      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
+      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
+      "published_at": "2026-03-28T02:34:47Z",
+      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
+      "tags": [
+        "sql",
+        "postgressql",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
+      "source": "Dev.to",
+      "user": "Labeeb Ahmad"
     },
     {
       "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
@@ -1981,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2310,
+      "stars": 2316,
       "user": "magnum6actual"
     },
     {
@@ -1996,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 721,
       "user": "NomaDamas"
     },
     {
@@ -2011,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 150,
       "user": "meodai"
     },
     {
@@ -2056,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2264,
+      "stars": 2285,
       "user": "HKUDS"
     },
     {
@@ -2071,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 848,
       "user": "jxnxts"
     },
     {
@@ -2086,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 787,
       "user": "oaker-io"
     },
     {
@@ -2101,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 549,
       "user": "tonbistudio"
     },
     {
@@ -2116,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 522,
       "user": "TheTom"
     },
     {
@@ -2131,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2701,
       "user": "larksuite"
     },
     {
@@ -2146,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 261,
       "user": "james-6-23"
     },
     {
@@ -2191,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87742696?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "lich0821"
     }
   ]
