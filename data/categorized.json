@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Prompt Stuffing Is Killing Your Agent",
-      "url": "https://dev.to/wassimchegham/agentic-rag-done-right-4846",
-      "published_at": "2026-03-30T15:49:49Z",
-      "description": "Classic RAG retrieves everything and hopes for the best. Agentic RAG uses conditional retrieval with validation loops — and it's cheaper too.",
-      "tags": [
-        "ai",
-        "rag",
-        "agents",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png",
-      "source": "Dev.to",
-      "user": "Wassim Chegham"
-    },
-    {
       "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
       "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
       "published_at": "2026-03-30T06:21:06Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
       "source": "Dev.to",
       "user": "Maxim Saplin"
+    },
+    {
+      "title": "Prompt Stuffing Is Killing Your Agent",
+      "url": "https://dev.to/wassimchegham/agentic-rag-done-right-4846",
+      "published_at": "2026-03-30T15:49:49Z",
+      "description": "Classic RAG retrieves everything and hopes for the best. Agentic RAG uses conditional retrieval with validation loops — and it's cheaper too.",
+      "tags": [
+        "ai",
+        "rag",
+        "agents",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png",
+      "source": "Dev.to",
+      "user": "Wassim Chegham"
     },
     {
       "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 296,
       "user": "meodai"
     },
     {
@@ -760,23 +760,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "oaker-io"
-    },
-    {
-      "title": "tonbistudio/turboquant-pytorch - From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
-      "url": "https://github.com/tonbistudio/turboquant-pytorch",
-      "published_at": "2026-03-25T08:03:23Z",
-      "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
-      "source": "GitHub",
-      "stars": 617,
-      "user": "tonbistudio"
     },
     {
       "title": "larksuite/cli - A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
@@ -790,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4583,
+      "stars": 4596,
       "user": "larksuite"
     },
     {
@@ -1077,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2490,
+      "stars": 2492,
       "user": "magnum6actual"
     },
     {
@@ -1107,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 296,
       "user": "meodai"
     },
     {
@@ -1348,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2789,
+      "stars": 2801,
       "user": "HKUDS"
     },
     {
@@ -1363,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1327,
       "user": "TheTom"
     },
     {
@@ -1378,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "oaker-io"
     },
     {
@@ -1393,23 +1378,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 922,
       "user": "jxnxts"
     },
     {
-      "title": "tonbistudio/turboquant-pytorch - From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
-      "url": "https://github.com/tonbistudio/turboquant-pytorch",
-      "published_at": "2026-03-25T08:03:23Z",
-      "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
+      "url": "https://github.com/garinasset/leak-check",
+      "published_at": "2026-03-27T10:26:52Z",
+      "description": "个人信息 “泄漏” 检测接口",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 617,
-      "user": "tonbistudio"
+      "stars": 663,
+      "user": "garinasset"
     }
   ],
   "DevOps": [
@@ -1650,11 +1635,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2789,
+      "stars": 2801,
       "user": "HKUDS"
     }
   ],
   "Database": [
+    {
+      "title": "How to Break Your PostgreSQL IIoT Database and Learn Something in the Process",
+      "url": "https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d",
+      "published_at": "2026-03-30T17:42:43Z",
+      "description": "As engineers, we're taught to design for reliability. We do design calculations, run simulations,...",
+      "tags": [
+        "iot",
+        "postgres",
+        "industrial",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04m4zi4dq3j8uqofbc1g.png",
+      "source": "Dev.to",
+      "user": "Team TigerData"
+    },
     {
       "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
       "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
@@ -1803,16 +1803,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API Call",
-      "url": "https://dev.to/gde/gemini-tool-combo-building-a-line-meetup-helper-with-maps-grounding-and-places-api-in-a-single-api-3ppd",
-      "published_at": "2026-03-29T02:07:59Z",
-      "description": "Reference articles:     Gemini API tooling updates: context circulation, tool combos and Maps...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppvck2ze2f1q3hc4o4ry.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -1898,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2490,
+      "stars": 2492,
       "user": "magnum6actual"
     },
     {
@@ -1928,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 296,
       "user": "meodai"
     },
     {
@@ -1973,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2789,
+      "stars": 2801,
       "user": "HKUDS"
     },
     {
@@ -1988,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1327,
       "user": "TheTom"
     },
     {
@@ -2003,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "oaker-io"
     },
     {
@@ -2018,23 +2008,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 922,
       "user": "jxnxts"
     },
     {
-      "title": "tonbistudio/turboquant-pytorch - From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
-      "url": "https://github.com/tonbistudio/turboquant-pytorch",
-      "published_at": "2026-03-25T08:03:23Z",
-      "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
+      "url": "https://github.com/garinasset/leak-check",
+      "published_at": "2026-03-27T10:26:52Z",
+      "description": "个人信息 “泄漏” 检测接口",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 617,
-      "user": "tonbistudio"
+      "stars": 663,
+      "user": "garinasset"
     },
     {
       "title": "larksuite/cli - A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
@@ -2048,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4583,
+      "stars": 4596,
       "user": "larksuite"
     },
     {
@@ -2063,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 365,
       "user": "james-6-23"
     },
     {
@@ -2108,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "vkhanhqui"
     }
   ]
