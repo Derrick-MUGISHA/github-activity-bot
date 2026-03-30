@@ -15,19 +15,6 @@
       "user": "Mezbah Alam"
     },
     {
-      "title": "Vibe with Code: Plan First, Build Second",
-      "url": "https://dev.to/abarron/vibe-with-code-plan-first-build-second-3n8o",
-      "published_at": "2026-03-29T03:18:42Z",
-      "description": "The most expensive mistake engineers make with AI isn't the code. It's skipping the plan.  Software...",
-      "tags": [
-        "ai",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw13w4i0cx5504ale5vbw.png",
-      "source": "Dev.to",
-      "user": "Ava Barron"
-    },
-    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -191,6 +178,19 @@
       "user": "Ivan SZKIBA"
     },
     {
+      "title": "Vibe with Code: Plan First, Build Second",
+      "url": "https://dev.to/abarron/vibe-with-code-plan-first-build-second-3n8o",
+      "published_at": "2026-03-29T03:18:42Z",
+      "description": "The most expensive mistake engineers make with AI isn't the code. It's skipping the plan.  Software...",
+      "tags": [
+        "ai",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw13w4i0cx5504ale5vbw.png",
+      "source": "Dev.to",
+      "user": "Ava Barron"
+    },
+    {
       "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
       "url": "https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk",
       "published_at": "2026-03-28T01:59:54Z",
@@ -274,6 +274,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
       "source": "Dev.to",
       "user": "Evidence Etinih Ekanem"
+    },
+    {
+      "title": "Self-improving Coding Agents",
+      "url": "https://dev.to/raphaelpor/self-improving-coding-agents-435l",
+      "published_at": "2026-03-27T23:51:31Z",
+      "description": "In this article, I demonstrate how a more capable coding agent (Codex/GPT-5.4) successfully refined...",
+      "tags": [
+        "agents",
+        "harness",
+        "ai",
+        "evals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2n6fwc3z8rtoi721lf7a.png",
+      "source": "Dev.to",
+      "user": "Raphael Porto"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
@@ -700,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 275,
       "user": "meodai"
     },
     {
@@ -730,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 916,
       "user": "oaker-io"
     },
     {
@@ -745,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 605,
       "user": "tonbistudio"
     },
     {
@@ -760,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4410,
+      "stars": 4482,
       "user": "larksuite"
     },
     {
@@ -775,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "bhope"
     },
     {
@@ -1032,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2462,
+      "stars": 2472,
       "user": "magnum6actual"
     },
     {
@@ -1047,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 804,
       "user": "NomaDamas"
     },
     {
@@ -1062,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 275,
       "user": "meodai"
     },
     {
@@ -1077,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "cdppcorp"
     },
     {
@@ -1288,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2681,
+      "stars": 2719,
       "user": "HKUDS"
     },
     {
@@ -1303,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 916,
       "user": "oaker-io"
     },
     {
@@ -1318,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 906,
       "user": "jxnxts"
     },
     {
@@ -1333,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 853,
       "user": "TheTom"
     },
     {
@@ -1348,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 605,
       "user": "tonbistudio"
     }
   ],
@@ -1590,7 +1605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2681,
+      "stars": 2719,
       "user": "HKUDS"
     }
   ],
@@ -1926,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2462,
+      "stars": 2472,
       "user": "magnum6actual"
     },
     {
@@ -1941,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 804,
       "user": "NomaDamas"
     },
     {
@@ -1956,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 275,
       "user": "meodai"
     },
     {
@@ -1971,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "cdppcorp"
     },
     {
@@ -2001,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2681,
+      "stars": 2719,
       "user": "HKUDS"
     },
     {
@@ -2016,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 916,
       "user": "oaker-io"
     },
     {
@@ -2031,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 906,
       "user": "jxnxts"
     },
     {
@@ -2046,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 853,
       "user": "TheTom"
     },
     {
@@ -2061,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 605,
       "user": "tonbistudio"
     },
     {
@@ -2076,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4410,
+      "stars": 4482,
       "user": "larksuite"
     },
     {
@@ -2091,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 356,
       "user": "james-6-23"
     },
     {
@@ -2106,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "bhope"
     },
     {
