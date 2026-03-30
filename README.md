@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-30 7:00 CAT)
+## 📅 Latest Updates (2026-03-30 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
 - [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
 
-_Last automated update: Mon, 30 Mar 2026 07:20:57 CAT_
+_Last automated update: Mon, 30 Mar 2026 09:05:47 CAT_
 
 
 
@@ -227,29 +227,7 @@ _Last automated update: Mon, 30 Mar 2026 07:20:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Multiple inheritance, method implementation, use cases
-
-</details>
-
-### 2. NodeJS: How do you handle errors in async/await?
-
-**Difficulty**: Medium | **Topics**: error handling, async
-
-<details>
-<summary>💡 Hint</summary>
-
-try/catch, .catch(), error middleware
-
-</details>
-
-### 3. React: Explain the difference between state and props
+### 1. React: Explain the difference between state and props
 
 **Difficulty**: Easy | **Topics**: data flow, components
 
@@ -257,6 +235,28 @@ try/catch, .catch(), error middleware
 <summary>💡 Hint</summary>
 
 Ownership, mutability, data flow direction
+
+</details>
+
+### 2. React: What are hooks and why were they introduced?
+
+**Difficulty**: Medium | **Topics**: hooks, functional components
+
+<details>
+<summary>💡 Hint</summary>
+
+State in functional components, reusable logic, cleaner code
+
+</details>
+
+### 3. Python: Implement a context manager using __enter__ and __exit__
+
+**Difficulty**: Hard | **Topics**: context managers, resource management
+
+<details>
+<summary>💡 Hint</summary>
+
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 30 Mar 2026 05:20:57 GMT</b><br/>
+  <b>Last automated update: Mon, 30 Mar 2026 07:05:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
