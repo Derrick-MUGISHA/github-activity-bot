@@ -162,19 +162,19 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/ivorjetski/codepen-tv-secrets-fib">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png" width="200" alt="CodePen TV secrets" />
+    <a href="https://dev.to/wassimchegham/agentic-rag-done-right-4846">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png" width="200" alt="Prompt Stuffing Is Killing Your Agent" />
       <br/>
-      <b>CodePen TV secrets</b>
+      <b>Prompt Stuffing Is Killing Your Agent</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/wassimchegham/agentic-rag-done-right-4846">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png" width="200" alt="Prompt Stuffing Is Killing Your Agent" />
+    <a href="https://dev.to/ivorjetski/codepen-tv-secrets-fib">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png" width="200" alt="CodePen TV secrets" />
       <br/>
-      <b>Prompt Stuffing Is Killing Your Agent</b>
+      <b>CodePen TV secrets</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,12 +198,12 @@ npm run test
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
 - [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-o5i) _[Dev.to]_
-- [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib) _[Dev.to]_
 - [Prompt Stuffing Is Killing Your Agent](https://dev.to/wassimchegham/agentic-rag-done-right-4846) _[Dev.to]_
+- [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib) _[Dev.to]_
 - [How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d) _[Dev.to]_
-- [Midnight network is live](https://dev.to/devsofmidnight/midnight-network-is-live-1apj) _[Dev.to]_
 - [I'm rebuilding a 90s LAN game in Rust to finally learn it](https://dev.to/tomerl1/im-rebuilding-a-90s-lan-game-in-rust-to-finally-learn-it-5eo8) _[Dev.to]_
 - [The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern](https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4) _[Dev.to]_
+- [Midnight network is live](https://dev.to/devsofmidnight/midnight-network-is-live-1apj) _[Dev.to]_
 - [I Eliminated Layout Jitter From LLM Streaming — Here's How](https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef) _[Dev.to]_
 - [What is ‘Harness Design’ and why does it matter](https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent](https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [String Polyfills & Common Interview Methods in JavaScript](https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g) _[Dev.to]_
 
-_Last automated update: Tue, 31 Mar 2026 01:20:09 CAT_
+_Last automated update: Tue, 31 Mar 2026 01:57:45 CAT_
 
 
 
@@ -224,29 +224,18 @@ _Last automated update: Tue, 31 Mar 2026 01:20:09 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-### 2. JavaScript: Explain event delegation and why it's useful
-
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 2. Database: What is database normalization and denormalization?
 
 **Difficulty**: Medium | **Topics**: design, optimization
 
@@ -254,6 +243,17 @@ Event bubbling, single listener for multiple elements
 <summary>💡 Hint</summary>
 
 Normal forms, redundancy, performance trade-offs
+
+</details>
+
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+
+**Difficulty**: Easy | **Topics**: variables, scope
+
+<details>
+<summary>💡 Hint</summary>
+
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 30 Mar 2026 23:20:09 GMT</b><br/>
+  <b>Last automated update: Mon, 30 Mar 2026 23:57:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

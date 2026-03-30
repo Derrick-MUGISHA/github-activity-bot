@@ -16,6 +16,20 @@
       "user": "Wassim Chegham"
     },
     {
+      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
+      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
+      "published_at": "2026-03-30T14:52:45Z",
+      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
+      "tags": [
+        "ai",
+        "careerdevelopment",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
+      "source": "Dev.to",
+      "user": "martin rojas"
+    },
+    {
       "title": "Midnight network is live",
       "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
       "published_at": "2026-03-30T14:28:04Z",
@@ -29,20 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
       "source": "Dev.to",
       "user": "Lauren Lee"
-    },
-    {
-      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
-      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
-      "published_at": "2026-03-30T14:52:45Z",
-      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
-      "tags": [
-        "ai",
-        "careerdevelopment",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
-      "source": "Dev.to",
-      "user": "martin rojas"
     },
     {
       "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 826,
       "user": "openai"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 931,
       "user": "oaker-io"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4612,
+      "stars": 4616,
       "user": "larksuite"
     },
     {
@@ -1018,8 +1018,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2509,
+      "stars": 2510,
       "user": "magnum6actual"
+    },
+    {
+      "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "published_at": "2026-03-30T15:29:52Z",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "source": "GitHub",
+      "stars": 826,
+      "user": "openai"
     },
     {
       "title": "NomaDamas/k-skill - 한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
@@ -1035,21 +1050,6 @@
       "source": "GitHub",
       "stars": 812,
       "user": "NomaDamas"
-    },
-    {
-      "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "published_at": "2026-03-30T15:29:52Z",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 705,
-      "user": "openai"
     },
     {
       "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
@@ -1289,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2856,
+      "stars": 2860,
       "user": "HKUDS"
     },
     {
@@ -1304,23 +1304,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1711,
       "user": "TheTom"
-    },
-    {
-      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "url": "https://github.com/oaker-io/wewrite",
-      "published_at": "2026-03-26T14:18:54Z",
-      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
-      "source": "GitHub",
-      "stars": 930,
-      "user": "oaker-io"
     },
     {
       "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
@@ -1334,8 +1319,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 932,
       "user": "jxnxts"
+    },
+    {
+      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "url": "https://github.com/oaker-io/wewrite",
+      "published_at": "2026-03-26T14:18:54Z",
+      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
+      "source": "GitHub",
+      "stars": 931,
+      "user": "oaker-io"
     },
     {
       "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
@@ -1349,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 788,
       "user": "garinasset"
     }
   ],
@@ -1576,7 +1576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2856,
+      "stars": 2860,
       "user": "HKUDS"
     }
   ],
@@ -1839,8 +1839,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2509,
+      "stars": 2510,
       "user": "magnum6actual"
+    },
+    {
+      "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "published_at": "2026-03-30T15:29:52Z",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "source": "GitHub",
+      "stars": 826,
+      "user": "openai"
     },
     {
       "title": "NomaDamas/k-skill - 한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
@@ -1856,21 +1871,6 @@
       "source": "GitHub",
       "stars": 812,
       "user": "NomaDamas"
-    },
-    {
-      "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "published_at": "2026-03-30T15:29:52Z",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 705,
-      "user": "openai"
     },
     {
       "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2856,
+      "stars": 2860,
       "user": "HKUDS"
     },
     {
@@ -1929,23 +1929,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1711,
       "user": "TheTom"
-    },
-    {
-      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "url": "https://github.com/oaker-io/wewrite",
-      "published_at": "2026-03-26T14:18:54Z",
-      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
-      "source": "GitHub",
-      "stars": 930,
-      "user": "oaker-io"
     },
     {
       "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
@@ -1959,8 +1944,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 932,
       "user": "jxnxts"
+    },
+    {
+      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "url": "https://github.com/oaker-io/wewrite",
+      "published_at": "2026-03-26T14:18:54Z",
+      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
+      "source": "GitHub",
+      "stars": 931,
+      "user": "oaker-io"
     },
     {
       "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 788,
       "user": "garinasset"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4612,
+      "stars": 4616,
       "user": "larksuite"
     },
     {
