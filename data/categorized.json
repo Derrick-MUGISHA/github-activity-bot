@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
-      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
-      "published_at": "2026-03-30T06:21:06Z",
-      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "Prompt Stuffing Is Killing Your Agent",
       "url": "https://dev.to/wassimchegham/agentic-rag-done-right-4846",
       "published_at": "2026-03-30T15:49:49Z",
@@ -29,21 +14,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png",
       "source": "Dev.to",
       "user": "Wassim Chegham"
-    },
-    {
-      "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
-      "published_at": "2026-03-30T08:48:00Z",
-      "description": "We've all been there, where you have 60 seconds before your next meeting starts. You're searching...",
-      "tags": [
-        "googleworkspace",
-        "workspacestudio",
-        "gemini",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
     },
     {
       "title": "Midnight network is live",
@@ -103,6 +73,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
       "source": "Dev.to",
       "user": "baltz"
+    },
+    {
+      "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
+      "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
+      "published_at": "2026-03-30T08:48:00Z",
+      "description": "We've all been there, where you have 60 seconds before your next meeting starts. You're searching...",
+      "tags": [
+        "googleworkspace",
+        "workspacestudio",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
+      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
+      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
+      "published_at": "2026-03-30T06:21:06Z",
+      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
     },
     {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
@@ -192,21 +192,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
-    },
-    {
-      "title": "Speed vs smarts for coding agents?",
-      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
-      "published_at": "2026-03-26T15:58:22Z",
-      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
@@ -730,23 +715,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 299,
       "user": "meodai"
     },
     {
-      "title": "mumuyanjian-ui/caregiver - AI智能陪护",
-      "url": "https://github.com/mumuyanjian-ui/caregiver",
-      "published_at": "2026-03-27T15:06:25Z",
-      "description": "AI智能陪护",
+      "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "published_at": "2026-03-30T15:29:52Z",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 103,
-      "user": "mumuyanjian-ui"
+      "stars": 213,
+      "user": "openai"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -775,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4596,
+      "stars": 4598,
       "user": "larksuite"
     },
     {
@@ -1062,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2492,
+      "stars": 2499,
       "user": "magnum6actual"
     },
     {
@@ -1077,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 811,
       "user": "NomaDamas"
     },
     {
@@ -1092,8 +1077,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 299,
       "user": "meodai"
+    },
+    {
+      "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "published_at": "2026-03-30T15:29:52Z",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "source": "GitHub",
+      "stars": 213,
+      "user": "openai"
     },
     {
       "title": "cdppcorp/KESE-KIT - KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
@@ -1109,21 +1109,6 @@
       "source": "GitHub",
       "stars": 197,
       "user": "cdppcorp"
-    },
-    {
-      "title": "mumuyanjian-ui/caregiver - AI智能陪护",
-      "url": "https://github.com/mumuyanjian-ui/caregiver",
-      "published_at": "2026-03-27T15:06:25Z",
-      "description": "AI智能陪护",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "mumuyanjian-ui"
     }
   ],
   "Python": [
@@ -1333,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2801,
+      "stars": 2812,
       "user": "HKUDS"
     },
     {
@@ -1348,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1394,
       "user": "TheTom"
     },
     {
@@ -1378,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 923,
       "user": "jxnxts"
     },
     {
@@ -1393,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 704,
       "user": "garinasset"
     }
   ],
@@ -1635,7 +1620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2801,
+      "stars": 2812,
       "user": "HKUDS"
     }
   ],
@@ -1788,19 +1773,14 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "Speed vs smarts for coding agents?",
-      "url": "https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h",
-      "published_at": "2026-03-26T15:58:22Z",
-      "description": "I'm curious if you specifically have a sense of where you draw the line in terms of your interest in...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5v9k75ja7leded0xzzxu.png",
+      "title": "Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API Call",
+      "url": "https://dev.to/gde/gemini-tool-combo-building-a-line-meetup-helper-with-maps-grounding-and-places-api-in-a-single-api-3ppd",
+      "published_at": "2026-03-29T02:07:59Z",
+      "description": "Reference articles:     Gemini API tooling updates: context circulation, tool combos and Maps...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppvck2ze2f1q3hc4o4ry.png",
       "source": "Dev.to",
-      "user": "Ben Halpern"
+      "user": "Evan Lin"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -1888,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2492,
+      "stars": 2499,
       "user": "magnum6actual"
     },
     {
@@ -1903,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 811,
       "user": "NomaDamas"
     },
     {
@@ -1918,8 +1898,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 299,
       "user": "meodai"
+    },
+    {
+      "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "published_at": "2026-03-30T15:29:52Z",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "source": "GitHub",
+      "stars": 213,
+      "user": "openai"
     },
     {
       "title": "cdppcorp/KESE-KIT - KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
@@ -1937,21 +1932,6 @@
       "user": "cdppcorp"
     },
     {
-      "title": "mumuyanjian-ui/caregiver - AI智能陪护",
-      "url": "https://github.com/mumuyanjian-ui/caregiver",
-      "published_at": "2026-03-27T15:06:25Z",
-      "description": "AI智能陪护",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "mumuyanjian-ui"
-    },
-    {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "url": "https://github.com/HKUDS/OpenSpace",
       "published_at": "2026-03-24T08:01:49Z",
@@ -1963,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2801,
+      "stars": 2812,
       "user": "HKUDS"
     },
     {
@@ -1978,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1394,
       "user": "TheTom"
     },
     {
@@ -2008,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 923,
       "user": "jxnxts"
     },
     {
@@ -2023,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 704,
       "user": "garinasset"
     },
     {
@@ -2038,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4596,
+      "stars": 4598,
       "user": "larksuite"
     },
     {
@@ -2053,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 366,
       "user": "james-6-23"
     },
     {
@@ -2072,6 +2052,21 @@
       "user": "bhope"
     },
     {
+      "title": "vkhanhqui/figma-mcp-go - Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
+      "url": "https://github.com/vkhanhqui/figma-mcp-go",
+      "published_at": "2026-03-26T11:06:26Z",
+      "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
+      "source": "GitHub",
+      "stars": 133,
+      "user": "vkhanhqui"
+    },
+    {
       "title": "lich0821/wcfLink - GitHub Repository",
       "url": "https://github.com/lich0821/wcfLink",
       "published_at": "2026-03-24T12:37:36Z",
@@ -2085,21 +2080,6 @@
       "source": "GitHub",
       "stars": 130,
       "user": "lich0821"
-    },
-    {
-      "title": "vkhanhqui/figma-mcp-go - Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
-      "url": "https://github.com/vkhanhqui/figma-mcp-go",
-      "published_at": "2026-03-26T11:06:26Z",
-      "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
-      "source": "GitHub",
-      "stars": 129,
-      "user": "vkhanhqui"
     }
   ]
 }

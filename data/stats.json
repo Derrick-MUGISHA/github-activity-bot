@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 56,
+    "AI": 55,
     "JavaScript": 24,
     "Python": 20,
     "DevOps": 2,
@@ -18,9 +18,9 @@
     "Tools": 25
   },
   "by_language": {
-    "Go": 18,
     "JavaScript": 24,
     "Rust": 2,
+    "Go": 18,
     "Ruby": 1,
     "Python": 20,
     "Java": 22,
@@ -28,11 +28,11 @@
     "CSharp": 2
   },
   "by_date": {
-    "2026-03-30": 10,
-    "2026-03-29": 12,
+    "2026-03-30": 11,
+    "2026-03-29": 13,
     "2026-03-28": 8,
-    "2026-03-27": 8,
-    "2026-03-26": 12,
+    "2026-03-27": 7,
+    "2026-03-26": 11,
     "2026-03-23": 4,
     "2026-03-22": 1,
     "2026-03-17": 3,
@@ -71,32 +71,32 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 28,
+    "ai": 27,
     "github": 15,
     "open-source": 15,
     "javascript": 11,
-    "agents": 10,
     "python": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "agents": 9,
     "webdev": 9,
     "programming": 8,
     "gemini": 7,
     "tutorial": 6,
     "career": 6,
-    "discuss": 5,
     "beginners": 5,
     "opensource": 5,
     "go": 5,
+    "discuss": 4,
     "llm": 4,
-    "productivity": 4
+    "productivity": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "20.0",
     "JavaScript": "26.7",
     "Rust": "2.2",
+    "Go": "20.0",
     "Ruby": "1.1",
     "Python": "22.2",
     "Java": "24.4",
