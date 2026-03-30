@@ -216,7 +216,7 @@ npm run test
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [String Polyfills & Common Interview Methods in JavaScript](https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g) _[Dev.to]_
 
-_Last automated update: Mon, 30 Mar 2026 23:08:03 CAT_
+_Last automated update: Mon, 30 Mar 2026 23:56:56 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 30 Mar 2026 23:08:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Mutability, performance, use cases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 30 Mar 2026 21:08:03 GMT</b><br/>
+  <b>Last automated update: Mon, 30 Mar 2026 21:56:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
