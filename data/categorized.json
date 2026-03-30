@@ -276,21 +276,6 @@
       "user": "Evidence Etinih Ekanem"
     },
     {
-      "title": "Self-improving Coding Agents",
-      "url": "https://dev.to/raphaelpor/self-improving-coding-agents-435l",
-      "published_at": "2026-03-27T23:51:31Z",
-      "description": "In this article, I demonstrate how a more capable coding agent (Codex/GPT-5.4) successfully refined...",
-      "tags": [
-        "agents",
-        "harness",
-        "ai",
-        "evals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2n6fwc3z8rtoi721lf7a.png",
-      "source": "Dev.to",
-      "user": "Raphael Porto"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
       "published_at": "2026-03-28T17:14:30Z",
@@ -306,21 +291,6 @@
       "user": "xbill"
     },
     {
-      "title": "1st time at a big tech conference - GTC 2026",
-      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
-      "published_at": "2026-03-25T16:38:29Z",
-      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
-      "tags": [
-        "ai",
-        "techtalks",
-        "career",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
-      "source": "Dev.to",
-      "user": "Matt Cool"
-    },
-    {
       "title": "your agent can think. it can't remember.",
       "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
       "published_at": "2026-03-25T15:01:56Z",
@@ -334,6 +304,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
       "source": "Dev.to",
       "user": "ghost"
+    },
+    {
+      "title": "1st time at a big tech conference - GTC 2026",
+      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
+      "published_at": "2026-03-25T16:38:29Z",
+      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
+      "tags": [
+        "ai",
+        "techtalks",
+        "career",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
+      "source": "Dev.to",
+      "user": "Matt Cool"
     },
     {
       "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
@@ -379,21 +364,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "AI Didn't Break Your Culture. It Exposed It.",
-      "url": "https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729",
-      "published_at": "2026-03-25T19:07:20Z",
-      "description": "An engineer pushes back on a decision. The response: \"ChatGPT recommended something else.\" The tell...",
-      "tags": [
-        "ai",
-        "webdev",
-        "leadership",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Fposts%2Fblindy-trust.png",
-      "source": "Dev.to",
-      "user": "Jono Herrington"
     },
     {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
@@ -557,6 +527,36 @@
       "user": "Max"
     },
     {
+      "title": "The Future of Coding is Communication, Not Just Code",
+      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
+      "published_at": "2026-03-26T14:31:00Z",
+      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
+      "tags": [
+        "ai",
+        "mcp",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
+      "url": "https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0",
+      "published_at": "2026-03-27T04:13:12Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flraeh7ucm3whw8hczyzt.png",
+      "source": "Dev.to",
+      "user": "Souvik Biswas"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "meodai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 102,
       "user": "mumuyanjian-ui"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 911,
       "user": "oaker-io"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 600,
       "user": "tonbistudio"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4306,
+      "stars": 4358,
       "user": "larksuite"
     },
     {
@@ -1032,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2457,
+      "stars": 2459,
       "user": "magnum6actual"
     },
     {
@@ -1047,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 797,
       "user": "NomaDamas"
     },
     {
@@ -1062,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "meodai"
     },
     {
@@ -1077,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 102,
       "user": "mumuyanjian-ui"
     },
     {
@@ -1288,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2630,
+      "stars": 2658,
       "user": "HKUDS"
     },
     {
@@ -1303,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 911,
       "user": "oaker-io"
     },
     {
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 886,
       "user": "jxnxts"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 620,
       "user": "TheTom"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 600,
       "user": "tonbistudio"
     }
   ],
@@ -1590,7 +1590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2630,
+      "stars": 2658,
       "user": "HKUDS"
     }
   ],
@@ -1611,20 +1611,6 @@
       "user": "Pascal Thormeier"
     },
     {
-      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
-      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
-      "published_at": "2026-03-28T02:34:47Z",
-      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
-      "tags": [
-        "sql",
-        "postgressql",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
-      "source": "Dev.to",
-      "user": "Labeeb Ahmad"
-    },
-    {
       "title": "your agent can think. it can't remember.",
       "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
       "published_at": "2026-03-25T15:01:56Z",
@@ -1638,6 +1624,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
       "source": "Dev.to",
       "user": "ghost"
+    },
+    {
+      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
+      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
+      "published_at": "2026-03-28T02:34:47Z",
+      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
+      "tags": [
+        "sql",
+        "postgressql",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
+      "source": "Dev.to",
+      "user": "Labeeb Ahmad"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1712,6 +1712,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
       "source": "Dev.to",
       "user": "Nick Ciolpan"
+    },
+    {
+      "title": "The Future of Coding is Communication, Not Just Code",
+      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
+      "published_at": "2026-03-26T14:31:00Z",
+      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
+      "tags": [
+        "ai",
+        "mcp",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1911,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2457,
+      "stars": 2459,
       "user": "magnum6actual"
     },
     {
@@ -1926,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 797,
       "user": "NomaDamas"
     },
     {
@@ -1941,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "meodai"
     },
     {
@@ -1956,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 102,
       "user": "mumuyanjian-ui"
     },
     {
@@ -1986,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2630,
+      "stars": 2658,
       "user": "HKUDS"
     },
     {
@@ -2001,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 911,
       "user": "oaker-io"
     },
     {
@@ -2016,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 886,
       "user": "jxnxts"
     },
     {
@@ -2031,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 620,
       "user": "TheTom"
     },
     {
@@ -2046,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 600,
       "user": "tonbistudio"
     },
     {
@@ -2061,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4306,
+      "stars": 4358,
       "user": "larksuite"
     },
     {
@@ -2076,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 350,
       "user": "james-6-23"
     },
     {
