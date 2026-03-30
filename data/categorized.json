@@ -43,36 +43,6 @@
       "user": "Ava Barron"
     },
     {
-      "title": "Why Daily Standups Are Becoming Useless in the AI Era",
-      "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
-      "published_at": "2026-03-28T22:00:14Z",
-      "description": "Daily standups used to be a coordination tool. Today, with better async workflows and AI-assisted status sharing, they often waste engineering time at scale.",
-      "tags": [
-        "agile",
-        "standup",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdlermncultjao4oomuh.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Oler"
-    },
-    {
-      "title": "How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)",
-      "url": "https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7",
-      "published_at": "2026-03-28T17:27:11Z",
-      "description": "I used to keep API keys in .env because it was fast. Then I caught myself grepping my home folder for...",
-      "tags": [
-        "macos",
-        "security",
-        "keychain",
-        "bash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png",
-      "source": "Dev.to",
-      "user": "Ayomide Adebisi"
-    },
-    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -221,21 +191,6 @@
       "user": "xbill"
     },
     {
-      "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
-      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
-      "published_at": "2026-03-27T21:33:31Z",
-      "description": "We're back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...",
-      "tags": [
-        "weekendchallenge",
-        "devchallenge",
-        "hackathon",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
       "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
       "published_at": "2026-03-28T12:17:54Z",
@@ -279,6 +234,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
       "source": "Dev.to",
       "user": "Ivan SZKIBA"
+    },
+    {
+      "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
+      "url": "https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk",
+      "published_at": "2026-03-28T01:59:54Z",
+      "description": "Welcome to your first job, freshers. You've probably already used ChatGPT or Copilot to get through...",
+      "tags": [
+        "beginners",
+        "career",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs13ke9vghvr3ycti3eg.png",
+      "source": "Dev.to",
+      "user": "Rick Cogley"
+    },
+    {
+      "title": "Why Daily Standups Are Becoming Useless in the AI Era",
+      "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
+      "published_at": "2026-03-28T22:00:14Z",
+      "description": "Daily standups used to be a coordination tool. Today, with better async workflows and AI-assisted status sharing, they often waste engineering time at scale.",
+      "tags": [
+        "agile",
+        "standup",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdlermncultjao4oomuh.png",
+      "source": "Dev.to",
+      "user": "Rodrigo Oler"
+    },
+    {
+      "title": "How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)",
+      "url": "https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7",
+      "published_at": "2026-03-28T17:27:11Z",
+      "description": "I used to keep API keys in .env because it was fast. Then I caught myself grepping my home folder for...",
+      "tags": [
+        "macos",
+        "security",
+        "keychain",
+        "bash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png",
+      "source": "Dev.to",
+      "user": "Ayomide Adebisi"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -700,8 +700,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 229,
       "user": "meodai"
+    },
+    {
+      "title": "mumuyanjian-ui/caregiver - AI智能陪护",
+      "url": "https://github.com/mumuyanjian-ui/caregiver",
+      "published_at": "2026-03-27T15:06:25Z",
+      "description": "AI智能陪护",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
+      "source": "GitHub",
+      "stars": 89,
+      "user": "mumuyanjian-ui"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -715,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 857,
       "user": "oaker-io"
     },
     {
@@ -730,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 577,
       "user": "tonbistudio"
     },
     {
@@ -745,23 +760,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2910,
+      "stars": 3344,
       "user": "larksuite"
-    },
-    {
-      "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
-      "url": "https://github.com/tanviet12/chat-quality-agent",
-      "published_at": "2026-03-23T16:04:28Z",
-      "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
-      "source": "GitHub",
-      "stars": 256,
-      "user": "tanviet12"
     },
     {
       "title": "bhope/hedge - Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
@@ -775,8 +775,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "bhope"
+    },
+    {
+      "title": "veyliss/ai-localbase - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+      "url": "https://github.com/veyliss/ai-localbase",
+      "published_at": "2026-03-25T03:42:43Z",
+      "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "veyliss"
     }
   ],
   "JavaScript": [
@@ -1017,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2406,
+      "stars": 2432,
       "user": "magnum6actual"
     },
     {
@@ -1032,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 762,
       "user": "NomaDamas"
     },
     {
@@ -1047,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 229,
       "user": "meodai"
     },
     {
@@ -1066,19 +1081,19 @@
       "user": "mrdoob"
     },
     {
-      "title": "SeifBenayed/claude-code-sdk - Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use directly. ",
-      "url": "https://github.com/SeifBenayed/claude-code-sdk",
-      "published_at": "2026-03-23T22:33:26Z",
-      "description": "Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use directly. ",
+      "title": "mumuyanjian-ui/caregiver - AI智能陪护",
+      "url": "https://github.com/mumuyanjian-ui/caregiver",
+      "published_at": "2026-03-27T15:06:25Z",
+      "description": "AI智能陪护",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
       "source": "GitHub",
-      "stars": 88,
-      "user": "SeifBenayed"
+      "stars": 89,
+      "user": "mumuyanjian-ui"
     }
   ],
   "Python": [
@@ -1277,21 +1292,6 @@
       "user": "gilad"
     },
     {
-      "title": "SeifBenayed/claude-code-sdk - Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use directly. ",
-      "url": "https://github.com/SeifBenayed/claude-code-sdk",
-      "published_at": "2026-03-23T22:33:26Z",
-      "description": "Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use directly. ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
-      "source": "GitHub",
-      "stars": 88,
-      "user": "SeifBenayed"
-    },
-    {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
       "url": "https://github.com/HKUDS/OpenSpace",
       "published_at": "2026-03-24T08:01:49Z",
@@ -1303,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2444,
+      "stars": 2496,
       "user": "HKUDS"
     },
     {
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 877,
       "user": "jxnxts"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 857,
       "user": "oaker-io"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 591,
       "user": "TheTom"
     },
     {
@@ -1363,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 577,
       "user": "tonbistudio"
     }
   ],
@@ -1651,7 +1651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2444,
+      "stars": 2496,
       "user": "HKUDS"
     }
   ],
@@ -1800,21 +1800,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Why Daily Standups Are Becoming Useless in the AI Era",
-      "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
-      "published_at": "2026-03-28T22:00:14Z",
-      "description": "Daily standups used to be a coordination tool. Today, with better async workflows and AI-assisted status sharing, they often waste engineering time at scale.",
-      "tags": [
-        "agile",
-        "standup",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdlermncultjao4oomuh.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Oler"
-    },
-    {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
       "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
       "published_at": "2026-03-27T19:07:08Z",
@@ -1890,6 +1875,21 @@
       "user": "Ivan SZKIBA"
     },
     {
+      "title": "Why Daily Standups Are Becoming Useless in the AI Era",
+      "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
+      "published_at": "2026-03-28T22:00:14Z",
+      "description": "Daily standups used to be a coordination tool. Today, with better async workflows and AI-assisted status sharing, they often waste engineering time at scale.",
+      "tags": [
+        "agile",
+        "standup",
+        "ai",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdlermncultjao4oomuh.png",
+      "source": "Dev.to",
+      "user": "Rodrigo Oler"
+    },
+    {
       "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
       "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
       "published_at": "2026-03-26T07:06:06Z",
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2406,
+      "stars": 2432,
       "user": "magnum6actual"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 762,
       "user": "NomaDamas"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 229,
       "user": "meodai"
     },
     {
@@ -2008,19 +2008,19 @@
       "user": "mrdoob"
     },
     {
-      "title": "SeifBenayed/claude-code-sdk - Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use directly. ",
-      "url": "https://github.com/SeifBenayed/claude-code-sdk",
-      "published_at": "2026-03-23T22:33:26Z",
-      "description": "Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that use directly. ",
+      "title": "mumuyanjian-ui/caregiver - AI智能陪护",
+      "url": "https://github.com/mumuyanjian-ui/caregiver",
+      "published_at": "2026-03-27T15:06:25Z",
+      "description": "AI智能陪护",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11527213?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
       "source": "GitHub",
-      "stars": 88,
-      "user": "SeifBenayed"
+      "stars": 89,
+      "user": "mumuyanjian-ui"
     },
     {
       "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2444,
+      "stars": 2496,
       "user": "HKUDS"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 877,
       "user": "jxnxts"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 857,
       "user": "oaker-io"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 591,
       "user": "TheTom"
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 577,
       "user": "tonbistudio"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 2910,
+      "stars": 3344,
       "user": "larksuite"
     },
     {
@@ -2124,23 +2124,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 317,
       "user": "james-6-23"
-    },
-    {
-      "title": "tanviet12/chat-quality-agent - Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
-      "url": "https://github.com/tanviet12/chat-quality-agent",
-      "published_at": "2026-03-23T16:04:28Z",
-      "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2985601?v=4",
-      "source": "GitHub",
-      "stars": 256,
-      "user": "tanviet12"
     },
     {
       "title": "bhope/hedge - Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
@@ -2154,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "bhope"
     },
     {
@@ -2171,6 +2156,21 @@
       "source": "GitHub",
       "stars": 129,
       "user": "lich0821"
+    },
+    {
+      "title": "veyliss/ai-localbase - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+      "url": "https://github.com/veyliss/ai-localbase",
+      "published_at": "2026-03-25T03:42:43Z",
+      "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "veyliss"
     }
   ]
 }

@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-29-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-30-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
 **Cloud**: 🟦🟦🟦🟦 10 (9.5%)
 
@@ -60,15 +60,15 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 22.9 (22.9%)
-Java            ██████████████████████████████ 22.9 (22.9%)
-Go              ██████████████████████████████ 22.9 (22.9%)
-Python          █████████████████████████████ 21.9 (21.9%)
-Rust            ████ 3.1 (3.1%)
-CSharp          ███ 2.1 (2.1%)
-Swift           ███ 2.1 (2.1%)
-Ruby            █ 1.0 (1.0%)
-PHP             █ 1.0 (1.0%)
+JavaScript      ██████████████████████████████ 23.7 (23.7%)
+Java            ██████████████████████████████ 23.7 (23.7%)
+Go              █████████████████████████████ 22.6 (22.6%)
+Python          ███████████████████████████ 21.5 (21.5%)
+Rust            ███ 2.2 (2.2%)
+CSharp          ███ 2.2 (2.2%)
+Swift           ███ 2.2 (2.2%)
+Ruby            █ 1.1 (1.1%)
+PHP             █ 1.1 (1.1%)
 
 ```
 
@@ -76,9 +76,9 @@ PHP             █ 1.0 (1.0%)
 pie title Programming Languages Distribution
     "JavaScript" : 22
     "Java" : 22
-    "Go" : 22
-    "Python" : 21
-    "Rust" : 3
+    "Go" : 21
+    "Python" : 20
+    "Rust" : 2
     "CSharp" : 2
     "Swift" : 2
     "Ruby" : 1
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![career](https://img.shields.io/badge/career-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![career](https://img.shields.io/badge/career-6-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-30 1:00 CAT)
+## 📅 Latest Updates (2026-03-30 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -145,19 +145,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemini-tool-combo-building-a-line-meetup-helper-with-maps-grounding-and-places-api-in-a-single-api-3ppd">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppvck2ze2f1q3hc4o4ry.png" width="200" alt="Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API Call" />
+    <a href="https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fal3uz3ais1bhoa46em0p.png" width="200" alt="Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You" />
       <br/>
-      <b>Gemini Tool Combo: Building a LINE Meetup Helper w...</b>
+      <b>Gemini 3.1: Real-World Voice Recognition with Flas...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fal3uz3ais1bhoa46em0p.png" width="200" alt="Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You" />
+    <a href="https://dev.to/gde/gemini-tool-combo-building-a-line-meetup-helper-with-maps-grounding-and-places-api-in-a-single-api-3ppd">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppvck2ze2f1q3hc4o4ry.png" width="200" alt="Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API Call" />
       <br/>
-      <b>Gemini 3.1: Real-World Voice Recognition with Flas...</b>
+      <b>Gemini Tool Combo: Building a LINE Meetup Helper w...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,8 +199,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c) _[Dev.to]_
-- [Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API Call](https://dev.to/gde/gemini-tool-combo-building-a-line-meetup-helper-with-maps-grounding-and-places-api-in-a-single-api-3ppd) _[Dev.to]_
 - [Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You](https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o) _[Dev.to]_
+- [Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API Call](https://dev.to/gde/gemini-tool-combo-building-a-line-meetup-helper-with-maps-grounding-and-places-api-in-a-single-api-3ppd) _[Dev.to]_
 - [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
 - [Async without async](https://dev.to/szymongib/async-without-async-eik) _[Dev.to]_
 - [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb) _[Dev.to]_
@@ -208,8 +208,6 @@ npm run test
 - [Understanding Object-Oriented Programming in JavaScript](https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [Building a Error Library](https://dev.to/fafhrd91/building-a-error-library-3kda) _[Dev.to]_
-- [Why Daily Standups Are Becoming Useless in the AI Era](https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao) _[Dev.to]_
-- [How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)](https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7) _[Dev.to]_
 - [Stop Writing Custom Importers: Import Multilingual Data in Drupal with Migrate API](https://dev.to/baikho/stop-writing-custom-importers-import-multilingual-data-in-drupal-with-migrate-api-m35) _[Dev.to]_
 - [Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.](https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31) _[Dev.to]_
 - [Modular Monolith Architecture in .NET: The Pragmatic Middle Ground](https://dev.to/aldacosta/modular-monolith-architecture-in-net-the-pragmatic-middle-ground-2fm5) _[Dev.to]_
@@ -218,8 +216,10 @@ npm run test
 - [Cross Cloud ADK with Python, and the Azure App Service](https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47) _[Dev.to]_
 - [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
 - [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m) _[Dev.to]_
+- [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
+- [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
 
-_Last automated update: Mon, 30 Mar 2026 01:58:03 CAT_
+_Last automated update: Mon, 30 Mar 2026 04:51:00 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Mon, 30 Mar 2026 01:58:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Mutability, performance, use cases
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 29 Mar 2026 23:58:03 GMT</b><br/>
+  <b>Last automated update: Mon, 30 Mar 2026 02:51:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
