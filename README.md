@@ -30,7 +30,7 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
@@ -38,11 +38,11 @@
 
 **Cloud**: 🟦🟦🟦 9 (8.6%)
 
-**Security**: 🟦🟦 5 (4.8%)
-
 **WebDev**: 🟦 4 (3.8%)
 
 **Database**: 🟦 4 (3.8%)
+
+**Security**: 🟦 4 (3.8%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.5 (25.5%)
-Go              ████████████████████████████ 23.4 (23.4%)
-Java            ████████████████████████████ 23.4 (23.4%)
-Python          █████████████████████████ 21.3 (21.3%)
-CSharp          ██ 2.1 (2.1%)
+JavaScript      ██████████████████████████████ 25.8 (25.8%)
+Java            ████████████████████████████ 23.7 (23.7%)
+Go              ██████████████████████████ 22.6 (22.6%)
+Python          █████████████████████████ 21.5 (21.5%)
+CSharp          ███ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 Rust            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
@@ -75,8 +75,8 @@ Swift           █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 24
-    "Go" : 22
     "Java" : 22
+    "Go" : 21
     "Python" : 20
     "CSharp" : 2
     "Ruby" : 1
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-10-blue) ![python](https://img.shields.io/badge/python-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-30 17:00 CAT)
+## 📅 Latest Updates (2026-03-30 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,6 +144,26 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/wassimchegham/agentic-rag-done-right-4846">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png" width="200" alt="Prompt Stuffing Is Killing Your Agent" />
+      <br/>
+      <b>Prompt Stuffing Is Killing Your Agent</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png" width="200" alt="Long-Horizon Agents Are Here. Full Autopilot Isn't" />
+      <br/>
+      <b>Long-Horizon Agents Are Here. Full Autopilot Isn't</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png" width="200" alt="Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent" />
@@ -162,31 +182,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png" width="200" alt="Why Rails Still Feels Like a Startup’s Best Friend in the AI Era" />
       <br/>
       <b>Why Rails Still Feels Like a Startup’s Best Friend...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png" width="200" alt="Building for Production: A Guide to Deploying a 3-Tier App on Azure" />
-      <br/>
-      <b>Building for Production: A Guide to Deploying a 3-...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/run-any-huggingface-model-on-tpus-a-beginners-guide-to-torchax-4ln0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fahmed-elnaggar%2Ftorchax-huggingface%2Fmain%2Fassets%2Fcover-image.png" width="200" alt="Run Any HuggingFace Model on TPUs: A Beginner's Guide to TorchAX" />
-      <br/>
-      <b>Run Any HuggingFace Model on TPUs: A Beginner's Gu...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,6 +199,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [Meme Monday](https://dev.to/ben/meme-monday-o5i) _[Dev.to]_
+- [Prompt Stuffing Is Killing Your Agent](https://dev.to/wassimchegham/agentic-rag-done-right-4846) _[Dev.to]_
+- [Long-Horizon Agents Are Here. Full Autopilot Isn't](https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent](https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij) _[Dev.to]_
 - [Midnight network is live](https://dev.to/devsofmidnight/midnight-network-is-live-1apj) _[Dev.to]_
 - [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
@@ -216,10 +218,8 @@ npm run test
 - [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
 - [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
 - [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
-- [Gemma-SRE: Self-Hosted vLLM Infrastructure Agent](https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam) _[Dev.to]_
-- [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
 
-_Last automated update: Mon, 30 Mar 2026 17:39:21 CAT_
+_Last automated update: Mon, 30 Mar 2026 18:39:14 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Mon, 30 Mar 2026 17:39:21 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Heap, stack, garbage collection
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 30 Mar 2026 15:39:21 GMT</b><br/>
+  <b>Last automated update: Mon, 30 Mar 2026 16:39:14 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
