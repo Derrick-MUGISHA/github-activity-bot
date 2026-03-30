@@ -558,20 +558,6 @@
       "user": "Dennis Lemm"
     },
     {
-      "title": "The software industry is ready to grow",
-      "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
-      "published_at": "2026-03-25T18:33:04Z",
-      "description": "I don't spend a lot of time on the X these days, but I think this perspective is worth...",
-      "tags": [
-        "ai",
-        "career",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -704,21 +690,6 @@
       "user": "veesahni"
     },
     {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
-      "source": "GitHub",
-      "stars": 299,
-      "user": "meodai"
-    },
-    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -730,8 +701,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 312,
       "user": "openai"
+    },
+    {
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
+      "source": "GitHub",
+      "stars": 302,
+      "user": "meodai"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -841,21 +827,6 @@
       "user": "Ritam Saha"
     },
     {
-      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
-      "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
-      "published_at": "2026-03-28T19:39:32Z",
-      "description": "So, one of my favourite games lately, Timberborn, has released its 1.0 version and finally left early...",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "donttrythisathome"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
-      "source": "Dev.to",
-      "user": "Pascal Thormeier"
-    },
-    {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
       "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
       "published_at": "2026-03-23T05:48:13Z",
@@ -884,6 +855,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
       "source": "Dev.to",
       "user": "Evidence Etinih Ekanem"
+    },
+    {
+      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
+      "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
+      "published_at": "2026-03-28T19:39:32Z",
+      "description": "So, one of my favourite games lately, Timberborn, has released its 1.0 version and finally left early...",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript",
+        "donttrythisathome"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
+      "source": "Dev.to",
+      "user": "Pascal Thormeier"
     },
     {
       "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
@@ -1047,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2499,
+      "stars": 2502,
       "user": "magnum6actual"
     },
     {
@@ -1066,21 +1052,6 @@
       "user": "NomaDamas"
     },
     {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
-      "source": "GitHub",
-      "stars": 299,
-      "user": "meodai"
-    },
-    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1092,8 +1063,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 312,
       "user": "openai"
+    },
+    {
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
+      "source": "GitHub",
+      "stars": 302,
+      "user": "meodai"
     },
     {
       "title": "cdppcorp/KESE-KIT - KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
@@ -1318,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2812,
+      "stars": 2823,
       "user": "HKUDS"
     },
     {
@@ -1333,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1440,
       "user": "TheTom"
     },
     {
@@ -1363,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 926,
       "user": "jxnxts"
     },
     {
@@ -1378,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 711,
       "user": "garinasset"
     }
   ],
@@ -1620,7 +1606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2812,
+      "stars": 2823,
       "user": "HKUDS"
     }
   ],
@@ -1641,21 +1627,6 @@
       "user": "Team TigerData"
     },
     {
-      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
-      "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
-      "published_at": "2026-03-28T19:39:32Z",
-      "description": "So, one of my favourite games lately, Timberborn, has released its 1.0 version and finally left early...",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "donttrythisathome"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
-      "source": "Dev.to",
-      "user": "Pascal Thormeier"
-    },
-    {
       "title": "your agent can think. it can't remember.",
       "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
       "published_at": "2026-03-25T15:01:56Z",
@@ -1669,6 +1640,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
       "source": "Dev.to",
       "user": "ghost"
+    },
+    {
+      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
+      "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
+      "published_at": "2026-03-28T19:39:32Z",
+      "description": "So, one of my favourite games lately, Timberborn, has released its 1.0 version and finally left early...",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript",
+        "donttrythisathome"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
+      "source": "Dev.to",
+      "user": "Pascal Thormeier"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1868,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2499,
+      "stars": 2502,
       "user": "magnum6actual"
     },
     {
@@ -1887,21 +1873,6 @@
       "user": "NomaDamas"
     },
     {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
-      "source": "GitHub",
-      "stars": 299,
-      "user": "meodai"
-    },
-    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1913,8 +1884,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 312,
       "user": "openai"
+    },
+    {
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
+      "source": "GitHub",
+      "stars": 302,
+      "user": "meodai"
     },
     {
       "title": "cdppcorp/KESE-KIT - KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
@@ -1943,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2812,
+      "stars": 2823,
       "user": "HKUDS"
     },
     {
@@ -1958,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1440,
       "user": "TheTom"
     },
     {
@@ -1988,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 926,
       "user": "jxnxts"
     },
     {
@@ -2003,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 711,
       "user": "garinasset"
     },
     {
@@ -2063,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "vkhanhqui"
     },
     {
