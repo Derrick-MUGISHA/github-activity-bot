@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
+      "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
+      "published_at": "2026-03-30T08:48:00Z",
+      "description": "We've all been there, where you have 60 seconds before your next meeting starts. You're searching...",
+      "tags": [
+        "googleworkspace",
+        "workspacestudio",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
+      "title": "Midnight network is live",
+      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
+      "published_at": "2026-03-30T14:28:04Z",
+      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
+      "tags": [
+        "blockchain",
+        "web3",
+        "typescript",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
+      "source": "Dev.to",
+      "user": "Lauren Lee"
+    },
+    {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
       "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
       "published_at": "2026-03-29T09:59:19Z",
@@ -13,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png",
       "source": "Dev.to",
       "user": "Mezbah Alam"
+    },
+    {
+      "title": "Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]",
+      "url": "https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck",
+      "published_at": "2026-03-29T16:35:36Z",
+      "description": "In the world of AI orchestration, it's tempting to use a Large Language Model (LLM) for every step of...",
+      "tags": [
+        "gemini",
+        "ai",
+        "tutorial",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz44ccb8ysfrceeyxy1eo.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
@@ -118,21 +163,6 @@
       "user": "xbill"
     },
     {
-      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
-      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
-      "published_at": "2026-03-28T12:17:54Z",
-      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
-      "tags": [
-        "ai",
-        "kaggle",
-        "gemini",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
-    },
-    {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
       "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
       "published_at": "2026-03-23T23:19:39Z",
@@ -234,6 +264,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png",
       "source": "Dev.to",
       "user": "Ayomide Adebisi"
+    },
+    {
+      "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
+      "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
+      "published_at": "2026-03-27T19:07:08Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
+      "source": "Dev.to",
+      "user": "Yash Kumar Saini"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -351,21 +396,6 @@
       "user": "Octavian"
     },
     {
-      "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
-      "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
-      "published_at": "2026-03-27T19:07:08Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
-      "source": "Dev.to",
-      "user": "Yash Kumar Saini"
-    },
-    {
       "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
       "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
       "published_at": "2026-03-26T11:42:27Z",
@@ -468,20 +498,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
-      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
-      "published_at": "2026-03-26T10:50:55Z",
-      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
-      "tags": [
-        "opensource",
-        "go",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
-      "source": "Dev.to",
-      "user": "Ali Raza"
-    },
-    {
       "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
       "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
       "published_at": "2026-03-27T21:33:31Z",
@@ -497,6 +513,35 @@
       "user": "Jess Lee"
     },
     {
+      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
+      "url": "https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39",
+      "published_at": "2026-03-26T10:50:55Z",
+      "description": "I got tired of explaining privacy policies to people.  Every time I needed to send a file to someone,...",
+      "tags": [
+        "opensource",
+        "go",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgz96ymyrv3yzbw13zl02.png",
+      "source": "Dev.to",
+      "user": "Ali Raza"
+    },
+    {
+      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
+      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
+      "published_at": "2026-03-28T12:17:54Z",
+      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
+      "tags": [
+        "ai",
+        "kaggle",
+        "gemini",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
+      "source": "Dev.to",
+      "user": "Ertuğrul Demir"
+    },
+    {
       "title": "I Put a Prompt Injection on My Resume",
       "url": "https://dev.to/fielding/i-put-a-prompt-injection-on-my-resume-48l1",
       "published_at": "2026-03-23T23:51:06Z",
@@ -510,66 +555,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkc7vwr86myztg1cilwaz.png",
       "source": "Dev.to",
       "user": "Fielding Johnston"
-    },
-    {
-      "title": "Agentic Engineering: Lessons Learned Vol. 2",
-      "url": "https://dev.to/duske/agentic-engineering-lessons-learned-vol-2-7mh",
-      "published_at": "2026-03-23T20:15:59Z",
-      "description": "Six months ago, we shared our first lessons learned with agentic engineering. Since then, we've...",
-      "tags": [
-        "contextengineering",
-        "agentic",
-        "llm",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lhbf5ebf5jdyxnkk048.png",
-      "source": "Dev.to",
-      "user": "Dustin"
-    },
-    {
-      "title": "Confident and Wrong",
-      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
-      "published_at": "2026-03-17T20:07:24Z",
-      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
-      "tags": [
-        "ai",
-        "swift",
-        "programming",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
-      "source": "Dev.to",
-      "user": "Max"
-    },
-    {
-      "title": "The Future of Coding is Communication, Not Just Code",
-      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
-      "published_at": "2026-03-26T14:31:00Z",
-      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
-      "tags": [
-        "ai",
-        "mcp",
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
-    },
-    {
-      "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
-      "url": "https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0",
-      "published_at": "2026-03-27T04:13:12Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flraeh7ucm3whw8hczyzt.png",
-      "source": "Dev.to",
-      "user": "Souvik Biswas"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -715,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 281,
       "user": "meodai"
     },
     {
@@ -745,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 924,
       "user": "oaker-io"
     },
     {
@@ -760,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 610,
       "user": "tonbistudio"
     },
     {
@@ -775,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4482,
+      "stars": 4552,
       "user": "larksuite"
     },
     {
@@ -790,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "bhope"
     },
     {
@@ -811,6 +796,21 @@
   ],
   "JavaScript": [
     {
+      "title": "Midnight network is live",
+      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
+      "published_at": "2026-03-30T14:28:04Z",
+      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
+      "tags": [
+        "blockchain",
+        "web3",
+        "typescript",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
+      "source": "Dev.to",
+      "user": "Lauren Lee"
+    },
+    {
       "title": "Understanding Object-Oriented Programming in JavaScript",
       "url": "https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e",
       "published_at": "2026-03-28T20:37:29Z",
@@ -822,6 +822,21 @@
         "webdev"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
+      "source": "Dev.to",
+      "user": "Ritam Saha"
+    },
+    {
+      "title": "String Polyfills & Common Interview Methods in JavaScript",
+      "url": "https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g",
+      "published_at": "2026-03-29T19:42:57Z",
+      "description": "Introduction: Why String Manipulation Still Matters   Imagine this: You’re in a high-stakes...",
+      "tags": [
+        "javascript",
+        "programming",
+        "beginners",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
     },
@@ -1047,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2472,
+      "stars": 2480,
       "user": "magnum6actual"
     },
     {
@@ -1062,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 807,
       "user": "NomaDamas"
     },
     {
@@ -1077,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 281,
       "user": "meodai"
     },
     {
@@ -1092,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "cdppcorp"
     },
     {
@@ -1112,6 +1127,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Run Any HuggingFace Model on TPUs: A Beginner's Guide to TorchAX",
+      "url": "https://dev.to/gde/run-any-huggingface-model-on-tpus-a-beginners-guide-to-torchax-4ln0",
+      "published_at": "2026-03-29T17:04:14Z",
+      "description": "Learn how to run PyTorch HuggingFace models on Google TPUs using torchax — no JAX rewrite needed. Includes benchmarks, text classification, text generation, and a Colab notebook.",
+      "tags": [
+        "machinelearning",
+        "pytorch",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fahmed-elnaggar%2Ftorchax-huggingface%2Fmain%2Fassets%2Fcover-image.png",
+      "source": "Dev.to",
+      "user": "Ahmed Elnaggar"
+    },
     {
       "title": "Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You",
       "url": "https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o",
@@ -1303,8 +1333,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2719,
+      "stars": 2754,
       "user": "HKUDS"
+    },
+    {
+      "title": "TheTom/turboquant_plus - GitHub Repository",
+      "url": "https://github.com/TheTom/turboquant_plus",
+      "published_at": "2026-03-25T01:35:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
+      "source": "GitHub",
+      "stars": 981,
+      "user": "TheTom"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -1318,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 924,
       "user": "oaker-io"
     },
     {
@@ -1333,23 +1378,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 913,
       "user": "jxnxts"
-    },
-    {
-      "title": "TheTom/turboquant_plus - GitHub Repository",
-      "url": "https://github.com/TheTom/turboquant_plus",
-      "published_at": "2026-03-25T01:35:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
-      "source": "GitHub",
-      "stars": 853,
-      "user": "TheTom"
     },
     {
       "title": "tonbistudio/turboquant-pytorch - From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
@@ -1363,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 610,
       "user": "tonbistudio"
     }
   ],
@@ -1472,24 +1502,24 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
       "source": "Dev.to",
       "user": "Henrique Sasaki Yuya"
-    },
-    {
-      "title": "Confident and Wrong",
-      "url": "https://dev.to/maxrimue/confident-and-wrong-107o",
-      "published_at": "2026-03-17T20:07:24Z",
-      "description": "For a long time, I have been seeing AI in coding as something that enables me, amplifies my...",
-      "tags": [
-        "ai",
-        "swift",
-        "programming",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmwvl2bkhgh8ikv7qafn.png",
-      "source": "Dev.to",
-      "user": "Max"
     }
   ],
   "Cloud": [
+    {
+      "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
+      "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
+      "published_at": "2026-03-30T08:48:00Z",
+      "description": "We've all been there, where you have 60 seconds before your next meeting starts. You're searching...",
+      "tags": [
+        "googleworkspace",
+        "workspacestudio",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
@@ -1605,7 +1635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2719,
+      "stars": 2754,
       "user": "HKUDS"
     }
   ],
@@ -1729,21 +1759,6 @@
       "user": "Nick Ciolpan"
     },
     {
-      "title": "The Future of Coding is Communication, Not Just Code",
-      "url": "https://dev.to/auth0/the-future-of-coding-is-communication-not-just-code-328p",
-      "published_at": "2026-03-26T14:31:00Z",
-      "description": "We recently had a great conversation on the Making Software podcast with Bobby Tierney. Bobby is a...",
-      "tags": [
-        "ai",
-        "mcp",
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3ioqu6top9jkz4n9z7r.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1843,6 +1858,21 @@
       "user": "Rodrigo Oler"
     },
     {
+      "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
+      "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
+      "published_at": "2026-03-27T19:07:08Z",
+      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
+      "source": "Dev.to",
+      "user": "Yash Kumar Saini"
+    },
+    {
       "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
       "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
       "published_at": "2026-03-28T02:34:47Z",
@@ -1870,21 +1900,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
       "source": "Dev.to",
       "user": "Octavian"
-    },
-    {
-      "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
-      "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
-      "published_at": "2026-03-27T19:07:08Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
-      "source": "Dev.to",
-      "user": "Yash Kumar Saini"
     },
     {
       "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
@@ -1941,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2472,
+      "stars": 2480,
       "user": "magnum6actual"
     },
     {
@@ -1956,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 807,
       "user": "NomaDamas"
     },
     {
@@ -1971,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 281,
       "user": "meodai"
     },
     {
@@ -1986,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "cdppcorp"
     },
     {
@@ -2016,8 +2031,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2719,
+      "stars": 2754,
       "user": "HKUDS"
+    },
+    {
+      "title": "TheTom/turboquant_plus - GitHub Repository",
+      "url": "https://github.com/TheTom/turboquant_plus",
+      "published_at": "2026-03-25T01:35:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
+      "source": "GitHub",
+      "stars": 981,
+      "user": "TheTom"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -2031,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 924,
       "user": "oaker-io"
     },
     {
@@ -2046,23 +2076,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 913,
       "user": "jxnxts"
-    },
-    {
-      "title": "TheTom/turboquant_plus - GitHub Repository",
-      "url": "https://github.com/TheTom/turboquant_plus",
-      "published_at": "2026-03-25T01:35:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
-      "source": "GitHub",
-      "stars": 853,
-      "user": "TheTom"
     },
     {
       "title": "tonbistudio/turboquant-pytorch - From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
@@ -2076,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 610,
       "user": "tonbistudio"
     },
     {
@@ -2091,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4482,
+      "stars": 4552,
       "user": "larksuite"
     },
     {
@@ -2106,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 360,
       "user": "james-6-23"
     },
     {
@@ -2121,7 +2136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "bhope"
     },
     {
