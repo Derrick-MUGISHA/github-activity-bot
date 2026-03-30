@@ -43,21 +43,6 @@
       "user": "An Pham"
     },
     {
-      "title": "Cross Cloud ADK with Python, and the Azure App Service",
-      "url": "https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47",
-      "published_at": "2026-03-25T18:48:13Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "python",
-        "azure",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ebih1lknlxfgs4tztwl.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
       "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
       "published_at": "2026-03-27T05:33:50Z",
@@ -715,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 262,
       "user": "meodai"
     },
     {
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 106,
       "user": "mumuyanjian-ui"
     },
     {
@@ -745,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 908,
       "user": "oaker-io"
     },
     {
@@ -760,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 597,
       "user": "tonbistudio"
     },
     {
@@ -775,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4169,
+      "stars": 4306,
       "user": "larksuite"
     },
     {
@@ -790,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "bhope"
     },
     {
@@ -805,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "veyliss"
     }
   ],
@@ -1047,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2452,
+      "stars": 2457,
       "user": "magnum6actual"
     },
     {
@@ -1062,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 796,
       "user": "NomaDamas"
     },
     {
@@ -1077,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 262,
       "user": "meodai"
     },
     {
@@ -1092,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 106,
       "user": "mumuyanjian-ui"
     },
     {
@@ -1112,21 +1097,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "Cross Cloud ADK with Python, and the Azure App Service",
-      "url": "https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47",
-      "published_at": "2026-03-25T18:48:13Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "python",
-        "azure",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ebih1lknlxfgs4tztwl.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You",
       "url": "https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o",
@@ -1318,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2630,
       "user": "HKUDS"
     },
     {
@@ -1333,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 908,
       "user": "oaker-io"
     },
     {
@@ -1348,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 885,
       "user": "jxnxts"
     },
     {
@@ -1363,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 615,
       "user": "TheTom"
     },
     {
@@ -1378,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 597,
       "user": "tonbistudio"
     }
   ],
@@ -1520,21 +1490,6 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
-      "title": "Cross Cloud ADK with Python, and the Azure App Service",
-      "url": "https://dev.to/gde/cross-cloud-adk-with-python-and-the-azure-app-service-1i47",
-      "published_at": "2026-03-25T18:48:13Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "python",
-        "azure",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ebih1lknlxfgs4tztwl.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e",
       "published_at": "2026-03-26T19:33:51Z",
@@ -1635,7 +1590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2630,
       "user": "HKUDS"
     }
   ],
@@ -1956,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2452,
+      "stars": 2457,
       "user": "magnum6actual"
     },
     {
@@ -1971,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 796,
       "user": "NomaDamas"
     },
     {
@@ -1986,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 262,
       "user": "meodai"
     },
     {
@@ -2001,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271456537?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 106,
       "user": "mumuyanjian-ui"
     },
     {
@@ -2031,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2630,
       "user": "HKUDS"
     },
     {
@@ -2046,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 908,
       "user": "oaker-io"
     },
     {
@@ -2061,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 885,
       "user": "jxnxts"
     },
     {
@@ -2076,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 615,
       "user": "TheTom"
     },
     {
@@ -2091,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 597,
       "user": "tonbistudio"
     },
     {
@@ -2106,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4169,
+      "stars": 4306,
       "user": "larksuite"
     },
     {
@@ -2121,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 346,
       "user": "james-6-23"
     },
     {
@@ -2136,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "bhope"
     },
     {
@@ -2166,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "veyliss"
     }
   ]
