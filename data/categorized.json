@@ -222,21 +222,6 @@
       "user": "xbill"
     },
     {
-      "title": "Gemma-SRE: Self-Hosted vLLM Infrastructure Agent",
-      "url": "https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam",
-      "published_at": "2026-03-26T19:33:26Z",
-      "description": "Gemma-SRE is a high-performance, private DevOps and Site Reliability Engineering (SRE) assistant...",
-      "tags": [
-        "gemma",
-        "mcpserver",
-        "tpusprint",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymh2fgsbh945a2vc95vc.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
       "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
       "published_at": "2026-03-23T23:19:39Z",
@@ -701,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 394,
       "user": "openai"
     },
     {
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 305,
       "user": "meodai"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4598,
+      "stars": 4600,
       "user": "larksuite"
     },
     {
@@ -1033,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2502,
+      "stars": 2503,
       "user": "magnum6actual"
     },
     {
@@ -1063,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 394,
       "user": "openai"
     },
     {
@@ -1078,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 305,
       "user": "meodai"
     },
     {
@@ -1304,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2823,
+      "stars": 2836,
       "user": "HKUDS"
     },
     {
@@ -1319,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1479,
       "user": "TheTom"
     },
     {
@@ -1364,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 725,
       "user": "garinasset"
     }
   ],
@@ -1382,21 +1367,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
       "source": "Dev.to",
       "user": "Ajadi Olalekan Jamiu"
-    },
-    {
-      "title": "Gemma-SRE: Self-Hosted vLLM Infrastructure Agent",
-      "url": "https://dev.to/gde/gemma-sre-self-hosted-vllm-infrastructure-agent-2bam",
-      "published_at": "2026-03-26T19:33:26Z",
-      "description": "Gemma-SRE is a high-performance, private DevOps and Site Reliability Engineering (SRE) assistant...",
-      "tags": [
-        "gemma",
-        "mcpserver",
-        "tpusprint",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fymh2fgsbh945a2vc95vc.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "WebDev": [
@@ -1606,7 +1576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2823,
+      "stars": 2836,
       "user": "HKUDS"
     }
   ],
@@ -1699,6 +1669,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "What are your goals for the week? #172",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm",
+      "published_at": "2026-03-30T14:28:37Z",
+      "description": "Had an increase in responses last week. Thanks to @francistrdev for the shout out in their posts. I...",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg",
+      "source": "Dev.to",
+      "user": "Chris Jarvis"
+    },
     {
       "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
       "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
@@ -1854,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2502,
+      "stars": 2503,
       "user": "magnum6actual"
     },
     {
@@ -1884,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 394,
       "user": "openai"
     },
     {
@@ -1899,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 305,
       "user": "meodai"
     },
     {
@@ -1929,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2823,
+      "stars": 2836,
       "user": "HKUDS"
     },
     {
@@ -1944,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1479,
       "user": "TheTom"
     },
     {
@@ -1989,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 725,
       "user": "garinasset"
     },
     {
@@ -2004,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4598,
+      "stars": 4600,
       "user": "larksuite"
     },
     {
