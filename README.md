@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![beginners](https://img.shields.io/badge/beginners-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![beginners](https://img.shields.io/badge/beginners-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-30 21:00 CAT)
+## 📅 Latest Updates (2026-03-30 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,6 +142,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgtax69bmxnbmofdfmhj.png" width="200" alt="What is your WPM (Words per Minute)? #1" />
+      <br/>
+      <b>What is your WPM (Words per Minute)? #1</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/wassimchegham/agentic-rag-done-right-4846">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png" width="200" alt="Prompt Stuffing Is Killing Your Agent" />
       <br/>
@@ -150,6 +159,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ivorjetski/codepen-tv-secrets-fib">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png" width="200" alt="CodePen TV secrets" />
@@ -159,8 +170,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04m4zi4dq3j8uqofbc1g.png" width="200" alt="How to Break Your PostgreSQL IIoT Database and Learn Something in the Process" />
@@ -179,15 +188,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/tomerl1/im-rebuilding-a-90s-lan-game-in-rust-to-finally-learn-it-5eo8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frs2lbrx68iv83k5vspyx.png" width="200" alt="I'm rebuilding a 90s LAN game in Rust to finally learn it" />
-      <br/>
-      <b>I'm rebuilding a 90s LAN game in Rust to finally l...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -196,6 +196,7 @@ npm run test
 ### 📰 Top Headlines
 
 - [Meme Monday](https://dev.to/ben/meme-monday-o5i) _[Dev.to]_
+- [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
 - [Prompt Stuffing Is Killing Your Agent](https://dev.to/wassimchegham/agentic-rag-done-right-4846) _[Dev.to]_
 - [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib) _[Dev.to]_
 - [How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [String Polyfills & Common Interview Methods in JavaScript](https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g) _[Dev.to]_
 - [Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]](https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck) _[Dev.to]_
-- [Async without async](https://dev.to/szymongib/async-without-async-eik) _[Dev.to]_
 
-_Last automated update: Mon, 30 Mar 2026 21:40:44 CAT_
+_Last automated update: Mon, 30 Mar 2026 22:26:03 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 30 Mar 2026 21:40:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 30 Mar 2026 19:40:44 GMT</b><br/>
+  <b>Last automated update: Mon, 30 Mar 2026 20:26:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
