@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-9-blue)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-30-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,25 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Cloud**: 🟦🟦🟦 9 (8.6%)
+**Cloud**: 🟦🟦🟦 8 (7.6%)
 
-**WebDev**: 🟦 4 (3.8%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
-**Database**: 🟦 4 (3.8%)
-
-**Security**: 🟦 4 (3.8%)
+**Database**: 🟦 3 (2.9%)
 
 **DevOps**: 🟦 2 (1.9%)
 
-**Mobile**:  1 (1.0%)
+**Security**: 🟦 2 (1.9%)
 
 
 
@@ -60,15 +58,14 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.8 (25.8%)
-Java            ████████████████████████████ 23.7 (23.7%)
-Go              ██████████████████████████ 22.6 (22.6%)
-Python          █████████████████████████ 21.5 (21.5%)
+JavaScript      ██████████████████████████████ 26.4 (26.4%)
+Java            ████████████████████████████ 24.2 (24.2%)
+Python          █████████████████████████ 22.0 (22.0%)
+Go              ████████████████████████ 20.9 (20.9%)
+Rust            ███ 2.2 (2.2%)
 CSharp          ███ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
-Rust            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
 
 ```
 
@@ -76,11 +73,11 @@ Swift           █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 24
     "Java" : 22
-    "Go" : 21
     "Python" : 20
+    "Go" : 19
+    "Rust" : 2
     "CSharp" : 2
     "Ruby" : 1
-    "Rust" : 1
     "PHP" : 1
 ```
 
@@ -88,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-10-blue) ![python](https://img.shields.io/badge/python-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![agents](https://img.shields.io/badge/agents-10-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
 
 
 
@@ -128,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-30 18:00 CAT)
+## 📅 Latest Updates (2026-03-30 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -174,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devsofmidnight/midnight-network-is-live-1apj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg" width="200" alt="Midnight network is live" />
+    <a href="https://dev.to/ivorjetski/codepen-tv-secrets-fib">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png" width="200" alt="CodePen TV secrets" />
       <br/>
-      <b>Midnight network is live</b>
+      <b>CodePen TV secrets</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png" width="200" alt="Why Rails Still Feels Like a Startup’s Best Friend in the AI Era" />
+    <a href="https://dev.to/devsofmidnight/midnight-network-is-live-1apj">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg" width="200" alt="Midnight network is live" />
       <br/>
-      <b>Why Rails Still Feels Like a Startup’s Best Friend...</b>
+      <b>Midnight network is live</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,24 +199,24 @@ npm run test
 - [Prompt Stuffing Is Killing Your Agent](https://dev.to/wassimchegham/agentic-rag-done-right-4846) _[Dev.to]_
 - [Long-Horizon Agents Are Here. Full Autopilot Isn't](https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent](https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij) _[Dev.to]_
+- [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib) _[Dev.to]_
 - [Midnight network is live](https://dev.to/devsofmidnight/midnight-network-is-live-1apj) _[Dev.to]_
+- [I'm rebuilding a 90s LAN game in Rust to finally learn it](https://dev.to/tomerl1/im-rebuilding-a-90s-lan-game-in-rust-to-finally-learn-it-5eo8) _[Dev.to]_
+- [The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern](https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4) _[Dev.to]_
+- [I Eliminated Layout Jitter From LLM Streaming — Here's How](https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef) _[Dev.to]_
+- [What is ‘Harness Design’ and why does it matter](https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj) _[Dev.to]_
 - [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
 - [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb) _[Dev.to]_
 - [Run Any HuggingFace Model on TPUs: A Beginner's Guide to TorchAX](https://dev.to/gde/run-any-huggingface-model-on-tpus-a-beginners-guide-to-torchax-4ln0) _[Dev.to]_
 - [Understanding Object-Oriented Programming in JavaScript](https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e) _[Dev.to]_
+- [With the advent of AI, is there still a need for Frontend Engineers?](https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [String Polyfills & Common Interview Methods in JavaScript](https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g) _[Dev.to]_
 - [Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]](https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck) _[Dev.to]_
 - [Async without async](https://dev.to/szymongib/async-without-async-eik) _[Dev.to]_
 - [Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.](https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31) _[Dev.to]_
-- [How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c) _[Dev.to]_
-- [I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management](https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f) _[Dev.to]_
-- [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m) _[Dev.to]_
-- [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h) _[Dev.to]_
-- [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
-- [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
 
-_Last automated update: Mon, 30 Mar 2026 18:39:14 CAT_
+_Last automated update: Mon, 30 Mar 2026 19:36:16 CAT_
 
 
 
@@ -227,36 +224,36 @@ _Last automated update: Mon, 30 Mar 2026 18:39:14 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -290,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 30 Mar 2026 16:39:14 GMT</b><br/>
+  <b>Last automated update: Mon, 30 Mar 2026 17:36:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -61,6 +61,50 @@
       "user": "Lauren Lee"
     },
     {
+      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
+      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
+      "published_at": "2026-03-30T14:52:45Z",
+      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
+      "tags": [
+        "ai",
+        "careerdevelopment",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
+      "source": "Dev.to",
+      "user": "martin rojas"
+    },
+    {
+      "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
+      "url": "https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef",
+      "published_at": "2026-03-30T08:15:13Z",
+      "description": "Every AI chat app has the same bug. You've felt it. That stuttering scrollbar, the content jumping,...",
+      "tags": [
+        "llm",
+        "performance",
+        "showdev",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7doe6hbjvi676m1thodg.jpg",
+      "source": "Dev.to",
+      "user": "JAI"
+    },
+    {
+      "title": "What is ‘Harness Design’ and why does it matter",
+      "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
+      "published_at": "2026-03-30T08:52:02Z",
+      "description": "AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
+      "source": "Dev.to",
+      "user": "baltz"
+    },
+    {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
       "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
       "published_at": "2026-03-29T09:59:19Z",
@@ -73,6 +117,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png",
       "source": "Dev.to",
       "user": "Mezbah Alam"
+    },
+    {
+      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
+      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
+      "published_at": "2026-03-29T15:37:53Z",
+      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
+      "tags": [
+        "frontend",
+        "javascript",
+        "ai",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
+      "source": "Dev.to",
+      "user": "OlumideSamuel"
     },
     {
       "title": "Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]",
@@ -296,21 +355,6 @@
       "user": "Rodrigo Oler"
     },
     {
-      "title": "How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)",
-      "url": "https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7",
-      "published_at": "2026-03-28T17:27:11Z",
-      "description": "I used to keep API keys in .env because it was fast. Then I caught myself grepping my home folder for...",
-      "tags": [
-        "macos",
-        "security",
-        "keychain",
-        "bash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png",
-      "source": "Dev.to",
-      "user": "Ayomide Adebisi"
-    },
-    {
       "title": "FE/BE - Unite Them!",
       "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
       "published_at": "2026-03-17T14:02:20Z",
@@ -349,6 +393,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
       "source": "Dev.to",
       "user": "ghost"
+    },
+    {
+      "title": "Lost Skills We Sold for Convenience Over Commitment",
+      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
+      "published_at": "2026-03-29T11:49:29Z",
+      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
+      "tags": [
+        "career",
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
+      "source": "Dev.to",
+      "user": "Carlos Nah "
     },
     {
       "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
@@ -528,36 +587,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
-      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
-      "published_at": "2026-03-27T21:33:31Z",
-      "description": "We're back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...",
-      "tags": [
-        "weekendchallenge",
-        "devchallenge",
-        "hackathon",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
-      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
-      "published_at": "2026-03-28T12:17:54Z",
-      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
-      "tags": [
-        "ai",
-        "kaggle",
-        "gemini",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -701,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 293,
       "user": "meodai"
     },
     {
@@ -731,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "oaker-io"
     },
     {
@@ -746,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 617,
       "user": "tonbistudio"
     },
     {
@@ -761,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4572,
+      "stars": 4583,
       "user": "larksuite"
     },
     {
@@ -778,21 +807,6 @@
       "source": "GitHub",
       "stars": 144,
       "user": "bhope"
-    },
-    {
-      "title": "veyliss/ai-localbase - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
-      "url": "https://github.com/veyliss/ai-localbase",
-      "published_at": "2026-03-25T03:42:43Z",
-      "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "veyliss"
     }
   ],
   "JavaScript": [
@@ -825,6 +839,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
+    },
+    {
+      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
+      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
+      "published_at": "2026-03-29T15:37:53Z",
+      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
+      "tags": [
+        "frontend",
+        "javascript",
+        "ai",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
+      "source": "Dev.to",
+      "user": "OlumideSamuel"
     },
     {
       "title": "String Polyfills & Common Interview Methods in JavaScript",
@@ -915,21 +944,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
       "source": "Dev.to",
       "user": "Saroj Poddar"
-    },
-    {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1063,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2485,
+      "stars": 2490,
       "user": "magnum6actual"
     },
     {
@@ -1078,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 810,
       "user": "NomaDamas"
     },
     {
@@ -1093,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 293,
       "user": "meodai"
     },
     {
@@ -1108,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "cdppcorp"
     },
     {
@@ -1334,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2774,
+      "stars": 2789,
       "user": "HKUDS"
     },
     {
@@ -1349,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1247,
       "user": "TheTom"
     },
     {
@@ -1364,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "oaker-io"
     },
     {
@@ -1379,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 920,
       "user": "jxnxts"
     },
     {
@@ -1394,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 617,
       "user": "tonbistudio"
     }
   ],
@@ -1431,6 +1445,21 @@
   ],
   "WebDev": [
     {
+      "title": "CodePen TV secrets",
+      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
+      "published_at": "2026-03-29T23:23:50Z",
+      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
+      "tags": [
+        "codepen",
+        "css",
+        "cssart",
+        "crt"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
+      "source": "Dev.to",
+      "user": "Ben Evans"
+    },
+    {
       "title": "Understanding Object-Oriented Programming in JavaScript",
       "url": "https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e",
       "published_at": "2026-03-28T20:37:29Z",
@@ -1444,6 +1473,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
+    },
+    {
+      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
+      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
+      "published_at": "2026-03-29T15:37:53Z",
+      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
+      "tags": [
+        "frontend",
+        "javascript",
+        "ai",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
+      "source": "Dev.to",
+      "user": "OlumideSamuel"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -1488,23 +1532,7 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [
-    {
-      "title": "I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes",
-      "url": "https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he",
-      "published_at": "2026-03-24T11:06:02Z",
-      "description": "SystemeInternational uses phantom types, affine spaces, and zero-cost abstractions to make unit misuse a compile-time error. 306 tests, 8 bytes per quantity, and unit conversions at 3 ns/op in Release.",
-      "tags": [
-        "swift",
-        "programming",
-        "opensource",
-        "types"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
-      "source": "Dev.to",
-      "user": "Henrique Sasaki Yuya"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
     {
       "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
@@ -1581,20 +1609,6 @@
       "user": "xbill"
     },
     {
-      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
-      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
-      "published_at": "2026-03-28T02:34:47Z",
-      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
-      "tags": [
-        "sql",
-        "postgressql",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
-      "source": "Dev.to",
-      "user": "Labeeb Ahmad"
-    },
-    {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
       "published_at": "2026-03-23T17:53:10Z",
@@ -1636,7 +1650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2774,
+      "stars": 2789,
       "user": "HKUDS"
     }
   ],
@@ -1672,20 +1686,6 @@
       "user": "ghost"
     },
     {
-      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
-      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
-      "published_at": "2026-03-28T02:34:47Z",
-      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
-      "tags": [
-        "sql",
-        "postgressql",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
-      "source": "Dev.to",
-      "user": "Labeeb Ahmad"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1699,21 +1699,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "How to Store Secrets in the Mac Keychain (and Use Them Like Environment Variables)",
-      "url": "https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7",
-      "published_at": "2026-03-28T17:27:11Z",
-      "description": "I used to keep API keys in .env because it was fast. Then I caught myself grepping my home folder for...",
-      "tags": [
-        "macos",
-        "security",
-        "keychain",
-        "bash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhxiduurqreqonu51uzt.png",
-      "source": "Dev.to",
-      "user": "Ayomide Adebisi"
-    },
     {
       "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
       "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
@@ -1730,21 +1715,6 @@
       "user": "Habib Jutt"
     },
     {
-      "title": "I built a terminal-native Little Snitch alternative for macOS",
-      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
-      "published_at": "2026-03-24T11:49:08Z",
-      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
-      "tags": [
-        "go",
-        "macos",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
-      "source": "Dev.to",
-      "user": "Nick Ciolpan"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1758,6 +1728,35 @@
     }
   ],
   "Tools": [
+    {
+      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
+      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
+      "published_at": "2026-03-30T14:52:45Z",
+      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
+      "tags": [
+        "ai",
+        "careerdevelopment",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
+      "source": "Dev.to",
+      "user": "martin rojas"
+    },
+    {
+      "title": "What is ‘Harness Design’ and why does it matter",
+      "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
+      "published_at": "2026-03-30T08:52:02Z",
+      "description": "AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
+      "source": "Dev.to",
+      "user": "baltz"
+    },
     {
       "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
       "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
@@ -1859,20 +1858,6 @@
       "user": "Rodrigo Oler"
     },
     {
-      "title": "Finding Slow Queries in PostgreSQL (Without Guessing)",
-      "url": "https://dev.to/labeeb-ahmad/finding-slow-queries-in-postgresql-without-guessing-1p5j",
-      "published_at": "2026-03-28T02:34:47Z",
-      "description": "Here’s the quantitative method used by DBAs and tools like pganalyze and AWS Performance...",
-      "tags": [
-        "sql",
-        "postgressql",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57f74s7xjuwibklcrjgc.png",
-      "source": "Dev.to",
-      "user": "Labeeb Ahmad"
-    },
-    {
       "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
       "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
       "published_at": "2026-03-26T07:06:06Z",
@@ -1902,21 +1887,6 @@
       "user": "Leanne R"
     },
     {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
-    },
-    {
       "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
       "url": "https://github.com/magnum6actual/flipoff",
       "published_at": "2026-03-26T12:46:35Z",
@@ -1928,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2485,
+      "stars": 2490,
       "user": "magnum6actual"
     },
     {
@@ -1943,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 810,
       "user": "NomaDamas"
     },
     {
@@ -1958,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 293,
       "user": "meodai"
     },
     {
@@ -1973,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "cdppcorp"
     },
     {
@@ -2003,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2774,
+      "stars": 2789,
       "user": "HKUDS"
     },
     {
@@ -2018,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1247,
       "user": "TheTom"
     },
     {
@@ -2033,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "oaker-io"
     },
     {
@@ -2048,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 920,
       "user": "jxnxts"
     },
     {
@@ -2063,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/193647965?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 617,
       "user": "tonbistudio"
     },
     {
@@ -2078,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4572,
+      "stars": 4583,
       "user": "larksuite"
     },
     {
@@ -2093,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 362,
       "user": "james-6-23"
     },
     {
@@ -2127,19 +2097,19 @@
       "user": "lich0821"
     },
     {
-      "title": "veyliss/ai-localbase - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
-      "url": "https://github.com/veyliss/ai-localbase",
-      "published_at": "2026-03-25T03:42:43Z",
-      "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+      "title": "vkhanhqui/figma-mcp-go - Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
+      "url": "https://github.com/vkhanhqui/figma-mcp-go",
+      "published_at": "2026-03-26T11:06:26Z",
+      "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 127,
-      "user": "veyliss"
+      "stars": 128,
+      "user": "vkhanhqui"
     }
   ]
 }
