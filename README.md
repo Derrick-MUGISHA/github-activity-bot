@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
 **Cloud**: 🟦🟦🟦 8 (7.6%)
 
 **WebDev**: 🟦🟦 6 (5.7%)
 
-**Database**: 🟦 4 (3.8%)
-
-**DevOps**: 🟦 2 (1.9%)
+**Database**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦 2 (1.9%)
+
+**DevOps**:  1 (1.0%)
 
 
 
@@ -58,12 +58,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.7 (26.7%)
-Java            ███████████████████████████ 24.4 (24.4%)
-Python          █████████████████████████ 22.2 (22.2%)
-Go              ██████████████████████ 20.0 (20.0%)
-Rust            ██ 2.2 (2.2%)
-CSharp          ██ 2.2 (2.2%)
+JavaScript      ██████████████████████████████ 26.4 (26.4%)
+Java            ████████████████████████████ 24.2 (24.2%)
+Python          █████████████████████████ 22.0 (22.0%)
+Go              ████████████████████████ 20.9 (20.9%)
+Rust            ███ 2.2 (2.2%)
+CSharp          ███ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -74,7 +74,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 24
     "Java" : 22
     "Python" : 20
-    "Go" : 18
+    "Go" : 19
     "Rust" : 2
     "CSharp" : 2
     "Ruby" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![beginners](https://img.shields.io/badge/beginners-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) 
 
 
 
@@ -125,22 +125,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-30 22:00 CAT)
+## 📅 Latest Updates (2026-03-30 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-o5i">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlrjqhil3ojyy5gkks8v.png" width="200" alt="Meme Monday" />
-      <br/>
-      <b>Meme Monday</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgtax69bmxnbmofdfmhj.png" width="200" alt="What is your WPM (Words per Minute)? #1" />
@@ -151,10 +142,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/wassimchegham/agentic-rag-done-right-4846">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png" width="200" alt="Prompt Stuffing Is Killing Your Agent" />
+    <a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg" width="200" alt="What are your goals for the week? #172" />
       <br/>
-      <b>Prompt Stuffing Is Killing Your Agent</b>
+      <b>What are your goals for the week? #172</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ben/meme-monday-o5i">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlrjqhil3ojyy5gkks8v.png" width="200" alt="Meme Monday" />
+      <br/>
+      <b>Meme Monday</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04m4zi4dq3j8uqofbc1g.png" width="200" alt="How to Break Your PostgreSQL IIoT Database and Learn Something in the Process" />
+    <a href="https://dev.to/wassimchegham/agentic-rag-done-right-4846">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png" width="200" alt="Prompt Stuffing Is Killing Your Agent" />
       <br/>
-      <b>How to Break Your PostgreSQL IIoT Database and Lea...</b>
+      <b>Prompt Stuffing Is Killing Your Agent</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devsofmidnight/midnight-network-is-live-1apj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg" width="200" alt="Midnight network is live" />
+    <a href="https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04m4zi4dq3j8uqofbc1g.png" width="200" alt="How to Break Your PostgreSQL IIoT Database and Learn Something in the Process" />
       <br/>
-      <b>Midnight network is live</b>
+      <b>How to Break Your PostgreSQL IIoT Database and Lea...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,10 +195,11 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Meme Monday](https://dev.to/ben/meme-monday-o5i) _[Dev.to]_
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
-- [Prompt Stuffing Is Killing Your Agent](https://dev.to/wassimchegham/agentic-rag-done-right-4846) _[Dev.to]_
+- [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-o5i) _[Dev.to]_
 - [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib) _[Dev.to]_
+- [Prompt Stuffing Is Killing Your Agent](https://dev.to/wassimchegham/agentic-rag-done-right-4846) _[Dev.to]_
 - [How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d) _[Dev.to]_
 - [Midnight network is live](https://dev.to/devsofmidnight/midnight-network-is-live-1apj) _[Dev.to]_
 - [I'm rebuilding a 90s LAN game in Rust to finally learn it](https://dev.to/tomerl1/im-rebuilding-a-90s-lan-game-in-rust-to-finally-learn-it-5eo8) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [With the advent of AI, is there still a need for Frontend Engineers?](https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
 - [String Polyfills & Common Interview Methods in JavaScript](https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g) _[Dev.to]_
-- [Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]](https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck) _[Dev.to]_
 
-_Last automated update: Mon, 30 Mar 2026 22:26:03 CAT_
+_Last automated update: Mon, 30 Mar 2026 23:08:03 CAT_
 
 
 
@@ -224,7 +224,18 @@ _Last automated update: Mon, 30 Mar 2026 22:26:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. DataStructures: Implement a function to reverse a linked list
+
+**Difficulty**: Medium | **Topics**: linked lists, pointers
+
+<details>
+<summary>💡 Hint</summary>
+
+Iterative or recursive, three pointers
+
+</details>
+
+### 2. SystemDesign: Design a distributed cache system
 
 **Difficulty**: Hard | **Topics**: distributed systems, caching
 
@@ -235,25 +246,14 @@ Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-### 3. NodeJS: Implement rate limiting for an API
-
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 30 Mar 2026 20:26:03 GMT</b><br/>
+  <b>Last automated update: Mon, 30 Mar 2026 21:08:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
