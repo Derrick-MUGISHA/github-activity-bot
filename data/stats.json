@@ -18,19 +18,19 @@
     "Tools": 27
   },
   "by_language": {
+    "Ruby": 1,
     "JavaScript": 22,
     "Java": 21,
-    "Python": 20,
-    "Go": 21,
-    "Ruby": 1,
     "Rust": 2,
     "PHP": 1,
     "CSharp": 2,
+    "Python": 20,
+    "Go": 21,
     "Swift": 2
   },
   "by_date": {
-    "2026-03-28": 11,
     "2026-03-29": 7,
+    "2026-03-28": 11,
     "2026-03-27": 7,
     "2026-03-26": 13,
     "2026-03-25": 13,
@@ -89,19 +89,19 @@
     "tutorial": 4,
     "discuss": 4,
     "googleadk": 3,
-    "devchallenge": 3,
+    "productivity": 3,
     "mcp": 3
   },
   "trending_topics": [],
   "language_percentages": {
+    "Ruby": "1.1",
     "JavaScript": "23.9",
     "Java": "22.8",
-    "Python": "21.7",
-    "Go": "22.8",
-    "Ruby": "1.1",
     "Rust": "2.2",
     "PHP": "1.1",
     "CSharp": "2.2",
+    "Python": "21.7",
+    "Go": "22.8",
     "Swift": "2.2"
   }
 }
