@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-30 13:00 CAT)
+## 📅 Latest Updates (2026-03-30 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [I Added Langfuse to My RAG App and It Immediately Caught Two Bugs](https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3) _[Dev.to]_
 - [Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You](https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o) _[Dev.to]_
 
-_Last automated update: Mon, 30 Mar 2026 13:18:56 CAT_
+_Last automated update: Mon, 30 Mar 2026 14:08:28 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Mon, 30 Mar 2026 13:18:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 3. React: How would you optimize a React app's performance?
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 30 Mar 2026 11:18:57 GMT</b><br/>
+  <b>Last automated update: Mon, 30 Mar 2026 12:08:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
