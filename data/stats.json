@@ -19,7 +19,7 @@
   },
   "by_language": {
     "Go": 20,
-    "Rust": 2,
+    "Rust": 3,
     "Ruby": 1,
     "JavaScript": 24,
     "Java": 21,
@@ -96,12 +96,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "22.0",
-    "Rust": "2.2",
+    "Go": "21.7",
+    "Rust": "3.3",
     "Ruby": "1.1",
-    "JavaScript": "26.4",
-    "Java": "23.1",
-    "Python": "20.9",
+    "JavaScript": "26.1",
+    "Java": "22.8",
+    "Python": "20.7",
     "PHP": "1.1",
     "CSharp": "2.2",
     "Swift": "1.1"
