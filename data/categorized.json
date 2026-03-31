@@ -60,21 +60,6 @@
       "user": "baltz"
     },
     {
-      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
-      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
-      "published_at": "2026-03-30T06:21:06Z",
-      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
       "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
       "published_at": "2026-03-29T09:59:19Z",
@@ -205,6 +190,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
+      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
+      "published_at": "2026-03-30T06:21:06Z",
+      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 3663,
+      "stars": 3896,
       "user": "openai"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 328,
       "user": "meodai"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "midudev"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 967,
       "user": "oaker-io"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5159,
+      "stars": 5226,
       "user": "larksuite"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "bhope"
     },
     {
@@ -824,21 +824,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
-    },
-    {
-      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-      "published_at": "2026-03-23T05:48:13Z",
-      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
-      "source": "Dev.to",
-      "user": "Satish Gowda"
     },
     {
       "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
@@ -1047,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 3663,
+      "stars": 3896,
       "user": "openai"
     },
     {
@@ -1062,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2527,
+      "stars": 2530,
       "user": "magnum6actual"
     },
     {
@@ -1077,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 328,
       "user": "meodai"
     },
     {
@@ -1092,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "cdppcorp"
     },
     {
@@ -1107,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "midudev"
     }
   ],
@@ -1318,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 2697,
+      "stars": 2826,
       "user": "TheTom"
     },
     {
@@ -1333,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 2403,
+      "stars": 2650,
       "user": "titanwings"
     },
     {
@@ -1348,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1314,
       "user": "garinasset"
     },
     {
@@ -1363,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 967,
       "user": "oaker-io"
     },
     {
@@ -1378,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 951,
       "user": "jxnxts"
     }
   ],
@@ -1443,21 +1428,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
       "source": "Dev.to",
       "user": "Ben Evans"
-    },
-    {
-      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-      "published_at": "2026-03-23T05:48:13Z",
-      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
-      "source": "Dev.to",
-      "user": "Satish Gowda"
     },
     {
       "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
@@ -1854,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 3663,
+      "stars": 3896,
       "user": "openai"
     },
     {
@@ -1869,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2527,
+      "stars": 2530,
       "user": "magnum6actual"
     },
     {
@@ -1884,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 328,
       "user": "meodai"
     },
     {
@@ -1899,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "cdppcorp"
     },
     {
@@ -1914,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "midudev"
     },
     {
@@ -1929,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 2697,
+      "stars": 2826,
       "user": "TheTom"
     },
     {
@@ -1944,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 2403,
+      "stars": 2650,
       "user": "titanwings"
     },
     {
@@ -1959,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1314,
       "user": "garinasset"
     },
     {
@@ -1974,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 967,
       "user": "oaker-io"
     },
     {
@@ -1989,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 951,
       "user": "jxnxts"
     },
     {
@@ -2004,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5159,
+      "stars": 5226,
       "user": "larksuite"
     },
     {
@@ -2019,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 190,
       "user": "vkhanhqui"
     },
     {
@@ -2034,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "bhope"
     },
     {
