@@ -219,7 +219,7 @@ npm run test
 - [I Built a Tool Because 90% of My AI Agent's Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3) _[Dev.to]_
 - [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d) _[Dev.to]_
 
-_Last automated update: Wed, 01 Apr 2026 00:19:26 CAT_
+_Last automated update: Wed, 01 Apr 2026 00:57:38 CAT_
 
 
 
@@ -227,18 +227,7 @@ _Last automated update: Wed, 01 Apr 2026 00:19:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
-
-**Difficulty**: Medium | **Topics**: hooks, functional components
-
-<details>
-<summary>💡 Hint</summary>
-
-State in functional components, reusable logic, cleaner code
-
-</details>
-
-### 2. JavaScript: Explain event delegation and why it's useful
+### 1. JavaScript: Explain event delegation and why it's useful
 
 **Difficulty**: Medium | **Topics**: events, DOM
 
@@ -249,14 +238,25 @@ Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 3. Java: Explain the Java memory model
+
+**Difficulty**: Hard | **Topics**: memory, JVM
+
+<details>
+<summary>💡 Hint</summary>
+
+Heap, stack, garbage collection
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 31 Mar 2026 22:19:26 GMT</b><br/>
+  <b>Last automated update: Tue, 31 Mar 2026 22:57:38 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
