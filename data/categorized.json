@@ -280,21 +280,6 @@
       "user": "Yash Kumar Saini"
     },
     {
-      "title": "Why Daily Standups Are Becoming Useless in the AI Era",
-      "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
-      "published_at": "2026-03-28T22:00:14Z",
-      "description": "Daily standups used to be a coordination tool. Today, with better async workflows and AI-assisted status sharing, they often waste engineering time at scale.",
-      "tags": [
-        "agile",
-        "standup",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdlermncultjao4oomuh.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Oler"
-    },
-    {
       "title": "FE/BE - Unite Them!",
       "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
       "published_at": "2026-03-17T14:02:20Z",
@@ -527,6 +512,21 @@
       "user": "Ertuğrul Demir"
     },
     {
+      "title": "Agentic Engineering: Lessons Learned Vol. 2",
+      "url": "https://dev.to/duske/agentic-engineering-lessons-learned-vol-2-7mh",
+      "published_at": "2026-03-23T20:15:59Z",
+      "description": "Six months ago, we shared our first lessons learned with agentic engineering. Since then, we've...",
+      "tags": [
+        "contextengineering",
+        "agentic",
+        "llm",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lhbf5ebf5jdyxnkk048.png",
+      "source": "Dev.to",
+      "user": "Dustin"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 3439,
+      "stars": 3663,
       "user": "openai"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "meodai"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "midudev"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 962,
       "user": "oaker-io"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5094,
+      "stars": 5159,
       "user": "larksuite"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 147,
       "user": "bhope"
     },
     {
@@ -1047,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 3439,
+      "stars": 3663,
       "user": "openai"
     },
     {
@@ -1077,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "meodai"
     },
     {
@@ -1107,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "midudev"
     }
   ],
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 2614,
+      "stars": 2697,
       "user": "TheTom"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 2133,
+      "stars": 2403,
       "user": "titanwings"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1258,
       "user": "garinasset"
     },
     {
@@ -1363,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 962,
       "user": "oaker-io"
     },
     {
@@ -1686,6 +1686,21 @@
       "user": "Habib Jutt"
     },
     {
+      "title": "I built a terminal-native Little Snitch alternative for macOS",
+      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
+      "published_at": "2026-03-24T11:49:08Z",
+      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
+      "tags": [
+        "go",
+        "macos",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
+      "source": "Dev.to",
+      "user": "Nick Ciolpan"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1799,21 +1814,6 @@
       "user": "Yash Kumar Saini"
     },
     {
-      "title": "Why Daily Standups Are Becoming Useless in the AI Era",
-      "url": "https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao",
-      "published_at": "2026-03-28T22:00:14Z",
-      "description": "Daily standups used to be a coordination tool. Today, with better async workflows and AI-assisted status sharing, they often waste engineering time at scale.",
-      "tags": [
-        "agile",
-        "standup",
-        "ai",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdlermncultjao4oomuh.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Oler"
-    },
-    {
       "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
       "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
       "published_at": "2026-03-25T11:01:22Z",
@@ -1854,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 3439,
+      "stars": 3663,
       "user": "openai"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "meodai"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "midudev"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 2614,
+      "stars": 2697,
       "user": "TheTom"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 2133,
+      "stars": 2403,
       "user": "titanwings"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1258,
       "user": "garinasset"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 962,
       "user": "oaker-io"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5094,
+      "stars": 5159,
       "user": "larksuite"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 186,
       "user": "vkhanhqui"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 147,
       "user": "bhope"
     },
     {
