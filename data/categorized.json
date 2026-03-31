@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
-      "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
-      "published_at": "2026-03-31T13:58:35Z",
-      "description": "A post by Ben Halpern",
-      "tags": [
-        "database",
-        "news",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Surviving as a Human in the Age of AI",
       "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
       "published_at": "2026-03-31T02:43:37Z",
@@ -28,6 +14,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
       "source": "Dev.to",
       "user": "Jen Looper"
+    },
+    {
+      "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
+      "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
+      "published_at": "2026-03-31T13:58:35Z",
+      "description": "A post by Ben Halpern",
+      "tags": [
+        "database",
+        "news",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Implementing a RAG system: Walk",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5260,
+      "stars": 5316,
       "user": "openai"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "meodai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5421,
+      "stars": 5422,
       "user": "larksuite"
     },
     {
@@ -779,21 +779,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
-    },
-    {
-      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-      "published_at": "2026-03-23T05:48:13Z",
-      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
-      "source": "Dev.to",
-      "user": "Satish Gowda"
     },
     {
       "title": "Midnight network is live",
@@ -1017,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5260,
+      "stars": 5316,
       "user": "openai"
     },
     {
@@ -1032,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2542,
+      "stars": 2544,
       "user": "magnum6actual"
     },
     {
@@ -1047,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 359,
       "user": "6551Team"
     },
     {
@@ -1062,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "meodai"
     },
     {
@@ -1273,7 +1258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3608,
+      "stars": 3644,
       "user": "TheTom"
     },
     {
@@ -1288,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3308,
+      "stars": 3312,
       "user": "titanwings"
     },
     {
@@ -1303,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1595,
+      "stars": 1598,
       "user": "garinasset"
     },
     {
@@ -1333,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 979,
       "user": "jxnxts"
     }
   ],
@@ -1397,21 +1382,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
       "source": "Dev.to",
       "user": "OlumideSamuel"
-    },
-    {
-      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-      "published_at": "2026-03-23T05:48:13Z",
-      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
-      "source": "Dev.to",
-      "user": "Satish Gowda"
     },
     {
       "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
@@ -1821,7 +1791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5260,
+      "stars": 5316,
       "user": "openai"
     },
     {
@@ -1836,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2542,
+      "stars": 2544,
       "user": "magnum6actual"
     },
     {
@@ -1851,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 359,
       "user": "6551Team"
     },
     {
@@ -1866,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "meodai"
     },
     {
@@ -1896,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3608,
+      "stars": 3644,
       "user": "TheTom"
     },
     {
@@ -1911,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3308,
+      "stars": 3312,
       "user": "titanwings"
     },
     {
@@ -1926,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1595,
+      "stars": 1598,
       "user": "garinasset"
     },
     {
@@ -1956,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 979,
       "user": "jxnxts"
     },
     {
@@ -1971,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5421,
+      "stars": 5422,
       "user": "larksuite"
     },
     {

@@ -30,17 +30,17 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
-
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **Cloud**: 🟦🟦🟦 7 (6.7%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
-
 **Database**: 🟦🟦 5 (4.8%)
+
+**WebDev**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.1 (26.1%)
-Go              ███████████████████████████ 23.9 (23.9%)
-Java            ██████████████████████████ 22.8 (22.8%)
-Python          ████████████████████████ 20.7 (20.7%)
+JavaScript      ██████████████████████████████ 25.6 (25.6%)
+Go              █████████████████████████████ 24.4 (24.4%)
+Java            ██████████████████████████ 22.2 (22.2%)
+Python          █████████████████████████ 21.1 (21.1%)
 Rust            ███ 2.2 (2.2%)
 CSharp          ███ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
@@ -73,9 +73,9 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
+    "JavaScript" : 23
     "Go" : 22
-    "Java" : 21
+    "Java" : 20
     "Python" : 19
     "Rust" : 2
     "CSharp" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![career](https://img.shields.io/badge/career-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![career](https://img.shields.io/badge/career-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-31 21:00 CAT)
+## 📅 Latest Updates (2026-03-31 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -135,10 +135,39 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0v180y7bjqsuz9wtrknl.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+      <br/>
+      <b>Top 7 Featured DEV Posts of the Week</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgtax69bmxnbmofdfmhj.png" width="200" alt="What is your WPM (Words per Minute)? #1" />
       <br/>
       <b>What is your WPM (Words per Minute)? #1</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/jess/a-year-of-change-and-persistence-19cf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6zl5vrltudjljxwf5mf.png" width="200" alt="A Year of Change and Persistence" />
+      <br/>
+      <b>A Year of Change and Persistence</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png" width="200" alt="Surviving as a Human in the Age of AI" />
+      <br/>
+      <b>Surviving as a Human in the Age of AI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -153,39 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png" width="200" alt="Surviving as a Human in the Age of AI" />
-      <br/>
-      <b>Surviving as a Human in the Age of AI</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/jess/a-year-of-change-and-persistence-19cf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6zl5vrltudjljxwf5mf.png" width="200" alt="A Year of Change and Persistence" />
-      <br/>
-      <b>A Year of Change and Persistence</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg" width="200" alt="What are your goals for the week? #172" />
       <br/>
       <b>What are your goals for the week? #172</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/implementing-a-rag-system-walk-4h76">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg89xhp7lrasjb54etzb.png" width="200" alt="Implementing a RAG system: Walk" />
-      <br/>
-      <b>Implementing a RAG system: Walk</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,10 +197,11 @@ npm run test
 
 ### 📰 Top Headlines
 
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) _[Dev.to]_
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
-- [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
-- [Surviving as a Human in the Age of AI](https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b) _[Dev.to]_
 - [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf) _[Dev.to]_
+- [Surviving as a Human in the Age of AI](https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b) _[Dev.to]_
+- [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
 - [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
 - [Implementing a RAG system: Walk](https://dev.to/gde/implementing-a-rag-system-walk-4h76) _[Dev.to]_
 - [Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs](https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j) _[Dev.to]_
@@ -216,9 +217,8 @@ npm run test
 - [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib) _[Dev.to]_
 - [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m) _[Dev.to]_
 - [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
-- [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e) _[Dev.to]_
 
-_Last automated update: Tue, 31 Mar 2026 21:18:47 CAT_
+_Last automated update: Tue, 31 Mar 2026 22:03:43 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 31 Mar 2026 21:18:47 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Execution timing, event loop phases
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 31 Mar 2026 19:18:47 GMT</b><br/>
+  <b>Last automated update: Tue, 31 Mar 2026 20:03:43 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
