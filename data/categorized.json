@@ -30,6 +30,35 @@
       "user": "Jen Looper"
     },
     {
+      "title": "Implementing a RAG system: Walk",
+      "url": "https://dev.to/gde/implementing-a-rag-system-walk-4h76",
+      "published_at": "2026-03-31T17:00:00Z",
+      "description": "Now that we've established the basics in our \"Crawl\" phase, it's time to pick up the pace. In this...",
+      "tags": [
+        "rag",
+        "genai",
+        "opensource",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg89xhp7lrasjb54etzb.png",
+      "source": "Dev.to",
+      "user": "Glen Yu"
+    },
+    {
+      "title": "Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs",
+      "url": "https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j",
+      "published_at": "2026-03-31T18:56:42Z",
+      "description": "In our agent factory holiday special, Don McCasland and I were joined by Kyle Meggs, Senior Product...",
+      "tags": [
+        "ai",
+        "agents",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftku7qy5qx6zykj23of00.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Prompt Stuffing Is Killing Your Agent",
       "url": "https://dev.to/wassimchegham/agentic-rag-done-right-4846",
       "published_at": "2026-03-30T15:49:49Z",
@@ -204,34 +233,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
       "source": "Dev.to",
       "user": "Ivan SZKIBA"
-    },
-    {
-      "title": "Vibe with Code: Plan First, Build Second",
-      "url": "https://dev.to/abarron/vibe-with-code-plan-first-build-second-3n8o",
-      "published_at": "2026-03-29T03:18:42Z",
-      "description": "The most expensive mistake engineers make with AI isn't the code. It's skipping the plan.  Software...",
-      "tags": [
-        "ai",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw13w4i0cx5504ale5vbw.png",
-      "source": "Dev.to",
-      "user": "Ava Barron"
-    },
-    {
-      "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
-      "url": "https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef",
-      "published_at": "2026-03-30T08:15:13Z",
-      "description": "Every AI chat app has the same bug. You've felt it. That stuttering scrollbar, the content jumping,...",
-      "tags": [
-        "llm",
-        "performance",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7doe6hbjvi676m1thodg.jpg",
-      "source": "Dev.to",
-      "user": "JAI"
     },
     {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
@@ -669,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5150,
+      "stars": 5260,
       "user": "openai"
     },
     {
@@ -684,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "meodai"
     },
     {
@@ -714,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5410,
+      "stars": 5421,
       "user": "larksuite"
     },
     {
@@ -1016,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5150,
+      "stars": 5260,
       "user": "openai"
     },
     {
@@ -1031,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2540,
+      "stars": 2542,
       "user": "magnum6actual"
     },
     {
@@ -1046,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 355,
       "user": "6551Team"
     },
     {
@@ -1061,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "meodai"
     },
     {
@@ -1261,21 +1262,6 @@
       "user": "gilad"
     },
     {
-      "title": "instructkr/claw-code - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.",
-      "url": "https://github.com/instructkr/claw-code",
-      "published_at": "2026-03-31T08:58:08Z",
-      "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164172344?v=4",
-      "source": "GitHub",
-      "stars": 44424,
-      "user": "instructkr"
-    },
-    {
       "title": "TheTom/turboquant_plus - GitHub Repository",
       "url": "https://github.com/TheTom/turboquant_plus",
       "published_at": "2026-03-25T01:35:36Z",
@@ -1287,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3560,
+      "stars": 3608,
       "user": "TheTom"
     },
     {
@@ -1302,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3300,
+      "stars": 3308,
       "user": "titanwings"
     },
     {
@@ -1317,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1587,
+      "stars": 1595,
       "user": "garinasset"
     },
     {
@@ -1334,6 +1320,21 @@
       "source": "GitHub",
       "stars": 979,
       "user": "oaker-io"
+    },
+    {
+      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "published_at": "2026-03-26T00:38:54Z",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
+      "source": "GitHub",
+      "stars": 978,
+      "user": "jxnxts"
     }
   ],
   "DevOps": [
@@ -1500,21 +1501,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
-      "url": "https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b",
-      "published_at": "2026-03-22T22:31:46Z",
-      "description": "We wanted every employee in the company to use OpenClaw — not just engineers. Product managers...",
-      "tags": [
-        "opensource",
-        "openclaw",
-        "aws",
-        "cdk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png",
-      "source": "Dev.to",
-      "user": "C.K.Sun"
     },
     {
       "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
@@ -1835,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5150,
+      "stars": 5260,
       "user": "openai"
     },
     {
@@ -1850,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2540,
+      "stars": 2542,
       "user": "magnum6actual"
     },
     {
@@ -1865,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 355,
       "user": "6551Team"
     },
     {
@@ -1880,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "meodai"
     },
     {
@@ -1899,21 +1885,6 @@
       "user": "cdppcorp"
     },
     {
-      "title": "instructkr/claw-code - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.",
-      "url": "https://github.com/instructkr/claw-code",
-      "published_at": "2026-03-31T08:58:08Z",
-      "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164172344?v=4",
-      "source": "GitHub",
-      "stars": 44424,
-      "user": "instructkr"
-    },
-    {
       "title": "TheTom/turboquant_plus - GitHub Repository",
       "url": "https://github.com/TheTom/turboquant_plus",
       "published_at": "2026-03-25T01:35:36Z",
@@ -1925,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3560,
+      "stars": 3608,
       "user": "TheTom"
     },
     {
@@ -1940,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3300,
+      "stars": 3308,
       "user": "titanwings"
     },
     {
@@ -1955,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1587,
+      "stars": 1595,
       "user": "garinasset"
     },
     {
@@ -1974,6 +1945,21 @@
       "user": "oaker-io"
     },
     {
+      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "published_at": "2026-03-26T00:38:54Z",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
+      "source": "GitHub",
+      "stars": 978,
+      "user": "jxnxts"
+    },
+    {
       "title": "larksuite/cli - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
       "url": "https://github.com/larksuite/cli",
       "published_at": "2026-03-25T07:13:30Z",
@@ -1985,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5410,
+      "stars": 5421,
       "user": "larksuite"
     },
     {
@@ -2000,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "vkhanhqui"
     },
     {
