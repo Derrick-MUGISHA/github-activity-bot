@@ -15,21 +15,6 @@
       "user": "martin rojas"
     },
     {
-      "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
-      "url": "https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef",
-      "published_at": "2026-03-30T08:15:13Z",
-      "description": "Every AI chat app has the same bug. You've felt it. That stuttering scrollbar, the content jumping,...",
-      "tags": [
-        "llm",
-        "performance",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7doe6hbjvi676m1thodg.jpg",
-      "source": "Dev.to",
-      "user": "JAI"
-    },
-    {
       "title": "Prompt Stuffing Is Killing Your Agent",
       "url": "https://dev.to/wassimchegham/agentic-rag-done-right-4846",
       "published_at": "2026-03-30T15:49:49Z",
@@ -43,6 +28,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png",
       "source": "Dev.to",
       "user": "Wassim Chegham"
+    },
+    {
+      "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
+      "url": "https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef",
+      "published_at": "2026-03-30T08:15:13Z",
+      "description": "Every AI chat app has the same bug. You've felt it. That stuttering scrollbar, the content jumping,...",
+      "tags": [
+        "llm",
+        "performance",
+        "showdev",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7doe6hbjvi676m1thodg.jpg",
+      "source": "Dev.to",
+      "user": "JAI"
     },
     {
       "title": "What is ‘Harness Design’ and why does it matter",
@@ -220,21 +220,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
       "source": "Dev.to",
       "user": "Taiwrash"
-    },
-    {
-      "title": "Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You",
-      "url": "https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o",
-      "published_at": "2026-03-29T02:07:26Z",
-      "description": "Background   Google released Gemini 3.1 Flash Live at the end of March 2026 March,...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fal3uz3ais1bhoa46em0p.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -670,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 3896,
+      "stars": 4057,
       "user": "openai"
     },
     {
@@ -685,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "meodai"
     },
     {
@@ -700,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 158,
       "user": "midudev"
     },
     {
@@ -715,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 968,
       "user": "oaker-io"
     },
     {
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5226,
+      "stars": 5251,
       "user": "larksuite"
     },
     {
@@ -824,6 +809,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
+    },
+    {
+      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
+      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+      "published_at": "2026-03-23T05:48:13Z",
+      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "react",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
+      "source": "Dev.to",
+      "user": "Satish Gowda"
     },
     {
       "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
@@ -1032,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 3896,
+      "stars": 4057,
       "user": "openai"
     },
     {
@@ -1047,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2530,
+      "stars": 2531,
       "user": "magnum6actual"
     },
     {
@@ -1062,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "meodai"
     },
     {
@@ -1077,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "cdppcorp"
     },
     {
@@ -1092,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 158,
       "user": "midudev"
     }
   ],
@@ -1111,21 +1111,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fahmed-elnaggar%2Ftorchax-huggingface%2Fmain%2Fassets%2Fcover-image.png",
       "source": "Dev.to",
       "user": "Ahmed Elnaggar"
-    },
-    {
-      "title": "Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You",
-      "url": "https://dev.to/gde/gemini-31-real-world-voice-recognition-with-flash-live-making-your-line-bot-understand-you-560o",
-      "published_at": "2026-03-29T02:07:26Z",
-      "description": "Background   Google released Gemini 3.1 Flash Live at the end of March 2026 March,...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fal3uz3ais1bhoa46em0p.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
@@ -1303,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 2826,
+      "stars": 2963,
       "user": "TheTom"
     },
     {
@@ -1318,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 2650,
+      "stars": 2788,
       "user": "titanwings"
     },
     {
@@ -1333,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1350,
       "user": "garinasset"
     },
     {
@@ -1348,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 968,
       "user": "oaker-io"
     },
     {
@@ -1363,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 953,
       "user": "jxnxts"
     }
   ],
@@ -1428,6 +1413,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
       "source": "Dev.to",
       "user": "Ben Evans"
+    },
+    {
+      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
+      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+      "published_at": "2026-03-23T05:48:13Z",
+      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "react",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
+      "source": "Dev.to",
+      "user": "Satish Gowda"
     },
     {
       "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 3896,
+      "stars": 4057,
       "user": "openai"
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2530,
+      "stars": 2531,
       "user": "magnum6actual"
     },
     {
@@ -1854,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "meodai"
     },
     {
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "cdppcorp"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 158,
       "user": "midudev"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 2826,
+      "stars": 2963,
       "user": "TheTom"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 2650,
+      "stars": 2788,
       "user": "titanwings"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1350,
       "user": "garinasset"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 968,
       "user": "oaker-io"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 953,
       "user": "jxnxts"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5226,
+      "stars": 5251,
       "user": "larksuite"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "vkhanhqui"
     },
     {

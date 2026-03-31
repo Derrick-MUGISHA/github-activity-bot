@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **Cloud**: 🟦🟦🟦 7 (6.7%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
-**Database**: 🟦 4 (3.8%)
+**Database**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.3 (25.3%)
-Go              █████████████████████████████ 24.2 (24.2%)
-Java            ██████████████████████████ 22.1 (22.1%)
-Python          █████████████████████████ 21.1 (21.1%)
+JavaScript      ██████████████████████████████ 26.3 (26.3%)
+Go              ██████████████████████████ 23.2 (23.2%)
+Java            ██████████████████████████ 23.2 (23.2%)
+Python          ███████████████████████ 20.0 (20.0%)
 Rust            ██ 2.1 (2.1%)
 CSharp          ██ 2.1 (2.1%)
 Ruby            █ 1.1 (1.1%)
@@ -74,10 +74,10 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Go" : 23
-    "Java" : 21
-    "Python" : 20
+    "JavaScript" : 25
+    "Go" : 22
+    "Java" : 22
+    "Python" : 19
     "Rust" : 2
     "CSharp" : 2
     "Ruby" : 1
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-31 12:00 CAT)
+## 📅 Latest Updates (2026-03-31 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -174,19 +174,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7doe6hbjvi676m1thodg.jpg" width="200" alt="I Eliminated Layout Jitter From LLM Streaming — Here's How" />
+    <a href="https://dev.to/wassimchegham/agentic-rag-done-right-4846">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png" width="200" alt="Prompt Stuffing Is Killing Your Agent" />
       <br/>
-      <b>I Eliminated Layout Jitter From LLM Streaming — He...</b>
+      <b>Prompt Stuffing Is Killing Your Agent</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/wassimchegham/agentic-rag-done-right-4846">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png" width="200" alt="Prompt Stuffing Is Killing Your Agent" />
+    <a href="https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7doe6hbjvi676m1thodg.jpg" width="200" alt="I Eliminated Layout Jitter From LLM Streaming — Here's How" />
       <br/>
-      <b>Prompt Stuffing Is Killing Your Agent</b>
+      <b>I Eliminated Layout Jitter From LLM Streaming — He...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,8 +202,8 @@ npm run test
 - [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
 - [How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d) _[Dev.to]_
 - [The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern](https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4) _[Dev.to]_
-- [I Eliminated Layout Jitter From LLM Streaming — Here's How](https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef) _[Dev.to]_
 - [Prompt Stuffing Is Killing Your Agent](https://dev.to/wassimchegham/agentic-rag-done-right-4846) _[Dev.to]_
+- [I Eliminated Layout Jitter From LLM Streaming — Here's How](https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef) _[Dev.to]_
 - [What is ‘Harness Design’ and why does it matter](https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj) _[Dev.to]_
 - [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
 - [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]](https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck) _[Dev.to]_
 - [Async without async](https://dev.to/szymongib/async-without-async-eik) _[Dev.to]_
 
-_Last automated update: Tue, 31 Mar 2026 12:06:11 CAT_
+_Last automated update: Tue, 31 Mar 2026 13:10:08 CAT_
 
 
 
@@ -227,18 +227,29 @@ _Last automated update: Tue, 31 Mar 2026 12:06:11 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 3. Database: Explain database indexing and when to use it
 
 **Difficulty**: Medium | **Topics**: optimization, performance
 
@@ -246,17 +257,6 @@ Execution timing, event loop phases
 <summary>💡 Hint</summary>
 
 B-tree, trade-offs, query performance
-
-</details>
-
-### 3. DataStructures: Implement LRU Cache
-
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
-
-<details>
-<summary>💡 Hint</summary>
-
-Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 31 Mar 2026 10:06:11 GMT</b><br/>
+  <b>Last automated update: Tue, 31 Mar 2026 11:10:08 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
