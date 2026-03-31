@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
@@ -40,11 +40,11 @@
 
 **WebDev**: 🟦🟦 6 (5.7%)
 
-**Database**: 🟦🟦 4 (3.8%)
-
-**Security**: 🟦 3 (2.9%)
+**Database**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦 2 (1.9%)
+
+**Security**: 🟦 2 (1.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.3 (26.3%)
-Go              ██████████████████████████ 23.2 (23.2%)
-Java            ██████████████████████████ 23.2 (23.2%)
-Python          ███████████████████████ 20.0 (20.0%)
-Rust            ██ 2.1 (2.1%)
-CSharp          ██ 2.1 (2.1%)
+JavaScript      ██████████████████████████████ 26.4 (26.4%)
+Java            ██████████████████████████ 23.1 (23.1%)
+Go              █████████████████████████ 22.0 (22.0%)
+Python          ████████████████████████ 20.9 (20.9%)
+Rust            ███ 2.2 (2.2%)
+CSharp          ███ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -74,9 +74,9 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 25
-    "Go" : 22
-    "Java" : 22
+    "JavaScript" : 24
+    "Java" : 21
+    "Go" : 20
     "Python" : 19
     "Rust" : 2
     "CSharp" : 2
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![career](https://img.shields.io/badge/career-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-03-31 15:00 CAT)
+## 📅 Latest Updates (2026-03-31 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -154,10 +154,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21jzh6a4lcwoa1q6cqy5.png" width="200" alt="Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads" />
+    <a href="https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png" width="200" alt="Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂" />
       <br/>
-      <b>Cloud Run Jobs vs. Cloud Batch: Choosing Your Engi...</b>
+      <b>Big performance upgrade in DEV/Forem tag queries s...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -165,10 +165,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg" width="200" alt="The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern" />
+    <a href="https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png" width="200" alt="Surviving as a Human in the Age of AI" />
       <br/>
-      <b>The Excel Moment: Why Every Profession That Absorb...</b>
+      <b>Surviving as a Human in the Age of AI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -183,10 +183,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7doe6hbjvi676m1thodg.jpg" width="200" alt="I Eliminated Layout Jitter From LLM Streaming — Here's How" />
+    <a href="https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21jzh6a4lcwoa1q6cqy5.png" width="200" alt="Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads" />
       <br/>
-      <b>I Eliminated Layout Jitter From LLM Streaming — He...</b>
+      <b>Cloud Run Jobs vs. Cloud Batch: Choosing Your Engi...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,26 +200,26 @@ npm run test
 
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
 - [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
-- [Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo) _[Dev.to]_
-- [The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern](https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4) _[Dev.to]_
+- [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
+- [Surviving as a Human in the Age of AI](https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b) _[Dev.to]_
 - [Prompt Stuffing Is Killing Your Agent](https://dev.to/wassimchegham/agentic-rag-done-right-4846) _[Dev.to]_
-- [I Eliminated Layout Jitter From LLM Streaming — Here's How](https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef) _[Dev.to]_
-- [What is ‘Harness Design’ and why does it matter](https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj) _[Dev.to]_
+- [Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo) _[Dev.to]_
+- [building an atomic bomberman clone, part 1: why rust, why now](https://dev.to/tomerl1/im-rebuilding-a-90s-lan-game-in-rust-to-finally-learn-it-5eo8) _[Dev.to]_
 - [How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d) _[Dev.to]_
 - [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
 - [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb) _[Dev.to]_
-- [Run Any HuggingFace Model on TPUs: A Beginner's Guide to TorchAX](https://dev.to/gde/run-any-huggingface-model-on-tpus-a-beginners-guide-to-torchax-4ln0) _[Dev.to]_
+- [The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern](https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4) _[Dev.to]_
 - [Understanding Object-Oriented Programming in JavaScript](https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e) _[Dev.to]_
-- [With the advent of AI, is there still a need for Frontend Engineers?](https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm) _[Dev.to]_
 - [Midnight network is live](https://dev.to/devsofmidnight/midnight-network-is-live-1apj) _[Dev.to]_
-- [building an atomic bomberman clone, part 1: why rust, why now](https://dev.to/tomerl1/im-rebuilding-a-90s-lan-game-in-rust-to-finally-learn-it-5eo8) _[Dev.to]_
-- [Meme Monday](https://dev.to/ben/meme-monday-o5i) _[Dev.to]_
 - [I'm so sick of my editor telling me how great I am. Not that I'm not great.](https://dev.to/ben/im-so-sick-of-my-editor-telling-me-how-great-i-am-not-that-im-not-great-2oam) _[Dev.to]_
-- [Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent](https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij) _[Dev.to]_
-- [String Polyfills & Common Interview Methods in JavaScript](https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g) _[Dev.to]_
-- [Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]](https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck) _[Dev.to]_
+- [Async without async](https://dev.to/szymongib/async-without-async-eik) _[Dev.to]_
+- [Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.](https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31) _[Dev.to]_
+- [Long-Horizon Agents Are Here. Full Autopilot Isn't](https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7) _[Dev.to]_
+- [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib) _[Dev.to]_
+- [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m) _[Dev.to]_
+- [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip) _[Dev.to]_
 
-_Last automated update: Tue, 31 Mar 2026 15:51:52 CAT_
+_Last automated update: Tue, 31 Mar 2026 16:58:35 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Tue, 31 Mar 2026 15:51:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 31 Mar 2026 13:51:52 GMT</b><br/>
+  <b>Last automated update: Tue, 31 Mar 2026 14:58:35 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
