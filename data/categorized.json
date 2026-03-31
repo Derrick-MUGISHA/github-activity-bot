@@ -75,21 +75,6 @@
       "user": "baltz"
     },
     {
-      "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
-      "published_at": "2026-03-30T08:48:00Z",
-      "description": "We've all been there, where you have 60 seconds before your next meeting starts. You're searching...",
-      "tags": [
-        "googleworkspace",
-        "workspacestudio",
-        "gemini",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
       "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
       "published_at": "2026-03-30T06:21:06Z",
@@ -132,6 +117,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
       "source": "Dev.to",
       "user": "OlumideSamuel"
+    },
+    {
+      "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
+      "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
+      "published_at": "2026-03-30T08:48:00Z",
+      "description": "We've all been there, where you have 60 seconds before your next meeting starts. You're searching...",
+      "tags": [
+        "googleworkspace",
+        "workspacestudio",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]",
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 1925,
       "user": "openai"
     },
     {
@@ -701,8 +701,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 316,
       "user": "meodai"
+    },
+    {
+      "title": "midudev/autoskills - One command. Your entire AI skill stack. Installed.",
+      "url": "https://github.com/midudev/autoskills",
+      "published_at": "2026-03-25T10:25:34Z",
+      "description": "One command. Your entire AI skill stack. Installed.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
+      "source": "GitHub",
+      "stars": 141,
+      "user": "midudev"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -716,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 940,
       "user": "oaker-io"
     },
     {
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4616,
+      "stars": 4774,
       "user": "larksuite"
     },
     {
@@ -748,6 +763,21 @@
       "source": "GitHub",
       "stars": 144,
       "user": "bhope"
+    },
+    {
+      "title": "veyliss/ai-localbase - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+      "url": "https://github.com/veyliss/ai-localbase",
+      "published_at": "2026-03-25T03:42:43Z",
+      "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
+      "source": "GitHub",
+      "stars": 128,
+      "user": "veyliss"
     }
   ],
   "JavaScript": [
@@ -1018,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2510,
+      "stars": 2520,
       "user": "magnum6actual"
     },
     {
@@ -1033,23 +1063,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 1925,
       "user": "openai"
-    },
-    {
-      "title": "NomaDamas/k-skill - 한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
-      "url": "https://github.com/NomaDamas/k-skill",
-      "published_at": "2026-03-24T16:39:30Z",
-      "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
-      "source": "GitHub",
-      "stars": 812,
-      "user": "NomaDamas"
     },
     {
       "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
@@ -1063,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 316,
       "user": "meodai"
     },
     {
@@ -1078,8 +1093,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "cdppcorp"
+    },
+    {
+      "title": "midudev/autoskills - One command. Your entire AI skill stack. Installed.",
+      "url": "https://github.com/midudev/autoskills",
+      "published_at": "2026-03-25T10:25:34Z",
+      "description": "One command. Your entire AI skill stack. Installed.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
+      "source": "GitHub",
+      "stars": 141,
+      "user": "midudev"
     }
   ],
   "Python": [
@@ -1278,21 +1308,6 @@
       "user": "gilad"
     },
     {
-      "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "url": "https://github.com/HKUDS/OpenSpace",
-      "published_at": "2026-03-24T08:01:49Z",
-      "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 2860,
-      "user": "HKUDS"
-    },
-    {
       "title": "TheTom/turboquant_plus - GitHub Repository",
       "url": "https://github.com/TheTom/turboquant_plus",
       "published_at": "2026-03-25T01:35:36Z",
@@ -1304,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 2061,
       "user": "TheTom"
     },
     {
@@ -1319,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 945,
       "user": "jxnxts"
     },
     {
@@ -1334,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 940,
       "user": "oaker-io"
     },
     {
@@ -1349,8 +1364,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 927,
       "user": "garinasset"
+    },
+    {
+      "title": "titanwings/colleague-skill - 你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类",
+      "url": "https://github.com/titanwings/colleague-skill",
+      "published_at": "2026-03-30T05:22:23Z",
+      "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
+      "source": "GitHub",
+      "stars": 762,
+      "user": "titanwings"
     }
   ],
   "DevOps": [
@@ -1461,6 +1491,20 @@
   "Mobile": [],
   "Cloud": [
     {
+      "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
+      "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
+      "published_at": "2026-03-29T04:13:52Z",
+      "description": "Introduction  In the early stages of learning cloud development, it’s tempting to just \"make it work\"...",
+      "tags": [
+        "devops",
+        "cloud",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
+      "source": "Dev.to",
+      "user": "Ajadi Olalekan Jamiu"
+    },
+    {
       "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
       "published_at": "2026-03-30T08:48:00Z",
@@ -1474,20 +1518,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
-    },
-    {
-      "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
-      "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
-      "published_at": "2026-03-29T04:13:52Z",
-      "description": "Introduction  In the early stages of learning cloud development, it’s tempting to just \"make it work\"...",
-      "tags": [
-        "devops",
-        "cloud",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
-      "source": "Dev.to",
-      "user": "Ajadi Olalekan Jamiu"
     },
     {
       "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
@@ -1563,21 +1593,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "url": "https://github.com/HKUDS/OpenSpace",
-      "published_at": "2026-03-24T08:01:49Z",
-      "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 2860,
-      "user": "HKUDS"
     }
   ],
   "Database": [
@@ -1839,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2510,
+      "stars": 2520,
       "user": "magnum6actual"
     },
     {
@@ -1854,23 +1869,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 1925,
       "user": "openai"
-    },
-    {
-      "title": "NomaDamas/k-skill - 한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
-      "url": "https://github.com/NomaDamas/k-skill",
-      "published_at": "2026-03-24T16:39:30Z",
-      "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/140389712?v=4",
-      "source": "GitHub",
-      "stars": 812,
-      "user": "NomaDamas"
     },
     {
       "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 316,
       "user": "meodai"
     },
     {
@@ -1899,23 +1899,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "cdppcorp"
     },
     {
-      "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "url": "https://github.com/HKUDS/OpenSpace",
-      "published_at": "2026-03-24T08:01:49Z",
-      "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+      "title": "midudev/autoskills - One command. Your entire AI skill stack. Installed.",
+      "url": "https://github.com/midudev/autoskills",
+      "published_at": "2026-03-25T10:25:34Z",
+      "description": "One command. Your entire AI skill stack. Installed.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 2860,
-      "user": "HKUDS"
+      "stars": 141,
+      "user": "midudev"
     },
     {
       "title": "TheTom/turboquant_plus - GitHub Repository",
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 2061,
       "user": "TheTom"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 945,
       "user": "jxnxts"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 940,
       "user": "oaker-io"
     },
     {
@@ -1974,8 +1974,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 927,
       "user": "garinasset"
+    },
+    {
+      "title": "titanwings/colleague-skill - 你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类",
+      "url": "https://github.com/titanwings/colleague-skill",
+      "published_at": "2026-03-30T05:22:23Z",
+      "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
+      "source": "GitHub",
+      "stars": 762,
+      "user": "titanwings"
     },
     {
       "title": "larksuite/cli - A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
@@ -1989,23 +2004,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4616,
+      "stars": 4774,
       "user": "larksuite"
     },
     {
-      "title": "james-6-23/codex2api - GitHub Repository",
-      "url": "https://github.com/james-6-23/codex2api",
-      "published_at": "2026-03-24T00:07:29Z",
-      "description": "Trending GitHub Repository",
+      "title": "vkhanhqui/figma-mcp-go - Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
+      "url": "https://github.com/vkhanhqui/figma-mcp-go",
+      "published_at": "2026-03-26T11:06:26Z",
+      "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/117309869?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 368,
-      "user": "james-6-23"
+      "stars": 147,
+      "user": "vkhanhqui"
     },
     {
       "title": "bhope/hedge - Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
@@ -2023,34 +2038,34 @@
       "user": "bhope"
     },
     {
-      "title": "vkhanhqui/figma-mcp-go - Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
-      "url": "https://github.com/vkhanhqui/figma-mcp-go",
-      "published_at": "2026-03-26T11:06:26Z",
-      "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
+      "title": "veyliss/ai-localbase - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+      "url": "https://github.com/veyliss/ai-localbase",
+      "published_at": "2026-03-25T03:42:43Z",
+      "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
       "source": "GitHub",
-      "stars": 138,
-      "user": "vkhanhqui"
+      "stars": 128,
+      "user": "veyliss"
     },
     {
-      "title": "lich0821/wcfLink - GitHub Repository",
-      "url": "https://github.com/lich0821/wcfLink",
-      "published_at": "2026-03-24T12:37:36Z",
-      "description": "Trending GitHub Repository",
+      "title": "EvolutionAPI/evolution-go - Evolution API / Evolution Go is an open-source WhatsApp integration API",
+      "url": "https://github.com/EvolutionAPI/evolution-go",
+      "published_at": "2026-03-25T14:43:56Z",
+      "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/87742696?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/136080052?v=4",
       "source": "GitHub",
-      "stars": 130,
-      "user": "lich0821"
+      "stars": 120,
+      "user": "EvolutionAPI"
     }
   ]
 }
