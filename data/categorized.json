@@ -45,20 +45,6 @@
       "user": "Glen Yu"
     },
     {
-      "title": "Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs",
-      "url": "https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j",
-      "published_at": "2026-03-31T18:56:42Z",
-      "description": "In our agent factory holiday special, Don McCasland and I were joined by Kyle Meggs, Senior Product...",
-      "tags": [
-        "ai",
-        "agents",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftku7qy5qx6zykj23of00.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
       "url": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
       "published_at": "2026-03-31T17:49:54Z",
@@ -87,6 +73,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png",
       "source": "Dev.to",
       "user": "Wassim Chegham"
+    },
+    {
+      "title": "Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs",
+      "url": "https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j",
+      "published_at": "2026-03-31T18:56:42Z",
+      "description": "In our agent factory holiday special, Don McCasland and I were joined by Kyle Meggs, Senior Product...",
+      "tags": [
+        "ai",
+        "agents",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftku7qy5qx6zykj23of00.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "TERSE — A New Serialization Format Built for LLMs",
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5402,
+      "stars": 5453,
       "user": "openai"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "meodai"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5424,
+      "stars": 5428,
       "user": "larksuite"
     },
     {
@@ -1005,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5402,
+      "stars": 5453,
       "user": "openai"
     },
     {
@@ -1035,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "6551Team"
     },
     {
@@ -1050,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "meodai"
     },
     {
@@ -1065,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "cdppcorp"
     }
   ],
@@ -1261,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3682,
+      "stars": 3707,
       "user": "TheTom"
     },
     {
@@ -1276,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3320,
+      "stars": 3325,
       "user": "titanwings"
     },
     {
@@ -1291,8 +1291,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1601,
+      "stars": 1605,
       "user": "garinasset"
+    },
+    {
+      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "published_at": "2026-03-26T00:38:54Z",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
+      "source": "GitHub",
+      "stars": 981,
+      "user": "jxnxts"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -1308,21 +1323,6 @@
       "source": "GitHub",
       "stars": 980,
       "user": "oaker-io"
-    },
-    {
-      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
-      "url": "https://github.com/jxnxts/mcp-brasil",
-      "published_at": "2026-03-26T00:38:54Z",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
-      "source": "GitHub",
-      "stars": 979,
-      "user": "jxnxts"
     }
   ],
   "DevOps": [
@@ -1830,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5402,
+      "stars": 5453,
       "user": "openai"
     },
     {
@@ -1860,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "6551Team"
     },
     {
@@ -1875,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "meodai"
     },
     {
@@ -1890,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "cdppcorp"
     },
     {
@@ -1905,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3682,
+      "stars": 3707,
       "user": "TheTom"
     },
     {
@@ -1920,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3320,
+      "stars": 3325,
       "user": "titanwings"
     },
     {
@@ -1935,8 +1935,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1601,
+      "stars": 1605,
       "user": "garinasset"
+    },
+    {
+      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "published_at": "2026-03-26T00:38:54Z",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
+      "source": "GitHub",
+      "stars": 981,
+      "user": "jxnxts"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -1954,21 +1969,6 @@
       "user": "oaker-io"
     },
     {
-      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
-      "url": "https://github.com/jxnxts/mcp-brasil",
-      "published_at": "2026-03-26T00:38:54Z",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
-      "source": "GitHub",
-      "stars": 979,
-      "user": "jxnxts"
-    },
-    {
       "title": "larksuite/cli - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
       "url": "https://github.com/larksuite/cli",
       "published_at": "2026-03-25T07:13:30Z",
@@ -1980,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5424,
+      "stars": 5428,
       "user": "larksuite"
     },
     {
