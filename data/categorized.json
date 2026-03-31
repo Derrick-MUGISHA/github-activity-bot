@@ -30,21 +30,6 @@
       "user": "martin rojas"
     },
     {
-      "title": "Midnight network is live",
-      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
-      "published_at": "2026-03-30T14:28:04Z",
-      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
-      "tags": [
-        "blockchain",
-        "web3",
-        "typescript",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
-      "source": "Dev.to",
-      "user": "Lauren Lee"
-    },
-    {
       "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
       "url": "https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef",
       "published_at": "2026-03-30T08:15:13Z",
@@ -119,6 +104,21 @@
       "user": "OlumideSamuel"
     },
     {
+      "title": "Midnight network is live",
+      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
+      "published_at": "2026-03-30T14:28:04Z",
+      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
+      "tags": [
+        "blockchain",
+        "web3",
+        "typescript",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
+      "source": "Dev.to",
+      "user": "Lauren Lee"
+    },
+    {
       "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
       "published_at": "2026-03-30T08:48:00Z",
@@ -162,21 +162,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
       "source": "Dev.to",
       "user": "An Pham"
-    },
-    {
-      "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
-      "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
-      "published_at": "2026-03-27T05:33:50Z",
-      "description": "Think about it. Your AI agent refactors code across 12 files, makes architectural decisions, tries...",
-      "tags": [
-        "anthropic",
-        "ai",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t3qjjyfhed329lyu81b.jpg",
-      "source": "Dev.to",
-      "user": "rpostulart"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -278,21 +263,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw13w4i0cx5504ale5vbw.png",
       "source": "Dev.to",
       "user": "Ava Barron"
-    },
-    {
-      "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
-      "url": "https://dev.to/rickcogley/learn-the-hard-way-first-why-new-developers-should-build-skills-before-leaning-on-ai-ibk",
-      "published_at": "2026-03-28T01:59:54Z",
-      "description": "Welcome to your first job, freshers. You've probably already used ChatGPT or Copilot to get through...",
-      "tags": [
-        "beginners",
-        "career",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs13ke9vghvr3ycti3eg.png",
-      "source": "Dev.to",
-      "user": "Rick Cogley"
     },
     {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
@@ -440,36 +410,6 @@
       "user": "Matt Cool"
     },
     {
-      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
-      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
-      "published_at": "2026-03-26T07:06:06Z",
-      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
-      "tags": [
-        "ai",
-        "agentskills",
-        "devtool",
-        "runnerhchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
-      "source": "Dev.to",
-      "user": "Octavian"
-    },
-    {
-      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
-      "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
-      "published_at": "2026-03-26T11:42:27Z",
-      "description": "There is a special genre of AI idea that sounds brilliant right up until you try to build it. It...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybyn85w0pm5vpakbyxxy.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
       "published_at": "2026-03-23T17:53:10Z",
@@ -541,6 +481,50 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwt2rijx7v2jzn65wiegl.png",
       "source": "Dev.to",
       "user": "Dennis Lemm"
+    },
+    {
+      "title": "The software industry is ready to grow",
+      "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
+      "published_at": "2026-03-25T18:33:04Z",
+      "description": "I don't spend a lot of time on the X these days, but I think this perspective is worth...",
+      "tags": [
+        "ai",
+        "career",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
+      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
+      "published_at": "2026-03-27T21:33:31Z",
+      "description": "We're back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...",
+      "tags": [
+        "weekendchallenge",
+        "devchallenge",
+        "hackathon",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
+      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
+      "published_at": "2026-03-28T12:17:54Z",
+      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
+      "tags": [
+        "ai",
+        "kaggle",
+        "gemini",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
+      "source": "Dev.to",
+      "user": "Ertuğrul Demir"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -686,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 2667,
       "user": "openai"
     },
     {
@@ -701,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 320,
       "user": "meodai"
     },
     {
@@ -716,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 144,
       "user": "midudev"
     },
     {
@@ -731,14 +715,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 947,
       "user": "oaker-io"
     },
     {
-      "title": "larksuite/cli - A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+      "title": "larksuite/cli - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
       "url": "https://github.com/larksuite/cli",
       "published_at": "2026-03-25T07:13:30Z",
-      "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+      "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
       "tags": [
         "go",
         "github",
@@ -746,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4774,
+      "stars": 4929,
       "user": "larksuite"
     },
     {
@@ -761,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "bhope"
     },
     {
@@ -776,26 +760,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "veyliss"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Midnight network is live",
-      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
-      "published_at": "2026-03-30T14:28:04Z",
-      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
-      "tags": [
-        "blockchain",
-        "web3",
-        "typescript",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
-      "source": "Dev.to",
-      "user": "Lauren Lee"
-    },
     {
       "title": "Understanding Object-Oriented Programming in JavaScript",
       "url": "https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e",
@@ -825,6 +794,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
       "source": "Dev.to",
       "user": "OlumideSamuel"
+    },
+    {
+      "title": "Midnight network is live",
+      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
+      "published_at": "2026-03-30T14:28:04Z",
+      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
+      "tags": [
+        "blockchain",
+        "web3",
+        "typescript",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
+      "source": "Dev.to",
+      "user": "Lauren Lee"
     },
     {
       "title": "String Polyfills & Common Interview Methods in JavaScript",
@@ -857,21 +841,6 @@
       "user": "Satish Gowda"
     },
     {
-      "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
-      "url": "https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl",
-      "published_at": "2026-03-25T21:57:51Z",
-      "description": "I purchased the domain evidenceekanem.me and hosting from GoDaddy on the same day in March 2024. By...",
-      "tags": [
-        "webdev",
-        "dotnet",
-        "nuxt",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
-      "source": "Dev.to",
-      "user": "Evidence Etinih Ekanem"
-    },
-    {
       "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
       "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
       "published_at": "2026-03-28T19:39:32Z",
@@ -885,6 +854,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
       "source": "Dev.to",
       "user": "Pascal Thormeier"
+    },
+    {
+      "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
+      "url": "https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl",
+      "published_at": "2026-03-25T21:57:51Z",
+      "description": "I purchased the domain evidenceekanem.me and hosting from GoDaddy on the same day in March 2024. By...",
+      "tags": [
+        "webdev",
+        "dotnet",
+        "nuxt",
+        "vue"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
+      "source": "Dev.to",
+      "user": "Evidence Etinih Ekanem"
     },
     {
       "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
@@ -915,6 +899,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
       "source": "Dev.to",
       "user": "Saroj Poddar"
+    },
+    {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1037,21 +1036,6 @@
       "user": "velmu"
     },
     {
-      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "url": "https://github.com/magnum6actual/flipoff",
-      "published_at": "2026-03-26T12:46:35Z",
-      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
-      "source": "GitHub",
-      "stars": 2520,
-      "user": "magnum6actual"
-    },
-    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1063,8 +1047,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 2667,
       "user": "openai"
+    },
+    {
+      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "url": "https://github.com/magnum6actual/flipoff",
+      "published_at": "2026-03-26T12:46:35Z",
+      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
+      "source": "GitHub",
+      "stars": 2524,
+      "user": "magnum6actual"
     },
     {
       "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
@@ -1078,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 320,
       "user": "meodai"
     },
     {
@@ -1093,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 204,
       "user": "cdppcorp"
     },
     {
@@ -1108,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 144,
       "user": "midudev"
     }
   ],
@@ -1319,53 +1318,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 2061,
+      "stars": 2305,
       "user": "TheTom"
-    },
-    {
-      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
-      "url": "https://github.com/jxnxts/mcp-brasil",
-      "published_at": "2026-03-26T00:38:54Z",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
-      "source": "GitHub",
-      "stars": 945,
-      "user": "jxnxts"
-    },
-    {
-      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "url": "https://github.com/oaker-io/wewrite",
-      "published_at": "2026-03-26T14:18:54Z",
-      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
-      "source": "GitHub",
-      "stars": 940,
-      "user": "oaker-io"
-    },
-    {
-      "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
-      "url": "https://github.com/garinasset/leak-check",
-      "published_at": "2026-03-27T10:26:52Z",
-      "description": "个人信息 “泄漏” 检测接口",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
-      "source": "GitHub",
-      "stars": 927,
-      "user": "garinasset"
     },
     {
       "title": "titanwings/colleague-skill - 你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类",
@@ -1379,8 +1333,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 1327,
       "user": "titanwings"
+    },
+    {
+      "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
+      "url": "https://github.com/garinasset/leak-check",
+      "published_at": "2026-03-27T10:26:52Z",
+      "description": "个人信息 “泄漏” 检测接口",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
+      "source": "GitHub",
+      "stars": 1062,
+      "user": "garinasset"
+    },
+    {
+      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "url": "https://github.com/oaker-io/wewrite",
+      "published_at": "2026-03-26T14:18:54Z",
+      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
+      "source": "GitHub",
+      "stars": 947,
+      "user": "oaker-io"
+    },
+    {
+      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "published_at": "2026-03-26T00:38:54Z",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
+      "source": "GitHub",
+      "stars": 946,
+      "user": "jxnxts"
     }
   ],
   "DevOps": [
@@ -1400,21 +1399,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "CodePen TV secrets",
-      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
-      "published_at": "2026-03-29T23:23:50Z",
-      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
-      "tags": [
-        "codepen",
-        "css",
-        "cssart",
-        "crt"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
-      "source": "Dev.to",
-      "user": "Ben Evans"
-    },
     {
       "title": "Understanding Object-Oriented Programming in JavaScript",
       "url": "https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e",
@@ -1444,6 +1428,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
       "source": "Dev.to",
       "user": "OlumideSamuel"
+    },
+    {
+      "title": "CodePen TV secrets",
+      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
+      "published_at": "2026-03-29T23:23:50Z",
+      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
+      "tags": [
+        "codepen",
+        "css",
+        "cssart",
+        "crt"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
+      "source": "Dev.to",
+      "user": "Ben Evans"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -1488,7 +1487,23 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes",
+      "url": "https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he",
+      "published_at": "2026-03-24T11:06:02Z",
+      "description": "SystemeInternational uses phantom types, affine spaces, and zero-cost abstractions to make unit misuse a compile-time error. 306 tests, 8 bytes per quantity, and unit conversions at 3 ns/op in Release.",
+      "tags": [
+        "swift",
+        "programming",
+        "opensource",
+        "types"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
+      "source": "Dev.to",
+      "user": "Henrique Sasaki Yuya"
+    }
+  ],
   "Cloud": [
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
@@ -1612,21 +1627,6 @@
       "user": "Team TigerData"
     },
     {
-      "title": "your agent can think. it can't remember.",
-      "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
-      "published_at": "2026-03-25T15:01:56Z",
-      "description": "TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...",
-      "tags": [
-        "ai",
-        "mcp",
-        "postgres",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
-      "source": "Dev.to",
-      "user": "ghost"
-    },
-    {
       "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
       "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
       "published_at": "2026-03-28T19:39:32Z",
@@ -1640,6 +1640,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
       "source": "Dev.to",
       "user": "Pascal Thormeier"
+    },
+    {
+      "title": "your agent can think. it can't remember.",
+      "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
+      "published_at": "2026-03-25T15:01:56Z",
+      "description": "TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...",
+      "tags": [
+        "ai",
+        "mcp",
+        "postgres",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
+      "source": "Dev.to",
+      "user": "ghost"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1729,21 +1744,6 @@
       "user": "baltz"
     },
     {
-      "title": "I Built Jira for AI Agents - Here's why your AI Coding Assistant needs its own project management",
-      "url": "https://dev.to/rpostulart/i-built-jira-for-ai-agents-heres-why-your-ai-coding-assistant-needs-its-own-project-management-1m5f",
-      "published_at": "2026-03-27T05:33:50Z",
-      "description": "Think about it. Your AI agent refactors code across 12 files, makes architectural decisions, tries...",
-      "tags": [
-        "anthropic",
-        "ai",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t3qjjyfhed329lyu81b.jpg",
-      "source": "Dev.to",
-      "user": "rpostulart"
-    },
-    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -1814,21 +1814,6 @@
       "user": "Rodrigo Oler"
     },
     {
-      "title": "Why most AI agent frameworks break in production (and what I’m doing differently)",
-      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
-      "published_at": "2026-03-26T07:06:06Z",
-      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and...",
-      "tags": [
-        "ai",
-        "agentskills",
-        "devtool",
-        "runnerhchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks9qphnph2080hvdcf3b.png",
-      "source": "Dev.to",
-      "user": "Octavian"
-    },
-    {
       "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
       "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
       "published_at": "2026-03-25T11:01:22Z",
@@ -1843,19 +1828,19 @@
       "user": "Leanne R"
     },
     {
-      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "url": "https://github.com/magnum6actual/flipoff",
-      "published_at": "2026-03-26T12:46:35Z",
-      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
       "tags": [
-        "javascript",
-        "github",
-        "open-source"
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
-      "source": "GitHub",
-      "stars": 2520,
-      "user": "magnum6actual"
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
     },
     {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
@@ -1869,8 +1854,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 2667,
       "user": "openai"
+    },
+    {
+      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "url": "https://github.com/magnum6actual/flipoff",
+      "published_at": "2026-03-26T12:46:35Z",
+      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
+      "source": "GitHub",
+      "stars": 2524,
+      "user": "magnum6actual"
     },
     {
       "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 320,
       "user": "meodai"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 204,
       "user": "cdppcorp"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 144,
       "user": "midudev"
     },
     {
@@ -1929,53 +1929,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 2061,
+      "stars": 2305,
       "user": "TheTom"
-    },
-    {
-      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
-      "url": "https://github.com/jxnxts/mcp-brasil",
-      "published_at": "2026-03-26T00:38:54Z",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
-      "source": "GitHub",
-      "stars": 945,
-      "user": "jxnxts"
-    },
-    {
-      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "url": "https://github.com/oaker-io/wewrite",
-      "published_at": "2026-03-26T14:18:54Z",
-      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
-      "source": "GitHub",
-      "stars": 940,
-      "user": "oaker-io"
-    },
-    {
-      "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
-      "url": "https://github.com/garinasset/leak-check",
-      "published_at": "2026-03-27T10:26:52Z",
-      "description": "个人信息 “泄漏” 检测接口",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
-      "source": "GitHub",
-      "stars": 927,
-      "user": "garinasset"
     },
     {
       "title": "titanwings/colleague-skill - 你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类",
@@ -1989,14 +1944,59 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 1327,
       "user": "titanwings"
     },
     {
-      "title": "larksuite/cli - A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+      "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
+      "url": "https://github.com/garinasset/leak-check",
+      "published_at": "2026-03-27T10:26:52Z",
+      "description": "个人信息 “泄漏” 检测接口",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
+      "source": "GitHub",
+      "stars": 1062,
+      "user": "garinasset"
+    },
+    {
+      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "url": "https://github.com/oaker-io/wewrite",
+      "published_at": "2026-03-26T14:18:54Z",
+      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
+      "source": "GitHub",
+      "stars": 947,
+      "user": "oaker-io"
+    },
+    {
+      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "published_at": "2026-03-26T00:38:54Z",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
+      "source": "GitHub",
+      "stars": 946,
+      "user": "jxnxts"
+    },
+    {
+      "title": "larksuite/cli - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
       "url": "https://github.com/larksuite/cli",
       "published_at": "2026-03-25T07:13:30Z",
-      "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+      "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
       "tags": [
         "go",
         "github",
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 4774,
+      "stars": 4929,
       "user": "larksuite"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 158,
       "user": "vkhanhqui"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "bhope"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "veyliss"
     },
     {
