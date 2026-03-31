@@ -497,21 +497,6 @@
       "user": "Ertuğrul Demir"
     },
     {
-      "title": "Agentic Engineering: Lessons Learned Vol. 2",
-      "url": "https://dev.to/duske/agentic-engineering-lessons-learned-vol-2-7mh",
-      "published_at": "2026-03-23T20:15:59Z",
-      "description": "Six months ago, we shared our first lessons learned with agentic engineering. Since then, we've...",
-      "tags": [
-        "contextengineering",
-        "agentic",
-        "llm",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lhbf5ebf5jdyxnkk048.png",
-      "source": "Dev.to",
-      "user": "Dustin"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -655,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 4233,
+      "stars": 4570,
       "user": "openai"
     },
     {
@@ -670,23 +655,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 335,
       "user": "meodai"
-    },
-    {
-      "title": "midudev/autoskills - One command. Your entire AI skill stack. Installed.",
-      "url": "https://github.com/midudev/autoskills",
-      "published_at": "2026-03-25T10:25:34Z",
-      "description": "One command. Your entire AI skill stack. Installed.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "midudev"
     },
     {
       "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -700,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 973,
       "user": "oaker-io"
     },
     {
@@ -715,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5280,
+      "stars": 5332,
       "user": "larksuite"
     },
     {
@@ -730,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "bhope"
     },
     {
@@ -745,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "veyliss"
     }
   ],
@@ -1032,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 4233,
+      "stars": 4570,
       "user": "openai"
     },
     {
@@ -1047,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2534,
+      "stars": 2536,
       "user": "magnum6actual"
     },
     {
@@ -1062,8 +1032,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 335,
       "user": "meodai"
+    },
+    {
+      "title": "6551Team/claude-code-design-guide - GitHub Repository",
+      "url": "https://github.com/6551Team/claude-code-design-guide",
+      "published_at": "2026-03-31T10:50:07Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
+      "source": "GitHub",
+      "stars": 212,
+      "user": "6551Team"
     },
     {
       "title": "cdppcorp/KESE-KIT - KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
@@ -1077,23 +1062,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 211,
       "user": "cdppcorp"
-    },
-    {
-      "title": "midudev/autoskills - One command. Your entire AI skill stack. Installed.",
-      "url": "https://github.com/midudev/autoskills",
-      "published_at": "2026-03-25T10:25:34Z",
-      "description": "One command. Your entire AI skill stack. Installed.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "midudev"
     }
   ],
   "Python": [
@@ -1277,6 +1247,21 @@
       "user": "gilad"
     },
     {
+      "title": "instructkr/claude-code - An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.",
+      "url": "https://github.com/instructkr/claude-code",
+      "published_at": "2026-03-31T08:58:08Z",
+      "description": "An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164172344?v=4",
+      "source": "GitHub",
+      "stars": 26683,
+      "user": "instructkr"
+    },
+    {
       "title": "TheTom/turboquant_plus - GitHub Repository",
       "url": "https://github.com/TheTom/turboquant_plus",
       "published_at": "2026-03-25T01:35:36Z",
@@ -1288,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3048,
+      "stars": 3226,
       "user": "TheTom"
     },
     {
@@ -1303,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 2906,
+      "stars": 3082,
       "user": "titanwings"
     },
     {
@@ -1318,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1378,
+      "stars": 1449,
       "user": "garinasset"
     },
     {
@@ -1333,26 +1318,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 973,
       "user": "oaker-io"
-    },
-    {
-      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
-      "url": "https://github.com/jxnxts/mcp-brasil",
-      "published_at": "2026-03-26T00:38:54Z",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
-      "source": "GitHub",
-      "stars": 956,
-      "user": "jxnxts"
     }
   ],
   "DevOps": [
+    {
+      "title": "Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads",
+      "url": "https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo",
+      "published_at": "2026-03-31T12:19:29Z",
+      "description": "Google Cloud offers plenty of different products and services, some of which seem to be covering...",
+      "tags": [
+        "googlecloud",
+        "gcp",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21jzh6a4lcwoa1q6cqy5.png",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
+    },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
@@ -1476,6 +1460,20 @@
   ],
   "Cloud": [
     {
+      "title": "Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads",
+      "url": "https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo",
+      "published_at": "2026-03-31T12:19:29Z",
+      "description": "Google Cloud offers plenty of different products and services, some of which seem to be covering...",
+      "tags": [
+        "googlecloud",
+        "gcp",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21jzh6a4lcwoa1q6cqy5.png",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
+    },
+    {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
       "published_at": "2026-03-29T04:13:52Z",
@@ -1592,7 +1590,7 @@
         "industrial",
         "database"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04m4zi4dq3j8uqofbc1g.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ym3q88l1wrfv1wuagus.png",
       "source": "Dev.to",
       "user": "Team TigerData"
     },
@@ -1824,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 4233,
+      "stars": 4570,
       "user": "openai"
     },
     {
@@ -1839,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2534,
+      "stars": 2536,
       "user": "magnum6actual"
     },
     {
@@ -1854,8 +1852,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 335,
       "user": "meodai"
+    },
+    {
+      "title": "6551Team/claude-code-design-guide - GitHub Repository",
+      "url": "https://github.com/6551Team/claude-code-design-guide",
+      "published_at": "2026-03-31T10:50:07Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
+      "source": "GitHub",
+      "stars": 212,
+      "user": "6551Team"
     },
     {
       "title": "cdppcorp/KESE-KIT - KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
@@ -1869,23 +1882,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 211,
       "user": "cdppcorp"
     },
     {
-      "title": "midudev/autoskills - One command. Your entire AI skill stack. Installed.",
-      "url": "https://github.com/midudev/autoskills",
-      "published_at": "2026-03-25T10:25:34Z",
-      "description": "One command. Your entire AI skill stack. Installed.",
+      "title": "instructkr/claude-code - An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.",
+      "url": "https://github.com/instructkr/claude-code",
+      "published_at": "2026-03-31T08:58:08Z",
+      "description": "An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1561955?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/164172344?v=4",
       "source": "GitHub",
-      "stars": 162,
-      "user": "midudev"
+      "stars": 26683,
+      "user": "instructkr"
     },
     {
       "title": "TheTom/turboquant_plus - GitHub Repository",
@@ -1899,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3048,
+      "stars": 3226,
       "user": "TheTom"
     },
     {
@@ -1914,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 2906,
+      "stars": 3082,
       "user": "titanwings"
     },
     {
@@ -1929,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1378,
+      "stars": 1449,
       "user": "garinasset"
     },
     {
@@ -1944,23 +1957,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 973,
       "user": "oaker-io"
-    },
-    {
-      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
-      "url": "https://github.com/jxnxts/mcp-brasil",
-      "published_at": "2026-03-26T00:38:54Z",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
-      "source": "GitHub",
-      "stars": 956,
-      "user": "jxnxts"
     },
     {
       "title": "larksuite/cli - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
@@ -1974,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5280,
+      "stars": 5332,
       "user": "larksuite"
     },
     {
@@ -1989,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 202,
       "user": "vkhanhqui"
     },
     {
@@ -2004,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "bhope"
     },
     {
@@ -2019,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "veyliss"
     },
     {
