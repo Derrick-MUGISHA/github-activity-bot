@@ -1,18 +1,33 @@
 {
   "AI": [
     {
-      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
-      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
-      "published_at": "2026-03-30T14:52:45Z",
-      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
+      "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
+      "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
+      "published_at": "2026-03-31T13:58:35Z",
+      "description": "A post by Ben Halpern",
+      "tags": [
+        "database",
+        "news",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Surviving as a Human in the Age of AI",
+      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
+      "published_at": "2026-03-31T02:43:37Z",
+      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...",
       "tags": [
         "ai",
-        "careerdevelopment",
-        "discuss"
+        "programming",
+        "career",
+        "wecoded"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
       "source": "Dev.to",
-      "user": "martin rojas"
+      "user": "Jen Looper"
     },
     {
       "title": "Prompt Stuffing Is Killing Your Agent",
@@ -30,36 +45,6 @@
       "user": "Wassim Chegham"
     },
     {
-      "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
-      "url": "https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef",
-      "published_at": "2026-03-30T08:15:13Z",
-      "description": "Every AI chat app has the same bug. You've felt it. That stuttering scrollbar, the content jumping,...",
-      "tags": [
-        "llm",
-        "performance",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7doe6hbjvi676m1thodg.jpg",
-      "source": "Dev.to",
-      "user": "JAI"
-    },
-    {
-      "title": "What is ‘Harness Design’ and why does it matter",
-      "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
-      "published_at": "2026-03-30T08:52:02Z",
-      "description": "AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
-      "source": "Dev.to",
-      "user": "baltz"
-    },
-    {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
       "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
       "published_at": "2026-03-29T09:59:19Z",
@@ -74,19 +59,18 @@
       "user": "Mezbah Alam"
     },
     {
-      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
-      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
-      "published_at": "2026-03-29T15:37:53Z",
-      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
+      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
+      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
+      "published_at": "2026-03-30T14:52:45Z",
+      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
       "tags": [
-        "frontend",
-        "javascript",
         "ai",
-        "claude"
+        "careerdevelopment",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
       "source": "Dev.to",
-      "user": "OlumideSamuel"
+      "user": "martin rojas"
     },
     {
       "title": "Midnight network is live",
@@ -104,36 +88,6 @@
       "user": "Lauren Lee"
     },
     {
-      "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
-      "published_at": "2026-03-30T08:48:00Z",
-      "description": "We've all been there, where you have 60 seconds before your next meeting starts. You're searching...",
-      "tags": [
-        "googleworkspace",
-        "workspacestudio",
-        "gemini",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
-      "title": "Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]",
-      "url": "https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck",
-      "published_at": "2026-03-29T16:35:36Z",
-      "description": "In the world of AI orchestration, it's tempting to use a Large Language Model (LLM) for every step of...",
-      "tags": [
-        "gemini",
-        "ai",
-        "tutorial",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz44ccb8ysfrceeyxy1eo.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -147,6 +101,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
       "source": "Dev.to",
       "user": "An Pham"
+    },
+    {
+      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
+      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
+      "published_at": "2026-03-30T06:21:06Z",
+      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -192,19 +161,19 @@
       "user": "xbill"
     },
     {
-      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
-      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
-      "published_at": "2026-03-30T06:21:06Z",
-      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
+      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
+      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
+      "published_at": "2026-03-29T15:37:53Z",
+      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
       "tags": [
-        "agents",
+        "frontend",
+        "javascript",
         "ai",
-        "llm",
-        "programming"
+        "claude"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
       "source": "Dev.to",
-      "user": "Maxim Saplin"
+      "user": "OlumideSamuel"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -250,6 +219,21 @@
       "user": "Ava Barron"
     },
     {
+      "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
+      "url": "https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef",
+      "published_at": "2026-03-30T08:15:13Z",
+      "description": "Every AI chat app has the same bug. You've felt it. That stuttering scrollbar, the content jumping,...",
+      "tags": [
+        "llm",
+        "performance",
+        "showdev",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7doe6hbjvi676m1thodg.jpg",
+      "source": "Dev.to",
+      "user": "JAI"
+    },
+    {
       "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
       "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
       "published_at": "2026-03-27T19:07:08Z",
@@ -263,6 +247,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
       "source": "Dev.to",
       "user": "Yash Kumar Saini"
+    },
+    {
+      "title": "What is ‘Harness Design’ and why does it matter",
+      "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
+      "published_at": "2026-03-30T08:52:02Z",
+      "description": "AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
+      "source": "Dev.to",
+      "user": "baltz"
+    },
+    {
+      "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
+      "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
+      "published_at": "2026-03-30T08:48:00Z",
+      "description": "We've all been there, where you have 60 seconds before your next meeting starts. You're searching...",
+      "tags": [
+        "googleworkspace",
+        "workspacestudio",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
+      "title": "Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]",
+      "url": "https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck",
+      "published_at": "2026-03-29T16:35:36Z",
+      "description": "In the world of AI orchestration, it's tempting to use a Large Language Model (LLM) for every step of...",
+      "tags": [
+        "gemini",
+        "ai",
+        "tutorial",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz44ccb8ysfrceeyxy1eo.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "FE/BE - Unite Them!",
@@ -640,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 4570,
+      "stars": 4748,
       "user": "openai"
     },
     {
@@ -655,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 336,
       "user": "meodai"
     },
     {
@@ -670,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 975,
       "user": "oaker-io"
     },
     {
@@ -685,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5332,
+      "stars": 5365,
       "user": "larksuite"
     },
     {
@@ -700,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "bhope"
     },
     {
@@ -736,21 +765,6 @@
       "user": "Ritam Saha"
     },
     {
-      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
-      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
-      "published_at": "2026-03-29T15:37:53Z",
-      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
-      "tags": [
-        "frontend",
-        "javascript",
-        "ai",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
-      "source": "Dev.to",
-      "user": "OlumideSamuel"
-    },
-    {
       "title": "Midnight network is live",
       "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
       "published_at": "2026-03-30T14:28:04Z",
@@ -766,19 +780,19 @@
       "user": "Lauren Lee"
     },
     {
-      "title": "String Polyfills & Common Interview Methods in JavaScript",
-      "url": "https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g",
-      "published_at": "2026-03-29T19:42:57Z",
-      "description": "Introduction: Why String Manipulation Still Matters   Imagine this: You’re in a high-stakes...",
+      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
+      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
+      "published_at": "2026-03-29T15:37:53Z",
+      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
       "tags": [
+        "frontend",
         "javascript",
-        "programming",
-        "beginners",
-        "webdev"
+        "ai",
+        "claude"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
       "source": "Dev.to",
-      "user": "Ritam Saha"
+      "user": "OlumideSamuel"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -794,6 +808,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
+    },
+    {
+      "title": "String Polyfills & Common Interview Methods in JavaScript",
+      "url": "https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g",
+      "published_at": "2026-03-29T19:42:57Z",
+      "description": "Introduction: Why String Manipulation Still Matters   Imagine this: You’re in a high-stakes...",
+      "tags": [
+        "javascript",
+        "programming",
+        "beginners",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png",
+      "source": "Dev.to",
+      "user": "Ritam Saha"
     },
     {
       "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
@@ -854,21 +883,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
       "source": "Dev.to",
       "user": "Saroj Poddar"
-    },
-    {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1002,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 4570,
+      "stars": 4748,
       "user": "openai"
     },
     {
@@ -1017,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2536,
+      "stars": 2537,
       "user": "magnum6actual"
     },
     {
@@ -1032,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 336,
       "user": "meodai"
     },
     {
@@ -1047,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 279,
       "user": "6551Team"
     },
     {
@@ -1062,7 +1076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "cdppcorp"
     }
   ],
@@ -1247,10 +1261,10 @@
       "user": "gilad"
     },
     {
-      "title": "instructkr/claude-code - An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.",
-      "url": "https://github.com/instructkr/claude-code",
+      "title": "instructkr/clawd-code - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things done. Featured in Wall Street Journal",
+      "url": "https://github.com/instructkr/clawd-code",
       "published_at": "2026-03-31T08:58:08Z",
-      "description": "An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.",
+      "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things done. Featured in Wall Street Journal",
       "tags": [
         "python",
         "github",
@@ -1258,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164172344?v=4",
       "source": "GitHub",
-      "stars": 26683,
+      "stars": 32610,
       "user": "instructkr"
     },
     {
@@ -1273,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3226,
+      "stars": 3319,
       "user": "TheTom"
     },
     {
@@ -1288,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3082,
+      "stars": 3164,
       "user": "titanwings"
     },
     {
@@ -1303,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1449,
+      "stars": 1498,
       "user": "garinasset"
     },
     {
@@ -1318,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 975,
       "user": "oaker-io"
     }
   ],
@@ -1369,21 +1383,6 @@
       "user": "Ritam Saha"
     },
     {
-      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
-      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
-      "published_at": "2026-03-29T15:37:53Z",
-      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
-      "tags": [
-        "frontend",
-        "javascript",
-        "ai",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
-      "source": "Dev.to",
-      "user": "OlumideSamuel"
-    },
-    {
       "title": "CodePen TV secrets",
       "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
       "published_at": "2026-03-29T23:23:50Z",
@@ -1397,6 +1396,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
       "source": "Dev.to",
       "user": "Ben Evans"
+    },
+    {
+      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
+      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
+      "published_at": "2026-03-29T15:37:53Z",
+      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
+      "tags": [
+        "frontend",
+        "javascript",
+        "ai",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
+      "source": "Dev.to",
+      "user": "OlumideSamuel"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -1488,21 +1502,6 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
-      "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
-      "published_at": "2026-03-30T08:48:00Z",
-      "description": "We've all been there, where you have 60 seconds before your next meeting starts. You're searching...",
-      "tags": [
-        "googleworkspace",
-        "workspacestudio",
-        "gemini",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e",
       "published_at": "2026-03-26T19:33:51Z",
@@ -1531,6 +1530,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png",
       "source": "Dev.to",
       "user": "C.K.Sun"
+    },
+    {
+      "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
+      "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
+      "published_at": "2026-03-30T08:48:00Z",
+      "description": "We've all been there, where you have 60 seconds before your next meeting starts. You're searching...",
+      "tags": [
+        "googleworkspace",
+        "workspacestudio",
+        "gemini",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlgh7fda5d4hltz9wg5l.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
@@ -1579,6 +1593,20 @@
     }
   ],
   "Database": [
+    {
+      "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
+      "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
+      "published_at": "2026-03-31T13:58:35Z",
+      "description": "A post by Ben Halpern",
+      "tags": [
+        "database",
+        "news",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
     {
       "title": "How to Break Your PostgreSQL IIoT Database and Learn Something in the Process",
       "url": "https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d",
@@ -1654,21 +1682,6 @@
       "user": "Habib Jutt"
     },
     {
-      "title": "I built a terminal-native Little Snitch alternative for macOS",
-      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
-      "published_at": "2026-03-24T11:49:08Z",
-      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
-      "tags": [
-        "go",
-        "macos",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
-      "source": "Dev.to",
-      "user": "Nick Ciolpan"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1710,21 +1723,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
       "source": "Dev.to",
       "user": "martin rojas"
-    },
-    {
-      "title": "What is ‘Harness Design’ and why does it matter",
-      "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
-      "published_at": "2026-03-30T08:52:02Z",
-      "description": "AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
-      "source": "Dev.to",
-      "user": "baltz"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -1782,6 +1780,21 @@
       "user": "Yash Kumar Saini"
     },
     {
+      "title": "What is ‘Harness Design’ and why does it matter",
+      "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
+      "published_at": "2026-03-30T08:52:02Z",
+      "description": "AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
+      "source": "Dev.to",
+      "user": "baltz"
+    },
+    {
       "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
       "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
       "published_at": "2026-03-25T11:01:22Z",
@@ -1796,21 +1809,6 @@
       "user": "Leanne R"
     },
     {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
-    },
-    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1822,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 4570,
+      "stars": 4748,
       "user": "openai"
     },
     {
@@ -1837,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2536,
+      "stars": 2537,
       "user": "magnum6actual"
     },
     {
@@ -1852,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 336,
       "user": "meodai"
     },
     {
@@ -1867,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 279,
       "user": "6551Team"
     },
     {
@@ -1882,14 +1880,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "cdppcorp"
     },
     {
-      "title": "instructkr/claude-code - An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.",
-      "url": "https://github.com/instructkr/claude-code",
+      "title": "instructkr/clawd-code - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things done. Featured in Wall Street Journal",
+      "url": "https://github.com/instructkr/clawd-code",
       "published_at": "2026-03-31T08:58:08Z",
-      "description": "An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.",
+      "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things done. Featured in Wall Street Journal",
       "tags": [
         "python",
         "github",
@@ -1897,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164172344?v=4",
       "source": "GitHub",
-      "stars": 26683,
+      "stars": 32610,
       "user": "instructkr"
     },
     {
@@ -1912,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3226,
+      "stars": 3319,
       "user": "TheTom"
     },
     {
@@ -1927,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3082,
+      "stars": 3164,
       "user": "titanwings"
     },
     {
@@ -1942,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1449,
+      "stars": 1498,
       "user": "garinasset"
     },
     {
@@ -1957,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 975,
       "user": "oaker-io"
     },
     {
@@ -1972,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5332,
+      "stars": 5365,
       "user": "larksuite"
     },
     {
@@ -1987,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 207,
       "user": "vkhanhqui"
     },
     {
@@ -2002,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "bhope"
     },
     {
