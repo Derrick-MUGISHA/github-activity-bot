@@ -45,20 +45,6 @@
       "user": "Wassim Chegham"
     },
     {
-      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
-      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
-      "published_at": "2026-03-30T14:52:45Z",
-      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
-      "tags": [
-        "ai",
-        "careerdevelopment",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
-      "source": "Dev.to",
-      "user": "martin rojas"
-    },
-    {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
       "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
       "published_at": "2026-03-29T09:59:19Z",
@@ -71,21 +57,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png",
       "source": "Dev.to",
       "user": "Mezbah Alam"
-    },
-    {
-      "title": "Midnight network is live",
-      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
-      "published_at": "2026-03-30T14:28:04Z",
-      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
-      "tags": [
-        "blockchain",
-        "web3",
-        "typescript",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
-      "source": "Dev.to",
-      "user": "Lauren Lee"
     },
     {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
@@ -176,6 +147,21 @@
       "user": "OlumideSamuel"
     },
     {
+      "title": "What is ‘Harness Design’ and why does it matter",
+      "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
+      "published_at": "2026-03-30T08:52:02Z",
+      "description": "AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
+      "source": "Dev.to",
+      "user": "baltz"
+    },
+    {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
       "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
       "published_at": "2026-03-23T23:19:39Z",
@@ -191,19 +177,18 @@
       "user": "Taiwrash"
     },
     {
-      "title": "What is ‘Harness Design’ and why does it matter",
-      "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
-      "published_at": "2026-03-30T08:52:02Z",
-      "description": "AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...",
+      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
+      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
+      "published_at": "2026-03-30T14:52:45Z",
+      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
       "tags": [
         "ai",
-        "programming",
-        "productivity",
-        "beginners"
+        "careerdevelopment",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
       "source": "Dev.to",
-      "user": "baltz"
+      "user": "martin rojas"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -262,6 +247,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
       "source": "Dev.to",
       "user": "Yash Kumar Saini"
+    },
+    {
+      "title": "Midnight network is live",
+      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
+      "published_at": "2026-03-30T14:28:04Z",
+      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
+      "tags": [
+        "blockchain",
+        "web3",
+        "typescript",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
+      "source": "Dev.to",
+      "user": "Lauren Lee"
     },
     {
       "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
@@ -669,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 4926,
+      "stars": 5061,
       "user": "openai"
     },
     {
@@ -699,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 978,
       "user": "oaker-io"
     },
     {
@@ -714,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5389,
+      "stars": 5401,
       "user": "larksuite"
     },
     {
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "bhope"
     },
     {
@@ -749,36 +749,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "Understanding Object-Oriented Programming in JavaScript",
-      "url": "https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e",
-      "published_at": "2026-03-28T20:37:29Z",
-      "description": "Introduction   Hey there, fellow developer!   Imagine building a massive web app where your...",
-      "tags": [
-        "javascript",
-        "programming",
-        "backend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
-      "source": "Dev.to",
-      "user": "Ritam Saha"
-    },
-    {
-      "title": "Midnight network is live",
-      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
-      "published_at": "2026-03-30T14:28:04Z",
-      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
-      "tags": [
-        "blockchain",
-        "web3",
-        "typescript",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
-      "source": "Dev.to",
-      "user": "Lauren Lee"
-    },
     {
       "title": "With the advent of AI, is there still a need for Frontend Engineers?",
       "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
@@ -823,6 +793,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
+    },
+    {
+      "title": "Midnight network is live",
+      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
+      "published_at": "2026-03-30T14:28:04Z",
+      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
+      "tags": [
+        "blockchain",
+        "web3",
+        "typescript",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
+      "source": "Dev.to",
+      "user": "Lauren Lee"
     },
     {
       "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
@@ -883,6 +868,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
       "source": "Dev.to",
       "user": "Saroj Poddar"
+    },
+    {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1016,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 4926,
+      "stars": 5061,
       "user": "openai"
     },
     {
@@ -1031,8 +1031,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2537,
+      "stars": 2538,
       "user": "magnum6actual"
+    },
+    {
+      "title": "6551Team/claude-code-design-guide - GitHub Repository",
+      "url": "https://github.com/6551Team/claude-code-design-guide",
+      "published_at": "2026-03-31T10:50:07Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
+      "source": "GitHub",
+      "stars": 341,
+      "user": "6551Team"
     },
     {
       "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
@@ -1050,21 +1065,6 @@
       "user": "meodai"
     },
     {
-      "title": "6551Team/claude-code-design-guide - GitHub Repository",
-      "url": "https://github.com/6551Team/claude-code-design-guide",
-      "published_at": "2026-03-31T10:50:07Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
-      "source": "GitHub",
-      "stars": 326,
-      "user": "6551Team"
-    },
-    {
       "title": "cdppcorp/KESE-KIT - KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
       "url": "https://github.com/cdppcorp/KESE-KIT",
       "published_at": "2026-03-27T10:08:55Z",
@@ -1076,7 +1076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "cdppcorp"
     }
   ],
@@ -1261,10 +1261,10 @@
       "user": "gilad"
     },
     {
-      "title": "instructkr/claw-code - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things done. Now rewriting in Rust.",
+      "title": "instructkr/claw-code - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.",
       "url": "https://github.com/instructkr/claw-code",
       "published_at": "2026-03-31T08:58:08Z",
-      "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things done. Now rewriting in Rust.",
+      "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.",
       "tags": [
         "python",
         "github",
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164172344?v=4",
       "source": "GitHub",
-      "stars": 37829,
+      "stars": 41712,
       "user": "instructkr"
     },
     {
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3422,
+      "stars": 3507,
       "user": "TheTom"
     },
     {
@@ -1302,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3245,
+      "stars": 3284,
       "user": "titanwings"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1568,
       "user": "garinasset"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 978,
       "user": "oaker-io"
     }
   ],
@@ -1367,21 +1367,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "Understanding Object-Oriented Programming in JavaScript",
-      "url": "https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e",
-      "published_at": "2026-03-28T20:37:29Z",
-      "description": "Introduction   Hey there, fellow developer!   Imagine building a massive web app where your...",
-      "tags": [
-        "javascript",
-        "programming",
-        "backend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbqnkn0xls0jltna8tjr.png",
-      "source": "Dev.to",
-      "user": "Ritam Saha"
-    },
     {
       "title": "CodePen TV secrets",
       "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
@@ -1620,7 +1605,7 @@
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ym3q88l1wrfv1wuagus.png",
       "source": "Dev.to",
-      "user": "Team TigerData"
+      "user": "Team Tiger Data"
     },
     {
       "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
@@ -1682,6 +1667,21 @@
       "user": "Habib Jutt"
     },
     {
+      "title": "I built a terminal-native Little Snitch alternative for macOS",
+      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
+      "published_at": "2026-03-24T11:49:08Z",
+      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
+      "tags": [
+        "go",
+        "macos",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
+      "source": "Dev.to",
+      "user": "Nick Ciolpan"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1711,20 +1711,6 @@
       "user": "Chris Jarvis"
     },
     {
-      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
-      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
-      "published_at": "2026-03-30T14:52:45Z",
-      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
-      "tags": [
-        "ai",
-        "careerdevelopment",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
-      "source": "Dev.to",
-      "user": "martin rojas"
-    },
-    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -1740,16 +1726,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API Call",
-      "url": "https://dev.to/gde/gemini-tool-combo-building-a-line-meetup-helper-with-maps-grounding-and-places-api-in-a-single-api-3ppd",
-      "published_at": "2026-03-29T02:07:59Z",
-      "description": "Reference articles:     Gemini API tooling updates: context circulation, tool combos and Maps...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppvck2ze2f1q3hc4o4ry.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "What is ‘Harness Design’ and why does it matter",
       "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
       "published_at": "2026-03-30T08:52:02Z",
@@ -1763,6 +1739,30 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
       "source": "Dev.to",
       "user": "baltz"
+    },
+    {
+      "title": "Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API Call",
+      "url": "https://dev.to/gde/gemini-tool-combo-building-a-line-meetup-helper-with-maps-grounding-and-places-api-in-a-single-api-3ppd",
+      "published_at": "2026-03-29T02:07:59Z",
+      "description": "Reference articles:     Gemini API tooling updates: context circulation, tool combos and Maps...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppvck2ze2f1q3hc4o4ry.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
+      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
+      "published_at": "2026-03-30T14:52:45Z",
+      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
+      "tags": [
+        "ai",
+        "careerdevelopment",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
+      "source": "Dev.to",
+      "user": "martin rojas"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -1809,6 +1809,21 @@
       "user": "Leanne R"
     },
     {
+      "title": "TypeScript deserved a real DDD framework - so I built one",
+      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
+      "published_at": "2026-03-24T08:04:26Z",
+      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "tags": [
+        "typescript",
+        "ddd",
+        "cqrs",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "source": "Dev.to",
+      "user": "DOGGA Nidhal"
+    },
+    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1820,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 4926,
+      "stars": 5061,
       "user": "openai"
     },
     {
@@ -1835,8 +1850,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2537,
+      "stars": 2538,
       "user": "magnum6actual"
+    },
+    {
+      "title": "6551Team/claude-code-design-guide - GitHub Repository",
+      "url": "https://github.com/6551Team/claude-code-design-guide",
+      "published_at": "2026-03-31T10:50:07Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
+      "source": "GitHub",
+      "stars": 341,
+      "user": "6551Team"
     },
     {
       "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
@@ -1854,21 +1884,6 @@
       "user": "meodai"
     },
     {
-      "title": "6551Team/claude-code-design-guide - GitHub Repository",
-      "url": "https://github.com/6551Team/claude-code-design-guide",
-      "published_at": "2026-03-31T10:50:07Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
-      "source": "GitHub",
-      "stars": 326,
-      "user": "6551Team"
-    },
-    {
       "title": "cdppcorp/KESE-KIT - KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
       "url": "https://github.com/cdppcorp/KESE-KIT",
       "published_at": "2026-03-27T10:08:55Z",
@@ -1880,14 +1895,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "cdppcorp"
     },
     {
-      "title": "instructkr/claw-code - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things done. Now rewriting in Rust.",
+      "title": "instructkr/claw-code - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.",
       "url": "https://github.com/instructkr/claw-code",
       "published_at": "2026-03-31T08:58:08Z",
-      "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things done. Now rewriting in Rust.",
+      "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.",
       "tags": [
         "python",
         "github",
@@ -1895,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164172344?v=4",
       "source": "GitHub",
-      "stars": 37829,
+      "stars": 41712,
       "user": "instructkr"
     },
     {
@@ -1910,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3422,
+      "stars": 3507,
       "user": "TheTom"
     },
     {
@@ -1925,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3245,
+      "stars": 3284,
       "user": "titanwings"
     },
     {
@@ -1940,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1568,
       "user": "garinasset"
     },
     {
@@ -1955,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 978,
       "user": "oaker-io"
     },
     {
@@ -1970,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5389,
+      "stars": 5401,
       "user": "larksuite"
     },
     {
@@ -1985,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 210,
       "user": "vkhanhqui"
     },
     {
@@ -2000,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "bhope"
     },
     {
@@ -2030,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136080052?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "EvolutionAPI"
     }
   ]
