@@ -238,19 +238,146 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
-      "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
-      "published_at": "2026-03-27T19:07:08Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...",
+      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
+      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
+      "published_at": "2026-03-26T21:05:21Z",
+      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
       "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
+        "langchain",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
       "source": "Dev.to",
-      "user": "Yash Kumar Saini"
+      "user": "Scarlett Attensil"
+    },
+    {
+      "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e",
+      "published_at": "2026-03-26T19:33:51Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googlecloudplatform",
+        "gemini",
+        "aws",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
+      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
+      "published_at": "2026-03-29T15:37:53Z",
+      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
+      "tags": [
+        "frontend",
+        "javascript",
+        "ai",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
+      "source": "Dev.to",
+      "user": "OlumideSamuel"
+    },
+    {
+      "title": "What is ‘Harness Design’ and why does it matter",
+      "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
+      "published_at": "2026-03-30T08:52:02Z",
+      "description": "AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
+      "source": "Dev.to",
+      "user": "baltz"
+    },
+    {
+      "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
+      "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
+      "published_at": "2026-03-23T23:19:39Z",
+      "description": "I want to tell you something that did not make it into the README.  I built...",
+      "tags": [
+        "ai",
+        "llm",
+        "monitoring",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
+      "source": "Dev.to",
+      "user": "Taiwrash"
+    },
+    {
+      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
+      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
+      "published_at": "2026-03-30T14:52:45Z",
+      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
+      "tags": [
+        "ai",
+        "careerdevelopment",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
+      "source": "Dev.to",
+      "user": "martin rojas"
+    },
+    {
+      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
+      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
+      "published_at": "2026-03-23T18:05:03Z",
+      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "makerchecker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
+      "source": "Dev.to",
+      "user": "Ivan SZKIBA"
+    },
+    {
+      "title": "Vibe with Code: Plan First, Build Second",
+      "url": "https://dev.to/abarron/vibe-with-code-plan-first-build-second-3n8o",
+      "published_at": "2026-03-29T03:18:42Z",
+      "description": "The most expensive mistake engineers make with AI isn't the code. It's skipping the plan.  Software...",
+      "tags": [
+        "ai",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw13w4i0cx5504ale5vbw.png",
+      "source": "Dev.to",
+      "user": "Ava Barron"
+    },
+    {
+      "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
+      "url": "https://dev.to/jvoltci/zerojitter-stop-layout-thrashing-stream-llm-tokens-without-jitter-36ef",
+      "published_at": "2026-03-30T08:15:13Z",
+      "description": "Every AI chat app has the same bug. You've felt it. That stuttering scrollbar, the content jumping,...",
+      "tags": [
+        "llm",
+        "performance",
+        "showdev",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7doe6hbjvi676m1thodg.jpg",
+      "source": "Dev.to",
+      "user": "JAI"
+    },
+    {
+      "title": "MavonEngine: A TypeScript Multiplayer 3D Game Engine for the Browser Now Available",
+      "url": "https://dev.to/mattvb91/mavonengine-a-typescript-multiplayer-3d-game-engine-for-the-browser-now-available-20kk",
+      "published_at": "2026-03-30T17:38:17Z",
+      "description": "Building a multiplayer 3D browser game means stitching together a renderer, a physics engine, a...",
+      "tags": [
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtllcvyvv5ruiixqa2d0.png",
+      "source": "Dev.to",
+      "user": "Matthias von Bargen"
     },
     {
       "title": "Midnight network is live",
@@ -266,6 +393,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
       "source": "Dev.to",
       "user": "Lauren Lee"
+    },
+    {
+      "title": "AI terminal tools in 2026: Warp, Lacy Shell, and the rest",
+      "url": "https://dev.to/lacymorrow/2026-ai-terminal-tools-comparison-warp-vs-lacy-shell-vs-traditional-shells-5a8f",
+      "published_at": "2026-03-30T16:19:41Z",
+      "description": "The terminal has not changed much in 40 years. The prompt, shell, and command syntax are basically...",
+      "tags": [
+        "terminal",
+        "ai",
+        "opensource",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3px6x7jon9iuqvmo2q.png",
+      "source": "Dev.to",
+      "user": "Lacy Morrow"
     },
     {
       "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
@@ -396,138 +538,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "1st time at a big tech conference - GTC 2026",
-      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
-      "published_at": "2026-03-25T16:38:29Z",
-      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
-      "tags": [
-        "ai",
-        "techtalks",
-        "career",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
-      "source": "Dev.to",
-      "user": "Matt Cool"
-    },
-    {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Getting Started with Qwen3.5 Vision-Language Models",
-      "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
-      "published_at": "2026-03-17T16:00:00Z",
-      "description": "This article was originally written by James Skelton (Senior AI/ML Technical Content Strategist...",
-      "tags": [
-        "qwen",
-        "learning",
-        "aimodels",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flyhk43dl0t2ua178arvd.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
-    {
-      "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
-      "published_at": "2026-03-24T18:00:13Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "aws",
-        "agents",
-        "amazonlightsail"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
-      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
-      "published_at": "2026-03-25T11:01:22Z",
-      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
-      "tags": [
-        "vibecoding",
-        "python",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
-      "source": "Dev.to",
-      "user": "Leanne R"
-    },
-    {
-      "title": "Ai-lone",
-      "url": "https://dev.to/314rate/ai-lone-4ae9",
-      "published_at": "2026-03-17T00:00:00Z",
-      "description": "A sentence from Salma Alam-Naylor about AI and loneliness hits close to home. On remote work,...",
-      "tags": [
-        "webdev",
-        "ai",
-        "work"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwt2rijx7v2jzn65wiegl.png",
-      "source": "Dev.to",
-      "user": "Dennis Lemm"
-    },
-    {
-      "title": "The software industry is ready to grow",
-      "url": "https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4",
-      "published_at": "2026-03-25T18:33:04Z",
-      "description": "I don't spend a lot of time on the X these days, but I think this perspective is worth...",
-      "tags": [
-        "ai",
-        "career",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyk01bqkf8dznkwekqyv.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!",
-      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd",
-      "published_at": "2026-03-27T21:33:31Z",
-      "description": "We're back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...",
-      "tags": [
-        "weekendchallenge",
-        "devchallenge",
-        "hackathon",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bggoe0qxwqlx6fl5ozn.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets",
-      "url": "https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf",
-      "published_at": "2026-03-28T12:17:54Z",
-      "description": "Four thousand years ago, Assyrian merchants were doing what people have always done: tracking debts,...",
-      "tags": [
-        "ai",
-        "kaggle",
-        "gemini",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl20x38kn95wjhu6zhvmz.jpg",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -673,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5551,
+      "stars": 5604,
       "user": "openai"
     },
     {
@@ -718,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5434,
+      "stars": 5439,
       "user": "larksuite"
     },
     {
@@ -784,6 +794,63 @@
       "user": "Rudson Kiyoshi Souza Carvalho"
     },
     {
+      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
+      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
+      "published_at": "2026-03-29T15:37:53Z",
+      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
+      "tags": [
+        "frontend",
+        "javascript",
+        "ai",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
+      "source": "Dev.to",
+      "user": "OlumideSamuel"
+    },
+    {
+      "title": "String Polyfills & Common Interview Methods in JavaScript",
+      "url": "https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g",
+      "published_at": "2026-03-29T19:42:57Z",
+      "description": "Introduction: Why String Manipulation Still Matters   Imagine this: You’re in a high-stakes...",
+      "tags": [
+        "javascript",
+        "programming",
+        "beginners",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png",
+      "source": "Dev.to",
+      "user": "Ritam Saha"
+    },
+    {
+      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
+      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+      "published_at": "2026-03-23T05:48:13Z",
+      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "react",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
+      "source": "Dev.to",
+      "user": "Satish Gowda"
+    },
+    {
+      "title": "MavonEngine: A TypeScript Multiplayer 3D Game Engine for the Browser Now Available",
+      "url": "https://dev.to/mattvb91/mavonengine-a-typescript-multiplayer-3d-game-engine-for-the-browser-now-available-20kk",
+      "published_at": "2026-03-30T17:38:17Z",
+      "description": "Building a multiplayer 3D browser game means stitching together a renderer, a physics engine, a...",
+      "tags": [
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtllcvyvv5ruiixqa2d0.png",
+      "source": "Dev.to",
+      "user": "Matthias von Bargen"
+    },
+    {
       "title": "Midnight network is live",
       "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
       "published_at": "2026-03-30T14:28:04Z",
@@ -827,51 +894,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
       "source": "Dev.to",
       "user": "Evidence Etinih Ekanem"
-    },
-    {
-      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
-      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
-      "published_at": "2026-03-26T06:14:01Z",
-      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
-      "tags": [
-        "opensource",
-        "nextjs",
-        "react",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
-      "source": "Dev.to",
-      "user": "Habib Jutt"
-    },
-    {
-      "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
-      "url": "https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0",
-      "published_at": "2026-03-26T09:03:53Z",
-      "description": "Most tutorials either point you to a plugin or show you half the code. This is the complete version — HTML, CSS, JS, and WordPress setup — built from a real production theme, with every GDPR mistake already fixed.",
-      "tags": [
-        "cookies",
-        "wordpress",
-        "javascript",
-        "css"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
-      "source": "Dev.to",
-      "user": "Saroj Poddar"
-    },
-    {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
-      "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
-      "source": "Dev.to",
-      "user": "DOGGA Nidhal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1005,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5551,
+      "stars": 5604,
       "user": "openai"
     },
     {
@@ -1020,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2550,
+      "stars": 2555,
       "user": "magnum6actual"
     },
     {
@@ -1035,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 371,
       "user": "6551Team"
     },
     {
@@ -1086,6 +1108,21 @@
       "user": "Diego Resendez"
     },
     {
+      "title": "Run Any HuggingFace Model on TPUs: A Beginner's Guide to TorchAX",
+      "url": "https://dev.to/gde/run-any-huggingface-model-on-tpus-a-beginners-guide-to-torchax-4ln0",
+      "published_at": "2026-03-29T17:04:14Z",
+      "description": "Learn how to run PyTorch HuggingFace models on Google TPUs using torchax — no JAX rewrite needed. Includes benchmarks, text classification, text generation, and a Colab notebook.",
+      "tags": [
+        "machinelearning",
+        "pytorch",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fahmed-elnaggar%2Ftorchax-huggingface%2Fmain%2Fassets%2Fcover-image.png",
+      "source": "Dev.to",
+      "user": "Ahmed Elnaggar"
+    },
+    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
       "published_at": "2026-03-28T17:14:30Z",
@@ -1099,35 +1136,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
-      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
-      "published_at": "2026-03-25T11:01:22Z",
-      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
-      "tags": [
-        "vibecoding",
-        "python",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
-      "source": "Dev.to",
-      "user": "Leanne R"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1261,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3768,
+      "stars": 3789,
       "user": "TheTom"
     },
     {
@@ -1276,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3336,
+      "stars": 3349,
       "user": "titanwings"
     },
     {
@@ -1291,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1610,
+      "stars": 1618,
       "user": "garinasset"
     },
     {
@@ -1387,19 +1395,34 @@
       "user": "Ben Evans"
     },
     {
-      "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
-      "url": "https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0",
-      "published_at": "2026-03-26T09:03:53Z",
-      "description": "Most tutorials either point you to a plugin or show you half the code. This is the complete version — HTML, CSS, JS, and WordPress setup — built from a real production theme, with every GDPR mistake already fixed.",
+      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
+      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
+      "published_at": "2026-03-29T15:37:53Z",
+      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
       "tags": [
-        "cookies",
-        "wordpress",
+        "frontend",
         "javascript",
-        "css"
+        "ai",
+        "claude"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzogthoafpwlwn8n70gfd.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
       "source": "Dev.to",
-      "user": "Saroj Poddar"
+      "user": "OlumideSamuel"
+    },
+    {
+      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
+      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+      "published_at": "2026-03-23T05:48:13Z",
+      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "react",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
+      "source": "Dev.to",
+      "user": "Satish Gowda"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1414,23 +1437,7 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [
-    {
-      "title": "I Built a Type-Safe SI Unit Library in Swift — And the Compiler Catches Your Physics Mistakes",
-      "url": "https://dev.to/moriturus/i-built-a-type-safe-si-unit-library-in-swift-and-the-compiler-catches-your-physics-mistakes-32he",
-      "published_at": "2026-03-24T11:06:02Z",
-      "description": "SystemeInternational uses phantom types, affine spaces, and zero-cost abstractions to make unit misuse a compile-time error. 306 tests, 8 bytes per quantity, and unit conversions at 3 ns/op in Release.",
-      "tags": [
-        "swift",
-        "programming",
-        "opensource",
-        "types"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5bav3jjqzlipsbrsqth.png",
-      "source": "Dev.to",
-      "user": "Henrique Sasaki Yuya"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
     {
       "title": "Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads",
@@ -1461,6 +1468,36 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
+      "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e",
+      "published_at": "2026-03-26T19:33:51Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googlecloudplatform",
+        "gemini",
+        "aws",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "How We Use AWS CDK to Deploy OpenClaw for Enterprise Teams — API Key Management Without the Chaos",
+      "url": "https://dev.to/chenkuansun/how-we-use-aws-cdk-to-deploy-openclaw-for-enterprise-teams-api-key-management-without-the-chaos-2p1b",
+      "published_at": "2026-03-22T22:31:46Z",
+      "description": "We wanted every employee in the company to use OpenClaw — not just engineers. Product managers...",
+      "tags": [
+        "opensource",
+        "openclaw",
+        "aws",
+        "cdk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzhduvgurw4f34auf82g3.png",
+      "source": "Dev.to",
+      "user": "C.K.Sun"
+    },
+    {
       "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij",
       "published_at": "2026-03-30T08:48:00Z",
@@ -1487,36 +1524,6 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
-      "published_at": "2026-03-24T18:00:13Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "aws",
-        "agents",
-        "amazonlightsail"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
       "source": "Dev.to",
       "user": "xbill"
     }
@@ -1656,36 +1663,6 @@
       "user": "PracticeOverflow"
     },
     {
-      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
-      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
-      "published_at": "2026-03-26T06:14:01Z",
-      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
-      "tags": [
-        "opensource",
-        "nextjs",
-        "react",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
-      "source": "Dev.to",
-      "user": "Habib Jutt"
-    },
-    {
-      "title": "I built a terminal-native Little Snitch alternative for macOS",
-      "url": "https://dev.to/nickciolpan/i-built-a-terminal-native-little-snitch-alternative-for-macos-4807",
-      "published_at": "2026-03-24T11:49:08Z",
-      "description": "CLI Snitch monitors every outbound connection from your Mac and lets you allow or deny them with real pfctl firewall rules — all from the terminal.",
-      "tags": [
-        "go",
-        "macos",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6a51yjh2cydtjlw8hjmv.png",
-      "source": "Dev.to",
-      "user": "Nick Ciolpan"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1775,48 +1752,73 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to",
-      "url": "https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn",
-      "published_at": "2026-03-27T19:07:08Z",
-      "description": "This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...",
+      "title": "What is ‘Harness Design’ and why does it matter",
+      "url": "https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj",
+      "published_at": "2026-03-30T08:52:02Z",
+      "description": "AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...",
       "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
+        "ai",
+        "programming",
+        "productivity",
+        "beginners"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuliq11zg996tdxt4pv35.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdzq5qagcr0mrputnwnq.jpg",
       "source": "Dev.to",
-      "user": "Yash Kumar Saini"
+      "user": "baltz"
     },
     {
-      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
-      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
-      "published_at": "2026-03-25T11:01:22Z",
-      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
-      "tags": [
-        "vibecoding",
-        "python",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
+      "title": "Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API Call",
+      "url": "https://dev.to/gde/gemini-tool-combo-building-a-line-meetup-helper-with-maps-grounding-and-places-api-in-a-single-api-3ppd",
+      "published_at": "2026-03-29T02:07:59Z",
+      "description": "Reference articles:     Gemini API tooling updates: context circulation, tool combos and Maps...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppvck2ze2f1q3hc4o4ry.png",
       "source": "Dev.to",
-      "user": "Leanne R"
+      "user": "Evan Lin"
     },
     {
-      "title": "TypeScript deserved a real DDD framework - so I built one",
-      "url": "https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf",
-      "published_at": "2026-03-24T08:04:26Z",
-      "description": "When I moved from Java to TypeScript a few years ago, most things got easier. The tooling was...",
+      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
+      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
+      "published_at": "2026-03-30T14:52:45Z",
+      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
       "tags": [
-        "typescript",
-        "ddd",
-        "cqrs",
-        "node"
+        "ai",
+        "careerdevelopment",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g7239mvwgq5qtxtm0pf.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
       "source": "Dev.to",
-      "user": "DOGGA Nidhal"
+      "user": "martin rojas"
+    },
+    {
+      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
+      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
+      "published_at": "2026-03-23T18:05:03Z",
+      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "makerchecker"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
+      "source": "Dev.to",
+      "user": "Ivan SZKIBA"
+    },
+    {
+      "title": "AI terminal tools in 2026: Warp, Lacy Shell, and the rest",
+      "url": "https://dev.to/lacymorrow/2026-ai-terminal-tools-comparison-warp-vs-lacy-shell-vs-traditional-shells-5a8f",
+      "published_at": "2026-03-30T16:19:41Z",
+      "description": "The terminal has not changed much in 40 years. The prompt, shell, and command syntax are basically...",
+      "tags": [
+        "terminal",
+        "ai",
+        "opensource",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3px6x7jon9iuqvmo2q.png",
+      "source": "Dev.to",
+      "user": "Lacy Morrow"
     },
     {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
@@ -1830,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5551,
+      "stars": 5604,
       "user": "openai"
     },
     {
@@ -1845,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2550,
+      "stars": 2555,
       "user": "magnum6actual"
     },
     {
@@ -1860,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 371,
       "user": "6551Team"
     },
     {
@@ -1905,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
       "source": "GitHub",
-      "stars": 3768,
+      "stars": 3789,
       "user": "TheTom"
     },
     {
@@ -1920,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3336,
+      "stars": 3349,
       "user": "titanwings"
     },
     {
@@ -1935,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1610,
+      "stars": 1618,
       "user": "garinasset"
     },
     {
@@ -1980,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
       "source": "GitHub",
-      "stars": 5434,
+      "stars": 5439,
       "user": "larksuite"
     },
     {
@@ -1995,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "vkhanhqui"
     },
     {
@@ -2040,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136080052?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "EvolutionAPI"
     }
   ]

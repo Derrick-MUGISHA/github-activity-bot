@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-9-blue)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-31-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,25 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Cloud**: 🟦🟦 6 (5.7%)
 
 **Database**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**Security**: 🟦 4 (3.8%)
 
 **DevOps**: 🟦 2 (1.9%)
-
-**Mobile**:  1 (1.0%)
 
 
 
@@ -60,25 +58,24 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.8 (25.8%)
-Go              ██████████████████████████ 22.5 (22.5%)
-Java            █████████████████████████ 21.3 (21.3%)
-Python          █████████████████████████ 21.3 (21.3%)
-Rust            ████ 3.4 (3.4%)
-CSharp          ███ 2.2 (2.2%)
+JavaScript      ██████████████████████████████ 27.3 (27.3%)
+Java            █████████████████████████ 22.7 (22.7%)
+Go              ███████████████████████ 20.5 (20.5%)
+Python          ███████████████████████ 20.5 (20.5%)
+Rust            █████ 4.5 (4.5%)
+CSharp          ███ 2.3 (2.3%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
-    "Go" : 20
-    "Java" : 19
-    "Python" : 19
-    "Rust" : 3
+    "JavaScript" : 24
+    "Java" : 20
+    "Go" : 18
+    "Python" : 18
+    "Rust" : 4
     "CSharp" : 2
     "Ruby" : 1
     "PHP" : 1
@@ -88,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![career](https://img.shields.io/badge/career-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -128,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-01 0:00 CAT)
+## 📅 Latest Updates (2026-04-01 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +216,7 @@ npm run test
 - [I Built a Tool Because 90% of My AI Agent's Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3) _[Dev.to]_
 - [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d) _[Dev.to]_
 
-_Last automated update: Wed, 01 Apr 2026 00:57:38 CAT_
+_Last automated update: Wed, 01 Apr 2026 01:36:34 CAT_
 
 
 
@@ -227,36 +224,36 @@ _Last automated update: Wed, 01 Apr 2026 00:57:38 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -290,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 31 Mar 2026 22:57:38 GMT</b><br/>
+  <b>Last automated update: Tue, 31 Mar 2026 23:36:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
