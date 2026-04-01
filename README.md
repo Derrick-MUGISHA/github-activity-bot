@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-01-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (50.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
-
-**Cloud**: 🟦🟦 6 (5.7%)
-
-**Database**: 🟦🟦 6 (5.7%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Cloud**: 🟦🟦 5 (4.8%)
+
+**Database**: 🟦🟦 5 (4.8%)
+
+**Security**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,11 +58,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.1 (28.1%)
-Java            ████████████████████████ 22.5 (22.5%)
-Go              ██████████████████████ 20.2 (20.2%)
-Python          ██████████████████████ 20.2 (20.2%)
-Rust            █████ 4.5 (4.5%)
+JavaScript      ██████████████████████████████ 28.9 (28.9%)
+Java            ███████████████████████ 22.2 (22.2%)
+Go              █████████████████████ 20.0 (20.0%)
+Python          █████████████████████ 20.0 (20.0%)
+Rust            █████ 4.4 (4.4%)
 CSharp          ██ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
@@ -71,7 +71,7 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 25
+    "JavaScript" : 26
     "Java" : 20
     "Go" : 18
     "Python" : 18
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-01 2:00 CAT)
+## 📅 Latest Updates (2026-04-01 5:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,7 +205,6 @@ npm run test
 - [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62) _[Dev.to]_
 - [Prompt Stuffing Is Killing Your Agent](https://dev.to/wassimchegham/agentic-rag-done-right-4846) _[Dev.to]_
 - [Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs](https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j) _[Dev.to]_
-- [How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d) _[Dev.to]_
 - [Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo) _[Dev.to]_
 - [TERSE — A New Serialization Format Built for LLMs](https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34) _[Dev.to]_
 - [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
@@ -213,10 +212,11 @@ npm run test
 - [Integrating my AVR with Home Assistant](https://dev.to/moniquelive/integrating-my-avr-with-home-assistant-3oio) _[Dev.to]_
 - [Processing 1M Chess Games in 15 Seconds with Rust](https://dev.to/chrnx/processing-1m-chess-games-in-15-seconds-with-rust-pe3) _[Dev.to]_
 - [Working with JWTs in Laravel (Without the Magic)](https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh) _[Dev.to]_
-- [I Built a Tool Because 90% of My AI Agent's Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3) _[Dev.to]_
 - [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d) _[Dev.to]_
+- [Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks](https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839) _[Dev.to]_
+- [Securing the Agentic Era: AI Agents as First-Class Security Principals](https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f) _[Dev.to]_
 
-_Last automated update: Wed, 01 Apr 2026 02:03:40 CAT_
+_Last automated update: Wed, 01 Apr 2026 05:44:38 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 01 Apr 2026 02:03:40 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 01 Apr 2026 00:03:40 GMT</b><br/>
+  <b>Last automated update: Wed, 01 Apr 2026 03:44:38 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
