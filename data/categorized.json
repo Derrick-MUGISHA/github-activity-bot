@@ -16,6 +16,80 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
+      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
+      "published_at": "2026-04-01T10:00:00Z",
+      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
+      "tags": [
+        "opensource",
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
+      "source": "Dev.to",
+      "user": "Ayu Adiati"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
+      "published_at": "2026-04-01T15:25:36Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "python",
+        "gemini",
+        "awsfargate",
+        "geminilive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
+    },
+    {
+      "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
+      "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
+      "published_at": "2026-04-01T12:41:18Z",
+      "description": "We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...",
+      "tags": [
+        "webdev",
+        "ai",
+        "opensource",
+        "authentication"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
+      "source": "Dev.to",
+      "user": "Lakhan Samani"
+    },
+    {
+      "title": "Antigravity: My Approach to Deliver the Most Assured Value for the Least Money",
+      "url": "https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip",
+      "published_at": "2026-04-01T05:49:34Z",
+      "description": "As I'm not a professional developer but a guy who needs to use automation to get things done, I...",
+      "tags": [
+        "antigravity",
+        "development",
+        "automation",
+        "responsibleai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftypteqi86eyrzkbx18sb.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
+    {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
       "published_at": "2026-03-31T13:58:35Z",
@@ -28,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
+      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
+      "published_at": "2026-04-01T07:14:45Z",
+      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
+      "tags": [
+        "softwareengineering",
+        "ai",
+        "nestjs",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
+      "source": "Dev.to",
+      "user": "Jim Zandueta"
     },
     {
       "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
@@ -60,6 +149,21 @@
       "user": "Glen Yu"
     },
     {
+      "title": "Surviving as a Human in the Age of AI",
+      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
+      "published_at": "2026-03-31T02:43:37Z",
+      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...",
+      "tags": [
+        "ai",
+        "programming",
+        "career",
+        "wecoded"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
+      "source": "Dev.to",
+      "user": "Jen Looper"
+    },
+    {
       "title": "TERSE — A New Serialization Format Built for LLMs",
       "url": "https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34",
       "published_at": "2026-03-31T12:10:36Z",
@@ -75,19 +179,19 @@
       "user": "Rudson Kiyoshi Souza Carvalho"
     },
     {
-      "title": "Surviving as a Human in the Age of AI",
-      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
-      "published_at": "2026-03-31T02:43:37Z",
-      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...",
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
+      "published_at": "2026-03-31T20:52:09Z",
+      "description": "The Problem   In my previous post, I shared how I used an AI agent framework during a train...",
       "tags": [
-        "ai",
-        "programming",
-        "career",
-        "wecoded"
+        "serverless",
+        "dataengineering",
+        "cloud",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnm7ueuuqqy7yjs6hgkme.png",
       "source": "Dev.to",
-      "user": "Jen Looper"
+      "user": "Patricio Navarro"
     },
     {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
@@ -134,6 +238,21 @@
       "user": "Mark Townsend"
     },
     {
+      "title": "Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App",
+      "url": "https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae",
+      "published_at": "2026-03-31T23:17:59Z",
+      "description": "Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App   In the rapidly evolving...",
+      "tags": [
+        "angular",
+        "firebase",
+        "gemini",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvjn6amldbsv4xhdudmw.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs",
       "url": "https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j",
       "published_at": "2026-03-31T18:56:42Z",
@@ -146,94 +265,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftku7qy5qx6zykj23of00.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
-      "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
-      "published_at": "2026-03-31T06:48:59Z",
-      "description": "Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "security",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png",
-      "source": "Dev.to",
-      "user": "Abhay"
-    },
-    {
-      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
-      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
-      "published_at": "2026-03-31T02:37:02Z",
-      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cybersecurity",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
-      "source": "Dev.to",
-      "user": "PracticeOverflow"
-    },
-    {
-      "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
-      "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
-      "published_at": "2026-03-29T02:34:36Z",
-      "description": "Claude Code has WebFetch. Every AI coding agent has some way to grab a webpage.  They all hit the...",
-      "tags": [
-        "zig",
-        "opensource",
-        "cli",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
-      "source": "Dev.to",
-      "user": "An Pham"
-    },
-    {
-      "title": "Auth0 MCP Server Extension for Gemini CLI",
-      "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
-      "published_at": "2026-03-27T11:00:00Z",
-      "description": "The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...",
-      "tags": [
-        "ai",
-        "mcp",
-        "tutorial",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
-      "source": "Dev.to",
-      "user": "Jessica Temporal"
-    },
-    {
-      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
-      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
-      "published_at": "2026-03-26T21:05:21Z",
-      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
-      "tags": [
-        "langchain",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
-      "source": "Dev.to",
-      "user": "Scarlett Attensil"
-    },
-    {
-      "title": "Prompt Stuffing Is Killing Your Agent",
-      "url": "https://dev.to/wassimchegham/agentic-rag-done-right-4846",
-      "published_at": "2026-03-30T15:49:49Z",
-      "description": "Classic RAG retrieves everything and hopes for the best. Agentic RAG uses conditional retrieval with validation loops — and it's cheaper too.",
-      "tags": [
-        "ai",
-        "rag",
-        "agents",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png",
-      "source": "Dev.to",
-      "user": "Wassim Chegham"
     },
     {
       "title": "With the advent of AI, is there still a need for Frontend Engineers?",
@@ -670,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 7637,
+      "stars": 7795,
       "user": "openai"
     },
     {
@@ -685,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "meodai"
     },
     {
@@ -715,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1134,
       "user": "oaker-io"
     },
     {
@@ -730,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 778,
       "user": "therealXiaomanChu"
     },
     {
@@ -750,6 +781,36 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Managing Secret For Your Golang Apps With The GCP Secret Manager",
+      "url": "https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj",
+      "published_at": "2026-04-01T05:02:19Z",
+      "description": "While developing a serverless application and having a secret key in JSON format, I always looked...",
+      "tags": [
+        "secretmanager",
+        "gcp",
+        "cloudrun",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqeaqgj04v1rzwudl8547.png",
+      "source": "Dev.to",
+      "user": "Razan Fawwaz"
+    },
+    {
+      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
+      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
+      "published_at": "2026-04-01T07:14:45Z",
+      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
+      "tags": [
+        "softwareengineering",
+        "ai",
+        "nestjs",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
+      "source": "Dev.to",
+      "user": "Jim Zandueta"
+    },
     {
       "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
       "url": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
@@ -779,6 +840,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttb7eoim92awhrpor7ze.png",
       "source": "Dev.to",
       "user": "Rudson Kiyoshi Souza Carvalho"
+    },
+    {
+      "title": "Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App",
+      "url": "https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae",
+      "published_at": "2026-03-31T23:17:59Z",
+      "description": "Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App   In the rapidly evolving...",
+      "tags": [
+        "angular",
+        "firebase",
+        "gemini",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvjn6amldbsv4xhdudmw.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "With the advent of AI, is there still a need for Frontend Engineers?",
@@ -1029,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 7637,
+      "stars": 7795,
       "user": "openai"
     },
     {
@@ -1044,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2573,
+      "stars": 2576,
       "user": "magnum6actual"
     },
     {
@@ -1074,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "meodai"
     },
     {
@@ -1094,6 +1170,36 @@
     }
   ],
   "Python": [
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
+      "published_at": "2026-04-01T15:25:36Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "python",
+        "gemini",
+        "awsfargate",
+        "geminilive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
+    },
     {
       "title": "Processing 1M Chess Games in 15 Seconds with Rust",
       "url": "https://dev.to/chrnx/processing-1m-chess-games-in-15-seconds-with-rust-pe3",
@@ -1286,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4549,
+      "stars": 4578,
       "user": "titanwings"
     },
     {
@@ -1301,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1803,
+      "stars": 1804,
       "user": "garinasset"
     },
     {
@@ -1316,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1134,
       "user": "oaker-io"
     },
     {
@@ -1331,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1003,
       "user": "jxnxts"
     },
     {
@@ -1346,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 778,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1381,21 +1487,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "CodePen TV secrets",
-      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
-      "published_at": "2026-03-29T23:23:50Z",
-      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
-      "tags": [
-        "codepen",
-        "css",
-        "cssart",
-        "crt"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
-      "source": "Dev.to",
-      "user": "Ben Evans"
-    },
     {
       "title": "With the advent of AI, is there still a need for Frontend Engineers?",
       "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
@@ -1456,6 +1547,51 @@
   ],
   "Mobile": [],
   "Cloud": [
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
+      "published_at": "2026-04-01T15:25:36Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "python",
+        "gemini",
+        "awsfargate",
+        "geminilive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Managing Secret For Your Golang Apps With The GCP Secret Manager",
+      "url": "https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj",
+      "published_at": "2026-04-01T05:02:19Z",
+      "description": "While developing a serverless application and having a secret key in JSON format, I always looked...",
+      "tags": [
+        "secretmanager",
+        "gcp",
+        "cloudrun",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqeaqgj04v1rzwudl8547.png",
+      "source": "Dev.to",
+      "user": "Razan Fawwaz"
+    },
+    {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
+      "published_at": "2026-03-31T20:52:09Z",
+      "description": "The Problem   In my previous post, I shared how I used an AI agent framework during a train...",
+      "tags": [
+        "serverless",
+        "dataengineering",
+        "cloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnm7ueuuqqy7yjs6hgkme.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
+    },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
@@ -1605,6 +1741,21 @@
   ],
   "Security": [
     {
+      "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
+      "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
+      "published_at": "2026-04-01T12:41:18Z",
+      "description": "We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...",
+      "tags": [
+        "webdev",
+        "ai",
+        "opensource",
+        "authentication"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
+      "source": "Dev.to",
+      "user": "Lakhan Samani"
+    },
+    {
       "title": "Working with JWTs in Laravel (Without the Magic)",
       "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
       "published_at": "2026-03-30T18:36:33Z",
@@ -1618,36 +1769,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png",
       "source": "Dev.to",
       "user": "Mark Townsend"
-    },
-    {
-      "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
-      "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
-      "published_at": "2026-03-31T06:48:59Z",
-      "description": "Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "security",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png",
-      "source": "Dev.to",
-      "user": "Abhay"
-    },
-    {
-      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
-      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
-      "published_at": "2026-03-31T02:37:02Z",
-      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cybersecurity",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
-      "source": "Dev.to",
-      "user": "PracticeOverflow"
     },
     {
       "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
@@ -1679,6 +1800,36 @@
   ],
   "Tools": [
     {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
+    },
+    {
+      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
+      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
+      "published_at": "2026-04-01T07:14:45Z",
+      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
+      "tags": [
+        "softwareengineering",
+        "ai",
+        "nestjs",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
+      "source": "Dev.to",
+      "user": "Jim Zandueta"
+    },
+    {
       "title": "What are your goals for the week? #172",
       "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm",
       "published_at": "2026-03-30T14:28:37Z",
@@ -1707,36 +1858,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfenmb1a232w2r519zdu.png",
       "source": "Dev.to",
       "user": "OsirisFrik"
-    },
-    {
-      "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
-      "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
-      "published_at": "2026-03-31T06:48:59Z",
-      "description": "Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "security",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png",
-      "source": "Dev.to",
-      "user": "Abhay"
-    },
-    {
-      "title": "Auth0 MCP Server Extension for Gemini CLI",
-      "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
-      "published_at": "2026-03-27T11:00:00Z",
-      "description": "The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...",
-      "tags": [
-        "ai",
-        "mcp",
-        "tutorial",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
-      "source": "Dev.to",
-      "user": "Jessica Temporal"
     },
     {
       "title": "Bad Code Is a High-Interest Loan: How Technical Debt Slowly Kills Team Velocity",
@@ -1824,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 7637,
+      "stars": 7795,
       "user": "openai"
     },
     {
@@ -1839,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2573,
+      "stars": 2576,
       "user": "magnum6actual"
     },
     {
@@ -1869,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "meodai"
     },
     {
@@ -1899,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4549,
+      "stars": 4578,
       "user": "titanwings"
     },
     {
@@ -1914,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1803,
+      "stars": 1804,
       "user": "garinasset"
     },
     {
@@ -1929,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1134,
       "user": "oaker-io"
     },
     {
@@ -1944,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1003,
       "user": "jxnxts"
     },
     {
@@ -1959,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 778,
       "user": "therealXiaomanChu"
     },
     {
@@ -1974,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "vkhanhqui"
     },
     {
