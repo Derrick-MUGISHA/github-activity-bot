@@ -60,21 +60,6 @@
       "user": "Lakhan Samani"
     },
     {
-      "title": "Antigravity: My Approach to Deliver the Most Assured Value for the Least Money",
-      "url": "https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip",
-      "published_at": "2026-04-01T05:49:34Z",
-      "description": "As I'm not a professional developer but a guy who needs to use automation to get things done, I...",
-      "tags": [
-        "antigravity",
-        "development",
-        "automation",
-        "responsibleai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftypteqi86eyrzkbx18sb.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
       "published_at": "2026-04-01T15:25:36Z",
@@ -132,6 +117,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png",
       "source": "Dev.to",
       "user": "Tarek"
+    },
+    {
+      "title": "Antigravity: My Approach to Deliver the Most Assured Value for the Least Money",
+      "url": "https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip",
+      "published_at": "2026-04-01T05:49:34Z",
+      "description": "As I'm not a professional developer but a guy who needs to use automation to get things done, I...",
+      "tags": [
+        "antigravity",
+        "development",
+        "automation",
+        "responsibleai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftypteqi86eyrzkbx18sb.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
     },
     {
       "title": "Surviving as a Human in the Age of AI",
@@ -654,7 +654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8098,
+      "stars": 8176,
       "user": "openai"
     },
     {
@@ -684,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1141,
       "user": "oaker-io"
     },
     {
@@ -699,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 803,
       "user": "therealXiaomanChu"
     },
     {
@@ -1013,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8098,
+      "stars": 8176,
       "user": "openai"
     },
     {
@@ -1028,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2583,
+      "stars": 2586,
       "user": "magnum6actual"
     },
     {
@@ -1073,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "cdppcorp"
     }
   ],
@@ -1270,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4597,
+      "stars": 4600,
       "user": "titanwings"
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1141,
       "user": "oaker-io"
     },
     {
@@ -1315,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1013,
       "user": "jxnxts"
     },
     {
@@ -1330,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 803,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1708,21 +1708,6 @@
       "user": "Chris Jarvis"
     },
     {
-      "title": "🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows",
-      "url": "https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d",
-      "published_at": "2026-03-30T22:02:55Z",
-      "description": "A lightweight Rust CLI to manage multi-monitor layouts on Windows. If you frequently change your screen layout, this tool can help by saving configurations as profiles and applying them with a single command.",
-      "tags": [
-        "rust",
-        "cli",
-        "windows",
-        "scoop"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfenmb1a232w2r519zdu.png",
-      "source": "Dev.to",
-      "user": "OsirisFrik"
-    },
-    {
       "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
       "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
       "published_at": "2026-03-31T06:48:59Z",
@@ -1838,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8098,
+      "stars": 8176,
       "user": "openai"
     },
     {
@@ -1853,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2583,
+      "stars": 2586,
       "user": "magnum6actual"
     },
     {
@@ -1898,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "cdppcorp"
     },
     {
@@ -1913,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4597,
+      "stars": 4600,
       "user": "titanwings"
     },
     {
@@ -1943,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1141,
       "user": "oaker-io"
     },
     {
@@ -1958,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1013,
       "user": "jxnxts"
     },
     {
@@ -1973,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 803,
       "user": "therealXiaomanChu"
     },
     {
@@ -1988,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 268,
       "user": "vkhanhqui"
     },
     {
@@ -2048,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "lemire"
     }
   ]
