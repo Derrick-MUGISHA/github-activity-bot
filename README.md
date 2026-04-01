@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-01-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
 **Cloud**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦🟦 5 (4.8%)
-
 **Security**: 🟦🟦 5 (4.8%)
+
+**Database**: 🟦🟦 4 (3.8%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -58,32 +58,34 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.2 (30.2%)
-Java            ███████████████████████ 23.3 (23.3%)
-Python          ██████████████████████ 22.1 (22.1%)
-Go              ██████████████████ 18.6 (18.6%)
+JavaScript      ██████████████████████████████ 30.6 (30.6%)
+Java            ██████████████████████ 22.4 (22.4%)
+Python          █████████████████████ 21.2 (21.2%)
+Go              ██████████████████ 18.8 (18.8%)
 Rust            ███ 3.5 (3.5%)
 Ruby            █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
+CSharp          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 26
-    "Java" : 20
-    "Python" : 19
+    "Java" : 19
+    "Python" : 18
     "Go" : 16
     "Rust" : 3
     "Ruby" : 1
     "PHP" : 1
+    "CSharp" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![llm](https://img.shields.io/badge/llm-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![career](https://img.shields.io/badge/career-5-blue) ![llm](https://img.shields.io/badge/llm-5-blue) 
 
 
 
@@ -123,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-01 23:00 CAT)
+## 📅 Latest Updates (2026-04-02 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +216,7 @@ npm run test
 - [Implementing a RAG system: Walk](https://dev.to/gde/implementing-a-rag-system-walk-4h76) _[Dev.to]_
 - [TERSE — A New Serialization Format Built for LLMs](https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34) _[Dev.to]_
 
-_Last automated update: Wed, 01 Apr 2026 23:57:18 CAT_
+_Last automated update: Thu, 02 Apr 2026 00:39:24 CAT_
 
 
 
@@ -222,36 +224,36 @@ _Last automated update: Wed, 01 Apr 2026 23:57:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -285,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 01 Apr 2026 21:57:18 GMT</b><br/>
+  <b>Last automated update: Wed, 01 Apr 2026 22:39:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

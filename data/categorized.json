@@ -511,6 +511,36 @@
       "user": "Patric Green"
     },
     {
+      "title": "Lost Skills We Sold for Convenience Over Commitment",
+      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
+      "published_at": "2026-03-29T11:49:29Z",
+      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
+      "tags": [
+        "career",
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
+      "source": "Dev.to",
+      "user": "Carlos Nah "
+    },
+    {
+      "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
+      "url": "https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl",
+      "published_at": "2026-03-25T21:57:51Z",
+      "description": "I purchased the domain evidenceekanem.me and hosting from GoDaddy on the same day in March 2024. By...",
+      "tags": [
+        "webdev",
+        "dotnet",
+        "nuxt",
+        "vue"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
+      "source": "Dev.to",
+      "user": "Evidence Etinih Ekanem"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -654,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8262,
+      "stars": 8316,
       "user": "openai"
     },
     {
@@ -699,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 810,
       "user": "therealXiaomanChu"
     },
     {
@@ -714,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "rhino-acoustic"
     }
   ],
@@ -810,21 +840,6 @@
       "user": "OlumideSamuel"
     },
     {
-      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
-      "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
-      "published_at": "2026-03-28T19:39:32Z",
-      "description": "So, one of my favourite games lately, Timberborn, has released its 1.0 version and finally left early...",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "donttrythisathome"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
-      "source": "Dev.to",
-      "user": "Pascal Thormeier"
-    },
-    {
       "title": "String Polyfills & Common Interview Methods in JavaScript",
       "url": "https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g",
       "published_at": "2026-03-29T19:42:57Z",
@@ -880,6 +895,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
       "source": "Dev.to",
       "user": "Lauren Lee"
+    },
+    {
+      "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
+      "url": "https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl",
+      "published_at": "2026-03-25T21:57:51Z",
+      "description": "I purchased the domain evidenceekanem.me and hosting from GoDaddy on the same day in March 2024. By...",
+      "tags": [
+        "webdev",
+        "dotnet",
+        "nuxt",
+        "vue"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
+      "source": "Dev.to",
+      "user": "Evidence Etinih Ekanem"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1013,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8262,
+      "stars": 8316,
       "user": "openai"
     },
     {
@@ -1028,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2588,
+      "stars": 2590,
       "user": "magnum6actual"
     },
     {
@@ -1073,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 291,
       "user": "cdppcorp"
     }
   ],
@@ -1122,21 +1152,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8np6nhv7ffmdbgkk4q0.png",
       "source": "Dev.to",
       "user": "Diego Resendez"
-    },
-    {
-      "title": "Run Any HuggingFace Model on TPUs: A Beginner's Guide to TorchAX",
-      "url": "https://dev.to/gde/run-any-huggingface-model-on-tpus-a-beginners-guide-to-torchax-4ln0",
-      "published_at": "2026-03-29T17:04:14Z",
-      "description": "Learn how to run PyTorch HuggingFace models on Google TPUs using torchax — no JAX rewrite needed. Includes benchmarks, text classification, text generation, and a Colab notebook.",
-      "tags": [
-        "machinelearning",
-        "pytorch",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fahmed-elnaggar%2Ftorchax-huggingface%2Fmain%2Fassets%2Fcover-image.png",
-      "source": "Dev.to",
-      "user": "Ahmed Elnaggar"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1315,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1015,
+      "stars": 1019,
       "user": "jxnxts"
     },
     {
@@ -1330,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 810,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1560,21 +1575,6 @@
       "user": "Team Tiger Data"
     },
     {
-      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
-      "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
-      "published_at": "2026-03-28T19:39:32Z",
-      "description": "So, one of my favourite games lately, Timberborn, has released its 1.0 version and finally left early...",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "donttrythisathome"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
-      "source": "Dev.to",
-      "user": "Pascal Thormeier"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1708,6 +1708,21 @@
       "user": "Chris Jarvis"
     },
     {
+      "title": "🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows",
+      "url": "https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d",
+      "published_at": "2026-03-30T22:02:55Z",
+      "description": "A lightweight Rust CLI to manage multi-monitor layouts on Windows. If you frequently change your screen layout, this tool can help by saving configurations as profiles and applying them with a single command.",
+      "tags": [
+        "rust",
+        "cli",
+        "windows",
+        "scoop"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfenmb1a232w2r519zdu.png",
+      "source": "Dev.to",
+      "user": "OsirisFrik"
+    },
+    {
       "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
       "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
       "published_at": "2026-03-31T06:48:59Z",
@@ -1823,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8262,
+      "stars": 8316,
       "user": "openai"
     },
     {
@@ -1838,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2588,
+      "stars": 2590,
       "user": "magnum6actual"
     },
     {
@@ -1883,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 291,
       "user": "cdppcorp"
     },
     {
@@ -1943,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1015,
+      "stars": 1019,
       "user": "jxnxts"
     },
     {
@@ -1958,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 810,
       "user": "therealXiaomanChu"
     },
     {
@@ -1992,6 +2007,21 @@
       "user": "isboyjc"
     },
     {
+      "title": "rhino-acoustic/NeuronFS - Structure is Context. 0-byte files govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
+      "url": "https://github.com/rhino-acoustic/NeuronFS",
+      "published_at": "2026-03-26T13:25:08Z",
+      "description": "Structure is Context. 0-byte files govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "rhino-acoustic"
+    },
+    {
       "title": "dogadmin/ProcIR - GitHub Repository",
       "url": "https://github.com/dogadmin/ProcIR",
       "published_at": "2026-03-28T14:19:39Z",
@@ -2005,21 +2035,6 @@
       "source": "GitHub",
       "stars": 120,
       "user": "dogadmin"
-    },
-    {
-      "title": "rhino-acoustic/NeuronFS - Structure is Context. 0-byte files govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
-      "url": "https://github.com/rhino-acoustic/NeuronFS",
-      "published_at": "2026-03-26T13:25:08Z",
-      "description": "Structure is Context. 0-byte files govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
-      "source": "GitHub",
-      "stars": 119,
-      "user": "rhino-acoustic"
     },
     {
       "title": "lemire/constmap - GitHub Repository",
