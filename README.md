@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-02 0:00 CAT)
+## 📅 Latest Updates (2026-04-02 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Implementing a RAG system: Walk](https://dev.to/gde/implementing-a-rag-system-walk-4h76) _[Dev.to]_
 - [TERSE — A New Serialization Format Built for LLMs](https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34) _[Dev.to]_
 
-_Last automated update: Thu, 02 Apr 2026 00:39:24 CAT_
+_Last automated update: Thu, 02 Apr 2026 01:21:04 CAT_
 
 
 
@@ -224,7 +224,29 @@ _Last automated update: Thu, 02 Apr 2026 00:39:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. DataStructures: Implement LRU Cache
+
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
+
+<details>
+<summary>💡 Hint</summary>
+
+Doubly linked list + hash map, O(1) operations
+
+</details>
+
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+
+**Difficulty**: Medium | **Topics**: event loop, async
+
+<details>
+<summary>💡 Hint</summary>
+
+Execution timing, event loop phases
+
+</details>
+
+### 3. React: Explain the difference between state and props
 
 **Difficulty**: Easy | **Topics**: data flow, components
 
@@ -232,28 +254,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Ownership, mutability, data flow direction
-
-</details>
-
-### 2. React: What are hooks and why were they introduced?
-
-**Difficulty**: Medium | **Topics**: hooks, functional components
-
-<details>
-<summary>💡 Hint</summary>
-
-State in functional components, reusable logic, cleaner code
-
-</details>
-
-### 3. Java: What are Java Streams and how do they work?
-
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 01 Apr 2026 22:39:24 GMT</b><br/>
+  <b>Last automated update: Wed, 01 Apr 2026 23:21:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
