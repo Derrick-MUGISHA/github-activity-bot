@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
+      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
+      "published_at": "2026-04-01T12:44:00Z",
+      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
+      "tags": [
+        "ai",
+        "discuss",
+        "mlh",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
       "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
       "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
       "published_at": "2026-04-01T10:00:00Z",
@@ -15,19 +30,19 @@
       "user": "Ayu Adiati"
     },
     {
-      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
-      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
-      "published_at": "2026-04-01T12:44:00Z",
-      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
+      "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
+      "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
+      "published_at": "2026-04-01T16:19:39Z",
+      "description": "Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...",
       "tags": [
-        "ai",
-        "discuss",
-        "mlh",
-        "opensource"
+        "python",
+        "accounting",
+        "opensource",
+        "fintech"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png",
       "source": "Dev.to",
-      "user": "Ryan Swift"
+      "user": "billkhiz"
     },
     {
       "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
@@ -164,21 +179,6 @@
       "user": "Glen Yu"
     },
     {
-      "title": "TERSE — A New Serialization Format Built for LLMs",
-      "url": "https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34",
-      "published_at": "2026-03-31T12:10:36Z",
-      "description": "JSON carries ~47% structural noise on every LLM API call. TERSE is a new open-source serialization format that covers the full JSON data model with 30–55% fewer tokens. Formal spec, 4 reference implementations, live playground.",
-      "tags": [
-        "llm",
-        "opensource",
-        "ai",
-        "token"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttb7eoim92awhrpor7ze.png",
-      "source": "Dev.to",
-      "user": "Rudson Kiyoshi Souza Carvalho"
-    },
-    {
       "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
       "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
       "published_at": "2026-03-31T20:52:09Z",
@@ -251,20 +251,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvjn6amldbsv4xhdudmw.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs",
-      "url": "https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j",
-      "published_at": "2026-03-31T18:56:42Z",
-      "description": "In our agent factory holiday special, Don McCasland and I were joined by Kyle Meggs, Senior Product...",
-      "tags": [
-        "ai",
-        "agents",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftku7qy5qx6zykj23of00.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
@@ -684,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8361,
+      "stars": 8395,
       "user": "openai"
     },
     {
@@ -714,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1144,
       "user": "oaker-io"
     },
     {
@@ -729,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 816,
       "user": "therealXiaomanChu"
     },
     {
@@ -744,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "rhino-acoustic"
     }
   ],
@@ -778,21 +764,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png",
       "source": "Dev.to",
       "user": "Tarek"
-    },
-    {
-      "title": "TERSE — A New Serialization Format Built for LLMs",
-      "url": "https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34",
-      "published_at": "2026-03-31T12:10:36Z",
-      "description": "JSON carries ~47% structural noise on every LLM API call. TERSE is a new open-source serialization format that covers the full JSON data model with 30–55% fewer tokens. Formal spec, 4 reference implementations, live playground.",
-      "tags": [
-        "llm",
-        "opensource",
-        "ai",
-        "token"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttb7eoim92awhrpor7ze.png",
-      "source": "Dev.to",
-      "user": "Rudson Kiyoshi Souza Carvalho"
     },
     {
       "title": "Managing Secret For Your Golang Apps With The GCP Secret Manager",
@@ -1043,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8361,
+      "stars": 8395,
       "user": "openai"
     },
     {
@@ -1103,11 +1074,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 294,
       "user": "cdppcorp"
     }
   ],
   "Python": [
+    {
+      "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
+      "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
+      "published_at": "2026-04-01T16:19:39Z",
+      "description": "Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...",
+      "tags": [
+        "python",
+        "accounting",
+        "opensource",
+        "fintech"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png",
+      "source": "Dev.to",
+      "user": "billkhiz"
+    },
     {
       "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
       "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
@@ -1285,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4607,
+      "stars": 4609,
       "user": "titanwings"
     },
     {
@@ -1300,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1807,
+      "stars": 1808,
       "user": "garinasset"
     },
     {
@@ -1315,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1144,
       "user": "oaker-io"
     },
     {
@@ -1330,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1024,
       "user": "jxnxts"
     },
     {
@@ -1345,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 816,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1663,6 +1649,21 @@
   ],
   "Tools": [
     {
+      "title": "🌪️ Proof of Work: The To-Do List of Infinite Regret",
+      "url": "https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le",
+      "published_at": "2026-04-01T20:49:57Z",
+      "description": "**           What I Built   ** I built a productivity app for people who hate being productive. Proof...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F07oo39h43oc8jd9uvis4.png",
+      "source": "Dev.to",
+      "user": "Malik Sohaib iqbal"
+    },
+    {
       "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
       "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
       "published_at": "2026-04-01T02:37:52Z",
@@ -1838,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8361,
+      "stars": 8395,
       "user": "openai"
     },
     {
@@ -1898,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 294,
       "user": "cdppcorp"
     },
     {
@@ -1913,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4607,
+      "stars": 4609,
       "user": "titanwings"
     },
     {
@@ -1928,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1807,
+      "stars": 1808,
       "user": "garinasset"
     },
     {
@@ -1943,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1144,
       "user": "oaker-io"
     },
     {
@@ -1958,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1024,
       "user": "jxnxts"
     },
     {
@@ -1973,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 816,
       "user": "therealXiaomanChu"
     },
     {
@@ -2018,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "rhino-acoustic"
     },
     {

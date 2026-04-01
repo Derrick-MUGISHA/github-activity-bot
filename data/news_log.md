@@ -1103780,3 +1103780,743 @@ This guide introduces a drop-in architectural pattern for teams building multi-a
 
 ---
 
+
+
+## 📰 DevTech News — 2026-04-02 1:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (52 articles)
+
+#### 1. [3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln)
+📅 Wed, 01 Apr 2026 12:44:00 GMT
+👤 By: Ryan Swift | 📌 Source: Dev.to
+
+![3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg)
+
+Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...
+
+🏷️ Tags: `ai`, `discuss`, `mlh`, `opensource`
+
+---
+
+#### 2. [The Curated, Automated Open Source Portfolio: How It’s Going](https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98)
+📅 Wed, 01 Apr 2026 10:00:00 GMT
+👤 By: Ayu Adiati | 📌 Source: Dev.to
+
+![The Curated, Automated Open Source Portfolio: How It’s Going](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png)
+
+A few months ago, I shared a story about building an automated open source portfolio using just my...
+
+🏷️ Tags: `opensource`, `ai`, `vibecoding`
+
+---
+
+#### 3. [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6)
+📅 Wed, 01 Apr 2026 16:19:39 GMT
+👤 By: billkhiz | 📌 Source: Dev.to
+
+![I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png)
+
+Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...
+
+🏷️ Tags: `python`, `accounting`, `opensource`, `fintech`
+
+---
+
+#### 4. [When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2)
+📅 Wed, 01 Apr 2026 02:37:52 GMT
+👤 By: T.J. Maher | 📌 Source: Dev.to
+
+![When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png)
+
+Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...
+
+🏷️ Tags: `ai`, `llm`, `python`, `testing`
+
+---
+
+#### 5. [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a)
+📅 Wed, 01 Apr 2026 12:41:18 GMT
+👤 By: Lakhan Samani | 📌 Source: Dev.to
+
+![Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png)
+
+We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...
+
+🏷️ Tags: `webdev`, `ai`, `opensource`, `authentication`
+
+---
+
+#### 6. [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84)
+📅 Wed, 01 Apr 2026 15:25:36 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `python`, `gemini`, `awsfargate`, `geminilive`
+
+---
+
+#### 7. [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0)
+📅 Tue, 31 Mar 2026 13:58:35 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png)
+
+A post by Ben Halpern
+
+🏷️ Tags: `database`, `news`, `performance`
+
+---
+
+#### 8. [The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1)
+📅 Wed, 01 Apr 2026 07:14:45 GMT
+👤 By: Jim Zandueta | 📌 Source: Dev.to
+
+![The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png)
+
+The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...
+
+🏷️ Tags: `softwareengineering`, `ai`, `nestjs`, `productivity`
+
+---
+
+#### 9. [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62)
+📅 Tue, 31 Mar 2026 17:49:54 GMT
+👤 By: Tarek | 📌 Source: Dev.to
+
+![I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png)
+
+Why I rewrote Skalex v4 from the ground up with vector search, agent memory, and a one-line MCP server built into the core.
+
+🏷️ Tags: `javascript`, `ai`, `database`, `webdev`
+
+---
+
+#### 10. [Antigravity: My Approach to Deliver the Most Assured Value for the Least Money](https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip)
+📅 Wed, 01 Apr 2026 05:49:34 GMT
+👤 By: Alexander Tyutin | 📌 Source: Dev.to
+
+![Antigravity: My Approach to Deliver the Most Assured Value for the Least Money](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftypteqi86eyrzkbx18sb.png)
+
+As I'm not a professional developer but a guy who needs to use automation to get things done, I...
+
+🏷️ Tags: `antigravity`, `development`, `automation`, `responsibleai`
+
+---
+
+### 🏷️ JavaScript (25 articles)
+
+#### 1. [The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1)
+📅 Wed, 01 Apr 2026 07:14:45 GMT
+👤 By: Jim Zandueta | 📌 Source: Dev.to
+
+![The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png)
+
+The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...
+
+🏷️ Tags: `softwareengineering`, `ai`, `nestjs`, `productivity`
+
+---
+
+#### 2. [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62)
+📅 Tue, 31 Mar 2026 17:49:54 GMT
+👤 By: Tarek | 📌 Source: Dev.to
+
+![I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png)
+
+Why I rewrote Skalex v4 from the ground up with vector search, agent memory, and a one-line MCP server built into the core.
+
+🏷️ Tags: `javascript`, `ai`, `database`, `webdev`
+
+---
+
+#### 3. [Managing Secret For Your Golang Apps With The GCP Secret Manager](https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj)
+📅 Wed, 01 Apr 2026 05:02:19 GMT
+👤 By: Razan Fawwaz | 📌 Source: Dev.to
+
+![Managing Secret For Your Golang Apps With The GCP Secret Manager](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqeaqgj04v1rzwudl8547.png)
+
+While developing a serverless application and having a secret key in JSON format, I always looked...
+
+🏷️ Tags: `secretmanager`, `gcp`, `cloudrun`, `programming`
+
+---
+
+#### 4. [Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App](https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae)
+📅 Tue, 31 Mar 2026 23:17:59 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvjn6amldbsv4xhdudmw.jpg)
+
+Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App   In the rapidly evolving...
+
+🏷️ Tags: `angular`, `firebase`, `gemini`, `tutorial`
+
+---
+
+#### 5. [With the advent of AI, is there still a need for Frontend Engineers?](https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm)
+📅 Sun, 29 Mar 2026 15:37:53 GMT
+👤 By: OlumideSamuel | 📌 Source: Dev.to
+
+![With the advent of AI, is there still a need for Frontend Engineers?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png)
+
+It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? 
+
+🏷️ Tags: `frontend`, `javascript`, `ai`, `claude`
+
+---
+
+#### 6. [String Polyfills & Common Interview Methods in JavaScript](https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g)
+📅 Sun, 29 Mar 2026 19:42:57 GMT
+👤 By: Ritam Saha | 📌 Source: Dev.to
+
+![String Polyfills & Common Interview Methods in JavaScript](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png)
+
+Introduction: Why String Manipulation Still Matters   Imagine this: You’re in a high-stakes...
+
+🏷️ Tags: `javascript`, `programming`, `beginners`, `webdev`
+
+---
+
+#### 7. [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+📅 Mon, 23 Mar 2026 05:48:13 GMT
+👤 By: Satish Gowda | 📌 Source: Dev.to
+
+![How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png)
+
+How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...
+
+🏷️ Tags: `frontend`, `javascript`, `react`, `tutorial`
+
+---
+
+#### 8. [MavonEngine: A TypeScript Multiplayer 3D Game Engine for the Browser Now Available](https://dev.to/mattvb91/mavonengine-a-typescript-multiplayer-3d-game-engine-for-the-browser-now-available-20kk)
+📅 Mon, 30 Mar 2026 17:38:17 GMT
+👤 By: Matthias von Bargen | 📌 Source: Dev.to
+
+![MavonEngine: A TypeScript Multiplayer 3D Game Engine for the Browser Now Available](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtllcvyvv5ruiixqa2d0.png)
+
+Building a multiplayer 3D browser game means stitching together a renderer, a physics engine, a...
+
+🏷️ Tags: `gamedev`
+
+---
+
+#### 9. [Midnight network is live](https://dev.to/devsofmidnight/midnight-network-is-live-1apj)
+📅 Mon, 30 Mar 2026 14:28:04 GMT
+👤 By: Lauren Lee | 📌 Source: Dev.to
+
+![Midnight network is live](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg)
+
+The Midnight network is officially live. This milestone marks the introduction of state continuity...
+
+🏷️ Tags: `blockchain`, `web3`, `typescript`, `privacy`
+
+---
+
+#### 10. [How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)](https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl)
+📅 Wed, 25 Mar 2026 21:57:51 GMT
+👤 By: Evidence Etinih Ekanem | 📌 Source: Dev.to
+
+![How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png)
+
+I purchased the domain evidenceekanem.me and hosting from GoDaddy on the same day in March 2024. By...
+
+🏷️ Tags: `webdev`, `dotnet`, `nuxt`, `vue`
+
+---
+
+### 🏷️ Python (19 articles)
+
+#### 1. [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6)
+📅 Wed, 01 Apr 2026 16:19:39 GMT
+👤 By: billkhiz | 📌 Source: Dev.to
+
+![I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png)
+
+Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...
+
+🏷️ Tags: `python`, `accounting`, `opensource`, `fintech`
+
+---
+
+#### 2. [When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2)
+📅 Wed, 01 Apr 2026 02:37:52 GMT
+👤 By: T.J. Maher | 📌 Source: Dev.to
+
+![When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png)
+
+Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...
+
+🏷️ Tags: `ai`, `llm`, `python`, `testing`
+
+---
+
+#### 3. [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84)
+📅 Wed, 01 Apr 2026 15:25:36 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `python`, `gemini`, `awsfargate`, `geminilive`
+
+---
+
+#### 4. [Processing 1M Chess Games in 15 Seconds with Rust](https://dev.to/chrnx/processing-1m-chess-games-in-15-seconds-with-rust-pe3)
+📅 Tue, 31 Mar 2026 04:24:01 GMT
+👤 By: Diego Resendez | 📌 Source: Dev.to
+
+![Processing 1M Chess Games in 15 Seconds with Rust](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8np6nhv7ffmdbgkk4q0.png)
+
+I train self-supervised models on chess game data. My Python pipeline using python-chess took 25...
+
+🏷️ Tags: `rust`, `chess`, `machinelearning`, `gamedev`
+
+---
+
+#### 5. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (2 articles)
+
+#### 1. [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb)
+📅 Sun, 29 Mar 2026 04:13:52 GMT
+👤 By: Ajadi Olalekan Jamiu | 📌 Source: Dev.to
+
+![Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png)
+
+Introduction  In the early stages of learning cloud development, it’s tempting to just "make it work"...
+
+🏷️ Tags: `devops`, `cloud`, `azure`
+
+---
+
+#### 2. [Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo)
+📅 Tue, 31 Mar 2026 12:19:29 GMT
+👤 By: Maciej Strzelczyk | 📌 Source: Dev.to
+
+![Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21jzh6a4lcwoa1q6cqy5.png)
+
+Google Cloud offers plenty of different products and services, some of which seem to be covering...
+
+🏷️ Tags: `googlecloud`, `gcp`, `devops`
+
+---
+
+### 🏷️ WebDev (5 articles)
+
+#### 1. [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib)
+📅 Sun, 29 Mar 2026 23:23:50 GMT
+👤 By: Ben Evans | 📌 Source: Dev.to
+
+![CodePen TV secrets](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png)
+
+Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...
+
+🏷️ Tags: `codepen`, `css`, `cssart`, `crt`
+
+---
+
+#### 2. [With the advent of AI, is there still a need for Frontend Engineers?](https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm)
+📅 Sun, 29 Mar 2026 15:37:53 GMT
+👤 By: OlumideSamuel | 📌 Source: Dev.to
+
+![With the advent of AI, is there still a need for Frontend Engineers?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png)
+
+It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? 
+
+🏷️ Tags: `frontend`, `javascript`, `ai`, `claude`
+
+---
+
+#### 3. [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+📅 Mon, 23 Mar 2026 05:48:13 GMT
+👤 By: Satish Gowda | 📌 Source: Dev.to
+
+![How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png)
+
+How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...
+
+🏷️ Tags: `frontend`, `javascript`, `react`, `tutorial`
+
+---
+
+#### 4. [I Built a Tool Because 90% of My AI Agent's Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3)
+📅 Mon, 30 Mar 2026 23:21:31 GMT
+👤 By: Kaushik Gnanaskandan | 📌 Source: Dev.to
+
+![I Built a Tool Because 90% of My AI Agent's Tokens Were Spent Searching, Not Coding](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa7unx6s20pysdf3enw5.png)
+
+5,000 to 10,000 tokens. That's what my AI agent was burning before changing a single line of frontend code.
+
+🏷️ Tags: `ai`, `webdev`, `mcp`, `devtools`
+
+---
+
+#### 5. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Cloud (5 articles)
+
+#### 1. [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84)
+📅 Wed, 01 Apr 2026 15:25:36 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `python`, `gemini`, `awsfargate`, `geminilive`
+
+---
+
+#### 2. [Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)](https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d)
+📅 Tue, 31 Mar 2026 20:52:09 GMT
+👤 By: Patricio Navarro | 📌 Source: Dev.to
+
+![Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnm7ueuuqqy7yjs6hgkme.png)
+
+The Problem   In my previous post, I shared how I used an AI agent framework during a train...
+
+🏷️ Tags: `serverless`, `dataengineering`, `cloud`, `tutorial`
+
+---
+
+#### 3. [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb)
+📅 Sun, 29 Mar 2026 04:13:52 GMT
+👤 By: Ajadi Olalekan Jamiu | 📌 Source: Dev.to
+
+![Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png)
+
+Introduction  In the early stages of learning cloud development, it’s tempting to just "make it work"...
+
+🏷️ Tags: `devops`, `cloud`, `azure`
+
+---
+
+#### 4. [Managing Secret For Your Golang Apps With The GCP Secret Manager](https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj)
+📅 Wed, 01 Apr 2026 05:02:19 GMT
+👤 By: Razan Fawwaz | 📌 Source: Dev.to
+
+![Managing Secret For Your Golang Apps With The GCP Secret Manager](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqeaqgj04v1rzwudl8547.png)
+
+While developing a serverless application and having a secret key in JSON format, I always looked...
+
+🏷️ Tags: `secretmanager`, `gcp`, `cloudrun`, `programming`
+
+---
+
+#### 5. [Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo)
+📅 Tue, 31 Mar 2026 12:19:29 GMT
+👤 By: Maciej Strzelczyk | 📌 Source: Dev.to
+
+![Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21jzh6a4lcwoa1q6cqy5.png)
+
+Google Cloud offers plenty of different products and services, some of which seem to be covering...
+
+🏷️ Tags: `googlecloud`, `gcp`, `devops`
+
+---
+
+### 🏷️ Database (4 articles)
+
+#### 1. [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0)
+📅 Tue, 31 Mar 2026 13:58:35 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png)
+
+A post by Ben Halpern
+
+🏷️ Tags: `database`, `news`, `performance`
+
+---
+
+#### 2. [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62)
+📅 Tue, 31 Mar 2026 17:49:54 GMT
+👤 By: Tarek | 📌 Source: Dev.to
+
+![I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png)
+
+Why I rewrote Skalex v4 from the ground up with vector search, agent memory, and a one-line MCP server built into the core.
+
+🏷️ Tags: `javascript`, `ai`, `database`, `webdev`
+
+---
+
+#### 3. [How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d)
+📅 Mon, 30 Mar 2026 17:42:43 GMT
+👤 By: Team Tiger Data | 📌 Source: Dev.to
+
+![How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ym3q88l1wrfv1wuagus.png)
+
+As engineers, we're taught to design for reliability. We do design calculations, run simulations,...
+
+🏷️ Tags: `iot`, `postgres`, `industrial`, `database`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (5 articles)
+
+#### 1. [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a)
+📅 Wed, 01 Apr 2026 12:41:18 GMT
+👤 By: Lakhan Samani | 📌 Source: Dev.to
+
+![Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png)
+
+We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...
+
+🏷️ Tags: `webdev`, `ai`, `opensource`, `authentication`
+
+---
+
+#### 2. [Working with JWTs in Laravel (Without the Magic)](https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh)
+📅 Mon, 30 Mar 2026 18:36:33 GMT
+👤 By: Mark Townsend | 📌 Source: Dev.to
+
+![Working with JWTs in Laravel (Without the Magic)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png)
+
+If you've worked with APIs, authentication, or third-party integrations, you've almost certainly run...
+
+🏷️ Tags: `laravel`, `php`, `security`, `tutorial`
+
+---
+
+#### 3. [Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks](https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839)
+📅 Tue, 31 Mar 2026 06:48:59 GMT
+👤 By: Abhay | 📌 Source: Dev.to
+
+![Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png)
+
+Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...
+
+🏷️ Tags: `claudecode`, `ai`, `security`, `devtools`
+
+---
+
+#### 4. [Securing the Agentic Era: AI Agents as First-Class Security Principals](https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f)
+📅 Tue, 31 Mar 2026 02:37:02 GMT
+👤 By: PracticeOverflow | 📌 Source: Dev.to
+
+![Securing the Agentic Era: AI Agents as First-Class Security Principals](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png)
+
+Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...
+
+🏷️ Tags: `agents`, `ai`, `cybersecurity`, `security`
+
+---
+
+#### 5. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (27 articles)
+
+#### 1. [🌪️ Proof of Work: The To-Do List of Infinite Regret](https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le)
+📅 Wed, 01 Apr 2026 20:49:57 GMT
+👤 By: Malik Sohaib iqbal | 📌 Source: Dev.to
+
+![🌪️ Proof of Work: The To-Do List of Infinite Regret](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F07oo39h43oc8jd9uvis4.png)
+
+**           What I Built   ** I built a productivity app for people who hate being productive. Proof...
+
+🏷️ Tags: `devchallenge`, `418challenge`, `showdev`, `webdev`
+
+---
+
+#### 2. [When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2)
+📅 Wed, 01 Apr 2026 02:37:52 GMT
+👤 By: T.J. Maher | 📌 Source: Dev.to
+
+![When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png)
+
+Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...
+
+🏷️ Tags: `ai`, `llm`, `python`, `testing`
+
+---
+
+#### 3. [The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1)
+📅 Wed, 01 Apr 2026 07:14:45 GMT
+👤 By: Jim Zandueta | 📌 Source: Dev.to
+
+![The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png)
+
+The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...
+
+🏷️ Tags: `softwareengineering`, `ai`, `nestjs`, `productivity`
+
+---
+
+#### 4. [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm)
+📅 Mon, 30 Mar 2026 14:28:37 GMT
+👤 By: Chris Jarvis | 📌 Source: Dev.to
+
+![What are your goals for the week? #172](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg)
+
+Had an increase in responses last week. Thanks to @francistrdev for the shout out in their posts. I...
+
+🏷️ Tags: `career`, `discuss`, `productivity`, `watercooler`
+
+---
+
+#### 5. [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d)
+📅 Mon, 30 Mar 2026 22:02:55 GMT
+👤 By: OsirisFrik | 📌 Source: Dev.to
+
+![🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfenmb1a232w2r519zdu.png)
+
+A lightweight Rust CLI to manage multi-monitor layouts on Windows. If you frequently change your screen layout, this tool can help by saving configurations as profiles and applying them with a single command.
+
+🏷️ Tags: `rust`, `cli`, `windows`, `scoop`
+
+---
+
+#### 6. [Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks](https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839)
+📅 Tue, 31 Mar 2026 06:48:59 GMT
+👤 By: Abhay | 📌 Source: Dev.to
+
+![Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png)
+
+Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...
+
+🏷️ Tags: `claudecode`, `ai`, `security`, `devtools`
+
+---
+
+#### 7. [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m)
+📅 Fri, 27 Mar 2026 11:00:00 GMT
+👤 By: Jessica Temporal | 📌 Source: Dev.to
+
+![Auth0 MCP Server Extension for Gemini CLI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png)
+
+The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...
+
+🏷️ Tags: `ai`, `mcp`, `tutorial`, `tooling`
+
+---
+
+#### 8. [Bad Code Is a High-Interest Loan: How Technical Debt Slowly Kills Team Velocity](https://dev.to/gavincettolo/bad-code-is-a-high-interest-loan-how-technical-debt-slowly-kills-team-velocity-lac)
+📅 Tue, 31 Mar 2026 07:30:00 GMT
+👤 By: Gavin Cettolo | 📌 Source: Dev.to
+
+![Bad Code Is a High-Interest Loan: How Technical Debt Slowly Kills Team Velocity](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhtk8qjaq4u6tmgw6im7.jpg)
+
+We were moving fast.  Features shipped every week.  Stakeholders were happy.  The backlog was finally...
+
+🏷️ Tags: `webdev`, `programming`, `productivity`, `discuss`
+
+---
+
+#### 9. [The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern](https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4)
+📅 Mon, 30 Mar 2026 14:52:45 GMT
+👤 By: martin rojas | 📌 Source: Dev.to
+
+![The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg)
+
+Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...
+
+🏷️ Tags: `ai`, `careerdevelopment`, `discuss`
+
+---
+
+#### 10. [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956)
+📅 Mon, 23 Mar 2026 18:05:03 GMT
+👤 By: Ivan SZKIBA | 📌 Source: Dev.to
+
+![Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png)
+
+This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...
+
+🏷️ Tags: `ai`, `agents`, `git`, `makerchecker`
+
+---
+
