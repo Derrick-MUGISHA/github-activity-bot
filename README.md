@@ -58,12 +58,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.1 (28.1%)
-Java            ████████████████████████ 22.5 (22.5%)
-Python          ███████████████████████ 21.3 (21.3%)
-Go              ████████████████████ 19.1 (19.1%)
+JavaScript      ██████████████████████████████ 28.4 (28.4%)
+Java            ████████████████████████ 22.7 (22.7%)
+Python          ███████████████████████ 21.6 (21.6%)
+Go              ███████████████████ 18.2 (18.2%)
 Rust            █████ 4.5 (4.5%)
-CSharp          ██ 2.2 (2.2%)
+CSharp          ██ 2.3 (2.3%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -74,7 +74,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 25
     "Java" : 20
     "Python" : 19
-    "Go" : 17
+    "Go" : 16
     "Rust" : 4
     "CSharp" : 2
     "Ruby" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![career](https://img.shields.io/badge/career-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![career](https://img.shields.io/badge/career-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-01 16:00 CAT)
+## 📅 Latest Updates (2026-04-01 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,6 +142,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi4t3ch1ql6fivzf981w8.png" width="200" alt="Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!" />
+      <br/>
+      <b>Join our April Fools Challenge for a chance at TEA...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg" width="200" alt="3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early" />
       <br/>
@@ -150,6 +159,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0v180y7bjqsuz9wtrknl.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
@@ -159,22 +170,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgtax69bmxnbmofdfmhj.png" width="200" alt="What is your WPM (Words per Minute)? #1" />
       <br/>
       <b>What is your WPM (Words per Minute)? #1</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg" width="200" alt="What are your goals for the week? #172" />
-      <br/>
-      <b>What are your goals for the week? #172</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,12 +196,13 @@ npm run test
 ### 📰 Top Headlines
 
 - [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf) _[Dev.to]_
+- [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
 - [3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) _[Dev.to]_
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
-- [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
 - [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62) _[Dev.to]_
+- [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
 - [Implementing a RAG system: Walk](https://dev.to/gde/implementing-a-rag-system-walk-4h76) _[Dev.to]_
 - [TERSE — A New Serialization Format Built for LLMs](https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34) _[Dev.to]_
 - [Surviving as a Human in the Age of AI](https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d) _[Dev.to]_
 - [Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo) _[Dev.to]_
 - [Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks](https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839) _[Dev.to]_
-- [Securing the Agentic Era: AI Agents as First-Class Security Principals](https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f) _[Dev.to]_
 
-_Last automated update: Wed, 01 Apr 2026 16:45:55 CAT_
+_Last automated update: Wed, 01 Apr 2026 18:04:46 CAT_
 
 
 
@@ -224,29 +224,7 @@ _Last automated update: Wed, 01 Apr 2026 16:45:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
-
-**Difficulty**: Easy | **Topics**: data structures, mutability
-
-<details>
-<summary>💡 Hint</summary>
-
-Mutability, performance, use cases
-
-</details>
-
-### 2. Database: What is the difference between SQL and NoSQL databases?
-
-**Difficulty**: Easy | **Topics**: databases, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Schema, scalability, ACID vs BASE
-
-</details>
-
-### 3. DataStructures: Implement a function to reverse a linked list
+### 1. DataStructures: Implement a function to reverse a linked list
 
 **Difficulty**: Medium | **Topics**: linked lists, pointers
 
@@ -254,6 +232,28 @@ Schema, scalability, ACID vs BASE
 <summary>💡 Hint</summary>
 
 Iterative or recursive, three pointers
+
+</details>
+
+### 2. SystemDesign: Design a distributed cache system
+
+**Difficulty**: Hard | **Topics**: distributed systems, caching
+
+<details>
+<summary>💡 Hint</summary>
+
+Consistency, partitioning, replication, eviction policies
+
+</details>
+
+### 3. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 01 Apr 2026 14:45:55 GMT</b><br/>
+  <b>Last automated update: Wed, 01 Apr 2026 16:04:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

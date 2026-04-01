@@ -18,9 +18,9 @@
     "Tools": 24
   },
   "by_language": {
-    "Go": 17,
     "JavaScript": 25,
     "Java": 20,
+    "Go": 16,
     "Ruby": 1,
     "Python": 19,
     "Rust": 4,
@@ -29,14 +29,14 @@
   },
   "by_date": {
     "2026-03-31": 15,
-    "2026-04-01": 1,
-    "2026-03-30": 21,
-    "2026-03-29": 11,
+    "2026-04-01": 2,
+    "2026-03-30": 20,
+    "2026-03-29": 10,
     "2026-03-27": 5,
     "2026-03-26": 7,
     "2026-03-28": 5,
     "2026-03-23": 4,
-    "2026-03-17": 1,
+    "2026-03-17": 2,
     "2026-03-25": 3,
     "2026-03-18": 1,
     "2026-03-20": 1,
@@ -71,15 +71,15 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 24,
+    "ai": 23,
     "github": 15,
     "open-source": 15,
     "javascript": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "discuss": 9,
     "webdev": 9,
+    "discuss": 8,
     "programming": 8,
     "agents": 8,
     "python": 8,
@@ -89,18 +89,18 @@
     "llm": 5,
     "tutorial": 5,
     "rust": 4,
-    "gemini": 4,
-    "watercooler": 3
+    "database": 3,
+    "productivity": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "19.1",
-    "JavaScript": "28.1",
-    "Java": "22.5",
+    "JavaScript": "28.4",
+    "Java": "22.7",
+    "Go": "18.2",
     "Ruby": "1.1",
-    "Python": "21.3",
+    "Python": "21.6",
     "Rust": "4.5",
     "PHP": "1.1",
-    "CSharp": "2.2"
+    "CSharp": "2.3"
   }
 }

@@ -367,21 +367,6 @@
       "user": "Lacy Morrow"
     },
     {
-      "title": "Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]",
-      "url": "https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck",
-      "published_at": "2026-03-29T16:35:36Z",
-      "description": "In the world of AI orchestration, it's tempting to use a Large Language Model (LLM) for every step of...",
-      "tags": [
-        "gemini",
-        "ai",
-        "tutorial",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz44ccb8ysfrceeyxy1eo.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "FE/BE - Unite Them!",
       "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
       "published_at": "2026-03-17T14:02:20Z",
@@ -482,21 +467,6 @@
       "user": "xbill"
     },
     {
-      "title": "1st time at a big tech conference - GTC 2026",
-      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
-      "published_at": "2026-03-25T16:38:29Z",
-      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
-      "tags": [
-        "ai",
-        "techtalks",
-        "career",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
-      "source": "Dev.to",
-      "user": "Matt Cool"
-    },
-    {
       "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
       "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
       "published_at": "2026-03-30T06:21:06Z",
@@ -512,6 +482,21 @@
       "user": "Maxim Saplin"
     },
     {
+      "title": "1st time at a big tech conference - GTC 2026",
+      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
+      "published_at": "2026-03-25T16:38:29Z",
+      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
+      "tags": [
+        "ai",
+        "techtalks",
+        "career",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
+      "source": "Dev.to",
+      "user": "Matt Cool"
+    },
+    {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
       "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
       "published_at": "2026-03-23T17:53:10Z",
@@ -525,6 +510,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Getting Started with Qwen3.5 Vision-Language Models",
+      "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
+      "published_at": "2026-03-17T16:00:00Z",
+      "description": "This article was originally written by James Skelton (Senior AI/ML Technical Content Strategist...",
+      "tags": [
+        "qwen",
+        "learning",
+        "aimodels",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flyhk43dl0t2ua178arvd.png",
+      "source": "Dev.to",
+      "user": "DigitalOcean"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 7400,
+      "stars": 7637,
       "user": "openai"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 279,
       "user": "iZiTTMarvin"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1125,
       "user": "oaker-io"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 750,
       "user": "therealXiaomanChu"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 115,
       "user": "rhino-acoustic"
     }
   ],
@@ -1029,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 7400,
+      "stars": 7637,
       "user": "openai"
     },
     {
@@ -1044,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2572,
+      "stars": 2573,
       "user": "magnum6actual"
     },
     {
@@ -1059,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "6551Team"
     },
     {
@@ -1089,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 279,
       "user": "iZiTTMarvin"
     }
   ],
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4519,
+      "stars": 4549,
       "user": "titanwings"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1799,
+      "stars": 1803,
       "user": "garinasset"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1125,
       "user": "oaker-io"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1002,
       "user": "jxnxts"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 750,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 7400,
+      "stars": 7637,
       "user": "openai"
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2572,
+      "stars": 2573,
       "user": "magnum6actual"
     },
     {
@@ -1854,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "6551Team"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 279,
       "user": "iZiTTMarvin"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4519,
+      "stars": 4549,
       "user": "titanwings"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1799,
+      "stars": 1803,
       "user": "garinasset"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1125,
       "user": "oaker-io"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1002,
       "user": "jxnxts"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 750,
       "user": "therealXiaomanChu"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 260,
       "user": "vkhanhqui"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "isboyjc"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 115,
       "user": "rhino-acoustic"
     },
     {
