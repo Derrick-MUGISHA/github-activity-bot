@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5604,
+      "stars": 5633,
       "user": "openai"
     },
     {
@@ -717,49 +717,19 @@
       "user": "oaker-io"
     },
     {
-      "title": "larksuite/cli - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
-      "url": "https://github.com/larksuite/cli",
-      "published_at": "2026-03-25T07:13:30Z",
-      "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+      "title": "jkeatn/Rainmaker - Autonomous weather prediction agent. Bets on Polymarket. 73% win rate.",
+      "url": "https://github.com/jkeatn/Rainmaker",
+      "published_at": "2026-03-26T12:44:48Z",
+      "description": "Autonomous weather prediction agent. Bets on Polymarket. 73% win rate.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/975231?v=4",
       "source": "GitHub",
-      "stars": 5439,
-      "user": "larksuite"
-    },
-    {
-      "title": "bhope/hedge - Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
-      "url": "https://github.com/bhope/hedge",
-      "published_at": "2026-03-25T07:54:54Z",
-      "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
-      "source": "GitHub",
-      "stars": 153,
-      "user": "bhope"
-    },
-    {
-      "title": "veyliss/ai-localbase - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
-      "url": "https://github.com/veyliss/ai-localbase",
-      "published_at": "2026-03-25T03:42:43Z",
-      "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
-      "source": "GitHub",
-      "stars": 130,
-      "user": "veyliss"
+      "stars": 101,
+      "user": "jkeatn"
     }
   ],
   "JavaScript": [
@@ -1027,7 +997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5604,
+      "stars": 5633,
       "user": "openai"
     },
     {
@@ -1042,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2555,
+      "stars": 2556,
       "user": "magnum6actual"
     },
     {
@@ -1057,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 374,
       "user": "6551Team"
     },
     {
@@ -1087,8 +1057,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 224,
       "user": "cdppcorp"
+    },
+    {
+      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "url": "https://github.com/hitmux/HitCC",
+      "published_at": "2026-03-29T08:44:09Z",
+      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
+      "source": "GitHub",
+      "stars": 616,
+      "user": "hitmux"
     }
   ],
   "Python": [
@@ -1258,21 +1243,6 @@
       "user": "gilad"
     },
     {
-      "title": "TheTom/turboquant_plus - GitHub Repository",
-      "url": "https://github.com/TheTom/turboquant_plus",
-      "published_at": "2026-03-25T01:35:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
-      "source": "GitHub",
-      "stars": 3789,
-      "user": "TheTom"
-    },
-    {
       "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！",
       "url": "https://github.com/titanwings/colleague-skill",
       "published_at": "2026-03-30T05:22:23Z",
@@ -1284,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3349,
+      "stars": 3357,
       "user": "titanwings"
     },
     {
@@ -1299,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1618,
+      "stars": 1625,
       "user": "garinasset"
     },
     {
@@ -1329,8 +1299,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 982,
       "user": "jxnxts"
+    },
+    {
+      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "url": "https://github.com/hitmux/HitCC",
+      "published_at": "2026-03-29T08:44:09Z",
+      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
+      "source": "GitHub",
+      "stars": 616,
+      "user": "hitmux"
     }
   ],
   "DevOps": [
@@ -1832,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 5604,
+      "stars": 5633,
       "user": "openai"
     },
     {
@@ -1847,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2555,
+      "stars": 2556,
       "user": "magnum6actual"
     },
     {
@@ -1862,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 374,
       "user": "6551Team"
     },
     {
@@ -1892,23 +1877,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 224,
       "user": "cdppcorp"
-    },
-    {
-      "title": "TheTom/turboquant_plus - GitHub Repository",
-      "url": "https://github.com/TheTom/turboquant_plus",
-      "published_at": "2026-03-25T01:35:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/672332?v=4",
-      "source": "GitHub",
-      "stars": 3789,
-      "user": "TheTom"
     },
     {
       "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！",
@@ -1922,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3349,
+      "stars": 3357,
       "user": "titanwings"
     },
     {
@@ -1937,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1618,
+      "stars": 1625,
       "user": "garinasset"
     },
     {
@@ -1967,23 +1937,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 982,
       "user": "jxnxts"
     },
     {
-      "title": "larksuite/cli - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
-      "url": "https://github.com/larksuite/cli",
-      "published_at": "2026-03-25T07:13:30Z",
-      "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "url": "https://github.com/hitmux/HitCC",
+      "published_at": "2026-03-29T08:44:09Z",
+      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54944174?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 5439,
-      "user": "larksuite"
+      "stars": 616,
+      "user": "hitmux"
     },
     {
       "title": "vkhanhqui/figma-mcp-go - Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
@@ -2001,49 +1971,64 @@
       "user": "vkhanhqui"
     },
     {
-      "title": "bhope/hedge - Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
-      "url": "https://github.com/bhope/hedge",
-      "published_at": "2026-03-25T07:54:54Z",
-      "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's \"The Tail at Scale\" paper.",
+      "title": "dogadmin/ProcIR - GitHub Repository",
+      "url": "https://github.com/dogadmin/ProcIR",
+      "published_at": "2026-03-28T14:19:39Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7515346?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/14845215?v=4",
       "source": "GitHub",
-      "stars": 153,
-      "user": "bhope"
+      "stars": 118,
+      "user": "dogadmin"
     },
     {
-      "title": "veyliss/ai-localbase - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
-      "url": "https://github.com/veyliss/ai-localbase",
-      "published_at": "2026-03-25T03:42:43Z",
-      "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+      "title": "isboyjc/GoProxy - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。",
+      "url": "https://github.com/isboyjc/GoProxy",
+      "published_at": "2026-03-27T15:11:41Z",
+      "description": "GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/105643199?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
       "source": "GitHub",
-      "stars": 130,
-      "user": "veyliss"
+      "stars": 115,
+      "user": "isboyjc"
     },
     {
-      "title": "EvolutionAPI/evolution-go - Evolution API / Evolution Go is an open-source WhatsApp integration API",
-      "url": "https://github.com/EvolutionAPI/evolution-go",
-      "published_at": "2026-03-25T14:43:56Z",
-      "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
+      "title": "lemire/constmap - GitHub Repository",
+      "url": "https://github.com/lemire/constmap",
+      "published_at": "2026-03-29T17:47:53Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/136080052?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 124,
-      "user": "EvolutionAPI"
+      "stars": 101,
+      "user": "lemire"
+    },
+    {
+      "title": "jkeatn/Rainmaker - Autonomous weather prediction agent. Bets on Polymarket. 73% win rate.",
+      "url": "https://github.com/jkeatn/Rainmaker",
+      "published_at": "2026-03-26T12:44:48Z",
+      "description": "Autonomous weather prediction agent. Bets on Polymarket. 73% win rate.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/975231?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "jkeatn"
     }
   ]
 }

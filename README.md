@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-03-31-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-01-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -42,7 +42,7 @@
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦 4 (3.8%)
+**Security**: 🟦🟦 4 (3.8%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -58,12 +58,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.3 (27.3%)
-Java            █████████████████████████ 22.7 (22.7%)
-Go              ███████████████████████ 20.5 (20.5%)
-Python          ███████████████████████ 20.5 (20.5%)
+JavaScript      ██████████████████████████████ 28.1 (28.1%)
+Java            ████████████████████████ 22.5 (22.5%)
+Go              ██████████████████████ 20.2 (20.2%)
+Python          ██████████████████████ 20.2 (20.2%)
 Rust            █████ 4.5 (4.5%)
-CSharp          ███ 2.3 (2.3%)
+CSharp          ██ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -71,7 +71,7 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
+    "JavaScript" : 25
     "Java" : 20
     "Go" : 18
     "Python" : 18
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-01 1:00 CAT)
+## 📅 Latest Updates (2026-04-01 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [I Built a Tool Because 90% of My AI Agent's Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3) _[Dev.to]_
 - [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d) _[Dev.to]_
 
-_Last automated update: Wed, 01 Apr 2026 01:36:34 CAT_
+_Last automated update: Wed, 01 Apr 2026 02:03:40 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 01 Apr 2026 01:36:34 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 31 Mar 2026 23:36:34 GMT</b><br/>
+  <b>Last automated update: Wed, 01 Apr 2026 00:03:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
