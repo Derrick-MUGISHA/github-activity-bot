@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
+      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
+      "published_at": "2026-04-01T10:00:00Z",
+      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
+      "tags": [
+        "opensource",
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
+      "source": "Dev.to",
+      "user": "Ayu Adiati"
+    },
+    {
       "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
       "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
       "published_at": "2026-04-01T12:44:00Z",
@@ -14,20 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg",
       "source": "Dev.to",
       "user": "Ryan Swift"
-    },
-    {
-      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
-      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
-      "published_at": "2026-04-01T10:00:00Z",
-      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
-      "tags": [
-        "opensource",
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
-      "source": "Dev.to",
-      "user": "Ayu Adiati"
     },
     {
       "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
@@ -654,7 +654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8030,
+      "stars": 8098,
       "user": "openai"
     },
     {
@@ -669,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 366,
       "user": "meodai"
     },
     {
@@ -699,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 800,
       "user": "therealXiaomanChu"
     },
     {
@@ -1013,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8030,
+      "stars": 8098,
       "user": "openai"
     },
     {
@@ -1028,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2581,
+      "stars": 2583,
       "user": "magnum6actual"
     },
     {
@@ -1058,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 366,
       "user": "meodai"
     },
     {
@@ -1270,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4595,
+      "stars": 4597,
       "user": "titanwings"
     },
     {
@@ -1315,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1010,
       "user": "jxnxts"
     },
     {
@@ -1330,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 800,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1838,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8030,
+      "stars": 8098,
       "user": "openai"
     },
     {
@@ -1853,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2581,
+      "stars": 2583,
       "user": "magnum6actual"
     },
     {
@@ -1883,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 366,
       "user": "meodai"
     },
     {
@@ -1913,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4595,
+      "stars": 4597,
       "user": "titanwings"
     },
     {
@@ -1958,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1010,
       "user": "jxnxts"
     },
     {
@@ -1973,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 800,
       "user": "therealXiaomanChu"
     },
     {
