@@ -89,6 +89,21 @@
       "user": "Rudson Kiyoshi Souza Carvalho"
     },
     {
+      "title": "Surviving as a Human in the Age of AI",
+      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
+      "published_at": "2026-03-31T02:43:37Z",
+      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...",
+      "tags": [
+        "ai",
+        "programming",
+        "career",
+        "wecoded"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
+      "source": "Dev.to",
+      "user": "Jen Looper"
+    },
+    {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
       "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
       "published_at": "2026-03-29T09:59:19Z",
@@ -131,21 +146,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png",
       "source": "Dev.to",
       "user": "Mark Townsend"
-    },
-    {
-      "title": "Surviving as a Human in the Age of AI",
-      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
-      "published_at": "2026-03-31T02:43:37Z",
-      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...",
-      "tags": [
-        "ai",
-        "programming",
-        "career",
-        "wecoded"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
     },
     {
       "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
@@ -219,21 +219,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
       "source": "Dev.to",
       "user": "Scarlett Attensil"
-    },
-    {
-      "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e",
-      "published_at": "2026-03-26T19:33:51Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "googlecloudplatform",
-        "gemini",
-        "aws",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "With the advent of AI, is there still a need for Frontend Engineers?",
@@ -685,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 6513,
+      "stars": 6599,
       "user": "openai"
     },
     {
@@ -700,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "meodai"
     },
     {
@@ -715,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 260,
       "user": "iZiTTMarvin"
     },
     {
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1062,
       "user": "oaker-io"
     },
     {
@@ -745,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 104,
       "user": "rhino-acoustic"
     }
   ],
@@ -1029,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 6513,
+      "stars": 6599,
       "user": "openai"
     },
     {
@@ -1044,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2568,
+      "stars": 2567,
       "user": "magnum6actual"
     },
     {
@@ -1059,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 548,
       "user": "6551Team"
     },
     {
@@ -1074,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "meodai"
     },
     {
@@ -1089,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 260,
       "user": "iZiTTMarvin"
     },
     {
@@ -1104,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 637,
       "user": "hitmux"
     }
   ],
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4217,
+      "stars": 4319,
       "user": "titanwings"
     },
     {
@@ -1301,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1733,
+      "stars": 1747,
       "user": "garinasset"
     },
     {
@@ -1316,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1062,
       "user": "oaker-io"
     },
     {
@@ -1346,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 637,
       "user": "hitmux"
     }
   ],
@@ -1483,21 +1468,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
       "source": "Dev.to",
       "user": "Ajadi Olalekan Jamiu"
-    },
-    {
-      "title": "Cross Cloud ADK with Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-594e",
-      "published_at": "2026-03-26T19:33:51Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "googlecloudplatform",
-        "gemini",
-        "aws",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4j1g0g5houdw8np1v8tj.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent",
@@ -1849,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 6513,
+      "stars": 6599,
       "user": "openai"
     },
     {
@@ -1864,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2568,
+      "stars": 2567,
       "user": "magnum6actual"
     },
     {
@@ -1879,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 548,
       "user": "6551Team"
     },
     {
@@ -1894,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "meodai"
     },
     {
@@ -1909,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 260,
       "user": "iZiTTMarvin"
     },
     {
@@ -1924,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4217,
+      "stars": 4319,
       "user": "titanwings"
     },
     {
@@ -1939,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1733,
+      "stars": 1747,
       "user": "garinasset"
     },
     {
@@ -1954,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1062,
       "user": "oaker-io"
     },
     {
@@ -1984,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 637,
       "user": "hitmux"
     },
     {
@@ -1999,8 +1969,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 242,
       "user": "vkhanhqui"
+    },
+    {
+      "title": "isboyjc/GoProxy - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。",
+      "url": "https://github.com/isboyjc/GoProxy",
+      "published_at": "2026-03-27T15:11:41Z",
+      "description": "GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
+      "source": "GitHub",
+      "stars": 121,
+      "user": "isboyjc"
     },
     {
       "title": "dogadmin/ProcIR - GitHub Repository",
@@ -2018,21 +2003,6 @@
       "user": "dogadmin"
     },
     {
-      "title": "isboyjc/GoProxy - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。",
-      "url": "https://github.com/isboyjc/GoProxy",
-      "published_at": "2026-03-27T15:11:41Z",
-      "description": "GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
-      "source": "GitHub",
-      "stars": 118,
-      "user": "isboyjc"
-    },
-    {
       "title": "lemire/constmap - GitHub Repository",
       "url": "https://github.com/lemire/constmap",
       "published_at": "2026-03-29T17:47:53Z",
@@ -2044,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "lemire"
     },
     {
@@ -2059,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 104,
       "user": "rhino-acoustic"
     }
   ]

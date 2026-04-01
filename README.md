@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-01-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (50.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**Database**: 🟦🟦 6 (5.7%)
+**Database**: 🟦🟦 6 (5.8%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**Cloud**: 🟦🟦 5 (4.8%)
-
 **Security**: 🟦🟦 5 (4.8%)
+
+**Cloud**: 🟦🟦 4 (3.8%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,11 +58,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.9 (28.9%)
-Java            ███████████████████████ 22.2 (22.2%)
-Go              █████████████████████ 20.0 (20.0%)
-Python          █████████████████████ 20.0 (20.0%)
-Rust            █████ 4.4 (4.4%)
+JavaScript      ██████████████████████████████ 29.2 (29.2%)
+Java            ███████████████████████ 22.5 (22.5%)
+Python          █████████████████████ 20.2 (20.2%)
+Go              ████████████████████ 19.1 (19.1%)
+Rust            █████ 4.5 (4.5%)
 CSharp          ██ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
@@ -73,8 +73,8 @@ PHP             █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "JavaScript" : 26
     "Java" : 20
-    "Go" : 18
     "Python" : 18
+    "Go" : 17
     "Rust" : 4
     "CSharp" : 2
     "Ruby" : 1
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-01 10:00 CAT)
+## 📅 Latest Updates (2026-04-01 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -206,17 +206,17 @@ npm run test
 - [Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo) _[Dev.to]_
 - [Implementing a RAG system: Walk](https://dev.to/gde/implementing-a-rag-system-walk-4h76) _[Dev.to]_
 - [TERSE — A New Serialization Format Built for LLMs](https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34) _[Dev.to]_
+- [Surviving as a Human in the Age of AI](https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b) _[Dev.to]_
 - [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
 - [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb) _[Dev.to]_
 - [Integrating my AVR with Home Assistant](https://dev.to/moniquelive/integrating-my-avr-with-home-assistant-3oio) _[Dev.to]_
 - [Processing 1M Chess Games in 15 Seconds with Rust](https://dev.to/chrnx/processing-1m-chess-games-in-15-seconds-with-rust-pe3) _[Dev.to]_
 - [Working with JWTs in Laravel (Without the Magic)](https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh) _[Dev.to]_
-- [Surviving as a Human in the Age of AI](https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b) _[Dev.to]_
 - [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d) _[Dev.to]_
 - [Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks](https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839) _[Dev.to]_
 - [Securing the Agentic Era: AI Agents as First-Class Security Principals](https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f) _[Dev.to]_
 
-_Last automated update: Wed, 01 Apr 2026 10:43:58 CAT_
+_Last automated update: Wed, 01 Apr 2026 11:51:40 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 01 Apr 2026 10:43:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Execution timing, event loop phases
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 01 Apr 2026 08:43:58 GMT</b><br/>
+  <b>Last automated update: Wed, 01 Apr 2026 09:51:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
