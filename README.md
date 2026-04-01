@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-01-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦🟦 6 (5.7%)
+**Cloud**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦 4 (3.8%)
+**Database**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦 4 (3.8%)
+**Security**: 🟦🟦 5 (4.8%)
 
-**DevOps**:  1 (1.0%)
+**DevOps**: 🟦 2 (1.9%)
 
 
 
@@ -58,12 +58,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.5 (29.5%)
-Python          ██████████████████████ 22.1 (22.1%)
-Java            █████████████████████ 21.1 (21.1%)
-Go              ████████████████████ 20.0 (20.0%)
-Rust            ███ 3.2 (3.2%)
-CSharp          ██ 2.1 (2.1%)
+JavaScript      ██████████████████████████████ 29.9 (29.9%)
+Java            ███████████████████████ 23.0 (23.0%)
+Python          ██████████████████████ 21.8 (21.8%)
+Go              ██████████████████ 18.4 (18.4%)
+Rust            █████ 4.6 (4.6%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -71,12 +70,11 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 28
-    "Python" : 21
+    "JavaScript" : 26
     "Java" : 20
-    "Go" : 19
-    "Rust" : 3
-    "CSharp" : 2
+    "Python" : 19
+    "Go" : 16
+    "Rust" : 4
     "Ruby" : 1
     "PHP" : 1
 ```
@@ -85,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![llm](https://img.shields.io/badge/llm-5-blue) 
 
 
 
@@ -125,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-01 20:00 CAT)
+## 📅 Latest Updates (2026-04-01 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -171,10 +169,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0v180y7bjqsuz9wtrknl.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/johnmunsch/ive-been-building-software-for-40-years-but-i-want-you-to-tell-me-about-dev-in-1986-1pmj">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj1i3y1h42gfa9wm54pna.png" width="200" alt="I've been building software for 40 years. But I want *you* to tell me about dev in 1986..." />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>I've been building software for 40 years. But I wa...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,12 +197,10 @@ npm run test
 - [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf) _[Dev.to]_
 - [3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln) _[Dev.to]_
 - [The Curated, Automated Open Source Portfolio: How It’s Going](https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98) _[Dev.to]_
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) _[Dev.to]_
-- [Welcome Thread - v371](https://dev.to/devteam/welcome-thread-v371-406b) _[Dev.to]_
 - [I've been building software for 40 years. But I want *you* to tell me about dev in 1986...](https://dev.to/johnmunsch/ive-been-building-software-for-40-years-but-i-want-you-to-tell-me-about-dev-in-1986-1pmj) _[Dev.to]_
+- [Welcome Thread - v371](https://dev.to/devteam/welcome-thread-v371-406b) _[Dev.to]_
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
 - [When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2) _[Dev.to]_
-- [Managing Secret For Your Golang Apps With The GCP Secret Manager](https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj) _[Dev.to]_
 - [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a) _[Dev.to]_
 - [Antigravity: My Approach to Deliver the Most Assured Value for the Least Money](https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84) _[Dev.to]_
@@ -212,11 +208,13 @@ npm run test
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
 - [The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1) _[Dev.to]_
 - [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) _[Dev.to]_
 - [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
-- [Implementing a RAG system: Walk](https://dev.to/gde/implementing-a-rag-system-walk-4h76) _[Dev.to]_
 - [Surviving as a Human in the Age of AI](https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b) _[Dev.to]_
+- [Implementing a RAG system: Walk](https://dev.to/gde/implementing-a-rag-system-walk-4h76) _[Dev.to]_
+- [TERSE — A New Serialization Format Built for LLMs](https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34) _[Dev.to]_
 
-_Last automated update: Wed, 01 Apr 2026 20:02:49 CAT_
+_Last automated update: Wed, 01 Apr 2026 21:20:45 CAT_
 
 
 
@@ -224,36 +222,36 @@ _Last automated update: Wed, 01 Apr 2026 20:02:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -287,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 01 Apr 2026 18:02:49 GMT</b><br/>
+  <b>Last automated update: Wed, 01 Apr 2026 19:20:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

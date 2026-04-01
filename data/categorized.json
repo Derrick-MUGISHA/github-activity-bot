@@ -134,21 +134,6 @@
       "user": "Tarek"
     },
     {
-      "title": "Implementing a RAG system: Walk",
-      "url": "https://dev.to/gde/implementing-a-rag-system-walk-4h76",
-      "published_at": "2026-03-31T17:00:00Z",
-      "description": "Now that we've established the basics in our \"Crawl\" phase, it's time to pick up the pace. In this...",
-      "tags": [
-        "rag",
-        "genai",
-        "opensource",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg89xhp7lrasjb54etzb.png",
-      "source": "Dev.to",
-      "user": "Glen Yu"
-    },
-    {
       "title": "Surviving as a Human in the Age of AI",
       "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
       "published_at": "2026-03-31T02:43:37Z",
@@ -162,6 +147,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
       "source": "Dev.to",
       "user": "Jen Looper"
+    },
+    {
+      "title": "Implementing a RAG system: Walk",
+      "url": "https://dev.to/gde/implementing-a-rag-system-walk-4h76",
+      "published_at": "2026-03-31T17:00:00Z",
+      "description": "Now that we've established the basics in our \"Crawl\" phase, it's time to pick up the pace. In this...",
+      "tags": [
+        "rag",
+        "genai",
+        "opensource",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg89xhp7lrasjb54etzb.png",
+      "source": "Dev.to",
+      "user": "Glen Yu"
     },
     {
       "title": "TERSE — A New Serialization Format Built for LLMs",
@@ -265,6 +265,94 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftku7qy5qx6zykj23of00.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
+      "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
+      "published_at": "2026-03-31T06:48:59Z",
+      "description": "Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "security",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png",
+      "source": "Dev.to",
+      "user": "Abhay"
+    },
+    {
+      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
+      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
+      "published_at": "2026-03-31T02:37:02Z",
+      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
+      "tags": [
+        "agents",
+        "ai",
+        "cybersecurity",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
+      "source": "Dev.to",
+      "user": "PracticeOverflow"
+    },
+    {
+      "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
+      "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
+      "published_at": "2026-03-29T02:34:36Z",
+      "description": "Claude Code has WebFetch. Every AI coding agent has some way to grab a webpage.  They all hit the...",
+      "tags": [
+        "zig",
+        "opensource",
+        "cli",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
+      "source": "Dev.to",
+      "user": "An Pham"
+    },
+    {
+      "title": "Auth0 MCP Server Extension for Gemini CLI",
+      "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
+      "published_at": "2026-03-27T11:00:00Z",
+      "description": "The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...",
+      "tags": [
+        "ai",
+        "mcp",
+        "tutorial",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
+      "source": "Dev.to",
+      "user": "Jessica Temporal"
+    },
+    {
+      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
+      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
+      "published_at": "2026-03-26T21:05:21Z",
+      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
+      "tags": [
+        "langchain",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
+      "source": "Dev.to",
+      "user": "Scarlett Attensil"
+    },
+    {
+      "title": "Prompt Stuffing Is Killing Your Agent",
+      "url": "https://dev.to/wassimchegham/agentic-rag-done-right-4846",
+      "published_at": "2026-03-30T15:49:49Z",
+      "description": "Classic RAG retrieves everything and hopes for the best. Agentic RAG uses conditional retrieval with validation loops — and it's cheaper too.",
+      "tags": [
+        "ai",
+        "rag",
+        "agents",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png",
+      "source": "Dev.to",
+      "user": "Wassim Chegham"
     },
     {
       "title": "With the advent of AI, is there still a need for Frontend Engineers?",
@@ -408,21 +496,6 @@
       "user": "Typing Turtle"
     },
     {
-      "title": "your agent can think. it can't remember.",
-      "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
-      "published_at": "2026-03-25T15:01:56Z",
-      "description": "TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...",
-      "tags": [
-        "ai",
-        "mcp",
-        "postgres",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
-      "source": "Dev.to",
-      "user": "ghost"
-    },
-    {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
       "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
       "published_at": "2026-03-18T19:29:59Z",
@@ -436,126 +509,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
-    },
-    {
-      "title": "Lost Skills We Sold for Convenience Over Commitment",
-      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
-      "published_at": "2026-03-29T11:49:29Z",
-      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
-      "tags": [
-        "career",
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
-      "source": "Dev.to",
-      "user": "Carlos Nah "
-    },
-    {
-      "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
-      "url": "https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl",
-      "published_at": "2026-03-25T21:57:51Z",
-      "description": "I purchased the domain evidenceekanem.me and hosting from GoDaddy on the same day in March 2024. By...",
-      "tags": [
-        "webdev",
-        "dotnet",
-        "nuxt",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
-      "source": "Dev.to",
-      "user": "Evidence Etinih Ekanem"
-    },
-    {
-      "title": "Self-improving Coding Agents",
-      "url": "https://dev.to/raphaelpor/self-improving-coding-agents-435l",
-      "published_at": "2026-03-27T23:51:31Z",
-      "description": "In this article, I demonstrate how a more capable coding agent (Codex/GPT-5.4) successfully refined...",
-      "tags": [
-        "agents",
-        "harness",
-        "ai",
-        "evals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2n6fwc3z8rtoi721lf7a.png",
-      "source": "Dev.to",
-      "user": "Raphael Porto"
-    },
-    {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
-      "published_at": "2026-03-28T17:14:30Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "googlecloudplatform",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
-      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
-      "published_at": "2026-03-30T06:21:06Z",
-      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
-      "title": "1st time at a big tech conference - GTC 2026",
-      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
-      "published_at": "2026-03-25T16:38:29Z",
-      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
-      "tags": [
-        "ai",
-        "techtalks",
-        "career",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
-      "source": "Dev.to",
-      "user": "Matt Cool"
-    },
-    {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Getting Started with Qwen3.5 Vision-Language Models",
-      "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
-      "published_at": "2026-03-17T16:00:00Z",
-      "description": "This article was originally written by James Skelton (Senior AI/ML Technical Content Strategist...",
-      "tags": [
-        "qwen",
-        "learning",
-        "aimodels",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flyhk43dl0t2ua178arvd.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -701,7 +654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 7892,
+      "stars": 8030,
       "user": "openai"
     },
     {
@@ -731,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1140,
       "user": "oaker-io"
     },
     {
@@ -746,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 797,
       "user": "therealXiaomanChu"
     },
     {
@@ -761,26 +714,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "rhino-acoustic"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Managing Secret For Your Golang Apps With The GCP Secret Manager",
-      "url": "https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj",
-      "published_at": "2026-04-01T05:02:19Z",
-      "description": "While developing a serverless application and having a secret key in JSON format, I always looked...",
-      "tags": [
-        "secretmanager",
-        "gcp",
-        "cloudrun",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqeaqgj04v1rzwudl8547.png",
-      "source": "Dev.to",
-      "user": "Razan Fawwaz"
-    },
     {
       "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
       "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
@@ -825,6 +763,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttb7eoim92awhrpor7ze.png",
       "source": "Dev.to",
       "user": "Rudson Kiyoshi Souza Carvalho"
+    },
+    {
+      "title": "Managing Secret For Your Golang Apps With The GCP Secret Manager",
+      "url": "https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj",
+      "published_at": "2026-04-01T05:02:19Z",
+      "description": "While developing a serverless application and having a secret key in JSON format, I always looked...",
+      "tags": [
+        "secretmanager",
+        "gcp",
+        "cloudrun",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqeaqgj04v1rzwudl8547.png",
+      "source": "Dev.to",
+      "user": "Razan Fawwaz"
     },
     {
       "title": "Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App",
@@ -927,36 +880,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
       "source": "Dev.to",
       "user": "Lauren Lee"
-    },
-    {
-      "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
-      "url": "https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl",
-      "published_at": "2026-03-25T21:57:51Z",
-      "description": "I purchased the domain evidenceekanem.me and hosting from GoDaddy on the same day in March 2024. By...",
-      "tags": [
-        "webdev",
-        "dotnet",
-        "nuxt",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
-      "source": "Dev.to",
-      "user": "Evidence Etinih Ekanem"
-    },
-    {
-      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
-      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
-      "published_at": "2026-03-26T06:14:01Z",
-      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
-      "tags": [
-        "opensource",
-        "nextjs",
-        "react",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
-      "source": "Dev.to",
-      "user": "Habib Jutt"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1090,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 7892,
+      "stars": 8030,
       "user": "openai"
     },
     {
@@ -1105,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2579,
+      "stars": 2581,
       "user": "magnum6actual"
     },
     {
@@ -1120,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 580,
       "user": "6551Team"
     },
     {
@@ -1150,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "cdppcorp"
     }
   ],
@@ -1214,36 +1137,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fahmed-elnaggar%2Ftorchax-huggingface%2Fmain%2Fassets%2Fcover-image.png",
       "source": "Dev.to",
       "user": "Ahmed Elnaggar"
-    },
-    {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
-      "published_at": "2026-03-28T17:14:30Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "googlecloudplatform",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1377,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4586,
+      "stars": 4595,
       "user": "titanwings"
     },
     {
@@ -1407,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1140,
       "user": "oaker-io"
     },
     {
@@ -1422,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1007,
       "user": "jxnxts"
     },
     {
@@ -1437,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 797,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1455,9 +1348,38 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
       "source": "Dev.to",
       "user": "Ajadi Olalekan Jamiu"
+    },
+    {
+      "title": "Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads",
+      "url": "https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo",
+      "published_at": "2026-03-31T12:19:29Z",
+      "description": "Google Cloud offers plenty of different products and services, some of which seem to be covering...",
+      "tags": [
+        "googlecloud",
+        "gcp",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21jzh6a4lcwoa1q6cqy5.png",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
     }
   ],
   "WebDev": [
+    {
+      "title": "CodePen TV secrets",
+      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
+      "published_at": "2026-03-29T23:23:50Z",
+      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
+      "tags": [
+        "codepen",
+        "css",
+        "cssart",
+        "crt"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
+      "source": "Dev.to",
+      "user": "Ben Evans"
+    },
     {
       "title": "With the advent of AI, is there still a need for Frontend Engineers?",
       "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
@@ -1519,21 +1441,6 @@
   "Mobile": [],
   "Cloud": [
     {
-      "title": "Managing Secret For Your Golang Apps With The GCP Secret Manager",
-      "url": "https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj",
-      "published_at": "2026-04-01T05:02:19Z",
-      "description": "While developing a serverless application and having a secret key in JSON format, I always looked...",
-      "tags": [
-        "secretmanager",
-        "gcp",
-        "cloudrun",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqeaqgj04v1rzwudl8547.png",
-      "source": "Dev.to",
-      "user": "Razan Fawwaz"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
       "published_at": "2026-04-01T15:25:36Z",
@@ -1578,34 +1485,33 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
-      "published_at": "2026-03-28T17:14:30Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "title": "Managing Secret For Your Golang Apps With The GCP Secret Manager",
+      "url": "https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj",
+      "published_at": "2026-04-01T05:02:19Z",
+      "description": "While developing a serverless application and having a secret key in JSON format, I always looked...",
       "tags": [
-        "gemini",
-        "googleadk",
-        "googlecloudplatform",
-        "python"
+        "secretmanager",
+        "gcp",
+        "cloudrun",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqeaqgj04v1rzwudl8547.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Razan Fawwaz"
     },
     {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "title": "Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads",
+      "url": "https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo",
+      "published_at": "2026-03-31T12:19:29Z",
+      "description": "Google Cloud offers plenty of different products and services, some of which seem to be covering...",
       "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
+        "googlecloud",
+        "gcp",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21jzh6a4lcwoa1q6cqy5.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Maciej Strzelczyk"
     }
   ],
   "Database": [
@@ -1669,21 +1575,6 @@
       "user": "Pascal Thormeier"
     },
     {
-      "title": "your agent can think. it can't remember.",
-      "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
-      "published_at": "2026-03-25T15:01:56Z",
-      "description": "TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...",
-      "tags": [
-        "ai",
-        "mcp",
-        "postgres",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
-      "source": "Dev.to",
-      "user": "ghost"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1728,19 +1619,34 @@
       "user": "Mark Townsend"
     },
     {
-      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
-      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
-      "published_at": "2026-03-26T06:14:01Z",
-      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
+      "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
+      "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
+      "published_at": "2026-03-31T06:48:59Z",
+      "description": "Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...",
       "tags": [
-        "opensource",
-        "nextjs",
-        "react",
-        "typescript"
+        "claudecode",
+        "ai",
+        "security",
+        "devtools"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png",
       "source": "Dev.to",
-      "user": "Habib Jutt"
+      "user": "Abhay"
+    },
+    {
+      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
+      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
+      "published_at": "2026-03-31T02:37:02Z",
+      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
+      "tags": [
+        "agents",
+        "ai",
+        "cybersecurity",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
+      "source": "Dev.to",
+      "user": "PracticeOverflow"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1815,6 +1721,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfenmb1a232w2r519zdu.png",
       "source": "Dev.to",
       "user": "OsirisFrik"
+    },
+    {
+      "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
+      "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
+      "published_at": "2026-03-31T06:48:59Z",
+      "description": "Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "security",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png",
+      "source": "Dev.to",
+      "user": "Abhay"
+    },
+    {
+      "title": "Auth0 MCP Server Extension for Gemini CLI",
+      "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
+      "published_at": "2026-03-27T11:00:00Z",
+      "description": "The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...",
+      "tags": [
+        "ai",
+        "mcp",
+        "tutorial",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
+      "source": "Dev.to",
+      "user": "Jessica Temporal"
     },
     {
       "title": "Bad Code Is a High-Interest Loan: How Technical Debt Slowly Kills Team Velocity",
@@ -1902,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 7892,
+      "stars": 8030,
       "user": "openai"
     },
     {
@@ -1917,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2579,
+      "stars": 2581,
       "user": "magnum6actual"
     },
     {
@@ -1932,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 580,
       "user": "6551Team"
     },
     {
@@ -1962,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "cdppcorp"
     },
     {
@@ -1977,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4586,
+      "stars": 4595,
       "user": "titanwings"
     },
     {
@@ -2007,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1140,
       "user": "oaker-io"
     },
     {
@@ -2022,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1007,
       "user": "jxnxts"
     },
     {
@@ -2037,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 797,
       "user": "therealXiaomanChu"
     },
     {
@@ -2052,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "vkhanhqui"
     },
     {
@@ -2067,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "isboyjc"
     },
     {
@@ -2097,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "rhino-acoustic"
     },
     {
