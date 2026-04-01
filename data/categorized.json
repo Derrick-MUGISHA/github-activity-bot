@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
+      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
+      "published_at": "2026-04-01T12:44:00Z",
+      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
+      "tags": [
+        "ai",
+        "discuss",
+        "mlh",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
       "published_at": "2026-03-31T13:58:35Z",
@@ -527,21 +542,6 @@
       "user": "DigitalOcean"
     },
     {
-      "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
-      "published_at": "2026-03-24T18:00:13Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "aws",
-        "agents",
-        "amazonlightsail"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 6851,
+      "stars": 7116,
       "user": "openai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 274,
       "user": "iZiTTMarvin"
     },
     {
@@ -730,8 +730,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1091,
       "user": "oaker-io"
+    },
+    {
+      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "url": "https://github.com/therealXiaomanChu/ex-skill",
+      "published_at": "2026-03-31T09:36:56Z",
+      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
+      "source": "GitHub",
+      "stars": 667,
+      "user": "therealXiaomanChu"
     },
     {
       "title": "rhino-acoustic/NeuronFS - Structure is Context. 0-byte files govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
@@ -745,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 108,
       "user": "rhino-acoustic"
     }
   ],
@@ -796,21 +811,6 @@
       "user": "OlumideSamuel"
     },
     {
-      "title": "String Polyfills & Common Interview Methods in JavaScript",
-      "url": "https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g",
-      "published_at": "2026-03-29T19:42:57Z",
-      "description": "Introduction: Why String Manipulation Still Matters   Imagine this: You’re in a high-stakes...",
-      "tags": [
-        "javascript",
-        "programming",
-        "beginners",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png",
-      "source": "Dev.to",
-      "user": "Ritam Saha"
-    },
-    {
       "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
       "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
       "published_at": "2026-03-28T19:39:32Z",
@@ -824,6 +824,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
       "source": "Dev.to",
       "user": "Pascal Thormeier"
+    },
+    {
+      "title": "String Polyfills & Common Interview Methods in JavaScript",
+      "url": "https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g",
+      "published_at": "2026-03-29T19:42:57Z",
+      "description": "Introduction: Why String Manipulation Still Matters   Imagine this: You’re in a high-stakes...",
+      "tags": [
+        "javascript",
+        "programming",
+        "beginners",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png",
+      "source": "Dev.to",
+      "user": "Ritam Saha"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -1029,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 6851,
+      "stars": 7116,
       "user": "openai"
     },
     {
@@ -1044,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2568,
+      "stars": 2570,
       "user": "magnum6actual"
     },
     {
@@ -1059,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 569,
       "user": "6551Team"
     },
     {
@@ -1089,23 +1104,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 274,
       "user": "iZiTTMarvin"
-    },
-    {
-      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
-      "url": "https://github.com/hitmux/HitCC",
-      "published_at": "2026-03-29T08:44:09Z",
-      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
-      "source": "GitHub",
-      "stars": 639,
-      "user": "hitmux"
     }
   ],
   "Python": [
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4409,
+      "stars": 4462,
       "user": "titanwings"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1765,
+      "stars": 1781,
       "user": "garinasset"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1091,
       "user": "oaker-io"
     },
     {
@@ -1346,23 +1346,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 994,
       "user": "jxnxts"
     },
     {
-      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
-      "url": "https://github.com/hitmux/HitCC",
-      "published_at": "2026-03-29T08:44:09Z",
-      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "url": "https://github.com/therealXiaomanChu/ex-skill",
+      "published_at": "2026-03-31T09:36:56Z",
+      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 639,
-      "user": "hitmux"
+      "stars": 667,
+      "user": "therealXiaomanChu"
     }
   ],
   "DevOps": [
@@ -1526,21 +1526,6 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
-      "published_at": "2026-03-24T18:00:13Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "aws",
-        "agents",
-        "amazonlightsail"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
       "source": "Dev.to",
       "user": "xbill"
     }
@@ -1839,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 6851,
+      "stars": 7116,
       "user": "openai"
     },
     {
@@ -1854,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2568,
+      "stars": 2570,
       "user": "magnum6actual"
     },
     {
@@ -1869,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 569,
       "user": "6551Team"
     },
     {
@@ -1899,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 274,
       "user": "iZiTTMarvin"
     },
     {
@@ -1914,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4409,
+      "stars": 4462,
       "user": "titanwings"
     },
     {
@@ -1929,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1765,
+      "stars": 1781,
       "user": "garinasset"
     },
     {
@@ -1944,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1091,
       "user": "oaker-io"
     },
     {
@@ -1959,23 +1944,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 994,
       "user": "jxnxts"
     },
     {
-      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
-      "url": "https://github.com/hitmux/HitCC",
-      "published_at": "2026-03-29T08:44:09Z",
-      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "url": "https://github.com/therealXiaomanChu/ex-skill",
+      "published_at": "2026-03-31T09:36:56Z",
+      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 639,
-      "user": "hitmux"
+      "stars": 667,
+      "user": "therealXiaomanChu"
     },
     {
       "title": "vkhanhqui/figma-mcp-go - Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
@@ -1989,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 255,
       "user": "vkhanhqui"
     },
     {
@@ -2034,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 108,
       "user": "rhino-acoustic"
     },
     {
@@ -2049,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "lemire"
     }
   ]
