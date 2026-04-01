@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Surviving as a Human in the Age of AI",
-      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
-      "published_at": "2026-03-31T02:43:37Z",
-      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...",
-      "tags": [
-        "ai",
-        "programming",
-        "career",
-        "wecoded"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
-    },
-    {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
       "published_at": "2026-03-31T13:58:35Z",
@@ -28,21 +13,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Implementing a RAG system: Walk",
-      "url": "https://dev.to/gde/implementing-a-rag-system-walk-4h76",
-      "published_at": "2026-03-31T17:00:00Z",
-      "description": "Now that we've established the basics in our \"Crawl\" phase, it's time to pick up the pace. In this...",
-      "tags": [
-        "rag",
-        "genai",
-        "opensource",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg89xhp7lrasjb54etzb.png",
-      "source": "Dev.to",
-      "user": "Glen Yu"
     },
     {
       "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
@@ -87,6 +57,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftku7qy5qx6zykj23of00.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Implementing a RAG system: Walk",
+      "url": "https://dev.to/gde/implementing-a-rag-system-walk-4h76",
+      "published_at": "2026-03-31T17:00:00Z",
+      "description": "Now that we've established the basics in our \"Crawl\" phase, it's time to pick up the pace. In this...",
+      "tags": [
+        "rag",
+        "genai",
+        "opensource",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg89xhp7lrasjb54etzb.png",
+      "source": "Dev.to",
+      "user": "Glen Yu"
     },
     {
       "title": "TERSE — A New Serialization Format Built for LLMs",
@@ -148,6 +133,21 @@
       "user": "Mark Townsend"
     },
     {
+      "title": "Surviving as a Human in the Age of AI",
+      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
+      "published_at": "2026-03-31T02:43:37Z",
+      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...",
+      "tags": [
+        "ai",
+        "programming",
+        "career",
+        "wecoded"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
+      "source": "Dev.to",
+      "user": "Jen Looper"
+    },
+    {
       "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
       "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
       "published_at": "2026-03-31T06:48:59Z",
@@ -191,21 +191,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
       "source": "Dev.to",
       "user": "An Pham"
-    },
-    {
-      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
-      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
-      "published_at": "2026-03-30T06:21:06Z",
-      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -437,21 +422,6 @@
       "user": "Typing Turtle"
     },
     {
-      "title": "your agent can think. it can't remember.",
-      "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
-      "published_at": "2026-03-25T15:01:56Z",
-      "description": "TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...",
-      "tags": [
-        "ai",
-        "mcp",
-        "postgres",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
-      "source": "Dev.to",
-      "user": "ghost"
-    },
-    {
       "title": "We Can't Code Anymore. AI Won't. What Then?",
       "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
       "published_at": "2026-03-18T19:29:59Z",
@@ -465,6 +435,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
+    },
+    {
+      "title": "your agent can think. it can't remember.",
+      "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o",
+      "published_at": "2026-03-25T15:01:56Z",
+      "description": "TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...",
+      "tags": [
+        "ai",
+        "mcp",
+        "postgres",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tnk8cwhabxhqvffpsf5.png",
+      "source": "Dev.to",
+      "user": "ghost"
     },
     {
       "title": "Lost Skills We Sold for Convenience Over Commitment",
@@ -540,6 +525,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
       "source": "Dev.to",
       "user": "Matt Cool"
+    },
+    {
+      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
+      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
+      "published_at": "2026-03-30T06:21:06Z",
+      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 6233,
+      "stars": 6364,
       "user": "openai"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "meodai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1023,
       "user": "oaker-io"
     },
     {
@@ -1014,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 6233,
+      "stars": 6364,
       "user": "openai"
     },
     {
@@ -1029,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2563,
+      "stars": 2566,
       "user": "magnum6actual"
     },
     {
@@ -1044,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 513,
       "user": "6551Team"
     },
     {
@@ -1059,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "meodai"
     },
     {
@@ -1074,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 250,
       "user": "cdppcorp"
     },
     {
@@ -1089,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 636,
       "user": "hitmux"
     }
   ],
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3852,
+      "stars": 4042,
       "user": "titanwings"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1722,
       "user": "garinasset"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1023,
       "user": "oaker-io"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 636,
       "user": "hitmux"
     }
   ],
@@ -1544,6 +1544,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png",
       "source": "Dev.to",
       "user": "Tarek"
+    },
+    {
+      "title": "How to Break Your PostgreSQL IIoT Database and Learn Something in the Process",
+      "url": "https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d",
+      "published_at": "2026-03-30T17:42:43Z",
+      "description": "As engineers, we're taught to design for reliability. We do design calculations, run simulations,...",
+      "tags": [
+        "iot",
+        "postgres",
+        "industrial",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ym3q88l1wrfv1wuagus.png",
+      "source": "Dev.to",
+      "user": "Team Tiger Data"
     },
     {
       "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
@@ -1819,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 6233,
+      "stars": 6364,
       "user": "openai"
     },
     {
@@ -1834,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
       "source": "GitHub",
-      "stars": 2563,
+      "stars": 2566,
       "user": "magnum6actual"
     },
     {
@@ -1849,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 513,
       "user": "6551Team"
     },
     {
@@ -1864,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "meodai"
     },
     {
@@ -1879,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 250,
       "user": "cdppcorp"
     },
     {
@@ -1894,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 3852,
+      "stars": 4042,
       "user": "titanwings"
     },
     {
@@ -1909,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1722,
       "user": "garinasset"
     },
     {
@@ -1924,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1023,
       "user": "oaker-io"
     },
     {
@@ -1954,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 636,
       "user": "hitmux"
     },
     {
@@ -1969,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 236,
       "user": "vkhanhqui"
     },
     {
@@ -2014,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "lemire"
     },
     {
