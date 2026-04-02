@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
@@ -216,7 +216,7 @@ npm run test
 - [What I Learned from Reading Claude Code’s Reconstructed Source](https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf) _[Dev.to]_
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
 
-_Last automated update: Thu, 02 Apr 2026 23:19:53 CAT_
+_Last automated update: Thu, 02 Apr 2026 23:59:33 CAT_
 
 
 
@@ -224,7 +224,18 @@ _Last automated update: Thu, 02 Apr 2026 23:19:53 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. JavaScript: Explain event delegation and why it's useful
+
+**Difficulty**: Medium | **Topics**: events, DOM
+
+<details>
+<summary>💡 Hint</summary>
+
+Event bubbling, single listener for multiple elements
+
+</details>
+
+### 2. React: How would you optimize a React app's performance?
 
 **Difficulty**: Hard | **Topics**: optimization, performance
 
@@ -235,25 +246,14 @@ React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
-
-<details>
-<summary>💡 Hint</summary>
-
-Iterative or recursive, three pointers
-
-</details>
-
-### 3. Database: Explain database indexing and when to use it
-
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 02 Apr 2026 21:19:53 GMT</b><br/>
+  <b>Last automated update: Thu, 02 Apr 2026 21:59:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
