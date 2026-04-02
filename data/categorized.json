@@ -60,21 +60,6 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
-      "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
-      "published_at": "2026-04-01T12:41:18Z",
-      "description": "We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...",
-      "tags": [
-        "webdev",
-        "ai",
-        "opensource",
-        "authentication"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
-      "source": "Dev.to",
-      "user": "Lakhan Samani"
-    },
-    {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
       "published_at": "2026-03-31T13:58:35Z",
@@ -131,6 +116,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png",
       "source": "Dev.to",
       "user": "Mezbah Alam"
+    },
+    {
+      "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
+      "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
+      "published_at": "2026-04-01T12:41:18Z",
+      "description": "We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...",
+      "tags": [
+        "webdev",
+        "ai",
+        "opensource",
+        "authentication"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
+      "source": "Dev.to",
+      "user": "Lakhan Samani"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
@@ -684,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9649,
+      "stars": 9735,
       "user": "openai"
     },
     {
@@ -714,8 +714,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "iZiTTMarvin"
+    },
+    {
+      "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
+      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "published_at": "2026-03-31T11:27:01Z",
+      "description": "AI Agent 源码深度研究报告",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
+      "source": "GitHub",
+      "stars": 3806,
+      "user": "tvytlx"
     },
     {
       "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
@@ -729,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1190,
       "user": "therealXiaomanChu"
     },
     {
@@ -744,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 175,
       "user": "compozy"
     },
     {
@@ -1013,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9649,
+      "stars": 9735,
       "user": "openai"
     },
     {
@@ -1028,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "6551Team"
     },
     {
@@ -1073,23 +1088,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "iZiTTMarvin"
-    },
-    {
-      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
-      "url": "https://github.com/hitmux/HitCC",
-      "published_at": "2026-03-29T08:44:09Z",
-      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "hitmux"
     }
   ],
   "Python": [
@@ -1300,8 +1300,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5159,
+      "stars": 5211,
       "user": "titanwings"
+    },
+    {
+      "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
+      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "published_at": "2026-03-31T11:27:01Z",
+      "description": "AI Agent 源码深度研究报告",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
+      "source": "GitHub",
+      "stars": 3806,
+      "user": "tvytlx"
     },
     {
       "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
@@ -1315,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1826,
+      "stars": 1827,
       "user": "garinasset"
     },
     {
@@ -1330,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1190,
       "user": "therealXiaomanChu"
     },
     {
@@ -1345,23 +1360,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 736,
       "user": "adamlyttleapps"
-    },
-    {
-      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
-      "url": "https://github.com/hitmux/HitCC",
-      "published_at": "2026-03-29T08:44:09Z",
-      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "hitmux"
     }
   ],
   "DevOps": [
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9649,
+      "stars": 9735,
       "user": "openai"
     },
     {
@@ -1854,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "6551Team"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "iZiTTMarvin"
     },
     {
@@ -1914,8 +1914,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5159,
+      "stars": 5211,
       "user": "titanwings"
+    },
+    {
+      "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
+      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "published_at": "2026-03-31T11:27:01Z",
+      "description": "AI Agent 源码深度研究报告",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
+      "source": "GitHub",
+      "stars": 3806,
+      "user": "tvytlx"
     },
     {
       "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
@@ -1929,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1826,
+      "stars": 1827,
       "user": "garinasset"
     },
     {
@@ -1944,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1190,
       "user": "therealXiaomanChu"
     },
     {
@@ -1959,23 +1974,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 736,
       "user": "adamlyttleapps"
-    },
-    {
-      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
-      "url": "https://github.com/hitmux/HitCC",
-      "published_at": "2026-03-29T08:44:09Z",
-      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "hitmux"
     },
     {
       "title": "compozy/compozy - Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 175,
       "user": "compozy"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "lemire"
     },
     {
