@@ -354,20 +354,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs",
-      "url": "https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j",
-      "published_at": "2026-03-31T18:56:42Z",
-      "description": "In our agent factory holiday special, Don McCasland and I were joined by Kyle Meggs, Senior Product...",
-      "tags": [
-        "ai",
-        "agents",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftku7qy5qx6zykj23of00.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
       "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
       "published_at": "2026-03-31T06:48:59Z",
@@ -755,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10506,
+      "stars": 10525,
       "user": "openai"
     },
     {
@@ -774,19 +760,19 @@
       "user": "meodai"
     },
     {
-      "title": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding - Harness Engineering From Claude Code source code to AI Coding",
-      "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-      "published_at": "2026-04-01T06:22:00Z",
-      "description": "Harness Engineering From Claude Code source code to AI Coding",
+      "title": "tradesdontlie/tradingview-mcp - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "published_at": "2026-03-29T14:39:25Z",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 327,
-      "user": "ZhangHanDong"
+      "stars": 336,
+      "user": "tradesdontlie"
     },
     {
       "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
@@ -800,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4334,
+      "stars": 4343,
       "user": "tvytlx"
     },
     {
@@ -815,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1358,
       "user": "therealXiaomanChu"
     },
     {
@@ -830,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 268,
       "user": "compozy"
     },
     {
@@ -845,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "codeany-ai"
     }
   ],
@@ -1114,7 +1100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10506,
+      "stars": 10525,
       "user": "openai"
     },
     {
@@ -1148,6 +1134,21 @@
       "user": "meodai"
     },
     {
+      "title": "tradesdontlie/tradingview-mcp - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "published_at": "2026-03-29T14:39:25Z",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
+      "source": "GitHub",
+      "stars": 336,
+      "user": "tradesdontlie"
+    },
+    {
       "title": "hellowind777/hello2cc - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
       "url": "https://github.com/hellowind777/hello2cc",
       "published_at": "2026-03-30T14:21:24Z",
@@ -1161,21 +1162,6 @@
       "source": "GitHub",
       "stars": 327,
       "user": "hellowind777"
-    },
-    {
-      "title": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding - Harness Engineering From Claude Code source code to AI Coding",
-      "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-      "published_at": "2026-04-01T06:22:00Z",
-      "description": "Harness Engineering From Claude Code source code to AI Coding",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
-      "source": "GitHub",
-      "stars": 327,
-      "user": "ZhangHanDong"
     }
   ],
   "Python": [
@@ -1371,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5383,
+      "stars": 5385,
       "user": "titanwings"
     },
     {
@@ -1386,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4334,
+      "stars": 4343,
       "user": "tvytlx"
     },
     {
@@ -1416,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1358,
       "user": "therealXiaomanChu"
     },
     {
@@ -1431,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 774,
       "user": "adamlyttleapps"
     }
   ],
@@ -1896,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10506,
+      "stars": 10525,
       "user": "openai"
     },
     {
@@ -1930,6 +1916,21 @@
       "user": "meodai"
     },
     {
+      "title": "tradesdontlie/tradingview-mcp - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "published_at": "2026-03-29T14:39:25Z",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
+      "source": "GitHub",
+      "stars": 336,
+      "user": "tradesdontlie"
+    },
+    {
       "title": "hellowind777/hello2cc - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
       "url": "https://github.com/hellowind777/hello2cc",
       "published_at": "2026-03-30T14:21:24Z",
@@ -1945,21 +1946,6 @@
       "user": "hellowind777"
     },
     {
-      "title": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding - Harness Engineering From Claude Code source code to AI Coding",
-      "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-      "published_at": "2026-04-01T06:22:00Z",
-      "description": "Harness Engineering From Claude Code source code to AI Coding",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
-      "source": "GitHub",
-      "stars": 327,
-      "user": "ZhangHanDong"
-    },
-    {
       "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
       "url": "https://github.com/titanwings/colleague-skill",
       "published_at": "2026-03-30T05:22:23Z",
@@ -1971,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5383,
+      "stars": 5385,
       "user": "titanwings"
     },
     {
@@ -1986,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4334,
+      "stars": 4343,
       "user": "tvytlx"
     },
     {
@@ -2016,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1358,
       "user": "therealXiaomanChu"
     },
     {
@@ -2031,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 774,
       "user": "adamlyttleapps"
     },
     {
@@ -2046,8 +2032,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 268,
       "user": "compozy"
+    },
+    {
+      "title": "ironsh/iron-proxy - An egress firewall for untrusted workloads.",
+      "url": "https://github.com/ironsh/iron-proxy",
+      "published_at": "2026-04-01T17:40:30Z",
+      "description": "An egress firewall for untrusted workloads.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
+      "source": "GitHub",
+      "stars": 145,
+      "user": "ironsh"
     },
     {
       "title": "isboyjc/GoProxy - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。",
@@ -2065,21 +2066,6 @@
       "user": "isboyjc"
     },
     {
-      "title": "ironsh/iron-proxy - An egress firewall for untrusted workloads.",
-      "url": "https://github.com/ironsh/iron-proxy",
-      "published_at": "2026-04-01T17:40:30Z",
-      "description": "An egress firewall for untrusted workloads.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
-      "source": "GitHub",
-      "stars": 138,
-      "user": "ironsh"
-    },
-    {
       "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
       "url": "https://github.com/codeany-ai/codeany",
       "published_at": "2026-04-01T18:06:21Z",
@@ -2091,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "codeany-ai"
     },
     {
