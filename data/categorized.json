@@ -340,21 +340,6 @@
       "user": "Jen Looper"
     },
     {
-      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
-      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
-      "published_at": "2026-03-29T15:37:53Z",
-      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
-      "tags": [
-        "frontend",
-        "javascript",
-        "ai",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
-      "source": "Dev.to",
-      "user": "OlumideSamuel"
-    },
-    {
       "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
       "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
       "published_at": "2026-03-31T20:52:09Z",
@@ -412,21 +397,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
       "source": "Dev.to",
       "user": "Ivan SZKIBA"
-    },
-    {
-      "title": "I Built a Tool Because 90% of My AI Agent's Tokens Were Spent Searching, Not Coding",
-      "url": "https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3",
-      "published_at": "2026-03-30T23:21:31Z",
-      "description": "5,000 to 10,000 tokens. That's what my AI agent was burning before changing a single line of frontend code.",
-      "tags": [
-        "ai",
-        "webdev",
-        "mcp",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa7unx6s20pysdf3enw5.png",
-      "source": "Dev.to",
-      "user": "Kaushik Gnanaskandan"
     },
     {
       "title": "I Eliminated Layout Jitter From LLM Streaming — Here's How",
@@ -526,21 +496,6 @@
       "user": "Carlos Nah "
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
-      "published_at": "2026-03-28T17:14:30Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "googlecloudplatform",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
       "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
       "published_at": "2026-03-30T06:21:06Z",
@@ -554,6 +509,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
       "source": "Dev.to",
       "user": "Maxim Saplin"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "1st time at a big tech conference - GTC 2026",
@@ -714,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9492,
+      "stars": 9649,
       "user": "openai"
     },
     {
@@ -729,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "meodai"
     },
     {
@@ -759,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1157,
       "user": "therealXiaomanChu"
     },
     {
@@ -855,21 +825,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
-      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
-      "published_at": "2026-03-29T15:37:53Z",
-      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
-      "tags": [
-        "frontend",
-        "javascript",
-        "ai",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
-      "source": "Dev.to",
-      "user": "OlumideSamuel"
-    },
-    {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
       "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
       "published_at": "2026-03-23T05:48:13Z",
@@ -910,6 +865,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttb7eoim92awhrpor7ze.png",
       "source": "Dev.to",
       "user": "Rudson Kiyoshi Souza Carvalho"
+    },
+    {
+      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+      "published_at": "2026-03-26T06:14:01Z",
+      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
+      "tags": [
+        "opensource",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
+      "source": "Dev.to",
+      "user": "Habib Jutt"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1043,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9492,
+      "stars": 9649,
       "user": "openai"
     },
     {
@@ -1058,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 613,
       "user": "6551Team"
     },
     {
@@ -1073,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "meodai"
     },
     {
@@ -1088,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "hellowind777"
     },
     {
@@ -1330,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5075,
+      "stars": 5159,
       "user": "titanwings"
     },
     {
@@ -1345,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1823,
+      "stars": 1826,
       "user": "garinasset"
     },
     {
@@ -1360,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1157,
       "user": "therealXiaomanChu"
     },
     {
@@ -1375,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 735,
       "user": "adamlyttleapps"
     },
     {
@@ -1426,36 +1396,6 @@
   ],
   "WebDev": [
     {
-      "title": "CodePen TV secrets",
-      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
-      "published_at": "2026-03-29T23:23:50Z",
-      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
-      "tags": [
-        "codepen",
-        "css",
-        "cssart",
-        "crt"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
-      "source": "Dev.to",
-      "user": "Ben Evans"
-    },
-    {
-      "title": "With the advent of AI, is there still a need for Frontend Engineers?",
-      "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
-      "published_at": "2026-03-29T15:37:53Z",
-      "description": "It is true that AI is good. Claude Code especially is really good at spinning up working UI code from scratch and almost everyone is using it to build websites and whatnot. So are Frontend Engineers still relevant? ",
-      "tags": [
-        "frontend",
-        "javascript",
-        "ai",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
-      "source": "Dev.to",
-      "user": "OlumideSamuel"
-    },
-    {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
       "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
       "published_at": "2026-03-23T05:48:13Z",
@@ -1471,19 +1411,19 @@
       "user": "Satish Gowda"
     },
     {
-      "title": "I Built a Tool Because 90% of My AI Agent's Tokens Were Spent Searching, Not Coding",
-      "url": "https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3",
-      "published_at": "2026-03-30T23:21:31Z",
-      "description": "5,000 to 10,000 tokens. That's what my AI agent was burning before changing a single line of frontend code.",
+      "title": "CodePen TV secrets",
+      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
+      "published_at": "2026-03-29T23:23:50Z",
+      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
       "tags": [
-        "ai",
-        "webdev",
-        "mcp",
-        "devtools"
+        "codepen",
+        "css",
+        "cssart",
+        "crt"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa7unx6s20pysdf3enw5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
       "source": "Dev.to",
-      "user": "Kaushik Gnanaskandan"
+      "user": "Ben Evans"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1710,6 +1650,21 @@
       "user": "PracticeOverflow"
     },
     {
+      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+      "published_at": "2026-03-26T06:14:01Z",
+      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
+      "tags": [
+        "opensource",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
+      "source": "Dev.to",
+      "user": "Habib Jutt"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1858,21 +1813,6 @@
       "user": "Ivan SZKIBA"
     },
     {
-      "title": "I Built a Tool Because 90% of My AI Agent's Tokens Were Spent Searching, Not Coding",
-      "url": "https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3",
-      "published_at": "2026-03-30T23:21:31Z",
-      "description": "5,000 to 10,000 tokens. That's what my AI agent was burning before changing a single line of frontend code.",
-      "tags": [
-        "ai",
-        "webdev",
-        "mcp",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa7unx6s20pysdf3enw5.png",
-      "source": "Dev.to",
-      "user": "Kaushik Gnanaskandan"
-    },
-    {
       "title": "AI terminal tools in 2026: Warp, Lacy Shell, and the rest",
       "url": "https://dev.to/lacymorrow/2026-ai-terminal-tools-comparison-warp-vs-lacy-shell-vs-traditional-shells-5a8f",
       "published_at": "2026-03-30T16:19:41Z",
@@ -1899,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9492,
+      "stars": 9649,
       "user": "openai"
     },
     {
@@ -1914,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 613,
       "user": "6551Team"
     },
     {
@@ -1929,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "meodai"
     },
     {
@@ -1944,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "hellowind777"
     },
     {
@@ -1974,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5075,
+      "stars": 5159,
       "user": "titanwings"
     },
     {
@@ -1989,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1823,
+      "stars": 1826,
       "user": "garinasset"
     },
     {
@@ -2004,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1157,
       "user": "therealXiaomanChu"
     },
     {
@@ -2019,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 735,
       "user": "adamlyttleapps"
     },
     {
@@ -2064,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "isboyjc"
     },
     {
@@ -2094,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "lemire"
     },
     {
