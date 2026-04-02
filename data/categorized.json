@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
-      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
-      "published_at": "2026-04-01T12:44:00Z",
-      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
-      "tags": [
-        "ai",
-        "discuss",
-        "mlh",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
       "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
       "published_at": "2026-04-02T07:39:26Z",
@@ -162,6 +147,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1f9hdvza2fgv8l7idj1s.png",
       "source": "Dev.to",
       "user": "Razan Fawwaz"
+    },
+    {
+      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
+      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
+      "published_at": "2026-04-01T12:44:00Z",
+      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
+      "tags": [
+        "ai",
+        "discuss",
+        "mlh",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
     },
     {
       "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
@@ -471,21 +471,6 @@
       "user": "Jen Looper"
     },
     {
-      "title": "Implementing a RAG system: Walk",
-      "url": "https://dev.to/gde/implementing-a-rag-system-walk-4h76",
-      "published_at": "2026-03-31T17:00:00Z",
-      "description": "Now that we've established the basics in our \"Crawl\" phase, it's time to pick up the pace. In this...",
-      "tags": [
-        "rag",
-        "genai",
-        "opensource",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg89xhp7lrasjb54etzb.png",
-      "source": "Dev.to",
-      "user": "Glen Yu"
-    },
-    {
       "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
       "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
       "published_at": "2026-03-31T20:52:09Z",
@@ -610,6 +595,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
+    },
+    {
+      "title": "Lost Skills We Sold for Convenience Over Commitment",
+      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
+      "published_at": "2026-03-29T11:49:29Z",
+      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
+      "tags": [
+        "career",
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
+      "source": "Dev.to",
+      "user": "Carlos Nah "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -755,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10473,
+      "stars": 10506,
       "user": "openai"
     },
     {
@@ -785,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 327,
       "user": "ZhangHanDong"
     },
     {
@@ -800,7 +800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4306,
+      "stars": 4334,
       "user": "tvytlx"
     },
     {
@@ -815,7 +815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1348,
+      "stars": 1356,
       "user": "therealXiaomanChu"
     },
     {
@@ -830,7 +830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 263,
       "user": "compozy"
     },
     {
@@ -845,7 +845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "codeany-ai"
     }
   ],
@@ -1114,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10473,
+      "stars": 10506,
       "user": "openai"
     },
     {
@@ -1174,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 327,
       "user": "ZhangHanDong"
     }
   ],
@@ -1371,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5377,
+      "stars": 5383,
       "user": "titanwings"
     },
     {
@@ -1386,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4306,
+      "stars": 4334,
       "user": "tvytlx"
     },
     {
@@ -1416,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1348,
+      "stars": 1356,
       "user": "therealXiaomanChu"
     },
     {
@@ -1431,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 770,
       "user": "adamlyttleapps"
     }
   ],
@@ -1896,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10473,
+      "stars": 10506,
       "user": "openai"
     },
     {
@@ -1956,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 327,
       "user": "ZhangHanDong"
     },
     {
@@ -1971,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5377,
+      "stars": 5383,
       "user": "titanwings"
     },
     {
@@ -1986,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4306,
+      "stars": 4334,
       "user": "tvytlx"
     },
     {
@@ -2016,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1348,
+      "stars": 1356,
       "user": "therealXiaomanChu"
     },
     {
@@ -2031,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 770,
       "user": "adamlyttleapps"
     },
     {
@@ -2046,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 263,
       "user": "compozy"
     },
     {
@@ -2076,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 138,
       "user": "ironsh"
     },
     {
@@ -2091,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "codeany-ai"
     },
     {
@@ -2106,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "lemire"
     }
   ]
