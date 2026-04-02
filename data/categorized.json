@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
-      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
-      "published_at": "2026-04-01T10:00:00Z",
-      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
-      "tags": [
-        "opensource",
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
-      "source": "Dev.to",
-      "user": "Ayu Adiati"
-    },
-    {
       "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
       "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
       "published_at": "2026-04-01T12:44:00Z",
@@ -117,6 +103,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
+      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
+      "published_at": "2026-04-01T10:00:00Z",
+      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
+      "tags": [
+        "opensource",
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
+      "source": "Dev.to",
+      "user": "Ayu Adiati"
     },
     {
       "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
@@ -441,21 +441,6 @@
       "user": "Scarlett Attensil"
     },
     {
-      "title": "Prompt Stuffing Is Killing Your Agent",
-      "url": "https://dev.to/wassimchegham/agentic-rag-done-right-4846",
-      "published_at": "2026-03-30T15:49:49Z",
-      "description": "Classic RAG retrieves everything and hopes for the best. Agentic RAG uses conditional retrieval with validation loops — and it's cheaper too.",
-      "tags": [
-        "ai",
-        "rag",
-        "agents",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzb4e082x4d7gepq5v6t.png",
-      "source": "Dev.to",
-      "user": "Wassim Chegham"
-    },
-    {
       "title": "Surviving as a Human in the Age of AI",
       "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
       "published_at": "2026-03-31T02:43:37Z",
@@ -612,6 +597,21 @@
       "user": "Patric Green"
     },
     {
+      "title": "Lost Skills We Sold for Convenience Over Commitment",
+      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
+      "published_at": "2026-03-29T11:49:29Z",
+      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
+      "tags": [
+        "career",
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
+      "source": "Dev.to",
+      "user": "Carlos Nah "
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -755,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10346,
+      "stars": 10408,
       "user": "openai"
     },
     {
@@ -785,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 320,
       "user": "ZhangHanDong"
     },
     {
@@ -800,7 +800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4117,
+      "stars": 4210,
       "user": "tvytlx"
     },
     {
@@ -815,7 +815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1327,
       "user": "therealXiaomanChu"
     },
     {
@@ -830,7 +830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "compozy"
     }
   ],
@@ -1099,7 +1099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10346,
+      "stars": 10408,
       "user": "openai"
     },
     {
@@ -1114,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 626,
       "user": "6551Team"
     },
     {
@@ -1144,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 327,
       "user": "hellowind777"
     },
     {
@@ -1159,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 320,
       "user": "ZhangHanDong"
     }
   ],
@@ -1356,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5335,
+      "stars": 5355,
       "user": "titanwings"
     },
     {
@@ -1371,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4117,
+      "stars": 4210,
       "user": "tvytlx"
     },
     {
@@ -1386,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1833,
+      "stars": 1837,
       "user": "garinasset"
     },
     {
@@ -1401,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1327,
       "user": "therealXiaomanChu"
     },
     {
@@ -1416,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 765,
       "user": "adamlyttleapps"
     }
   ],
@@ -1851,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10346,
+      "stars": 10408,
       "user": "openai"
     },
     {
@@ -1866,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 626,
       "user": "6551Team"
     },
     {
@@ -1896,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 327,
       "user": "hellowind777"
     },
     {
@@ -1911,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 320,
       "user": "ZhangHanDong"
     },
     {
@@ -1926,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5335,
+      "stars": 5355,
       "user": "titanwings"
     },
     {
@@ -1941,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4117,
+      "stars": 4210,
       "user": "tvytlx"
     },
     {
@@ -1956,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1833,
+      "stars": 1837,
       "user": "garinasset"
     },
     {
@@ -1971,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1327,
       "user": "therealXiaomanChu"
     },
     {
@@ -1986,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 765,
       "user": "adamlyttleapps"
     },
     {
@@ -2001,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "compozy"
     },
     {
@@ -2020,6 +2020,21 @@
       "user": "isboyjc"
     },
     {
+      "title": "ironsh/iron-proxy - An egress firewall for untrusted workloads.",
+      "url": "https://github.com/ironsh/iron-proxy",
+      "published_at": "2026-04-01T17:40:30Z",
+      "description": "An egress firewall for untrusted workloads.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
+      "source": "GitHub",
+      "stars": 123,
+      "user": "ironsh"
+    },
+    {
       "title": "lemire/constmap - GitHub Repository",
       "url": "https://github.com/lemire/constmap",
       "published_at": "2026-03-29T17:47:53Z",
@@ -2033,21 +2048,6 @@
       "source": "GitHub",
       "stars": 121,
       "user": "lemire"
-    },
-    {
-      "title": "ironsh/iron-proxy - An egress firewall for untrusted workloads.",
-      "url": "https://github.com/ironsh/iron-proxy",
-      "published_at": "2026-04-01T17:40:30Z",
-      "description": "An egress firewall for untrusted workloads.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
-      "source": "GitHub",
-      "stars": 120,
-      "user": "ironsh"
     },
     {
       "title": "dogadmin/ProcIR - GitHub Repository",
