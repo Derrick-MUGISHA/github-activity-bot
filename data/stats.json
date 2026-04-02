@@ -1,25 +1,25 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 52,
+    "AI": 51,
     "JavaScript": 26,
-    "Python": 19,
+    "Python": 18,
     "DevOps": 2,
     "WebDev": 5,
     "Mobile": 1,
     "Cloud": 5,
     "Database": 4,
     "Security": 5,
-    "Tools": 27
+    "Tools": 26
   },
   "by_language": {
     "Go": 16,
-    "Python": 19,
+    "Python": 18,
     "JavaScript": 26,
     "Java": 19,
     "Ruby": 1,
@@ -29,7 +29,7 @@
     "Kotlin": 1
   },
   "by_date": {
-    "2026-04-01": 15,
+    "2026-04-01": 14,
     "2026-03-31": 14,
     "2026-03-30": 20,
     "2026-03-29": 10,
@@ -71,7 +71,7 @@
     "2026-03-28": 3
   },
   "top_tags": {
-    "ai": 22,
+    "ai": 21,
     "github": 15,
     "open-source": 15,
     "webdev": 10,
@@ -80,28 +80,28 @@
     "Python": 10,
     "javascript": 9,
     "discuss": 8,
-    "python": 8,
     "programming": 8,
+    "python": 7,
     "opensource": 6,
     "go": 6,
     "career": 5,
     "tutorial": 5,
     "agents": 5,
     "devchallenge": 4,
-    "llm": 4,
     "productivity": 4,
-    "418challenge": 3
+    "418challenge": 3,
+    "showdev": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "18.4",
-    "Python": "21.8",
-    "JavaScript": "29.9",
-    "Java": "21.8",
-    "Ruby": "1.1",
-    "Rust": "3.4",
-    "PHP": "1.1",
-    "CSharp": "1.1",
-    "Kotlin": "1.1"
+    "Go": "18.6",
+    "Python": "20.9",
+    "JavaScript": "30.2",
+    "Java": "22.1",
+    "Ruby": "1.2",
+    "Rust": "3.5",
+    "PHP": "1.2",
+    "CSharp": "1.2",
+    "Kotlin": "1.2"
   }
 }
