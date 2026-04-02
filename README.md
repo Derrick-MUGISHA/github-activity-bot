@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-9-blue)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-02-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -46,8 +46,6 @@
 
 **DevOps**: 🟦 2 (1.9%)
 
-**Mobile**:  1 (1.0%)
-
 
 
 ### 📡 Sources
@@ -60,15 +58,14 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.0 (28.0%)
-Python          ██████████████████████████ 24.4 (24.4%)
-Java            ██████████████████████ 20.7 (20.7%)
-Go              █████████████████████ 19.5 (19.5%)
-Rust            ███ 2.4 (2.4%)
+JavaScript      ██████████████████████████████ 28.4 (28.4%)
+Python          ██████████████████████████ 24.7 (24.7%)
+Java            ██████████████████████ 21.0 (21.0%)
+Go              █████████████████████ 19.8 (19.8%)
+Rust            ███ 2.5 (2.5%)
 Ruby            █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 CSharp          █ 1.2 (1.2%)
-Kotlin          █ 1.2 (1.2%)
 
 ```
 
@@ -128,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-02 12:00 CAT)
+## 📅 Latest Updates (2026-04-02 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +216,7 @@ npm run test
 - [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84) _[Dev.to]_
 
-_Last automated update: Thu, 02 Apr 2026 12:36:04 CAT_
+_Last automated update: Thu, 02 Apr 2026 13:31:30 CAT_
 
 
 
@@ -227,36 +224,36 @@ _Last automated update: Thu, 02 Apr 2026 12:36:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Heap, stack, garbage collection
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -290,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 02 Apr 2026 10:36:04 GMT</b><br/>
+  <b>Last automated update: Thu, 02 Apr 2026 11:31:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
