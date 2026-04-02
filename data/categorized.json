@@ -16,6 +16,21 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
+      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
+      "published_at": "2026-04-02T07:39:26Z",
+      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
+      "source": "Dev.to",
+      "user": "Riley Black"
+    },
+    {
       "title": "Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493",
       "published_at": "2026-04-02T13:42:40Z",
@@ -29,21 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrxypdwn2lqbrihrrm2c.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
-    },
-    {
-      "title": "Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents",
-      "url": "https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7",
-      "published_at": "2026-04-02T06:50:50Z",
-      "description": "Abstract   This paper presents a self-evolving framework, Recursive Knowledge...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F670ngcqe5pf7c06xkwoq.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
@@ -89,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.drizby.com%2Fimages%2Fdrizby_3.png",
       "source": "Dev.to",
       "user": "Clifton Cunningham"
+    },
+    {
+      "title": "Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents",
+      "url": "https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7",
+      "published_at": "2026-04-02T06:50:50Z",
+      "description": "Abstract   This paper presents a self-evolving framework, Recursive Knowledge...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "agentskills"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F670ngcqe5pf7c06xkwoq.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
@@ -597,21 +612,6 @@
       "user": "Patric Green"
     },
     {
-      "title": "Lost Skills We Sold for Convenience Over Commitment",
-      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
-      "published_at": "2026-03-29T11:49:29Z",
-      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
-      "tags": [
-        "career",
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
-      "source": "Dev.to",
-      "user": "Carlos Nah "
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -755,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10408,
+      "stars": 10449,
       "user": "openai"
     },
     {
@@ -785,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 324,
       "user": "ZhangHanDong"
     },
     {
@@ -800,7 +800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4210,
+      "stars": 4277,
       "user": "tvytlx"
     },
     {
@@ -815,7 +815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1339,
       "user": "therealXiaomanChu"
     },
     {
@@ -830,8 +830,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 251,
       "user": "compozy"
+    },
+    {
+      "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
+      "url": "https://github.com/codeany-ai/codeany",
+      "published_at": "2026-04-01T18:06:21Z",
+      "description": "Open-source AI-powered terminal agent. Built in Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
+      "source": "GitHub",
+      "stars": 123,
+      "user": "codeany-ai"
     }
   ],
   "JavaScript": [
@@ -1099,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10408,
+      "stars": 10449,
       "user": "openai"
     },
     {
@@ -1114,7 +1129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 628,
       "user": "6551Team"
     },
     {
@@ -1159,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 324,
       "user": "ZhangHanDong"
     }
   ],
@@ -1356,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5355,
+      "stars": 5368,
       "user": "titanwings"
     },
     {
@@ -1371,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4210,
+      "stars": 4277,
       "user": "tvytlx"
     },
     {
@@ -1386,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1836,
       "user": "garinasset"
     },
     {
@@ -1401,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1339,
       "user": "therealXiaomanChu"
     },
     {
@@ -1416,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 768,
       "user": "adamlyttleapps"
     }
   ],
@@ -1451,6 +1466,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
+    },
+    {
+      "title": "CodePen TV secrets",
+      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
+      "published_at": "2026-03-29T23:23:50Z",
+      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
+      "tags": [
+        "codepen",
+        "css",
+        "cssart",
+        "crt"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
+      "source": "Dev.to",
+      "user": "Ben Evans"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1661,6 +1691,21 @@
   ],
   "Tools": [
     {
+      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
+      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
+      "published_at": "2026-04-02T07:39:26Z",
+      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
+      "source": "Dev.to",
+      "user": "Riley Black"
+    },
+    {
       "title": "🌪️ Proof of Work: The To-Do List of Infinite Regret",
       "url": "https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le",
       "published_at": "2026-04-01T20:49:57Z",
@@ -1851,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10408,
+      "stars": 10449,
       "user": "openai"
     },
     {
@@ -1866,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 628,
       "user": "6551Team"
     },
     {
@@ -1911,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 324,
       "user": "ZhangHanDong"
     },
     {
@@ -1926,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5355,
+      "stars": 5368,
       "user": "titanwings"
     },
     {
@@ -1941,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4210,
+      "stars": 4277,
       "user": "tvytlx"
     },
     {
@@ -1956,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1836,
       "user": "garinasset"
     },
     {
@@ -1971,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1339,
       "user": "therealXiaomanChu"
     },
     {
@@ -1986,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 768,
       "user": "adamlyttleapps"
     },
     {
@@ -2001,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 251,
       "user": "compozy"
     },
     {
@@ -2016,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "isboyjc"
     },
     {
@@ -2031,8 +2076,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 131,
       "user": "ironsh"
+    },
+    {
+      "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
+      "url": "https://github.com/codeany-ai/codeany",
+      "published_at": "2026-04-01T18:06:21Z",
+      "description": "Open-source AI-powered terminal agent. Built in Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
+      "source": "GitHub",
+      "stars": 123,
+      "user": "codeany-ai"
     },
     {
       "title": "lemire/constmap - GitHub Repository",
@@ -2046,23 +2106,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "lemire"
-    },
-    {
-      "title": "dogadmin/ProcIR - GitHub Repository",
-      "url": "https://github.com/dogadmin/ProcIR",
-      "published_at": "2026-03-28T14:19:39Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14845215?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "dogadmin"
     }
   ]
 }
