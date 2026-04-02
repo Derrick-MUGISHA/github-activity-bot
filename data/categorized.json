@@ -89,21 +89,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
-      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
-      "published_at": "2026-04-01T07:14:45Z",
-      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
-      "tags": [
-        "softwareengineering",
-        "ai",
-        "nestjs",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
-      "source": "Dev.to",
-      "user": "Jim Zandueta"
-    },
-    {
       "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
       "url": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
       "published_at": "2026-03-31T17:49:54Z",
@@ -117,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png",
       "source": "Dev.to",
       "user": "Tarek"
+    },
+    {
+      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
+      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
+      "published_at": "2026-04-01T07:14:45Z",
+      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
+      "tags": [
+        "softwareengineering",
+        "ai",
+        "nestjs",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
+      "source": "Dev.to",
+      "user": "Jim Zandueta"
     },
     {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
@@ -252,6 +252,21 @@
       "user": "An Pham"
     },
     {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
+    },
+    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -295,6 +310,36 @@
       "user": "Wassim Chegham"
     },
     {
+      "title": "Implementing a RAG system: Walk",
+      "url": "https://dev.to/gde/implementing-a-rag-system-walk-4h76",
+      "published_at": "2026-03-31T17:00:00Z",
+      "description": "Now that we've established the basics in our \"Crawl\" phase, it's time to pick up the pace. In this...",
+      "tags": [
+        "rag",
+        "genai",
+        "opensource",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg89xhp7lrasjb54etzb.png",
+      "source": "Dev.to",
+      "user": "Glen Yu"
+    },
+    {
+      "title": "Surviving as a Human in the Age of AI",
+      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
+      "published_at": "2026-03-31T02:43:37Z",
+      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...",
+      "tags": [
+        "ai",
+        "programming",
+        "career",
+        "wecoded"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
+      "source": "Dev.to",
+      "user": "Jen Looper"
+    },
+    {
       "title": "With the advent of AI, is there still a need for Frontend Engineers?",
       "url": "https://dev.to/olumidesamuel_/with-the-advent-of-ai-is-there-still-a-need-for-frontend-engineers-2ejm",
       "published_at": "2026-03-29T15:37:53Z",
@@ -308,6 +353,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbveius4b8m66v035nd6.png",
       "source": "Dev.to",
       "user": "OlumideSamuel"
+    },
+    {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
+      "published_at": "2026-03-31T20:52:09Z",
+      "description": "The Problem   In my previous post, I shared how I used an AI agent framework during a train...",
+      "tags": [
+        "serverless",
+        "dataengineering",
+        "cloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnm7ueuuqqy7yjs6hgkme.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -396,19 +456,19 @@
       "user": "Matthias von Bargen"
     },
     {
-      "title": "Midnight network is live",
-      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
-      "published_at": "2026-03-30T14:28:04Z",
-      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
+      "title": "TERSE — A New Serialization Format Built for LLMs",
+      "url": "https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34",
+      "published_at": "2026-03-31T12:10:36Z",
+      "description": "JSON carries ~47% structural noise on every LLM API call. TERSE is a new open-source serialization format that covers the full JSON data model with 30–55% fewer tokens. Formal spec, 4 reference implementations, live playground.",
       "tags": [
-        "blockchain",
-        "web3",
-        "typescript",
-        "privacy"
+        "llm",
+        "opensource",
+        "ai",
+        "token"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttb7eoim92awhrpor7ze.png",
       "source": "Dev.to",
-      "user": "Lauren Lee"
+      "user": "Rudson Kiyoshi Souza Carvalho"
     },
     {
       "title": "AI terminal tools in 2026: Warp, Lacy Shell, and the rest",
@@ -466,19 +526,49 @@
       "user": "Carlos Nah "
     },
     {
-      "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
-      "url": "https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl",
-      "published_at": "2026-03-25T21:57:51Z",
-      "description": "I purchased the domain evidenceekanem.me and hosting from GoDaddy on the same day in March 2024. By...",
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
       "tags": [
-        "webdev",
-        "dotnet",
-        "nuxt",
-        "vue"
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
       "source": "Dev.to",
-      "user": "Evidence Etinih Ekanem"
+      "user": "xbill"
+    },
+    {
+      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
+      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
+      "published_at": "2026-03-30T06:21:06Z",
+      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
+    },
+    {
+      "title": "1st time at a big tech conference - GTC 2026",
+      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
+      "published_at": "2026-03-25T16:38:29Z",
+      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
+      "tags": [
+        "ai",
+        "techtalks",
+        "career",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
+      "source": "Dev.to",
+      "user": "Matt Cool"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -624,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9347,
+      "stars": 9492,
       "user": "openai"
     },
     {
@@ -654,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "iZiTTMarvin"
     },
     {
@@ -669,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1067,
+      "stars": 1104,
       "user": "therealXiaomanChu"
     },
     {
@@ -684,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "compozy"
     },
     {
@@ -705,21 +795,6 @@
   ],
   "JavaScript": [
     {
-      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
-      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
-      "published_at": "2026-04-01T07:14:45Z",
-      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
-      "tags": [
-        "softwareengineering",
-        "ai",
-        "nestjs",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
-      "source": "Dev.to",
-      "user": "Jim Zandueta"
-    },
-    {
       "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
       "url": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
       "published_at": "2026-03-31T17:49:54Z",
@@ -733,6 +808,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png",
       "source": "Dev.to",
       "user": "Tarek"
+    },
+    {
+      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
+      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
+      "published_at": "2026-04-01T07:14:45Z",
+      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
+      "tags": [
+        "softwareengineering",
+        "ai",
+        "nestjs",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
+      "source": "Dev.to",
+      "user": "Jim Zandueta"
     },
     {
       "title": "Managing Secret For Your Golang Apps With The GCP Secret Manager",
@@ -780,21 +870,6 @@
       "user": "OlumideSamuel"
     },
     {
-      "title": "String Polyfills & Common Interview Methods in JavaScript",
-      "url": "https://dev.to/ritam369/string-polyfills-common-interview-methods-in-javascript-224g",
-      "published_at": "2026-03-29T19:42:57Z",
-      "description": "Introduction: Why String Manipulation Still Matters   Imagine this: You’re in a high-stakes...",
-      "tags": [
-        "javascript",
-        "programming",
-        "beginners",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrrhxkset2dolhteff5x.png",
-      "source": "Dev.to",
-      "user": "Ritam Saha"
-    },
-    {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
       "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
       "published_at": "2026-03-23T05:48:13Z",
@@ -822,34 +897,19 @@
       "user": "Matthias von Bargen"
     },
     {
-      "title": "Midnight network is live",
-      "url": "https://dev.to/devsofmidnight/midnight-network-is-live-1apj",
-      "published_at": "2026-03-30T14:28:04Z",
-      "description": "The Midnight network is officially live. This milestone marks the introduction of state continuity...",
+      "title": "TERSE — A New Serialization Format Built for LLMs",
+      "url": "https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34",
+      "published_at": "2026-03-31T12:10:36Z",
+      "description": "JSON carries ~47% structural noise on every LLM API call. TERSE is a new open-source serialization format that covers the full JSON data model with 30–55% fewer tokens. Formal spec, 4 reference implementations, live playground.",
       "tags": [
-        "blockchain",
-        "web3",
-        "typescript",
-        "privacy"
+        "llm",
+        "opensource",
+        "ai",
+        "token"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9oa57oc6rloro2m88s.jpeg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttb7eoim92awhrpor7ze.png",
       "source": "Dev.to",
-      "user": "Lauren Lee"
-    },
-    {
-      "title": "How I Finally Built My Personal Website (After Almost Two Years of Procrastinating)",
-      "url": "https://dev.to/evidenceekanem/how-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating-57jl",
-      "published_at": "2026-03-25T21:57:51Z",
-      "description": "I purchased the domain evidenceekanem.me and hosting from GoDaddy on the same day in March 2024. By...",
-      "tags": [
-        "webdev",
-        "dotnet",
-        "nuxt",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fevidence-blog-images.s3.us-east-1.amazonaws.com%2Fposts%2Fcovers%2Fhow-i-finally-built-my-personal-website-after-almost-two-years-of-procrastinating.png",
-      "source": "Dev.to",
-      "user": "Evidence Etinih Ekanem"
+      "user": "Rudson Kiyoshi Souza Carvalho"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -983,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9347,
+      "stars": 9492,
       "user": "openai"
     },
     {
@@ -998,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 606,
       "user": "6551Team"
     },
     {
@@ -1028,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "hellowind777"
     },
     {
@@ -1043,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "iZiTTMarvin"
     },
     {
@@ -1107,6 +1167,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8np6nhv7ffmdbgkk4q0.png",
       "source": "Dev.to",
       "user": "Diego Resendez"
+    },
+    {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1240,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4995,
+      "stars": 5075,
       "user": "titanwings"
     },
     {
@@ -1255,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1819,
+      "stars": 1823,
       "user": "garinasset"
     },
     {
@@ -1270,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1067,
+      "stars": 1104,
       "user": "therealXiaomanChu"
     },
     {
@@ -1285,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 731,
       "user": "adamlyttleapps"
     },
     {
@@ -1483,6 +1573,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21jzh6a4lcwoa1q6cqy5.png",
       "source": "Dev.to",
       "user": "Maciej Strzelczyk"
+    },
+    {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
+      "published_at": "2026-03-31T20:52:09Z",
+      "description": "The Problem   In my previous post, I shared how I used an AI agent framework during a train...",
+      "tags": [
+        "serverless",
+        "dataengineering",
+        "cloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnm7ueuuqqy7yjs6hgkme.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9",
+      "published_at": "2026-03-28T17:14:30Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "googlecloudplatform",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flysoy8f5bxb56ss1efyz.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1514,21 +1634,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png",
       "source": "Dev.to",
       "user": "Tarek"
-    },
-    {
-      "title": "How to Break Your PostgreSQL IIoT Database and Learn Something in the Process",
-      "url": "https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d",
-      "published_at": "2026-03-30T17:42:43Z",
-      "description": "As engineers, we're taught to design for reliability. We do design calculations, run simulations,...",
-      "tags": [
-        "iot",
-        "postgres",
-        "industrial",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ym3q88l1wrfv1wuagus.png",
-      "source": "Dev.to",
-      "user": "Team Tiger Data"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1634,21 +1739,6 @@
       "user": "Malik Sohaib iqbal"
     },
     {
-      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
-      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
-      "published_at": "2026-04-01T07:14:45Z",
-      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
-      "tags": [
-        "softwareengineering",
-        "ai",
-        "nestjs",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
-      "source": "Dev.to",
-      "user": "Jim Zandueta"
-    },
-    {
       "title": "What are your goals for the week? #172",
       "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm",
       "published_at": "2026-03-30T14:28:37Z",
@@ -1662,6 +1752,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg",
       "source": "Dev.to",
       "user": "Chris Jarvis"
+    },
+    {
+      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
+      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
+      "published_at": "2026-04-01T07:14:45Z",
+      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
+      "tags": [
+        "softwareengineering",
+        "ai",
+        "nestjs",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
+      "source": "Dev.to",
+      "user": "Jim Zandueta"
     },
     {
       "title": "🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows",
@@ -1694,6 +1799,21 @@
       "user": "Abhay"
     },
     {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
+    },
+    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -1707,21 +1827,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
-    },
-    {
-      "title": "Bad Code Is a High-Interest Loan: How Technical Debt Slowly Kills Team Velocity",
-      "url": "https://dev.to/gavincettolo/bad-code-is-a-high-interest-loan-how-technical-debt-slowly-kills-team-velocity-lac",
-      "published_at": "2026-03-31T07:30:00Z",
-      "description": "We were moving fast.  Features shipped every week.  Stakeholders were happy.  The backlog was finally...",
-      "tags": [
-        "webdev",
-        "programming",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhtk8qjaq4u6tmgw6im7.jpg",
-      "source": "Dev.to",
-      "user": "Gavin Cettolo"
     },
     {
       "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
@@ -1794,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9347,
+      "stars": 9492,
       "user": "openai"
     },
     {
@@ -1809,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 606,
       "user": "6551Team"
     },
     {
@@ -1839,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "hellowind777"
     },
     {
@@ -1854,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "iZiTTMarvin"
     },
     {
@@ -1869,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4995,
+      "stars": 5075,
       "user": "titanwings"
     },
     {
@@ -1884,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1819,
+      "stars": 1823,
       "user": "garinasset"
     },
     {
@@ -1899,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1067,
+      "stars": 1104,
       "user": "therealXiaomanChu"
     },
     {
@@ -1914,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 731,
       "user": "adamlyttleapps"
     },
     {
@@ -1944,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "compozy"
     },
     {
@@ -1959,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 141,
       "user": "isboyjc"
     },
     {
@@ -1989,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "lemire"
     },
     {
