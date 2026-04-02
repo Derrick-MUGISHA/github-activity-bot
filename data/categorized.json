@@ -16,21 +16,6 @@
       "user": "Riley Black"
     },
     {
-      "title": "Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493",
-      "published_at": "2026-04-02T13:42:40Z",
-      "description": "The average professional spends 28% of their workday reading and answering emails. But here's the...",
-      "tags": [
-        "workspacestudio",
-        "googleworkspace",
-        "aiemailograniser",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrxypdwn2lqbrihrrm2c.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
       "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
       "published_at": "2026-04-01T16:19:39Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png",
       "source": "Dev.to",
       "user": "billkhiz"
+    },
+    {
+      "title": "Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications",
+      "url": "https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493",
+      "published_at": "2026-04-02T13:42:40Z",
+      "description": "The average professional spends 28% of their workday reading and answering emails. But here's the...",
+      "tags": [
+        "workspacestudio",
+        "googleworkspace",
+        "aiemailograniser",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrxypdwn2lqbrihrrm2c.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "Antigravity: My Approach to Deliver the Most Assured Value for the Least Money",
@@ -741,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10539,
+      "stars": 10552,
       "user": "openai"
     },
     {
@@ -756,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "meodai"
     },
     {
@@ -771,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 384,
       "user": "tradesdontlie"
     },
     {
@@ -786,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4348,
+      "stars": 4355,
       "user": "tvytlx"
     },
     {
@@ -801,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1361,
+      "stars": 1363,
       "user": "therealXiaomanChu"
     },
     {
@@ -816,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 273,
       "user": "compozy"
     },
     {
@@ -1100,7 +1100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10539,
+      "stars": 10552,
       "user": "openai"
     },
     {
@@ -1130,7 +1130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "meodai"
     },
     {
@@ -1145,7 +1145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 384,
       "user": "tradesdontlie"
     },
     {
@@ -1357,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5387,
+      "stars": 5389,
       "user": "titanwings"
     },
     {
@@ -1372,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4348,
+      "stars": 4355,
       "user": "tvytlx"
     },
     {
@@ -1402,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1361,
+      "stars": 1363,
       "user": "therealXiaomanChu"
     },
     {
@@ -1417,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 779,
       "user": "adamlyttleapps"
     }
   ],
@@ -1882,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10539,
+      "stars": 10552,
       "user": "openai"
     },
     {
@@ -1912,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "meodai"
     },
     {
@@ -1927,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 384,
       "user": "tradesdontlie"
     },
     {
@@ -1957,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5387,
+      "stars": 5389,
       "user": "titanwings"
     },
     {
@@ -1972,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4348,
+      "stars": 4355,
       "user": "tvytlx"
     },
     {
@@ -2002,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1361,
+      "stars": 1363,
       "user": "therealXiaomanChu"
     },
     {
@@ -2017,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 779,
       "user": "adamlyttleapps"
     },
     {
@@ -2032,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 273,
       "user": "compozy"
     },
     {
@@ -2047,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "ironsh"
     },
     {
@@ -2066,6 +2066,21 @@
       "user": "isboyjc"
     },
     {
+      "title": "maaslalani/sheets - Terminal based spreadsheet tool",
+      "url": "https://github.com/maaslalani/sheets",
+      "published_at": "2026-04-01T08:20:07Z",
+      "description": "Terminal based spreadsheet tool",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "maaslalani"
+    },
+    {
       "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
       "url": "https://github.com/codeany-ai/codeany",
       "published_at": "2026-04-01T18:06:21Z",
@@ -2079,21 +2094,6 @@
       "source": "GitHub",
       "stars": 127,
       "user": "codeany-ai"
-    },
-    {
-      "title": "lemire/constmap - GitHub Repository",
-      "url": "https://github.com/lemire/constmap",
-      "published_at": "2026-03-29T17:47:53Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
-      "source": "GitHub",
-      "stars": 123,
-      "user": "lemire"
     }
   ]
 }

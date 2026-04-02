@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-02 22:00 CAT)
+## 📅 Latest Updates (2026-04-02 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrxypdwn2lqbrihrrm2c.png" width="200" alt="Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications" />
+    <a href="https://dev.to/codebunny20/why-are-we-throwing-away-perfectly-good-tech-1k3">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd5boucd00u4r0v4skro.png" width="200" alt="“Why Are We Throwing Away Perfectly Good Tech?”" />
       <br/>
-      <b>Google Workspace Studio Tutorial: Auto-Organize Yo...</b>
+      <b>“Why Are We Throwing Away Perfectly Good Tech?”</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,9 +200,9 @@ npm run test
 - [BrewOps: I built a production-grade HTCPCP server because nobody else would](https://dev.to/axrisi/brewops-i-built-a-production-grade-htcpcp-server-because-nobody-else-would-3clh) _[Dev.to]_
 - [We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)](https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5) _[Dev.to]_
 - [🌪️ Proof of Work: The To-Do List of Infinite Regret](https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le) _[Dev.to]_
-- [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 - [“Why Are We Throwing Away Perfectly Good Tech?”](https://dev.to/codebunny20/why-are-we-throwing-away-perfectly-good-tech-1k3) _[Dev.to]_
 - [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6) _[Dev.to]_
+- [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 - [Antigravity: My Approach to Deliver the Most Assured Value for the Least Money](https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip) _[Dev.to]_
 - [Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p) _[Dev.to]_
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [What I Learned from Reading Claude Code’s Reconstructed Source](https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf) _[Dev.to]_
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
 
-_Last automated update: Thu, 02 Apr 2026 22:33:59 CAT_
+_Last automated update: Thu, 02 Apr 2026 23:19:53 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 02 Apr 2026 22:33:59 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 02 Apr 2026 20:33:59 GMT</b><br/>
+  <b>Last automated update: Thu, 02 Apr 2026 21:19:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
