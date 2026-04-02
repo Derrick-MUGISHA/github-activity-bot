@@ -134,21 +134,6 @@
       "user": "Tarek"
     },
     {
-      "title": "Cross-Repository Development with Antigravity",
-      "url": "https://dev.to/gdg/cross-repository-development-with-antigravity-26be",
-      "published_at": "2026-04-02T02:26:20Z",
-      "description": "If you've been sleeping on Antigravity, now's the time to wake up. Google's latest IDE isn't just...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "gemini",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1f9hdvza2fgv8l7idj1s.png",
-      "source": "Dev.to",
-      "user": "Razan Fawwaz"
-    },
-    {
       "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
       "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
       "published_at": "2026-04-01T12:44:00Z",
@@ -205,6 +190,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
       "source": "Dev.to",
       "user": "Jim Zandueta"
+    },
+    {
+      "title": "Cross-Repository Development with Antigravity",
+      "url": "https://dev.to/gdg/cross-repository-development-with-antigravity-26be",
+      "published_at": "2026-04-02T02:26:20Z",
+      "description": "If you've been sleeping on Antigravity, now's the time to wake up. Google's latest IDE isn't just...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "gemini",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1f9hdvza2fgv8l7idj1s.png",
+      "source": "Dev.to",
+      "user": "Razan Fawwaz"
     },
     {
       "title": "Betting on Engineering, Not Trends",
@@ -757,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10585,
+      "stars": 10598,
       "user": "openai"
     },
     {
@@ -772,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 445,
       "user": "tradesdontlie"
     },
     {
@@ -802,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 341,
       "user": "ZhangHanDong"
     },
     {
@@ -817,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4386,
+      "stars": 4409,
       "user": "tvytlx"
     },
     {
@@ -832,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1368,
       "user": "therealXiaomanChu"
     },
     {
@@ -847,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 282,
       "user": "compozy"
     },
     {
@@ -862,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "codeany-ai"
     }
   ],
@@ -1131,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10585,
+      "stars": 10598,
       "user": "openai"
     },
     {
@@ -1161,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 445,
       "user": "tradesdontlie"
     },
     {
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 341,
       "user": "ZhangHanDong"
     }
   ],
@@ -1388,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5395,
+      "stars": 5398,
       "user": "titanwings"
     },
     {
@@ -1403,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4386,
+      "stars": 4409,
       "user": "tvytlx"
     },
     {
@@ -1433,23 +1433,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1368,
       "user": "therealXiaomanChu"
     },
     {
-      "title": "adamlyttleapps/claude-skill-aso-appstore-screenshots - GitHub Repository",
-      "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
-      "published_at": "2026-03-29T12:20:23Z",
-      "description": "Trending GitHub Repository",
+      "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
+      "url": "https://github.com/HKUDS/OpenHarness",
+      "published_at": "2026-04-01T15:37:13Z",
+      "description": "\"OpenHarness: Open Agent Harness\"",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 785,
-      "user": "adamlyttleapps"
+      "stars": 805,
+      "user": "HKUDS"
     }
   ],
   "DevOps": [
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10585,
+      "stars": 10598,
       "user": "openai"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 445,
       "user": "tradesdontlie"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 341,
       "user": "ZhangHanDong"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5395,
+      "stars": 5398,
       "user": "titanwings"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4386,
+      "stars": 4409,
       "user": "tvytlx"
     },
     {
@@ -2019,23 +2019,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1368,
       "user": "therealXiaomanChu"
     },
     {
-      "title": "adamlyttleapps/claude-skill-aso-appstore-screenshots - GitHub Repository",
-      "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
-      "published_at": "2026-03-29T12:20:23Z",
-      "description": "Trending GitHub Repository",
+      "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
+      "url": "https://github.com/HKUDS/OpenHarness",
+      "published_at": "2026-04-01T15:37:13Z",
+      "description": "\"OpenHarness: Open Agent Harness\"",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 785,
-      "user": "adamlyttleapps"
+      "stars": 805,
+      "user": "HKUDS"
     },
     {
       "title": "compozy/compozy - Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 282,
       "user": "compozy"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "maaslalani"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 159,
       "user": "ironsh"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "codeany-ai"
     }
   ]
