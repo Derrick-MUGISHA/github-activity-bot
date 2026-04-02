@@ -487,20 +487,6 @@
       "user": "Taiwrash"
     },
     {
-      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
-      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
-      "published_at": "2026-03-30T14:52:45Z",
-      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
-      "tags": [
-        "ai",
-        "careerdevelopment",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
-      "source": "Dev.to",
-      "user": "martin rojas"
-    },
-    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -596,6 +582,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
       "source": "Dev.to",
       "user": "Carlos Nah "
+    },
+    {
+      "title": "Long-Horizon Agents Are Here. Full Autopilot Isn't",
+      "url": "https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7",
+      "published_at": "2026-03-30T06:21:06Z",
+      "description": "A good sanity check for long-horizon agents is not a benchmark. It is a task that is easy to verify...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lx3jukzv845fgkvd4zy.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
+    },
+    {
+      "title": "1st time at a big tech conference - GTC 2026",
+      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
+      "published_at": "2026-03-25T16:38:29Z",
+      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
+      "tags": [
+        "ai",
+        "techtalks",
+        "career",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
+      "source": "Dev.to",
+      "user": "Matt Cool"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -741,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10568,
+      "stars": 10580,
       "user": "openai"
     },
     {
@@ -756,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 415,
       "user": "tradesdontlie"
     },
     {
@@ -786,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "ZhangHanDong"
     },
     {
@@ -801,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4364,
+      "stars": 4382,
       "user": "tvytlx"
     },
     {
@@ -831,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "compozy"
     },
     {
@@ -846,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "codeany-ai"
     }
   ],
@@ -1115,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10568,
+      "stars": 10580,
       "user": "openai"
     },
     {
@@ -1145,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 415,
       "user": "tradesdontlie"
     },
     {
@@ -1175,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "ZhangHanDong"
     }
   ],
@@ -1372,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5391,
+      "stars": 5393,
       "user": "titanwings"
     },
     {
@@ -1387,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4364,
+      "stars": 4382,
       "user": "tvytlx"
     },
     {
@@ -1432,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 783,
       "user": "adamlyttleapps"
     }
   ],
@@ -1842,20 +1858,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern",
-      "url": "https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4",
-      "published_at": "2026-03-30T14:52:45Z",
-      "description": "Someone recently asked in a LinkedIn thread whether AI tools are truly changing software engineering...",
-      "tags": [
-        "ai",
-        "careerdevelopment",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyg2vytvvukdy1n1dbp3e.jpg",
-      "source": "Dev.to",
-      "user": "martin rojas"
-    },
-    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -1897,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10568,
+      "stars": 10580,
       "user": "openai"
     },
     {
@@ -1927,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 415,
       "user": "tradesdontlie"
     },
     {
@@ -1957,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "ZhangHanDong"
     },
     {
@@ -1972,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5391,
+      "stars": 5393,
       "user": "titanwings"
     },
     {
@@ -1987,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4364,
+      "stars": 4382,
       "user": "tvytlx"
     },
     {
@@ -2032,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 783,
       "user": "adamlyttleapps"
     },
     {
@@ -2047,8 +2049,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "compozy"
+    },
+    {
+      "title": "maaslalani/sheets - Terminal based spreadsheet tool",
+      "url": "https://github.com/maaslalani/sheets",
+      "published_at": "2026-04-01T08:20:07Z",
+      "description": "Terminal based spreadsheet tool",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "maaslalani"
     },
     {
       "title": "ironsh/iron-proxy - An egress firewall for untrusted workloads.",
@@ -2062,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "ironsh"
     },
     {
@@ -2081,21 +2098,6 @@
       "user": "isboyjc"
     },
     {
-      "title": "maaslalani/sheets - Terminal based spreadsheet tool",
-      "url": "https://github.com/maaslalani/sheets",
-      "published_at": "2026-04-01T08:20:07Z",
-      "description": "Terminal based spreadsheet tool",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
-      "source": "GitHub",
-      "stars": 144,
-      "user": "maaslalani"
-    },
-    {
       "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
       "url": "https://github.com/codeany-ai/codeany",
       "published_at": "2026-04-01T18:06:21Z",
@@ -2107,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "codeany-ai"
     }
   ]
