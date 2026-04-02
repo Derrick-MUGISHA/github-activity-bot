@@ -119,6 +119,20 @@
       "user": "Tarek"
     },
     {
+      "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
+      "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
+      "published_at": "2026-03-29T09:59:19Z",
+      "description": "Why Rails still matters for startups and AI-assisted coding: less chaos, more momentum.",
+      "tags": [
+        "rails",
+        "startup",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png",
+      "source": "Dev.to",
+      "user": "Mezbah Alam"
+    },
+    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
       "published_at": "2026-04-01T15:25:36Z",
@@ -132,50 +146,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Surviving as a Human in the Age of AI",
-      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
-      "published_at": "2026-03-31T02:43:37Z",
-      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...",
-      "tags": [
-        "ai",
-        "programming",
-        "career",
-        "wecoded"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
-    },
-    {
-      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
-      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
-      "published_at": "2026-03-31T20:52:09Z",
-      "description": "The Problem   In my previous post, I shared how I used an AI agent framework during a train...",
-      "tags": [
-        "serverless",
-        "dataengineering",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnm7ueuuqqy7yjs6hgkme.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
-    },
-    {
-      "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
-      "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
-      "published_at": "2026-03-29T09:59:19Z",
-      "description": "Why Rails still matters for startups and AI-assisted coding: less chaos, more momentum.",
-      "tags": [
-        "rails",
-        "startup",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png",
-      "source": "Dev.to",
-      "user": "Mezbah Alam"
     },
     {
       "title": "Processing 1M Chess Games in 15 Seconds with Rust",
@@ -654,7 +624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9102,
+      "stars": 9347,
       "user": "openai"
     },
     {
@@ -669,8 +639,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "meodai"
+    },
+    {
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "iZiTTMarvin"
     },
     {
       "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
@@ -684,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 1067,
       "user": "therealXiaomanChu"
     },
     {
@@ -699,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "compozy"
     },
     {
@@ -998,7 +983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9102,
+      "stars": 9347,
       "user": "openai"
     },
     {
@@ -1013,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 603,
       "user": "6551Team"
     },
     {
@@ -1028,23 +1013,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "meodai"
-    },
-    {
-      "title": "cdppcorp/KESE-KIT - KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
-      "url": "https://github.com/cdppcorp/KESE-KIT",
-      "published_at": "2026-03-27T10:08:55Z",
-      "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
-      "source": "GitHub",
-      "stars": 303,
-      "user": "cdppcorp"
     },
     {
       "title": "hellowind777/hello2cc - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
@@ -1058,8 +1028,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 305,
       "user": "hellowind777"
+    },
+    {
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "iZiTTMarvin"
     },
     {
       "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
@@ -1073,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "hitmux"
     }
   ],
@@ -1255,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4904,
+      "stars": 4995,
       "user": "titanwings"
     },
     {
@@ -1270,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1818,
+      "stars": 1819,
       "user": "garinasset"
     },
     {
@@ -1285,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 1067,
       "user": "therealXiaomanChu"
     },
     {
@@ -1300,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 726,
       "user": "adamlyttleapps"
     },
     {
@@ -1315,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "hitmux"
     }
   ],
@@ -1455,21 +1440,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
-      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
-      "published_at": "2026-03-31T20:52:09Z",
-      "description": "The Problem   In my previous post, I shared how I used an AI agent framework during a train...",
-      "tags": [
-        "serverless",
-        "dataengineering",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnm7ueuuqqy7yjs6hgkme.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
     },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
@@ -1824,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 9102,
+      "stars": 9347,
       "user": "openai"
     },
     {
@@ -1839,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 603,
       "user": "6551Team"
     },
     {
@@ -1854,23 +1824,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "meodai"
-    },
-    {
-      "title": "cdppcorp/KESE-KIT - KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
-      "url": "https://github.com/cdppcorp/KESE-KIT",
-      "published_at": "2026-03-27T10:08:55Z",
-      "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
-      "source": "GitHub",
-      "stars": 303,
-      "user": "cdppcorp"
     },
     {
       "title": "hellowind777/hello2cc - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
@@ -1884,8 +1839,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 305,
       "user": "hellowind777"
+    },
+    {
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "iZiTTMarvin"
     },
     {
       "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
@@ -1899,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4904,
+      "stars": 4995,
       "user": "titanwings"
     },
     {
@@ -1914,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1818,
+      "stars": 1819,
       "user": "garinasset"
     },
     {
@@ -1929,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 1067,
       "user": "therealXiaomanChu"
     },
     {
@@ -1944,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 726,
       "user": "adamlyttleapps"
     },
     {
@@ -1959,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "hitmux"
     },
     {
@@ -1974,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "compozy"
     },
     {
@@ -1989,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "isboyjc"
     },
     {
@@ -2004,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14845215?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "dogadmin"
     },
     {
@@ -2019,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "lemire"
     },
     {
