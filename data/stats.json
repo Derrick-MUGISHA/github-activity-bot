@@ -11,7 +11,7 @@
     "Python": 20,
     "DevOps": 2,
     "WebDev": 3,
-    "Mobile": 1,
+    "Mobile": 0,
     "Cloud": 6,
     "Database": 3,
     "Security": 6,
@@ -25,15 +25,14 @@
     "Ruby": 1,
     "Rust": 2,
     "PHP": 1,
-    "CSharp": 1,
-    "Kotlin": 1
+    "CSharp": 1
   },
   "by_date": {
-    "2026-04-01": 15,
+    "2026-04-01": 16,
     "2026-03-31": 17,
     "2026-03-30": 17,
     "2026-03-29": 7,
-    "2026-03-27": 5,
+    "2026-03-27": 4,
     "2026-03-26": 2,
     "2026-03-23": 3,
     "2026-03-17": 1,
@@ -95,14 +94,13 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "19.5",
-    "Python": "24.4",
-    "JavaScript": "28.0",
-    "Java": "20.7",
+    "Go": "19.8",
+    "Python": "24.7",
+    "JavaScript": "28.4",
+    "Java": "21.0",
     "Ruby": "1.2",
-    "Rust": "2.4",
+    "Rust": "2.5",
     "PHP": "1.2",
-    "CSharp": "1.2",
-    "Kotlin": "1.2"
+    "CSharp": "1.2"
   }
 }
