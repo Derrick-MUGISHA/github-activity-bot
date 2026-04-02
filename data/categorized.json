@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8395,
+      "stars": 8645,
       "user": "openai"
     },
     {
@@ -685,23 +685,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 371,
       "user": "meodai"
     },
     {
-      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "url": "https://github.com/oaker-io/wewrite",
-      "published_at": "2026-03-26T14:18:54Z",
-      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 1144,
-      "user": "oaker-io"
+      "stars": 284,
+      "user": "iZiTTMarvin"
     },
     {
       "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
@@ -715,23 +715,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 847,
       "user": "therealXiaomanChu"
     },
     {
-      "title": "rhino-acoustic/NeuronFS - Structure is Context. 0-byte files govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
-      "url": "https://github.com/rhino-acoustic/NeuronFS",
-      "published_at": "2026-03-26T13:25:08Z",
-      "description": "Structure is Context. 0-byte files govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
+      "title": "compozy/compozy - Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
+      "url": "https://github.com/compozy/compozy",
+      "published_at": "2026-03-28T05:24:12Z",
+      "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 121,
-      "user": "rhino-acoustic"
+      "stars": 148,
+      "user": "compozy"
+    },
+    {
+      "title": "ErikHellman/unified-android-cli - A unified CLI for everything related to Android Development",
+      "url": "https://github.com/ErikHellman/unified-android-cli",
+      "published_at": "2026-03-27T07:41:54Z",
+      "description": "A unified CLI for everything related to Android Development",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72444?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "ErikHellman"
     }
   ],
   "JavaScript": [
@@ -1014,23 +1029,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8395,
+      "stars": 8645,
       "user": "openai"
-    },
-    {
-      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "url": "https://github.com/magnum6actual/flipoff",
-      "published_at": "2026-03-26T12:46:35Z",
-      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
-      "source": "GitHub",
-      "stars": 2590,
-      "user": "magnum6actual"
     },
     {
       "title": "6551Team/claude-code-design-guide - GitHub Repository",
@@ -1044,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 586,
       "user": "6551Team"
     },
     {
@@ -1059,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 371,
       "user": "meodai"
     },
     {
@@ -1074,8 +1074,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 299,
       "user": "cdppcorp"
+    },
+    {
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "source": "GitHub",
+      "stars": 284,
+      "user": "iZiTTMarvin"
+    },
+    {
+      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "url": "https://github.com/hitmux/HitCC",
+      "published_at": "2026-03-29T08:44:09Z",
+      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
+      "source": "GitHub",
+      "stars": 645,
+      "user": "hitmux"
     }
   ],
   "Python": [
@@ -1271,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4609,
+      "stars": 4670,
       "user": "titanwings"
     },
     {
@@ -1286,38 +1316,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1808,
+      "stars": 1812,
       "user": "garinasset"
-    },
-    {
-      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "url": "https://github.com/oaker-io/wewrite",
-      "published_at": "2026-03-26T14:18:54Z",
-      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
-      "source": "GitHub",
-      "stars": 1144,
-      "user": "oaker-io"
-    },
-    {
-      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
-      "url": "https://github.com/jxnxts/mcp-brasil",
-      "published_at": "2026-03-26T00:38:54Z",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
-      "source": "GitHub",
-      "stars": 1024,
-      "user": "jxnxts"
     },
     {
       "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
@@ -1331,8 +1331,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 847,
       "user": "therealXiaomanChu"
+    },
+    {
+      "title": "adamlyttleapps/claude-skill-aso-appstore-screenshots - GitHub Repository",
+      "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
+      "published_at": "2026-03-29T12:20:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
+      "source": "GitHub",
+      "stars": 697,
+      "user": "adamlyttleapps"
+    },
+    {
+      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "url": "https://github.com/hitmux/HitCC",
+      "published_at": "2026-03-29T08:44:09Z",
+      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
+      "source": "GitHub",
+      "stars": 645,
+      "user": "hitmux"
     }
   ],
   "DevOps": [
@@ -1439,7 +1469,23 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "ErikHellman/unified-android-cli - A unified CLI for everything related to Android Development",
+      "url": "https://github.com/ErikHellman/unified-android-cli",
+      "published_at": "2026-03-27T07:41:54Z",
+      "description": "A unified CLI for everything related to Android Development",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72444?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "ErikHellman"
+    }
+  ],
   "Cloud": [
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
@@ -1839,23 +1885,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8395,
+      "stars": 8645,
       "user": "openai"
-    },
-    {
-      "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "url": "https://github.com/magnum6actual/flipoff",
-      "published_at": "2026-03-26T12:46:35Z",
-      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65552837?v=4",
-      "source": "GitHub",
-      "stars": 2590,
-      "user": "magnum6actual"
     },
     {
       "title": "6551Team/claude-code-design-guide - GitHub Repository",
@@ -1869,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 586,
       "user": "6551Team"
     },
     {
@@ -1884,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 371,
       "user": "meodai"
     },
     {
@@ -1899,8 +1930,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 299,
       "user": "cdppcorp"
+    },
+    {
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "source": "GitHub",
+      "stars": 284,
+      "user": "iZiTTMarvin"
     },
     {
       "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
@@ -1914,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4609,
+      "stars": 4670,
       "user": "titanwings"
     },
     {
@@ -1929,38 +1975,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1808,
+      "stars": 1812,
       "user": "garinasset"
-    },
-    {
-      "title": "oaker-io/wewrite - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "url": "https://github.com/oaker-io/wewrite",
-      "published_at": "2026-03-26T14:18:54Z",
-      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16276127?v=4",
-      "source": "GitHub",
-      "stars": 1144,
-      "user": "oaker-io"
-    },
-    {
-      "title": "jxnxts/mcp-brasil - MCP Server para 41 APIs públicas brasileiras",
-      "url": "https://github.com/jxnxts/mcp-brasil",
-      "published_at": "2026-03-26T00:38:54Z",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16927419?v=4",
-      "source": "GitHub",
-      "stars": 1024,
-      "user": "jxnxts"
     },
     {
       "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
@@ -1974,23 +1990,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 847,
       "user": "therealXiaomanChu"
     },
     {
-      "title": "vkhanhqui/figma-mcp-go - Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
-      "url": "https://github.com/vkhanhqui/figma-mcp-go",
-      "published_at": "2026-03-26T11:06:26Z",
-      "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
+      "title": "adamlyttleapps/claude-skill-aso-appstore-screenshots - GitHub Repository",
+      "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
+      "published_at": "2026-03-29T12:20:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
+      "source": "GitHub",
+      "stars": 697,
+      "user": "adamlyttleapps"
+    },
+    {
+      "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "url": "https://github.com/hitmux/HitCC",
+      "published_at": "2026-03-29T08:44:09Z",
+      "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
+      "source": "GitHub",
+      "stars": 645,
+      "user": "hitmux"
+    },
+    {
+      "title": "compozy/compozy - Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
+      "url": "https://github.com/compozy/compozy",
+      "published_at": "2026-03-28T05:24:12Z",
+      "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64468109?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 269,
-      "user": "vkhanhqui"
+      "stars": 148,
+      "user": "compozy"
     },
     {
       "title": "isboyjc/GoProxy - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。",
@@ -2004,23 +2050,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "isboyjc"
-    },
-    {
-      "title": "rhino-acoustic/NeuronFS - Structure is Context. 0-byte files govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
-      "url": "https://github.com/rhino-acoustic/NeuronFS",
-      "published_at": "2026-03-26T13:25:08Z",
-      "description": "Structure is Context. 0-byte files govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80452162?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "rhino-acoustic"
     },
     {
       "title": "dogadmin/ProcIR - GitHub Repository",
@@ -2051,6 +2082,21 @@
       "source": "GitHub",
       "stars": 111,
       "user": "lemire"
+    },
+    {
+      "title": "ErikHellman/unified-android-cli - A unified CLI for everything related to Android Development",
+      "url": "https://github.com/ErikHellman/unified-android-cli",
+      "published_at": "2026-03-27T07:41:54Z",
+      "description": "A unified CLI for everything related to Android Development",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72444?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "ErikHellman"
     }
   ]
 }
