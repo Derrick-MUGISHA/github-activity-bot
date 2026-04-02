@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-02-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 61 (58.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
@@ -61,11 +61,10 @@
 JavaScript      ██████████████████████████████ 28.9 (28.9%)
 Python          ████████████████████████ 22.9 (22.9%)
 Java            ████████████████████████ 22.9 (22.9%)
-Go              ███████████████████ 18.1 (18.1%)
+Go              ████████████████████ 19.3 (19.3%)
 Rust            ████ 3.6 (3.6%)
 Ruby            █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
-CSharp          █ 1.2 (1.2%)
 
 ```
 
@@ -74,18 +73,17 @@ pie title Programming Languages Distribution
     "JavaScript" : 24
     "Python" : 19
     "Java" : 19
-    "Go" : 15
+    "Go" : 16
     "Rust" : 3
     "Ruby" : 1
     "PHP" : 1
-    "CSharp" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![career](https://img.shields.io/badge/career-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
+![ai](https://img.shields.io/badge/ai-29-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
 
 
 
@@ -125,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-02 23:00 CAT)
+## 📅 Latest Updates (2026-04-03 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +214,7 @@ npm run test
 - [What I Learned from Reading Claude Code’s Reconstructed Source](https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf) _[Dev.to]_
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
 
-_Last automated update: Thu, 02 Apr 2026 23:59:33 CAT_
+_Last automated update: Fri, 03 Apr 2026 00:40:37 CAT_
 
 
 
@@ -224,36 +222,36 @@ _Last automated update: Thu, 02 Apr 2026 23:59:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -287,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 02 Apr 2026 21:59:33 GMT</b><br/>
+  <b>Last automated update: Thu, 02 Apr 2026 22:40:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
