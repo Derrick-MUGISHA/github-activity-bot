@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
+      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
+      "published_at": "2026-04-01T10:00:00Z",
+      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
+      "tags": [
+        "opensource",
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
+      "source": "Dev.to",
+      "user": "Ayu Adiati"
+    },
+    {
       "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
       "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
       "published_at": "2026-04-01T12:44:00Z",
@@ -14,20 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg",
       "source": "Dev.to",
       "user": "Ryan Swift"
-    },
-    {
-      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
-      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
-      "published_at": "2026-04-01T10:00:00Z",
-      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
-      "tags": [
-        "opensource",
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
-      "source": "Dev.to",
-      "user": "Ayu Adiati"
     },
     {
       "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
@@ -75,21 +75,6 @@
       "user": "Lakhan Samani"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
-      "published_at": "2026-04-01T15:25:36Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "python",
-        "gemini",
-        "awsfargate",
-        "geminilive"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
       "published_at": "2026-03-31T13:58:35Z",
@@ -134,6 +119,21 @@
       "user": "Tarek"
     },
     {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
+      "published_at": "2026-04-01T15:25:36Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "python",
+        "gemini",
+        "awsfargate",
+        "geminilive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Antigravity: My Approach to Deliver the Most Assured Value for the Least Money",
       "url": "https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip",
       "published_at": "2026-04-01T05:49:34Z",
@@ -162,21 +162,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
       "source": "Dev.to",
       "user": "Jen Looper"
-    },
-    {
-      "title": "Implementing a RAG system: Walk",
-      "url": "https://dev.to/gde/implementing-a-rag-system-walk-4h76",
-      "published_at": "2026-03-31T17:00:00Z",
-      "description": "Now that we've established the basics in our \"Crawl\" phase, it's time to pick up the pace. In this...",
-      "tags": [
-        "rag",
-        "genai",
-        "opensource",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg89xhp7lrasjb54etzb.png",
-      "source": "Dev.to",
-      "user": "Glen Yu"
     },
     {
       "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
@@ -251,6 +236,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvjn6amldbsv4xhdudmw.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs",
+      "url": "https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j",
+      "published_at": "2026-03-31T18:56:42Z",
+      "description": "In our agent factory holiday special, Don McCasland and I were joined by Kyle Meggs, Senior Product...",
+      "tags": [
+        "ai",
+        "agents",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftku7qy5qx6zykj23of00.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
@@ -670,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8645,
+      "stars": 8958,
       "user": "openai"
     },
     {
@@ -685,23 +684,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 373,
       "user": "meodai"
-    },
-    {
-      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
-      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
-      "published_at": "2026-03-31T12:42:54Z",
-      "description": "针对cc客户端源码的详细讲解，面向新手。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
-      "source": "GitHub",
-      "stars": 284,
-      "user": "iZiTTMarvin"
     },
     {
       "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
@@ -715,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 947,
       "user": "therealXiaomanChu"
     },
     {
@@ -730,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 167,
       "user": "compozy"
     },
     {
@@ -1029,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8645,
+      "stars": 8958,
       "user": "openai"
     },
     {
@@ -1044,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 599,
       "user": "6551Team"
     },
     {
@@ -1059,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 373,
       "user": "meodai"
     },
     {
@@ -1074,23 +1058,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "cdppcorp"
     },
     {
-      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
-      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
-      "published_at": "2026-03-31T12:42:54Z",
-      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "title": "hellowind777/hello2cc - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
+      "url": "https://github.com/hellowind777/hello2cc",
+      "published_at": "2026-03-30T14:21:24Z",
+      "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 284,
-      "user": "iZiTTMarvin"
+      "stars": 294,
+      "user": "hellowind777"
     },
     {
       "title": "hitmux/HitCC - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
@@ -1104,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 646,
       "user": "hitmux"
     }
   ],
@@ -1301,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4670,
+      "stars": 4831,
       "user": "titanwings"
     },
     {
@@ -1316,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1812,
+      "stars": 1816,
       "user": "garinasset"
     },
     {
@@ -1331,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 947,
       "user": "therealXiaomanChu"
     },
     {
@@ -1346,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 711,
       "user": "adamlyttleapps"
     },
     {
@@ -1361,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 646,
       "user": "hitmux"
     }
   ],
@@ -1885,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 8645,
+      "stars": 8958,
       "user": "openai"
     },
     {
@@ -1900,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 599,
       "user": "6551Team"
     },
     {
@@ -1915,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 373,
       "user": "meodai"
     },
     {
@@ -1930,23 +1914,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218273605?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "cdppcorp"
     },
     {
-      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
-      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
-      "published_at": "2026-03-31T12:42:54Z",
-      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "title": "hellowind777/hello2cc - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
+      "url": "https://github.com/hellowind777/hello2cc",
+      "published_at": "2026-03-30T14:21:24Z",
+      "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 284,
-      "user": "iZiTTMarvin"
+      "stars": 294,
+      "user": "hellowind777"
     },
     {
       "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
@@ -1960,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 4670,
+      "stars": 4831,
       "user": "titanwings"
     },
     {
@@ -1975,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
       "source": "GitHub",
-      "stars": 1812,
+      "stars": 1816,
       "user": "garinasset"
     },
     {
@@ -1990,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 947,
       "user": "therealXiaomanChu"
     },
     {
@@ -2005,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 711,
       "user": "adamlyttleapps"
     },
     {
@@ -2020,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242794179?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 646,
       "user": "hitmux"
     },
     {
@@ -2035,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 167,
       "user": "compozy"
     },
     {
@@ -2065,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14845215?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "dogadmin"
     },
     {
@@ -2080,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "lemire"
     },
     {

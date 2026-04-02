@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 53,
+    "AI": 52,
     "JavaScript": 26,
     "Python": 19,
     "DevOps": 2,
@@ -30,8 +30,8 @@
   },
   "by_date": {
     "2026-04-01": 15,
-    "2026-03-31": 15,
-    "2026-03-30": 19,
+    "2026-03-31": 14,
+    "2026-03-30": 20,
     "2026-03-29": 10,
     "2026-03-27": 6,
     "2026-03-26": 1,
@@ -71,7 +71,7 @@
     "2026-03-28": 3
   },
   "top_tags": {
-    "ai": 21,
+    "ai": 22,
     "github": 15,
     "open-source": 15,
     "webdev": 10,
@@ -80,16 +80,16 @@
     "Python": 10,
     "javascript": 9,
     "discuss": 8,
-    "programming": 8,
     "python": 8,
-    "opensource": 7,
+    "programming": 8,
+    "opensource": 6,
     "go": 6,
     "career": 5,
     "tutorial": 5,
+    "agents": 5,
     "devchallenge": 4,
     "llm": 4,
     "productivity": 4,
-    "agents": 4,
     "418challenge": 3
   },
   "trending_topics": [],
