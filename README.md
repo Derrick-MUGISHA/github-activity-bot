@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-02-orange)
 
@@ -28,29 +28,29 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.2%)
 
-**Cloud**: 🟦🟦 6 (5.7%)
+**Security**: 🟦🟦 6 (5.8%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**Cloud**: 🟦🟦 5 (4.8%)
 
 **WebDev**: 🟦 3 (2.9%)
 
 **Database**: 🟦 3 (2.9%)
 
-**DevOps**: 🟦 2 (1.9%)
+**DevOps**:  1 (1.0%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,14 +58,14 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.4 (28.4%)
-Python          ██████████████████████████ 24.7 (24.7%)
-Java            ██████████████████████ 21.0 (21.0%)
-Go              █████████████████████ 19.8 (19.8%)
+JavaScript      ██████████████████████████████ 28.7 (28.7%)
+Python          ██████████████████████████ 25.0 (25.0%)
+Java            ██████████████████████ 21.3 (21.3%)
+Go              ████████████████████ 18.8 (18.8%)
 Rust            ███ 2.5 (2.5%)
-Ruby            █ 1.2 (1.2%)
-PHP             █ 1.2 (1.2%)
-CSharp          █ 1.2 (1.2%)
+Ruby            █ 1.3 (1.3%)
+PHP             █ 1.3 (1.3%)
+CSharp          █ 1.3 (1.3%)
 
 ```
 
@@ -74,7 +74,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 23
     "Python" : 20
     "Java" : 17
-    "Go" : 16
+    "Go" : 15
     "Rust" : 2
     "Ruby" : 1
     "PHP" : 1
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-02 14:00 CAT)
+## 📅 Latest Updates (2026-04-02 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -208,15 +208,15 @@ npm run test
 - [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62) _[Dev.to]_
 - [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) _[Dev.to]_
-- [The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1) _[Dev.to]_
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
+- [The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1) _[Dev.to]_
 - [Welcome Thread - v371](https://dev.to/devteam/welcome-thread-v371-406b) _[Dev.to]_
 - [How to start self-hosting with Coolify 4 on a VPS](https://dev.to/serpapi/how-to-start-self-hosting-with-coolify-4-on-a-vps-44ob) _[Dev.to]_
 - [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
 - [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84) _[Dev.to]_
 
-_Last automated update: Thu, 02 Apr 2026 14:37:29 CAT_
+_Last automated update: Thu, 02 Apr 2026 16:07:27 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 02 Apr 2026 14:37:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Execution timing, event loop phases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 02 Apr 2026 12:37:29 GMT</b><br/>
+  <b>Last automated update: Thu, 02 Apr 2026 14:07:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
