@@ -324,21 +324,6 @@
       "user": "Mark Townsend"
     },
     {
-      "title": "Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App",
-      "url": "https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae",
-      "published_at": "2026-03-31T23:17:59Z",
-      "description": "Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App   In the rapidly evolving...",
-      "tags": [
-        "angular",
-        "firebase",
-        "gemini",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvjn6amldbsv4xhdudmw.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
       "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
       "published_at": "2026-03-31T02:37:02Z",
@@ -425,21 +410,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
       "source": "Dev.to",
       "user": "Scarlett Attensil"
-    },
-    {
-      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
-      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
-      "published_at": "2026-03-31T20:52:09Z",
-      "description": "The Problem   In my previous post, I shared how I used an AI agent framework during a train...",
-      "tags": [
-        "serverless",
-        "dataengineering",
-        "cloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnm7ueuuqqy7yjs6hgkme.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -582,6 +552,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
       "source": "Dev.to",
       "user": "Matt Cool"
+    },
+    {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Getting Started with Qwen3.5 Vision-Language Models",
+      "url": "https://dev.to/digitalocean/getting-started-with-qwen35-vision-language-models-3ej3",
+      "published_at": "2026-03-17T16:00:00Z",
+      "description": "This article was originally written by James Skelton (Senior AI/ML Technical Content Strategist...",
+      "tags": [
+        "qwen",
+        "learning",
+        "aimodels",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flyhk43dl0t2ua178arvd.png",
+      "source": "Dev.to",
+      "user": "DigitalOcean"
+    },
+    {
+      "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
+      "published_at": "2026-03-24T18:00:13Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "aws",
+        "agents",
+        "amazonlightsail"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -727,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10934,
+      "stars": 10981,
       "user": "openai"
     },
     {
@@ -742,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 628,
       "user": "tradesdontlie"
     },
     {
@@ -757,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 436,
       "user": "ZhangHanDong"
     },
     {
@@ -787,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4829,
+      "stars": 4860,
       "user": "tvytlx"
     },
     {
@@ -802,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1720,
+      "stars": 1779,
       "user": "therealXiaomanChu"
     },
     {
@@ -881,36 +896,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
       "source": "Dev.to",
       "user": "Jim Zandueta"
-    },
-    {
-      "title": "Managing Secret For Your Golang Apps With The GCP Secret Manager",
-      "url": "https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj",
-      "published_at": "2026-04-01T05:02:19Z",
-      "description": "While developing a serverless application and having a secret key in JSON format, I always looked...",
-      "tags": [
-        "secretmanager",
-        "gcp",
-        "cloudrun",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqeaqgj04v1rzwudl8547.png",
-      "source": "Dev.to",
-      "user": "Razan Fawwaz"
-    },
-    {
-      "title": "Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App",
-      "url": "https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae",
-      "published_at": "2026-03-31T23:17:59Z",
-      "description": "Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App   In the rapidly evolving...",
-      "tags": [
-        "angular",
-        "firebase",
-        "gemini",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvjn6amldbsv4xhdudmw.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -1101,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10934,
+      "stars": 10981,
       "user": "openai"
     },
     {
@@ -1131,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 628,
       "user": "tradesdontlie"
     },
     {
@@ -1146,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 436,
       "user": "ZhangHanDong"
     },
     {
@@ -1210,6 +1195,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
       "source": "Dev.to",
       "user": "T.J. Maher"
+    },
+    {
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "tags": [
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1343,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6040,
+      "stars": 6145,
       "user": "titanwings"
     },
     {
@@ -1358,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4829,
+      "stars": 4860,
       "user": "tvytlx"
     },
     {
@@ -1373,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1720,
+      "stars": 1779,
       "user": "therealXiaomanChu"
     },
     {
@@ -1388,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1458,
       "user": "HKUDS"
     },
     {
@@ -1403,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 927,
       "user": "wquguru"
     }
   ],
@@ -1514,34 +1514,34 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
-      "title": "Managing Secret For Your Golang Apps With The GCP Secret Manager",
-      "url": "https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj",
-      "published_at": "2026-04-01T05:02:19Z",
-      "description": "While developing a serverless application and having a secret key in JSON format, I always looked...",
+      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
+      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
+      "published_at": "2026-03-23T17:53:10Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
       "tags": [
-        "secretmanager",
-        "gcp",
-        "cloudrun",
-        "programming"
+        "gemini",
+        "adkui",
+        "googlecloudrun",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqeaqgj04v1rzwudl8547.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
       "source": "Dev.to",
-      "user": "Razan Fawwaz"
+      "user": "xbill"
     },
     {
-      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
-      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
-      "published_at": "2026-03-31T20:52:09Z",
-      "description": "The Problem   In my previous post, I shared how I used an AI agent framework during a train...",
+      "title": "Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-4g3i",
+      "published_at": "2026-03-24T18:00:13Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
       "tags": [
-        "serverless",
-        "dataengineering",
-        "cloud",
-        "tutorial"
+        "gemini",
+        "aws",
+        "agents",
+        "amazonlightsail"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnm7ueuuqqy7yjs6hgkme.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2aj9lshemyqmd4mynrl4.png",
       "source": "Dev.to",
-      "user": "Patricio Navarro"
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1753,21 +1753,6 @@
       "user": "Malik Sohaib iqbal"
     },
     {
-      "title": "🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows",
-      "url": "https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d",
-      "published_at": "2026-03-30T22:02:55Z",
-      "description": "A lightweight Rust CLI to manage multi-monitor layouts on Windows. If you frequently change your screen layout, this tool can help by saving configurations as profiles and applying them with a single command.",
-      "tags": [
-        "rust",
-        "cli",
-        "windows",
-        "scoop"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwfenmb1a232w2r519zdu.png",
-      "source": "Dev.to",
-      "user": "OsirisFrik"
-    },
-    {
       "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
       "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
       "published_at": "2026-04-01T02:37:52Z",
@@ -1828,6 +1813,21 @@
       "user": "Lacy Morrow"
     },
     {
+      "title": "Bad Code Is a High-Interest Loan: How Technical Debt Slowly Kills Team Velocity",
+      "url": "https://dev.to/gavincettolo/bad-code-is-a-high-interest-loan-how-technical-debt-slowly-kills-team-velocity-lac",
+      "published_at": "2026-03-31T07:30:00Z",
+      "description": "We were moving fast.  Features shipped every week.  Stakeholders were happy.  The backlog was finally...",
+      "tags": [
+        "webdev",
+        "programming",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhtk8qjaq4u6tmgw6im7.jpg",
+      "source": "Dev.to",
+      "user": "Gavin Cettolo"
+    },
+    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10934,
+      "stars": 10981,
       "user": "openai"
     },
     {
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 628,
       "user": "tradesdontlie"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 436,
       "user": "ZhangHanDong"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6040,
+      "stars": 6145,
       "user": "titanwings"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4829,
+      "stars": 4860,
       "user": "tvytlx"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1720,
+      "stars": 1779,
       "user": "therealXiaomanChu"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1458,
       "user": "HKUDS"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 927,
       "user": "wquguru"
     },
     {
@@ -2008,6 +2008,21 @@
       "user": "maxigo-web"
     },
     {
+      "title": "maaslalani/sheets - Terminal based spreadsheet tool",
+      "url": "https://github.com/maaslalani/sheets",
+      "published_at": "2026-04-01T08:20:07Z",
+      "description": "Terminal based spreadsheet tool",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
+      "source": "GitHub",
+      "stars": 221,
+      "user": "maaslalani"
+    },
+    {
       "title": "maxigo-web/maxigo-client - Idiomatic Go HTTP client for Max Bot API — zero dependencies, context support, structured errors",
       "url": "https://github.com/maxigo-web/maxigo-client",
       "published_at": "2026-03-29T01:45:05Z",
@@ -2023,21 +2038,6 @@
       "user": "maxigo-web"
     },
     {
-      "title": "maaslalani/sheets - Terminal based spreadsheet tool",
-      "url": "https://github.com/maaslalani/sheets",
-      "published_at": "2026-04-01T08:20:07Z",
-      "description": "Terminal based spreadsheet tool",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
-      "source": "GitHub",
-      "stars": 215,
-      "user": "maaslalani"
-    },
-    {
       "title": "ironsh/iron-proxy - An egress firewall for untrusted workloads.",
       "url": "https://github.com/ironsh/iron-proxy",
       "published_at": "2026-04-01T17:40:30Z",
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 186,
       "user": "ironsh"
     }
   ]
