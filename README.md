@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 61 (58.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Cloud**: 🟦🟦 5 (4.8%)
 
@@ -58,11 +58,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.9 (28.9%)
-Python          ████████████████████████ 22.9 (22.9%)
-Java            ████████████████████████ 22.9 (22.9%)
-Go              ████████████████████ 19.3 (19.3%)
-Rust            ████ 3.6 (3.6%)
+JavaScript      ██████████████████████████████ 30.5 (30.5%)
+Java            ███████████████████████ 23.2 (23.2%)
+Python          ██████████████████████ 22.0 (22.0%)
+Go              ███████████████████ 19.5 (19.5%)
+Rust            ██ 2.4 (2.4%)
 Ruby            █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 
@@ -70,11 +70,11 @@ PHP             █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Python" : 19
+    "JavaScript" : 25
     "Java" : 19
+    "Python" : 18
     "Go" : 16
-    "Rust" : 3
+    "Rust" : 2
     "Ruby" : 1
     "PHP" : 1
 ```
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-29-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
+![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![career](https://img.shields.io/badge/career-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-03 4:00 CAT)
+## 📅 Latest Updates (2026-04-03 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -201,8 +201,8 @@ npm run test
 - [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 - [Antigravity: My Approach to Deliver the Most Assured Value for the Least Money](https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip) _[Dev.to]_
 - [Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p) _[Dev.to]_
-- [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
 - [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
+- [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
 - [The Curated, Automated Open Source Portfolio: How It’s Going](https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98) _[Dev.to]_
 - [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
 - [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
 
-_Last automated update: Fri, 03 Apr 2026 04:01:20 CAT_
+_Last automated update: Fri, 03 Apr 2026 06:38:24 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 03 Apr 2026 04:01:20 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. Python: What are generators and when would you use them?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Apr 2026 02:01:20 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Apr 2026 04:38:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
